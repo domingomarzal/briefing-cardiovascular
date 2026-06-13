@@ -11,10 +11,15 @@
   *{box-sizing:border-box;}
   body{margin:0;background:var(--fondo);color:var(--ink);font-family:"Segoe UI",-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif;line-height:1.5;font-size:15px;}
   .wrap{max-width:1240px;margin:24px auto;background:#fff;box-shadow:0 4px 22px rgba(16,21,31,.09);border-radius:14px;overflow:hidden;}
-  .mast{background:linear-gradient(135deg,var(--navy),var(--navy2));color:#fff;padding:30px 32px 26px;}
-  .mast h1{margin:0;font-size:30px;font-weight:800;letter-spacing:-.01em;} .mast h1 .ac{color:var(--teal);}
-  .mast .sub2{margin-top:6px;font-size:18px;font-weight:600;color:#dce7ee;}
-  .mast .sub{margin-top:10px;font-size:13.5px;color:#9fb6c4;letter-spacing:.02em;}
+  .mast{background:linear-gradient(135deg,var(--navy),var(--navy2));color:#fff;padding:30px 32px 24px;}
+  .mast-row{display:flex;justify-content:space-between;align-items:flex-end;gap:20px;flex-wrap:wrap;}
+  .mast-title{margin:0;font-size:37px;font-weight:800;letter-spacing:-.02em;line-height:1;}
+  .mast-title .ac{color:var(--teal);}
+  .mast-sub{margin-top:11px;font-size:16px;color:#c4d4df;font-weight:500;}
+  .mast-sub b{color:#fff;font-weight:700;letter-spacing:.02em;} .mast-sub .md{color:var(--teal);font-weight:700;margin:0 5px;}
+  .mast-right .tag{font-size:16px;color:#c4d4df;font-weight:600;white-space:nowrap;}
+  .mast-rule{height:1px;background:rgba(255,255,255,.16);margin-top:20px;}
+  @media(max-width:640px){.mast-title{font-size:27px;}.mast-row{align-items:flex-start;}}
   main{padding:22px 32px 34px;}
   h2{font-size:16px;color:var(--navy);border-bottom:2px solid var(--teal);padding-bottom:6px;margin:30px 0 12px;}
   p.intro{font-size:14px;color:#37414f;text-align:justify;}
@@ -41,9 +46,14 @@
 <body>
 <div class="wrap">
   <div class="mast">
-    <h1>Briefing <span class="ac">Cardiovascular</span></h1>
-    <div class="sub2">Criterios y metodología</div>
-    <div class="sub">UICAR · Quirónsalud</div>
+    <div class="mast-row">
+      <div class="mast-left">
+        <h1 class="mast-title">Briefing <span class="ac">Cardiovascular</span></h1>
+        <div class="mast-sub"><b>UICAR</b><span class="md">·</span>Quirónsalud</div>
+      </div>
+      <div class="mast-right"><span class="tag">Criterios y metodología</span></div>
+    </div>
+    <div class="mast-rule"></div>
   </div>
   <main>
 
@@ -114,20 +124,50 @@
       </table>
     </div>
 
-    <h2>4 · Cuentas de sociedades y revistas (alimentan el criterio REP)</h2>
+    <h2>4 · Cuentas que alimentan el criterio REP</h2>
+    <p class="intro" style="margin-top:0;">Cuentas verificadas que se monitorizan para estimar la repercusión de cada artículo (criterio REP). Cifras de seguidores en X aproximadas (junio 2026). Cada cuenta enlaza a su perfil.</p>
+
+    <p class="intro" style="margin:14px 0 4px;font-weight:700;color:#103a47;">Sociedades científicas</p>
     <div class="scroll">
       <table>
-        <thead class="jt"><tr><th>Cuenta / fuente</th><th>Handle (X)</th><th class="num">Seguidores ≈</th><th>Plataformas</th></tr></thead>
+        <thead class="jt"><tr><th>Sociedad</th><th>Cuenta (X)</th><th class="num">Seguidores ≈</th></tr></thead>
         <tbody>
-          <tr><td class="rev">American Heart Association</td><td class="handle">@American_Heart · @AHAScience</td><td class="numb">4,0 M</td><td>X · LinkedIn · Instagram</td></tr>
-          <tr><td class="rev">American College of Cardiology</td><td class="handle"><a href="https://x.com/ACCinTouch" target="_blank" rel="noopener">@ACCinTouch</a></td><td class="numb">680 k</td><td>X · LinkedIn · Instagram</td></tr>
-          <tr><td class="rev">European Society of Cardiology</td><td class="handle"><a href="https://x.com/escardio" target="_blank" rel="noopener">@escardio</a></td><td class="numb">620 k</td><td>X · LinkedIn · Instagram</td></tr>
-          <tr><td class="rev">Medscape Cardiology</td><td class="handle"><a href="https://x.com/theheartorg" target="_blank" rel="noopener">@theheartorg</a></td><td class="numb">190 k</td><td>X · LinkedIn · Instagram</td></tr>
-          <tr><td class="rev">Sociedad Española de Cardiología</td><td class="handle"><a href="https://x.com/secardiologia" target="_blank" rel="noopener">@secardiologia</a></td><td class="numb">75 k</td><td>X · LinkedIn · Instagram</td></tr>
-          <tr><td class="rev">Revistas (sus cuentas)</td><td class="handle">@NEJM · @TheLancet · @JAMA_current · @JAMACardio · @ESC_Journals · @CircAHA · @JACCJournals · @Heart_BMJ · @EP_Europace</td><td class="numb">—</td><td>X · LinkedIn</td></tr>
+          <tr><td class="rev">American Heart Association (AHA)</td><td class="handle"><a href="https://x.com/American_Heart" target="_blank" rel="noopener">@American_Heart</a></td><td class="numb">~321 k</td></tr>
+          <tr><td class="rev">American College of Cardiology (ACC)</td><td class="handle"><a href="https://x.com/ACCinTouch" target="_blank" rel="noopener">@ACCinTouch</a></td><td class="numb">~158 k</td></tr>
+          <tr><td class="rev">European Society of Cardiology (ESC)</td><td class="handle"><a href="https://x.com/escardio" target="_blank" rel="noopener">@escardio</a></td><td class="numb">~150 k</td></tr>
+          <tr><td class="rev">Sociedad Española de Cardiología (SEC)</td><td class="handle"><a href="https://x.com/secardiologia" target="_blank" rel="noopener">@secardiologia</a></td><td class="numb">~60 k</td></tr>
         </tbody>
       </table>
     </div>
+
+    <p class="intro" style="margin:18px 0 4px;font-weight:700;color:#103a47;">Revistas médicas y Medscape</p>
+    <div class="scroll">
+      <table>
+        <thead class="jt"><tr><th>Revista / medio</th><th>Cuenta (X)</th><th class="num">Seguidores ≈</th></tr></thead>
+        <tbody>
+          <tr><td class="rev">Medscape</td><td class="handle"><a href="https://x.com/Medscape" target="_blank" rel="noopener">@Medscape</a></td><td class="numb">~267 k</td></tr>
+          <tr><td class="rev">Medscape Cardiology (theheart.org)</td><td class="handle"><a href="https://x.com/theheartorg" target="_blank" rel="noopener">@theheartorg</a></td><td class="numb">~44 k</td></tr>
+          <tr><td class="rev">N Engl J Med</td><td class="handle"><a href="https://x.com/NEJM" target="_blank" rel="noopener">@NEJM</a></td><td class="numb">~980 k</td></tr>
+          <tr><td class="rev">The Lancet</td><td class="handle"><a href="https://x.com/TheLancet" target="_blank" rel="noopener">@TheLancet</a></td><td class="numb">~736 k</td></tr>
+          <tr><td class="rev">JAMA</td><td class="handle"><a href="https://x.com/JAMA_current" target="_blank" rel="noopener">@JAMA_current</a></td><td class="numb">~494 k</td></tr>
+          <tr><td class="rev">BMJ</td><td class="handle"><a href="https://x.com/bmj_latest" target="_blank" rel="noopener">@bmj_latest</a></td><td class="numb">~487 k</td></tr>
+          <tr><td class="rev">Nature Medicine</td><td class="handle"><a href="https://x.com/NatureMedicine" target="_blank" rel="noopener">@NatureMedicine</a></td><td class="numb">~355 k</td></tr>
+          <tr><td class="rev">Eur Heart J <span style="color:#8c97a6;">(y familia de revistas ESC)</span></td><td class="handle"><a href="https://x.com/ESC_Journals" target="_blank" rel="noopener">@ESC_Journals</a></td><td class="numb">~119 k</td></tr>
+          <tr><td class="rev">J Am Coll Cardiol <span style="color:#8c97a6;">(y familia JACC)</span></td><td class="handle"><a href="https://x.com/JACCJournals" target="_blank" rel="noopener">@JACCJournals</a></td><td class="numb">~118 k</td></tr>
+          <tr><td class="rev">Circulation</td><td class="handle"><a href="https://x.com/CircAHA" target="_blank" rel="noopener">@CircAHA</a></td><td class="numb">~79 k</td></tr>
+          <tr><td class="rev">Ann Intern Med</td><td class="handle"><a href="https://x.com/AnnalsofIM" target="_blank" rel="noopener">@AnnalsofIM</a></td><td class="numb">~73 k</td></tr>
+          <tr><td class="rev">Heart</td><td class="handle"><a href="https://x.com/Heart_BMJ" target="_blank" rel="noopener">@Heart_BMJ</a></td><td class="numb">~67 k</td></tr>
+          <tr><td class="rev">JAMA Cardiology</td><td class="handle"><a href="https://x.com/JAMACardio" target="_blank" rel="noopener">@JAMACardio</a></td><td class="numb">~50 k</td></tr>
+          <tr><td class="rev">EuroIntervention</td><td class="handle"><a href="https://x.com/EuroInterventio" target="_blank" rel="noopener">@EuroInterventio</a></td><td class="numb">~36 k</td></tr>
+          <tr><td class="rev">Rev Esp Cardiol</td><td class="handle"><a href="https://x.com/RevEspCardiol" target="_blank" rel="noopener">@RevEspCardiol</a></td><td class="numb">~23 k</td></tr>
+          <tr><td class="rev">Heart Rhythm</td><td class="handle"><a href="https://x.com/hrs_journal" target="_blank" rel="noopener">@hrs_journal</a></td><td class="numb">~22 k</td></tr>
+          <tr><td class="rev">Hypertension</td><td class="handle"><a href="https://x.com/HyperAHA" target="_blank" rel="noopener">@HyperAHA</a></td><td class="numb">~11 k</td></tr>
+          <tr><td class="rev">Circ Cardiovasc Interv</td><td class="handle"><a href="https://x.com/CircIntv" target="_blank" rel="noopener">@CircIntv</a></td><td class="numb">~9 k</td></tr>
+          <tr><td class="rev">Circ Heart Fail</td><td class="handle"><a href="https://x.com/CircHF" target="_blank" rel="noopener">@CircHF</a></td><td class="numb">~8 k</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="intro" style="margin-top:8px;font-size:12px;color:#5d6878;">Las revistas de la familia <b>ESC</b> (Eur Heart J, EHJ Cardiovasc Imaging, Europace, Eur J Prev Cardiol, Eur J Heart Fail) no tienen cuenta propia con tracción: publican vía <a href="https://x.com/ESC_Journals" target="_blank" rel="noopener">@ESC_Journals</a>. Las de la familia <b>JACC</b> (Cardiovascular Imaging, Cardiovascular Interventions, Heart Failure, Clinical Electrophysiology), vía <a href="https://x.com/JACCJournals" target="_blank" rel="noopener">@JACCJournals</a>. Cifras aproximadas (X bloquea la lectura en vivo).</p>
 
     <h2>5 · Líderes de opinión digitales (los más potentes del mundo, verificados)</h2>
     <div class="rubric">
