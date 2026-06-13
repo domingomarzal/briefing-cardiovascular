@@ -78,12 +78,11 @@
   .indice{margin:24px 0 4px;border:1px solid var(--linea);border-radius:10px;padding:6px;}
   .indice h3{margin:6px 12px 8px;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--suave);}
   .indice ol{margin:0;padding:0;list-style:none;display:grid;grid-template-columns:1fr 1fr;gap:1px;}
-  .indice li .ix{display:flex;justify-content:space-between;align-items:center;gap:8px;cursor:pointer;
-    color:var(--ink);font-size:13.5px;padding:8px 16px;border-radius:7px;}
+  .indice li .ix{display:flex;justify-content:flex-start;align-items:center;gap:8px;cursor:pointer;text-decoration:none;
+    color:var(--ink);font-size:14.5px;padding:8px 16px;border-radius:7px;}
   .indice li .ix:hover{background:#f5f7fa;}
-  .indice .nn{font-weight:800;font-size:11px;margin-right:11px;display:inline-flex;align-items:center;justify-content:center;
-    width:24px;height:18px;border-radius:5px;letter-spacing:.02em;vertical-align:middle;}
-  .indice .cc{color:var(--suave);font-size:12px;}
+  .indice .nn{font-weight:800;font-size:12px;margin-right:11px;display:inline-flex;align-items:center;justify-content:center;
+    width:25px;height:19px;border-radius:5px;letter-spacing:.02em;vertical-align:middle;}
 
   /* FILTROS */
   .filtros{display:flex;gap:8px;flex-wrap:wrap;margin:20px 2px 4px;align-items:center;justify-content:flex-end;}
@@ -115,8 +114,7 @@
   .sec-num{flex:0 0 auto;width:30px;height:30px;border-radius:8px;
     display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:800;letter-spacing:.02em;}
   .sec-head h2{margin:0;font-size:17px;color:var(--navy);font-weight:800;letter-spacing:-.01em;}
-  .sec-head .cnt{margin-left:auto;font-size:12px;color:var(--suave);}
-  .sec-head .chev{flex:0 0 auto;color:var(--suave);font-size:14px;transition:transform .18s ease;}
+  .sec-head .chev{flex:0 0 auto;margin-left:auto;font-size:15px;line-height:1;transition:transform .18s ease;}
   .sec-body{display:none;}
   .sec:target .sec-body{display:block;}
   .sec:target .chev{transform:rotate(90deg);}
@@ -194,16 +192,16 @@
   @media print{.cmodal{display:none!important;}}
 
   /* COLORES DE SECCIÓN */
-  .c1{background:#0f9aa0;color:#fff;} .indice .nn.c1{background:transparent;color:#0f9aa0;}
-  .c2{background:#bf8a2f;color:#fff;} .indice .nn.c2{background:transparent;color:#bf8a2f;}
-  .c3{background:#7a8f3a;color:#fff;} .indice .nn.c3{background:transparent;color:#7a8f3a;}
-  .c4{background:#c0603a;color:#fff;} .indice .nn.c4{background:transparent;color:#c0603a;}
-  .c5{background:#3a78c0;color:#fff;} .indice .nn.c5{background:transparent;color:#3a78c0;}
-  .c6{background:#6a5fb5;color:#fff;} .indice .nn.c6{background:transparent;color:#6a5fb5;}
-  .c7{background:#2e9966;color:#fff;} .indice .nn.c7{background:transparent;color:#2e9966;}
-  .c8{background:#5a7a8c;color:#fff;} .indice .nn.c8{background:transparent;color:#5a7a8c;}
-  .c9{background:#9a4f9e;color:#fff;} .indice .nn.c9{background:transparent;color:#9a4f9e;}
-  .c10{background:#c04a68;color:#fff;} .indice .nn.c10{background:transparent;color:#c04a68;}
+  .c1{background:#0fa6ae;color:#fff;} .indice .nn.c1{background:transparent;color:#0fa6ae;} .chev.t1{color:#0fa6ae;}
+  .c2{background:#e08e0b;color:#fff;} .indice .nn.c2{background:transparent;color:#e08e0b;} .chev.t2{color:#e08e0b;}
+  .c3{background:#5aa82f;color:#fff;} .indice .nn.c3{background:transparent;color:#5aa82f;} .chev.t3{color:#5aa82f;}
+  .c4{background:#e0443c;color:#fff;} .indice .nn.c4{background:transparent;color:#e0443c;} .chev.t4{color:#e0443c;}
+  .c5{background:#2f7fe6;color:#fff;} .indice .nn.c5{background:transparent;color:#2f7fe6;} .chev.t5{color:#2f7fe6;}
+  .c6{background:#8b54d6;color:#fff;} .indice .nn.c6{background:transparent;color:#8b54d6;} .chev.t6{color:#8b54d6;}
+  .c7{background:#11a87d;color:#fff;} .indice .nn.c7{background:transparent;color:#11a87d;} .chev.t7{color:#11a87d;}
+  .c8{background:#e2670c;color:#fff;} .indice .nn.c8{background:transparent;color:#e2670c;} .chev.t8{color:#e2670c;}
+  .c9{background:#d43d8c;color:#fff;} .indice .nn.c9{background:transparent;color:#d43d8c;} .chev.t9{color:#d43d8c;}
+  .c10{background:#4b57c9;color:#fff;} .indice .nn.c10{background:transparent;color:#4b57c9;} .chev.t10{color:#4b57c9;}
 </style>
 </head>
 <body>
@@ -267,16 +265,16 @@
     <div class="indice" id="indice">
       <h3>Secciones</h3>
       <ol>
-<li><a class="ix" href="#s1"><span><span class="nn c1">01</span>Cardiología preventiva</span><span class="cc">5</span></a></li>
-<li><a class="ix" href="#s2"><span><span class="nn c2">02</span>Cardiometabolismo</span><span class="cc">5</span></a></li>
-<li><a class="ix" href="#s3"><span><span class="nn c3">03</span>Dislipemia</span><span class="cc">5</span></a></li>
-<li><a class="ix" href="#s4"><span><span class="nn c4">04</span>Cardiopatía isquémica</span><span class="cc">5</span></a></li>
-<li><a class="ix" href="#s5"><span><span class="nn c5">05</span>Insuficiencia cardíaca</span><span class="cc">5</span></a></li>
-<li><a class="ix" href="#s6"><span><span class="nn c6">06</span>Miocardiopatías</span><span class="cc">5</span></a></li>
-<li><a class="ix" href="#s7"><span><span class="nn c7">07</span>Valvulopatías</span><span class="cc">5</span></a></li>
-<li><a class="ix" href="#s8"><span><span class="nn c8">08</span>Imagen cardíaca</span><span class="cc">5</span></a></li>
-<li><a class="ix" href="#s9"><span><span class="nn c9">09</span>Cardiología intervencionista y estructural</span><span class="cc">5</span></a></li>
-<li><a class="ix" href="#s10"><span><span class="nn c10">10</span>Arritmias y electrofisiología</span><span class="cc">5</span></a></li>
+<li><a class="ix" href="#s1"><span><span class="nn c1">01</span>Cardiología preventiva</span></a></li>
+<li><a class="ix" href="#s2"><span><span class="nn c2">02</span>Cardiometabolismo</span></a></li>
+<li><a class="ix" href="#s3"><span><span class="nn c3">03</span>Dislipemia</span></a></li>
+<li><a class="ix" href="#s4"><span><span class="nn c4">04</span>Cardiopatía isquémica</span></a></li>
+<li><a class="ix" href="#s5"><span><span class="nn c5">05</span>Insuficiencia cardíaca</span></a></li>
+<li><a class="ix" href="#s6"><span><span class="nn c6">06</span>Miocardiopatías</span></a></li>
+<li><a class="ix" href="#s7"><span><span class="nn c7">07</span>Valvulopatías</span></a></li>
+<li><a class="ix" href="#s8"><span><span class="nn c8">08</span>Imagen cardíaca</span></a></li>
+<li><a class="ix" href="#s9"><span><span class="nn c9">09</span>Cardiología intervencionista y estructural</span></a></li>
+<li><a class="ix" href="#s10"><span><span class="nn c10">10</span>Arritmias y electrofisiología</span></a></li>
       </ol>
     </div>
 
@@ -292,7 +290,7 @@
     <section class="sec" id="s1">
       <a class="sec-head" href="#s1" data-sec="1">
         <span class="sec-num c1">01</span><h2>Cardiología preventiva</h2>
-        <span class="cnt">5 artículos</span><span class="chev">▸</span>
+<span class="chev t1">▸</span>
       </a>
       <div class="sec-body">
         <article id="a-track" data-impact="medio"><div class="card-top"><span class="ptype">Ensayo clínico aleatorizado</span><span class="impact"><span class="dot d-medio"></span></span></div><h4><label class="ml" for="cb-a-track">Low-Dose Rivaroxaban and Cardiovascular Events in Advanced Kidney Disease: The TRACK Randomized Clinical Trial</label></h4><div class="a-body"><p>ECA doble ciego en ERC avanzada (estadio 4-5/diálisis) de alto riesgo CV: rivaroxabán 2,5 mg/12 h frente a placebo. No redujo eventos CV (HR 1,09) y aumentó el sangrado mayor (HR 1,51).</p><p class="why"><b>Por qué importa:</b> cierra la puerta a la anticoagulación a dosis vascular en ERC avanzada: ni beneficio isquémico ni seguridad; refuerza no extrapolar COMPASS a esta población.</p><div class="jwrap"><a class="j" href="https://doi.org/10.1001/jama.2026.9379" target="_blank">JAMA <span class="go">↗</span></a></div></div></article>
@@ -307,7 +305,7 @@
     <section class="sec" id="s2">
       <a class="sec-head" href="#s2" data-sec="2">
         <span class="sec-num c2">02</span><h2>Cardiometabolismo</h2>
-        <span class="cnt">5 artículos</span><span class="chev">▸</span>
+<span class="chev t2">▸</span>
       </a>
       <div class="sec-body">
         <article id="a-ckm" data-impact="alto"><div class="card-top"><span class="ptype">Guía de práctica clínica</span><span class="impact"><span class="dot d-alto"></span></span></div><h4><label class="ml" for="cb-a-ckm">2026 AHA/ACC/ADA/ASN Guideline for the Prevention, Detection, Evaluation, and Management of Cardiovascular-Kidney-Metabolic Syndrome</label></h4><div class="a-body"><p>Primera guía conjunta AHA/ACC/ADA/ASN del síndrome cardiovascular-renal-metabólico (CKM); retira y amplía la guía de obesidad de 2013.</p><p class="why"><b>Por qué importa:</b> documento estructural del año: unifica obesidad, DM2, ERC y ECV en un marco único de prevención y manejo integrados.</p><div class="jwrap"><a class="j" href="https://doi.org/10.1161/CIR.0000000000001453" target="_blank">Circulation <span class="go">↗</span></a></div></div></article>
@@ -322,7 +320,7 @@
     <section class="sec" id="s3">
       <a class="sec-head" href="#s3" data-sec="3">
         <span class="sec-num c3">03</span><h2>Dislipemia</h2>
-        <span class="cnt">5 artículos</span><span class="chev">▸</span>
+<span class="chev t3">▸</span>
       </a>
       <div class="sec-body">
         <article id="a-fourier" data-impact="medio"><div class="card-top"><span class="ptype">Análisis de ECA</span><span class="impact"><span class="dot d-medio"></span></span></div><h4><label class="ml" for="cb-a-fourier">Safety of low lipoprotein(a) levels: the FOURIER trial</label></h4><div class="a-body"><p>Análisis de FOURIER (25.090 con Lp(a) basal). Una Lp(a) baja no se asoció a más eventos adversos, salvo a mayor riesgo de diabetes prevalente e incidente.</p><p class="why"><b>Por qué importa:</b> tranquiliza sobre la seguridad de bajar mucho la Lp(a) con las nuevas terapias, matizando solo la señal con diabetes.</p><div class="jwrap"><a class="j" href="https://doi.org/10.1093/eurheartj/ehag398" target="_blank">Eur Heart J <span class="go">↗</span></a></div></div></article>
@@ -337,7 +335,7 @@
     <section class="sec" id="s4">
       <a class="sec-head" href="#s4" data-sec="4">
         <span class="sec-num c4">04</span><h2>Cardiopatía isquémica</h2>
-        <span class="cnt">5 artículos</span><span class="chev">▸</span>
+<span class="chev t4">▸</span>
       </a>
       <div class="sec-body">
         <article id="a-p2y12" data-impact="alto"><div class="card-top"><span class="ptype">Metaanálisis</span><span class="impact"><span class="dot d-alto"></span></span></div><h4><label class="ml" for="cb-a-p2y12">P2Y12 inhibitor monotherapy after abbreviated dual antiplatelet therapy following percutaneous coronary intervention: a meta-analysis</label></h4><div class="a-body"><p>Metaanálisis de 11 ECA (37.443 pacientes). Suspender la aspirina a ≤1 o 3 meses con monoterapia P2Y12 igualó el MACE y redujo el sangrado frente a DAPT 12 meses.</p><p class="why"><b>Por qué importa:</b> refuerza la monoterapia P2Y12 tras DAPT corta como estándar; matiza el riesgo de trombosis del stent con suspensión muy precoz en SCA.</p><div class="jwrap"><a class="j" href="https://doi.org/10.1093/eurheartj/ehag381" target="_blank">Eur Heart J <span class="go">↗</span></a></div></div></article>
@@ -352,7 +350,7 @@
     <section class="sec" id="s5">
       <a class="sec-head" href="#s5" data-sec="5">
         <span class="sec-num c5">05</span><h2>Insuficiencia cardíaca</h2>
-        <span class="cnt">5 artículos</span><span class="chev">▸</span>
+<span class="chev t5">▸</span>
       </a>
       <div class="sec-body">
         <article id="a-shock" data-impact="medio"><div class="card-top"><span class="ptype">Revisión sistemática y metaanálisis</span><span class="impact"><span class="dot d-medio"></span></span></div><h4><label class="ml" for="cb-a-shock">Acute Myocardial Infarction versus Acute Decompensated Heart Failure in Cardiogenic Shock: A Systematic Review and Meta-Analysis of Clinical Phenotypes and Mortality</label></h4><div class="a-body"><p>Metaanálisis de 29 estudios (497.368 pacientes) comparando shock cardiogénico por IAM vs por IC descompensada. El AMI-CS se presenta más fulminante y con mayor mortalidad a corto plazo (OR 1,58).</p><p class="why"><b>Por qué importa:</b> aporta un marco de doble eje (gravedad × etiología) para abordar fenotipos distintos del shock cardiogénico.</p><div class="jwrap"><a class="j" href="https://doi.org/10.1093/ejhf/xuag186" target="_blank">Eur J Heart Fail <span class="go">↗</span></a></div></div></article>
@@ -367,7 +365,7 @@
     <section class="sec" id="s6">
       <a class="sec-head" href="#s6" data-sec="6">
         <span class="sec-num c6">06</span><h2>Miocardiopatías</h2>
-        <span class="cnt">5 artículos</span><span class="chev">▸</span>
+<span class="chev t6">▸</span>
       </a>
       <div class="sec-body">
         <article id="a-sglt2gen" data-impact="medio"><div class="card-top"><span class="ptype">Subanálisis genético de ECA</span><span class="impact"><span class="dot d-medio"></span></span></div><h4><label class="ml" for="cb-a-sglt2gen">Effects of SGLT2 inhibition on incident heart failure in carriers of cardiomyopathy-associated genetic variants (DECLARE-TIMI 58)</label></h4><div class="a-body"><p>Secuenciación exómica en DECLARE-TIMI 58: en portadores de variantes patógenas de miocardiopatía, la dapagliflozina redujo más la hospitalización por IC (HR 0,18 vs 0,70; reducción absoluta 13,0% vs 1,0%).</p><p class="why"><b>Por qué importa:</b> sugiere que los iSGLT2 podrían iniciarse precozmente para prevenir IC en portadores de variantes de miocardiopatía.</p><div class="jwrap"><a class="j" href="https://doi.org/10.1038/s41591-026-04439-x" target="_blank">Nat Med <span class="go">↗</span></a></div></div></article>
@@ -382,7 +380,7 @@
     <section class="sec" id="s7">
       <a class="sec-head" href="#s7" data-sec="7">
         <span class="sec-num c7">07</span><h2>Valvulopatías</h2>
-        <span class="cnt">5 artículos</span><span class="chev">▸</span>
+<span class="chev t7">▸</span>
       </a>
       <div class="sec-body">
         <article id="a-coapt" data-impact="medio"><div class="card-top"><span class="ptype">Análisis de ECA (transportabilidad)</span><span class="impact"><span class="dot d-medio"></span></span></div><h4><label class="ml" for="cb-a-coapt">Estimating the Effects of MTEER in U.S. Practice: A Transportability Analysis of the COAPT Trial</label></h4><div class="a-body"><p>Análisis de transportabilidad de COAPT al registro TVT (15.275 pacientes). El MTEER en práctica real lograría reducciones absolutas a 2 años del 17,0% en hospitalización por IC y 15,4% en muerte.</p><p class="why"><b>Por qué importa:</b> apoya la generalización de los resultados de COAPT a la práctica clínica estadounidense actual, pese a perfiles basales distintos.</p><div class="jwrap"><a class="j" href="https://doi.org/10.1016/j.jacc.2026.04.025" target="_blank">J Am Coll Cardiol <span class="go">↗</span></a></div></div></article>
@@ -397,7 +395,7 @@
     <section class="sec" id="s8">
       <a class="sec-head" href="#s8" data-sec="8">
         <span class="sec-num c8">08</span><h2>Imagen cardíaca</h2>
-        <span class="cnt">5 artículos</span><span class="chev">▸</span>
+<span class="chev t8">▸</span>
       </a>
       <div class="sec-body">
         <article id="a-tctavi" data-impact="medio"><div class="card-top"><span class="ptype">Estudio de imagen</span><span class="impact"><span class="dot d-medio"></span></span></div><h4><label class="ml" for="cb-a-tctavi">CT-Based Risk Stratification of Coronary Obstruction During TAVR: Clinical Utility and a New Volumetric Parameter</label></h4><div class="a-body"><p>Estudio prospectivo (164 pacientes) de un algoritmo de TC para riesgo de obstrucción coronaria en TAVR; un nuevo parámetro volumétrico (VTCV) predijo la obstrucción (AUC 0,841).</p><p class="why"><b>Por qué importa:</b> introduce un parámetro volumétrico TC que mejora la predicción de obstrucción coronaria sobre la distancia VTC clásica.</p><div class="jwrap"><a class="j" href="https://doi.org/10.1016/j.jcin.2026.04.015" target="_blank">JACC Cardiovasc Interv <span class="go">↗</span></a></div></div></article>
@@ -412,7 +410,7 @@
     <section class="sec" id="s9">
       <a class="sec-head" href="#s9" data-sec="9">
         <span class="sec-num c9">09</span><h2>Cardiología intervencionista y estructural</h2>
-        <span class="cnt">5 artículos</span><span class="chev">▸</span>
+<span class="chev t9">▸</span>
       </a>
       <div class="sec-body">
         <article id="a-fetalav" data-impact="medio"><div class="card-top"><span class="ptype">Registro internacional</span><span class="impact"><span class="dot d-medio"></span></span></div><h4><label class="ml" for="cb-a-fetalav">Technical Success of Fetal Aortic Valvuloplasty in Relation to Center Volumes: A Report From the International Fetal Cardiac Intervention Registry</label></h4><div class="a-body"><p>Registro internacional (162 valvuloplastias aórticas fetales, 11 centros). Éxito técnico del 80,2%; el mayor volumen no mejoró el éxito pero sí redujo las muertes fetales periprocedimiento.</p><p class="why"><b>Por qué importa:</b> informa el debate sobre regionalización de la intervención cardiaca fetal: el volumen importa para la supervivencia, no tanto para el éxito técnico.</p><div class="jwrap"><a class="j" href="https://doi.org/10.1161/CIRCINTERVENTIONS.125.015593" target="_blank">Circ Cardiovasc Interv <span class="go">↗</span></a></div></div></article>
@@ -427,7 +425,7 @@
     <section class="sec" id="s10">
       <a class="sec-head" href="#s10" data-sec="10">
         <span class="sec-num c10">10</span><h2>Arritmias y electrofisiología</h2>
-        <span class="cnt">5 artículos</span><span class="chev">▸</span>
+<span class="chev t10">▸</span>
       </a>
       <div class="sec-body">
         <article id="a-option" data-impact="medio"><div class="card-top"><span class="ptype">Subanálisis de ECA</span><span class="impact"><span class="dot d-medio"></span></span></div><h4><label class="ml" for="cb-a-option">Outcomes of left atrial appendage closure versus oral anticoagulation after catheter ablation among patients with higher and lower stroke risk: A sub-analysis of the OPTION clinical trial</label></h4><div class="a-body"><p>Subanálisis de OPTION (1.600 pacientes tras ablación de FA). El cierre de orejuela igualó la eficacia de la ACO en alto y bajo riesgo y redujo el sangrado en ambos.</p><p class="why"><b>Por qué importa:</b> apoya el LAAC tras ablación de FA con menos sangrado que la ACO, con riesgo de ictus bajo incluso en CHA₂DS₂-VASc ≤3.</p><div class="jwrap"><a class="j" href="https://doi.org/10.1016/j.hrthm.2026.05.057" target="_blank">Heart Rhythm <span class="go">↗</span></a></div></div></article>
@@ -547,7 +545,9 @@
     document.querySelectorAll('.sec-head').forEach(function(a){
       a.addEventListener('click', function(e){
         if(location.hash === a.getAttribute('href') && !body.classList.contains('filtering')){
-          e.preventDefault(); collapse(); return;
+          // Re-pulsar la cabecera de la sección abierta = "Volver a Secciones":
+          // se repliega y se vuelve al índice (mismo comportamiento que la flecha).
+          e.preventDefault(); clearFilter(); setActive('all'); location.hash = 'indice'; return;
         }
         clearFilter(); setActive('all');
       });
