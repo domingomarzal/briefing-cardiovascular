@@ -45,7 +45,7 @@
   .mast-right .periodo{font-size:13px;color:#aac3d1;white-space:nowrap;}
   .mast-rule{height:1px;background:rgba(255,255,255,.16);margin-top:20px;}
 
-  main{padding:24px 40px 32px;}
+  main{padding:24px 40px 0;}
 
   /* DESTACADO */
   .destacado{margin:0 0 6px;border:1px solid var(--linea);border-left:4px solid var(--teal);
@@ -108,13 +108,14 @@
   /* SECCIONES — acordeón EXCLUSIVO con :target (sin JS): abrir al pulsar + SCROLL a la
      sección + solo una abierta; en iPhone Quick Look funciona igual (anclas + :target). */
   .sec{margin-top:18px;}
+  .sec:last-of-type .sec-head{border-bottom:none;}
   .sec,.indice{scroll-margin-top:22px;}
   .sec-head{display:flex;align-items:center;gap:14px;padding:12px 4px;border-bottom:1px solid var(--linea);
     cursor:pointer;text-decoration:none;color:inherit;-webkit-tap-highlight-color:rgba(15,154,160,.12);user-select:none;}
   .sec-num{flex:0 0 auto;width:30px;height:30px;border-radius:8px;
     display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:800;letter-spacing:.02em;}
   .sec-head h2{margin:0;font-size:17px;color:var(--navy);font-weight:800;letter-spacing:-.01em;}
-  .sec-head .chev{flex:0 0 auto;margin-left:auto;font-size:40px;line-height:1;transition:transform .18s ease;}
+  .sec-head .chev{flex:0 0 auto;margin-left:auto;font-size:30px;line-height:1;transition:transform .18s ease;}
   .sec-body{display:none;}
   .sec:target .sec-body{display:block;}
   .sec:target .chev{transform:rotate(90deg);}
@@ -144,7 +145,7 @@
   @media(max-width:620px){
     .wrap{margin:0;border-radius:0;}
     .mast{padding:24px 20px 20px;}
-    main{padding:18px 20px 26px;}
+    main{padding:18px 20px 0;}
     footer{padding:22px 20px;}
     .indice ol{grid-template-columns:1fr;}
     .mast-title{font-size:28px;}
