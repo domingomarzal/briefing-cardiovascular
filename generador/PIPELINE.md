@@ -24,3 +24,6 @@ REGLA DE ACRÓNIMOS: si vas a añadir el acrónimo del estudio (p. ej. LOGICAL) 
 7. Escribe en `n<n>/index.html`, `n<n>/articulos-revisados.html`, `n<n>/cabecera.png`.
 8. `git add -A && git commit -m "N<n>" && git push` → GitHub Pages publica en .../n<n>/.
 9. Avisa de que el N<n> está publicado y de que el borrador de Gmail se hará en el Mac.
+
+## Regla de acrónimos
+Al añadir el acrónimo del estudio al título de un artículo (p. ej. (LOGICAL), (DECLARE-TIMI 58)), hazlo SOLO si ese acrónimo NO aparece ya en el título de PubMed. Nunca lo dupliques: estudios como REIMAGINE 3, ABYSS, OPTION o REDUCE LAP-HF II ya lo traen en el título original.
