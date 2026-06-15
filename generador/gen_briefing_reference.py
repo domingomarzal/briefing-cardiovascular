@@ -24,7 +24,7 @@ SECNAMES={1:"Cardiolog\u00eda preventiva",2:"Cardiometabolismo",3:"Dislipemia",4
 _by={}
 for a in _sel:
     k=a["key"]; f=_fi.get(k,{})
-    _ac=_ACR.get(k,""); ttl=a["title"]+(_ac if _ac.strip(" ()") not in a["title"] else "")
+    _ac=_ACR.get(k,""); _b=a["title"].rstrip(); _b=_b[:-1].rstrip() if _b.endswith(".") else _b; ttl=_b+(_ac if _ac.strip(" ()") not in _b else "")
     art=dict(key=k,title=ttl,ptype=a["ptype"],prio=a["prio"],journal=a["journal"],doi=a.get("doi","") or "",
              resumen=f.get("resumen",""),why=f.get("why",""),
              modal=[("De qu\u00e9 va.",f.get("deque","")),("Resultados.",f.get("resultados","")),("Conclusiones.",f.get("conclusiones",""))],
@@ -259,7 +259,7 @@ HTML = f'''<!DOCTYPE html>
   .nonews{{margin:6px 0 2px;padding:14px 16px;font-size:14px;font-style:italic;color:var(--suave);
     background:#f5f7fa;border:1px dashed var(--linea);border-radius:8px;}}
   .card-top{{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:7px;flex-wrap:wrap;}}
-  article h4{{margin:0 0 8px;font-size:17px;font-weight:700;line-height:1.34;color:var(--titulo);letter-spacing:-.01em;}}
+  article h4{{margin:0 0 8px;font-size:17px;font-weight:700;line-height:1.34;color:var(--titulo);letter-spacing:-.01em;text-align:justify;}}
   .a-body p{{margin:5px 0;font-size:14.5px;color:#37414f;text-align:justify;}}
   .why{{margin-top:8px;padding-left:13px;border-left:2px solid var(--teal);}}
   .why b{{color:var(--teal);}}
@@ -317,7 +317,7 @@ HTML = f'''<!DOCTYPE html>
   .cmodal-x{{position:absolute;top:6px;right:16px;font-size:30px;line-height:1;color:var(--suave);text-decoration:none;cursor:pointer;}}
   .cmodal-x:hover{{color:var(--navy);}}
   .modal-type{{font-size:13px;font-weight:700;letter-spacing:.02em;font-family:Arial,Helvetica,sans-serif;text-transform:none;color:var(--teal);margin-bottom:8px;}}
-  .modal-title{{margin:0 0 16px;font-size:20px;font-weight:800;color:var(--titulo);line-height:1.3;padding-right:26px;}}
+  .modal-title{{margin:0 0 16px;font-size:20px;font-weight:800;color:var(--titulo);line-height:1.3;padding-right:26px;text-align:justify;}}
   .modal-body{{font-size:14.5px;color:#37414f;line-height:1.6;text-align:justify;}}
   .modal-body p{{margin:0 0 11px;}} .modal-body b{{color:var(--navy);}}
   .modal-links{{margin-top:18px;display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end;}}
