@@ -33,8 +33,15 @@ for i in range(0,len(pmids),120):
         jr=a.findtext(".//Journal/ISOAbbreviation") or ""
         pts=[p.text for p in a.findall(".//PublicationType") if p.text]
         ab=" ".join((((x.get("Label")+": ") if x.get("Label") else "")+"".join(x.itertext())) for x in a.findall(".//Abstract/AbstractText")).strip()
-        doi=next((x.text for x in a.findall(".//ArticleId") if x.get("IdType")=="doi"),"")
-        recs.append(dict(pmid=a.findtext(".//PMID",""),journal=jr,title=ttl,ptypes=pts,abstract=ab,doi=doi))
+        # DOI PROPIO del artículo: ELocationID es inequívoco (está dentro de <Article>, nunca en la
+        # lista de referencias). Respaldo: el ArticleIdList PROPIO (PubmedData), NO el de las referencias
+        # citadas. Usar ".//ArticleId" a secas captura los DOI de la bibliografía y enlaza al paper equivocado.
+        doi=next((e.text for e in a.findall(".//Article/ELocationID") if e.get("EIdType")=="doi"),"")
+        if not doi:
+            ai=a.find("./PubmedData/ArticleIdList/ArticleId[@IdType='doi']")
+            doi=ai.text if ai is not None else ""
+        pmid=a.findtext("./MedlineCitation/PMID","")
+        recs.append(dict(pmid=pmid,journal=jr,title=ttl,ptypes=pts,abstract=ab,doi=doi))
     time.sleep(0.34)
 json.dump(dict(periodo=f"{d1}-{d2}",recs=recs),open("corpus.json","w"),ensure_ascii=False)
 print(f"semana {d1}-{d2}: {len(recs)} artículos, {sum(1 for r in recs if r['abstract'])} con abstract -> corpus.json")
