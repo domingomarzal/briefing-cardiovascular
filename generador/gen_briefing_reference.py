@@ -242,7 +242,7 @@ HTML = f'''<!DOCTYPE html>
   .sec-num{{flex:0 0 auto;width:30px;height:30px;border-radius:8px;
     display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:800;letter-spacing:.02em;}}
   .sec-head h2{{margin:0;font-size:17px;color:var(--navy);font-weight:800;letter-spacing:-.01em;}}
-  .sec-head .chev{{flex:0 0 auto;margin-left:auto;font-size:20px;line-height:1;transition:transform .18s ease;}}
+  .sec-head .chev{{flex:0 0 auto;margin-left:auto;font-size:40px;line-height:1;transition:transform .18s ease;}}
   .sec-body{{display:none;}}
   .sec:target .sec-body{{display:block;}}
   .sec:target .chev{{transform:rotate(90deg);}}
@@ -395,10 +395,6 @@ HTML = f'''<!DOCTYPE html>
       <span class="filtro" data-f="bajo"><span class="dot d-bajo"></span> Complementario</span>
     </div>
 {sections_html}
-    <!-- METODOLOGÍA -->
-    <div class="nota">
-      <b>Cómo hemos construido este briefing cardiovascular.</b> Esta semana se revisaron <b>325 artículos</b> publicados entre el 8 y el 14 de junio de 2026 en las <b>25 revistas</b> monitorizadas, de los que se <b>seleccionaron los 5 más relevantes de cada una de las 10 secciones</b> (50 artículos). <b>Premisa fija:</b> todo artículo cardiovascular publicado en <i>N Engl J Med</i> o <i>The Lancet</i> entra en el briefing. Solo se consideran ensayos, metaanálisis, revisiones, investigación original, registros/cohortes/estudios diagnósticos y guías o consensos: se descartan editoriales, cartas de investigación, comentarios, puntos de vista, reportes breves y la ciencia básica sin traslación clínica. Un artículo sin abstract en PubMed también se descarta. Cada artículo se puntúa de 0 a 10 en <b>seis ejes</b> — <b>relevancia clínica (20 %)</b>, <b>potencial de cambio de práctica (25 %)</b>, <b>calidad y nivel de la evidencia (20 %)</b>, <b>magnitud y solidez del efecto (15 %)</b>, <b>repercusión en la comunidad cardiovascular (12 %)</b> e <b>impacto/credibilidad de la revista (8 %)</b> —; la media ponderada, con tres <b>anulaciones</b> (alertas de seguridad, guías y ensayos negativos), da la etiqueta (🔴 cambia práctica · 🟠 vigilar · 🟢 contexto) y selecciona el Destacado y los tres «No te los puedes perder». Los temas se asignan por área: inflamación CV, diabetes, adiposidad y obesidad a <i>Cardiometabolismo</i>; amiloidosis a <i>Miocardiopatías</i>; hipertensión a <i>Cardiología preventiva</i>; y las guías y consensos a su sección temática. Los resúmenes se elaboran a partir del abstract y las conclusiones en abierto; los títulos se reproducen tal como aparecen en la publicación original. Fuente bibliográfica: PubMed; cada revista enlaza al artículo original.
-    </div>
 
   </main>
 
