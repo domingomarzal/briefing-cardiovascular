@@ -17,7 +17,7 @@ Pasos:
    Destacado = mayor TOTAL global; Top 3 = los 3 siguientes.
 5. REDACTA cada ficha (resumen 2 líneas · por qué importa · "De qué va" · "Resultados" con TODAS las cifras,
    abreviado · "Conclusiones" FIEL al abstract). Verifica fidelidad frente al abstract.
-6. GENERA el HTML replicando EXACTAMENTE el diseño de `n1/index.html` (briefing) y `n1/articulos-revisados.html`
+6. GENERA el HTML replicando EXACTAMENTE el diseño de `n0/` (briefing y articulos-revisados.html) como PLANTILLA DE REFERENCIA FIJA — copia su bloque <style> tal cual (anchos de columna, filtros y modales idénticos) y solo cambia los datos
    (auditoría, con sus filtros y modales). Usa `gen_briefing_reference.py` como referencia del generador del briefing.
    Fecha el número como "N<n> · <periodo>".
 7. Escribe en `n<n>/index.html`, `n<n>/articulos-revisados.html`, `n<n>/cabecera.png`.
