@@ -179,7 +179,7 @@ HTML = f'''<!DOCTYPE html>
   .destacado{{margin:0 0 6px;border:1px solid var(--linea);border-left:4px solid var(--teal);
     border-radius:10px;background:#fbfdfd;padding:18px 22px;}}
   .destacado .d-top{{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;margin-bottom:4px;}}
-  .destacado .d-kicker{{font-size:11px;font-weight:800;letter-spacing:.16em;text-transform:none;color:var(--teal);}}
+  .destacado .d-kicker{{font-size:13px;font-weight:700;letter-spacing:.02em;font-family:Arial,Helvetica,sans-serif;text-transform:none;color:var(--teal);}}
   .destacado .d-grid{{display:grid;grid-template-columns:1fr 180px;gap:22px;align-items:center;margin-top:6px;}}
   .destacado h2{{margin:4px 0 8px;font-size:20px;line-height:1.25;color:var(--titulo);font-weight:800;text-align:justify;}}
   .destacado p{{margin:6px 0;font-size:14.5px;text-align:justify;}}
@@ -200,11 +200,11 @@ HTML = f'''<!DOCTYPE html>
     text-align:justify;display:block;cursor:pointer;}}
   .top3 .t3t:hover{{color:var(--teal);}}
   .top3 .t3aside{{text-align:right;display:flex;flex-direction:column;align-items:flex-end;gap:5px;padding-top:2px;}}
-  .top3 .t3s{{font-size:11px;font-weight:700;letter-spacing:.07em;text-transform:none;color:var(--suave);}}
+  .top3 .t3s{{font-size:13px;font-weight:700;letter-spacing:.02em;font-family:Arial,Helvetica,sans-serif;text-transform:none;color:var(--suave);}}
 
   /* ÍNDICE / SECCIONES */
   .indice{{margin:24px 0 4px;border:1px solid var(--linea);border-radius:10px;padding:6px;}}
-  .indice h3{{margin:6px 12px 8px;font-size:11px;letter-spacing:.14em;text-transform:none;color:var(--suave);}}
+  .indice h3{{margin:6px 12px 8px;font-size:13px;font-weight:700;letter-spacing:.02em;font-family:Arial,Helvetica,sans-serif;text-transform:none;color:var(--suave);}}
   .indice ol{{margin:0;padding:0;list-style:none;display:grid;grid-template-columns:1fr 1fr;gap:1px;}}
   .indice li .ix{{display:flex;justify-content:flex-start;align-items:center;gap:8px;cursor:pointer;text-decoration:none;
     color:var(--ink);font-size:14.5px;padding:8px 16px;border-radius:7px;}}
@@ -222,7 +222,7 @@ HTML = f'''<!DOCTYPE html>
   .dot{{display:inline-block;width:9px;height:9px;border-radius:50%;}}
   .d-alto{{background:var(--imp-alto);}} .d-medio{{background:var(--imp-medio);}} .d-bajo{{background:var(--imp-bajo);}}
 
-  .ptype{{font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:none;color:var(--teal);}}
+  .ptype{{font-size:13px;font-weight:700;letter-spacing:.02em;font-family:Arial,Helvetica,sans-serif;text-transform:none;color:var(--teal);}}
   .impact{{display:inline-flex;align-items:center;gap:6px;font-size:11px;color:var(--suave);letter-spacing:.02em;}}
 
   /* WORDMARK DE REVISTA (= enlace) — verde turquesa, hover elegante + subrayado */
@@ -314,7 +314,7 @@ HTML = f'''<!DOCTYPE html>
   .cmodal-box{{position:relative;z-index:1;background:#fff;max-width:700px;width:100%;max-height:88vh;overflow-y:auto;-webkit-overflow-scrolling:touch;border-radius:14px;padding:26px 30px 30px;box-shadow:0 18px 50px rgba(0,0,0,.35);}}
   .cmodal-x{{position:absolute;top:6px;right:16px;font-size:30px;line-height:1;color:var(--suave);text-decoration:none;cursor:pointer;}}
   .cmodal-x:hover{{color:var(--navy);}}
-  .modal-type{{font-size:13px;font-weight:700;letter-spacing:.1em;text-transform:none;color:var(--teal);margin-bottom:8px;}}
+  .modal-type{{font-size:13px;font-weight:700;letter-spacing:.02em;font-family:Arial,Helvetica,sans-serif;text-transform:none;color:var(--teal);margin-bottom:8px;}}
   .modal-title{{margin:0 0 16px;font-size:20px;font-weight:800;color:var(--titulo);line-height:1.3;padding-right:26px;}}
   .modal-body{{font-size:14.5px;color:#37414f;line-height:1.6;text-align:justify;}}
   .modal-body p{{margin:0 0 11px;}} .modal-body b{{color:var(--navy);}}
