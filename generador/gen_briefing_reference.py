@@ -242,7 +242,7 @@ HTML = f'''<!DOCTYPE html>
   .sec-num{{flex:0 0 auto;width:30px;height:30px;border-radius:8px;
     display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:800;letter-spacing:.02em;}}
   .sec-head h2{{margin:0;font-size:17px;color:var(--navy);font-weight:800;letter-spacing:-.01em;}}
-  .sec-head .chev{{flex:0 0 auto;margin-left:auto;font-size:15px;line-height:1;transition:transform .18s ease;}}
+  .sec-head .chev{{flex:0 0 auto;margin-left:auto;font-size:20px;line-height:1;transition:transform .18s ease;}}
   .sec-body{{display:none;}}
   .sec:target .sec-body{{display:block;}}
   .sec:target .chev{{transform:rotate(90deg);}}
