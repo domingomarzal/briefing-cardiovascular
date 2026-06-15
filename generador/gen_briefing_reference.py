@@ -317,7 +317,7 @@ HTML = f'''<!DOCTYPE html>
   .cmodal-x{{position:absolute;top:6px;right:16px;font-size:30px;line-height:1;color:var(--suave);text-decoration:none;cursor:pointer;}}
   .cmodal-x:hover{{color:var(--navy);}}
   .modal-type{{font-size:13px;font-weight:700;letter-spacing:.02em;font-family:Arial,Helvetica,sans-serif;text-transform:none;color:var(--teal);margin-bottom:8px;}}
-  .modal-title{{margin:0 0 16px;font-size:20px;font-weight:800;color:var(--titulo);line-height:1.3;padding-right:26px;text-align:justify;}}
+  .modal-title{{margin:0 0 16px;font-size:20px;font-weight:800;color:var(--titulo);line-height:1.3;text-align:justify;}}
   .modal-body{{font-size:14.5px;color:#37414f;line-height:1.6;text-align:justify;}}
   .modal-body p{{margin:0 0 11px;}} .modal-body b{{color:var(--navy);}}
   .modal-links{{margin-top:18px;display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end;}}
