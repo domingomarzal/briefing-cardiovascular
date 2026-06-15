@@ -27,3 +27,6 @@ REGLA DE ACRÓNIMOS: si vas a añadir el acrónimo del estudio (p. ej. LOGICAL) 
 
 ## Regla de acrónimos
 Al añadir el acrónimo del estudio al título de un artículo (p. ej. (LOGICAL), (DECLARE-TIMI 58)), hazlo SOLO si ese acrónimo NO aparece ya en el título de PubMed. Nunca lo dupliques: estudios como REIMAGINE 3, ABYSS, OPTION o REDUCE LAP-HF II ya lo traen en el título original.
+
+## Secciones siempre visibles
+Las 10 secciones temáticas se muestran SIEMPRE, aunque una semana no tengan material. Una sección que esa semana quede con 0 ó 1 artículos se muestra con la nota «Sin novedades relevantes esta semana.» (clase .nonews) en lugar de fichas. No se rellena artificialmente ni se omiten secciones.
