@@ -24,7 +24,7 @@ SECNAMES={1:"Cardiolog\u00eda preventiva",2:"Cardiometabolismo",3:"Dislipemia",4
 _by={}
 for a in _sel:
     k=a["key"]; f=_fi.get(k,{})
-    ttl=a["title"]+_ACR.get(k,"")
+    _ac=_ACR.get(k,""); ttl=a["title"]+(_ac if _ac.strip(" ()") not in a["title"] else "")
     art=dict(key=k,title=ttl,ptype=a["ptype"],prio=a["prio"],journal=a["journal"],doi=a.get("doi","") or "",
              resumen=f.get("resumen",""),why=f.get("why",""),
              modal=[("De qu\u00e9 va.",f.get("deque","")),("Resultados.",f.get("resultados","")),("Conclusiones.",f.get("conclusiones",""))],

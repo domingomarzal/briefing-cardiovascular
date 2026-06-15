@@ -15,6 +15,7 @@ Pasos:
    FI por nivel de revista (N1=10, N2=7, N3=5). TOTAL ponderado; etiqueta 🔴≥8 o CAMBIO≥8 · 🟠 5-7,9 · 🟢 <5.
 4. SELECCIONA el top 5 de cada sección por TOTAL (si hay <5 elegibles, los que haya; NO rellenar con no elegibles).
    Destacado = mayor TOTAL global; Top 3 = los 3 siguientes.
+REGLA DE ACRÓNIMOS: si vas a añadir el acrónimo del estudio (p. ej. LOGICAL) al título, hazlo SOLO si NO está ya en el título de PubMed; nunca lo dupliques.
 5. REDACTA cada ficha (resumen 2 líneas · por qué importa · "De qué va" · "Resultados" con TODAS las cifras,
    abreviado · "Conclusiones" FIEL al abstract). Verifica fidelidad frente al abstract.
 6. GENERA el HTML replicando EXACTAMENTE el diseño de `n0/` (briefing y articulos-revisados.html) como PLANTILLA DE REFERENCIA FIJA — copia su bloque <style> tal cual (anchos de columna, filtros y modales idénticos) y solo cambia los datos
