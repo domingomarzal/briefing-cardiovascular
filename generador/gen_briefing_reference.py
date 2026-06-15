@@ -235,10 +235,11 @@ HTML = f'''<!DOCTYPE html>
 
   /* SECCIONES — acordeón EXCLUSIVO con :target (sin JS): abrir al pulsar + SCROLL a la
      sección + solo una abierta; en iPhone Quick Look funciona igual (anclas + :target). */
-  .sec{{margin-top:18px;}}
+  .sec{{margin-top:0;}}
+  .sec:first-of-type{{margin-top:18px;}}
   .sec:last-of-type .sec-head{{border-bottom:none;}}
   .sec,.indice{{scroll-margin-top:22px;}}
-  .sec-head{{display:flex;align-items:center;gap:14px;padding:12px 4px;border-bottom:1px solid var(--linea);
+  .sec-head{{display:flex;align-items:center;gap:14px;padding:21px 4px;border-bottom:1px solid var(--linea);
     cursor:pointer;text-decoration:none;color:inherit;-webkit-tap-highlight-color:rgba(15,154,160,.12);user-select:none;}}
   .sec-num{{flex:0 0 auto;width:30px;height:30px;border-radius:8px;
     display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:800;letter-spacing:.02em;}}
