@@ -452,7 +452,7 @@ _DROP = _DROP | {'aavhofh', 'glsiao', 'lpaukb', 'metilacion', 'sentinel', 'dcd',
 for _snum,_sname,_arts in SECTIONS:
     _arts[:] = [a for a in _arts if a['key'] not in _DROP]
     for _na in _NEW:
-        if _na['sec']==_snum:
+        if _na['sec']==_snum and _na['key'] not in _DROP:
             _arts.append({k:v for k,v in _na.items() if k!='sec'})
 
 # Build lookup
