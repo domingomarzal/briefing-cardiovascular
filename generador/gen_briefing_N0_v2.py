@@ -19,7 +19,7 @@ def jlink(doi, title):
 import json as _json
 _sel=_json.load(open("/tmp/n0_selected_v3.json"))
 _fi=_json.load(open("/tmp/n0_fichas_v3.json"))
-_ACR={"m101": " (FIND-CKD)", "m102": " (FINE-HEART)", "m065": " (FIDELITY)", "m032": " (CONFIDENCE)", "m116": " (FOURIER)", "m042": " (VISTA)", "m112": " (TRANSCEND-T2D-1)", "m075": " (FLOW)", "m033": " (COAPT)", "m088": " (EARLY TAVR)", "m139": " (OPTION)", "m151": " (DECLARE-TIMI 58)", "m013": " (INFINITY)", "m049": " (FAVOR III)", "m158": " (SMART-REACH2)", "m175": " (TRACK)", "m059": " (DEFINE-HT)", "m094": " (J-CMD)"}
+_ACR={"m101": " (FIND-CKD)", "m102": " (FINE-HEART)", "m065": " (FIDELITY)", "m032": " (CONFIDENCE)", "m116": " (FOURIER)", "m042": " (VISTA)", "m112": " (TRANSCEND-T2D-1)", "m075": " (FLOW)", "m033": " (COAPT)", "m088": " (EARLY TAVR)", "m139": " (OPTION)", "m151": " (DECLARE-TIMI 58)", "m158": " (SMART-REACH2)", "m175": " (TRACK)", "m059": " (DEFINE-HT)", "m094": " (J-CMD)", "m006": " (SYNCHRONIZE-1)", "m119": " (VitaK-CAC)"}
 SECNAMES={1:"Cardiolog\u00eda preventiva",2:"Cardiometabolismo",3:"Dislipemia",4:"Cardiopat\u00eda isqu\u00e9mica",5:"Insuficiencia card\u00edaca",6:"Miocardiopat\u00edas",7:"Valvulopat\u00edas",8:"Imagen card\u00edaca",9:"Cardiolog\u00eda intervencionista y estructural",10:"Arritmias y electrofisiolog\u00eda"}
 _by={}
 for a in _sel:
@@ -35,7 +35,7 @@ for _sn in range(1,11):
     _arts=sorted(_by.get(_sn,[]),key=lambda x:-x["_total"])
     SECTIONS.append((_sn,SECNAMES[_sn],_arts))
 DESTACADO_KEY="m021"
-TOP3=["m013","m147","m060"]
+TOP3=["m101","m060","m151"]
 ALL={}
 for snum,sname,arts in SECTIONS:
     for a in arts:
