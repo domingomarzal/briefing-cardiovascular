@@ -23,7 +23,7 @@ for i,(t,j,d) in enumerate(items,1):
     rows+=f'''<tr><td width="30" valign="top" style="padding:9px 0;{bb}font-size:14px;font-weight:bold;color:#0f9aa0">{i}</td>
 <td style="padding:9px 0;{bb}"><div style="font-size:14px;color:#103a47">{t}</div><div style="margin-top:2px"><a href="{doi(d)}" style="font-size:12.5px;color:#0f9aa0;text-decoration:underline">{j} ›</a></div></td></tr>'''
 ntp=f'<p style="margin:22px 0 4px;font-size:11px;font-weight:bold;color:#0a3d62;letter-spacing:.5px">NO TE LOS PUEDES PERDER</p><table width="100%">{rows}</table>'
-html=f'<div style="font-family:Arial,Helvetica,sans-serif;max-width:680px;margin:0 auto;color:#103a47">{banner}{dest}{ntp}<p style="margin:22px 0 0;font-size:12px;color:#7b8694">Briefing completo (10 secciones, 50 artículos): <a href="{URL}" style="color:#0f9aa0">{URL}</a></p></div>'
+html=f'<div style="font-family:Arial,Helvetica,sans-serif;max-width:680px;margin:0 auto;color:#103a47">{banner}{dest}{ntp}<p style="margin:22px 0 0;font-size:12px;color:#7b8694">Briefing completo (10 secciones, 51 artículos): <a href="{URL}" style="color:#0f9aa0">{URL}</a></p></div>'
 plain=f"""Briefing Cardiovascular — UICAR · Quirónsalud — N0 · 3 al 10 de junio de 2026.
 Abrir: {URL}
 
