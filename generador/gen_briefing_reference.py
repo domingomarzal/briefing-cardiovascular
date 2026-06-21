@@ -412,7 +412,7 @@ HTML = f'''<!DOCTYPE html>
     <table class="ftable"><tr>
       <td class="fleft">
         <div class="fmark">Briefing <span class="ac">Cardiovascular</span></div>
-        <div class="fbody">Revisión e interpretación semanal de la evidencia científica más relevante en medicina cardiovascular. Los artículos originales deben consultarse en el contexto de las guías de práctica clínica vigentes antes de modificar la práctica asistencial.</div>
+        <div class="fbody">Revisión e interpretación semanal de la evidencia científica publicada más relevante en medicina cardiovascular. Los artículos originales deben consultarse en el contexto de las guías de práctica clínica vigentes antes de modificar la práctica asistencial.</div>
       </td>
       <td class="fright"><img class="fsign" src="data:image/png;base64,{LOGO_B64}" alt="Domingo Marzal, cardiólogo"></td>
     </tr></table>
