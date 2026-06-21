@@ -269,12 +269,12 @@ HTML = f'''<!DOCTYPE html>
   .nota{{margin:32px 0 0;padding-top:16px;border-top:1px solid var(--linea);font-size:9px;color:var(--gris);line-height:1.5;text-align:justify;}}
   footer{{background:#eef3f6;color:#5d6878;padding:22px 40px;border-top:3px solid var(--teal);font-size:12.5px;}}
   footer .ftable{{width:100%;border-collapse:collapse;}}
-  footer .fleft{{vertical-align:middle;padding-right:26px;}}
-  footer .fright{{vertical-align:middle;text-align:center;border-left:1px solid #d4dde3;padding-left:26px;width:34%;}}
+  footer .fleft{{vertical-align:middle;padding-right:26px;width:75%;}}
+  footer .fright{{vertical-align:middle;text-align:right;border-left:1px solid #d4dde3;padding-left:24px;width:25%;}}
   footer .fmark{{font-weight:800;color:var(--navy);font-size:17px;letter-spacing:-.01em;}}
   footer .fmark .ac{{color:var(--teal);}}
   footer .fbody{{margin-top:8px;line-height:1.55;color:#5d6878;text-align:justify;}}
-  footer .fsign{{width:100%;max-width:250px;height:auto;display:inline-block;}}
+  footer .fsign{{width:auto;max-width:100%;max-height:52px;height:auto;display:inline-block;}}
   @media(max-width:620px){{footer .fleft,footer .fright{{display:block;width:100%;border-left:0;padding:0;}} footer .fright{{margin-top:16px;border-top:1px solid #d4dde3;padding-top:16px;text-align:left;}} footer .fsign{{max-width:220px;}}}}
 
   @media(max-width:620px){{
