@@ -17,6 +17,8 @@ def jlink(doi, title):
 # Each article:
 # key, title, ptype, prio, journal(short), doi, resumen, why, modal=[(label,text),...]
 import json as _json
+import base64 as _b64
+LOGO_B64=_b64.b64encode(open("/Users/dmarzal/Documents/Claude/Briefing Cardiovascular/briefing-cardiovascular-repo/generador/firma_DM_horizontal.png","rb").read()).decode()
 _sel=_json.load(open("/tmp/n0_selected_v3.json"))
 _fi=_json.load(open("/tmp/n0_fichas_v3.json"))
 _ACR={"m101": " (FIND-CKD)", "m102": " (FINE-HEART)", "m065": " (FIDELITY)", "m032": " (CONFIDENCE)", "m116": " (FOURIER)", "m042": " (VISTA)", "m112": " (TRANSCEND-T2D-1)", "m075": " (FLOW)", "m033": " (COAPT)", "m088": " (EARLY TAVR)", "m139": " (OPTION)", "m151": " (DECLARE-TIMI 58)", "m158": " (SMART-REACH2)", "m175": " (TRACK)", "m059": " (DEFINE-HT)", "m094": " (J-CMD)", "m006": " (SYNCHRONIZE-1)", "m119": " (VitaK-CAC)", "r1": " (REIMAGINE 3)"}
@@ -131,7 +133,7 @@ HTML = f'''<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Briefing Cardiovascular · UICAR · Quirónsalud — N0</title>
+<title>Briefing Cardiovascular — N0</title>
 <style>
   :root{{
     --ink:#16202e; --gris:#5d6878; --suave:#8c97a6; --linea:#e7ebf1; --linea2:#eef1f6;
@@ -265,11 +267,15 @@ HTML = f'''<!DOCTYPE html>
   .why b{{color:var(--teal);}}
 
   .nota{{margin:32px 0 0;padding-top:16px;border-top:1px solid var(--linea);font-size:9px;color:var(--gris);line-height:1.5;text-align:justify;}}
-  footer{{background:var(--navy2);color:#aabccd;padding:26px 40px;font-size:12.5px;}}
-  footer .fmark{{font-weight:800;color:#fff;font-size:17px;letter-spacing:-.01em;}}
+  footer{{background:#eef3f6;color:#5d6878;padding:22px 40px;border-top:3px solid var(--teal);font-size:12.5px;}}
+  footer .ftable{{width:100%;border-collapse:collapse;}}
+  footer .fleft{{vertical-align:middle;padding-right:26px;}}
+  footer .fright{{vertical-align:middle;text-align:center;border-left:1px solid #d4dde3;padding-left:26px;width:34%;}}
+  footer .fmark{{font-weight:800;color:var(--navy);font-size:17px;letter-spacing:-.01em;}}
   footer .fmark .ac{{color:var(--teal);}}
-  footer .fsub{{font-size:12px;color:#7e93a6;margin-top:3px;}}
-  footer .fbody{{margin-top:10px;line-height:1.55;}}
+  footer .fbody{{margin-top:8px;line-height:1.55;color:#5d6878;text-align:justify;}}
+  footer .fsign{{width:100%;max-width:250px;height:auto;display:inline-block;}}
+  @media(max-width:620px){{footer .fleft,footer .fright{{display:block;width:100%;border-left:0;padding:0;}} footer .fright{{margin-top:16px;border-top:1px solid #d4dde3;padding-top:16px;text-align:left;}} footer .fsign{{max-width:220px;}}}}
 
   @media(max-width:620px){{
     .wrap{{margin:0;border-radius:0;}}
@@ -334,7 +340,6 @@ HTML = f'''<!DOCTYPE html>
     <div class="mast-row">
       <div class="mast-left">
         <h1 class="mast-title">Briefing <span class="ac">Cardiovascular</span></h1>
-        <div class="mast-sub"><b>UICAR</b><span class="md">·</span>Quirónsalud</div>
       </div>
       <div class="mast-right">
         <span class="num">N0</span>
@@ -404,8 +409,13 @@ HTML = f'''<!DOCTYPE html>
   {modals_html}
 
   <footer>
-    <div class="fmark">Briefing <span class="ac">Cardiovascular</span></div>
-    <div class="fbody">Revisión semanal de la evidencia científica publicada en medicina cardiovascular. Los resúmenes son una síntesis orientativa; recomendamos consultar siempre el artículo original antes de modificar la práctica clínica.</div>
+    <table class="ftable"><tr>
+      <td class="fleft">
+        <div class="fmark">Briefing <span class="ac">Cardiovascular</span></div>
+        <div class="fbody">Revisión semanal de la evidencia científica publicada en medicina cardiovascular. Los resúmenes son una síntesis orientativa; recomendamos consultar siempre el artículo original antes de modificar la práctica clínica.</div>
+      </td>
+      <td class="fright"><img class="fsign" src="data:image/png;base64,{LOGO_B64}" alt="Domingo Marzal, cardiólogo"></td>
+    </tr></table>
   </footer>
 
 </div>
@@ -472,7 +482,7 @@ HTML = f'''<!DOCTYPE html>
 
 import io, os
 # Cada número vive en su subcarpeta: "Briefing Cardiovascular/Briefing Cardiovascular_N<n>/"
-OUTDIR = "/Users/dmarzal/Documents/UICAR/Briefing Cardiovascular/Briefing Cardiovascular_N0"
+OUTDIR = "/Users/dmarzal/Documents/Claude/Briefing Cardiovascular/Briefing Cardiovascular_N0"
 os.makedirs(OUTDIR, exist_ok=True)
 with io.open(OUTDIR + "/Briefing Cardiovascular_N0.html","w",encoding="utf-8") as f:
     f.write(HTML)
