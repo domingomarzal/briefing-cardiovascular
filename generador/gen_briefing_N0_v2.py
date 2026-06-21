@@ -273,7 +273,7 @@ HTML = f'''<!DOCTYPE html>
   footer .fright{{vertical-align:middle;text-align:right;border-left:1px solid #d4dde3;padding-left:40px;padding-right:0;width:1%;white-space:nowrap;}}
   footer .fmark{{font-weight:800;color:var(--navy);font-size:17px;letter-spacing:-.01em;}}
   footer .fmark .ac{{color:var(--teal);}}
-  footer .fbody{{margin-top:8px;line-height:1.55;color:#5d6878;text-align:justify;}}
+  footer .fbody{{margin-top:8px;line-height:1.5;font-size:10.5px;color:#5d6878;text-align:justify;}}
   footer .fsign{{width:auto;max-width:none;max-height:68px;height:auto;display:inline-block;}}
   @media(max-width:620px){{footer .fleft,footer .fright{{display:block;width:100%;border-left:0;padding:0;}} footer .fright{{margin-top:16px;border-top:1px solid #d4dde3;padding-top:16px;text-align:left;}} footer .fsign{{max-width:220px;}}}}
 
@@ -412,7 +412,7 @@ HTML = f'''<!DOCTYPE html>
     <table class="ftable"><tr>
       <td class="fleft">
         <div class="fmark">Briefing <span class="ac">Cardiovascular</span></div>
-        <div class="fbody">Revisión e interpretación semanal de la evidencia científica más relevante publicada en medicina cardiovascular. Los artículos originales deben ser revisados en el contexto de las guías de práctica clínica vigentes antes de plantearse modificar la práctica clínica.</div>
+        <div class="fbody">Revisión e interpretación semanal de la evidencia científica más relevante en medicina cardiovascular. Los artículos originales deben consultarse en el contexto de las guías de práctica clínica vigentes antes de modificar la práctica asistencial.</div>
       </td>
       <td class="fright"><img class="fsign" src="data:image/png;base64,{LOGO_B64}" alt="Domingo Marzal, cardiólogo"></td>
     </tr></table>
