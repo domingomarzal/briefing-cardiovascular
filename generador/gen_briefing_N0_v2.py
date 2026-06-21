@@ -162,18 +162,18 @@ HTML = f'''<!DOCTYPE html>
     box-shadow:0 4px 22px rgba(16,21,31,.09);border-radius:14px;overflow:hidden;}}
 
   /* MASTHEAD */
-  .mast{{background:linear-gradient(135deg,var(--navy) 0%,var(--navy2) 100%);color:#fff;padding:30px 40px 24px;}}
-  .mast-row{{display:flex;justify-content:space-between;align-items:flex-start;gap:20px;}}
+  .mast{{background:linear-gradient(135deg,var(--navy) 0%,var(--navy2) 100%);color:#fff;padding:26px 40px 24px;}}
+  .mast-row{{display:flex;justify-content:space-between;align-items:center;gap:20px;}}
   .mast-title{{margin:0;font-size:37px;font-weight:800;letter-spacing:-.02em;line-height:1.0;}}
   .mast-title .ac{{color:var(--teal);}}
   .mast-sub{{margin-top:11px;font-size:16px;color:#c4d4df;font-weight:500;}}
   .mast-sub b{{color:#fff;font-weight:700;letter-spacing:.02em;}}
   .mast-sub .md{{color:var(--teal);font-weight:700;margin:0 5px;}}
-  .mast-right{{flex:0 0 auto;display:flex;flex-direction:column;align-items:flex-end;gap:9px;padding-top:4px;}}
+  .mast-right{{flex:0 0 auto;display:flex;flex-direction:column;align-items:flex-end;gap:9px;padding-top:0;}}
   .mast-right .num{{border:1.5px solid var(--teal);color:#bdeaeb;font-weight:700;font-size:14px;
     padding:5px 16px;border-radius:30px;letter-spacing:.04em;white-space:nowrap;}}
   .mast-right .periodo{{font-size:13px;color:#aac3d1;white-space:nowrap;}}
-  .mast-rule{{height:1px;background:rgba(255,255,255,.16);margin-top:20px;}}
+  .mast-rule{{height:1px;background:rgba(255,255,255,.16);margin-top:26px;}}
 
   main{{padding:24px 40px 0;}}
 
