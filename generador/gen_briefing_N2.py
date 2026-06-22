@@ -22,7 +22,7 @@ LOGO_B64=_b64.b64encode(open("/Users/dmarzal/Documents/Claude/Briefing Cardiovas
 _sel=_json.load(open("/tmp/n2_selected.json"))
 _fi=_json.load(open("/tmp/n2_fichas.json"))
 _ACR={"a017":" (PARTNER 2A)","a018":" (PARTNER 2 \u00b7 SAPIEN 3)","a009":" (MAPLE-HCM)","a130":" (SPYRAL HTN-ON MED)","a022":" (SAFEHEART)","a015":" (VRONI)","a052":" (PRIME-MR)","a045":" (SINGLE SHOT CHAMPION)","a085":" (ROMIAE)","a093":" (DAN-RSV)","a116":" (ISACS-TC)","a050":" (OCEAN-Mitral)","a121":" (CRCS-K-NIH)","a109":" (FOURIER-OLE)","a019":" (PREVUE-VALVE)","a035":" (PULSTA)","a136":" (SUPPRESS-AF)","a028":" (CAMERA-MRI)","a008":" (CARES)"}
-SECNAMES={1:"Cardiolog\u00eda preventiva",2:"Cardiometabolismo",3:"Dislipemia",4:"Cardiopat\u00eda isqu\u00e9mica",5:"Insuficiencia card\u00edaca",6:"Miocardiopat\u00edas",7:"Valvulopat\u00edas",8:"Imagen card\u00edaca",9:"Cardiolog\u00eda intervencionista y estructural",10:"Arritmias y electrofisiolog\u00eda"}
+SECNAMES={1:"Cardiolog\u00eda preventiva",2:"Cardiometabolismo",3:"Dislipemia",4:"Cardiopat\u00eda isqu\u00e9mica",5:"Insuficiencia card\u00edaca",6:"Miocardiopat\u00edas",7:"Valvulopat\u00edas",8:"Imagen card\u00edaca",9:"Cardiolog\u00eda intervencionista",10:"Arritmias y electrofisiolog\u00eda"}
 _by={}
 for a in _sel:
     k=a["key"]; f=_fi.get(k,{})

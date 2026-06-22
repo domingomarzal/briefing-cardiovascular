@@ -353,7 +353,7 @@ SECTIONS = [
             ("Resultados.","Revisa métricas indexadas (Aortic Size Index, Aortic Height Index, área aórtica indexada) que ajustan por hábito corporal; descriptores morfológicos (longitud ascendente, tortuosidad del arco, volumen aórtico); medidas dinámicas y biomecánicas (tasa de crecimiento, deformación regional, distensibilidad/rigidez) y modalidades avanzadas (RM de flujo 4D, mapeo de deformación). Marcadores funcionales (presión central, rigidez aórtica, edad arterial) predicen la expansión de forma independiente y mejoran la estratificación al combinarse con el diámetro."),
             ("Conclusiones.","El diámetro aislado es insuficiente; las prioridades futuras incluyen validación multicéntrica prospectiva, umbrales específicos por sexo y un abordaje multidisciplinar para una vigilancia personalizada.")]),
  ]),
- (9,"Cardiología intervencionista y estructural",[
+ (9,"Cardiología intervencionista",[
    dict(key="fetalav",
      title="Technical Success of Fetal Aortic Valvuloplasty in Relation to Center Volumes: A Report From the International Fetal Cardiac Intervention Registry",
      ptype="Registro internacional", prio="Relevante", journal="Circ Cardiovasc Interv", doi="10.1161/CIRCINTERVENTIONS.125.015593",

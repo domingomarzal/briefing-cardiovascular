@@ -22,7 +22,7 @@ LOGO_B64=_b64.b64encode(open("/Users/dmarzal/Documents/Claude/Briefing Cardiovas
 _sel=_json.load(open("/tmp/n1_selected.json"))
 _fi=_json.load(open("/tmp/n1_fichas.json"))
 _ACR={"e078":" (LOGICAL)","e018":" (ABYSS)","e026":" (DECLARE-TIMI 58)","e066":" (CRESCENT)","x1":" (CRESCENT)","x2":" (VISTA)","e033":" (SYNCHRONIZE-1)"}
-SECNAMES={1:"Cardiolog\u00eda preventiva",2:"Cardiometabolismo",3:"Dislipemia",4:"Cardiopat\u00eda isqu\u00e9mica",5:"Insuficiencia card\u00edaca",6:"Miocardiopat\u00edas",7:"Valvulopat\u00edas",8:"Imagen card\u00edaca",9:"Cardiolog\u00eda intervencionista y estructural",10:"Arritmias y electrofisiolog\u00eda"}
+SECNAMES={1:"Cardiolog\u00eda preventiva",2:"Cardiometabolismo",3:"Dislipemia",4:"Cardiopat\u00eda isqu\u00e9mica",5:"Insuficiencia card\u00edaca",6:"Miocardiopat\u00edas",7:"Valvulopat\u00edas",8:"Imagen card\u00edaca",9:"Cardiolog\u00eda intervencionista",10:"Arritmias y electrofisiolog\u00eda"}
 _by={}
 for a in _sel:
     k=a["key"]; f=_fi.get(k,{})
