@@ -82,3 +82,12 @@ for outp in ["/Users/dmarzal/Documents/Claude/Briefing Cardiovascular/briefing-c
              "/Users/dmarzal/Documents/Claude/Briefing Cardiovascular/Briefing Cardiovascular_N2/Briefing Cardiovascular_N2_artículos revisados.html"]:
     io.open(outp,"w",encoding="utf-8").write(full)
 print("audit regenerado:",ntot,"filas,",nsel,"sel,",nsco,"puntuados")
+
+# --- filtros por revista y tipo (post-proceso, ver add_audit_filters.py) ---
+import os as _os, importlib.util as _ilu
+_spec=_ilu.spec_from_file_location("aaf",_os.path.join(_os.path.dirname(_os.path.abspath(__file__)),"add_audit_filters.py"))
+_aaf=_ilu.module_from_spec(_spec); _spec.loader.exec_module(_aaf)
+for _p in ["/Users/dmarzal/Documents/Claude/Briefing Cardiovascular/briefing-cardiovascular-repo/n2/articulos-revisados.html",
+           "/Users/dmarzal/Documents/Claude/Briefing Cardiovascular/Briefing Cardiovascular_N2/Briefing Cardiovascular_N2_artículos revisados.html"]:
+    _aaf.process(_p)
+print("filtros revista+tipo añadidos al audit")

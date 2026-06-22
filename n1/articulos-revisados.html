@@ -143,6 +143,8 @@ footer{background:#eef3f6;color:#5d6878;padding:22px 40px;border-top:3px solid #
         <option value="c9">09 Cardiología intervencionista</option>
         <option value="c10">10 Arritmias y electrofisiología</option>
       </select>
+      <select id="revsel" title="Filtrar por revista"><option value="all">Todas las revistas</option><option value="Ann Intern Med">Ann Intern Med</option><option value="Atherosclerosis">Atherosclerosis</option><option value="BMJ">BMJ</option><option value="Circ Cardiovasc Interv">Circ Cardiovasc Interv</option><option value="Circ Heart Fail">Circ Heart Fail</option><option value="Circ Res">Circ Res</option><option value="Circulation">Circulation</option><option value="Eur Heart J">Eur Heart J</option><option value="Eur J Heart Fail">Eur J Heart Fail</option><option value="Eur J Prev Cardiol">Eur J Prev Cardiol</option><option value="Europace">Europace</option><option value="Heart">Heart</option><option value="Heart Rhythm">Heart Rhythm</option><option value="Hypertension">Hypertension</option><option value="J Am Coll Cardiol">J Am Coll Cardiol</option><option value="J Am Heart Assoc">J Am Heart Assoc</option><option value="JACC Adv">JACC Adv</option><option value="JACC Cardiovasc Imaging">JACC Cardiovasc Imaging</option><option value="JACC Cardiovasc Interv">JACC Cardiovasc Interv</option><option value="JACC Clin Electrophysiol">JACC Clin Electrophysiol</option><option value="JACC Heart Fail">JACC Heart Fail</option><option value="JAMA">JAMA</option><option value="JAMA Cardiol">JAMA Cardiol</option><option value="Lancet">Lancet</option><option value="N Engl J Med">N Engl J Med</option><option value="Nat Cardiovasc Res">Nat Cardiovasc Res</option><option value="Nat Med">Nat Med</option><option value="Nat Rev Cardiol">Nat Rev Cardiol</option></select>
+      <select id="tiposel" title="Filtrar por tipo"><option value="all">Todos los tipos</option><option value="Análisis secundario de ensayo clínico">Análisis secundario de ensayo clínico</option><option value="Artículo de revisión">Artículo de revisión</option><option value="Carta">Carta</option><option value="Caso clínico">Caso clínico</option><option value="Ciencia básica">Ciencia básica</option><option value="Corrección/Errata">Corrección/Errata</option><option value="Documento de consenso">Documento de consenso</option><option value="Editorial">Editorial</option><option value="Ensayo clínico aleatorizado">Ensayo clínico aleatorizado</option><option value="Ensayo clínico aleatorizado (fase 2)">Ensayo clínico aleatorizado (fase 2)</option><option value="Ensayo clínico aleatorizado (fase 3)">Ensayo clínico aleatorizado (fase 3)</option><option value="Estudio de casos y controles">Estudio de casos y controles</option><option value="Estudio de cohorte">Estudio de cohorte</option><option value="Estudio diagnóstico">Estudio diagnóstico</option><option value="Estudio observacional">Estudio observacional</option><option value="Evaluación económica">Evaluación económica</option><option value="Guía de práctica clínica">Guía de práctica clínica</option><option value="Investigación original">Investigación original</option><option value="Metaanálisis">Metaanálisis</option><option value="Modelo de predicción / IA">Modelo de predicción / IA</option><option value="Noticia">Noticia</option><option value="Registro">Registro</option><option value="Revisión sistemática">Revisión sistemática</option><option value="Scientific Statement">Scientific Statement</option></select>
       <span class="contador" id="contador">mostrando 376 de 376 · 45 seleccionados</span>
     </div>
 
@@ -560,6 +562,8 @@ footer{background:#eef3f6;color:#5d6878;padding:22px 40px;border-top:3px solid #
   var grupos = filas.filter(function(tr){ return tr.classList.contains('grp'); });
   var botones = Array.prototype.slice.call(document.querySelectorAll('.filtros button'));
   var catsel = document.getElementById('catsel');
+  var revsel = document.getElementById('revsel');
+  var tiposel = document.getElementById('tiposel');
   var contador = document.getElementById('contador');
   var TOTAL = datos.length;
   var SELTOTAL = datos.filter(function(tr){ return tr.getAttribute('data-sel') === '1'; }).length;
@@ -574,6 +578,10 @@ footer{background:#eef3f6;color:#5d6878;padding:22px 40px;border-top:3px solid #
     if(!okE) return false;
     var c = catsel ? catsel.value : 'all';
     if(c !== 'all' && tr.getAttribute('data-cat') !== c) return false;
+    var rv = revsel ? revsel.value : 'all';
+    if(rv !== 'all'){ var rc = tr.querySelector('.rev'); if(!rc || rc.textContent.trim() !== rv) return false; }
+    var tp = tiposel ? tiposel.value : 'all';
+    if(tp !== 'all'){ var tc = tr.querySelector('.tipo'); if(!tc || tc.textContent.trim() !== tp) return false; }
     return true;
   }
 
@@ -603,6 +611,8 @@ footer{background:#eef3f6;color:#5d6878;padding:22px 40px;border-top:3px solid #
     });
   });
   if(catsel) catsel.addEventListener('change', aplica);
+  if(revsel) revsel.addEventListener('change', aplica);
+  if(tiposel) tiposel.addEventListener('change', aplica);
 
   aplica();
 })();
