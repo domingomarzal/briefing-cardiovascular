@@ -18,7 +18,7 @@ def prio(c,t):
     return ("medio","Relevante") if t>=5 else ("bajo","Complementario")
 def esc(s): return html.escape(s or "",quote=False)
 def num(x): return ("%.1f"%x).replace(".",",")
-PTYPE_EN={"Journal Article":"Investigación original","Review":"Revisión","Meta-Analysis":"Metaanálisis","Systematic Review":"Revisión sistemática","Randomized Controlled Trial":"Ensayo clínico aleatorizado","Editorial":"Editorial","Letter":"Carta","Comment":"Comentario","Observational Study":"Estudio observacional","Multicenter Study":"Estudio multicéntrico","Case Reports":"Caso clínico","Practice Guideline":"Guía de práctica clínica","Clinical Trial":"Ensayo clínico"}
+PTYPE_EN={"Journal Article":"Investigación original","Review":"Revisión","Meta-Analysis":"Metaanálisis","Systematic Review":"Revisión sistemática","Randomized Controlled Trial":"Ensayo clínico aleatorizado","Editorial":"Editorial","Letter":"Carta al editor","Comment":"Comentario","Observational Study":"Estudio observacional","Multicenter Study":"Estudio multicéntrico","Case Reports":"Caso clínico","Practice Guideline":"Guía de práctica clínica","Clinical Trial":"Ensayo clínico"}
 def entype(pts):
     for p in ["Randomized Controlled Trial","Meta-Analysis","Systematic Review","Practice Guideline","Review","Observational Study"]:
         if p in pts: return PTYPE_EN[p]
