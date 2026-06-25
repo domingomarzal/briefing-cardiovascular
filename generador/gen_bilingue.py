@@ -48,13 +48,17 @@ VARIANTS = {
 }
 
 # ---- build per-article presentation ----
-BY = {}
-for k, a in DATA.items():
-    es, en = titles(a)
-    a["_t_es"], a["_t_en"] = es, en
-    BY.setdefault(a["sec"], []).append(a)
-for s in BY: BY[s].sort(key=lambda x:-x["total"])
-ALL = {k:a for k,a in DATA.items()}
+BY = {}; ALL = {}; VIZ = ""
+def setup(cfg):
+    global DATA, NUM, PERIOD, DESTACADO_KEY, TOP3, _ACR, VIZ, BY, ALL
+    DATA = json.load(open(cfg["data"])); NUM = cfg["num"]; PERIOD = cfg["period"]
+    DESTACADO_KEY = cfg["dest"]; TOP3 = cfg["top3"]; _ACR = cfg["acr"]; VIZ = cfg["viz"]
+    BY = {}
+    for k, a in DATA.items():
+        es, en = titles(a); a["_t_es"], a["_t_en"] = es, en
+        BY.setdefault(a["sec"], []).append(a)
+    for s in BY: BY[s].sort(key=lambda x:-x["total"])
+    ALL = {k:a for k,a in DATA.items()}
 
 CSS = """
 *{box-sizing:border-box;} html{scroll-behavior:smooth;}
@@ -63,7 +67,7 @@ body{margin:0;background:#eceff4;color:#16202e;font-family:"Segoe UI",-apple-sys
 .wrap{max-width:1040px;margin:24px auto;background:var(--papel);box-shadow:0 4px 22px rgba(16,21,31,.09);border-radius:14px;overflow:hidden;}
 .mast{background:var(--headbg);color:#fff;padding:24px 40px 20px;}
 .mast-title{margin:0;font-size:36px;font-weight:800;letter-spacing:-.02em;line-height:1;}
-.mast-title .ac{color:var(--titleac);} .mast-title .iabig{font-size:45px;}
+.mast-title .ac{color:var(--titleac);} .mast-title .iabig{font-size:inherit;}
 .mast-bottom{display:flex;justify-content:space-between;align-items:center;gap:16px;margin-top:20px;}
 .lang{display:inline-flex;border:1px solid rgba(255,255,255,.32);border-radius:20px;overflow:hidden;}
 .lang button{font-family:inherit;border:none;background:transparent;color:#cdd8e0;font-size:11px;font-weight:700;letter-spacing:.05em;padding:5px 13px;cursor:pointer;}
@@ -144,7 +148,7 @@ footer .fsign{width:auto;max-height:68px;height:auto;display:inline-block;}
 .modal-body{font-size:14.5px;color:#37414f;line-height:1.6;text-align:justify;}
 .modal-body p{margin:0 0 11px;} .modal-body b{color:var(--navy);}
 .modal-links{margin-top:18px;display:flex;gap:8px;justify-content:flex-end;}
-@media(max-width:620px){.wrap{margin:0;border-radius:0;}.mast{padding:22px 18px 18px;}main{padding:18px 18px 0;}footer{padding:22px 18px;}.indice ol{grid-template-columns:1fr;}.mast-title{font-size:27px;}.mast-title .iabig{font-size:33px;}.destacado .d-grid{grid-template-columns:1fr;gap:14px;}.top3 li{grid-template-columns:1fr;gap:7px;}.top3 .t3aside{text-align:left;align-items:flex-start;flex-direction:row;gap:12px;}.fleft,.fright{display:block;width:100%;border-left:0;padding:0;}.fright{margin-top:16px;border-top:1px solid #d4dde3;padding-top:16px;text-align:left;}}
+@media(max-width:620px){.wrap{margin:0;border-radius:0;}.mast{padding:22px 18px 18px;}main{padding:18px 18px 0;}footer{padding:22px 18px;}.indice ol{grid-template-columns:1fr;}.mast-title{font-size:27px;}.destacado .d-grid{grid-template-columns:1fr;gap:14px;}.top3 li{grid-template-columns:1fr;gap:7px;}.top3 .t3aside{text-align:left;align-items:flex-start;flex-direction:row;gap:12px;}.fleft,.fright{display:block;width:100%;border-left:0;padding:0;}.fright{margin-top:16px;border-top:1px solid #d4dde3;padding-top:16px;text-align:left;}}
 @media print{.backtop,.filtros,.lang{display:none;}.sec-body{display:block!important;}.chev{display:none;}.cmodal{display:none!important;}}
 """
 
@@ -220,11 +224,11 @@ def build(variant):
     destacado = ('<div class="destacado"><div class="d-top"><span class="d-kicker">%s</span>%s</div>'
       '<div class="d-grid"><div class="d-text"><h2><label class="ml" for="cb-a-%s" data-es="%s" data-en="%s">%s</label></h2>'
       '<p>%s</p><p class="why"><b>%s</b> %s</p><div class="jwrap">%s</div></div>'
-      '<div class="d-viz">%s<div style="text-align:center;font-size:10.5px;color:var(--gris);margin-top:-4px;" data-es="Reintervención 6,3%% vs 1,6%%" data-en="Reintervention 6.3%% vs 1.6%%">Reintervención 6,3%% vs 1,6%%</div></div></div></div>') % (
+      '%s</div></div>') % (
       T("★ Destacado de la semana","★ Highlight of the week"), ptype_span(dest), DESTACADO_KEY,
       ae(de if VAR["title_lang"]=="es" else den), ae(den), he(ddt),
       T(dest["es"].get("resumen",""), dest["en"].get("resumen","")),
-      T("Por qué importa:","Why it matters:"), T(dest["es"].get("why",""), dest["en"].get("why","")), jl(dest), svg)
+      T("Por qué importa:","Why it matters:"), T(dest["es"].get("why",""), dest["en"].get("why","")), jl(dest), VIZ)
 
     root = ":root{"+VAR["root"]+"}"
     HTML = ('<!DOCTYPE html><html lang="es"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">'
@@ -271,15 +275,25 @@ SCRIPT = """<script>
 })();
 </script>"""
 
-OUT_REPO = "/Users/dmarzal/Documents/Claude/Briefing Cardiovascular/briefing-cardiovascular-repo/n2"
-OUT_LOCAL = "/Users/dmarzal/Documents/Claude/Briefing Cardiovascular/Briefing Cardiovascular_N2"
-for variant in ("briefing","ciencia"):
-    h = build(variant)
-    fn = VARIANTS[variant]["fname"]
-    io.open(OUT_REPO+"/"+fn+".html","w",encoding="utf-8").write(h)
-    if variant=="briefing":
-        io.open(OUT_LOCAL+"/Briefing Cardiovascular_N2.html","w",encoding="utf-8").write(h)
-    else:
-        io.open(OUT_LOCAL+"/Ciencia al día_N2.html","w",encoding="utf-8").write(h)
-    print(variant, "->", fn+".html", len(h.encode()), "bytes")
+BASE = "/Users/dmarzal/Documents/Claude/Briefing Cardiovascular/briefing-cardiovascular-repo"
+LOCALBASE = "/Users/dmarzal/Documents/Claude/Briefing Cardiovascular"
+def _acr(p): return json.load(open(p))
+def _viz(p): return io.open(p, encoding="utf-8").read()
+CONFIGS = [
+ dict(n="n0", data="/tmp/n0_data.json", num="Nº 0", period=("3 al 10 de junio de 2026","June 3–10, 2026"), dest="m021", top3=["m101","m060","m151"], acr=_acr("/tmp/n0_acr.json"), viz=_viz("/tmp/n0_viz.html"), local="Briefing Cardiovascular_N0", lnum="N0"),
+ dict(n="n1", data="/tmp/n1_data.json", num="Nº 1", period=("8 al 14 de junio de 2026","June 8–14, 2026"), dest="e002", top3=["e061","e004","x2"], acr=_acr("/tmp/n1_acr.json"), viz=_viz("/tmp/n1_viz.html"), local="Briefing Cardiovascular_N1", lnum="N1"),
+]
+import sys as _sys
+ONLY = _sys.argv[1] if len(_sys.argv) > 1 else None
+for cfg in CONFIGS:
+    if ONLY and cfg["n"] != ONLY: continue
+    setup(cfg)
+    for variant in ("briefing","ciencia"):
+        h = build(variant); fn = VARIANTS[variant]["fname"]
+        io.open(BASE+"/"+cfg["n"]+"/"+fn+".html","w",encoding="utf-8").write(h)
+        if variant=="briefing":
+            io.open(LOCALBASE+"/"+cfg["local"]+"/"+cfg["local"]+".html","w",encoding="utf-8").write(h)
+        else:
+            io.open(LOCALBASE+"/"+cfg["local"]+"/Ciencia al día_"+cfg["lnum"]+".html","w",encoding="utf-8").write(h)
+        print(cfg["n"], variant, len(h.encode()), "bytes")
 print("OK")
