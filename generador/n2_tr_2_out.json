@@ -1,0 +1,122 @@
+{
+ "a093": {
+  "en": {
+   "resumen": "In older adults with or without atrial fibrillation, the RSVpreF vaccine reduced RSV-related and all-cause respiratory and cardiorespiratory hospitalizations.",
+   "why": "supports RSV vaccination in older adults, including patients with atrial fibrillation, a higher-risk population.",
+   "deque": "Prespecified analysis of the DAN-RSV trial, a pragmatic, open-label, individually randomized trial in Denmark (2024/2025 season). Adults aged 60 years or older randomized 1:1 to the RSVpreF vaccine or no vaccine. Primary endpoint: hospitalization for RSV-related respiratory disease, assessing effect modification according to atrial fibrillation (AF).",
+   "resultados": "Of 131,276 participants, 10,126 (7.7%) had AF (mean age 73.2 years; 30.4% women). Vaccine efficacy for the primary endpoint: AF 80.6% (95% CI -84.7 to 99.6); no AF 84.6% (95% CI 32.3 to 98.3); interaction p>0.99. For all-cause respiratory hospitalization: AF 25.7%; no AF 13.0%. No significant association with hospitalization for AF or stroke.",
+   "conclusiones": "In older adults, the RSVpreF vaccine was associated with a lower incidence of RSV-related and all-cause respiratory and cardiorespiratory hospitalizations, without effect modification according to atrial fibrillation status."
+  },
+  "title_es": "Efecto de la vacuna frente al VRS en adultos mayores con fibrilación auricular: análisis preespecificado del ensayo DAN-RSV"
+ },
+ "a003": {
+  "en": {
+   "resumen": "Nearly all weight-management drugs outperformed placebo or lifestyle interventions; semaglutide and tirzepatide achieved the greatest weight loss and the most favorable outcomes.",
+   "why": "informs the pharmacologic choice for obesity management and its potential impact on mortality and cardiovascular events.",
+   "deque": "Living systematic review and network meta-analysis for the American College of Physicians (CRD42023491646). Search of MEDLINE and Cochrane Central through October 2025 for randomized trials of pharmacologic weight-management treatments in adults with a BMI of 25 kg/m2 or higher. Outcomes: mortality, weight loss, and quality of life.",
+   "resultados": "69 studies with 112,511 participants; 37 at low risk of bias. Nearly all interventions were more effective than placebo and/or lifestyle interventions, with more discontinuations due to adverse effects. Semaglutide probably reduced mortality and MACE. Semaglutide and tirzepatide achieved the greatest weight loss. Evidence on mortality, MACE, and serious adverse effects was limited.",
+   "conclusiones": "Nearly all interventions were more effective than placebo and/or lifestyle interventions in reducing weight; semaglutide and tirzepatide showed the most favorable results across the set of outcomes."
+  },
+  "title_es": "Beneficios y daños de los tratamientos farmacologicos en adultos con sobrepeso u obesidad: revision sistematica viva y metaanalisis en red para el American College of Physicians"
+ },
+ "a022": {
+  "en": {
+   "resumen": "Treating familial hypercholesterolaemia from childhood reduces the cumulative LDL-C burden and is associated with a lower cardiovascular risk in affected young people.",
+   "why": "supports the early detection and treatment of familial hypercholesterolaemia as a pediatric condition to prevent premature cardiovascular disease.",
+   "deque": "SAFEHEART prospective observational cohort (NCT02693548) including children/adolescents (<18 years) with confirmed heterozygous familial hypercholesterolaemia (FH-Ch), unaffected relatives (non-FH-Ch), and affected parents (FH-P). Lipid-lowering treatment, LDL-C burden, and cardiovascular events were evaluated.",
+   "resultados": "348 FH-Ch, 165 non-FH-Ch, and 288 FH-P; median follow-up 12.4 years. Treatment initiation at 14.5 years (FH-Ch) versus 36.1 (FH-P). On-treatment LDL-C: 3.00 mmol/L in FH-Ch (-47.4%). At 30-40 years, cumulative burden: 5,909.0 versus 10,206.8 mg/dL·years (FH-Ch versus FH-P). At 39 years, cardiovascular events: 0.0% (non-FH-Ch), 0.3% (FH-Ch), and 5.2% (FH-P).",
+   "conclusiones": "Treating familial hypercholesterolaemia from childhood reduces the cumulative LDL-C burden compared with adult initiation and is associated with a lower cardiovascular risk, supporting it as a pediatric condition requiring early detection and treatment."
+  },
+  "title_es": "Tratamiento hipolipemiante desde la infancia/adolescencia y resultados a largo plazo en la hipercolesterolemia familiar: el estudio SAFEHEART"
+ },
+ "a051": {
+  "en": {
+   "resumen": "ESC consensus document recommending personalization of antithrombotic therapy after ACS treated with PCI, prioritizing reduction of bleeding risk.",
+   "why": "offers practical guidance to individualize dual antiplatelet therapy after an acute coronary syndrome and reduce avoidable bleeding.",
+   "deque": "Clinical consensus document from several ESC working groups (Thrombosis, ACVC, EAPCI, and Cardiovascular Pharmacotherapy). It addresses antithrombotic strategies after acute coronary syndrome (ACS) treated with PCI: 12-month dual antiplatelet therapy (DAPT) versus shortening/de-escalation or prolonged dual antithrombotic therapy.",
+   "resultados": "Shortening or de-escalation reduces bleeding, especially in the 20-40% of patients at high bleeding risk (HBR). Low prevalence of stent thrombosis and reinfarction beyond 1-3 months with latest-generation stents. In HBR, standard DAPT increases the net risk compared with shortened/de-escalated therapy. In high ischaemic risk without HBR, prolonged dual therapy reduces thrombotic risk.",
+   "conclusiones": "No ideal scores balance ischaemic and bleeding risk; the document advises focusing on the most modifiable risk, bleeding, which should predominate when choosing the DAPT regimen in patients with ACS treated with PCI."
+  },
+  "title_es": "Terapia antitrombotica para prevencion secundaria en pacientes con sindrome coronario agudo tratados con intervencion coronaria percutanea: opciones de personalizacion para reducir el riesgo hemorragico o isquemico"
+ },
+ "a116": {
+  "en": {
+   "resumen": "Patients without standard modifiable cardiovascular risk factors (SMuRF) show higher 30-day mortality after ACS, attributable to index-event and dilution biases.",
+   "why": "helps interpret the apparently higher mortality of SMuRF-less patients without abandoning prevention of classic risk factors.",
+   "deque": "Study from the ISACS-TC registry (NCT04008173) including 70,953 white patients with a first ACS (2005-2021). Primary endpoint: all-cause 30-day mortality according to SMuRF burden (hypertension, hypercholesterolemia, diabetes, smoking).",
+   "resultados": "At least one SMuRF in 84%. The greater the number of SMuRF, the lower the age at ACS (women 67.1 versus 61.9 years; P<0.001). 30-day mortality was higher in patients without SMuRF (women 16.3% versus 7.7%; men 11.5% versus 4.8%). Isolated diabetes conferred excess mortality (RR 1.29 [95% CI 1.06-1.57] women; 1.40 [1.16-1.69] men). Early deaths (≤1 day) were more frequent without SMuRF (36.8% versus 31.7%).",
+   "conclusiones": "SMuRF determine an earlier onset of ACS and lower ACS-free survival; the apparently higher mortality of SMuRF-less patients reflects index-event and dilution biases, so prevention of smoking, hypercholesterolemia, and diabetes remains crucial."
+  },
+  "title_es": "Factores de riesgo cardiovascular modificables estandar y supervivencia libre de sindrome coronario agudo"
+ },
+ "a008": {
+  "en": {
+   "resumen": "The introduction of mechanical CPR devices in emergency medical services agencies was not associated with better survival after out-of-hospital cardiac arrest.",
+   "why": "questions the usefulness of mechanical CPR devices for improving survival in routine practice.",
+   "deque": "Observational cohort from the CARES (Cardiac Arrest Registry to Enhance Survival) registry that evaluated agency-level survival before and after the first use of a mechanical CPR device (2013-2019), with interrupted time-series analysis and control agencies.",
+   "resultados": "In 51,994 patients from 73 control agencies, there were no temporal trends. In 49 agencies that introduced devices (14,110 arrests before and 17,804 after), favorable neurologic survival was 8.9% before and 8.3% after (adjusted intercept OR 0.94 [95% CI 0.80-1.11]; P=0.48). Survival to discharge was 11.0% before and 10.0% after, with no significant changes.",
+   "conclusiones": "In a large U.S. registry, agency rates of favorable neurologic survival and survival to discharge were not higher after the introduction of mechanical CPR device use."
+  },
+  "title_es": "Uso de dispositivos de RCP mecanica y supervivencia tras parada cardiaca en agencias de emergencias medicas"
+ },
+ "a077": {
+  "en": {
+   "resumen": "The Mayo ATTR-CM score showed better discrimination than the AMY score for identifying transthyretin cardiac amyloidosis in diverse populations.",
+   "why": "validates a simple tool, based on routine clinical and echocardiographic data, for the early detection of ATTR-CM in diverse populations.",
+   "deque": "Diagnostic validation and comparison study of the Mayo ATTR-CM and AMY scores in two cohorts: a radionuclide imaging referral cohort from the Mayo Clinic (n=1,553; 29% with ATTR-CM) and SCAN-MP, a prospective community study in Black or Caribbean Hispanic individuals (n=646; 6.6% with ATTR-CM).",
+   "resultados": "The Mayo ATTR-CM score showed superior discrimination (AUC 0.86 [95% CI 0.84-0.88] in Mayo; 0.81 [0.75-0.87] in SCAN-MP) compared with AMY (AUC 0.67 in Mayo; 0.70 in SCAN-MP; DeLong P<0.001). Performance remained robust with EF <40% and in women.",
+   "conclusiones": "The Mayo ATTR-CM score provides solid and consistent performance in diverse populations and outperforms the AMY score; its use of routine data facilitates early detection."
+  },
+  "title_es": "Rendimiento diagnostico de la escala Mayo ATTR-CM en poblaciones diversas: comparacion con la escala AMY"
+ },
+ "a018": {
+  "en": {
+   "resumen": "At 10 years, TAVR with the SAPIEN 3 valve and surgery showed similar mortality, reintervention, and hemodynamics in intermediate-risk patients.",
+   "why": "provides very long-term durability data for TAVR versus surgery in intermediate-risk aortic stenosis.",
+   "deque": "Comparison of 10-year outcomes between intermediate-risk patients undergoing TAVR with the SAPIEN 3 valve (P2S3i registry; NCT03222128) and surgery in the PARTNER 2A trial (NCT01314313), matched 1:1 by propensity score. Outcomes: mortality, valve reintervention, and echocardiography.",
+   "resultados": "Of 2,005 patients, 1,069 underwent TAVR and 936 surgery. After matching (783 per group; age ~82 years; STS 5.5%): 10-year mortality 83.4% (TAVR) versus 82.3% (surgery) (HR 1.01 [95% CI 0.91-1.13]; P=0.82). Reintervention adjusted for competing risk: 2.0% versus 1.9% (P=0.47). Mean gradients 11.0 versus 12.6 mmHg.",
+   "conclusiones": "At 10 years, TAVR with SAPIEN 3 and surgery achieved similar rates of mortality, valve reintervention, and hemodynamics in intermediate risk; the analysis underscores the challenges of prolonged follow-up and the competing risk of death."
+  },
+  "title_es": "Resultados a 10 años del reemplazo valvular aortico transcateter con SAPIEN 3 o cirugia en pacientes de riesgo intermedio"
+ },
+ "a115": {
+  "en": {
+   "resumen": "Left atrial reservoir strain (LARS) independently predicts progression to end-stage disease in hypertrophic cardiomyopathy.",
+   "why": "provides an echocardiographic marker that improves risk stratification for progression to end-stage disease in hypertrophic cardiomyopathy.",
+   "deque": "Cohort of 925 patients with hypertrophic cardiomyopathy (2007-2023) with at least 1 year of echocardiographic follow-up. Primary endpoint: progression to end-stage disease (LVEF <50% without a reversible cause). Cardiac MRI subcohort (491 patients). Predictors: LVEF, apical aneurysm, LARS, and late gadolinium enhancement (LGE%).",
+   "resultados": "Over a median of 6.5 years, 35 patients (3.8%) progressed (10-year incidence 4.4%). LVEF, apical aneurysm, and LARS were independent predictors (per each -1% of LARS: HR 1.10; 95% CI 1.04-1.17; p<0.001). In the CMR subcohort, LARS remained a predictor after adjusting for LGE% (HR 1.11; 95% CI 1.02-1.20). After progression, 2-year event-free survival was 71.0%.",
+   "conclusiones": "Progression to end-stage disease is infrequent but carries a poor prognosis; deterioration of LARS predicts it independently of conventional markers, supporting its role in risk stratification."
+  },
+  "title_es": "Strain de reservorio de la auricula izquierda para predecir la progresion a fase terminal en la miocardiopatia hipertrofica"
+ },
+ "a108": {
+  "en": {
+   "resumen": "An AI algorithm applied to the 12-lead ECG detected hypertrophic cardiomyopathy with high specificity, up to years before the clinical diagnosis.",
+   "why": "could advance the identification of unrecognized hypertrophic cardiomyopathy using a standard ECG.",
+   "deque": "Diagnostic study of the Viz HCM algorithm (Viz.ai) applied to the 12-lead ECG compared with cardiac MRI. Of 314 patients with cMRI, 150 had an analyzable ECG and confirmed HCM and 83 were controls. AUC was measured and, at a prespecified threshold, sensitivity and specificity.",
+   "resultados": "In 233 patients (mean age 56 years; 62% male), AUC 0.946 (95% CI 0.916-0.970), sensitivity 58% (95% CI 50.0%-65.6%), and specificity 100% (95% CI 95.6%-100%). The apical subtype predicted correct detection (OR 4.71; P=0.005). In 9 of 28 patients with an ECG ≥1 year earlier, the algorithm detected HCM a median of 2.6 years before the clinical diagnosis.",
+   "conclusiones": "The AI algorithm applied to the ECG demonstrated highly specific HCM detection confirmed by MRI and could improve the early identification of unrecognized hypertrophic cardiomyopathy."
+  },
+  "title_es": "Inteligencia artificial para la deteccion de la miocardiopatia hipertrofica a partir del electrocardiograma estandar"
+ },
+ "a127": {
+  "en": {
+   "resumen": "Electrical isolation of the left atrial appendage reduced residual patency after device closure in persistent atrial fibrillation.",
+   "why": "suggests a strategy to reduce residual appendage patency and stroke risk after percutaneous closure combined with ablation.",
+   "deque": "Observational study of patients with persistent atrial fibrillation undergoing combined catheter ablation and left atrial appendage closure (LAAC) (NCT03788941). The effect of left atrial appendage electrical isolation (LAAEI) on patency was evaluated by CT angiography at 3 months, with propensity matching.",
+   "resultados": "Of 686 patients, 469 were matched (363 without LAAEI and 106 with LAAEI). Complete closure was seen in 53.7%. The LAAEI group had lower patency (34.9% versus 49.6%; adjusted OR 0.69 [95% CI 0.48-0.98]; P=0.040). LAAEI was protective (OR 0.68); the other predictor of leak was the maximum ostium diameter (OR 1.04 [95% CI 1.00-1.08]; P=0.046).",
+   "conclusiones": "Electrical isolation of the left atrial appendage is an effective strategy to reduce appendage patency in patients with persistent atrial fibrillation undergoing combined ablation and closure."
+  },
+  "title_es": "El aislamiento electrico de la orejuela izquierda reduce la patencia residual tras el cierre con dispositivo en pacientes con fibrilacion auricular persistente"
+ },
+ "a028": {
+  "en": {
+   "resumen": "In AF with heart failure and reduced LVEF, ablation achieved biatrial reverse remodeling and better exercise capacity compared with rate control.",
+   "why": "supports ablation over pharmacologic rate control to recover atrial function and improve functional capacity in AF with reduced LVEF.",
+   "deque": "Analysis of the CAMERA-MRI and CAMERA-MRI II studies that compared catheter ablation (CA) with pharmacologic rate control (MRC) in atrial fibrillation with heart failure and reduced LVEF (HFrEF), with serial cardiac MRI and 6-minute walk test (6MWT).",
+   "resultados": "123 patients (age 60.7 years; 82 CA, 41 MRC). Patients with CA had reverse remodeling of all biatrial parameters (P<0.001), with no changes with MRC. The Δ left atrial emptying fraction (LAEF) and AF burden were independently associated with the Δ LVEF; sinus rhythm at follow-up was no longer significant (P=0.865). The 6MWT improved in 48.8% (MRC) versus 76.8% (CA) (P=0.002).",
+   "conclusiones": "Ablation, with a reduction in biatrial size, increased biatrial ejection fraction compared with rate control; AF burden, rather than rhythm at follow-up, predicted the changes, suggesting that atrial contractile recovery is key in HFrEF."
+  },
+  "title_es": "Remodelado estructural y funcional auricular detectado por RM cardiaca en FA con FEVI reducida: ablacion frente a control farmacologico de frecuencia"
+ }
+}

@@ -1,0 +1,122 @@
+{
+ "a112": {
+  "en": {
+   "resumen": "In true resistant hypertension, a single intervention (drug or renal denervation) lowers blood pressure but only one third achieve control.",
+   "why": "confirms that adding monotherapy is not enough and points toward combined strategies in a difficult-to-manage profile.",
+   "deque": "Systematic review and meta-analysis (MEDLINE/PubMed) on the effect of adding a single pharmacological intervention or renal denervation (RDN) in true resistant hypertension. Main analysis used a single-arm framework. A total of 68 studies were included (n=6,297).",
+   "resultados": "n=6,297; mean age 60 years; 60% men; mean of 4.8 drugs; baseline office blood pressure 164/92 mmHg; median follow-up 6 months. In 58 studies (n=4,579), pooled reduction in 24-h ambulatory SBP of -11.3 mmHg (95% CI -12.3 to -10.2). In 15 studies (n=2,700), control rate 35% (95% CI 28-42). No significant differences between RDN and drugs.",
+   "conclusiones": "A single intervention (pharmacological or RDN) added to background therapy achieves a clinically relevant blood pressure reduction, but only one third reach control; trials of combined strategies are needed."
+  },
+  "title_es": "Las intervenciones únicas (farmacológicas o denervación renal) no son suficientes para lograr el control de la presión arterial en la hipertensión resistente: una revisión sistemática y metaanálisis"
+ },
+ "a004": {
+  "en": {
+   "resumen": "ACP 2026 guideline: semaglutide and tirzepatide are first-line treatment for weight management together with lifestyle modification.",
+   "why": "establishes the pharmacological hierarchy for overweight and obesity in outpatient practice, with cardiometabolic impact.",
+   "deque": "Living clinical guideline from the American College of Physicians (ACP, April 2026) for outpatient clinicians, based on systematic reviews and GRADE methodology. Conditional recommendations for nonpregnant adults with obesity (BMI ≥30) or overweight (BMI ≥27 to 30) with comorbidity.",
+   "resultados": "In obesity (BMI ≥30): first line semaglutide and tirzepatide (moderate certainty); second phentermine-topiramate; third liraglutide; fourth naltrexone-bupropion. In overweight (BMI ≥27 to 30) with comorbidity: first line semaglutide and tirzepatide; second liraglutide. Warnings: monthly pregnancy testing and contraindication in cardiovascular disease with phentermine-topiramate; suicidal ideation with naltrexone-bupropion.",
+   "conclusiones": "The ACP suggests initiating pharmacological treatment together with lifestyle modification, prioritizing semaglutide and tirzepatide, while weighing benefits, harms, costs, comorbidity, and patient preferences."
+  },
+  "title_es": "Tratamientos farmacológicos con modificaciones del estilo de vida en adultos no embarazadas con sobrepeso u obesidad en el ámbito ambulatorio: una guía clínica viva del American College of Physicians (abril de 2026)"
+ },
+ "a084": {
+  "en": {
+   "resumen": "Pregnancy acts as a physiological stress test and a key opportunity for cardiovascular prevention in both the mother and the offspring.",
+   "why": "links pregnancy risk factors to long-term cardiovascular risk, reinforcing prevention across the reproductive cycle.",
+   "deque": "Review article on cardiometabolic health across the reproductive lifespan. It proposes a clinically actionable framework to optimize cardiometabolic health before, during, and after pregnancy, addressing hypertension, dyslipidemia, obesity, and hyperglycemia.",
+   "resultados": "No numerical data in the abstract. Cardiometabolic risk factors are associated with complications such as hypertensive disorders of pregnancy and gestational diabetes, which confer lifelong cardiovascular risk.",
+   "conclusiones": "Optimizing cardiometabolic health through evidence-based strategies and multidisciplinary life-course approaches, integrating preconception, gestational, and postpartum care, is essential to improve maternal and long-term cardiovascular outcomes."
+  },
+  "title_es": "Salud cardiometabólica en el embarazo: prevención, manejo e implicaciones a largo plazo"
+ },
+ "a065": {
+  "en": {
+   "resumen": "A quality improvement program with a health coach and tailored strategies increased LDL-C control in veterans with cardiovascular disease.",
+   "why": "demonstrates that addressing local barriers improves attainment of lipid goals in an undertreated population.",
+   "deque": "Original research: quality improvement program (Veterans Affairs Lipid Optimization Reimagined) integrated into routine practice across 50 VA centers between December 2022 and September 2025. Primary outcome: proportion of veterans with LDL-C <70 mg/dL at 24 months.",
+   "resultados": "167,505 veterans with cardiovascular disease; 88,778 with baseline LDL-C ≥70 mg/dL analyzed; mean age 70.0 years; 7.0% women. A total of 32.9% achieved LDL-C <70 mg/dL and, in 24,610 with data at 24 months, 34.4% reached the goal (P<0.001). Mean LDL-C decreased by 16.6 mg/dL; use of lipid-lowering therapy rose from 77.4% to 87.8%; adherence from 56.3% to 65.1%.",
+   "conclusiones": "Addressing site-specific barriers to lipid management is associated with improvement in LDL-C among veterans with cardiovascular disease."
+  },
+  "title_es": "Un nuevo enfoque para el manejo de la hipercolesterolemia: el programa de mejora de calidad Veterans Affairs Lipid Optimization Reimagined"
+ },
+ "a085": {
+  "en": {
+   "resumen": "An AI-enabled ECG showed diagnostic performance and myocardial infarction rule-out safety that were consistent across sexes in the emergency department.",
+   "why": "supports a tool that could reduce underdiagnosis of myocardial infarction in women without compromising safety.",
+   "deque": "ROMIAE diagnostic study (Rule-Out Acute Myocardial Infarction Using AI ECG Analysis; NCT05435391): prospective multicenter external validation across 18 centers in South Korea in adults with suspected acute myocardial infarction. The AI-ECG analyzed the initial ECG using prespecified risk thresholds, stratified by sex.",
+   "resultados": "8,493 patients, 3,186 women. Comparable AUC: 0.875 (95% CI 0.853-0.896) in women and 0.871 (95% CI 0.858-0.883) in men. At the low-risk cutoff, sensitivity 98.8% (women) and 99.8% (men); NPV 99.2% and 99.1%; missed AMI rate <1% in both sexes. Performance was stable in STEMI and NSTEMI.",
+   "conclusiones": "The AI-ECG showed diagnostic performance that was consistent across sexes and maintained rule-out safety for AMI; further validation and implementation studies are warranted."
+  },
+  "title_es": "Rendimiento consistente entre sexos de un ECG con inteligencia artificial para el infarto agudo de miocardio: el estudio ROMIAE"
+ },
+ "a014": {
+  "en": {
+   "resumen": "The benefit of mineralocorticoid receptor antagonists in heart failure depends on prior aldosterone: it improves with high levels and worsens with low levels.",
+   "why": "suggests that baseline aldosterone could help personalize the use of MRAs in heart failure.",
+   "deque": "Pooled patient-level analysis of heart failure cohorts with MRA exposure and plasma aldosterone (DOSE, CARRESS-HF, MDR, and TOPCAT; n=1,019); the outcomes meta-analysis added EARLIER (n=300) and EPHESUS (n=453).",
+   "resultados": "MRAs were associated with higher median aldosterone: 310 versus 174 pg/mL without MRA (P<0.001). The MRA-outcome association depended on pre-MRA aldosterone (P interaction=0.005): with high aldosterone HR 0.63 (95% CI 0.42-0.92; P=0.02); with low aldosterone HR 1.66 (95% CI 1.12-2.45; P=0.01).",
+   "conclusiones": "Low doses of MRA raise aldosterone but inadequately block the mineralocorticoid receptor; with high aldosterone they are associated with better outcomes and with low aldosterone with worse outcomes. These are hypothesis-generating findings; MRAs remain a recommended treatment in heart failure."
+  },
+  "title_es": "Concentraciones sanguíneas de aldosterona y efectos de los antagonistas del receptor mineralocorticoide en la insuficiencia cardiaca"
+ },
+ "a094": {
+  "en": {
+   "resumen": "In hypertrophic cardiomyopathy with apical aneurysm, the risk of sudden death and thrombus increases continuously with aneurysm size.",
+   "why": "apical aneurysm size allows stratification of the risk of sudden death and thromboembolism in hypertrophic cardiomyopathy.",
+   "deque": "International multicenter cohort of 510 patients with hypertrophic cardiomyopathy and apical aneurysm from 10 centers, followed for a median of 4.1 years. Objective: sudden death (SD) and thrombus/embolism events according to size (maximum transverse dimension).",
+   "resultados": "Sizes: 19% small (<10 mm), 39% medium, 39% large, 3% very large. SD event rate 2.1%/year, increasing with size: 0.2%/year (small), 2.3% (medium), 3.0% (large), and 8.2% (very large; P<0.001), independent of the ESC SD score. Apical thrombus in 10% (13% overall), from 3% (small) to 25% (very large; P<0.001).",
+   "conclusiones": "In hypertrophic cardiomyopathy with apical aneurysm, SD rates are high with a continuous relationship to size; those <10 mm are low risk (0.2%/year) and those ≥10 mm are high risk (>2%/year), with more apical thrombi at larger sizes."
+  },
+  "title_es": "Espectro clínico y resultados en la miocardiopatía hipertrófica con aneurismas apicales: una gran cohorte internacional multicéntrica"
+ },
+ "a017": {
+  "en": {
+   "resumen": "At 10 years, balloon-expandable TAVR in intermediate-risk patients was associated with lower survival and more valve reintervention than surgery.",
+   "why": "provides very long-term durability and survival data relevant to choosing between TAVR and surgery in intermediate-risk patients.",
+   "deque": "Ten-year results of the PARTNER 2A randomized trial (NCT01314313): symptomatic severe aortic stenosis at intermediate surgical risk randomized (2011-2013) to balloon-expandable TAVR (SAPIEN XT) or surgery, stratified by transfemoral (TF) or transthoracic (TA/TAo) access.",
+   "resultados": "1,910 randomized: 974 TAVR (TF 76.9%) and 936 surgery; mean age 81.6 years; mean STS 5.8%. Ten-year mortality 86.1% TAVR vs 82.8% surgery (HR 1.13; 95% CI 1.02-1.25; P=0.02). By access: TF similar (83.9% vs 82.1%); TA/TAo higher with TAVR (93.2% vs 85.1%; P<0.01; P interaction=0.03). Ten-year reintervention 6.3% vs 1.6% (P<0.001). Mean gradients 12.6 vs 12.7 mmHg.",
+   "conclusiones": "At 10 years, TAVR with SAPIEN XT in intermediate-risk patients was associated with lower survival (especially with TA/TAo access) and more aortic valve reintervention compared with surgery."
+  },
+  "title_es": "Resultados aleatorizados a 10 años del reemplazo valvular aórtico transcatéter o quirúrgico en la estenosis aórtica de riesgo intermedio"
+ },
+ "a021": {
+  "en": {
+   "resumen": "Debate defending surgery as the first option in aortic stenosis with a life expectancy beyond 5 years, owing to the scarcity of long-term TAVI data.",
+   "why": "questions the broad indication of TAVI in long-lived patients given the lack of long-term durability data.",
+   "deque": "Great-debate review article on whether surgical aortic valve replacement (SAVR) should remain the first option in aortic stenosis for patients with a life expectancy beyond 5 years, as opposed to TAVI.",
+   "resultados": "No numerical data in the abstract. Trials confirm equivalent outcomes between TAVI and SAVR up to 5 years, but data beyond that point are scarce and real-world registries are contradictory; higher rates of pacemaker implantation and paravalvular regurgitation after TAVI are cited.",
+   "conclusiones": "Given the insufficient long-term durability of TAVI and its higher complication rates, it is justified to argue that SAVR should remain the first option in patients with a life expectancy beyond 5 years."
+  },
+  "title_es": "Gran debate: el reemplazo valvular aórtico quirúrgico es la primera opción en la estenosis aórtica en pacientes con una esperanza de vida superior a 5 años"
+ },
+ "a073": {
+  "en": {
+   "resumen": "A deep learning model detected left ventricular outflow tract obstruction from standard B-mode echocardiographic videos without Doppler.",
+   "why": "could reduce underdiagnosis of obstructive hypertrophic cardiomyopathy, a candidate for cardiac myosin inhibitors.",
+   "deque": "Diagnostic study: deep learning model to detect left ventricular outflow tract (LVOT) obstruction from apical 4-chamber B-mode videos without Doppler. 2,396 patients with obstruction and 6,177 matched controls. External validation at Cedars-Sinai, Stanford, and Kaiser Permanente Northern California.",
+   "resultados": "In the Cedars-Sinai set (3,848 videos): AUC 0.858 (95% CI 0.847-0.870). Kaiser Permanente: AUC 0.817 (95% CI 0.740-0.922); Stanford: AUC 0.836. Performance was consistent across subgroups (hyperdynamic LV function, valvular disease, and small LV cavity).",
+   "conclusiones": "The AI model detects LVOT obstruction from standard apical 4-chamber videos, identifying patients who could benefit from a more detailed evaluation for obstructive hypertrophic cardiomyopathy."
+  },
+  "title_es": "Detección de la obstrucción del tracto de salida del ventrículo izquierdo a partir de vídeos ecocardiográficos estándar en modo B mediante aprendizaje profundo"
+ },
+ "a050": {
+  "en": {
+   "resumen": "The intraprocedural reduction in mean left atrial pressure during M-TEER improves prognosis only in degenerative mitral regurgitation.",
+   "why": "supports real-time hemodynamic assessment as a procedural endpoint, especially in degenerative mitral regurgitation.",
+   "deque": "Multicenter OCEAN-Mitral registry: 2,629 patients undergoing mitral transcatheter edge-to-edge repair (M-TEER) with direct intraprocedural measurement of mean left atrial pressure (mLAP). Primary outcome: composite of mortality and rehospitalization for heart failure, stratified by etiology (degenerative [DMR] vs functional [FMR]).",
+   "resultados": "DMR 825 (31.4%), FMR 1,804 (68.6%); mLAP decreased in 1,548 (58.9%). In DMR, the reduction in mLAP was associated with a lower risk of the composite (adjusted HR 0.66; 95% CI 0.45-0.96; p=0.028); in FMR there was no association (HR 0.90; 95% CI 0.75-1.08; p=0.251); P interaction=0.006.",
+   "conclusiones": "The reduction in mLAP during M-TEER is independently associated with better outcomes in degenerative but not functional mitral regurgitation, underscoring the value of real-time hemodynamic assessment."
+  },
+  "title_es": "Resultados de los cambios hemodinámicos intraprocedimiento en pacientes sometidos a reparación mitral transcatéter borde a borde"
+ },
+ "a031": {
+  "en": {
+   "resumen": "After pulsed field ablation for atrial fibrillation, atrial tachycardia was infrequent and predominantly left atrial double-loop reentry.",
+   "why": "guides the mapping and re-ablation of atrial tachycardias after pulsed field ablation, an expanding technique.",
+   "deque": "International registry of patients referred for re-ablation due to atrial tachycardia (AT) after a first atrial fibrillation ablation with a pentaspline pulsed field ablation (PFA) catheter, with high-density electroanatomic mapping.",
+   "resultados": "Of 4,144 patients, 236 underwent re-ablation (160 for AF [3.9%] and 76 for AT [1.8%]). 87 ATs were mapped: 21 in the right atrium and 66 in the left atrium (65 reentries). Pulmonary vein isolation durability 84% and posterior wall durability 89%. Left atrial reentry was predominantly double-loop (n=56). In all cases of left atrial reentrant AT, sinus rhythm was restored by ablating the 2 critical boundaries.",
+   "conclusiones": "The incidence of re-ablation for AT after pentaspline PFA was low, reflecting the high durability of the lesions; most post-PFA ATs were left atrial double-loop reentries, predicted by the topological framework."
+  },
+  "title_es": "Incidencia, claves mecanísticas y ablación de la taquicardia auricular tras la ablación por campo pulsado de la fibrilación auricular: resultados de un gran registro internacional"
+ }
+}

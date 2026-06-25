@@ -1,0 +1,132 @@
+{
+ "a130": {
+  "en": {
+   "resumen": "Radiofrequency renal denervation maintained significant blood pressure reductions versus sham at 3 years, with durable safety.",
+   "why": "provides evidence on the 3-year durability of renal denervation in hypertension uncontrolled on medication.",
+   "deque": "Prespecified analysis through the final follow-up of the SPYRAL HTN-ON MED trial (NCT02439775), a randomized, global, sham-controlled study in patients with hypertension uncontrolled on 1-3 antihypertensive drugs, comparing radiofrequency renal denervation (Symplicity Spyral catheter) versus a sham procedure. After 6 months patients were unblinded and those in the sham group could cross over to denervation. Durability of blood pressure reduction, antihypertensive medication burden, and safety were assessed at 36 months by intention to treat.",
+   "resultados": "A total of 74% of sham patients crossed over to denervation after 6 months. Denervation achieved significant reductions in 24-hour ambulatory systolic blood pressure (difference -4.7 mmHg; p=0.0028) and in office systolic blood pressure (difference -7.5 mmHg; p=0.0002) versus sham at 36 months. At 36 months antihypertensive medication burden was balanced (5.2±5.0 vs 5.5±9.9; p=0.63). Clinical adverse events were rare.",
+   "conclusiones": "Versus sham at 3 years, renal denervation achieved greater reductions in ambulatory and office blood pressure with a similar medication burden, maintaining a durable safety profile."
+  },
+  "title_es": "Durabilidad a tres años de la denervación renal por radiofrecuencia: SPYRAL HTN-ON MED"
+ },
+ "a104": {
+  "en": {
+   "resumen": "Interventions using wearables and smartphone applications increase physical activity in patients with cardiovascular disease.",
+   "why": "offers an accessible and scalable approach to promote physical activity in cardiac patients, a key risk factor.",
+   "deque": "Systematic review and meta-analysis (PubMed, Cochrane, and Web of Science) of randomized trials published since January 2000 on wearables and smartphone applications to increase physical activity in patients with cardiovascular disease. Risk of bias was assessed with the Cochrane tool. Daily steps, distance, oxygen consumption, and minutes of moderate-to-vigorous activity were meta-analyzed. Fourteen randomized trials were included.",
+   "resultados": "The interventions produced a mean difference of 1097.4 steps per day (95% CI: 409.2-1785.6; p=0.0018) and of 3.9 minutes of moderate-to-vigorous physical activity per day (95% CI: 0.2-7.6; p=0.0413) versus controls.",
+   "conclusiones": "Interventions combining smartphones and wearables are effective in increasing physical activity in patients with cardiovascular disease, offering accessible and personalized interventions."
+  },
+  "title_es": "Eficacia de las intervenciones de actividad física mediante wearables y aplicaciones de smartphone en personas con enfermedades cardiovasculares e ictus: revisión sistemática y metaanálisis"
+ },
+ "a011": {
+  "en": {
+   "resumen": "Among U.S. adults with cardiovascular-kidney-metabolic syndrome, treatment of hypertension and hyperlipidemia is low and control is suboptimal.",
+   "why": "highlights wide gaps in cardiometabolic management of a high-risk population, especially in young adults, women, and Hispanics.",
+   "deque": "Observational study that characterized national treatment rates for hypertension, diabetes, and hyperlipidemia and risk factor control in adults aged ≥20 years with stage ≥2 cardiovascular-kidney-metabolic (CKM) syndrome, using NHANES data from 2015 to August 2023. A total of 6,384 adults were included (weighted mean age 44.2 years; 51.2% women).",
+   "resultados": "Only 51.3% (95% CI: 49.7%-52.8%) of those with hypertension and 48.8% (95% CI: 46.7%-51.0%) with hyperlipidemia were receiving treatment, compared with 83.4% (95% CI: 80.1%-86.6%) for diabetes. Among those treated, blood pressure control was achieved in 44.7%, glycemic control in 47.3%, and cholesterol control in 68.2%. Adults aged 20-44 years had the lowest rates. Hispanics had the lowest rates for hypertension and hyperlipidemia.",
+   "conclusiones": "Treatment of hypertension and hyperlipidemia was low and fewer than half of treated patients achieved blood pressure or glycemic control; gaps were greatest among young adults, women, and Hispanics."
+  },
+  "title_es": "Tratamiento de los factores de riesgo cardiometabólico en adultos estadounidenses con síndrome cardiovascular-renal-metabólico"
+ },
+ "a015": {
+  "en": {
+   "resumen": "Combined biochemical and genetic screening for familial hypercholesterolemia in children is feasible and reveals a higher-than-expected prevalence (1:163).",
+   "why": "supports the implementation of universal pediatric screening programs for familial hypercholesterolemia, given the availability of effective treatment.",
+   "deque": "VRONI cohort study in Bavaria (from September 2020) with up to 480 pediatricians offering familial hypercholesterolemia screening to children aged 4.8-14.9 years. A two-step approach with 0.2 mL of capillary blood was used; when LDL-C was ≥3.36 mmol/L (≥130 mg/dL), variants were determined with a targeted panel and sequencing. A total of 25,431 children were screened.",
+   "resultados": "1,689 children had LDL-C ≥3.36 mmol/L. Pathogenic variants were identified by panel in 157 and by sequencing in 283 children (17% of those analyzed). Crude prevalence was 1:90, with a founder variant in LDLR (n=63). After adjusting for recruitment bias, the predicted prevalence was 1:163 (0.61%), consistent with gnomAD (1:165) and the UK Biobank (1:176).",
+   "conclusiones": "The prevalence of familial hypercholesterolemia is higher than previous estimates (~1:250); biochemical screening selects candidates for genetic study, supporting a national pediatric screening program."
+  },
+  "title_es": "Cribado genético de hipercolesterolemia familiar en niños: el estudio VRONI"
+ },
+ "a080": {
+  "en": {
+   "resumen": "After myocardial infarction, discontinuing beta-blockers was not associated with higher mortality or reinfarction, although it was associated with a higher risk of MACE driven by cardiovascular hospitalizations.",
+   "why": "informs the decision to withdraw beta-blockers after myocardial infarction in patients with preserved ejection fraction.",
+   "deque": "Systematic review and meta-analysis (MEDLINE, Embase, Cochrane Central, Google Scholar, Epistemonikos through September 11, 2025) comparing discontinuation versus continuation of beta-blockers after myocardial infarction in adults. Certainty was assessed by GRADE. Of 4,103 titles, 10 studies were eligible (1 RCT, 9 observational; N=121,114); eight with LVEF >40% and/or without heart failure.",
+   "resultados": "Compared with continuation, discontinuation might not be associated with higher mortality (HR 1.11; 95% CI: 0.96-1.28; low certainty); might be associated with a higher risk of MACE (HR 1.12; 95% CI: 1.01-1.24; driven by cardiovascular hospitalizations); and might not be associated with a higher risk of infarction (HR 1.39; 95% CI: 0.95-2.04).",
+   "conclusiones": "In post-infarction patients with LVEF >40% and without heart failure, discontinuing beta-blockers might not increase mortality or reinfarction, although it might increase MACE driven by cardiovascular hospitalizations."
+  },
+  "title_es": "Suspensión de betabloqueantes tras un infarto de miocardio: revisión sistemática y metaanálisis"
+ },
+ "a049": {
+  "en": {
+   "resumen": "A shorter door-to-unload time, particularly within 90 minutes, was associated with better survival in myocardial infarction complicated by cardiogenic shock treated with a microaxial pump.",
+   "why": "suggests that early placement of the microaxial pump improves survival in cardiogenic shock due to myocardial infarction.",
+   "deque": "Analysis of the Japan Registry for Percutaneous Ventricular Assist Devices on the association between door-to-unload time and in-hospital mortality in patients with STEMI and cardiogenic shock who received a microaxial pump (February 2020-December 2023). A total of 1,783 patients were analyzed.",
+   "resultados": "Median door-to-unload time was 99 minutes. Overall in-hospital mortality was 39.2%, increasing with longer times: 32.9% (≤60 min), 33.0% (61-90 min), 40.1% (91-150 min), and 48.3% (>150 min). Late placement (>90 min) was associated with higher mortality (adjusted OR 1.56; 95% CI: 1.26-1.95).",
+   "conclusiones": "A shorter door-to-unload time, particularly within 90 minutes, is associated with better survival in patients with STEMI and cardiogenic shock."
+  },
+  "title_es": "Tiempo puerta-descarga y mortalidad en pacientes con infarto de miocardio con elevación del segmento ST complicado por shock cardiogénico"
+ },
+ "a009": {
+  "en": {
+   "resumen": "In obstructive hypertrophic cardiomyopathy, aficamten monotherapy was superior to metoprolol, improving multiple phases of the exercise response.",
+   "why": "challenges beta-blockers as first-line therapy and supports aficamten to improve exercise capacity in obstructive hypertrophic cardiomyopathy.",
+   "deque": "Prespecified secondary analysis of the MAPLE-HCM trial (NCT05767346), a phase 3, randomized, active-controlled study (June 2023-March 2025, 71 sites), comparing aficamten (5-20 mg/day) versus metoprolol (50-200 mg/day) over 24 weeks in symptomatic obstructive hypertrophic cardiomyopathy with pVO2 <100% of predicted. The exercise response was characterized with 16 measures. Of 175 randomized, 165 (94%) had validated tests.",
+   "resultados": "Versus metoprolol, aficamten improved the VE/VCO2 slope (-2.8; 95% CI: -4.0 to -1.5; p<0.001), the anaerobic threshold (76 mL/min; p<0.001), peak workload (8 watts; p=0.003), and circulatory power (p<0.001). Large improvements in peak VO2 were more frequent with aficamten (20.5% vs 3.7%; OR 6.8; p<0.001).",
+   "conclusiones": "Aficamten monotherapy was superior to metoprolol in promoting exercise adaptation in symptomatic obstructive hypertrophic cardiomyopathy, supporting aficamten as first-line treatment."
+  },
+  "title_es": "Rendimiento de ejercicio con aficamtén frente a metoprolol en la miocardiopatía hipertrófica obstructiva: el ensayo clínico aleatorizado MAPLE-HCM"
+ },
+ "a100": {
+  "en": {
+   "resumen": "Left ventricular thrombus recurred in 14% of patients, being associated with apical aneurysm, prior stroke, lower LVEF, and discontinuation of anticoagulation.",
+   "why": "helps individualize the duration of anticoagulation after resolution of a left ventricular thrombus.",
+   "deque": "Multicenter retrospective cohort of patients with resolved left ventricular thrombus, diagnosed by echocardiography. Multivariable Cox regression was used to identify determinants of recurrence. A total of 252 patients were included (mean age 64.5 years; 78.6% men).",
+   "resultados": "Thrombus recurred in 36 patients (14.3%). Those with recurrence had a lower LVEF (34.0% vs 40.0%; p=0.04) and more apical aneurysm (25.0% vs 6.5%; p=0.001). On multivariable analysis: apical aneurysm (HR 3.12; 95% CI: 1.43-6.84) and prior ischemic stroke (HR 2.75; 95% CI: 1.22-6.17) were associated with more recurrence; higher LVEF (HR 0.96 per 1%; 95% CI: 0.95-0.99) and continued anticoagulation (HR 0.27; 95% CI: 0.13-0.58) with less.",
+   "conclusiones": "Left ventricular thrombus recurred in 14%, being associated with apical aneurysm and prior stroke; higher LVEF and continued anticoagulation were associated with lower recurrence."
+  },
+  "title_es": "Factores clínicos y ecocardiográficos asociados a la recurrencia del trombo en el ventrículo izquierdo"
+ },
+ "a052": {
+  "en": {
+   "resumen": "In primary mitral regurgitation, transcatheter edge-to-edge repair improved its technical effectiveness and reduced complications over time.",
+   "why": "documents the technical progress of transcatheter mitral edge-to-edge repair in primary mitral regurgitation.",
+   "deque": "PRIME-MR registry, retrospective and multicenter, with consecutive patients undergoing transcatheter mitral edge-to-edge repair (M-TEER) for primary mitral regurgitation at 27 centers in Europe and North America, classified into four periods (2009-2013, 2014-2016, 2017-2019, 2020-2023). A total of 3,082 patients were included (median age 82 years; 45.1% women).",
+   "resultados": "A total of 80.4% were highly symptomatic (NYHA ≥III). Complications decreased (procedures with complications 42.4% vs 23.1%; p<0.0001) and technical effectiveness increased (residual MR ≤1+: 54.0% vs 68.4%; p<0.001). Stable outcomes at 1 year increased (63.6% vs 74.4%; p=0.03).",
+   "conclusiones": "The PRIME-MR registry shows substantial reductions in residual mitral regurgitation and complications over time in transcatheter edge-to-edge repair of primary MR."
+  },
+  "title_es": "Tendencias temporales de la reparación mitral borde a borde en la insuficiencia mitral primaria"
+ },
+ "a102": {
+  "en": {
+   "resumen": "A MIB score derived from coronary CT angiography correlates with plaque vulnerability and identifies patients at higher risk of events.",
+   "why": "offers a noninvasive tool to stratify the risk of vulnerable plaque and cardiovascular events using CT angiography.",
+   "deque": "Cohort study that integrated plaque morphology, pericoronary inflammation, and plaque burden from CT angiography into a unified morphology-inflammation-burden (MIB) score, assessing its association with vulnerability (OCT/IVUS) and clinical outcomes (NCT04523194; median follow-up 31 months). A total of 438 patients and 1,038 plaques were included.",
+   "resultados": "High-risk plaque, elevated pericoronary adipose tissue attenuation, and total plaque burden were independently associated with vulnerability on OCT (p<0.05). Total burden correlated with atheroma volume on IVUS (r=0.69; p<0.001). Vulnerable patients (≥1 untreated lesion with a high MIB) had a higher rate of cardiac death, ACS, or revascularization (15.3% vs 4.4%; p<0.001).",
+   "conclusiones": "The MIB score derived from CT angiography correlates with plaque vulnerability on intracoronary imaging and identifies patients at higher risk of events, supporting CT angiography for noninvasive stratification."
+  },
+  "title_es": "Evaluación integrada de la vulnerabilidad de placa y los resultados clínicos mediante angio-TC coronaria: la puntuación morfología-inflamación-carga (MIB)"
+ },
+ "a098": {
+  "en": {
+   "resumen": "Compared with direct oral anticoagulants, left atrial appendage closure reduced non-procedure-related bleeding, possibly at the cost of more ischemic stroke.",
+   "why": "informs the choice between left atrial appendage closure and oral anticoagulation for stroke prevention in atrial fibrillation.",
+   "deque": "Updated meta-analysis of randomized trials comparing percutaneous left atrial appendage closure (LAAC) with direct oral anticoagulants (DOACs) in atrial fibrillation (search from 2012 to April 2026). Four trials with 5,890 patients were included; median follow-up 36-42 months.",
+   "resultados": "No differences in total stroke, hemorrhagic stroke, systemic embolism, or death. LAAC showed a higher risk of ischemic stroke (RR 1.36; 95% CI: 0.99-1.89; p=0.06), significant when OPTION was excluded (RR 1.45; 95% CI: 1.03-2.06; p=0.03). LAAC reduced non-procedure-related major bleeding (RR 0.79; 95% CI: 0.65-0.97; p=0.02) and nonmajor bleeding (RR 0.47; 95% CI: 0.39-0.57; p<0.0001). Total major bleeding and intracranial hemorrhage were similar.",
+   "conclusiones": "Compared with DOACs, left atrial appendage closure reduced non-procedure-related major bleeding, potentially at the cost of a higher risk of ischemic stroke, with no differences in major bleeding or intracranial hemorrhage."
+  },
+  "title_es": "Cierre de la orejuela izquierda frente a anticoagulantes orales directos en la fibrilación auricular: metaanálisis de ensayos aleatorizados"
+ },
+ "a045": {
+  "en": {
+   "resumen": "Despite less autonomic modulation, pulsed field ablation achieved better arrhythmia freedom than cryoablation in paroxysmal atrial fibrillation.",
+   "why": "suggests that cardiac autonomic modulation is not critical for the success of ablation in paroxysmal atrial fibrillation.",
+   "deque": "Substudy of the multicenter SINGLE SHOT CHAMPION trial: 210 patients with symptomatic paroxysmal atrial fibrillation randomized 1:1 to pulmonary vein isolation by pulsed field ablation (PFA) or cryoablation (CBA). All received an implantable cardiac monitor; heart rate and heart rate variability (HRV) were recorded over 12 months.",
+   "resultados": "PFA (n=105) was associated with higher HRV on day 1-2 than CBA (n=105; 100 [79-122] ms vs 73 [59-93] ms; p<0.001). Daytime and nighttime heart rates were lower with PFA. Freedom from recurrence at 12 months was higher with PFA (63% vs 49%; p=0.046). HRV did not differ between PFA patients with and without recurrence.",
+   "conclusiones": "Despite less autonomic modulation, PFA was associated with better arrhythmia freedom than CBA, suggesting that such modulation may not be critical for the success of ablation in paroxysmal atrial fibrillation."
+  },
+  "title_es": "Efectos autonómicos y éxito de la ablación tras ablación por campo pulsado y crioablación: subestudio del SINGLE SHOT CHAMPION"
+ },
+ "a040": {
+  "en": {
+   "resumen": "Cavotricuspid isthmus ablation with a pulsed field catheter did not cause significant progression of stenosis in the right coronary artery in most patients.",
+   "why": "provides coronary safety data on pulsed field ablation of the cavotricuspid isthmus, which lies close to the right coronary artery.",
+   "deque": "Retrospective cohort that assessed the effects of cavotricuspid isthmus (CTI) ablation by pulsed field ablation (PFA) on the right coronary artery (RCA) versus radiofrequency ablation (RFA). Ninety-six patients with matched CT angiography pre-ablation and at ~6 months: PFA with a pentaspline catheter (n=55) versus RFA (n=41).",
+   "resultados": "In the PFA group, 54 patients (98.2%) showed no progression of stenosis. CAD-RADS and minimal luminal area showed no significant changes (0 [0-1] vs 0 [0-1], p=0.317; 11.3 vs 11.0 mm², p=0.828). One patient (1.8%) had transient RCA spasm. PFA was associated with shorter procedure time and higher first-pass success.",
+   "conclusiones": "CTI ablation with PFA did not cause significant progression detectable by CT angiography in the right coronary artery in most patients, with favorable procedural characteristics; prospective studies are needed to confirm long-term safety."
+  },
+  "title_es": "Cambios crónicos en la coronaria derecha tras ablación del istmo cavotricuspídeo con un catéter de campo pulsado pentaspline de cesta pequeña: evaluación mediante tomografía computarizada"
+ }
+}
