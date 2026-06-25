@@ -43,7 +43,7 @@ VARIANTS = {
  "ciencia": dict(
    fname="ciencia-al-dia", title_html='Ciencia al d<span class="ac iabig">IA</span>',
    foot_html='Ciencia al d<span class="ac">IA</span>',
-   root="--headbg:linear-gradient(135deg,#164a3a 0%,#0c3025 100%);--titleac:#e3b23c;--top3bg:#164a3a;--top3star:#ffffff;--numborder:#e3b23c;--numtext:#f0d79a;--periodoc:#cfe3d8;",
+   root="--headbg:linear-gradient(135deg,#244a42 0%,#1a352f 100%);--titleac:#e5402a;--top3bg:#23413b;--top3star:#ffffff;--numborder:#e5402a;--numtext:#f6b6ab;--periodoc:#cfe0da;",
    title_lang="es"),  # ciencia: ES mode = Spanish titles
 }
 
