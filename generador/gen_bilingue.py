@@ -157,7 +157,7 @@ def colorcss():
 
 def jl(a, t3=False):
     href = jlink(a["doi"], a["title_en"]); cls = "j t3j" if t3 else "j"
-    return '<a class="%s" href="%s" target="_blank">%s <span class="go">↗</span></a>' % (cls, href, he(a["journal"]))
+    return '<a class="%s" href="%s" target="_blank">%s</a>' % (cls, href, he(a["journal"]))
 
 def ptype_span(a):
     return T(a["ptype"], PTEN.get(a["ptype"], a["ptype"]), "ptype")
