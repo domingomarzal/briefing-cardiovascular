@@ -7,7 +7,7 @@ elig=json.load(open(GEN+"/n3_eligible.json"))             # idx->record (in-wind
 tasks=json.load(open(GEN+"/n3_tasks.json"))               # selected, with scores
 D1,D2="2026/06/22","2026/06/28"
 SECN={1:"Cardiología preventiva",2:"Cardiometabolismo",3:"Dislipemia",4:"Cardiopatía isquémica",5:"Insuficiencia cardíaca",6:"Miocardiopatías",7:"Valvulopatías",8:"Imagen cardíaca",9:"Cardiología intervencionista",10:"Arritmias y electrofisiología"}
-DEST="a113"; TOP3={"a110","a18","a106"}
+DEST="hel"; TOP3={"avg","a110","a18"}
 # editorial discards among eligible (by n3_eligible index)
 BASIC={5,42,43,49,51,60,62,63,68,72,78,116,117}
 NONCV={114,118}
