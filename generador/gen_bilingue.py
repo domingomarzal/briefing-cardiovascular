@@ -285,7 +285,7 @@ def _viz(p): return io.open(p, encoding="utf-8").read()
 CONFIGS = [
  dict(n="n0", data="/tmp/n0_data.json", num="Nº 0", period=("3 al 10 de junio de 2026","June 3–10, 2026"), dest="m021", top3=["m101","m060","m151"], acr=_acr("/tmp/n0_acr.json"), viz=_viz("/tmp/n0_viz.html"), local="Briefing Cardiovascular_N0", lnum="N0"),
  dict(n="n1", data="/tmp/n1_data.json", num="Nº 1", period=("8 al 14 de junio de 2026","June 8–14, 2026"), dest="e002", top3=["e061","e004","x2"], acr=_acr("/tmp/n1_acr.json"), viz=_viz("/tmp/n1_viz.html"), local="Briefing Cardiovascular_N1", lnum="N1"),
- dict(n="n3", data=BASE+"/generador/n3_data.json", num="Nº 3", period=("22 al 28 de junio de 2026","June 22–28, 2026"), dest="hel", top3=["avg","a110","a106"], acr=_acr(BASE+"/generador/n3_acr.json"), viz=_viz(BASE+"/generador/n3_viz.html"), local="Briefing Cardiovascular_N3", lnum="N3"),
+ dict(n="n3", data=BASE+"/generador/n3_data.json", num="Nº 3", period=("22 al 28 de junio de 2026","June 22–28, 2026"), dest="hel", top3=["avg","a110","a18"], acr=_acr(BASE+"/generador/n3_acr.json"), viz=_viz(BASE+"/generador/n3_viz.html"), local="Briefing Cardiovascular_N3", lnum="N3"),
 ]
 import sys as _sys
 ONLY = _sys.argv[1] if len(_sys.argv) > 1 else None
