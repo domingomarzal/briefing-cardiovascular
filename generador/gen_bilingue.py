@@ -232,7 +232,7 @@ def build(variant):
 
     root = ":root{"+VAR["root"]+"}"
     HTML = ('<!DOCTYPE html><html lang="es"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">'
-      '<title>%s — Nº 2</title><style>%s\n%s\n%s</style></head><body><div class="wrap">'
+      '<title>%s</title><style>%s\n%s\n%s</style></head><body><div class="wrap">'
       '<div class="mast"><h1 class="mast-title">%s</h1><div class="mast-bottom">'
       '<div class="lang"><button data-l="es" class="on">ESP</button><button data-l="en">ENG</button></div>'
       '<div class="mast-meta"><span class="periodo" data-es="%s" data-en="%s">%s</span><span class="num">%s</span></div>'
@@ -282,12 +282,15 @@ def _viz(p): return io.open(p, encoding="utf-8").read()
 CONFIGS = [
  dict(n="n0", data="/tmp/n0_data.json", num="Nº 0", period=("3 al 10 de junio de 2026","June 3–10, 2026"), dest="m021", top3=["m101","m060","m151"], acr=_acr("/tmp/n0_acr.json"), viz=_viz("/tmp/n0_viz.html"), local="Briefing Cardiovascular_N0", lnum="N0"),
  dict(n="n1", data="/tmp/n1_data.json", num="Nº 1", period=("8 al 14 de junio de 2026","June 8–14, 2026"), dest="e002", top3=["e061","e004","x2"], acr=_acr("/tmp/n1_acr.json"), viz=_viz("/tmp/n1_viz.html"), local="Briefing Cardiovascular_N1", lnum="N1"),
+ dict(n="n3", data=BASE+"/generador/n3_data.json", num="Nº 3", period=("22 al 28 de junio de 2026","June 22–28, 2026"), dest="a113", top3=["a110","a18","a106"], acr=_acr(BASE+"/generador/n3_acr.json"), viz=_viz(BASE+"/generador/n3_viz.html"), local="Briefing Cardiovascular_N3", lnum="N3"),
 ]
 import sys as _sys
 ONLY = _sys.argv[1] if len(_sys.argv) > 1 else None
 for cfg in CONFIGS:
     if ONLY and cfg["n"] != ONLY: continue
     setup(cfg)
+    os.makedirs(BASE+"/"+cfg["n"], exist_ok=True)
+    os.makedirs(LOCALBASE+"/"+cfg["local"], exist_ok=True)
     for variant in ("briefing","ciencia"):
         h = build(variant); fn = VARIANTS[variant]["fname"]
         io.open(BASE+"/"+cfg["n"]+"/"+fn+".html","w",encoding="utf-8").write(h)
