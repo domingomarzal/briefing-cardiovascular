@@ -80,7 +80,10 @@ main{padding:24px 40px 0;}
 .destacado{margin:0 0 6px;border:1px solid var(--linea);border-left:4px solid var(--titleac);border-radius:10px;background:#fbfdfd;padding:18px 22px;}
 .destacado .d-top{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;margin-bottom:4px;}
 .destacado .d-kicker{font-size:13px;font-weight:700;font-family:Arial,Helvetica,sans-serif;color:var(--titleac);}
-.destacado .d-grid{display:grid;grid-template-columns:1fr 180px;gap:22px;align-items:center;margin-top:6px;}
+.destacado .d-grid{display:grid;grid-template-columns:minmax(0,1fr) 180px;gap:22px;align-items:center;margin-top:6px;}
+.destacado .d-viz{max-width:180px;overflow:hidden;}
+.destacado .d-viz svg{width:100%;height:auto;display:block;}
+.destacado .d-viz img{max-width:100%;height:auto;display:block;}
 .destacado h2{margin:4px 0 8px;font-size:20px;line-height:1.25;color:var(--titulo);font-weight:800;text-align:justify;}
 .destacado p{margin:6px 0;font-size:14.5px;text-align:justify;}
 .top3{margin:26px 0 4px;border:1px solid var(--linea);border-radius:12px;overflow:hidden;}
@@ -282,7 +285,7 @@ def _viz(p): return io.open(p, encoding="utf-8").read()
 CONFIGS = [
  dict(n="n0", data="/tmp/n0_data.json", num="Nº 0", period=("3 al 10 de junio de 2026","June 3–10, 2026"), dest="m021", top3=["m101","m060","m151"], acr=_acr("/tmp/n0_acr.json"), viz=_viz("/tmp/n0_viz.html"), local="Briefing Cardiovascular_N0", lnum="N0"),
  dict(n="n1", data="/tmp/n1_data.json", num="Nº 1", period=("8 al 14 de junio de 2026","June 8–14, 2026"), dest="e002", top3=["e061","e004","x2"], acr=_acr("/tmp/n1_acr.json"), viz=_viz("/tmp/n1_viz.html"), local="Briefing Cardiovascular_N1", lnum="N1"),
- dict(n="n3", data=BASE+"/generador/n3_data.json", num="Nº 3", period=("22 al 28 de junio de 2026","June 22–28, 2026"), dest="a113", top3=["a110","a18","a106"], acr=_acr(BASE+"/generador/n3_acr.json"), viz=_viz(BASE+"/generador/n3_viz.html"), local="Briefing Cardiovascular_N3", lnum="N3"),
+ dict(n="n3", data=BASE+"/generador/n3_data.json", num="Nº 3", period=("22 al 28 de junio de 2026","June 22–28, 2026"), dest="hel", top3=["avg","a110","a106"], acr=_acr(BASE+"/generador/n3_acr.json"), viz=_viz(BASE+"/generador/n3_viz.html"), local="Briefing Cardiovascular_N3", lnum="N3"),
 ]
 import sys as _sys
 ONLY = _sys.argv[1] if len(_sys.argv) > 1 else None
