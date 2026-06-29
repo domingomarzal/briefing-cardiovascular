@@ -41,8 +41,8 @@ VARIANTS = {
    root="--headbg:linear-gradient(135deg,#0a3d62 0%,#072b46 100%);--titleac:#0f9aa0;--top3bg:#0a3d62;--top3star:#0f9aa0;--numborder:#0f9aa0;--numtext:#bdeaeb;--periodoc:#aac3d1;",
    title_lang="en"),  # briefing: ES mode keeps English titles
  "ciencia": dict(
-   fname="ciencia-al-dia", title_html='Ciencia al d<span class="ac iabig">IA</span>',
-   foot_html='Ciencia al d<span class="ac">IA</span>',
+   fname="cardio-al-dia", title_html='Cardio al d<span class="ac iabig">IA</span>',
+   foot_html='Cardio al d<span class="ac">IA</span>',
    root="--headbg:linear-gradient(135deg,#0a3d62 0%,#072b46 100%);--titleac:#0f9aa0;--top3bg:#0a3d62;--top3star:#0f9aa0;--numborder:#0f9aa0;--numtext:#bdeaeb;--periodoc:#aac3d1;",
    title_lang="es"),  # ciencia: ES mode = Spanish titles
 }
@@ -249,7 +249,7 @@ def build(variant):
       '<div class="fbody" data-es="%s" data-en="%s">%s</div></td>'
       '<td class="fright"><img class="fsign" src="data:image/png;base64,%s" alt="Domingo Marzal"></td></tr></table></footer>'
       '</div><a href="#indice" class="backtop" aria-label="Secciones">↩︎</a>%s</body></html>') % (
-        ("Ciencia al día" if variant=="ciencia" else "Briefing Cardiovascular"), CSS, colorcss(), root,
+        ("Cardio al día" if variant=="ciencia" else "Briefing Cardiovascular"), CSS, colorcss(), root,
         VAR["title_html"], ae(PERIOD[0]), ae(PERIOD[1]), he(PERIOD[0]), NUM,
         destacado, T("No te los puedes perder","Don’t miss these"), t3,
         T("Secciones","Sections"), idx,
@@ -300,6 +300,6 @@ for cfg in CONFIGS:
         if variant=="briefing":
             io.open(LOCALBASE+"/"+cfg["local"]+"/"+cfg["local"]+".html","w",encoding="utf-8").write(h)
         else:
-            io.open(LOCALBASE+"/"+cfg["local"]+"/Ciencia al día_"+cfg["lnum"]+".html","w",encoding="utf-8").write(h)
+            io.open(LOCALBASE+"/"+cfg["local"]+"/Cardio al día_"+cfg["lnum"]+".html","w",encoding="utf-8").write(h)
         print(cfg["n"], variant, len(h.encode()), "bytes")
 print("OK")
