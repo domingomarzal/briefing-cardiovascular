@@ -2,7 +2,7 @@
 import json, io, os, html
 from urllib.parse import quote
 
-DATA = json.load(open("/tmp/n2_data.json"))
+DATA = json.load(open("/tmp/n2_data.json")) if os.path.exists("/tmp/n2_data.json") else {}
 NUM = "Nº 2"
 PERIOD = ("15 al 21 de junio de 2026", "June 15–21, 2026")
 DESTACADO_KEY = "a017"
@@ -280,12 +280,13 @@ SCRIPT = """<script>
 
 BASE = "/Users/dmarzal/Documents/Claude/Briefing Cardiovascular/briefing-cardiovascular-repo"
 LOCALBASE = "/Users/dmarzal/Documents/Claude/Briefing Cardiovascular"
-def _acr(p): return json.load(open(p))
-def _viz(p): return io.open(p, encoding="utf-8").read()
+def _acr(p): return json.load(open(p)) if os.path.exists(p) else {}
+def _viz(p): return io.open(p, encoding="utf-8").read() if os.path.exists(p) else ""
 CONFIGS = [
  dict(n="n0", data="/tmp/n0_data.json", num="Nº 0", period=("3 al 10 de junio de 2026","June 3–10, 2026"), dest="m021", top3=["m101","m060","m151"], acr=_acr("/tmp/n0_acr.json"), viz=_viz("/tmp/n0_viz.html"), local="Briefing Cardiovascular_N0", lnum="N0"),
  dict(n="n1", data="/tmp/n1_data.json", num="Nº 1", period=("8 al 14 de junio de 2026","June 8–14, 2026"), dest="e002", top3=["e061","e004","x2"], acr=_acr("/tmp/n1_acr.json"), viz=_viz("/tmp/n1_viz.html"), local="Briefing Cardiovascular_N1", lnum="N1"),
  dict(n="n3", data=BASE+"/generador/n3_data.json", num="Nº 3", period=("22 al 28 de junio de 2026","June 22–28, 2026"), dest="hel", top3=["avg","a110","a18"], acr=_acr(BASE+"/generador/n3_acr.json"), viz=_viz(BASE+"/generador/n3_viz.html"), local="Briefing Cardiovascular_N3", lnum="N3"),
+ dict(n="n4", data=BASE+"/generador/n4_data.json", num="Nº 4", period=("29 de junio al 5 de julio de 2026","June 29 – July 5, 2026"), dest="a1", top3=["a2","a3","a4"], acr=_acr(BASE+"/generador/n4_acr.json"), viz=_viz(BASE+"/generador/n4_viz.html"), local="Briefing Cardiovascular_N4", lnum="N4"),
 ]
 import sys as _sys
 ONLY = _sys.argv[1] if len(_sys.argv) > 1 else None
