@@ -1,0 +1,977 @@
+{
+ "a1": {
+  "key": "a1",
+  "doi": "10.1136/bmj-2026-372161",
+  "journal": "BMJ",
+  "sec": 2,
+  "ptype": "Metaanálisis",
+  "prio": "Imprescindible",
+  "total": 8.6,
+  "title_en": "Comparative effects of drugs for adults with overweight or obesity: systematic review and network meta-analysis",
+  "title_es": "Efectos comparativos de los fármacos para adultos con sobrepeso u obesidad: revisión sistemática y metaanálisis en red",
+  "es": {
+   "resumen": "Metaanálisis en red de 262 ensayos (99.791 participantes) que compara 19 fármacos para la obesidad. A un año, la mayor pérdida de peso frente a modificación del estilo de vida se logró con tirzepatida (−14,9%) y cagrilintida-semaglutida/CagriSema (−14,8%), pero solo la semaglutida subcutánea redujo la mortalidad total.",
+   "why": "ofrece la comparación directa y jerarquizada más actualizada de los fármacos para la obesidad, mostrando que a mayor beneficio de peso suelen corresponder mayores daños y que pocos agentes aportan beneficio cardiovascular.",
+   "deque": "Para informar la toma de decisiones de gestores, financiadores, clínicos y pacientes, se realizó una revisión sistemática y metaanálisis en red de 24 desenlaces con modelos frecuentistas de efectos aleatorios y modelos bayesianos dosis-respuesta, aplicando GRADE y la herramienta Cochrane Risk of Bias 2. Se buscó en Medline, Embase y Cochrane Library hasta el 12 de noviembre de 2025, incluyendo ensayos aleatorizados de ≥12 semanas que compararan fármacos con modificación del estilo de vida, placebo u otro fármaco.",
+   "resultados": "262 ensayos, 99.791 participantes, 19 fármacos, seguimiento de 12 a 172 semanas. Frente a modificación del estilo de vida al año (evidencia de certeza moderada-alta): tirzepatida diferencia media −14,9% (IC95% −16,0% a −13,9%), CagriSema −14,8% (−16,9% a −12,7%), semaglutida oral −10,9% (−12,7% a −9,1%), orforglipron −9,9% (−12,4% a −7,5%), semaglutida subcutánea −9,8% (−10,6% a −9,1%) y fentermina-topiramato −8,1% (−9,7% a −6,5%). Agentes emergentes (ecnoglutida, mazdutida, retatrutida) reducciones de 13,1-14,6% (certeza muy baja a baja). Mayor discontinuación por efectos adversos con orforglipron, naltrexona-bupropión, liraglutida, fentermina-topiramato, CagriSema y semaglutida oral (RR de 1,9 a 4,2); eventos gastrointestinales más aumentados con naltrexona-bupropión, semaglutida oral, orforglipron y tirzepatida (RR de 3,1 a 4,2). Fatiga aumentada sobre todo con naltrexona-bupropión (RR 8,9; incremento absoluto 331 por 1000 personas/año), orforglipron (3,4; 100 más por 1000) y CagriSema (3,2; 92 más por 1000). Tirzepatida redujo más la masa grasa (25,7%) pero también la masa magra (8,3%). La semaglutida subcutánea fue el único fármaco asociado a menor mortalidad por cualquier causa (RR 0,81; IC95% 0,72 a 0,93) e infarto de miocardio (0,72; 0,61 a 0,85), estimaciones basadas en ensayos de desenlaces cardiovasculares en poblaciones de alto riesgo. Semaglutida subcutánea (0,43; 0,21 a 0,84) y tirzepatida (0,49; 0,27 a 0,88) redujeron el riesgo de insuficiencia cardiaca. Ningún fármaco redujo de forma convincente el fallo renal ni mejoró la calidad de vida (43 ensayos, 45.663 participantes) por encima de las diferencias mínimamente importantes (todas las diferencias medias <5 puntos; diferencia mínimamente importante 10).",
+   "conclusiones": "Los fármacos para la obesidad producen una pérdida de peso variable al año, y los mayores beneficios se acompañan en general de mayores daños y discontinuación. La mayoría de los agentes no mejoran la calidad de vida de forma relevante y pocos muestran beneficios cardiovasculares. Las decisiones en la práctica clínica deben sopesar beneficios y daños en el marco de una toma de decisiones compartida."
+  },
+  "en": {
+   "resumen": "Network meta-analysis of 262 trials (99,791 participants) comparing 19 obesity drugs. At one year, the greatest weight loss versus lifestyle modification came with tirzepatide (−14.9%) and cagrilintide-semaglutide/CagriSema (−14.8%), but only subcutaneous semaglutide reduced all-cause mortality.",
+   "why": "it provides the most up-to-date head-to-head ranking of obesity drugs, showing that larger weight benefits generally come with greater harms and that few agents deliver cardiovascular benefit.",
+   "deque": "To inform decision making for policymakers, payers, clinicians, and patients, the authors performed a systematic review and network meta-analysis of 24 outcomes using frequentist random-effects and bayesian dose-response models, the GRADE approach, and the Cochrane Risk of Bias 2 tool. Medline, Embase, and Cochrane Library were searched up to 12 November 2025, including randomised controlled trials of ≥12 weeks comparing one or more drugs with lifestyle modification, placebo, or another drug.",
+   "resultados": "262 trials, 99,791 participants, 19 drugs, follow-up 12 to 172 weeks. Versus lifestyle modification alone at one year (moderate-to-high certainty): tirzepatide mean difference −14.9% (95% CI −16.0% to −13.9%), CagriSema −14.8% (−16.9% to −12.7%), oral semaglutide −10.9% (−12.7% to −9.1%), orforglipron −9.9% (−12.4% to −7.5%), subcutaneous semaglutide −9.8% (−10.6% to −9.1%), and phentermine-topiramate −8.1% (−9.7% to −6.5%). Emerging agents (ecnoglutide, mazdutide, retatrutide) 13.1-14.6% (very low to low certainty). Highest discontinuation due to adverse events with orforglipron, naltrexone-bupropion, liraglutide, phentermine-topiramate, CagriSema, and oral semaglutide (RR 1.9 to 4.2); gastrointestinal events most increased with naltrexone-bupropion, oral semaglutide, orforglipron, and tirzepatide (RR 3.1 to 4.2). Fatigue increased particularly with naltrexone-bupropion (RR 8.9; absolute increase 331 per 1000 people/year), orforglipron (3.4; 100 more per 1000), and CagriSema (3.2; 92 more per 1000). Tirzepatide reduced fat mass most (25.7%) but also lean mass most (8.3%). Subcutaneous semaglutide was the only drug associated with reduced all-cause mortality (RR 0.81, 95% CI 0.72 to 0.93) and myocardial infarction (0.72, 0.61 to 0.85), largely informed by cardiovascular outcome trials in high-risk populations. Subcutaneous semaglutide (0.43, 0.21 to 0.84) and tirzepatide (0.49, 0.27 to 0.88) reduced heart failure risk. No drugs convincingly reduced kidney failure or improved quality of life (43 trials, 45,663 participants) beyond the minimally important differences (all mean differences <5 points; minimally important difference 10).",
+   "conclusiones": "Obesity drugs produce variable weight loss at one year, with larger benefits generally accompanied by greater harms and discontinuation. Most agents do not improve quality of life meaningfully and few show cardiovascular benefits. Clinical decisions should weigh trade-offs between benefits and harms within shared decision making."
+  }
+ },
+ "a2": {
+  "key": "a2",
+  "doi": "10.1016/S0140-6736(26)00302-8",
+  "journal": "Lancet",
+  "sec": 6,
+  "ptype": "Artículo de revisión",
+  "prio": "Relevante",
+  "total": 7.8,
+  "title_en": "Systemic light chain and transthyretin amyloidosis-treatment advancements and future directions",
+  "title_es": "Amiloidosis sistémica por cadenas ligeras y por transtiretina: avances en el tratamiento y direcciones futuras",
+  "es": {
+   "resumen": "Revisión de la amiloidosis sistémica, otrora enfermedad rápidamente mortal y huérfana, hoy altamente tratable. Desde 2018 se han aprobado seis nuevas terapias para la amiloidosis por transtiretina (ATTR) y, para la de cadenas ligeras (AL), el esquema daratumumab-ciclofosfamida-bortezomib-dexametasona (2021) y nuevas inmunoterapias.",
+   "why": "sintetiza cómo los avances moleculares han transformado una enfermedad huérfana sin opciones terapéuticas en una entidad altamente tratable, con inmunoterapias de eficacia sin precedentes.",
+   "deque": "Los descubrimientos sobre los mecanismos moleculares del plegamiento incorrecto y la agregación de la transtiretina han impulsado el desarrollo de fármacos para la amiloidosis ATTR. Esta revisión aborda la epidemiología, la fisiopatología y el diagnóstico de la amiloidosis sistémica, con foco, desde la óptica de los mecanismos moleculares, en las terapias aprobadas y en investigación, así como en las direcciones y retos futuros hacia la cura.",
+   "resultados": "Desde 2018 se han aprobado seis terapias novedosas para la amiloidosis ATTR. Para la amiloidosis AL se aprobó en 2021 la combinación de daratumumab, ciclofosfamida, bortezomib y dexametasona. Desde entonces, inmunoterapias altamente eficaces, como los anticuerpos biespecíficos que reclutan linfocitos T (bispecific T-cell engagers), se han ensayado en pacientes con amiloidosis AL en recaída, con una eficacia sin precedentes.",
+   "conclusiones": "Ante una presentación clínica sugestiva debe sospecharse precozmente la amiloidosis sistémica, con diagnóstico tisular rápido, tipificación proteica adecuada e inicio inmediato de tratamiento activo. Estos rápidos avances terapéuticos preparan el terreno para una posible curación de los pacientes con amiloidosis AL o ATTR, aunque persisten desafíos y direcciones futuras por abordar."
+  },
+  "en": {
+   "resumen": "Review of systemic amyloidosis, once a rapidly fatal orphan disease and now highly treatable. Six novel therapies for transthyretin (ATTR) amyloidosis have been approved since 2018, and for light chain (AL) amyloidosis the daratumumab-cyclophosphamide-bortezomib-dexamethasone regimen (2021) plus new immunotherapies.",
+   "why": "it synthesizes how molecular advances have turned an orphan disease with no approved options into a highly treatable one, with immunotherapies of unprecedented efficacy.",
+   "deque": "Basic discoveries on the molecular mechanisms of transthyretin misfolding and aggregation have driven drug development for ATTR amyloidosis. This Review covers the epidemiology, pathophysiology, and diagnosis of systemic amyloidosis and, through the lens of the molecular mechanisms of pathogenesis, focuses on approved and investigational therapies as well as future directions and challenges toward a cure.",
+   "resultados": "Six novel therapies for ATTR amyloidosis have been approved since 2018. For AL amyloidosis, the combination of daratumumab, cyclophosphamide, bortezomib, and dexamethasone was approved in 2021. Since then, highly effective immunotherapies, such as bispecific T-cell engagers, have been tested in patients with relapsed AL amyloidosis, with unprecedented efficacy.",
+   "conclusiones": "Systemic amyloidosis should be suspected early in individuals with a suggestive clinical presentation, followed by rapid tissue diagnosis, appropriate protein typing, and prompt commencement of active therapy. These rapid therapeutic advancements set the stage for a potential cure for patients with AL or ATTR amyloidosis, though future directions and challenges remain."
+  }
+ },
+ "a3": {
+  "key": "a3",
+  "doi": "10.1016/j.jchf.2026.103218",
+  "journal": "JACC Heart Fail",
+  "sec": 5,
+  "ptype": "Análisis secundario de ensayo clínico",
+  "prio": "Relevante",
+  "total": 7.3,
+  "title_en": "Effects of Tirzepatide in Obesity-Related HFpEF by Sex: A Prespecified Secondary Analysis From the SUMMIT Trial",
+  "title_es": "Efectos de tirzepatida en la IC-FEp relacionada con la obesidad según el sexo: análisis secundario preespecificado del ensayo SUMMIT",
+  "es": {
+   "resumen": "Análisis por sexo del ensayo SUMMIT en pacientes con IC-FEp relacionada con obesidad tratados con tirzepatida. El beneficio sobre muerte cardiovascular o empeoramiento de la IC y sobre síntomas fue consistente en mujeres y hombres (interacción no significativa).",
+   "why": "demuestra que, pese a un fenotipo basal más grave en las mujeres, tirzepatida aporta beneficios homogéneos en ambos sexos, sin heterogeneidad de efecto.",
+   "deque": "Las mujeres predominan en la IC-FEp y existen dimorfismos sexuales entre grasa corporal y fisiopatología que podrían influir en la respuesta al fármaco. El estudio compara características basales y el efecto de tirzepatida sobre criterios primarios y secundarios entre sexos, en los 731 pacientes del SUMMIT (NYHA II-IV, IMC ≥30 kg/m2) aleatorizados a tirzepatida (n=364) o placebo (n=367); coprimarios: tiempo hasta muerte cardiovascular o empeoramiento de IC y cambio en el KCCQ-CSS a 52 semanas.",
+   "resultados": "Mujeres (n=393; 53,8%) frente a hombres (n=338; 46,2%): mayor IMC, mayor cociente cintura/talla (WHtR), mayor gravedad sintomática (NYHA más alta, KCCQ-CSS más bajo) y peor capacidad de ejercicio (menor 6MWD); los hombres tenían mayor remodelado del ventrículo izquierdo y grasa paracardiaca. Un WHtR más alto se asoció a peor función renal solo en mujeres (interacción p=0,043). El efecto de tirzepatida sobre empeoramiento de IC o muerte cardiovascular no difirió por sexo (HR 0,66 en mujeres y 0,61 en hombres; interacción p=0,81), sin heterogeneidad sobre el KCCQ-CSS a 52 semanas (mejoría corregida por placebo de 8,1 y 5,5 puntos; interacción p=0,43) ni sobre el 6MWD (18 m y 15 m; interacción p=0,76). Entre los asignados a tirzepatida, la reducción de peso se asoció con mayor mejoría del KCCQ-CSS en mujeres que en hombres (interacción p=0,0058).",
+   "conclusiones": "Comparadas con los hombres, las mujeres con IC-FEp relacionada con obesidad presentan mayor adiposidad, mayor gravedad sintomática y peor capacidad de ejercicio, pero menor masa del ventrículo izquierdo y menor depósito de grasa paracardiaca. Pese a estas diferencias, tirzepatida produjo beneficios consistentes en múltiples dominios de la gravedad de la IC que no difirieron por sexo."
+  },
+  "en": {
+   "resumen": "Sex-based analysis of the SUMMIT trial in patients with obesity-related HFpEF treated with tirzepatide. The benefit on cardiovascular death or worsening HF and on symptoms was consistent in women and men (no significant interaction).",
+   "why": "it shows that, despite a more severe baseline phenotype in women, tirzepatide delivers uniform benefit across sexes, with no heterogeneity of effect.",
+   "deque": "Women predominate in HFpEF and there are sexual dimorphisms between body fat and pathophysiology that could influence drug response. The study compares baseline characteristics and the effect of tirzepatide on primary and secondary endpoints by sex, in the 731 SUMMIT patients (NYHA II-IV, BMI ≥30 kg/m2) randomized to tirzepatide (n=364) or placebo (n=367); co-primary outcomes: time to cardiovascular death or worsening HF and change in KCCQ-CSS at 52 weeks.",
+   "resultados": "Women (n=393; 53.8%) vs men (n=338; 46.2%): greater BMI, greater waist-to-height ratio (WHtR), greater symptom severity (higher NYHA, lower KCCQ-CSS) and poorer exercise capacity (lower 6MWD); men had greater left ventricular remodeling and paracardiac fat. Higher WHtR was associated with poorer kidney function exclusively in women (interaction P=0.043). The effect of tirzepatide on worsening HF or cardiovascular death did not differ by sex (HR 0.66 in women and 0.61 in men; interaction P=0.81), with no heterogeneity on KCCQ-CSS at 52 weeks (placebo-corrected improvement of 8.1 and 5.5 points; interaction P=0.43) or 6MWD (18 m and 15 m; interaction P=0.76). Among patients randomized to tirzepatide, weight loss was more strongly associated with KCCQ-CSS improvement in women than men (interaction P=0.0058).",
+   "conclusiones": "Compared with men, women with obesity-related HFpEF have greater adiposity, symptom severity and poorer exercise capacity but lower left ventricular mass and paracardiac fat deposition. Despite these differences, tirzepatide resulted in consistent benefits across multiple domains of HF severity that did not differ by sex."
+  }
+ },
+ "a4": {
+  "key": "a4",
+  "doi": "10.1016/j.jcmg.2026.05.013",
+  "journal": "JACC Cardiovasc Imaging",
+  "sec": 7,
+  "ptype": "Metaanálisis",
+  "prio": "Relevante",
+  "total": 6.9,
+  "title_en": "Sex-Related Differences in Outcomes and Thresholds for Intervention in Primary Mitral Regurgitation: A Systematic Review and Meta-Analysis",
+  "title_es": "Diferencias por sexo en los desenlaces y en los umbrales de intervención en la insuficiencia mitral primaria: revisión sistemática y metaanálisis",
+  "es": {
+   "resumen": "Metaanálisis de 17 estudios (25.690 pacientes) sobre diferencias por sexo tras la intervención en insuficiencia mitral primaria (IMP). En el momento de la intervención las mujeres eran mayores y más sintomáticas, y presentaron mayor riesgo de mortalidad por cualquier causa que los hombres (HR 1,15).",
+   "why": "sugiere que los umbrales de intervención recomendados por las guías pueden contribuir a los peores desenlaces de las mujeres, al intervenirlas más tarde y con más comorbilidad valvular.",
+   "deque": "Ante evidencia contradictoria sobre las diferencias de sexo tras la intervención en IMP, los autores realizaron un metaanálisis para examinar si los umbrales de intervención recomendados por las guías contribuyen a esas discrepancias. Se buscaron estudios con desenlaces a largo plazo de pacientes sometidos a intervención quirúrgica o transcatéter por IMP, estratificados por sexo. El desenlace primario fue la mortalidad por cualquier causa y el secundario los eventos cardiovasculares adversos mayores, usando datos individuales reconstruidos de tiempo-hasta-evento, modelos de Cox con fragilidad, tiempo medio de supervivencia restringido y metarregresión.",
+   "resultados": "17 estudios, N=25.690; las mujeres fueron minoría (n=9.632; 37,5%) y significativamente mayores (diferencia media 3,2 años; IC95% 2,2-4,3) con mayor proporción de síntomas de IC (OR 1,8; IC95% 1,6-2,1). A 15,7 años de seguimiento, las mujeres tuvieron mayor riesgo de mortalidad por cualquier causa que los hombres (HR 1,15; IC95% 1,07-1,24), con un déficit de supervivencia de 5,8 meses (IC95% 3,7-7,7). Resultados similares en el análisis de sensibilidad restringido a estudios quirúrgicos (HR 1,18; IC95% 1,10-1,27). El sexo femenino también se asoció a mayores eventos cardiovasculares adversos mayores (n=2.775) (HR 1,37; IC95% 1,11-1,70; Δ tiempo medio de supervivencia restringido 8,5 meses; IC95% 2,4-14,5). La edad, la insuficiencia tricuspídea (IT) ≥ moderada y la reparación tricuspídea concomitante fueron moderadores significativos de las diferencias de sexo en mortalidad (P<0,001; P=0,03 y P<0,001, respectivamente); una mayor proporción de IT ≥ moderada y reparación tricuspídea en mujeres confirió mayor mortalidad frente a los hombres. Ni los parámetros ventriculares izquierdos ni los auriculares izquierdos moderaron significativamente las diferencias de sexo en mortalidad (todos P>0,05).",
+   "conclusiones": "En el momento de la intervención por IMP, las mujeres son mayores, tienen más síntomas y peores desenlaces a largo plazo que los hombres. La mayor edad femenina junto con la mayor prevalencia de IT ≥ moderada y de reparación tricuspídea explicaron una proporción significativa de esta heterogeneidad en la mortalidad relacionada con el sexo, mientras que las diferencias en los parámetros ventriculares y auriculares izquierdos no tuvieron influencia significativa. Se justifica una revisión cuidadosa de las guías actuales para asegurar la equidad de resultados en salud entre sexos."
+  },
+  "en": {
+   "resumen": "Meta-analysis of 17 studies (25,690 patients) on sex differences after intervention for primary mitral regurgitation (PMR). At the time of intervention women were older and more symptomatic and had greater all-cause mortality risk than men (HR 1.15).",
+   "why": "it suggests that guideline-recommended intervention thresholds may contribute to worse outcomes in women, who are treated later and with more valvular comorbidity.",
+   "deque": "Given conflicting evidence on sex differences after PMR intervention, the authors performed a meta-analysis to examine whether guideline-recommended intervention thresholds contribute to these discrepancies. Databases were searched for studies reporting long-term outcomes of patients undergoing surgical or transcatheter PMR interventions, stratified by sex. The primary endpoint was all-cause mortality and the secondary was major adverse cardiovascular events, using reconstructed time-to-event individual patient data, frailty-adjusted Cox models, restricted mean survival time, and meta-regression.",
+   "resultados": "17 studies, N=25,690; women were the minority (n=9,632; 37.5%) and significantly older (mean difference 3.2 years; 95% CI 2.2-4.3) with a greater proportion of HF symptoms (OR 1.8; 95% CI 1.6-2.1). At 15.7 years of follow-up, women had greater all-cause mortality risk than men (HR 1.15; 95% CI 1.07-1.24), a survival deficit of 5.8 months (95% CI 3.7-7.7). Similar results in the sensitivity analysis restricted to surgical studies (HR 1.18; 95% CI 1.10-1.27). Female sex was also associated with increased major adverse cardiovascular events (n=2,775) (HR 1.37; 95% CI 1.11-1.70; Δ restricted mean survival time 8.5 months; 95% CI 2.4-14.5). Age, ≥ moderate tricuspid regurgitation (TR), and concomitant tricuspid valve repair were significant moderators of sex differences in mortality (P<0.001, P=0.03, and P<0.001, respectively); a greater proportion of ≥ moderate TR and tricuspid valve repair in women conferred increased mortality relative to men. Neither left ventricular nor left atrial parameters significantly moderated sex differences in mortality (all P>0.05).",
+   "conclusiones": "At the time of PMR intervention, women are older, have more symptoms, and worse long-term outcomes than men. Older female age alongside higher prevalence of ≥ moderate TR and tricuspid valve repair explained a significant proportion of this heterogeneity in sex-related all-cause mortality, whereas differences in left ventricular and left atrial parameters had no significant influence. A careful appraisal of current guidelines to ensure equality of health care outcomes between sexes is warranted."
+  }
+ },
+ "a5": {
+  "key": "a5",
+  "doi": "10.1093/eurheartj/ehag543",
+  "journal": "Eur Heart J",
+  "sec": 1,
+  "ptype": "Emulación de ensayo diana",
+  "prio": "Relevante",
+  "total": 6.75,
+  "title_en": "Influenza vaccination, incident atrial fibrillation, and cardiovascular outcomes",
+  "title_es": "Vacunación antigripal, fibrilación auricular incidente y desenlaces cardiovasculares",
+  "es": {
+   "resumen": "Emulación de ensayo diana en 276.888 pacientes emparejados que evalúa la vacunación antigripal y la fibrilación auricular (FA) incidente. La vacunación se asoció a un 20% menos de riesgo de FA incidente (HR 0,80) y a menor riesgo de varios desenlaces cardiovasculares.",
+   "why": "es la primera evaluación a gran escala del papel de la vacuna antigripal en la prevención de la FA incidente, apuntando a una posible estrategia preventiva previa a los eventos.",
+   "deque": "La infección gripal desencadena eventos cardiovasculares y la vacunación aporta beneficio cardiovascular en poblaciones de alto riesgo, pero su papel en la prevención de la FA incidente en la práctica clínica es incierto. Se realizó un estudio de cohorte retrospectivo con un marco de emulación de ensayo diana usando la red TriNetX Global Collaborative, incluyendo adultos con una visita sanitaria de rutina en 2022; la exposición fue la vacunación antigripal en el año previo frente a comparadores sin vacunación registrada, con emparejamiento por puntaje de propensión 1:1 sobre 65 variables basales.",
+   "resultados": "Tras el emparejamiento se incluyeron 276.888 pacientes (138.444 por grupo) con excelente equilibrio de covariables. Durante un seguimiento medio de 2,7 ± 0,7 años, la vacunación antigripal se asoció a menor riesgo de FA incidente (HR 0,80; IC95% 0,76-0,84; P<0,0001). La incidencia anualizada absoluta de FA fue 0,9% en vacunados frente a 1,1% en no vacunados. Los vacunados también tuvieron menor riesgo de mortalidad por cualquier causa (HR 0,85; IC95% 0,82-0,89), infarto de miocardio (HR 0,91; IC95% 0,86-0,97), insuficiencia cardiaca incidente (HR 0,92; IC95% 0,88-0,96) y hospitalización de causa cardiovascular (HR 0,97; IC95% 0,95-0,99). Las asociaciones fueron consistentes en dirección en los subgrupos por edad y enfermedad cardiovascular, sin modificación significativa del efecto.",
+   "conclusiones": "En una amplia cohorte observacional retrospectiva de práctica real, la vacunación antigripal se asoció a menor riesgo de FA incidente y de múltiples desenlaces cardiovasculares. Estos hallazgos respaldan la vacunación como potencial estrategia preventiva previa de la FA y subrayan la necesidad de ensayos aleatorizados diseñados específicamente para desenlaces relacionados con la FA."
+  },
+  "en": {
+   "resumen": "Target-trial emulation in 276,888 matched patients evaluating influenza vaccination and incident atrial fibrillation (AF). Vaccination was associated with a 20% lower risk of incident AF (HR 0.80) and lower risk of several cardiovascular outcomes.",
+   "why": "it is the first large-scale evaluation of influenza vaccination's role in preventing incident AF, pointing to a possible upstream prevention strategy.",
+   "deque": "Influenza infection triggers cardiovascular events and vaccination confers cardiovascular benefit in high-risk populations, but its role in preventing incident AF in clinical practice is uncertain. A retrospective cohort study using a target-trial emulation framework was conducted with the TriNetX Global Collaborative Federated Research Data Network, including adults with a routine healthcare visit in 2022; exposure was influenza vaccination within the preceding year versus comparators with no recorded vaccination, with 1:1 propensity score matching across 65 baseline variables.",
+   "resultados": "After matching, 276,888 patients (138,444 per group) were included with excellent covariate balance. During a mean follow-up of 2.7 ± 0.7 years, influenza vaccination was associated with lower risk of incident AF (HR 0.80, 95% CI 0.76-0.84; P<0.0001). The absolute annualized AF incidence was 0.9% in vaccinated versus 1.1% in non-vaccinated patients. Vaccinated patients also had lower risks of all-cause mortality (HR 0.85, 95% CI 0.82-0.89), myocardial infarction (HR 0.91, 95% CI 0.86-0.97), incident heart failure (HR 0.92, 95% CI 0.88-0.96), and cardiovascular-related hospitalization (HR 0.97, 95% CI 0.95-0.99). Associations were directionally consistent across age and cardiovascular disease subgroups, without significant effect modification.",
+   "conclusiones": "In a large retrospective observational real-world cohort, influenza vaccination was associated with lower risks of incident AF and multiple cardiovascular outcomes. These findings support vaccination as a potential upstream strategy for AF prevention and highlight the need for randomized trials specifically designed to address AF-related outcomes."
+  }
+ },
+ "a6": {
+  "key": "a6",
+  "doi": "10.1161/CIR.0000000000001456",
+  "journal": "Circulation",
+  "sec": 1,
+  "ptype": "Scientific Statement",
+  "prio": "Relevante",
+  "total": 6.7,
+  "title_en": "Exercise Training in High-Risk Populations: A Scientific Statement From the American Heart Association",
+  "title_es": "Entrenamiento con ejercicio en poblaciones de alto riesgo: declaración científica de la American Heart Association",
+  "es": {
+   "resumen": "Declaración científica de la AHA que resume el estado actual y las direcciones futuras del entrenamiento con ejercicio en poblaciones de alto riesgo (fragilidad, ictus, lesión medular, enfermedades reumatológicas, miocardiopatías genéticas y receptores de terapias avanzadas de IC o dispositivos electrónicos implantables). El ejercicio bien diseñado logra ganancias funcionales y de calidad de vida que igualan o superan a las de poblaciones tradicionales.",
+   "why": "aborda las consideraciones especiales de seguridad y eficacia del entrenamiento con ejercicio en poblaciones de alto riesgo hasta ahora poco cubiertas por el consenso general.",
+   "deque": "Existe amplio consenso sobre los beneficios del entrenamiento aeróbico en pacientes con enfermedad cardiovascular, pero ciertas poblaciones de alto riesgo requieren consideraciones especiales. Esta declaración científica resume el estado actual y las direcciones futuras del entrenamiento con ejercicio en estas poblaciones, incluidos los déficits funcionales, las respuestas al entrenamiento, las modificaciones necesarias para maximizar seguridad y eficacia, y las lagunas de conocimiento.",
+   "resultados": "Hallazgos clave comunes a la mayoría de estas poblaciones de alto riesgo: (1) mayores barreras para participar en el entrenamiento con ejercicio en múltiples niveles; (2) baja capacidad cardiorrespiratoria basal, que crea una necesidad acentuada de intervenciones de ejercicio; (3) modificaciones en la prescripción, con frecuente énfasis en fuerza, equilibrio y flexibilidad además del entrenamiento aeróbico, así como adaptaciones con supervisión reforzada y equipamiento especializado según se necesite; y (4) ganancias funcionales y de calidad de vida en respuesta a programas adecuadamente diseñados que igualan o superan las de poblaciones más tradicionales.",
+   "conclusiones": "Se necesita más investigación para desarrollar regímenes de entrenamiento centrados en el paciente que aborden las necesidades únicas y heterogéneas de estas poblaciones, evaluar su impacto en desenlaces clínicos y centrados en el paciente, y avanzar en una prestación escalable y equitativa de terapias de ejercicio probadamente seguras y eficaces."
+  },
+  "en": {
+   "resumen": "AHA scientific statement summarizing the present state and future directions of exercise training in high-risk populations (frailty, stroke, spinal cord injury, rheumatological conditions, genetic cardiomyopathies, and recipients of advanced HF therapies or cardiac implantable electronic devices). Well-designed exercise yields functional and quality-of-life gains that match or exceed those in traditional populations.",
+   "why": "it addresses the special safety and efficacy considerations of exercise training in high-risk populations that broad general consensus has not covered.",
+   "deque": "There is broad consensus on the benefits of aerobic exercise training in patients with cardiovascular disease, but certain high-risk populations warrant special considerations. This scientific statement summarizes the present state and future directions of exercise training for these populations, including functional deficits, responses to training, modifications needed to maximize safety and efficacy, and knowledge gaps.",
+   "resultados": "Key findings common across most of these high-risk populations: (1) increased barriers to participation in exercise training at multiple levels; (2) low baseline cardiorespiratory fitness, creating heightened need for exercise interventions; (3) modifications to exercise prescription, frequently emphasizing strength, balance, and flexibility in addition to aerobic training, plus accommodations with enhanced supervision and specialized equipment as needed; and (4) functional and quality-of-life gains in response to appropriately designed programs that match or exceed those in more traditional populations.",
+   "conclusiones": "Future research is needed to further develop patient-centered training regimens that address the unique and heterogeneous needs of these populations, evaluate their impact on clinical and patient-centered outcomes, and advance scalable and equitable delivery of exercise therapies proven safe and effective."
+  }
+ },
+ "a7": {
+  "key": "a7",
+  "doi": "10.1161/CIR.0000000000001459",
+  "journal": "Circulation",
+  "sec": 1,
+  "ptype": "Scientific Statement",
+  "prio": "Relevante",
+  "total": 6.56,
+  "title_en": "Deprescribing in Patients With Cardiovascular Disease Experiencing Polypharmacy: A Scientific Statement From the American Heart Association",
+  "title_es": "Desprescripción en pacientes con enfermedad cardiovascular y polifarmacia: declaración científica de la American Heart Association",
+  "es": {
+   "resumen": "Declaración científica de la AHA sobre la desprescripción en pacientes con enfermedad cardiovascular y polifarmacia. Revisa las consecuencias de la polifarmacia y ofrece estrategias de desprescripción adaptadas a lo largo de toda la vida, en poblaciones pediátrica, adulta y de mayor edad.",
+   "why": "aporta orientación estructurada, hasta ahora escasa, sobre cuándo y cómo iniciar la desprescripción en pacientes con enfermedad cardiovascular de todas las edades, no solo mayores.",
+   "deque": "La polifarmacia en pacientes con enfermedad cardiovascular es frecuente en todo el espectro de edad y puede conllevar prescripción inapropiada y desenlaces adversos, pero existe orientación limitada sobre cómo manejarla, incluyendo cuándo y cómo iniciar estrategias de desprescripción. Dado que los estudios suelen centrarse en adultos mayores, esta declaración se enfoca en la desprescripción en todos los pacientes con enfermedad cardiovascular.",
+   "resultados": "La desprescripción puede mejorar los desenlaces y aplicarse tanto a fármacos cardiovasculares como no cardiovasculares, ya que ambos contribuyen a la polifarmacia y a los malos desenlaces asociados a la prescripción inapropiada. La declaración revisa las consecuencias de la polifarmacia y ofrece estrategias de desprescripción adaptadas a lo largo de la vida, con énfasis en las consideraciones propias de las poblaciones pediátrica, adulta y de mayor edad. Estas estrategias incluyen observar señales y desencadenantes clínicos, usar herramientas de desprescripción validadas, participar en la toma de decisiones compartida y aprovechar los roles de todos los miembros del equipo asistencial para abordar las barreras.",
+   "conclusiones": "La declaración destaca los retos actuales relacionados con la polifarmacia y la desprescripción y sugiere estrategias para abordarlos, subrayando que la desprescripción puede mejorar los desenlaces en todos los pacientes con enfermedad cardiovascular a lo largo de la vida."
+  },
+  "en": {
+   "resumen": "AHA scientific statement on deprescribing in patients with cardiovascular disease experiencing polypharmacy. It reviews the consequences of polypharmacy and provides tailored deprescribing strategies across the life span in pediatric, adult, and older adult populations.",
+   "why": "it provides structured guidance, previously limited, on when and how to initiate deprescribing in cardiovascular patients of all ages, not just older adults.",
+   "deque": "Polypharmacy in patients with cardiovascular disease occurs frequently across the age spectrum and can lead to inappropriate prescribing and adverse outcomes, yet there is limited guidance on how to manage it, including when and how to initiate deprescribing strategies. Because studies often focus on older adults, this statement focuses on deprescribing in all patients with cardiovascular disease.",
+   "resultados": "Deprescribing can improve outcomes and apply to both cardiovascular and noncardiovascular drugs, because both contribute to polypharmacy and poor outcomes associated with inappropriate prescribing. The statement reviews the consequences of polypharmacy and provides tailored deprescribing strategies across the life span, with emphasis on the unique considerations in pediatric, adult, and older adult populations. These strategies include observing clinical cues and triggers, using validated deprescribing tools, engaging in shared decision-making, and leveraging the roles of all members of the health care team to address barriers to deprescribing.",
+   "conclusiones": "The statement highlights current challenges related to polypharmacy and deprescribing and suggests strategies to address them, underscoring that deprescribing can improve outcomes in all patients with cardiovascular disease across the life span."
+  }
+ },
+ "a8": {
+  "key": "a8",
+  "doi": "10.1093/eurjpc/zwag349",
+  "journal": "Eur J Prev Cardiol",
+  "sec": 1,
+  "ptype": "Estudio de cohorte",
+  "prio": "Relevante",
+  "total": 5.8,
+  "title_en": "Cardiovascular risk in inflamed Danish women and men without standard modifiable risk factors",
+  "title_es": "Riesgo cardiovascular en mujeres y hombres daneses con inflamación y sin factores de riesgo modificables estándar",
+  "es": {
+   "resumen": "Estudio de cohorte prospectivo en más de 21.000 individuos daneses de bajo riesgo sin factores de riesgo cardiovascular modificables estándar (\"SMuRF-less\"). Una hsCRP elevada se asoció a mayor riesgo de eventos cardiovasculares mayores (MACE), con HR de hasta 1,47 según la población y el umbral.",
+   "why": "extiende a población europea de bajo riesgo el hallazgo, antes descrito en mujeres americanas, de que la inflamación medida por hsCRP predice riesgo cardiovascular pese a la ausencia de factores de riesgo clásicos.",
+   "deque": "Una hsCRP elevada se correlaciona con alto riesgo cardiovascular en mujeres americanas sin factores de riesgo modificables estándar (\"SMuRF-less\"). Con un diseño de cohorte prospectivo se examinó si la hsCRP elevada se asocia con riesgo cardiovascular en mujeres y hombres daneses de bajo riesgo. Se incluyeron individuos SMuRF-less y de bajo riesgo por SCORE2/SCORE2-OP/PREVENT, de 20-100 años sin enfermedad cardiovascular, del Copenhagen General Population Study, con modelos de Cox de causa específica y HR ajustados por múltiples variables para MACE, cardiopatía coronaria e ictus isquémico según umbrales clínicos de hsCRP (<1, 1 a <3 y ≥3 mg/L) y terciles (<0,9, 0,9 a <1,5 y ≥1,5 mg/L).",
+   "resultados": "Se identificaron 21.085 individuos SMuRF-less, 49.425 de bajo riesgo por SCORE2/SCORE2-OP y 58.739 de bajo riesgo por PREVENT, con 895, 2.004 y 2.598 eventos MACE, respectivamente, durante una mediana de 11,4 años de seguimiento. Las incidencias acumuladas de MACE y cardiopatía coronaria aumentaron a lo largo de los umbrales clínicos y terciles de hsCRP en todas las poblaciones. La incidencia acumulada de ictus isquémico fue solo ligeramente mayor con hsCRP elevada. En los SMuRF-less, los HR ajustados (IC95%) para MACE fueron 1,35 (1,08-1,68) y 1,36 (1,14-1,62) para el umbral clínico y el tercil más altos frente al más bajo, respectivamente. Las estimaciones correspondientes fueron 1,47 (1,27-1,71) y 1,39 (1,24-1,57) para SCORE2/SCORE2-OP, y 1,36 (1,20-1,55) y 1,33 (1,20-1,47) para los individuos de bajo riesgo por PREVENT, respectivamente.",
+   "conclusiones": "Las concentraciones elevadas de hsCRP se asocian a mayor riesgo de enfermedad cardiovascular futura en mujeres y hombres daneses de bajo riesgo."
+  },
+  "en": {
+   "resumen": "Prospective cohort study in more than 21,000 low-risk Danish individuals without standard modifiable cardiovascular risk factors (\"SMuRF-less\"). Elevated hsCRP was associated with greater risk of major adverse cardiovascular events (MACE), with HRs up to 1.47 depending on population and threshold.",
+   "why": "it extends to a low-risk European population the finding, previously described in American women, that hsCRP-measured inflammation predicts cardiovascular risk despite the absence of classical risk factors.",
+   "deque": "Elevated hsCRP correlates with high cardiovascular risk in American women without standard modifiable risk factors (\"SMuRF-less\"). Using a prospective cohort design, the authors examined whether elevated hsCRP is associated with cardiovascular risk in low-risk Danish women and men. They included SMuRF-less and SCORE2/SCORE2-OP/PREVENT low-risk individuals aged 20-100 years without cardiovascular disease from the Copenhagen General Population Study, using cause-specific Cox models and multivariable-adjusted HRs for MACE, coronary heart disease, and ischaemic stroke across hsCRP clinical thresholds (<1, 1 to <3, and ≥3 mg/L) and tertiles (<0.9, 0.9 to <1.5, and ≥1.5 mg/L).",
+   "resultados": "21,085 SMuRF-less, 49,425 SCORE2/SCORE2-OP low-risk, and 58,739 PREVENT low-risk individuals were identified, with 895, 2,004, and 2,598 MACE events, respectively, during a median 11.4 years of follow-up. Cumulative incidences of MACE and coronary heart disease increased across hsCRP clinical thresholds and tertiles in all populations. Cumulative incidence of ischaemic stroke was only slightly higher with elevated hsCRP. In SMuRF-less individuals, multivariable-adjusted HRs (95% CI) for MACE were 1.35 (1.08-1.68) and 1.36 (1.14-1.62) for the highest versus lowest clinical threshold and tertile, respectively. Corresponding estimates were 1.47 (1.27-1.71) and 1.39 (1.24-1.57) for SCORE2/SCORE2-OP, and 1.36 (1.20-1.55) and 1.33 (1.20-1.47) for PREVENT low-risk individuals, respectively.",
+   "conclusiones": "Elevated hsCRP levels are associated with increased risk of future cardiovascular disease in low-risk Danish women and men."
+  }
+ },
+ "a9": {
+  "key": "a9",
+  "doi": "10.1161/JAHA.125.050557",
+  "journal": "J Am Heart Assoc",
+  "sec": 1,
+  "ptype": "Estudio de cohorte",
+  "prio": "Relevante",
+  "total": 5.7,
+  "title_en": "Longitudinal Changes in Frailty and Major Adverse Cardiovascular Events in Patients With Coronary Heart Disease",
+  "title_es": "Cambios longitudinales en la fragilidad y eventos cardiovasculares adversos mayores en pacientes con cardiopatía coronaria",
+  "es": {
+   "resumen": "Cohorte ARIC que evalúa la fragilidad basal y sus cambios en el tiempo frente al riesgo de MACE en cardiopatía coronaria. Tanto la fragilidad basal (frágil: HR 1,75) como su progresión aumentan el riesgo, mientras que recuperarse lo reduce.",
+   "why": "muestra que no solo la fragilidad basal, sino también su evolución temporal (progresión o recuperación) modifica el riesgo de MACE, apoyando la monitorización y la intervención sobre la fragilidad.",
+   "deque": "La fragilidad es frecuente en la cardiopatía coronaria (CHD). El estudio examinó la fragilidad basal y sus cambios longitudinales en relación con el riesgo de MACE usando datos del estudio ARIC (Atherosclerosis Risk in Communities). La fragilidad se valoró con un fenotipo de Fried modificado en 2 encuestas consecutivas; el desenlace fue un compuesto de CHD recurrente, insuficiencia cardiaca incidente, ictus o muerte cardiovascular, con modelos de Cox.",
+   "resultados": "Análisis de fragilidad basal: 1.793 pacientes. Frente a robustos, prefrágiles y frágiles tuvieron mayor riesgo de MACE (HR 1,24; IC95% 1,08-1,42 en prefrágiles; HR 1,75; IC95% 1,43-2,15 en frágiles). Análisis de transición: 862 pacientes. Progresar de robusto a prefrágil/frágil aumentó el riesgo (HR 1,43; IC95% 1,07-1,91) frente a permanecer robusto; progresar de prefrágil a frágil (HR 2,30; IC95% 1,62-3,27) frente a prefragilidad estable. Recuperarse de prefrágil a robusto redujo el riesgo (HR 0,62; IC95% 0,40-0,96).",
+   "conclusiones": "Tanto la fragilidad basal como sus cambios temporales se asociaron con el riesgo de MACE en pacientes con cardiopatía coronaria, lo que subraya el valor clínico de monitorizar e intervenir sobre la fragilidad en su manejo."
+  },
+  "en": {
+   "resumen": "ARIC cohort examining baseline frailty and its longitudinal changes against MACE risk in coronary heart disease. Both baseline frailty (frail: HR 1.75) and progression raised risk, while recovery lowered it.",
+   "why": "shows that not only baseline frailty but also its temporal trajectory (progression or recovery) modifies MACE risk, supporting frailty monitoring and intervention.",
+   "deque": "Frailty is common among patients with coronary heart disease (CHD). This study examined baseline frailty and its longitudinal changes in relation to MACE risk using ARIC (Atherosclerosis Risk in Communities) data. Frailty was assessed with a modified Fried phenotype at 2 consecutive surveys; the outcome was a composite of recurrent CHD, incident heart failure, stroke, or cardiovascular death, using Cox models.",
+   "resultados": "Baseline frailty analysis: 1,793 patients. Versus robust, prefrail and frail patients had higher MACE risk (HR 1.24, 95% CI 1.08-1.42 for prefrail; HR 1.75, 95% CI 1.43-2.15 for frail). Transition analysis: 862 patients. Progression from robust to prefrail/frail raised risk (HR 1.43, 95% CI 1.07-1.91) versus remaining robust; progression from prefrail to frail (HR 2.30, 95% CI 1.62-3.27) versus stable prefrailty. Recovery from prefrail to robust lowered risk (HR 0.62, 95% CI 0.40-0.96).",
+   "conclusiones": "Both baseline frailty and its temporal changes were associated with MACE risk among patients with CHD, highlighting the clinical value of monitoring and intervening for frailty in CHD management."
+  }
+ },
+ "a10": {
+  "key": "a10",
+  "doi": "10.1161/CIRCULATIONAHA.126.079319",
+  "journal": "Circulation",
+  "sec": 2,
+  "ptype": "Artículo de revisión",
+  "prio": "Relevante",
+  "total": 7.03,
+  "title_en": "Cardiovascular Risk Reduction With GLP-1 RA Drugs",
+  "title_es": "Reducción del riesgo cardiovascular con fármacos agonistas del receptor de GLP-1",
+  "es": {
+   "resumen": "Primer clínico que revisa la fisiología de la señalización de GLP-1 y la evidencia de reducción del riesgo cardiovascular con sus agonistas del receptor. Los grandes ensayos de desenlaces muestran de forma consistente reducción de eventos cardiovasculares mayores.",
+   "why": "resume que los beneficios de los agonistas del receptor de GLP-1 van más allá del control glucémico e incluyen efectos vasculares y miocárdicos, con reducción de eventos incluso en obesidad sin diabetes.",
+   "deque": "Los agonistas del receptor de GLP-1 (glucagon-like peptide-1), desarrollados inicialmente como hipoglucemiantes en la diabetes tipo 2, han mostrado beneficios amplios. Esta revisión (Clinical Primer) aborda la fisiología de la señalización de GLP-1, la evidencia de reducción del riesgo cardiovascular y consideraciones prácticas para el uso clínico de las terapias basadas en incretinas.",
+   "resultados": "Los agonistas del receptor de GLP-1 potencian la secreción de insulina dependiente de glucosa y reducen el apetito, mejorando la glucemia y logrando pérdida de peso sostenida. Ejercen efectos vasculares y miocárdicos: mejora de la función endotelial, menor inflamación y estrés oxidativo, y cambios favorables en el metabolismo y remodelado cardiaco. Grandes ensayos aleatorizados de desenlaces cardiovasculares muestran de forma consistente que varios agonistas reducen los eventos cardiovasculares mayores, incluidos infarto de miocardio, ictus, muerte cardiovascular e insuficiencia cardiaca, en poblaciones diversas, con enfermedad cardiovascular establecida y con obesidad sin diabetes. Terapias emergentes sobre múltiples vías de incretinas, como los agonistas duales GIP-GLP-1, podrían ampliar estos beneficios.",
+   "conclusiones": "En conjunto, los hallazgos sugieren que los agonistas del receptor de GLP-1 influyen sobre múltiples vías cardiometabólicas y pueden desplazar el entorno metabólico hacia un estado fisiológico más favorable."
+  },
+  "en": {
+   "resumen": "Clinical Primer reviewing GLP-1 signaling physiology and the evidence for cardiovascular risk reduction with GLP-1 receptor agonists. Large outcome trials consistently show reduction of major adverse cardiovascular events.",
+   "why": "summarizes that GLP-1 receptor agonist benefits extend beyond glycemic control to vascular and myocardial effects, with event reduction even in obesity without diabetes.",
+   "deque": "GLP-1 (glucagon-like peptide-1) receptor agonists, initially developed as glucose-lowering therapies for type 2 diabetes, have shown broad benefits. This Clinical Primer reviews GLP-1 signaling physiology, the evidence supporting cardiovascular risk reduction, and practical considerations for the clinical use of incretin-based therapies.",
+   "resultados": "GLP-1 RAs enhance glucose-dependent insulin secretion and reduce appetite, improving glycemia and producing sustained weight loss. They exert vascular and myocardial effects: improved endothelial function, reduced inflammation and oxidative stress, and favorable changes in cardiac metabolism and remodeling. Large randomized cardiovascular outcomes trials consistently show that several GLP-1 RAs reduce major adverse cardiovascular events, including myocardial infarction, stroke, cardiovascular death, and heart failure, across diverse populations including those with established cardiovascular disease and those with obesity but without diabetes. Emerging therapies targeting multiple incretin pathways, such as dual GIP-GLP-1 RAs, may further extend these benefits.",
+   "conclusiones": "Collectively, these findings suggest that GLP-1 RAs influence multiple cardiometabolic pathways and may shift the underlying metabolic milieu toward a more favorable physiological state."
+  }
+ },
+ "a11": {
+  "key": "a11",
+  "doi": "10.1161/JAHA.125.047359",
+  "journal": "J Am Heart Assoc",
+  "sec": 2,
+  "ptype": "Estudio de cohorte",
+  "prio": "Relevante",
+  "total": 6.2,
+  "title_en": "Associations of Physical Activity With Mortality Across Cardiovascular-Kidney-Metabolic Syndrome Stages: Evidence From NHANES 1999 to 2018",
+  "title_es": "Asociaciones de la actividad física con la mortalidad en los distintos estadios del síndrome cardiovascular-renal-metabólico: evidencia del NHANES 1999-2018",
+  "es": {
+   "resumen": "Estudio en 19.930 adultos del NHANES (1999-2018) que analiza la actividad física frente a la mortalidad según el estadio del síndrome cardiovascular-renal-metabólico (CKM). Una actividad física modesta y alcanzable, sobre todo recreativa, se asoció con menor mortalidad, con las mayores diferencias en CKM 3-4.",
+   "why": "aporta evidencia estratificada por estadio de que niveles modestos y alcanzables de actividad física (en especial recreativa) se asocian con menor mortalidad, con el mayor beneficio absoluto en los estadios avanzados CKM 3-4.",
+   "deque": "El síndrome cardiovascular-renal-metabólico (CKM) integra disfunción cardiovascular, renal y metabólica y se asocia con alta mortalidad, pero la evidencia estratificada por estadio que vincula actividad física (PA) y mortalidad es limitada. Se analizaron 19.930 adultos con estadios CKM 0 a 4 del NHANES (1999-2018), con seguimiento de mortalidad hasta 2019. La PA se midió por duración (min/semana) y volumen (MET-min/semana) en dominios recreativo, de transporte y ocupacional, con modelos de Cox ponderados y splines cúbicos restringidos.",
+   "resultados": "Durante el seguimiento ocurrieron 2.759 muertes (997 relacionadas con CKM). La mortalidad aumentó marcadamente con el estadio CKM (por todas las causas: 2,7% en CKM 0-1, 7,0% en CKM 2 y 33,5%-39,2% en CKM 3-4; relacionada con CKM: <2% en CKM 0-2 y 14,2%-15,5% en CKM 3-4). Mayor PA se asoció con menor mortalidad en todos los estadios, con asociaciones no lineales en forma de L. En CKM 3-4, la PA total cerca del rango de referencia (≈500 min/semana o ≈2.000 MET-min/semana) se asoció con menor mortalidad por todas las causas (HR 0,745-0,700) y relacionada con CKM (HR 0,739-0,690); la PA recreativa (≈250 min/semana o ≈1.000 MET-min/semana) mostró las asociaciones inversas más fuertes (todas las causas HR 0,740-0,702; relacionada con CKM HR 0,568-0,550). La PA ocupacional mostró un patrón en U/J. Las interacciones fueron más fuertes para la disfunción renal, particularmente la proteinuria.",
+   "conclusiones": "Una actividad física modesta y alcanzable —especialmente la recreativa— se asoció con menor mortalidad por todas las causas y relacionada con CKM, con las mayores diferencias en los estadios CKM 3 a 4."
+  },
+  "en": {
+   "resumen": "Study of 19,930 NHANES adults (1999-2018) analyzing physical activity against mortality across cardiovascular-kidney-metabolic (CKM) syndrome stages. Modest, attainable physical activity, especially recreational, was associated with lower mortality, with the largest differences in CKM 3-4.",
+   "why": "provides stage-stratified evidence that modest, attainable levels of physical activity (particularly recreational) are associated with lower mortality, with the greatest absolute benefit in advanced CKM stages 3-4.",
+   "deque": "Cardiovascular-kidney-metabolic (CKM) syndrome integrates cardiovascular, renal, and metabolic dysfunction and carries high mortality, but stage-stratified evidence linking physical activity (PA) to mortality is limited. The authors analyzed 19,930 adults with CKM stages 0 to 4 from NHANES (1999-2018) with mortality follow-up through 2019. PA was assessed by duration (min/week) and volume (MET-min/week) across recreational, transport, and occupational domains, using survey-weighted Cox models with restricted cubic splines.",
+   "resultados": "During follow-up, 2,759 deaths occurred (997 CKM related). Mortality rose sharply with CKM stage (all cause: 2.7% in CKM 0-1, 7.0% in CKM 2, and 33.5%-39.2% in CKM 3-4; CKM-related: <2% in CKM 0-2 and 14.2%-15.5% in CKM 3-4). Higher PA was associated with lower mortality across stages, with nonlinear, L-shaped associations. In CKM 3-4, total PA near the reference range (≈500 min/week or ≈2000 MET-min/week) was associated with lower all-cause mortality (HR 0.745-0.700) and CKM-related mortality (HR 0.739-0.690); recreational PA (≈250 min/week or ≈1000 MET-min/week) showed the strongest inverse associations (all-cause HR 0.740-0.702; CKM-related HR 0.568-0.550). Occupational PA displayed a U-/J-shaped pattern. Interactions were strongest for renal dysfunction, particularly proteinuria.",
+   "conclusiones": "Modest, attainable physical activity—especially recreational activity—was associated with lower all-cause and CKM-related mortality, with the greatest differences in CKM stages 3 to 4."
+  }
+ },
+ "a12": {
+  "key": "a12",
+  "doi": "10.7326/ANNALS-25-01660",
+  "journal": "Ann Intern Med",
+  "sec": 2,
+  "ptype": "Análisis secundario de ensayo clínico",
+  "prio": "Relevante",
+  "total": 6.0,
+  "title_en": "Prolonged Short Sleep and Its Effect on Body Weight and Composition: A Pooled Analysis of Randomized Trials",
+  "title_es": "Sueño corto prolongado y su efecto sobre el peso y la composición corporal: análisis agrupado de ensayos aleatorizados",
+  "es": {
+   "resumen": "Análisis agrupado de dos ensayos cruzados aleatorizados que evalúan 6 semanas de restricción de sueño de 1,5 h/noche en adultos con riesgo cardiometabólico elevado. La restricción del sueño aumentó el peso corporal en 0,45 kg frente al sueño adecuado.",
+   "why": "aporta evidencia causal de que la restricción crónica y moderada del sueño provoca ganancia de peso, no solo asociación.",
+   "deque": "El sueño insuficiente se asocia a obesidad, pero se desconocía el efecto causal del sueño crónicamente insuficiente sobre el peso. Se agruparon dos ensayos cruzados aleatorizados (NCT02960776 y NCT02835261) en 95 adultos ≥20 años con riesgo cardiometabólico elevado y sueño habitual ≥7 h/noche, comparando 6 semanas de sueño adecuado frente a restricción de 1,5 h/noche, con lavado intermedio; medidas: adiposidad por resonancia magnética, peso, perímetro de cintura y biomarcadores del balance energético.",
+   "resultados": "La duración del sueño se redujo en 78,4 minutos/noche (IC95% -83,5 a -73,3) con la restricción frente al sueño adecuado. Aumentaron el peso corporal (0,45 kg; IC95% 0,33 a 0,57), el perímetro de cintura (0,52 cm; IC95% 0,25 a 0,79) y el volumen corporal total (0,56 L; IC95% 0,19 a 0,93). La leptina se elevó (2,03 ng/mL; IC95% 0,38 a 3,68) y el tiempo sedentario aumentó en 17,2 minutos/día (IC95% 11,7 a 22,7) con la restricción frente al sueño adecuado.",
+   "conclusiones": "La exposición prolongada a un sueño moderadamente corto puede conducir a ganancia de peso, lo que sugiere que los programas de control de peso y prevención de enfermedad cardiometabólica deberían considerar incorporar estrategias de sueño para promover un sueño adecuado."
+  },
+  "en": {
+   "resumen": "Pooled analysis of two randomized crossover trials evaluating 6 weeks of 1.5 h/night sleep restriction in adults at elevated cardiometabolic risk. Sleep restriction increased body weight by 0.45 kg versus adequate sleep.",
+   "why": "it provides causal evidence that chronic, mild sleep restriction causes weight gain, not merely association.",
+   "deque": "Insufficient sleep is associated with obesity, but the causal effect of chronic mildly insufficient sleep on weight was unknown. Two randomized crossover trials (NCT02960776 and NCT02835261) were pooled in 95 adults aged ≥20 years at elevated cardiometabolic risk with habitual sleep ≥7 h/night, comparing 6 weeks of adequate sleep versus 1.5 h/night restriction, separated by a washout; measures: adiposity by MRI, body weight, waist circumference and energy-balance biomarkers.",
+   "resultados": "Sleep duration was reduced by 78.4 minutes/night (95% CI -83.5 to -73.3) with restriction versus adequate sleep. Body weight (0.45 kg; 95% CI 0.33 to 0.57), waist circumference (0.52 cm; 95% CI 0.25 to 0.79) and whole-body volume (0.56 L; 95% CI 0.19 to 0.93) increased. Leptin rose (2.03 ng/mL; 95% CI 0.38 to 3.68) and sedentary time increased by 17.2 minutes/day (95% CI 11.7 to 22.7) with restriction versus adequate sleep.",
+   "conclusiones": "Prolonged exposure to moderately short sleep may lead to weight gain, suggesting that weight management and cardiometabolic disease prevention programs should consider incorporating sleep strategies to promote adequate sleep."
+  }
+ },
+ "a13": {
+  "key": "a13",
+  "doi": "10.1093/eurjpc/zwag360",
+  "journal": "Eur J Prev Cardiol",
+  "sec": 2,
+  "ptype": "Estudio de cohorte",
+  "prio": "Relevante",
+  "total": 5.7,
+  "title_en": "Long-Term Major Adverse Cardiovascular and Cerebrovascular Event Risk in Adult-Onset Type 1 Versus Type 2 Diabetes: A Propensity-Matched Cohort Study",
+  "title_es": "Riesgo a largo plazo de eventos cardiovasculares y cerebrovasculares adversos mayores en la diabetes tipo 1 de inicio en el adulto frente a la tipo 2: estudio de cohorte emparejado por propensión",
+  "es": {
+   "resumen": "Cohorte estadounidense (TriNetX) que compara el riesgo de MACCE a 10 años entre diabetes tipo 1 y tipo 2 de inicio en el adulto, con emparejamiento por propensión 1:1. La DM1 tuvo menor riesgo de MACCE (5,5% vs 11,3%; RR 0,48) y algo menor de mortalidad.",
+   "why": "compara directamente, en una cohorte estadounidense multicéntrica y emparejada por propensión, el riesgo cardiovascular a largo plazo de la DM1 frente a la DM2 de inicio en el adulto, y muestra que el tratamiento antihiperglucemiante en DM2 iguala la mortalidad.",
+   "deque": "La evidencia sobre el riesgo de MACCE en la diabetes tipo 1 de inicio en el adulto (T1DM), especialmente frente a la tipo 2 (T2DM), es limitada e inconsistente. Usando TriNetX, se siguió hasta 2025 a adultos diagnosticados de T1DM o T2DM entre 2005-2015. Las cohortes se estratificaron por edad, HbA1c y uso de antihiperglucemiantes no insulínicos, y se emparejaron 1:1 por propensión según demografía y comorbilidades. Se reportaron los riesgos acumulados a 10 años de MACCE (ictus, hemorragia, parada cardiaca, insuficiencia cardiaca, infarto de miocardio, eventos vasculares periféricos y revascularización), complicaciones renales y mortalidad por todas las causas.",
+   "resultados": "Al inicio, los pacientes con T1DM (n=36.599) eran más jóvenes y con menos comorbilidades que los de T2DM (n=1.740.748). La incidencia de MACCE a 10 años en T1DM fue del 5,2%. Tras el emparejamiento (n=33.364), los riesgos de MACCE (5,5% vs 11,3%; RR 0,48; p<0,001) y de mortalidad por todas las causas (7,7% vs 8,3%; RR 0,92; p=0,003) fueron menores en T1DM. Se mantuvo tras estratificar, salvo la mortalidad, que fue similar entre los pacientes que recibían antihiperglucemiantes (7,0% vs 6,5%; RR 1,07; p=0,45).",
+   "conclusiones": "Frente a una cohorte comparadora de T2DM seleccionada fenotípicamente y emparejada por propensión, la T1DM se asoció con menor riesgo de MACCE a 10 años y mortalidad por todas las causas modestamente menor, lo que sugiere una menor carga relativa de eventos cardiovasculares en adultos recién diagnosticados. En la T2DM, sin embargo, el tratamiento antihiperglucemiante mitigó el riesgo de mortalidad, con una supervivencia comparable a la de la T1DM."
+  },
+  "en": {
+   "resumen": "US (TriNetX) cohort comparing 10-year MACCE risk between adult-onset type 1 and type 2 diabetes, with 1:1 propensity matching. T1DM had lower MACCE risk (5.5% vs 11.3%; RR 0.48) and modestly lower mortality.",
+   "why": "directly compares long-term cardiovascular risk of adult-onset T1DM versus T2DM in a multicenter, propensity-matched US cohort, and shows that antihyperglycemic therapy in T2DM equalizes mortality.",
+   "deque": "Evidence on MACCE risk in adult-onset type 1 diabetes (T1DM), particularly versus type 2 (T2DM), is limited and inconsistent. Using TriNetX, adults diagnosed with T1DM or T2DM between 2005-2015 were followed through 2025. Cohorts were stratified by age, HbA1c, and non-insulin antihyperglycemic use and 1:1 propensity-score matched on demographics and comorbidities. Cumulative 10-year risks of MACCE (stroke, hemorrhage, cardiac arrest, heart failure, myocardial infarction, peripheral vascular events, and revascularization), kidney complications, and all-cause mortality were reported.",
+   "resultados": "At baseline, T1DM patients (n=36,599) were younger with fewer comorbidities than T2DM patients (n=1,740,748). 10-year MACCE incidence in T1DM was 5.2%. After matching (n=33,364), risks of MACCE (5.5% vs 11.3%; RR 0.48; p<0.001) and all-cause mortality (7.7% vs 8.3%; RR 0.92; p=0.003) were lower in T1DM. This held on stratification, except mortality, which was similar among patients prescribed antihyperglycemics (7.0% vs 6.5%; RR 1.07; p=0.45).",
+   "conclusiones": "Compared with a propensity-matched, phenotypically selected T2DM comparator cohort, T1DM was associated with lower 10-year MACCE and modestly lower all-cause mortality risk, suggesting lower relative cardiovascular event burden in newly diagnosed adults. In T2DM, however, antihyperglycemic therapy mitigated mortality risk, yielding survival comparable to T1DM."
+  }
+ },
+ "a14": {
+  "key": "a14",
+  "doi": "10.1016/j.jcmg.2026.05.014",
+  "journal": "JACC Cardiovasc Imaging",
+  "sec": 3,
+  "ptype": "Análisis secundario de ensayo clínico",
+  "prio": "Relevante",
+  "total": 6.0,
+  "title_en": "Serial Changes in Epicardial Adipose Tissue Attenuation Identify Residual Atherosclerotic Risk Independent of LDL Lowering: A Post Hoc Analysis of the CAUGHT-CAD Trial",
+  "title_es": "Los cambios seriados en la atenuación del tejido adiposo epicárdico identifican riesgo aterosclerótico residual independiente del descenso de LDL: análisis post hoc del ensayo CAUGHT-CAD",
+  "es": {
+   "resumen": "Análisis post hoc del CAUGHT-CAD que relaciona los cambios longitudinales del tejido adiposo epicárdico (TAE) con la progresión de placa coronaria por angio-TC seriada. El aumento de la atenuación del TAE se asoció de forma independiente con progresión de placa no calcificada.",
+   "why": "señala la inflamación del tejido adiposo epicárdico como posible mecanismo del riesgo residual de progresión de placa pese a un buen control del LDL.",
+   "deque": "En algunos pacientes la placa coronaria progresa pese a un descenso eficaz del LDL, y el TAE es un depósito graso visceral metabólicamente activo que podría influir en la aterosclerosis por señalización inflamatoria. Se cuantificaron placa y TAE con angio-TC coronaria basal y de seguimiento en 313 participantes asintomáticos sin estatinas (58,8 ± 6,8 años; 44% mujeres) del CAUGHT-CAD, ajustando por carga de placa basal, asignación de tratamiento y cambios en factores de riesgo cardiometabólico.",
+   "resultados": "Una mayor atenuación del TAE (ΔTAE), pero no el cambio de volumen del TAE, se asoció de forma independiente con progresión de placa no calcificada (NCP) y remodelado adverso. Por cada aumento de 1 DE de ΔTAE atenuación: volumen de NCP mayor en 4,21 mm3 (IC95% 0,67-7,74; p=0,020), volumen de placa fibrosa en 3,55 mm3 (IC95% 0,67-6,43; p=0,016) y porcentaje de volumen de ateroma de NCP en 1,08% (IC95% 0,47-1,69; p<0,001). En pacientes con TAE basal alto (tertil 3 ≥67,1 cm3), añadir la ΔTAE atenuación mejoró significativamente el ajuste del modelo (ΔAIC -4,8; test de razón de verosimilitud p=0,012). La ΔTAE atenuación se asoció con aumento de la atenuación del tejido adiposo pericoronario (PCAT) (β=2,44 UH por DE; p<0,001).",
+   "conclusiones": "La asociación de los cambios seriados de la atenuación del TAE con el remodelado de placa coronaria, independiente del descenso del LDL, respalda un posible papel mecanístico de la inflamación del TAE en la progresión residual de placa."
+  },
+  "en": {
+   "resumen": "Post hoc analysis of CAUGHT-CAD relating longitudinal changes in epicardial adipose tissue (EAT) to coronary plaque progression on serial coronary CT angiography. Rising EAT attenuation was independently associated with noncalcified plaque progression.",
+   "why": "it points to epicardial adipose tissue inflammation as a possible mechanism of residual plaque-progression risk despite good LDL control.",
+   "deque": "In some patients coronary plaque progresses despite effective LDL-C lowering, and EAT is a metabolically active visceral fat depot that may influence atherosclerosis through inflammatory signaling. Plaque and EAT were quantified with paired baseline and follow-up coronary CT angiography in 313 asymptomatic, statin-naive participants (58.8 ± 6.8 years; 44% female) in CAUGHT-CAD, adjusting for baseline plaque burden, treatment allocation and changes in cardiometabolic risk factors.",
+   "resultados": "Higher EAT attenuation change (ΔEAT), but not EAT volume change, was independently associated with noncalcified plaque (NCP) progression and adverse remodeling. Per 1-SD increase in ΔEAT attenuation: NCP volume higher by 4.21 mm3 (95% CI 0.67-7.74; P=0.020), fibrous plaque volume by 3.55 mm3 (95% CI 0.67-6.43; P=0.016) and NCP percent atheroma volume by 1.08% (95% CI 0.47-1.69; P<0.001). In patients with high baseline EAT volume (tertile 3 ≥67.1 cm3), adding ΔEAT attenuation significantly improved model fit (ΔAIC -4.8; likelihood ratio test P=0.012). ΔEAT attenuation was associated with increasing pericoronary adipose tissue (PCAT) attenuation (β=2.44 HU per SD; P<0.001).",
+   "conclusiones": "The association of serial changes in EAT attenuation with coronary plaque remodeling, independent of LDL-C lowering, supports a potential mechanistic role for EAT inflammation in residual plaque progression."
+  }
+ },
+ "a15": {
+  "key": "a15",
+  "doi": "10.1016/j.jacadv.2026.102984",
+  "journal": "JACC Adv",
+  "sec": 3,
+  "ptype": "Análisis secundario de ensayo clínico",
+  "prio": "Relevante",
+  "total": 5.9,
+  "title_en": "Inflammatory, Cardiac, and Lipid-Related Biomarkers in Relation to Residual MACE Risk in the REPRIEVE Trial",
+  "title_es": "Biomarcadores inflamatorios, cardiacos y relacionados con lípidos en relación con el riesgo residual de MACE en el ensayo REPRIEVE",
+  "es": {
+   "resumen": "Análisis del ensayo REPRIEVE que evalúa biomarcadores inmunes, inflamatorios, cardiacos y lipídicos frente al riesgo residual de MACE en personas con VIH tratadas. La IL-6 y la troponina de alta sensibilidad mostraron los mayores HR (2,2 cada una) y la IL-6 la mayor fracción atribuible poblacional.",
+   "why": "identifica que, más allá del control lipídico con estatinas, la inflamación persistente (IL-6, PCR de alta sensibilidad) y la disfunción cardiaca subclínica explican una gran parte del riesgo cardiovascular residual en personas con VIH.",
+   "deque": "El riesgo residual de MACE persiste pese a la prevención eficaz con estatinas en personas con VIH (PWH). El objetivo fue valorar la asociación de biomarcadores inmunes, inflamatorios, cardiacos y lipídicos con el MACE incidente en el ensayo global de prevención cardiovascular primaria REPRIEVE, mediante modelos de Cox ajustados por el tratamiento aleatorizado con estatina y el riesgo de ECV aterosclerótica; se calcularon las fracciones atribuibles poblacionales (PAF).",
+   "resultados": "De 7.769 participantes de REPRIEVE, 7.005 (90%) tenían datos de biomarcadores al inicio, con mediana de seguimiento de 5,6 años. Porcentajes altos presentaban marcadores inflamatorios elevados (PCR de alta sensibilidad >3 mg/L [49%], IL-6 ≥3,3 pg/mL [33%]) y cardiacos (troponina de alta sensibilidad ≥6 ng/L [35%], NT-proBNP ≥50 pg/mL [33%]). Los biomarcadores inflamatorios mostraron correlación mínima con los cardiacos o lipídicos (apolipoproteína B-100, LDL oxidada y lipoproteína(a)). Los biomarcadores individuales se relacionaron con el MACE en análisis ajustados por PCE y aleatorización a estatina, con los mayores HR para IL-6 (HR 2,2; IC95% 1,3-3,9) y troponina de alta sensibilidad (HR 2,2; IC95% 1,2-4,1), comparando los niveles más altos frente a los más bajos. Las PAF fueron mayores para IL-6 (18,6%; IC95% 7,4%-30,5%) y PCR de alta sensibilidad (17,2%; IC95% 1,6%-32,9%).",
+   "conclusiones": "En personas con VIH con riesgo de ECV predicho bajo-moderado y VIH bien controlado, la inflamación persistente, la activación inmune innata y la disfunción cardiaca subclínica son frecuentes y se relacionan intensamente con el riesgo residual de MACE, explicando una gran fracción atribuible poblacional."
+  },
+  "en": {
+   "resumen": "Analysis of the REPRIEVE trial assessing immune, inflammatory, cardiac, and lipid biomarkers against residual MACE risk in treated people with HIV. IL-6 and high-sensitivity troponin showed the largest HRs (2.2 each), and IL-6 the highest population attributable fraction.",
+   "why": "identifies that, beyond lipid control with statins, persistent inflammation (IL-6, high-sensitivity CRP) and subclinical cardiac dysfunction account for a large share of residual cardiovascular risk in people with HIV.",
+   "deque": "Residual MACE risk persists despite successful statin-based prevention in people with HIV (PWH). The objective was to assess the association of immune, inflammatory, cardiac, and lipid-related biomarkers with incident MACE in the REPRIEVE global primary cardiovascular prevention trial, using Cox models adjusted for randomized statin treatment and atherosclerotic CVD risk; population attributable fractions (PAFs) were assessed.",
+   "resultados": "Of 7,769 REPRIEVE participants, 7,005 (90%) had baseline biomarker data, with median follow-up of 5.6 years. High percentages had elevated inflammatory (high-sensitivity C-reactive protein >3 mg/L [49%], IL-6 ≥3.3 pg/mL [33%]) and cardiac markers (high-sensitivity troponin ≥6 ng/L [35%], NT-proBNP ≥50 pg/mL [33%]). Inflammatory biomarkers showed minimal correlation with cardiac or lipid biomarkers (apolipoprotein B-100, oxidized LDL, and lipoprotein(a)). Individual biomarkers related to MACE in analyses adjusted for PCE and statin randomization, with the largest HRs for IL-6 (HR 2.2, 95% CI 1.3-3.9) and high-sensitivity troponin (HR 2.2, 95% CI 1.2-4.1), comparing highest versus lowest levels. PAFs were highest for IL-6 (18.6%, 95% CI 7.4%-30.5%) and high-sensitivity C-reactive protein (17.2%, 95% CI 1.6%-32.9%).",
+   "conclusiones": "Among PWH with low-moderate predicted CVD risk and well-controlled HIV, persistent inflammation, innate immune activation, and subclinical cardiac dysfunction are common and strongly relate to residual MACE risk, accounting for a large population attributable fraction."
+  }
+ },
+ "a16": {
+  "key": "a16",
+  "doi": "10.1016/j.jcmg.2026.05.012",
+  "journal": "JACC Cardiovasc Imaging",
+  "sec": 4,
+  "ptype": "Estudio pronóstico",
+  "prio": "Relevante",
+  "total": 6.0,
+  "title_en": "Association of Hemodynamic Disease Severity and Distribution With Risk of Future Acute Coronary Syndrome",
+  "title_es": "Asociación de la gravedad y la distribución hemodinámica de la enfermedad con el riesgo de síndrome coronario agudo futuro",
+  "es": {
+   "resumen": "Estudio EMERALD-II que evalúa el valor pronóstico de la gravedad (FFRTC) y la distribución (difusa vs focal, por PPGTC) hemodinámica de la enfermedad coronaria para predecir síndrome coronario agudo (SCA). La enfermedad focal hemodinámica mostró el mayor riesgo de SCA (RR 2,02).",
+   "why": "muestra que la distribución hemodinámica de la enfermedad (focal), medida por PPGTC, aporta valor pronóstico adicional al FFRTC y a las características de placa.",
+   "deque": "La valoración fisiológica se usa para decidir revascularización, pero su papel para predecir el riesgo futuro de SCA está poco explorado. EMERALD-II es un estudio internacional, multicéntrico, de casos y controles interno con 351 pacientes con SCA que se habían realizado angio-TC coronaria entre 1 mes y 3 años antes del evento; se identificaron vasos culpables y no culpables, se evaluaron características de placa de alto riesgo (HRP) y se derivaron la gravedad (FFRTC) y la distribución (PPGTC) hemodinámicas, clasificando los vasos en 4 patrones.",
+   "resultados": "Entre 873 vasos, el FFRTC medio fue 0,74 ± 0,17 y el PPGTC medio 0,54 ± 0,14. Un FFRTC más bajo y un PPGTC más alto se asociaron de forma independiente con mayor riesgo de SCA (OR por aumento de 0,1 de FFRTC: 0,71; IC95% 0,65-0,77; p<0,001; OR por aumento de 0,1 de PPG: 1,22; IC95% 1,09-1,37; p<0,001). La enfermedad focal hemodinámica mostró el mayor riesgo de SCA (RR 2,02; IC95% 1,74-2,36; p<0,001), infarto de miocardio (RR 1,75; IC95% 1,43-2,14; p<0,001) y angina inestable (RR 2,54; IC95% 2,00-3,22; p<0,001). Siguió siendo predictora de SCA en lesiones no obstructivas (OR 3,56; IC95% 1,43-8,84), obstructivas (OR 3,16; IC95% 1,96-5,07), sin HRP (OR 6,69; IC95% 3,59-12,5) y con HRP (OR 2,98; IC95% 1,83-4,87). Aunque el ΔFFRTC máximo a nivel de lesión mostró mejor rendimiento del modelo que los que incorporaban FFRTC y PPGTC, un PPGTC más alto se asoció adicionalmente con mayor riesgo de SCA, sobre todo en vasos con ΔFFRTC máximo ≥0,10.",
+   "conclusiones": "La distribución hemodinámica de la enfermedad, medida por PPGTC, complementa al FFRTC en la predicción del riesgo de SCA. La integración de los patrones hemodinámicos aporta valor pronóstico añadido más allá de las características de luz y placa, y la enfermedad focal hemodinámica emerge como predictor independiente y posible diana terapéutica para la prevención del SCA."
+  },
+  "en": {
+   "resumen": "EMERALD-II study evaluating the prognostic value of hemodynamic disease severity (FFRCT) and distribution (diffuse vs focal, by PPGCT) for predicting acute coronary syndrome (ACS). Hemodynamic focal disease showed the highest ACS risk (RR 2.02).",
+   "why": "it shows that hemodynamic disease distribution (focal), measured by PPGCT, adds prognostic value beyond FFRCT and plaque characteristics.",
+   "deque": "Physiological assessment is used to decide revascularization, but its role in predicting future ACS risk is underexplored. EMERALD-II is an international, multicenter, internal case-control study of 351 patients with ACS who underwent coronary CTA between 1 month and 3 years before the event; culprit and nonculprit vessels were identified, high-risk plaque (HRP) characteristics were assessed, and hemodynamic severity (FFRCT) and distribution (PPGCT) were derived, categorizing vessels into 4 patterns.",
+   "resultados": "Among 873 vessels, mean FFRCT was 0.74 ± 0.17 and mean PPGCT was 0.54 ± 0.14. Lower FFRCT and higher PPGCT were independently associated with higher ACS risk (OR per 0.1 increase in FFRCT: 0.71; 95% CI 0.65-0.77; P<0.001; OR per 0.1 increase in PPG: 1.22; 95% CI 1.09-1.37; P<0.001). Hemodynamic focal disease showed the highest risk of ACS (RR 2.02; 95% CI 1.74-2.36; P<0.001), myocardial infarction (RR 1.75; 95% CI 1.43-2.14; P<0.001) and unstable angina (RR 2.54; 95% CI 2.00-3.22; P<0.001). It remained an ACS predictor in nonobstructive lesions (OR 3.56; 95% CI 1.43-8.84), obstructive lesions (OR 3.16; 95% CI 1.96-5.07), non-HRP (OR 6.69; 95% CI 3.59-12.5) and HRP (OR 2.98; 95% CI 1.83-4.87). Although maximal lesion-level ΔFFRCT showed superior model performance versus models incorporating FFRCT and PPGCT, higher PPGCT was additionally associated with increased ACS risk, particularly in vessels with maximal ΔFFRCT ≥0.10.",
+   "conclusiones": "Hemodynamic disease distribution, as measured by PPGCT, complements FFRCT in predicting ACS risk. Integration of hemodynamic disease patterns provides additional prognostic value beyond lumen and plaque characteristics, with hemodynamic focal disease emerging as an independent predictor and a potential therapeutic target for ACS prevention."
+  }
+ },
+ "a17": {
+  "key": "a17",
+  "doi": "10.1161/JAHA.126.051797",
+  "journal": "J Am Heart Assoc",
+  "sec": 4,
+  "ptype": "Estudio de cohorte",
+  "prio": "Relevante",
+  "total": 5.7,
+  "title_en": "Association Between Optimal Revascularization for Chronic Total Occlusion and Long-Term Outcomes in Patients With Heart Failure With or Without Type 2 Diabetes",
+  "title_es": "Asociación entre la revascularización óptima de la oclusión coronaria total crónica y los resultados a largo plazo en pacientes con insuficiencia cardíaca con o sin diabetes tipo 2",
+  "es": {
+   "resumen": "Cohorte prospectiva de 1591 pacientes con insuficiencia cardíaca sometidos a ICP de oclusión total crónica (OTC). La revascularización óptima se asoció a menor riesgo de muerte cardiovascular/IAM del vaso diana (HR 0,45) frente al fracaso de la ICP, con beneficio concentrado en los pacientes con diabetes tipo 2.",
+   "why": "muestra que el beneficio de la revascularización óptima de la OTC en insuficiencia cardíaca es marcado en diabéticos tipo 2 pero no significativo en no diabéticos.",
+   "deque": "La relación entre la revascularización óptima de lesiones de OTC y los resultados clínicos a largo plazo en pacientes con insuficiencia cardíaca, con o sin diabetes tipo 2 (DT2), es incierta. Este estudio de cohorte prospectivo incluyó 1591 pacientes con insuficiencia cardíaca sometidos a ICP de OTC en el Hospital Fuwai entre enero de 2017 y diciembre de 2018, clasificados según el resultado de la ICP-OTC en fracaso, revascularización subóptima y revascularización óptima. El objetivo principal fue el compuesto de muerte cardiovascular e infarto de miocardio del vaso diana (IAM-VD); el secundario, el compuesto de muerte por cualquier causa e infarto de miocardio.",
+   "resultados": "Durante una mediana de seguimiento de 3,3 años ocurrieron 89 (5,6%) casos de muerte cardiovascular/IAM-VD. Los pacientes con revascularización óptima tuvieron menor riesgo de muerte cardiovascular/IAM-VD (HR 0,45; IC95% 0,27-0,76) y de muerte por cualquier causa/infarto de miocardio (HR 0,53; IC95% 0,33-0,86) frente a los del fracaso de la ICP-OTC. En el análisis de subgrupos, estas asociaciones fueron significativas en pacientes con DT2 (muerte cardiovascular/IAM-VD: HR 0,25; IC95% 0,13-0,49; muerte por cualquier causa/infarto: HR 0,28; IC95% 0,15-0,53), pero no en los pacientes sin DT2 (muerte cardiovascular/IAM-VD: HR 0,87; IC95% 0,32-2,40; muerte por cualquier causa/infarto: HR 1,06; IC95% 0,40-2,85).",
+   "conclusiones": "Los hallazgos sugieren que la revascularización óptima durante la ICP-OTC se asocia a un menor riesgo de eventos cardiovasculares adversos en pacientes con insuficiencia cardíaca, en particular en aquellos con diabetes tipo 2."
+  },
+  "en": {
+   "resumen": "Prospective cohort of 1591 heart failure patients undergoing chronic total occlusion (CTO) PCI. Optimal revascularization was associated with lower risk of cardiovascular death/target-vessel MI (HR 0.45) versus PCI failure, with the benefit concentrated in patients with type 2 diabetes.",
+   "why": "shows that the benefit of optimal CTO revascularization in heart failure is marked in type 2 diabetics but not significant in non-diabetics.",
+   "deque": "The relationship between optimal revascularization of CTO lesions and long-term clinical outcomes in heart failure patients, with or without type 2 diabetes (T2D), is unclear. This prospective cohort study included 1591 heart failure patients undergoing CTO-PCI at Fuwai Hospital between January 2017 and December 2018, categorized by CTO-PCI outcome into failure, suboptimal revascularization, and optimal revascularization. The primary endpoint was a composite of cardiovascular death and target-vessel myocardial infarction (TVMI); the secondary endpoint was a composite of all-cause death and myocardial infarction.",
+   "resultados": "Over a median follow-up of 3.3 years, 89 (5.6%) cardiovascular death/TVMI cases occurred. Patients with optimal revascularization had lower risk of cardiovascular death/TVMI (HR 0.45, 95% CI 0.27-0.76) and all-cause death/myocardial infarction (HR 0.53, 95% CI 0.33-0.86) versus CTO-PCI failure. In subgroup analysis, these associations were significant in patients with T2D (cardiovascular death/TVMI: HR 0.25, 95% CI 0.13-0.49; all-cause death/MI: HR 0.28, 95% CI 0.15-0.53), but not in those without T2D (cardiovascular death/TVMI: HR 0.87, 95% CI 0.32-2.40; all-cause death/MI: HR 1.06, 95% CI 0.40-2.85).",
+   "conclusiones": "The findings suggest that optimal revascularization during CTO-PCI is associated with a lower risk of adverse cardiovascular events in heart failure patients, particularly in those with type 2 diabetes."
+  }
+ },
+ "a18": {
+  "key": "a18",
+  "doi": "10.1093/eurheartj/ehag525",
+  "journal": "Eur Heart J",
+  "sec": 5,
+  "ptype": "Estudio pronóstico",
+  "prio": "Relevante",
+  "total": 5.9,
+  "title_en": "Proteomic markers enhance mortality prediction in heart failure",
+  "title_es": "Los marcadores proteómicos mejoran la predicción de mortalidad en la insuficiencia cardíaca",
+  "es": {
+   "resumen": "En 2432 pacientes con insuficiencia cardíaca del registro G-CHF, un score de 23 proteínas (ProteomicDeath23) fue el predictor molecular más potente de mortalidad por cualquier causa (HR 2,23 por DE), superando al NT-proBNP y a scores poligénicos y de metilación. Su combinación con el score clínico MAGGIC y el NT-proBNP alcanzó la mejor discriminación (índice C 0,77).",
+   "why": "un score proteómico de 23 proteínas aporta información pronóstica incremental sobre los predictores clínicos establecidos y el NT-proBNP, mientras que el score poligénico no añade beneficio.",
+   "deque": "Los modelos clínicos capturan de forma incompleta las vías moleculares que impulsan la progresión de la insuficiencia cardíaca (IC). Este estudio evaluó si la estratificación de riesgo molecular aporta información pronóstica incremental más allá de los predictores clínicos establecidos. Se analizaron 2432 pacientes del registro Global Congestive Heart Failure (G-CHF) con genotipado, metilación del ADN y perfil proteómico disponibles. Se evaluaron tres scores moleculares: un score poligénico cardiovascular compuesto (PRS), un score de riesgo de metilación (MRS) y un score basado en 23 proteínas (ProteomicDeath23), individualmente y combinados con el score clínico MAGGIC y el NT-proBNP para la predicción de mortalidad. La validación se realizó en un subgrupo de IC del UK Biobank (UKB).",
+   "resultados": "Con una mediana de seguimiento de 3,0 años en G-CHF, 523 pacientes murieron por cualquier causa (7,64 por 100 personas-año [PA]). En el análisis multivariable, ProteomicDeath23 fue el predictor independiente más potente de mortalidad por cualquier causa (HR por 1 DE, 2,23), superando al NT-proBNP (HR 2,00), al MRSMortality (HR 1,66), al PRSmetaCVD (HR 1,10) y al score MAGGIC (HR 1,70). Un modelo combinando ProteomicDeath23 con MAGGIC y NT-proBNP logró la mayor discriminación (índice C 0,77). Añadir el MRSMortality a este modelo proteómico-clínico solo mejoró levemente la discriminación (ΔC-index +0,004; p=0,0039), mientras que el PRSmetaCVD no aportó beneficio incremental. Entre los pacientes con NT-proBNP/MAGGIC bajos, la mortalidad aumentó de 1,71 a 8,12 por 100 PA a través de los terciles de ProteomicDeath23. Se observaron resultados consistentes en la cohorte de validación UKB-IC.",
+   "conclusiones": "Un score proteómico fue el predictor molecular más potente de mortalidad en la insuficiencia cardíaca. Integrar firmas proteómicas con los factores de riesgo clínicos mejoró significativamente la predicción del riesgo."
+  },
+  "en": {
+   "resumen": "In 2432 heart failure patients from the G-CHF registry, a 23-protein score (ProteomicDeath23) was the strongest molecular predictor of all-cause mortality (HR 2.23 per SD), outperforming NT-proBNP and polygenic and methylation scores. Combining it with the clinical MAGGIC score and NT-proBNP achieved the highest discrimination (C-index 0.77).",
+   "why": "a 23-protein proteomic score adds incremental prognostic information over established clinical predictors and NT-proBNP, whereas the polygenic score adds no benefit.",
+   "deque": "Clinical models incompletely capture the molecular pathways driving heart failure (HF) progression. This study evaluated whether molecular risk stratification provides incremental prognostic information beyond established clinical predictors. A total of 2432 patients from the Global Congestive Heart Failure (G-CHF) registry with available genotyping, DNA methylation, and proteomic profiling were analysed. Three molecular scores were assessed: a composite cardiovascular polygenic risk score (PRS), a methylation risk score (MRS), and a 23-protein-based score (ProteomicDeath23), individually and combined with the clinical MAGGIC risk score and NT-proBNP for mortality prediction. Validation was performed in an HF subset of the UK Biobank (UKB).",
+   "resultados": "Over a median 3.0-year follow-up in G-CHF, 523 patients died from any cause (7.64 per 100 person-years [PY]). In multivariable analyses, ProteomicDeath23 was the strongest independent predictor of all-cause mortality (HR per 1 SD, 2.23), outperforming NT-proBNP (HR 2.00), MRSMortality (HR 1.66), PRSmetaCVD (HR 1.10), and the MAGGIC score (HR 1.70). A model combining ProteomicDeath23 with MAGGIC and NT-proBNP achieved the highest discrimination (C-index 0.77). Adding MRSMortality to this proteomic-clinical model resulted in only small discrimination improvements (ΔC-index +0.004, P=.0039), while PRSmetaCVD provided no incremental benefit. Among patients with low NT-proBNP/MAGGIC score, mortality rates increased from 1.71 to 8.12 per 100 PY across ProteomicDeath23 tertiles. Consistent results were observed in the UKB-HF validation cohort.",
+   "conclusiones": "A proteomic score was the strongest molecular predictor of mortality in HF. Integrating proteomic signatures with clinical risk factors significantly improved risk prediction."
+  }
+ },
+ "a19": {
+  "key": "a19",
+  "doi": "10.1093/eurheartj/ehag477",
+  "journal": "Eur Heart J",
+  "sec": 5,
+  "ptype": "Registro",
+  "prio": "Relevante",
+  "total": 5.9,
+  "title_en": "Left ventricular recovery and outcomes in patients with a durable left ventricular assist device: the EUROMACS registry",
+  "title_es": "Recuperación ventricular izquierda y resultados en pacientes con dispositivo de asistencia ventricular izquierda de larga duración: el registro EUROMACS",
+  "es": {
+   "resumen": "Registro europeo EUROMACS de 1550 pacientes con dispositivo de asistencia ventricular izquierda (DAVI). La recuperación ventricular ocurrió mayoritariamente en el primer año (recuperación completa solo en el 1% a los 4 años) y se asoció a mejores resultados; el uso de inhibidores del sistema renina-angiotensina se asoció a mayor probabilidad de recuperación.",
+   "why": "cuantifica en un gran registro europeo la baja prevalencia de recuperación ventricular tras DAVI y vincula su magnitud con menor mortalidad y menos eventos cardiovasculares.",
+   "deque": "El soporte con DAVI puede inducir la reversión de cambios neurohormonales y la recuperación miocárdica. Este estudio evaluó la prevalencia, los predictores y el impacto clínico de la recuperación ventricular izquierda (VI) tras el implante de DAVI usando datos del Registro Europeo de Pacientes con Soporte Circulatorio Mecánico. Se incluyeron pacientes con al menos una medición de FEVI basal y post-implante. La recuperación VI se clasificó como 'sin recuperación' (aumento de FEVI <5%), 'leve' (aumento de 5%-15% con FEVI pico <50%), 'intermedia' (aumento >15% con FEVI pico <50%) y 'completa' (aumento ≥5% con FEVI pico ≥50%).",
+   "resultados": "Se incluyeron 1550 pacientes con mediana de edad de 57 (48-64) años. La recuperación VI ocurrió mayoritariamente en el primer año, con probabilidades marginales a 4 años de recuperación nula, leve, intermedia y completa del 51% (IC95% 48-54%), 41% (IC95% 38-43%), 8% (IC95% 7-9%) y 1% (IC95% 0-1%), respectivamente. Las clases INTERMACS 2, 3 y 4 (frente a la clase 1; HR 0,72; 0,64 y 0,51, respectivamente) se asociaron a menor probabilidad de alcanzar cualquier recuperación VI, mientras que el uso de inhibidores del sistema renina-angiotensina se asoció a mayor probabilidad (HR 1,17; IC95% 1,00-1,37). Cada 10% más de FEVI durante el seguimiento se asoció a un 14% menos de riesgo instantáneo de mortalidad por cualquier causa (HR 0,86; intervalo creíble 95% 0,75-0,98). La incidencia acumulada del compuesto de eventos cardiovasculares adversos mayores (muerte cardiovascular, insuficiencia cardíaca derecha tardía y arritmia más allá del primer año) fue menor en las categorías de mayor recuperación VI definidas por la FEVI al año (test de Gray, p=0,042).",
+   "conclusiones": "Este estudio multicéntrico europeo muestra que la recuperación VI ocurre mayoritariamente durante el primer año tras el implante de DAVI y se asocia a mejores resultados clínicos. El uso de inhibidores del sistema renina-angiotensina se asoció tanto con cualquier recuperación VI como con la recuperación intermedia/completa, mientras que las estrategias combinadas de bloqueo neurohormonal ofrecieron estimaciones direccionalmente favorables pero imprecisas, que requieren más estudio durante el soporte con DAVI."
+  },
+  "en": {
+   "resumen": "European EUROMACS registry of 1550 patients with a durable left ventricular assist device (LVAD). LV recovery occurred mostly within the first year (full recovery in only 1% at 4 years) and was associated with better outcomes; renin-angiotensin system inhibitor use was associated with a higher likelihood of recovery.",
+   "why": "quantifies in a large European registry the low prevalence of LV recovery after LVAD and links its magnitude with lower mortality and fewer cardiovascular events.",
+   "deque": "LVAD support can induce reversal of neurohormonal changes and myocardial recovery. This study evaluated the prevalence, predictors, and clinical impact of left ventricular (LV) recovery after LVAD implantation using data from the European Registry for Patients with Mechanical Circulatory Support. Patients with at least one LVEF measurement at both baseline and post-LVAD implantation were enrolled. LV recovery was classified as 'no recovery' (LVEF increase <5%), 'mild' (5%-15% increase with peak LVEF <50%), 'intermediate' (>15% increase with peak LVEF <50%), and 'full' (≥5% increase with peak LVEF ≥50%).",
+   "resultados": "A total of 1550 patients with a median age of 57 (48-64) years were included. LV recovery occurred mostly within the first year, with 4-year marginal probabilities of no, mild, intermediate, and full recovery of 51% (95% CI 48-54%), 41% (95% CI 38-43%), 8% (95% CI 7-9%), and 1% (95% CI 0-1%), respectively. INTERMACS Classes 2, 3, and 4 (vs Class 1; HR 0.72, 0.64, and 0.51, respectively) were associated with a lower hazard of attaining any LV recovery, whereas renin-angiotensin system inhibitor use was associated with a higher hazard (HR 1.17, 95% CI 1.00-1.37). Each 10% higher LVEF during follow-up was associated with a 14% lower instantaneous hazard of all-cause mortality (HR 0.86, 95% credible interval 0.75-0.98). The cumulative incidence of the composite major adverse cardiovascular event endpoint (cardiovascular death, late right heart failure, and arrhythmia beyond the first year) was lower across higher LV recovery categories defined by the 1-year LVEF (Gray's test, P=.042).",
+   "conclusiones": "This multicentre European study shows that LV recovery mostly occurs within the first year after LVAD implantation and is associated with better clinical outcomes. Renin-angiotensin system inhibitor use was associated with both any and intermediate/full LV recovery, while combination neurohormonal blockade strategies yielded directionally favourable but imprecise estimates, warranting further study during LVAD support."
+  }
+ },
+ "a20": {
+  "key": "a20",
+  "doi": "10.1161/JAHA.126.050524",
+  "journal": "J Am Heart Assoc",
+  "sec": 5,
+  "ptype": "Estudio de cohorte",
+  "prio": "Relevante",
+  "total": 5.8,
+  "title_en": "Distinct Exercise Response Patterns in Patients With Heart Failure With Preserved Ejection Fraction",
+  "title_es": "Patrones distintos de respuesta al ejercicio en pacientes con insuficiencia cardíaca con fracción de eyección preservada",
+  "es": {
+   "resumen": "En 913 pacientes con IC-FEp, el análisis de conglomerados de variables de prueba de esfuerzo cardiopulmonar con ecocardiografía de estrés identificó 5 fenotipos distintos de respuesta al ejercicio. Los fenotipos 2, 4 y 5 mostraron mayor riesgo del compuesto de muerte y hospitalización cardiovascular frente al fenotipo 1.",
+   "why": "define fenotipos de IC-FEp basados en la respuesta al ejercicio (no en el reposo), con diferencias marcadas en fisiopatología y pronóstico, replicados en una cohorte de validación.",
+   "deque": "La insuficiencia cardíaca con fracción de eyección preservada (IC-FEp) es una enfermedad heterogénea caracterizada por intolerancia al ejercicio; definir subgrupos fisiopatológicamente distintos permite una terapia más personalizada, pero los esfuerzos se basaron sobre todo en exploraciones en reposo. Este estudio buscó definir fenotipos de IC-FEp según las limitaciones al ejercicio combinando prueba de esfuerzo cardiopulmonar con ecocardiografía de estrés. Se reclutaron 913 pacientes con IC-FEp de 4 centros de tercer nivel, divididos en cohortes de derivación (n=623) y validación (n=290). Se usó agrupamiento no supervisado basado en grafos de 61 variables para identificar fenotipos de ejercicio.",
+   "resultados": "En la cohorte de derivación, el análisis de conglomerados identificó 5 fenotipos de ejercicio distintos: disfunción diastólica leve (fenotipo 1), extracción periférica de oxígeno alterada (fenotipo 2), desacoplamiento ventrículo derecho-arteria pulmonar (fenotipo 3), reserva sistólica ventricular izquierda reducida (fenotipo 4) e incompetencia cronotrópica (fenotipo 5). El compuesto de muerte por cualquier causa y hospitalización cardiovascular no planificada difirió significativamente entre fenotipos, con los fenotipos 2 (HR 1,76; IC95% 1,07-2,91), 4 (HR 2,15; IC95% 1,27-3,65) y 5 (HR 2,19; IC95% 1,33-3,61) mostrando mayores tasas del resultado combinado primario frente al fenotipo 1. Todos los fenotipos se replicaron en la cohorte de validación.",
+   "conclusiones": "El fenotipado profundo de la respuesta al ejercicio en pacientes con IC-FEp reveló 5 fenogrupos distintos con diferencias marcadas en fisiopatología, rendimiento al ejercicio y resultados clínicos. Esta subclasificación puede apoyar estrategias terapéuticas más personalizadas y mejorar la estratificación del riesgo en la IC-FEp."
+  },
+  "en": {
+   "resumen": "In 913 patients with HFpEF, cluster analysis of combined cardiopulmonary exercise testing with stress echocardiography variables identified 5 distinct exercise response phenotypes. Phenotypes 2, 4, and 5 showed higher risk of the composite of death and cardiovascular hospitalization versus phenotype 1.",
+   "why": "defines HFpEF phenotypes based on exercise response (not resting), with marked differences in pathophysiology and prognosis, replicated in a validation cohort.",
+   "deque": "Heart failure with preserved ejection fraction (HFpEF) is a heterogeneous disease characterized by exercise intolerance; defining pathophysiologically distinct subgroups enables more personalized therapy, but efforts mainly relied on resting examinations. This study aimed to define HFpEF phenotypes based on exercise limitations using combined cardiopulmonary exercise testing with stress echocardiography. A total of 913 HFpEF patients were recruited from 4 third-line centers, divided into derivation (n=623) and validation cohorts (n=290). Unsupervised graph-based clustering of 61 variables was used to identify exercise phenotypes.",
+   "resultados": "In the derivation cohort, cluster analysis identified 5 distinct exercise phenotypes: mild diastolic dysfunction (phenotype 1), impaired peripheral oxygen extraction (phenotype 2), right ventricular-pulmonary artery uncoupling (phenotype 3), reduced left ventricular systolic reserve (phenotype 4), and chronotropic incompetence (phenotype 5). The composite of all-cause death and unplanned cardiovascular hospitalization differed significantly across phenotypes, with phenotypes 2 (HR 1.76, 95% CI 1.07-2.91), 4 (HR 2.15, 95% CI 1.27-3.65), and 5 (HR 2.19, 95% CI 1.33-3.61) showing higher rates of the primary combined outcome versus phenotype 1. All phenotypes were replicated in the validation cohort.",
+   "conclusiones": "Deep phenotyping of the exercise response in HFpEF patients revealed 5 distinct phenogroups with marked differences in pathophysiology, exercise performance, and clinical outcomes. This subclassification may support more personalized therapeutic strategies and improve risk stratification in HFpEF."
+  }
+ },
+ "a21": {
+  "key": "a21",
+  "doi": "10.1016/j.jchf.2026.103184",
+  "journal": "JACC Heart Fail",
+  "sec": 5,
+  "ptype": "Ensayo clínico aleatorizado",
+  "prio": "Relevante",
+  "total": 5.6,
+  "title_en": "NOTIFY-HF: A Randomized Pilot Trial of Patient-Facing Alerts for Worsening Heart Failure Using Multiparameter Monitoring",
+  "title_es": "NOTIFY-HF: ensayo piloto aleatorizado de alertas dirigidas al paciente para el empeoramiento de la insuficiencia cardíaca mediante monitorización multiparamétrica",
+  "es": {
+   "resumen": "Ensayo piloto aleatorizado unicéntrico (160 pacientes) de una vía de mHealth dirigida al paciente guiada por HeartLogic frente a atención habitual. La intervención fue factible y aceptable y se asoció a menor incidencia de alertas HeartLogic (IRR 0,78) y más días monitorizados fuera de estado de alerta.",
+   "why": "traslada las alertas de monitorización remota del clínico al propio paciente, mostrando que una vía mHealth dirigida al paciente es factible y reduce la carga de alertas.",
+   "deque": "El empeoramiento de la insuficiencia cardíaca suele estar precedido por días o semanas de deterioro fisiológico; sin embargo, las alertas de monitorización remota se dirigen al clínico y pueden no traducirse en acción a tiempo. Los autores evaluaron una vía de mHealth guiada por HeartLogic dirigida al paciente para complementar la atención habitual, valorando factibilidad, aceptabilidad y asociaciones clínicas exploratorias. Este ensayo piloto pragmático, unicéntrico y aleatorizado reclutó adultos con insuficiencia cardíaca y un desfibrilador implantable compatible con HeartLogic, aleatorizados 1:1 a atención habitual o atención habitual más notificaciones semanales dirigidas al paciente mediante una plataforma mHealth con cribado de síntomas y guía de autocuidado. Los resultados coprimarios fueron factibilidad/aceptabilidad y métricas de recuperación de HeartLogic. El seguimiento osciló entre 12 y 24 meses.",
+   "resultados": "Se aleatorizaron 160 participantes (81 intervención, 79 control); la mediana de seguimiento fue de 1,82 años. El reclutamiento alcanzó 160 de 200 participantes (80% del objetivo), la retención fue alta y las puntuaciones medias del Mobile App Usability Questionnaire demostraron aceptabilidad durante todo el seguimiento. La implicación fue alta, con 80% de cumplimentación del cribado de síntomas durante las alertas. Frente a la atención habitual, la intervención se asoció a menor incidencia de alertas HeartLogic (IRR 0,78; IC95% 0,62-0,99) y un 13% más de días monitorizados fuera de estado de alerta (RR 1,13; IC95% 1,02-1,25), mientras que el tiempo hasta la normalización de la alerta fue similar. La vía de semáforo apoyó una respuesta del paciente escalonada por riesgo, con mayor contacto sanitario autorreportado tras las alertas rojas que tras las ámbar. Los resultados clínicos exploratorios fueron direccionalmente favorables, pero el estudio no tenía potencia para estos objetivos.",
+   "conclusiones": "En este ensayo piloto aleatorizado, una vía de mHealth guiada por HeartLogic dirigida al paciente fue factible, aceptable y se asoció a una menor carga de alertas, lo que respalda su evaluación en un ensayo multicéntrico más amplio."
+  },
+  "en": {
+   "resumen": "Single-center randomized pilot trial (160 patients) of a patient-facing HeartLogic-guided mHealth pathway versus usual care. The intervention was feasible and acceptable and was associated with lower HeartLogic alert incidence (IRR 0.78) and more monitored days outside alert state.",
+   "why": "shifts remote-monitoring alerts from the clinician to the patient, showing that a patient-facing mHealth pathway is feasible and reduces alert burden.",
+   "deque": "Worsening heart failure is often preceded by days-to-weeks of physiological deterioration; yet remote-monitoring alerts are clinician-facing and may not translate into timely action. The authors evaluated a patient-facing HeartLogic-guided mobile health (mHealth) pathway to augment usual care, assessing feasibility, acceptability, and exploratory clinical associations. This single-center, pragmatic, randomized pilot trial recruited adults with heart failure and a HeartLogic-capable implantable cardioverter-defibrillator, randomized 1:1 to usual care or usual care plus weekly patient-facing HeartLogic-triggered notifications via an mHealth platform with symptom screening and self-care guidance. Coprimary outcomes were feasibility/acceptability and HeartLogic recovery metrics. Follow-up ranged from 12 to 24 months.",
+   "resultados": "A total of 160 participants were randomized (81 intervention, 79 control); median follow-up was 1.82 years. Recruitment reached 160 of 200 participants (80% of target), retention was high, and mean Mobile App Usability Questionnaire scores demonstrated acceptability throughout follow-up. Engagement was high with 80% symptom-screen completion during alerts. Compared with usual care, the intervention was associated with lower HeartLogic alert incidence (IRR 0.78, 95% CI 0.62-0.99) and 13% more monitored days outside alert state (RR 1.13, 95% CI 1.02-1.25), whereas time to alert normalization was similar. The traffic-light pathway supported risk-tiered patient response, with greater self-reported health care contact following red than amber alerts. Exploratory clinical outcomes were directionally favorable, but the study was not powered for these endpoints.",
+   "conclusiones": "In this randomized pilot trial, a patient-facing HeartLogic-guided mHealth pathway was feasible, acceptable, and associated with lower alert burden, supporting evaluation in a larger multicenter trial."
+  }
+ },
+ "a22": {
+  "key": "a22",
+  "doi": "10.1016/j.jacc.2026.03.176",
+  "journal": "J Am Coll Cardiol",
+  "sec": 6,
+  "ptype": "Registro",
+  "prio": "Relevante",
+  "total": 6.95,
+  "title_en": "Natural History of Asymptomatic Phenotypically Mild HCM: Insights From the SHaRe Registry",
+  "title_es": "Historia natural de la MCH fenotípicamente leve asintomática: hallazgos del registro SHaRe",
+  "es": {
+   "resumen": "Análisis del registro SHaRe sobre la historia natural de la miocardiopatía hipertrófica (MCH) fenotípicamente leve. Alrededor del 21% de los pacientes desarrollaron eventos cardiovasculares mayores (MACE) en un seguimiento medio de 7 años.",
+   "why": "caracteriza por primera vez la evolución y los predictores de MACE en la MCH leve, un grupo que podría beneficiarse de terapias modificadoras de la enfermedad.",
+   "deque": "Los pacientes con MCH fenotípicamente leve no requieren manejo de síntomas, pero pueden estar en una fase temprana con potencial de beneficio de terapias modificadoras; se sabe poco de su historia natural y predictores de MACE. Usando el registro SHaRe se definió MCH leve como duración corta (<10 años desde el diagnóstico o edad ≤30 años), sin MACE previo, NYHA I y grosor parietal máximo del VI <25 mm; se siguió prospectivamente el desarrollo de síntomas o MACE (fibrilación auricular, arritmia ventricular maligna, insuficiencia cardiaca, ictus o muerte).",
+   "resultados": "De 2.500 participantes con MCH fenotípicamente leve (edad media 43 años, 31% mujeres) seguidos una media de 7 ± 6 años, 534 (21%) desarrollaron MACE, incluidos 289 con fibrilación auricular, 69 con arritmia ventricular maligna y 193 con insuficiencia cardiaca. Los que progresaron de NYHA I a ≥II (n=585, 23%) tuvieron 2,79 veces más riesgo de MACE (IC95% 2,30-3,39). Se asociaron a mayor tasa de MACE: edad basal (HR 1,24; IC95% 1,17-1,32 por cada 10 años), IMC (HR 1,10; IC95% 1,01-1,21 por cada 5 kg/m2), diámetro de la aurícula izquierda (HR 1,16; IC95% 1,09-1,25 por cada 5 mm), grosor parietal máximo del VI (HR 1,27; IC95% 1,10-1,46 por cada 5 mm) y gradiente del tracto de salida del VI (HR 1,08; IC95% 1,05-1,12 por cada 15 mmHg). La presencia de realce tardío de gadolinio se asoció con un 36% (IC95% 5%-76%) más de riesgo de MACE. Por cada aumento de 0,5 mm/año más pronunciado del diámetro auricular se duplicaron la fibrilación auricular (HR 2,24; IC95% 1,69-2,97) y la insuficiencia cardiaca (HR 2,22; IC95% 1,62-3,04), y por cada 0,5 mm/año más pronunciado del grosor parietal del VI se duplicó la arritmia ventricular maligna (HR 1,92; IC95% 1,38-2,69).",
+   "conclusiones": "Aproximadamente el 21% de los pacientes con MCH fenotípicamente leve desarrollaron MACE en un seguimiento a medio plazo. La edad avanzada, el desarrollo de síntomas y el aumento del diámetro auricular izquierdo, la hipertrofia del VI o el gradiente del tracto de salida se asociaron con MACE, especialmente con tasas de cambio más pronunciadas. Estos hallazgos pueden orientar las estrategias de manejo e informar futuros estudios de terapias modificadoras de la enfermedad."
+  },
+  "en": {
+   "resumen": "Analysis of the SHaRe registry on the natural history of phenotypically mild hypertrophic cardiomyopathy (HCM). About 21% of patients developed major adverse cardiovascular events (MACE) over a mean 7-year follow-up.",
+   "why": "it characterizes for the first time the course and predictors of MACE in mild HCM, a group that could benefit from disease-modifying therapies.",
+   "deque": "Patients with phenotypically mild HCM do not require symptom management but may be at an early stage with potential to benefit from disease-modifying therapies; little is known about their natural history and MACE predictors. Using the SHaRe registry, mild HCM was defined as short disease duration (<10 years since diagnosis or age ≤30 years), no previous MACE, NYHA I, and LV maximal wall thickness <25 mm; patients were followed prospectively for symptoms or MACE (atrial fibrillation, malignant ventricular arrhythmia, heart failure, stroke or death).",
+   "resultados": "Of 2,500 participants with phenotypically mild HCM (mean age 43 years, 31% women) followed for a mean of 7 ± 6 years, 534 (21%) developed MACE, including 289 with atrial fibrillation, 69 with malignant ventricular arrhythmia and 193 with heart failure. Those who progressed from NYHA I to ≥II (n=585, 23%) were 2.79 times more likely to experience MACE (95% CI 2.30-3.39). Associated with higher MACE rates: baseline age (HR 1.24; 95% CI 1.17-1.32 per 10-year increase), BMI (HR 1.10; 95% CI 1.01-1.21 per 5-kg/m2 increase), left atrial diameter (HR 1.16; 95% CI 1.09-1.25 per 5-mm increase), LV maximal wall thickness (HR 1.27; 95% CI 1.10-1.46 per 5-mm increase) and LV outflow tract gradient (HR 1.08; 95% CI 1.05-1.12 per 15-mmHg increase). Late gadolinium enhancement presence was associated with 36% (95% CI 5%-76%) higher hazard of MACE. Each 0.5 mm/year steeper increase in left atrial diameter doubled atrial fibrillation (HR 2.24; 95% CI 1.69-2.97) and heart failure (HR 2.22; 95% CI 1.62-3.04) rates, and each 0.5 mm/year steeper LV wall thickness increase doubled malignant ventricular arrhythmia (HR 1.92; 95% CI 1.38-2.69).",
+   "conclusiones": "Approximately 21% of patients with phenotypically mild HCM developed MACE over medium-term follow-up. Older age, symptom development, and increasing left atrial diameter, LV hypertrophy or LVOT gradient were associated with MACE, particularly with steeper rates of change. These findings can guide management strategies and inform future studies of disease-modifying therapies."
+  }
+ },
+ "a23": {
+  "key": "a23",
+  "doi": "10.1093/ejhf/xuag161",
+  "journal": "Eur J Heart Fail",
+  "sec": 6,
+  "ptype": "Artículo de revisión",
+  "prio": "Relevante",
+  "total": 6.0,
+  "title_en": "Risk models for sudden cardiac death in cardiomyopathies: clinical, methodological and ethical challenges",
+  "title_es": "Modelos de riesgo de muerte súbita cardíaca en las miocardiopatías: retos clínicos, metodológicos y éticos",
+  "es": {
+   "resumen": "Revisión crítica de los modelos de predicción de riesgo de muerte súbita cardíaca (MSC) en las miocardiopatías hereditarias. Evalúa las herramientas validadas para MCH y MAVD y los modelos emergentes gen-específicos, junto con sus limitaciones metodológicas y éticas.",
+   "why": "sintetiza el estado del arte y las limitaciones de los modelos de riesgo de MSC en miocardiopatías, señalando la evolución hacia enfoques individualizados que integran genotipo, imagen y clínica.",
+   "deque": "La muerte súbita cardíaca (MSC) sigue siendo un desenlace devastador pero potencialmente prevenible en las miocardiopatías hereditarias; aunque su incidencia absoluta es baja, la posibilidad de prevenirla mediante desfibriladores implantables hace de la estratificación precisa del riesgo arrítmico una prioridad clínica central. La predicción del riesgo está evolucionando desde la estratificación basada en el fenotipo hacia enfoques individualizados que integran genotipo, biomarcadores de imagen y variables clínicas. Esta revisión evalúa críticamente los modelos de predicción de MSC disponibles a través de los subtipos de miocardiopatía, incluyendo herramientas bien validadas para la miocardiopatía hipertrófica (MCH) y la miocardiopatía arritmogénica del ventrículo derecho (MAVD), así como modelos emergentes gen-específicos.",
+   "resultados": "La revisión explora conceptos metodológicos clave y destaca limitaciones como la escasez de datos, la heterogeneidad de los objetivos, el sobreajuste y la falta de validación externa robusta. La aplicación de umbrales de riesgo fijos en poblaciones de pacientes diversas plantea retos éticos y clínicos, particularmente cuando riesgos competitivos como la insuficiencia cardíaca o la muerte no cardíaca no se consideran adecuadamente. La síntesis de datos agregados y las ilustraciones gráficas muestran cómo las trayectorias de riesgo y los determinantes de mortalidad difieren según el genotipo y la fase de la enfermedad.",
+   "conclusiones": "A pesar de los avances recientes, la mayoría de los modelos aún no están integrados en la práctica habitual. Los avances futuros requerirán modelos dinámicos, longitudinales y multimodales, diseñados para la transparencia, la toma de decisiones centrada en el paciente y la implementación en el mundo real, para reducir de forma significativa la mortalidad en las miocardiopatías."
+  },
+  "en": {
+   "resumen": "Critical review of risk prediction models for sudden cardiac death (SCD) in inherited cardiomyopathies. It evaluates validated tools for HCM and ARVC and emerging gene-specific models, along with their methodological and ethical limitations.",
+   "why": "synthesizes the state of the art and limitations of SCD risk models in cardiomyopathies, highlighting the shift toward individualized approaches integrating genotype, imaging, and clinical variables.",
+   "deque": "Sudden cardiac death (SCD) remains a devastating but potentially preventable outcome in inherited cardiomyopathies; although its absolute incidence is low, the possibility of preventing it through implantable cardioverter-defibrillators makes accurate arrhythmic risk stratification a central clinical priority. Risk prediction is evolving from phenotype-based stratification toward individualized approaches integrating genotype, imaging biomarkers, and clinical variables. This review critically evaluates available SCD risk prediction models across cardiomyopathy subtypes, including well-validated tools for hypertrophic cardiomyopathy (HCM) and arrhythmogenic right ventricular cardiomyopathy (ARVC), as well as emerging gene-specific models.",
+   "resultados": "The review explores key methodological concepts and highlights limitations such as data sparsity, endpoint heterogeneity, overfitting, and the lack of robust external validation. The application of fixed risk thresholds across diverse patient populations poses ethical and clinical challenges, particularly when competing risks such as heart failure or non-cardiac death are not adequately considered. Synthesis of aggregate data and graphical illustrations show how risk trajectories and mortality drivers differ by genotype and disease stage.",
+   "conclusiones": "Despite recent progress, most models are not yet embedded in routine care. Future advances will require dynamic, longitudinal, and multimodal models, designed for transparency, patient-centred decision making, and real-world implementation to meaningfully reduce mortality in cardiomyopathies."
+  }
+ },
+ "a24": {
+  "key": "a24",
+  "doi": "10.1161/JAHA.125.047605",
+  "journal": "J Am Heart Assoc",
+  "sec": 6,
+  "ptype": "Investigación original",
+  "prio": "Relevante",
+  "total": 5.95,
+  "title_en": "Efficacy and Safety of Pharmaceutically Manufactured Cannabidiol in Recurrent Pericarditis: A Phase II Clinical Trial",
+  "title_es": "Eficacia y seguridad del cannabidiol de fabricación farmacéutica en la pericarditis recurrente: ensayo clínico de fase II",
+  "es": {
+   "resumen": "Ensayo de fase 2, abierto y multicéntrico, en 27 pacientes con pericarditis recurrente sintomática. El cannabidiol, un inhibidor del inflamasoma NLRP3, redujo el dolor pericárdico (de 5,8 a 2,1 a la semana 8) y normalizó la PCR en el 80% de los pacientes con elevación basal.",
+   "why": "propone el cannabidiol de fabricación farmacéutica, dirigido al inflamasoma NLRP3, como nueva opción para la pericarditis recurrente, con reducción del dolor y de la inflamación.",
+   "deque": "La pericarditis recurrente puede estar mediada por una activación inapropiada del inflamasoma de la proteína NLRP3 (NACHT, repeticiones ricas en leucina y dominio pirina); el cannabidiol de fabricación farmacéutica es una formulación oral que inhibe la activación de este inflamasoma y el desarrollo de pericarditis en un modelo preclínico. Este ensayo de fase 2, abierto y multicéntrico incluyó pacientes adultos con pericarditis recurrente sintomática (dolor torácico ≥4 en escala numérica de 11 puntos con PCR elevada [≥1 mg/dL] o al menos inflamación pericárdica leve en resonancia magnética cardíaca). Al inicio, los pacientes estaban en dosis estables de AINE, colchicina y/o corticoides. El cannabidiol se administró durante un periodo de tratamiento de 8 semanas y un periodo de extensión opcional de 18 semanas en el que se redujo y retiró la terapia de base. El objetivo primario de eficacia fue el cambio en el dolor de pericarditis reportado por el paciente; los secundarios incluyeron la normalización de la PCR y el porcentaje de pacientes con recurrencias.",
+   "resultados": "Entre 27 pacientes (18 mujeres, edad media 53 años), la puntuación basal máxima de dolor en escala numérica fue de 5,8 ± 1,7, y 10 pacientes tenían la PCR elevada. En la semana 8, la puntuación máxima de dolor fue de 2,1 ± 1,8, y la mediana de tiempo hasta una puntuación ≤2 fue de 5 días. Entre los 10 pacientes con elevación basal de PCR, esta se normalizó en la semana 8 en 8 (80%). Durante el periodo de extensión, 17 (71%) de 24 pacientes permanecieron libres de recurrencia de pericarditis. Ocurrió un evento adverso grave que llevó a la discontinuación del cannabidiol en 1 paciente.",
+   "conclusiones": "En pacientes sintomáticos con pericarditis recurrente, el cannabidiol de fabricación farmacéutica parece seguro y se asocia a reducciones del dolor de la pericarditis y de la inflamación sistémica. (clinicaltrials.gov; NCT05494788)."
+  },
+  "en": {
+   "resumen": "Phase 2, open-label, multicenter trial in 27 patients with symptomatic recurrent pericarditis. Cannabidiol, an NLRP3 inflammasome inhibitor, reduced pericardial pain (from 5.8 to 2.1 at Week 8) and normalized CRP in 80% of patients with baseline elevation.",
+   "why": "proposes pharmaceutically manufactured cannabidiol, targeting the NLRP3 inflammasome, as a new option for recurrent pericarditis, with reduction of pain and inflammation.",
+   "deque": "Recurrent pericarditis may be mediated through inappropriate activation of the NACHT, leucine-rich repeat, and pyrin domain-containing protein 3 (NLRP3) inflammasome; pharmaceutically manufactured cannabidiol is an oral formulation that inhibits NLRP3 inflammasome activation and development of pericarditis in a preclinical model. This Phase 2, open-label, multicenter trial included adult patients with symptomatic recurrent pericarditis (chest pain ≥4 on an 11-point numerical rating scale with elevated C-reactive protein [≥1 mg/dL] or at least mild pericardial inflammation on cardiac MRI). At enrollment, patients were on stable doses of NSAIDs, colchicine, and/or corticosteroids. Cannabidiol was administered over an 8-week treatment period and an optional 18-week extension during which background therapy was tapered and discontinued. The primary efficacy endpoint was change in patient-reported pericarditis pain; secondary endpoints included CRP normalization and the percentage of patients with recurrences.",
+   "resultados": "Among 27 patients (18 women, mean age 53 years), baseline maximal numerical rating scale pain score was 5.8±1.7, and 10 patients had elevated C-reactive protein. At Week 8, maximal pain score was 2.1±1.8, and median time to a score ≤2 was 5 days. Among the 10 patients with baseline CRP elevation, CRP was normal at Week 8 in 8 (80%). During the extension period, 17 (71%) of 24 patients remained free of pericarditis recurrence. A serious adverse event leading to cannabidiol discontinuation occurred in 1 patient.",
+   "conclusiones": "In symptomatic patients with recurrent pericarditis, pharmaceutically manufactured cannabidiol appears safe and is associated with reductions in pericarditis pain and systemic inflammation. (clinicaltrials.gov; NCT05494788)."
+  }
+ },
+ "a25": {
+  "key": "a25",
+  "doi": "10.1161/CIRCULATIONAHA.125.075535",
+  "journal": "Circulation",
+  "sec": 6,
+  "ptype": "Investigación original",
+  "prio": "Relevante",
+  "total": 5.0,
+  "title_en": "Scaled Multidimensional Assays of Variant Effect Identify Sequence-Function Relationships in Hypertrophic Cardiomyopathy",
+  "title_es": "Ensayos multidimensionales a escala del efecto de variantes identifican relaciones secuencia-función en la miocardiopatía hipertrófica",
+  "es": {
+   "resumen": "Estudio que desarrolla una estrategia de mapeo multidimensional a escala para evaluar el impacto funcional de variantes del gen MYBPC3 en la miocardiopatía hipertrófica (MCH). La menor abundancia de cMyBP-C emergió como factor clave de los fenotipos relacionados con MCH.",
+   "why": "ofrece una plataforma escalable para reclasificar variantes de significado incierto de MYBPC3 y descubrir mecanismos de enfermedad en tipos celulares específicos.",
+   "deque": "La MCH afecta a 1 de cada 500 personas y su diagnóstico genético puede identificar familiares en riesgo y guiar la terapia; las variantes de MYBPC3 (que codifica la proteína C de unión a la miosina cardiaca, cMyBP-C) explican una proporción importante, pero muchas son de significado incierto. Se desarrolló una estrategia de mapeo multidimensional que combina edición de bases por saturación en el locus nativo MYBPC3, un ensayo de efectos de splicing por secuenciación de ARN de lectura larga y medidas de fenotipos relevantes para MCH en cardiomiocitos derivados de células madre pluripotentes inducidas humanas.",
+   "resultados": "La estrategia permitió un análisis funcional de alta resolución de las variantes de MYBPC3 en cardiomiocitos derivados de células madre pluripotentes inducidas. El ensayo de splicing masivamente paralelo identificó nuevas variantes que alteran el splicing. La edición de bases transitoria dirigida generó una biblioteca completa de variantes en el locus nativo, capturando diversos efectos sobre fenotipos celulares relevantes para MCH. La integración de los ensayos reveló que la menor abundancia de cMyBP-C es un factor clave de los fenotipos relacionados con MCH; la disminución de la degradación proteica se correlacionó con la pérdida de función de MYBPC3 y se identificaron nuevos mecanismos potenciales para variantes missense cercanas a un dominio crítico de unión. Estimaciones bayesianas del efecto de las variantes permiten reclasificar variantes clínicas.",
+   "conclusiones": "Este trabajo proporciona una plataforma para extender la ingeniería genómica en células madre pluripotentes inducidas a ensayos multiplexados del efecto de variantes en diversos fenotipos celulares relevantes para la enfermedad, mejorando la comprensión de la patogenicidad de las variantes y descubriendo nuevos mecanismos biológicos que podrían informar estrategias terapéuticas."
+  },
+  "en": {
+   "resumen": "Study developing a scaled multidimensional mapping strategy to assess the functional impact of MYBPC3 gene variants in hypertrophic cardiomyopathy (HCM). Decreased cMyBP-C abundance emerged as a key driver of HCM-related phenotypes.",
+   "why": "it offers a scalable platform to reclassify MYBPC3 variants of uncertain significance and uncover disease mechanisms in disease-specific cell types.",
+   "deque": "HCM affects 1 in 500 people and its genetic diagnosis can identify at-risk relatives and guide therapy; MYBPC3 variants (encoding cardiac myosin-binding protein C, cMyBP-C) account for a significant proportion, but many are of uncertain significance. A multidimensional mapping strategy was developed combining saturation base editing at the native MYBPC3 locus, a long-read RNA sequencing assay of variant splice effects, and measurements of HCM-relevant phenotypes in human induced pluripotent stem cell-derived cardiomyocytes.",
+   "resultados": "The strategy enabled high-resolution functional analysis of MYBPC3 variants in induced pluripotent stem cell-derived cardiomyocytes. The massively parallel splicing assay identified novel splice-disrupting variants. Targeted transient base editing generated a comprehensive variant library at the native locus, capturing diverse variant effects on HCM-relevant cellular phenotypes. Integration of functional assays revealed that decreased cMyBP-C abundance is a key driver of HCM-related phenotypes; downregulation of protein degradation correlated with MYBPC3 loss of function, and novel potential disease mechanisms were identified for missense variants near a critical binding domain. Bayesian estimates of variant effects enable reclassification of clinical variants.",
+   "conclusiones": "This work provides a platform for extending genome engineering in induced pluripotent stem cells to multiplexed assays of variant effects across diverse disease-relevant cellular phenotypes, enhancing understanding of variant pathogenicity and uncovering novel biological mechanisms that could inform therapeutic strategies."
+  }
+ },
+ "a26": {
+  "key": "a26",
+  "doi": "10.1016/j.jacadv.2026.102985",
+  "journal": "JACC Adv",
+  "sec": 7,
+  "ptype": "Registro",
+  "prio": "Relevante",
+  "total": 5.7,
+  "title_en": "Clarifying the Obesity Paradox in Transcatheter Aortic Valve Replacement: Findings From the STS/ACC TVT Registry",
+  "title_es": "Aclarando la paradoja de la obesidad en el implante transcatéter de válvula aórtica: hallazgos del registro STS/ACC TVT",
+  "es": {
+   "resumen": "Análisis del registro STS/ACC TVT que examina si la edad modifica la relación entre el IMC y los resultados a 1 año tras TAVI. En mayores de 65 años, un IMC bajo (<25 kg/m2) se asoció con mayor mortalidad a 1 año.",
+   "why": "matiza la \"paradoja de la obesidad\": el mayor IMC no es protector de forma uniforme, sino que el efecto depende de la edad.",
+   "deque": "Un mayor IMC se ha asociado a mejores resultados tras TAVI, pero no está claro si esta \"paradoja de la obesidad\" varía con la edad. Análisis retrospectivo del registro STS/ACC TVT con pacientes sometidos a TAVI entre enero de 2021 y febrero de 2023, categorizados por edad (<65 o ≥65 años) e IMC (<25 o ≥25 kg/m2); resultado primario: mortalidad por cualquier causa a 1 año; se usaron modelos de ponderación por probabilidad inversa de tratamiento.",
+   "resultados": "Entre 6.639 pacientes (edad media 76,7 ± 11,6 años; IMC medio 29,7 ± 9,9 kg/m2), la mortalidad por cualquier causa a 1 año ocurrió en 427 (6,4%). En menores de 65 años, los resultados no difirieron entre grupos de IMC (p>0,05). En ≥65 años, un IMC <25 kg/m2 se asoció con mayor riesgo de mortalidad por cualquier causa (HR ajustado 1,29; IC95% 1,05 a 1,57; p=0,013) y de eventos cardiovasculares y cerebrovasculares adversos mayores (HR ajustado 1,20; IC95% 1,08-1,34; p=0,001) frente a IMC ≥25 kg/m2. La asociación entre mayor IMC y menor mortalidad se reforzó con la edad y fue significativa en pacientes de 75 a 84 años (HR ajustado 0,60; IC95% 0,44-0,82; p=0,001) y ≥85 años (HR ajustado 0,36; IC95% 0,25-0,51; p<0,001), pero no en estratos más jóvenes.",
+   "conclusiones": "Un mayor IMC no fue uniformemente protector. Entre los adultos mayores, un IMC más bajo se asoció con un fenotipo de mayor riesgo y peores resultados a 1 año."
+  },
+  "en": {
+   "resumen": "Analysis of the STS/ACC TVT registry examining whether age modifies the relationship between BMI and 1-year outcomes after TAVR. In patients over 65, low BMI (<25 kg/m2) was associated with higher 1-year mortality.",
+   "why": "it qualifies the \"obesity paradox\": higher BMI is not uniformly protective; the effect depends on age.",
+   "deque": "Higher BMI has been associated with better outcomes after TAVR, but whether this \"obesity paradox\" varies by age is unclear. Retrospective analysis of the STS/ACC TVT registry including patients who underwent TAVR between January 2021 and February 2023, categorized by age (<65 or ≥65 years) and BMI (<25 or ≥25 kg/m2); primary outcome: 1-year all-cause mortality; inverse probability of treatment weighting models were used.",
+   "resultados": "Among 6,639 patients (mean age 76.7 ± 11.6 years; mean BMI 29.7 ± 9.9 kg/m2), 1-year all-cause mortality occurred in 427 (6.4%). In patients <65 years, outcomes did not differ between BMI groups (P>0.05). In patients ≥65 years, BMI <25 kg/m2 was associated with higher risk of all-cause mortality (adjusted HR 1.29; 95% CI 1.05 to 1.57; P=0.013) and of major adverse cardiovascular and cerebrovascular events (adjusted HR 1.20; 95% CI 1.08-1.34; P=0.001) versus BMI ≥25 kg/m2. The association between higher BMI and lower mortality strengthened with advancing age and was significant in patients 75 to 84 years (adjusted HR 0.60; 95% CI 0.44-0.82; P=0.001) and ≥85 years (adjusted HR 0.36; 95% CI 0.25-0.51; P<0.001), but not in younger strata.",
+   "conclusiones": "Higher BMI was not uniformly protective. Among older adults, lower BMI was associated with a higher-risk phenotype and worse 1-year outcomes."
+  }
+ },
+ "a27": {
+  "key": "a27",
+  "doi": "10.4244/EIJ-D-26-00158",
+  "journal": "EuroIntervention",
+  "sec": 7,
+  "ptype": "Análisis secundario de ensayo clínico",
+  "prio": "Relevante",
+  "total": 5.6,
+  "title_en": "Prosthesis-patient mismatch with intra-annular self-expanding valves: an analysis of the PORTICO IDE trial",
+  "title_es": "Mismatch prótesis-paciente con válvulas autoexpandibles intraanulares: análisis del ensayo PORTICO IDE",
+  "es": {
+   "resumen": "Análisis del ensayo PORTICO IDE que compara el rendimiento hemodinámico y el mismatch prótesis-paciente (PPM) de las válvulas transcatéter Portico, Evolut y SAPIEN 3 en anillos aórticos pequeños y grandes. La Portico igualó a la Evolut y superó a la SAPIEN 3 en PPM y gradiente medio.",
+   "why": "muestra que la Portico intraanular ofrece hemodinámica comparable a la Evolut supraanular y superior a la SAPIEN 3, con menos deterioro estructural a 5 años en anillos pequeños.",
+   "deque": "El recambio valvular aórtico en anillos pequeños se asocia a mayor riesgo de hemodinámica alterada. PORTICO IDE fue un ensayo aleatorizado prospectivo, multicéntrico e internacional, premercado, que comparó Portico frente a Evolut y SAPIEN 3; un laboratorio central independiente evaluó el gradiente transvalvular medio (MG) y el área efectiva del orificio (EOA), y calculó el PPM en anillos pequeños (≤23 mm) y grandes (>23 mm).",
+   "resultados": "Se incluyeron 675 pacientes con estenosis aórtica grave de riesgo quirúrgico alto o extremo (Portico: 362; Evolut: 109; SAPIEN 3: 204). A 30 días, en anillos pequeños el EOA y el PPM grave fueron similares entre Portico y Evolut (EOA 1,65 cm2 vs 1,78 cm2; p=0,09; PPM 3,3% vs 3,0%; p=1,0), con mayor MG para Portico (8,5 mmHg vs 6,9 mmHg; p=0,034). En anillos grandes no hubo diferencias significativas entre Portico y Evolut (MG 8,3 mmHg vs 7,4 mmHg; p=0,069; EOA 1,93 cm2 vs 2,02 cm2; p=0,18; PPM 5,4% vs 3,2%; p=0,83). Portico fue superior a SAPIEN 3 en anillos pequeños (MG 8,5 mmHg vs 13,7 mmHg; p<0,0001; EOA 1,65 cm2 vs 1,40 cm2; p<0,0001; PPM 3,3% vs 26,3%; p<0,0001) y grandes (MG 8,3 mmHg vs 10,9 mmHg; p<0,0001; EOA 1,93 cm2 vs 1,67 cm2; p<0,0001; PPM 5,4% vs 10,9%; p=0,0014). A 5 años, la tasa de deterioro estructural valvular en anillos pequeños fue significativamente menor con Portico (2,2%) que con SAPIEN 3 (13,9%; p=0,03).",
+   "conclusiones": "El rendimiento hemodinámico fue similar entre la Portico intraanular y la Evolut supraanular. La hemodinámica de Portico superó a la SAPIEN 3 de expansión con balón en PPM y gradiente medio, tanto en anillos aórticos pequeños como grandes."
+  },
+  "en": {
+   "resumen": "Analysis of the PORTICO IDE trial comparing hemodynamic performance and prosthesis-patient mismatch (PPM) of the Portico, Evolut and SAPIEN 3 transcatheter valves in small and large aortic annuli. Portico matched Evolut and outperformed SAPIEN 3 for PPM and mean gradient.",
+   "why": "it shows the intra-annular Portico offers hemodynamics comparable to the supra-annular Evolut and superior to SAPIEN 3, with less structural deterioration at 5 years in small annuli.",
+   "deque": "Aortic valve replacement in small annuli is associated with higher risk of impaired hemodynamics. PORTICO IDE was a prospective, multicenter, international, premarket randomized trial comparing Portico with Evolut and SAPIEN 3; an independent core laboratory evaluated mean transvalvular gradient (MG) and effective orifice area (EOA) and calculated PPM in small (≤23 mm) and large (>23 mm) annuli.",
+   "resultados": "A total of 675 patients with severe aortic stenosis at high or extreme surgical risk were included (Portico: 362; Evolut: 109; SAPIEN 3: 204). At 30 days, in small annuli EOA and severe PPM were similar between Portico and Evolut (EOA 1.65 cm2 vs 1.78 cm2; p=0.09; PPM 3.3% vs 3.0%; p=1.0), with a higher MG for Portico (8.5 mmHg vs 6.9 mmHg; p=0.034). In large annuli there were no significant differences between Portico and Evolut (MG 8.3 mmHg vs 7.4 mmHg; p=0.069; EOA 1.93 cm2 vs 2.02 cm2; p=0.18; PPM 5.4% vs 3.2%; p=0.83). Portico was superior to SAPIEN 3 in small annuli (MG 8.5 mmHg vs 13.7 mmHg; p<0.0001; EOA 1.65 cm2 vs 1.40 cm2; p<0.0001; PPM 3.3% vs 26.3%; p<0.0001) and large annuli (MG 8.3 mmHg vs 10.9 mmHg; p<0.0001; EOA 1.93 cm2 vs 1.67 cm2; p<0.0001; PPM 5.4% vs 10.9%; p=0.0014). At 5 years, the rate of structural valve deterioration in small annuli was significantly lower with Portico (2.2%) than SAPIEN 3 (13.9%; p=0.03).",
+   "conclusiones": "Hemodynamic performance was similar for the intra-annular Portico and supra-annular Evolut. Portico hemodynamics outperformed the balloon-expandable SAPIEN 3 for PPM and mean gradient in both small and large aortic annuli."
+  }
+ },
+ "a28": {
+  "key": "a28",
+  "doi": "10.1093/eurheartj/ehag498",
+  "journal": "Eur Heart J",
+  "sec": 8,
+  "ptype": "Inteligencia artificial / modelo predictivo",
+  "prio": "Relevante",
+  "total": 6.1,
+  "title_en": "Peri-aortic fat to assess cardiovascular aging using an AI-driven radiomic biomarker",
+  "title_es": "Grasa periaórtica para evaluar el envejecimiento cardiovascular mediante un biomarcador radiómico basado en inteligencia artificial",
+  "es": {
+   "resumen": "Estudio que desarrolla y valida un biomarcador radiómico de edad cardiovascular (CV-Age) a partir de la grasa periaórtica en TC de tórax de rutina. La brecha de edad (ΔEdad) estratifica el riesgo de MACE y mejora la reclasificación del riesgo al sustituir la edad cronológica en PREVENT.",
+   "why": "convierte la grasa periaórtica de una TC de tórax rutinaria en un biomarcador de imagen escalable del envejecimiento cardiovascular que identifica a individuos de alto riesgo que la edad cronológica pasa por alto.",
+   "deque": "La edad cronológica es central en la estimación del riesgo cardiovascular pero refleja mal la heterogeneidad interindividual del envejecimiento cardiovascular. Se desarrolló un biomarcador de edad cardiovascular radiómica (CV-Age) del tejido adiposo periaórtico (PAAT) a partir de TC de tórax de rutina y se evaluó si la brecha de edad (ΔEdad = CV-Age − edad cronológica) estratifica los eventos cardiovasculares adversos mayores (MACE) y mejora la clasificación del riesgo. Se usaron cuatro cohortes de TC de tórax con distintos protocolos para entrenar (n = 4.451) y validar externamente (n = 44.214) el modelo, evaluando la asociación entre deciles de ΔEdad (resiliente ≤p10; acelerado ≥p90) y el MACE incidente de 5 puntos (infarto, ictus, revascularización, insuficiencia cardíaca y muerte).",
+   "resultados": "Una firma radiómica de 31 características (volumen, atenuación y heterogeneidad de textura del PAAT) predijo la edad con buena precisión (MAE en entrenamiento 2,2 años; MAE en validación externa primaria 2,7 años). En una cohorte separada de mayor riesgo las predicciones mostraron una ΔEdad positiva (mediana +5,4 años). La supervivencia libre de eventos difirió entre grupos de ΔEdad (log-rank p<0,001); frente a los que envejecen de forma normativa, los de envejecimiento acelerado tuvieron mayor riesgo de MACE (HR 1,51; IC95% 1,37-1,66) y los resilientes menor riesgo (HR 0,70; IC95% 0,63-0,77). Sustituir CV-Age en PREVENT mejoró la reclasificación del riesgo (NRI categórico +0,03; p<0,01; NRI continuo +0,04; p<0,05).",
+   "conclusiones": "El perfil radiómico del PAAT en TC de tórax de rutina genera un biomarcador de imagen escalable del envejecimiento cardiovascular. La CV-Age puede ayudar a mejorar la identificación de individuos de mayor riesgo que la estimación basada en la edad pasa por alto, apoyando su papel como herramienta de enriquecimiento del riesgo."
+  },
+  "en": {
+   "resumen": "Study developing and validating an AI-driven radiomic cardiovascular age (CV-Age) biomarker from peri-aortic fat on routine chest CT. The age gap (ΔAge) stratifies MACE risk and improves risk reclassification when substituted for chronological age in PREVENT.",
+   "why": "it turns peri-aortic fat on a routine chest CT into a scalable imaging biomarker of cardiovascular aging that identifies high-risk individuals missed by chronological age.",
+   "deque": "Chronological age is central to cardiovascular risk estimation but poorly reflects interindividual heterogeneity in cardiovascular aging. A peri-aortic adipose tissue (PAAT) radiomic cardiovascular age (CV-Age) biomarker was developed from routine chest CT to test whether the PAAT age gap (ΔAge = CV-Age − chronological age) stratifies major adverse cardiovascular events (MACE) and improves risk classification. Four chest CT cohorts with different protocols were used to train (n = 4,451) and externally validate (n = 44,214) the model, assessing associations between ΔAge decile groups (resilient ≤10th; accelerated ≥90th) and incident 5-point MACE (myocardial infarction, stroke, revascularization, heart failure, and death).",
+   "resultados": "A 31-feature radiomic signature capturing PAAT volume, attenuation, and texture heterogeneity predicted age with good accuracy (training MAE 2.2 years; primary external validation MAE 2.7 years). In a separate higher-risk cohort, predictions showed a positive ΔAge (median +5.4 years). ΔAge-stratified event-free survival differed across groups (log-rank P<.001); compared with normative agers, accelerated agers had higher MACE risk (HR 1.51, 95% CI 1.37-1.66), and resilient agers had lower risk (HR 0.70, 95% CI 0.63-0.77). Substituting CV-Age into PREVENT improved risk reclassification (categorical NRI +0.03, P<.01; continuous NRI +0.04, P<.05).",
+   "conclusiones": "Radiomic profiling of PAAT on routine chest CT yields a scalable imaging biomarker of cardiovascular aging. CV-Age can help improve identification of higher-risk individuals missed by age-driven risk estimation, supporting its role as a risk-enrichment tool."
+  }
+ },
+ "a29": {
+  "key": "a29",
+  "doi": "10.1093/ehjci/jeag173",
+  "journal": "Eur Heart J Cardiovasc Imaging",
+  "sec": 8,
+  "ptype": "Estudio pronóstico",
+  "prio": "Relevante",
+  "total": 5.8,
+  "title_en": "Prediction of Clinical Outcomes Based on Phenotypic Grouping Using Left Ventricular and Left Atrial Strains in Patients with HFpEF",
+  "title_es": "Predicción de resultados clínicos mediante agrupación fenotípica usando el strain del ventrículo izquierdo y de la aurícula izquierda en pacientes con IC-FEp",
+  "es": {
+   "resumen": "Estudio del registro STRATS-AHF que fenotipa a 1.184 pacientes con insuficiencia cardíaca con fracción de eyección preservada (IC-FEp) según el strain biauricular-ventricular. La afectación combinada del strain del VI y de la AI identificó fenotipos con distinto pronóstico y mayor mortalidad a 5 años.",
+   "why": "aporta que la evaluación combinada del strain del VI y de la AI aporta valor pronóstico incremental para estratificar la mortalidad en una IC-FEp heterogénea.",
+   "deque": "La IC-FEp es un síndrome heterogéneo con mal pronóstico, similar al de la IC con fracción reducida. Se investigó si el fenotipado basado en el análisis de strain de dos cámaras (strain longitudinal global del VI [LVGLS] y strain de reservorio de la AI [LARS]) aporta valor pronóstico incremental. Se analizaron todos los pacientes con IC-FEp del registro multicéntrico STRATS-AHF, categorizados en cuatro grupos según puntos de corte (LVGLS ≤−16%; LARS ≥18%); el desenlace primario fue la mortalidad por cualquier causa a 5 años.",
+   "resultados": "Se analizaron 1.184 pacientes con IC-FEp (edad media 73,4 años; 60,4% mujeres) en cuatro grupos: Grupo 1 (strain biauricular-ventricular preservado, n=340), Grupo 2 (LVGLS afectado/LARS preservado, n=239), Grupo 3 (LVGLS preservado/LARS afectado, n=186) y Grupo 4 (ambos afectados, n=419). El Grupo 4 mostró la mayor prevalencia de fibrilación auricular (FA, 62,8%), el mayor cociente E/e' y el strain longitudinal global del VD más afectado. En análisis univariable, el riesgo de mortalidad aumentó progresivamente del Grupo 2 al 4 (Grupo 2: HR 1,341; p=0,016; Grupo 3: HR 1,578; p<0,001; Grupo 4: HR 1,822; p<0,001). En modelos multivariables, el Grupo 2 (HR ajustado 1,664; p=0,011) y el Grupo 4 (HR ajustado 1,660; p=0,026) siguieron siendo predictores independientes de muerte frente al Grupo 1; el Grupo 3 no mostró riesgo significativo tras el ajuste por otras variables, incluidas edad y FA (HR ajustado 1,509; p=0,171).",
+   "conclusiones": "La evaluación combinada del strain del VI y de la AI identificó fenotipos distintos de IC-FEp y proporcionó información pronóstica valiosa en estos pacientes."
+  },
+  "en": {
+   "resumen": "STRATS-AHF registry study phenotyping 1,184 patients with heart failure with preserved ejection fraction (HFpEF) by dual-chamber strain. Combined LV and LA strain impairment identified phenotypes with distinct prognosis and higher 5-year mortality.",
+   "why": "it shows that combined LV and LA strain assessment adds incremental prognostic value for stratifying mortality in a heterogeneous HFpEF population.",
+   "deque": "HFpEF is a heterogeneous syndrome with poor outcomes similar to HF with reduced ejection fraction. The authors investigated whether phenotyping based on dual-chamber strain (left ventricular global longitudinal strain [LVGLS] and left atrial reservoir strain [LARS]) provides incremental prognostic value. All HFpEF patients in the multicenter STRATS-AHF registry were analyzed and categorized into four groups by cut-off values (LVGLS ≤−16%; LARS ≥18%); the primary outcome was 5-year all-cause mortality.",
+   "resultados": "A total of 1,184 HFpEF patients were analyzed (mean age 73.4 years; 60.4% female) in four groups: Group 1 (preserved dual-chamber strains, n=340), Group 2 (impaired LVGLS/preserved LARS, n=239), Group 3 (preserved LVGLS/impaired LARS, n=186), and Group 4 (impaired dual-chamber strains, n=419). Group 4 had the highest prevalence of atrial fibrillation (AF, 62.8%), the highest E/e' ratio, and the most impaired RV global longitudinal strain. In univariate analysis, mortality risk increased progressively from Group 2 to 4 (Group 2: HR 1.341, P=0.016; Group 3: HR 1.578, P<0.001; Group 4: HR 1.822, P<0.001). In multivariate models, Group 2 (adjusted HR 1.664, P=0.011) and Group 4 (adjusted HR 1.660, P=0.026) remained independent predictors of death vs Group 1; Group 3 showed no significant risk after adjustment for other variables including age and AF (adjusted HR 1.509, P=0.171).",
+   "conclusiones": "Combined LV and LA strain assessment identified distinct HFpEF phenotypes and provided valuable prognostic information in HFpEF patients."
+  }
+ },
+ "a30": {
+  "key": "a30",
+  "doi": "10.1161/JAHA.125.047079",
+  "journal": "J Am Heart Assoc",
+  "sec": 8,
+  "ptype": "Estudio de cohorte",
+  "prio": "Relevante",
+  "total": 5.2,
+  "title_en": "Periprocedural 24-Hour Change in Renalase Adds Incremental Value for Early Risk Stratification of Cardiovascular Magnetic Resonance-Defined Microvascular Obstruction in Patients With ST-Segment-Elevation Myocardial Infarction Undergoing Primary Percutaneous Coronary Intervention: A Prospective Cohort Study",
+  "title_es": "El cambio periprocedimiento a 24 horas de la renalasa aporta valor incremental para la estratificación precoz del riesgo de obstrucción microvascular definida por resonancia magnética cardiaca en pacientes con infarto con elevación del ST sometidos a intervención coronaria percutánea primaria: estudio de cohorte prospectivo",
+  "es": {
+   "resumen": "Estudio de cohorte prospectivo que evalúa si el cambio periprocedimiento de renalasa (Δ-renalasa) se asocia a obstrucción microvascular (OMV) tras intervención coronaria percutánea primaria en el IAMCEST. La Δ-renalasa se asoció de forma independiente y no lineal con la OMV.",
+   "why": "propone la Δ-renalasa como biomarcador precoz que mejora la estratificación del riesgo de obstrucción microvascular tras ICP primaria.",
+   "deque": "La renalasa, una enzima cardioprotectora sensible al estrés, presenta un pico posreperfusión que coincide temporalmente con la maduración de la OMV. Este estudio prospectivo incluyó 266 pacientes consecutivos con IAMCEST dentro de las 12 horas del inicio de síntomas sometidos a ICP primaria (Third Xiangya Hospital, agosto 2024-julio 2025); se midió renalasa sérica antes y 24 h tras la ICP y se definió la OMV por resonancia magnética cardiaca a los 2-5 días; seguimiento a 90 días.",
+   "resultados": "La cohorte tenía una edad media de 60,1 años y un 31,6% eran mujeres. Se identificó OMV en 118 pacientes (44,4%). En el análisis univariable, la Δ-renalasa mostró una asociación global significativa con la OMV (p=0,002) sin evidencia de no linealidad (p=0,743). Tras ajustar por un conjunto preespecificado de 9 covariables y modelar con splines cúbicos restringidos, la Δ-renalasa mostró una asociación independiente y no lineal con la OMV (p global=0,002; no lineal p=0,001), con odds de OMV que aumentaban más pronunciadamente con Δ-renalasa >0 μg/mL. Añadir la Δ-renalasa mejoró la discriminación (Δ área bajo la curva ROC=0,045), la precisión global (Brier de 0,214 a 0,197) y el beneficio neto en umbrales de riesgo del 30% al 50%. Una Δ-renalasa mayor se asoció de forma independiente con mayor extensión del infarto (% de masa del VI) y, entre los pacientes con OMV, mayor extensión de la OMV (% de masa del VI), así como menor pulso de oxígeno pico a los 90 días.",
+   "conclusiones": "En pacientes con IAMCEST tratados con ICP primaria, la Δ-renalasa periprocedimiento se asocia de forma independiente con la obstrucción microvascular definida por resonancia magnética cardiaca y mejora la estratificación del riesgo, lo que respalda su potencial para la predicción precoz del riesgo."
+  },
+  "en": {
+   "resumen": "Prospective cohort study evaluating whether periprocedural change in renalase (Δ-renalase) is associated with microvascular obstruction (MVO) after primary percutaneous coronary intervention in STEMI. Δ-renalase was independently and nonlinearly associated with MVO.",
+   "why": "it proposes Δ-renalase as an early biomarker that improves risk stratification for microvascular obstruction after primary PCI.",
+   "deque": "Renalase, a stress-responsive cardioprotective enzyme, exhibits a postreperfusion surge that temporally parallels MVO maturation. This prospective study enrolled 266 consecutive patients with STEMI within 12 hours of symptom onset undergoing primary PCI (Third Xiangya Hospital, August 2024-July 2025); serum renalase was measured before and 24 h after PCI and MVO was defined by cardiovascular magnetic resonance at 2-5 days; 90-day follow-up.",
+   "resultados": "The cohort had a mean age of 60.1 years and 31.6% were women. MVO was identified in 118 patients (44.4%). In univariable analysis, Δ-renalase showed a significant overall association with MVO (P=0.002) without evidence of nonlinearity (P=0.743). After adjustment for a prespecified 9-covariate set and modeling with restricted cubic splines, Δ-renalase showed an independent, nonlinear association with MVO (overall P=0.002; nonlinear P=0.001), with MVO odds increasing more steeply at Δ-renalase values >0 μg/mL. Adding Δ-renalase improved discrimination (Δ area under the ROC curve=0.045), overall accuracy (Brier score 0.214 to 0.197) and net benefit across 30% to 50% risk thresholds. Higher Δ-renalase was independently associated with greater infarct extent (% LV mass) and, among patients with MVO, greater MVO extent (% LV mass), as well as lower 90-day peak oxygen pulse.",
+   "conclusiones": "In patients with STEMI treated with primary PCI, periprocedural Δ-renalase is independently associated with cardiovascular magnetic resonance-defined MVO and improves risk stratification, supporting its potential for early risk prediction."
+  }
+ },
+ "a31": {
+  "key": "a31",
+  "doi": "10.1093/eurheartj/ehag482",
+  "journal": "Eur Heart J",
+  "sec": 9,
+  "ptype": "Documento de consenso",
+  "prio": "Relevante",
+  "total": 6.3,
+  "title_en": "Standardized endpoint definitions for trials of transcatheter left atrial appendage closure: a consensus from the Left Atrial Appendage Academic Research Consortium",
+  "title_es": "Definiciones estandarizadas de variables de resultado para ensayos de cierre transcatéter de la orejuela izquierda: un consenso del Left Atrial Appendage Academic Research Consortium",
+  "es": {
+   "resumen": "Documento de consenso del Left Atrial Appendage Academic Research Consortium (LAARC) que propone definiciones estandarizadas de variables de resultado para los ensayos de cierre de la orejuela izquierda (LAAC). Establece definiciones de consenso para mortalidad, ictus, sangrado y rendimiento del dispositivo, además de variables compuestas.",
+   "why": "armoniza por primera vez, con implicación de reguladores de EE. UU., Europa y Japón, las definiciones de variables de resultado para los ensayos de cierre de orejuela, mejorando la comparabilidad entre estudios.",
+   "deque": "Desde su introducción en 2002, el cierre de la orejuela izquierda (LAAC) se ha expandido rápidamente como alternativa a la anticoagulación en pacientes con fibrilación auricular de alto riesgo de ictus. Los procesos armonizados de recogida, análisis y notificación de datos son esenciales para mejorar la calidad de la investigación y la práctica clínica. La iniciativa LAARC es una colaboración independiente de organizaciones de investigación académica, expertos en cardiología y neurología, ensayistas clínicos y autoridades reguladoras de EE. UU., Europa y Asia, que involucró a expertos, reguladores (FDA, organismos notificados europeos y la PMDA de Japón) y líderes de la industria para definir elementos y variables de estudio estandarizados.",
+   "resultados": "Documento de consenso sin resultados cuantitativos: se propusieron definiciones de consenso para mortalidad, ictus, sangrado y rendimiento del dispositivo, junto con variables compuestas de seguridad y eficacia.",
+   "conclusiones": "Las definiciones de consenso LAARC propuestas buscan estandarizar la notificación de variables de resultado, mejorar la comparabilidad entre estudios y apoyar las aplicaciones regulatorias y de ensayos clínicos para esta terapia en evolución, mediante una amplia difusión en la literatura revisada por pares."
+  },
+  "en": {
+   "resumen": "Consensus document from the Left Atrial Appendage Academic Research Consortium (LAARC) proposing standardized endpoint definitions for transcatheter left atrial appendage closure (LAAC) trials. It sets consensus definitions for mortality, stroke, bleeding, and device performance, plus composite endpoints.",
+   "why": "it harmonizes, for the first time and with US, European, and Japanese regulators involved, the endpoint definitions for LAAC trials, improving comparability across studies.",
+   "deque": "Since its introduction in 2002, LAAC has rapidly expanded as an alternative to anticoagulation in atrial fibrillation patients at high stroke risk. Harmonized processes for data collection, analysis, and reporting are essential to enhance research quality and clinical practice. The LAARC initiative is an independent collaboration of academic research organizations, cardiology and neurology experts, clinical trialists, and regulatory authorities from the USA, Europe, and Asia, engaging experts, regulators (FDA, European Notified Bodies, and Japan's PMDA), and industry leaders to define standardized study elements and endpoints.",
+   "resultados": "Consensus document with no quantitative results: consensus definitions were proposed for mortality, stroke, bleeding, and device performance, along with composite endpoints for safety and effectiveness.",
+   "conclusiones": "The proposed LAARC consensus definitions aim to standardize endpoint reporting, improve comparability across studies, and support regulatory and clinical trial applications for this evolving therapy through broad dissemination in the peer-reviewed literature."
+  }
+ },
+ "a32": {
+  "key": "a32",
+  "doi": "10.4244/EIJ-D-25-01168",
+  "journal": "EuroIntervention",
+  "sec": 9,
+  "ptype": "Ensayo clínico aleatorizado",
+  "prio": "Relevante",
+  "total": 6.2,
+  "title_en": "Left atrial appendage closure with the AnchorMan or Watchman devices: 12-month results of the SAFE-PROTECT randomised trial",
+  "title_es": "Cierre de la orejuela auricular izquierda con los dispositivos AnchorMan o Watchman: resultados a 12 meses del ensayo aleatorizado SAFE-PROTECT",
+  "es": {
+   "resumen": "Ensayo aleatorizado SAFE-PROTECT que compara el nuevo dispositivo de cierre de orejuela izquierda AnchorMan frente al Watchman 2.5 en fibrilación auricular no valvular de alto riesgo de ictus. El AnchorMan fue no inferior al Watchman en éxito clínico y oclusión a 12 meses.",
+   "why": "aporta la primera evidencia aleatorizada de no inferioridad de un nuevo dispositivo (AnchorMan) frente al Watchman 2.5.",
+   "deque": "El cierre percutáneo de la orejuela auricular izquierda es una alternativa a la anticoagulación oral crónica para reducir el riesgo de ictus en la fibrilación auricular no valvular. SAFE-PROTECT fue un ensayo multicéntrico, abierto y de no inferioridad que aleatorizó 1:1 a pacientes con fibrilación auricular no valvular de alto riesgo de ictus isquémico a cierre con AnchorMan o Watchman; endpoint primario a 12 meses: éxito clínico (ausencia de ictus isquémico/hemorrágico, embolia sistémica, muerte cardiovascular o inexplicada); endpoint secundario de eficacia: oclusión de la orejuela por ecocardiografía (fuga peridispositivo <5 mm) a 12 meses.",
+   "resultados": "Se aleatorizaron 216 pacientes a AnchorMan (n=108) o Watchman (n=108). El AnchorMan fue no inferior al Watchman en el endpoint primario (98,1% vs 98,1%; p>0,99; diferencia -0,3; IC95% -3,9 a 3,5; p no inferioridad=0,0004) y en el endpoint secundario de eficacia de cierre de la orejuela (100% vs 100%; diferencia 0%; IC95% -3,60 a 3,50; p no inferioridad=no aplicable). Las tasas de muerte por cualquier causa, ictus, sangrado mayor y complicaciones relacionadas con el dispositivo fueron bajas y similares entre grupos.",
+   "conclusiones": "Entre pacientes con fibrilación auricular no valvular de alto riesgo de ictus isquémico, el dispositivo AnchorMan cumplió sus endpoints preespecificados de no inferioridad, tanto el primario de éxito clínico como el secundario de oclusión de la orejuela, frente al dispositivo Watchman 2.5."
+  },
+  "en": {
+   "resumen": "SAFE-PROTECT randomized trial comparing the novel left atrial appendage closure device AnchorMan with the Watchman 2.5 in non-valvular atrial fibrillation at high stroke risk. AnchorMan was non-inferior to Watchman for clinical success and occlusion at 12 months.",
+   "why": "it provides the first randomized evidence of non-inferiority of a novel device (AnchorMan) versus the Watchman 2.5.",
+   "deque": "Percutaneous left atrial appendage closure is an alternative to chronic oral anticoagulation to reduce stroke risk in non-valvular atrial fibrillation. SAFE-PROTECT was a multicenter, open-label, non-inferiority trial randomizing 1:1 patients with non-valvular atrial fibrillation at high risk of ischaemic stroke to closure with AnchorMan or Watchman; 12-month primary endpoint: clinical success (freedom from ischaemic/haemorrhagic stroke, systemic embolism, cardiovascular or unexplained death); secondary efficacy endpoint: echocardiography-defined LAA occlusion (peridevice leak <5 mm) at 12 months.",
+   "resultados": "A total of 216 patients were randomized to AnchorMan (n=108) or Watchman (n=108). AnchorMan was non-inferior to Watchman for the primary endpoint (98.1% vs 98.1%; p>0.99; difference -0.3; 95% CI -3.9 to 3.5; p non-inferiority=0.0004) and for the powered secondary efficacy endpoint of LAA closure (100% vs 100%; difference 0%; 95% CI -3.60 to 3.50; p non-inferiority=not applicable). Rates of all-cause death, stroke, major bleeding and device-related complications were low and similar between groups.",
+   "conclusiones": "Among patients with non-valvular atrial fibrillation at high risk of ischaemic stroke, the AnchorMan device met its prespecified non-inferiority endpoints, both the primary clinical success and the secondary LAA occlusion endpoints, compared with the Watchman 2.5 device."
+  }
+ },
+ "a33": {
+  "key": "a33",
+  "doi": "10.1161/CIRCINTERVENTIONS.126.016686",
+  "journal": "Circ Cardiovasc Interv",
+  "sec": 9,
+  "ptype": "Investigación original",
+  "prio": "Relevante",
+  "total": 5.7,
+  "title_en": "Optical Coherence Tomography Characterization of Coronary Lithotripsy Following Atherectomy for Treatment of Severely Calcified Lesions",
+  "title_es": "Caracterización por tomografía de coherencia óptica de la litotricia coronaria tras aterectomía para el tratamiento de lesiones gravemente calcificadas",
+  "es": {
+   "resumen": "Subestudio de OCT del registro DUAL-PREP que caracteriza la modificación del calcio con una estrategia de doble preparación (aterectomía seguida de litotricia intravascular) en lesiones gravemente calcificadas. Las fracturas de calcio aumentaron de forma escalonada con cada paso.",
+   "why": "aporta evidencia mecanística por OCT del incremento escalonado de la fractura de calcio con la estrategia de doble preparación.",
+   "deque": "La estrategia combinada de aterectomía seguida de litotricia intravascular (doble preparación) puede optimizar el despliegue del stent en lesiones gravemente calcificadas, pero la evidencia mecanística por OCT es limitada. Subestudio de OCT preespecificado, multicéntrico y de un solo brazo del registro DUAL-PREP, con lesiones gravemente calcificadas en las que se consideró preferible la combinación según imagen; la OCT fue analizada por un laboratorio central independiente y modelos multivariables examinaron predictores de fractura y expansión del stent.",
+   "resultados": "Hubo imágenes de OCT disponibles en 114 de 118 pacientes (116 lesiones; edad 75,9 ± 9,1 años; 69,3% varones). Todas las lesiones tenían una puntuación de calcio por OCT de 4. Las fracturas de calcio fueron infrecuentes tras la aterectomía (2/106 lesiones [1,9%]) pero aumentaron notablemente tras la litotricia intravascular (89/106 lesiones [84,0%]; 2,05 ± 1,59 fracturas por lesión), con un incremento adicional tras el implante del stent (101/109 lesiones [92,7%]; 2,89 ± 1,67 fracturas por lesión). El índice final de expansión del stent fue 0,81 ± 0,15 (excentricidad 0,72 ± 0,09; asimetría 0,39 ± 0,15). La calcificación de tipo excéntrico recto se asoció con menor probabilidad de fractura en la OCT final (OR 0,07; IC95% 0,00-0,77; p=0,029), mientras que los tipos excéntrico espiral y circunferencial mostraron mayor ocurrencia de fractura.",
+   "conclusiones": "Este análisis por OCT demostró un aumento escalonado de la fractura de calcio durante la estrategia de doble preparación, con fractura mínima tras la aterectomía, un aumento marcado tras la litotricia intravascular y un incremento adicional tras el implante del stent. La morfología del calcio puede aportar información adicional sobre la ocurrencia de fractura, apoyando el valor potencial de la evaluación tridimensional en lesiones gravemente calcificadas."
+  },
+  "en": {
+   "resumen": "OCT substudy of the DUAL-PREP registry characterizing calcium modification with a dual-preparation strategy (atherectomy followed by intravascular lithotripsy) in severely calcified lesions. Calcium fractures increased stepwise with each step.",
+   "why": "it provides OCT mechanistic evidence of the stepwise increase in calcium fracture with the dual-preparation strategy.",
+   "deque": "The combined strategy of atherectomy followed by intravascular lithotripsy (dual-prep) may optimize stent deployment in severely calcified lesions, but OCT mechanistic evidence is limited. Prespecified, multicenter, single-arm OCT substudy of the DUAL-PREP registry, enrolling severely calcified lesions for which combined treatment was deemed preferable based on imaging; OCT was analyzed by an independent core laboratory and multivariable models examined predictors of fracture and stent expansion.",
+   "resultados": "OCT images were available for 114 of 118 patients (116 lesions; age 75.9 ± 9.1 years; 69.3% male). All lesions had an OCT calcium score of 4. Calcium fractures were uncommon after atherectomy (2/106 lesions [1.9%]) but markedly increased following intravascular lithotripsy (89/106 lesions [84.0%]; 2.05 ± 1.59 fractures per lesion), with a further increase after stent implantation (101/109 lesions [92.7%]; 2.89 ± 1.67 fractures per lesion). Final stent expansion index was 0.81 ± 0.15 (eccentricity 0.72 ± 0.09; asymmetry 0.39 ± 0.15). Eccentric straight-type calcification was associated with a lower likelihood of fracture at final OCT (OR 0.07; 95% CI 0.00-0.77; P=0.029), whereas eccentric spiral and circumferential types showed higher fracture occurrence.",
+   "conclusiones": "This OCT analysis demonstrated a stepwise increase in calcium fracture during a dual-preparation strategy, with minimal fracture after atherectomy, a marked increase following intravascular lithotripsy, and a further increase after stent implantation. Calcium morphology may provide additional insight into fracture occurrence, supporting the potential value of 3-dimensional assessment in severely calcified lesions."
+  }
+ },
+ "a34": {
+  "key": "a34",
+  "doi": "10.1161/JAHA.126.049309",
+  "journal": "J Am Heart Assoc",
+  "sec": 9,
+  "ptype": "Registro",
+  "prio": "Relevante",
+  "total": 5.6,
+  "title_en": "Effect of Fluoroscopy-Only Versus Transesophageal Echocardiography/Intracardiac Echocardiography Guidance in Left Atrial Appendage Occlusion on Stroke Prevention: Analysis From the RECORD I Study",
+  "title_es": "Efecto de la guía solo por fluoroscopia frente a ecocardiografía transesofágica/intracardiaca en la oclusión de la orejuela auricular izquierda sobre la prevención del ictus: análisis del estudio RECORD I",
+  "es": {
+   "resumen": "Análisis del registro chino RECORD que compara la guía solo por fluoroscopia frente a ecocardiografía (transesofágica/intracardiaca) en la oclusión de la orejuela auricular izquierda con Watchman 2.5. La guía solo por fluoroscopia no comprometió la prevención del ictus a 3 años.",
+   "why": "sugiere que la guía solo por fluoroscopia puede ser una alternativa simplificada y accesible sin comprometer la eficacia a largo plazo en centros y pacientes seleccionados.",
+   "deque": "Falta evidencia sobre la relación entre la modalidad de imagen y los resultados de prevención de ictus de la oclusión de la orejuela. El registro RECORD incluyó prospectivamente 3.096 pacientes consecutivos sometidos a oclusión de la orejuela en 39 centros chinos (abril 2019-octubre 2020), estratificados en grupo con guía ecocardiográfica (transesofágica/intracardiaca) y grupo solo con fluoroscopia; endpoint primario: compuesto de muerte, ictus o embolia sistémica a 3 años; se usaron ponderación por probabilidad inversa de tratamiento y emparejamiento por puntuación de propensión 1:1.",
+   "resultados": "De 3.096 participantes, 2.603 (84,1%) se sometieron a procedimientos guiados por ecocardiografía transesofágica/intracardiaca y 493 (15,9%) por fluoroscopia sola. Antes del alta, las complicaciones del procedimiento ocurrieron en 34 pacientes (1,4%) del grupo de ecocardiografía y 3 (0,6%) del grupo de fluoroscopia (diferencia absoluta ajustada -0,67; IC95% -1,39 a 0,05; p=0,066). A los 3 años (completado por 2.989 pacientes, 97,0%), el endpoint primario ocurrió en 269 (10,5%) del grupo de ecocardiografía y 52 (10,6%) del grupo de fluoroscopia (HR ajustado 1,13; IC95% 0,81-1,57; p=0,469). El ictus isquémico fue comparable entre grupos (3,0% vs 4,1%; HR ajustado 1,66; IC95% 0,95-2,89; p=0,073). Estos hallazgos se mantuvieron consistentes entre perfiles de riesgo y niveles de experiencia del operador.",
+   "conclusiones": "La guía solo por fluoroscopia, sin comprometer la eficacia de prevención de ictus a largo plazo, puede servir como alternativa simplificada y potencialmente más accesible para los procedimientos de oclusión de la orejuela auricular izquierda realizados con el dispositivo WATCHMAN 2.5 de primera generación; estos hallazgos se aplican a pacientes seleccionados y centros experimentados."
+  },
+  "en": {
+   "resumen": "Analysis of the Chinese RECORD registry comparing fluoroscopy-only versus echocardiography (transesophageal/intracardiac) guidance in left atrial appendage occlusion with the Watchman 2.5. Fluoroscopy-only guidance did not compromise 3-year stroke prevention.",
+   "why": "it suggests fluoroscopy-only guidance may be a streamlined, accessible alternative without compromising long-term efficacy in selected centers and patients.",
+   "deque": "Evidence linking imaging modality to stroke-prevention outcomes of left atrial appendage occlusion is lacking. The RECORD registry prospectively enrolled 3,096 consecutive patients undergoing left atrial appendage occlusion at 39 Chinese centers (April 2019-October 2020), stratified into an echocardiographic guidance (transesophageal/intracardiac) group and a fluoroscopy-only group; primary endpoint: composite of death, stroke or systemic embolism at 3 years; inverse probability of treatment weighting and 1:1 propensity score matching were used.",
+   "resultados": "Of 3,096 participants, 2,603 (84.1%) underwent transesophageal/intracardiac echocardiography-guided procedures and 493 (15.9%) fluoroscopy-only procedures. Before discharge, procedural complications occurred in 34 patients (1.4%) in the echocardiography group and 3 (0.6%) in the fluoroscopy-only group (adjusted absolute difference -0.67; 95% CI -1.39 to 0.05; P=0.066). At 3 years (completed by 2,989 patients, 97.0%), the primary endpoint occurred in 269 (10.5%) of the echocardiography group and 52 (10.6%) of the fluoroscopy-only group (adjusted HR 1.13; 95% CI 0.81-1.57; P=0.469). Ischemic stroke was comparable between groups (3.0% vs 4.1%; adjusted HR 1.66; 95% CI 0.95-2.89; P=0.073). These findings remained consistent across patient risk profiles and operator experience levels.",
+   "conclusiones": "Fluoroscopy-only guidance, without compromising long-term stroke-prevention efficacy, may serve as a streamlined and potentially accessible alternative for left atrial appendage occlusion procedures performed with the first-generation WATCHMAN 2.5 device; these findings apply to select patients and experienced centers."
+  }
+ },
+ "a35": {
+  "key": "a35",
+  "doi": "10.1016/j.hrthm.2026.07.008",
+  "journal": "Heart Rhythm",
+  "sec": 10,
+  "ptype": "Análisis secundario de ensayo clínico",
+  "prio": "Relevante",
+  "total": 6.2,
+  "title_en": "Latent Class Analysis to Identify Phenotype-Specific Treatment Effects of Catheter Ablation Versus Drug Therapy in Patients with Atrial Fibrillation: A Secondary Analysis of the CABANA Trial",
+  "title_es": "Análisis de clases latentes para identificar efectos del tratamiento específicos por fenotipo de la ablación con catéter frente a la terapia farmacológica en pacientes con fibrilación auricular: análisis secundario del ensayo CABANA",
+  "es": {
+   "resumen": "Análisis de clases latentes de 2.204 pacientes del ensayo CABANA que identifica tres fenotipos de fibrilación auricular con respuestas diferenciales a la ablación frente a fármacos. El beneficio de la ablación fue más favorable en la Clase 2 (fenotipo mayor, función preservada y baja comorbilidad; HR ajustado 0,56).",
+   "why": "sugiere heterogeneidad del efecto del tratamiento entre fenotipos de fibrilación auricular, apoyando estrategias de control del ritmo guiadas por fenotipo.",
+   "deque": "El perfil de riesgo de los pacientes con fibrilación auricular es heterogéneo y la respuesta a la ablación frente a fármacos puede variar entre fenotipos clínicos. Este análisis secundario del ensayo CABANA incluyó 2.204 pacientes aleatorizados a ablación con catéter o terapia farmacológica; se usaron 20 variables basales (demografía, comorbilidades, historia de fibrilación auricular, carga sintomática y medidas ecocardiográficas) para el análisis de clases latentes. El objetivo primario fue un compuesto de muerte por cualquier causa, ictus discapacitante, hemorragia grave o parada cardiaca, evaluando los efectos del tratamiento por clase con modelos de Cox y término de interacción tratamiento por clase en marcos por intención de tratar (ITT) y por protocolo (PP).",
+   "resultados": "Se identificaron tres clases latentes: Clase 1 (n=558), fenotipo mayor, multimórbido y sintomático; Clase 2 (n=739), fenotipo mayor, con función preservada y menor comorbilidad; y Clase 3 (n=905), fenotipo más joven, varón, con riesgo metabólico. En ITT, las estimaciones del efecto de la ablación frente a fármacos fueron más favorables en la Clase 2 (HR ajustado 0,56; IC95% 0,34-0,92), mientras que en las otras clases fueron menos claras; interacción p=0,070. El análisis PP mostró patrones similares, con las estimaciones más favorables en la Clase 2; interacción p=0,047.",
+   "conclusiones": "El análisis de clases latentes identificó tres fenotipos de fibrilación auricular con respuestas diferenciales a la ablación con catéter frente a la terapia farmacológica. Estos hallazgos sugieren heterogeneidad del tratamiento entre fenotipos de fibrilación auricular y apoyan una evaluación adicional de estrategias de control del ritmo guiadas por fenotipo."
+  },
+  "en": {
+   "resumen": "Latent class analysis of 2,204 CABANA trial patients identifying three atrial fibrillation phenotypes with differential responses to ablation versus drug therapy. The ablation benefit was most favorable in Class 2 (older, preserved-function, low-comorbidity phenotype; adjusted HR 0.56).",
+   "why": "it suggests treatment-effect heterogeneity across atrial fibrillation phenotypes, supporting phenotype-guided rhythm-control strategies.",
+   "deque": "The risk profile of atrial fibrillation patients is heterogeneous, and responses to ablation versus drug therapy may vary across clinical phenotypes. This secondary analysis of the CABANA trial included 2,204 patients randomized to catheter ablation or drug therapy; 20 baseline variables (demographics, comorbidities, AF history, symptom burden, echocardiographic measures) were used for latent class analysis. The primary outcome was a composite of all-cause death, disabling stroke, serious bleeding, or cardiac arrest, with treatment effects across classes evaluated using Cox models with a treatment-by-class interaction term under intention-to-treat (ITT) and per-protocol (PP) frameworks.",
+   "resultados": "Three latent classes were identified: Class 1 (n=558), an older multimorbid symptomatic phenotype; Class 2 (n=739), an older preserved-function lower-comorbidity phenotype; and Class 3 (n=905), a younger male metabolic-risk phenotype. In ITT, treatment-effect estimates for ablation versus drug therapy were most favorable in Class 2 (adjusted hazard ratio 0.56, 95% CI 0.34-0.92), whereas estimates in other classes were less distinct; interaction P=0.070. PP analysis showed similar patterns, with the most favorable estimates in Class 2; interaction P=0.047.",
+   "conclusiones": "Latent class analysis identified three atrial fibrillation phenotypes with differential responses to catheter ablation versus drug therapy. These findings suggest treatment heterogeneity across atrial fibrillation phenotypes and support further evaluation of phenotype-guided rhythm-control strategies."
+  }
+ },
+ "a36": {
+  "key": "a36",
+  "doi": "10.1093/europace/euag173",
+  "journal": "Europace",
+  "sec": 10,
+  "ptype": "Análisis secundario de ensayo clínico",
+  "prio": "Relevante",
+  "total": 6.0,
+  "title_en": "Early recurrence of atrial tachyarrhythmia after catheter ablation and its associations with clinical outcomes, atrial fibrillation burden, and blanking period duration: A post hoc analysis of the CABANA trial",
+  "title_es": "Recurrencia precoz de taquiarritmia auricular tras ablación con catéter y su asociación con resultados clínicos, carga de fibrilación auricular y duración del periodo de blanqueo: análisis post hoc del ensayo CABANA",
+  "es": {
+   "resumen": "Análisis post hoc de 811 pacientes del ensayo CABANA sobre la recurrencia precoz de taquiarritmia auricular (ERAT) tras la ablación. La ERAT (69,9%) se asoció con mayor riesgo de hospitalización cardiovascular y de recurrencia arrítmica tardía, sin aumentar el objetivo primario.",
+   "why": "muestra que la ERAT tiene relevancia pronóstica dependiente del tiempo y apoya un periodo de blanqueo más corto para identificar mejor a los pacientes en riesgo.",
+   "deque": "La recurrencia precoz de taquiarritmia auricular (ERAT) tras la ablación de fibrilación auricular es frecuente, pero su significado pronóstico y sus implicaciones para la duración del periodo de blanqueo son inciertos. Este análisis post hoc incluyó 811 pacientes del ensayo CABANA que se sometieron a ablación y disponían de datos de monitorización electrocardiográfica específica; la ERAT se definió como cualquier episodio de fibrilación auricular, flutter o taquicardia auricular de >30 segundos en el periodo de blanqueo de 90 días. El objetivo primario fue un compuesto de mortalidad por cualquier causa, ictus discapacitante, hemorragia grave o parada cardiaca; los secundarios incluyeron hospitalización cardiovascular y recurrencia tardía de taquiarritmia auricular.",
+   "resultados": "En una mediana de 4 años (RIC 2,5-5,2) de seguimiento, la ERAT ocurrió en 567 pacientes (69,9%). Los pacientes con ERAT tuvieron mayor riesgo de hospitalización cardiovascular (HR ajustado 1,35; IC95% 1,07-1,71) y del compuesto de mortalidad por cualquier causa u hospitalización cardiovascular (HR ajustado 1,33; IC95% 1,07-1,66), pero sin aumento del objetivo primario compuesto. La ERAT se asoció de forma independiente con recurrencia tardía de taquiarritmia auricular (HR ajustado 1,35; IC95% 1,07-1,71). La relevancia pronóstica varió según el momento, con la asociación más fuerte para la ERAT entre los días 60 y 90 tras la ablación (HR ajustado 1,80; IC95% 1,16-2,79). El análisis de curva ROC identificó 58 días como umbral óptimo para predecir la recurrencia arrítmica tardía (AUC 0,727).",
+   "conclusiones": "La ERAT se asoció con mayor riesgo de hospitalización cardiovascular y de recurrencia tardía de taquiarritmia auricular de manera dependiente del tiempo, apoyando un periodo de blanqueo más corto para identificar mejor a los pacientes en riesgo de resultados de ritmo adversos."
+  },
+  "en": {
+   "resumen": "Post hoc analysis of 811 CABANA trial patients on early recurrence of atrial tachyarrhythmia (ERAT) after ablation. ERAT (69.9%) was associated with higher risk of cardiovascular hospitalization and late arrhythmia recurrence, without increasing the primary outcome.",
+   "why": "it shows ERAT carries time-dependent prognostic relevance and supports a shorter blanking period to better identify at-risk patients.",
+   "deque": "Early recurrence of atrial tachyarrhythmia (ERAT) after ablation for atrial fibrillation is common, yet its prognostic significance and implications for blanking-period duration remain uncertain. This post hoc analysis included 811 CABANA trial patients who underwent ablation and had trial-specific electrocardiographic monitoring data; ERAT was defined as any episode of AF, atrial flutter, or atrial tachycardia lasting >30 seconds within the 90-day blanking period. The primary outcome was a composite of all-cause mortality, disabling stroke, serious bleeding, or cardiac arrest; secondary outcomes included cardiovascular hospitalization and late atrial tachyarrhythmia recurrence.",
+   "resultados": "Over a median 4 years (IQR 2.5-5.2) of follow-up, ERAT occurred in 567 patients (69.9%). Patients with ERAT had higher risks of cardiovascular hospitalization (adjusted HR 1.35, 95% CI 1.07-1.71) and of the composite of all-cause mortality or cardiovascular hospitalization (adjusted HR 1.33, 95% CI 1.07-1.66), but no increased risk of the primary composite outcome. ERAT was independently associated with late atrial tachyarrhythmia recurrence (adjusted HR 1.35, 95% CI 1.07-1.71). Prognostic relevance varied by timing, with the strongest association for ERAT occurring between 60 and 90 days after ablation (adjusted HR 1.80, 95% CI 1.16-2.79). ROC analysis identified 58 days as the optimal threshold for predicting late arrhythmia recurrence (AUC 0.727).",
+   "conclusiones": "ERAT was associated with higher risks of cardiovascular hospitalization and late atrial tachyarrhythmia recurrence in a time-dependent manner, supporting a shorter blanking period to better identify patients at risk of adverse rhythm outcomes."
+  }
+ },
+ "a37": {
+  "key": "a37",
+  "doi": "10.1016/j.hrthm.2026.07.006",
+  "journal": "Heart Rhythm",
+  "sec": 10,
+  "ptype": "Estudio de cohorte",
+  "prio": "Relevante",
+  "total": 5.8,
+  "title_en": "Clinical Significance of Persistent Iatrogenic Atrial Septal Defect After Catheter Ablation for Atrial Fibrillation",
+  "title_es": "Significado clínico del defecto septal auricular iatrogénico persistente tras ablación con catéter de la fibrilación auricular",
+  "es": {
+   "resumen": "Estudio retrospectivo de 1.288 pacientes tras primera ablación de fibrilación auricular que evalúa el defecto septal auricular iatrogénico (iASD) persistente. El iASD persistente (9,9%) se asoció con mayor mortalidad cardiovascular y hospitalización precoz por insuficiencia cardiaca.",
+   "why": "sugiere que el iASD persistente puede servir como marcador clínicamente relevante de pronóstico adverso tras la ablación de fibrilación auricular.",
+   "deque": "El defecto septal auricular iatrogénico (iASD) es una complicación frecuente de la ablación con catéter de la fibrilación auricular, pero su significado clínico sigue sin estar claro. Este estudio retrospectivo incluyó 1.288 pacientes consecutivos sometidos a primera ablación en el Ogaki Municipal Hospital (2012-2022), con ecocardiografía transtorácica antes y 3 meses después; un subgrupo predefinido de 578 pacientes tratados con catéter de radiofrecuencia con sensor de contacto y abordaje transeptal estandarizado de dos vainas (Agilis y SL-0) también fue evaluado. Los resultados incluyeron recurrencia de fibrilación auricular, mortalidad por cualquier causa, mortalidad cardiovascular, hospitalización por insuficiencia cardiaca e ictus isquémico.",
+   "resultados": "Se detectó iASD en 127 pacientes (9,9%). Tanto en la cohorte global como en el subgrupo predefinido, los pacientes con iASD tuvieron mayor recurrencia de fibrilación auricular en el análisis no ajustado (p=0,002 y p=0,004, respectivamente), pero no tras el ajuste multivariable. El análisis multivariable identificó el tamaño y número de vainas, factores relacionados con el tamaño corporal y la velocidad pico de regurgitación tricuspídea como predictores independientes de iASD persistente. La mortalidad cardiovascular y la hospitalización por insuficiencia cardiaca fueron mayores en pacientes con iASD persistente (p=0,02 y p<0,001, respectivamente), con los eventos de insuficiencia cardiaca agrupados en la fase precoz (≤6 meses), pero no el ictus isquémico (p=0,28).",
+   "conclusiones": "El iASD persistente se asoció con recurrencia de fibrilación auricular en el análisis no ajustado, con mortalidad cardiovascular y con hospitalización por insuficiencia cardiaca en fase precoz tras la ablación de fibrilación auricular. Estos hallazgos sugieren que el iASD persistente puede servir como marcador clínicamente relevante de pronóstico adverso tras la ablación."
+  },
+  "en": {
+   "resumen": "Retrospective study of 1,288 patients after first-time atrial fibrillation ablation evaluating persistent iatrogenic atrial septal defect (iASD). Persistent iASD (9.9%) was associated with higher cardiovascular mortality and early heart-failure hospitalization.",
+   "why": "it suggests persistent iASD may serve as a clinically relevant marker of adverse prognosis after atrial fibrillation ablation.",
+   "deque": "Iatrogenic atrial septal defect (iASD) is a frequent complication of catheter ablation for atrial fibrillation, but its clinical significance remains unclear. This retrospective study included 1,288 consecutive patients undergoing first-time ablation at Ogaki Municipal Hospital (2012-2022), with transthoracic echocardiography before and 3 months after ablation; a predefined subgroup of 578 patients treated with a contact force-enabled radiofrequency catheter using a standardized two-sheath transseptal approach (Agilis and SL-0) was also evaluated. Outcomes included AF recurrence, all-cause mortality, cardiovascular mortality, heart failure (HF) hospitalization, and ischemic stroke.",
+   "resultados": "iASD was detected in 127 patients (9.9%). In both the overall cohort and the predefined subgroup, patients with iASD had higher AF recurrence on unadjusted analysis (P=0.002 and P=0.004, respectively), but not after multivariable adjustment. Multivariable analysis identified sheath size and number, body size-related factors, and tricuspid regurgitation peak velocity as independent predictors of persistent iASD. Cardiovascular mortality and HF hospitalization were higher in patients with persistent iASD (P=0.02 and P<0.001, respectively), with HF events clustering in the early phase (≤6 months), but not ischemic stroke (P=0.28).",
+   "conclusiones": "Persistent iASD was associated with AF recurrence on unadjusted analysis, cardiovascular mortality, and early-phase HF hospitalization after AF ablation. These findings suggest that persistent iASD may serve as a clinically relevant marker of adverse prognosis after AF ablation."
+  }
+ },
+ "a38": {
+  "key": "a38",
+  "doi": "10.1016/j.hrthm.2026.07.003",
+  "journal": "Heart Rhythm",
+  "sec": 10,
+  "ptype": "Investigación original",
+  "prio": "Relevante",
+  "total": 5.7,
+  "title_en": "Conduction Guided Intervention: A First-in-Human Study of CTA-Guided Targeting of Proximal Conduction System Structures",
+  "title_es": "Intervención guiada por el sistema de conducción: primer estudio en humanos de la localización guiada por angio-TC de estructuras proximales del sistema de conducción",
+  "es": {
+   "resumen": "Primer estudio en humanos de un flujo de trabajo guiado por angiografía por TC (CTA) para dirigir el marcapasos del sistema de conducción hacia estructuras proximales (His distal y tronco proximal de la rama izquierda) en 40 pacientes. Se logró éxito del procedimiento en el 95% y éxito clínico en el 90%.",
+   "why": "demuestra que el mapeo del sistema de conducción guiado por angio-TC es factible y permite dirigir de forma intencionada las estructuras de conducción proximales.",
+   "deque": "El marcapasos del sistema de conducción (CSP) sigue siendo técnicamente difícil porque dirigirse de forma intencionada a estructuras proximales como el haz de His distal y el tronco proximal de la rama izquierda es complicado con las técnicas actuales. La Intervención Guiada por Conducción (CGI) integra angio-TC cardiaca preprocedimiento con reconstrucción del sistema de conducción específica del paciente y superposición fluoroscópica en tiempo real. En este estudio prospectivo primero en humanos se incluyeron 40 pacientes consecutivos sometidos a CSP; el éxito del procedimiento se definió como implante en una diana proximal del sistema de conducción según criterios anatómicos y electrofisiológicos predefinidos, y el éxito clínico requería captura proximal del sistema de conducción con corrección del QRS a la salida de trabajo.",
+   "resultados": "Se logró éxito del procedimiento en 38/40 pacientes (95%). El análisis por angio-TC mostró una variabilidad interindividual sustancial en la anatomía del sistema de conducción proximal, con diferencias marcadas en distancias y trayectorias a lo largo del eje nodo AV-His entre pacientes. El marcapasos del His distal según criterios predefinidos se logró inicialmente en 26 pacientes (65%); sin embargo, se requirió la transición al marcapasos del tronco proximal de la rama izquierda en 12 pacientes por corrección inadecuada del QRS y/o umbrales de estimulación desfavorables. Los sitios de estimulación finales adjudicados incluyeron His distal en 14 pacientes (35%) y tronco proximal de la rama izquierda en 22 pacientes (55%), resultando en marcapasos del sistema de conducción proximal en 36/40 pacientes (éxito clínico 90%).",
+   "conclusiones": "El mapeo del sistema de conducción guiado por angio-TC fue factible y permitió dirigirse de forma intencionada a estructuras de conducción proximales en la mayoría de los pacientes. La integración de información anatómica específica del paciente puede complementar la guía fluoroscópica y electrofisiológica convencional durante el implante de CSP."
+  },
+  "en": {
+   "resumen": "First-in-human study of a CT angiography (CTA)-guided workflow to target conduction system pacing toward proximal structures (distal His and proximal left bundle branch trunk) in 40 patients. Procedural success was achieved in 95% and clinical success in 90%.",
+   "why": "it demonstrates that CTA-guided conduction system mapping is feasible and enables intentional targeting of proximal conduction structures.",
+   "deque": "Conduction system pacing (CSP) remains technically challenging because intentional targeting of proximal structures such as the distal His bundle and proximal left bundle branch (LBB) trunk is difficult with current techniques. Conduction Guided Intervention (CGI) integrates pre-procedural cardiac CTA with patient-specific conduction system reconstruction and real-time fluoroscopic overlay. In this first-in-human prospective study, 40 consecutive patients undergoing CSP were enrolled; procedural success was defined as implantation at a proximal conduction system target per predefined anatomical and electrophysiological criteria, and clinical success required proximal conduction system capture with QRS correction at working output.",
+   "resultados": "Procedural success was achieved in 38/40 patients (95%). CTA analysis showed substantial inter-individual variability in proximal conduction system anatomy, with marked differences in distances and trajectories along the AVN-His axis between patients. Distal His pacing per predefined criteria was initially achieved in 26 patients (65%); however, transition to proximal LBB trunk pacing was required in 12 patients because of inadequate QRS correction and/or unfavorable pacing thresholds. Final adjudicated pacing sites included distal His pacing in 14 patients (35%) and proximal LBB trunk pacing in 22 patients (55%), resulting in proximal conduction system pacing in 36/40 patients (clinical success 90%).",
+   "conclusiones": "CTA-guided conduction system mapping was feasible and enabled intentional targeting of proximal conduction structures in most patients. Integration of patient-specific anatomical information may complement conventional fluoroscopic and electrophysiological guidance during CSP implantation."
+  }
+ },
+ "a39": {
+  "key": "a39",
+  "doi": "10.1016/j.jacadv.2026.102990",
+  "journal": "JACC Adv",
+  "sec": 10,
+  "ptype": "Estudio de cohorte",
+  "prio": "Relevante",
+  "total": 5.7,
+  "title_en": "Electrical and Structural Atrial Remodeling Identifies a High-Risk Phenotype in Embolic Stroke of Undetermined Source",
+  "title_es": "El remodelado auricular eléctrico y estructural identifica un fenotipo de alto riesgo en el ictus embólico de origen indeterminado",
+  "es": {
+   "resumen": "Estudio prospectivo unicéntrico que caracteriza el remodelado auricular eléctrico y estructural en el ictus embólico de origen indeterminado (ESUS). Un score que integra ≥3 marcadores identificó un subgrupo con supervivencia libre de eventos a 1 año de aproximadamente el 50%.",
+   "why": "propone la valoración multimodal de la miocardiopatía auricular como forma de identificar el subgrupo de ESUS de mayor riesgo, potencialmente candidato a estrategias guiadas por ritmo o anticoagulación.",
+   "deque": "El ESUS conlleva un riesgo sustancial de recurrencia, pero la anticoagulación no ha demostrado superioridad frente a la antiagregación en pacientes no seleccionados; la miocardiopatía auricular podría identificar un subgrupo de alto riesgo. En este estudio prospectivo unicéntrico, 103 pacientes consecutivos con ESUS y 123 controles emparejados por edad y sexo sin cardiopatía conocida se sometieron a evaluación clínica, medición de NT-proBNP, electrocardiograma de 12 derivaciones y ecocardiografía transtorácica, con seguimiento ≥12 meses; endpoint primario: compuesto de muerte por cualquier causa, ictus recurrente, accidente isquémico transitorio, infarto de miocardio o fibrilación auricular de nuevo diagnóstico.",
+   "resultados": "Los pacientes con ESUS presentaron mayor NT-proBNP, bloqueo interauricular avanzado más frecuente y función auricular izquierda deteriorada frente a los controles. En una mediana de seguimiento de 382 días (RIC 366-697), 29 pacientes con ESUS (29/103; 28%) alcanzaron el endpoint primario. Los predictores independientes fueron NT-proBNP >420 pg/mL, bloqueo interauricular avanzado, E' ≤9 cm/s, índice de volumen auricular izquierdo ≥29 mL/m2 y fracción de eyección auricular izquierda <50%. Un score de riesgo que integra ≥3 marcadores identificó un subgrupo con riesgo notablemente mayor, en el que la supervivencia libre de eventos a 1 año estimada por Kaplan-Meier fue de aproximadamente el 50% (IC95% 31,6%-68,4%).",
+   "conclusiones": "La evaluación multimodal del remodelado auricular eléctrico y estructural identifica un subgrupo de pacientes con ESUS con mayor riesgo de eventos adversos. Estos hallazgos subrayan la posible relevancia clínica de la miocardiopatía auricular y podrían apoyar su evaluación en futuros estudios guiados por ritmo o de anticoagulación."
+  },
+  "en": {
+   "resumen": "Prospective single-center study characterizing electrical and structural atrial remodeling in embolic stroke of undetermined source (ESUS). A score integrating ≥3 markers identified a subgroup with roughly 50% event-free survival at 1 year.",
+   "why": "it proposes multimodal assessment of atrial cardiomyopathy as a way to identify the highest-risk ESUS subgroup, potentially a candidate for rhythm-guided or anticoagulation strategies.",
+   "deque": "ESUS carries a substantial recurrence risk, yet anticoagulation has not proven superior to antiplatelet therapy in unselected patients; atrial cardiomyopathy may identify a high-risk subgroup. In this prospective single-center study, 103 consecutive ESUS patients and 123 age- and sex-matched controls without known cardiac disease underwent clinical evaluation, NT-proBNP measurement, 12-lead electrocardiogram and transthoracic echocardiography, with ≥12 months of follow-up; primary endpoint: composite of all-cause death, recurrent stroke, transient ischemic attack, myocardial infarction or newly diagnosed atrial fibrillation.",
+   "resultados": "ESUS patients exhibited higher NT-proBNP, more frequent advanced interatrial block and impaired left atrial function compared with controls. Over a median follow-up of 382 days (IQR 366-697), 29 ESUS patients (29/103; 28%) reached the primary endpoint. Independent predictors were NT-proBNP >420 pg/mL, advanced interatrial block, E' ≤9 cm/s, left atrial volume index ≥29 mL/m2 and left atrial ejection fraction <50%. A risk score integrating ≥3 markers identified a subgroup with markedly increased risk, in whom Kaplan-Meier estimated event-free survival at 1 year was approximately 50% (95% CI 31.6%-68.4%).",
+   "conclusiones": "Multimodal assessment of electrical and structural atrial remodeling identifies a subgroup of ESUS patients with an increased risk of adverse events. These findings underscore the potential clinical relevance of atrial cardiomyopathy and may support further evaluation in future rhythm-guided or anticoagulation studies."
+  }
+ }
+}
