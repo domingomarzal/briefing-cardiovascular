@@ -1,7 +1,8 @@
 # Briefing Cardiovascular · Cardio al día — Documento de arranque
 
 > Para abrir el proyecto en una sesión NUEVA de Claude y continuarlo. Léelo entero
-> antes de tocar nada. Última actualización: **6-jul-2026** (tras N4).
+> antes de tocar nada. Última actualización: **16-jul-2026** (tras N5 + mudanza de la
+> tarea a esta carpeta, ver §4.1).
 
 ---
 
@@ -28,8 +29,9 @@ Además se genera la **Auditoría (Artículos Revisados)** y un **borrador de co
 | N1 | 8–14 jun | ✓ |
 | N2 | 15–21 jun | ✓ |
 | N3 | 22–28 jun | ✓ |
-| **N4** | **29 jun–5 jul** | ✓ (generado 6-jul) |
-| **N5** | **6–12 jul** | → **lunes 13-jul** (siguiente) |
+| N4 | 29 jun–5 jul | ✓ (generado 6-jul) |
+| **N5** | **6–12 jul** | ✓ (generado 13-jul · 39 art. de 203 revisados) |
+| **N6** | **13–19 jul** | → **lunes 20-jul** (siguiente) |
 
 **Regla de numeración/fecha:** el número y el periodo se CALCULAN de la fecha real
 del sistema (`date`), NUNCA de memoria. Ventana = semana natural anterior (lunes-domingo).
@@ -61,11 +63,44 @@ N1 = semana 8-14 jun; cada semana suma 1. Contrasta siempre con el repo (`ls n*`
 ## 4. La tarea automática
 
 - **taskId:** `pulso-cardiologico-semanal` · cron `0 8 * * 1` (lunes 08:00, dispara ~08:06).
-- **Activa.** Última: 6-jul (N4). Próxima: **13-jul (N5)**.
+- **Activa.** Última: 13-jul (N5). Próxima: **20-jul (N6)**.
 - Requiere que el **Mac esté encendido y con Claude abierto** a esa hora (tarea local).
   Si algún lunes no termina sola, se lanza a mano siguiendo la SKILL.
 - Para verla/editarla: herramientas `mcp__scheduled-tasks__list_scheduled_tasks` /
   `update_scheduled_task`.
+
+### 4.1 Dónde vive la tarea (y cómo se ata a esta carpeta) — investigado 16-jul-2026
+
+La rutina tiene **dos piezas y ninguna está en la carpeta del proyecto**:
+
+1. **La definición** — `~/.claude/scheduled-tasks/pulso-cardiologico-semanal/SKILL.md`
+   (+ los `gen_briefing_N0/N1*.py` históricos). Es **global**. Todas sus rutas son
+   ABSOLUTAS, así que la rutina no depende de dónde se ejecute.
+2. **El registro del planificador** — un JSON **único para toda la app**:
+   `~/Library/Application Support/Claude/claude-code-sessions/<workspace>/<proyecto>/scheduled-tasks.json`
+   (hoy: `7e761a9f-…/e4f4ae28-…/`). Ahí están `cronExpression`, `enabled`, `lastRunAt`
+   y — lo importante — **`cwd`**.
+
+**`cwd` es lo ÚNICO que ata la rutina a una carpeta.** Determina en qué directorio
+arranca la sesión del lunes y, por tanto, qué memoria/`settings.local.json` carga.
+El **16-jul-2026** se cambió de `~/Documents/UICAR` a
+`~/Documents/Claude/Briefing Cardiovascular` (UICAR queda reservada al dashboard).
+Verificado: el valor sobrevive al reinicio de la app.
+
+**Reglas duras aprendidas:**
+- `update_scheduled_task` **NO** expone `cwd`: solo se cambia editando ese JSON.
+- Edítalo **con Claude cerrado del todo** (⌘Q): la app mantiene el estado en memoria
+  y reescribe el fichero, y podría pisar el cambio.
+- **NUNCA** "borrar y recrear" la tarea para cambiar la carpeta:
+  `create_scheduled_task` **reescribe** el `SKILL.md` (50 KB de reglas afinadas).
+- No hay riesgo de permisos al cambiar de carpeta: `~/.claude/settings.json` global
+  tiene `defaultMode: bypassPermissions`, así que no hacen falta los allow por proyecto.
+
+**Rollback** (con Claude cerrado) — se dejó copia al migrar:
+```bash
+F=~/Library/"Application Support"/Claude/claude-code-sessions/7e761a9f-2c1e-485c-8f8c-138658b3d17e/e4f4ae28-ff93-415d-82c0-2a86fa6b6b9d/scheduled-tasks.json
+cp "$F.bak" "$F"
+```
 
 ---
 
