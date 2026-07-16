@@ -81,57 +81,35 @@ La rutina tiene **dos piezas y ninguna está en la carpeta del proyecto**:
    (hoy: `7e761a9f-…/e4f4ae28-…/`). Ahí están `cronExpression`, `enabled`, `lastRunAt`
    y — lo importante — **`cwd`**.
 
-**`cwd` es lo ÚNICO que ata la rutina a una carpeta.** Determina en qué directorio
-arranca la sesión del lunes y, por tanto, qué memoria/`settings.local.json` carga.
-El **16-jul-2026** se cambió de `~/Documents/UICAR` a
-`~/Documents/Claude/Briefing Cardiovascular` (UICAR queda reservada al dashboard).
-Verificado: el valor sobrevive al reinicio de la app.
+**`cwd` es lo ÚNICO que ata la rutina a una carpeta** (determina el directorio donde
+arranca la sesión del lunes). Da igual para que el número salga: la SKILL usa rutas
+ABSOLUTAS y el lunes se ejecuta bien desde cualquier carpeta (N1–N5 salieron desde UICAR).
 
-**Reglas duras aprendidas:**
-- `update_scheduled_task` **NO** expone `cwd`: solo se cambia editando ese JSON.
-- Edítalo **con Claude cerrado del todo** (⌘Q): la app mantiene el estado en memoria
-  y reescribe el fichero, y podría pisar el cambio.
-- **NUNCA** "borrar y recrear" la tarea para cambiar la carpeta:
-  `create_scheduled_task` **reescribe** el `SKILL.md` (50 KB de reglas afinadas).
-- No hay riesgo de permisos al cambiar de carpeta: `~/.claude/settings.json` global
-  tiene `defaultMode: bypassPermissions`, así que no hacen falta los allow por proyecto.
+**Estado (16-jul-2026):** se intentó fijar `cwd` en `…/Briefing Cardiovascular`, pero el
+registro **revierte a `~/Documents/UICAR` en algunos reinicios de la app** (la app reescribe
+ese JSON desde su estado en memoria). No se pelea: el lunes funciona igual. Efecto colateral:
+la sesión automática del lunes puede reaparecer etiquetada «UICAR» en la barra lateral —
+**solo la etiqueta**; el número y su publicación son correctos.
 
-**Rollback** (con Claude cerrado) — se dejó copia al migrar:
-```bash
-F=~/Library/"Application Support"/Claude/claude-code-sessions/7e761a9f-2c1e-485c-8f8c-138658b3d17e/e4f4ae28-ff93-415d-82c0-2a86fa6b6b9d/scheduled-tasks.json
-cp "$F.bak" "$F"
-```
+**Reglas duras (si algún día se toca el planificador):**
+- `update_scheduled_task` NO expone `cwd`; solo se cambia editando el JSON con Claude
+  CERRADO (⌘Q) — con la app abierta, la pisa al salir.
+- NUNCA "borrar y recrear" la tarea: `create_scheduled_task` reescribe el `SKILL.md`
+  (50 KB de reglas afinadas).
+- Sin riesgo de permisos: `~/.claude/settings.json` global tiene `bypassPermissions`.
 
-### 4.2 Migración del HISTORIAL de sesiones a este proyecto — 16-jul-2026
+### 4.2 Migración del historial de sesiones — 16-jul-2026 (hecho)
 
-Cosa DISTINTA de la tarea (§4.1). El §4.1 arregla las ejecuciones FUTURAS; esto
-mueve las sesiones YA EJECUTADAS para que en la barra lateral cuelguen de
-«Briefing Cardiovascular» en vez de «UICAR» (el chip gris junto al título = el
-`cwd` de la sesión).
-
-Una sesión vive en **dos almacenes acoplados** (además del `cwd` embebido en cada
-registro del transcript, que refleja dónde se ejecutó de verdad y se DEJA como está):
-1. **Metadatos** — `…/claude-code-sessions/<ws>/<proj>/local_<sessionId>.json`
-   (campos `cwd` y `originCwd` → determinan el chip).
-2. **Transcript** — `~/.claude/projects/<slug-del-cwd>/<cliSessionId>.jsonl`
-   (el nombre de carpeta se deriva del cwd: `-Users-dmarzal-Documents-UICAR` vs
-   `-Users-dmarzal-Documents-Claude-Briefing-Cardiovascular`).
-
-Migrar una sesión = mover su `.jsonl` a la carpeta de proyecto correcta + poner
-`cwd`/`originCwd` a la ruta del Briefing en su `local_*.json`. NO hay herramienta
-de "mover de proyecto"; es edición manual. Las 6 sesiones del briefing (los lunes
-N1-N5 + la manual) se migraron con este script:
-
-- **`~/Documents/Claude/Briefing Cardiovascular/migrar_TODO.command`** (doble clic
-  con Claude CERRADO). Hace backup en el Escritorio, mueve las 6, verifica que la
-  tarea del lunes queda intacta. NO toca `scheduled-tasks.json`.
-- Rollback: `tar xzf ~/Desktop/backup-sesiones-<fecha>.tgz -C ~` (Claude cerrado).
-
-**Reglas duras:** (a) SIEMPRE con Claude cerrado (⌘Q) — el guardián del script lo
-comprueba con `pgrep -f "/Applications/Claude.app"`. (b) El chip solo cambia al
-**abrir Claude en la carpeta Briefing**; reabrir en UICAR lo deja en UICAR aunque
-los ficheros ya estén movidos. (c) El historial de sesiones y el planificador son
-INDEPENDIENTES: mover sesiones no puede afectar a la ejecución del lunes.
+Las 6 sesiones del briefing (lunes N1–N5 + la manual) se movieron del proyecto UICAR al
+proyecto «Briefing Cardiovascular» para que no cuelguen de UICAR en la barra lateral. Una
+sesión = metadatos `…/claude-code-sessions/<ws>/<proj>/local_<id>.json` (campos `cwd`/
+`originCwd` = el chip) + transcript `~/.claude/projects/<slug-del-cwd>/<id>.jsonl` (carpeta
+derivada del cwd). Migrar = mover el `.jsonl` al proyecto correcto + poner `cwd`/`originCwd`
+a la ruta del Briefing. NO hay herramienta de "mover de proyecto"; el script de un solo uso
+ya se borró. Mover sesiones es INDEPENDIENTE del planificador (no afecta al lunes).
+Backup completo en `…/Briefing Cardiovascular/backup-sesiones-20260716-175210.tgz` — se
+autoborra el 27-jul si N6 y N7 salieron (tarea `limpiar-backups-migracion`); restaurar con
+`tar xzf <bk> -C ~` con Claude cerrado.
 
 ---
 
