@@ -102,6 +102,37 @@ F=~/Library/"Application Support"/Claude/claude-code-sessions/7e761a9f-2c1e-485c
 cp "$F.bak" "$F"
 ```
 
+### 4.2 Migración del HISTORIAL de sesiones a este proyecto — 16-jul-2026
+
+Cosa DISTINTA de la tarea (§4.1). El §4.1 arregla las ejecuciones FUTURAS; esto
+mueve las sesiones YA EJECUTADAS para que en la barra lateral cuelguen de
+«Briefing Cardiovascular» en vez de «UICAR» (el chip gris junto al título = el
+`cwd` de la sesión).
+
+Una sesión vive en **dos almacenes acoplados** (además del `cwd` embebido en cada
+registro del transcript, que refleja dónde se ejecutó de verdad y se DEJA como está):
+1. **Metadatos** — `…/claude-code-sessions/<ws>/<proj>/local_<sessionId>.json`
+   (campos `cwd` y `originCwd` → determinan el chip).
+2. **Transcript** — `~/.claude/projects/<slug-del-cwd>/<cliSessionId>.jsonl`
+   (el nombre de carpeta se deriva del cwd: `-Users-dmarzal-Documents-UICAR` vs
+   `-Users-dmarzal-Documents-Claude-Briefing-Cardiovascular`).
+
+Migrar una sesión = mover su `.jsonl` a la carpeta de proyecto correcta + poner
+`cwd`/`originCwd` a la ruta del Briefing en su `local_*.json`. NO hay herramienta
+de "mover de proyecto"; es edición manual. Las 6 sesiones del briefing (los lunes
+N1-N5 + la manual) se migraron con este script:
+
+- **`~/Documents/Claude/Briefing Cardiovascular/migrar_TODO.command`** (doble clic
+  con Claude CERRADO). Hace backup en el Escritorio, mueve las 6, verifica que la
+  tarea del lunes queda intacta. NO toca `scheduled-tasks.json`.
+- Rollback: `tar xzf ~/Desktop/backup-sesiones-<fecha>.tgz -C ~` (Claude cerrado).
+
+**Reglas duras:** (a) SIEMPRE con Claude cerrado (⌘Q) — el guardián del script lo
+comprueba con `pgrep -f "/Applications/Claude.app"`. (b) El chip solo cambia al
+**abrir Claude en la carpeta Briefing**; reabrir en UICAR lo deja en UICAR aunque
+los ficheros ya estén movidos. (c) El historial de sesiones y el planificador son
+INDEPENDIENTES: mover sesiones no puede afectar a la ejecución del lunes.
+
 ---
 
 ## 5. Pipeline (cada lunes, en este orden)
