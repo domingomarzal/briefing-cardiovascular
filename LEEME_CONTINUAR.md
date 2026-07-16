@@ -111,6 +111,22 @@ Backup completo en `…/Briefing Cardiovascular/backup-sesiones-20260716-175210.
 autoborra el 27-jul si N6 y N7 salieron (tarea `limpiar-backups-migracion`); restaurar con
 `tar xzf <bk> -C ~` con Claude cerrado.
 
+### 4.3 La sesión automática del lunes queda bajo Briefing (automático) — 16-jul-2026
+
+Como el `cwd` del planificador revierte a UICAR (§4.1), cada lunes la sesión automática nace
+etiquetada «UICAR». Para corregirlo SIN pelear con el planificador hay un **trabajo del sistema
+(launchd)** que cada **lunes a las 10:00** (tras la ejecución de las 08:06) mueve esa sesión al
+proyecto «Briefing Cardiovascular». No crea ninguna sesión de Claude y sobrevive a reinicios
+(por eso se usa launchd y no una tarea de Claude, que además revierten/desaparecen).
+- Agente: `~/Library/LaunchAgents/com.dmarzal.briefing-relabel.plist`
+- Script: `~/Library/Application Support/briefing-relabel/relabel.py` — solo toca sesiones con
+  título EXACTO «Pulso cardiologico semanal» y `cwd`=UICAR, salta las activas (mtime <30 min);
+  idempotente. Se apoya en que la app NO reescribe metadatos de sesiones inactivas (comprobado).
+- Log: `~/Library/Logs/briefing-relabel.log`
+- Comprobar: `launchctl print gui/$(id -u)/com.dmarzal.briefing-relabel`
+- Quitar: `launchctl bootout gui/$(id -u)/com.dmarzal.briefing-relabel` + borrar el plist y el script.
+NO toca el planificador, el `SKILL.md` ni el repo → no afecta a la generación del lunes.
+
 ---
 
 ## 5. Pipeline (cada lunes, en este orden)
