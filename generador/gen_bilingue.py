@@ -288,6 +288,7 @@ CONFIGS = [
  dict(n="n3", data=BASE+"/generador/n3_data.json", num="Nº 3", period=("22 al 28 de junio de 2026","June 22–28, 2026"), dest="hel", top3=["avg","a110","a18"], acr=_acr(BASE+"/generador/n3_acr.json"), viz=_viz(BASE+"/generador/n3_viz.html"), local="Briefing Cardiovascular_N3", lnum="N3"),
  dict(n="n4", data=BASE+"/generador/n4_data.json", num="Nº 4", period=("29 de junio al 5 de julio de 2026","June 29 – July 5, 2026"), dest="a1", top3=["a2","a3","a4"], acr=_acr(BASE+"/generador/n4_acr.json"), viz=_viz(BASE+"/generador/n4_viz.html"), local="Briefing Cardiovascular_N4", lnum="N4"),
  dict(n="n5", data=BASE+"/generador/n5_data.json", num="Nº 5", period=("6 al 12 de julio de 2026","July 6–12, 2026"), dest="a1", top3=["a2","a3","a4"], acr=_acr(BASE+"/generador/n5_acr.json"), viz=_viz(BASE+"/generador/n5_viz.html"), local="Briefing Cardiovascular_N5", lnum="N5"),
+ dict(n="n6", data=BASE+"/generador/n6_data.json", num="Nº 6", period=("13 al 19 de julio de 2026","July 13–19, 2026"), dest="a14", top3=["a39","a6","a24"], acr=_acr(BASE+"/generador/n6_acr.json"), viz=_viz(BASE+"/generador/n6_viz.html"), local="Briefing Cardiovascular_N6", lnum="N6"),
 ]
 import sys as _sys
 ONLY = _sys.argv[1] if len(_sys.argv) > 1 else None
