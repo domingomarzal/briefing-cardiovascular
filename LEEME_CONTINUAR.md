@@ -30,8 +30,9 @@ Además se genera la **Auditoría (Artículos Revisados)** y un **borrador de co
 | N2 | 15–21 jun | ✓ |
 | N3 | 22–28 jun | ✓ |
 | N4 | 29 jun–5 jul | ✓ (generado 6-jul) |
-| **N5** | **6–12 jul** | ✓ (generado 13-jul · 39 art. de 203 revisados) |
-| **N6** | **13–19 jul** | → **lunes 20-jul** (siguiente) |
+| N5 | 6–12 jul | ✓ (generado 13-jul · 39 art. de 203 revisados) |
+| **N6** | **13–19 jul** | ✓ (generado 20-jul · 48 art. de 248 revisados) · WhatsApp PENDIENTE |
+| **N7** | **20–26 jul** | → **lunes 27-jul** (siguiente) |
 
 **Regla de numeración/fecha:** el número y el periodo se CALCULAN de la fecha real
 del sistema (`date`), NUNCA de memoria. Ventana = semana natural anterior (lunes-domingo).
@@ -143,6 +144,15 @@ Scripts en `generador/`:
 - `add_audit_filters.py <audit>` — (re)construye los desplegables Revista y Tipo.
 - `add_audit_links.py <audit>` — pone enlace clicable en TODOS los artículos revisados.
 
+**Dos trampas del `gen_audit_N<n>.py` (detectadas y corregidas en N6 — al copiar el script
+del número anterior, comprobar que siguen corregidas):**
+1. Al inyectar `window.PUBMED_DATA`, usar `re.sub(..., lambda _m: json_str, ...)`, NUNCA
+   pasar el JSON como cadena de reemplazo: `re.sub` interpreta sus barras invertidas y
+   rompe el JSON (`add_audit_links.py` falla con «Invalid \escape»).
+2. `add_audit_links.py` casa por TÍTULO EXACTO. Las filas llevan el título sin punto final,
+   así que `PUBMED_DATA` debe llevarlo también (`title.rstrip(".")`); si no, solo enlaza un
+   puñado de filas. Comprobar siempre: nº de `class="artlink"` == nº de filas.
+
 ---
 
 ## 6. Reglas duras (NO romper)
@@ -169,6 +179,8 @@ Scripts en `generador/`:
 - **Borrador:** solo `create_draft` (NUNCA enviar). Asunto **«Cardio al día_N<n>»**, con el
   HTML de Cardio al día (banner navy nativo, sin imagen; Gmail borra las `<img>`). **No se
   genera imagen de cabecera.**
+- **Distribución del Cardio al día (regla 13-jul, act. 16-jul-2026):** el `Cardio al día_N<n>.html` va a `~/Documents/UICAR/Cardio al dIA/` (PERMANENTE, fuente de verdad) + una COPIA TEMPORAL en `~/Desktop/` (para comprobar que se generó; el usuario la revisa y la borra — es normal que luego no esté; NO re-copiar). NO se queda en la subcarpeta de trabajo. El repo (`n<n>/cardio-al-dia.html`, web en vivo), el Briefing y la Auditoría se quedan como están. (N0–N5 ya migrados.)
+- **WhatsApp (regla 16-jul-2026, PASO 8c — PROBADO en seco el 16-jul, funciona):** cada lunes, tras generar, abrir WhatsApp Desktop y dejar el `Cardio al día_N<n>.html` (desde UICAR) ADJUNTO en la pantalla de envío —listo para que el usuario pulse Enviar— en dos chats CONFIRMADOS: grupo «Sesiones y Esclavos» (aparece «…😅»; buscar sin emoji lo encuentra) y contacto «Álvaro Fernández». No enviar; solo dejar preparado y avisar. WhatsApp RENDERIZA el HTML como vista previa (no es un fichero mudo). Ojo: no guarda adjuntos como borrador persistente → solo uno a la vez y con el usuario presente. Si falla (Mac bloqueado / sin sesión / sin permiso computer-use), no bloquea el pipeline: se informa en el resumen. Pasos exactos verificados en la SKILL, PASO 8c.
 - **Publicación:** `git add -A && commit -m "N<n>…" && push` en el repo.
 - No introducir credenciales/tokens (push por llavero).
 
