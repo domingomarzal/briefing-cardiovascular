@@ -1,8 +1,8 @@
 # Briefing Cardiovascular · Cardio al día — Documento de arranque
 
 > Para abrir el proyecto en una sesión NUEVA de Claude y continuarlo. Léelo entero
-> antes de tocar nada. Última actualización: **16-jul-2026** (tras N5 + mudanza de la
-> tarea a esta carpeta, ver §4.1).
+> antes de tocar nada. Última actualización: **20-jul-2026** (tras N6 + retirada del
+> paso de WhatsApp, ver §6 y el apéndice §8).
 
 ---
 
@@ -31,7 +31,7 @@ Además se genera la **Auditoría (Artículos Revisados)** y un **borrador de co
 | N3 | 22–28 jun | ✓ |
 | N4 | 29 jun–5 jul | ✓ (generado 6-jul) |
 | N5 | 6–12 jul | ✓ (generado 13-jul · 39 art. de 203 revisados) |
-| **N6** | **13–19 jul** | ✓ (generado 20-jul · 48 art. de 248 revisados) · WhatsApp PENDIENTE |
+| **N6** | **13–19 jul** | ✓ (generado 20-jul · 48 art. de 248 revisados) |
 | **N7** | **20–26 jul** | → **lunes 27-jul** (siguiente) |
 
 **Regla de numeración/fecha:** el número y el periodo se CALCULAN de la fecha real
@@ -64,7 +64,7 @@ N1 = semana 8-14 jun; cada semana suma 1. Contrasta siempre con el repo (`ls n*`
 ## 4. La tarea automática
 
 - **taskId:** `pulso-cardiologico-semanal` · cron `0 8 * * 1` (lunes 08:00, dispara ~08:06).
-- **Activa.** Última: 13-jul (N5). Próxima: **20-jul (N6)**.
+- **Activa.** Última: 20-jul (N6). Próxima: **27-jul (N7)**.
 - Requiere que el **Mac esté encendido y con Claude abierto** a esa hora (tarea local).
   Si algún lunes no termina sola, se lanza a mano siguiendo la SKILL.
 - Para verla/editarla: herramientas `mcp__scheduled-tasks__list_scheduled_tasks` /
@@ -180,13 +180,7 @@ del número anterior, comprobar que siguen corregidas):**
   HTML de Cardio al día (banner navy nativo, sin imagen; Gmail borra las `<img>`). **No se
   genera imagen de cabecera.**
 - **Distribución del Cardio al día (regla 13-jul, act. 16-jul-2026):** el `Cardio al día_N<n>.html` va a `~/Documents/UICAR/Cardio al dIA/` (PERMANENTE, fuente de verdad) + una COPIA TEMPORAL en `~/Desktop/` (para comprobar que se generó; el usuario la revisa y la borra — es normal que luego no esté; NO re-copiar). NO se queda en la subcarpeta de trabajo. El repo (`n<n>/cardio-al-dia.html`, web en vivo), el Briefing y la Auditoría se quedan como están. (N0–N5 ya migrados.)
-- **WhatsApp (regla 16-jul-2026, PASO 8c — PROBADO en seco el 16-jul, funciona):** cada lunes, tras generar, abrir WhatsApp Desktop y dejar el `Cardio al día_N<n>.html` (desde UICAR) ADJUNTO en la pantalla de envío —listo para que el usuario pulse Enviar— en dos chats CONFIRMADOS: grupo «Sesiones y Esclavos» (aparece «…😅»; buscar sin emoji lo encuentra) y contacto «Álvaro Fernández». No enviar; solo dejar preparado y avisar. WhatsApp RENDERIZA el HTML como vista previa (no es un fichero mudo). Ojo: no guarda adjuntos como borrador persistente → solo uno a la vez y con el usuario presente. Si falla, no bloquea el pipeline: se informa en el resumen. Pasos exactos verificados en la SKILL, PASO 8c.
-  **Por qué falla en las ejecuciones automáticas (N6, 20-jul-2026):** `request_access` responde
-  «can't be approved during a scheduled run» — la tarjeta de permiso de macOS no puede salir dentro
-  de una ejecución programada. NO es que la app esté cerrada ni el Mac bloqueado. Reintentar no sirve
-  y `update_scheduled_task` no expone la lista de apps. **Arreglo (una vez, lo hace el usuario):**
-  añadir WhatsApp a las apps autorizadas en los AJUSTES DE LA TAREA PROGRAMADA de la app de Claude.
-  Mientras tanto: arrastrar el HTML (Escritorio o UICAR) a cada chat, o compartir el enlace en vivo.
+- **WhatsApp: RETIRADO de la rutina (decisión del usuario, 20-jul-2026).** El PASO 8c ya no existe: controlar WhatsApp Desktop exige un permiso de computer-use que macOS NO concede dentro de una ejecución programada, así que cada lunes quedaba pendiente y obligaba al usuario a estar presente — lo contrario de una rutina automatizada. La rutina NO debe intentar `request_access` ni abrir WhatsApp. El reparto lo hace el usuario cuando quiere: fichero en Escritorio/UICAR o **enlace en vivo** `https://domingomarzal.github.io/briefing-cardiovascular/n<n>/cardio-al-dia.html`, que el PASO 9 incluye siempre. Procedimiento archivado en el apéndice del final, por si algún día se reactiva.
 - **Publicación:** `git add -A && commit -m "N<n>…" && push` en el repo.
 - No introducir credenciales/tokens (push por llavero).
 
@@ -203,3 +197,28 @@ número toca y su semana, (3) que la tarea automática de los lunes a las 8:00 s
 activa y cuándo es la próxima ejecución. No regeneres nada salvo que te lo pida;
 solo ponte al día del estado del proyecto.
 ```
+
+---
+
+## 8. Apéndice — WhatsApp (RETIRADO 20-jul-2026)
+
+Se conserva solo por si el usuario añade algún día WhatsApp a los permisos de la tarea programada y
+quiere reactivar el paso. **Mientras no lo haga, la rutina NO debe intentarlo.**
+
+- **Requisito que lo bloquea:** `mcp__computer-use__request_access` devuelve «Computer-use access to
+  "WhatsApp" can't be approved during a scheduled run». No es que la app esté cerrada ni el Mac bloqueado.
+  Reintentar da el mismo error. `update_scheduled_task` no expone la lista de apps (solo prompt,
+  descripción, cron, enabled y notificaciones).
+- **Dónde se guardaría el permiso:** campo `approvedPermissions` de la tarea, en
+  `~/Library/Application Support/Claude/claude-code-sessions/<ws>/<proj>/scheduled-tasks.json`.
+  No editar a mano: no se conoce el formato exacto de un permiso de computer-use y la app reescribe
+  ese fichero desde su estado en memoria al cerrarse.
+- **Procedimiento verificado el 16-jul-2026** (por si se reactiva): `request_access` con «WhatsApp»
+  (bundle `net.whatsapp.WhatsApp`) → `open_application` → clic en la barra Search (~205,81) → escribir
+  el nombre del chat y abrir el primer resultado → «+» de la barra de mensaje (~377,815) → «File» →
+  `cmd+shift+g`, ruta completa del HTML, `Return` dos veces (si el botón Open no registra por iCloud,
+  doble clic en la miniatura) → aparece la pantalla de envío con VISTA PREVIA del HTML; botón verde de
+  enviar (~1340,810), «X» para cancelar (~25,75). **Dejar preparado, nunca enviar.**
+  Chats: grupo «Sesiones y Esclavos» (aparece «…😅»; buscar sin emoji lo encuentra) y contacto
+  «Álvaro Fernández». WhatsApp no guarda el adjunto como borrador persistente: solo uno a la vez.
+
