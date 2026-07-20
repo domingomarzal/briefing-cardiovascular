@@ -180,7 +180,13 @@ del número anterior, comprobar que siguen corregidas):**
   HTML de Cardio al día (banner navy nativo, sin imagen; Gmail borra las `<img>`). **No se
   genera imagen de cabecera.**
 - **Distribución del Cardio al día (regla 13-jul, act. 16-jul-2026):** el `Cardio al día_N<n>.html` va a `~/Documents/UICAR/Cardio al dIA/` (PERMANENTE, fuente de verdad) + una COPIA TEMPORAL en `~/Desktop/` (para comprobar que se generó; el usuario la revisa y la borra — es normal que luego no esté; NO re-copiar). NO se queda en la subcarpeta de trabajo. El repo (`n<n>/cardio-al-dia.html`, web en vivo), el Briefing y la Auditoría se quedan como están. (N0–N5 ya migrados.)
-- **WhatsApp (regla 16-jul-2026, PASO 8c — PROBADO en seco el 16-jul, funciona):** cada lunes, tras generar, abrir WhatsApp Desktop y dejar el `Cardio al día_N<n>.html` (desde UICAR) ADJUNTO en la pantalla de envío —listo para que el usuario pulse Enviar— en dos chats CONFIRMADOS: grupo «Sesiones y Esclavos» (aparece «…😅»; buscar sin emoji lo encuentra) y contacto «Álvaro Fernández». No enviar; solo dejar preparado y avisar. WhatsApp RENDERIZA el HTML como vista previa (no es un fichero mudo). Ojo: no guarda adjuntos como borrador persistente → solo uno a la vez y con el usuario presente. Si falla (Mac bloqueado / sin sesión / sin permiso computer-use), no bloquea el pipeline: se informa en el resumen. Pasos exactos verificados en la SKILL, PASO 8c.
+- **WhatsApp (regla 16-jul-2026, PASO 8c — PROBADO en seco el 16-jul, funciona):** cada lunes, tras generar, abrir WhatsApp Desktop y dejar el `Cardio al día_N<n>.html` (desde UICAR) ADJUNTO en la pantalla de envío —listo para que el usuario pulse Enviar— en dos chats CONFIRMADOS: grupo «Sesiones y Esclavos» (aparece «…😅»; buscar sin emoji lo encuentra) y contacto «Álvaro Fernández». No enviar; solo dejar preparado y avisar. WhatsApp RENDERIZA el HTML como vista previa (no es un fichero mudo). Ojo: no guarda adjuntos como borrador persistente → solo uno a la vez y con el usuario presente. Si falla, no bloquea el pipeline: se informa en el resumen. Pasos exactos verificados en la SKILL, PASO 8c.
+  **Por qué falla en las ejecuciones automáticas (N6, 20-jul-2026):** `request_access` responde
+  «can't be approved during a scheduled run» — la tarjeta de permiso de macOS no puede salir dentro
+  de una ejecución programada. NO es que la app esté cerrada ni el Mac bloqueado. Reintentar no sirve
+  y `update_scheduled_task` no expone la lista de apps. **Arreglo (una vez, lo hace el usuario):**
+  añadir WhatsApp a las apps autorizadas en los AJUSTES DE LA TAREA PROGRAMADA de la app de Claude.
+  Mientras tanto: arrastrar el HTML (Escritorio o UICAR) a cada chat, o compartir el enlace en vivo.
 - **Publicación:** `git add -A && commit -m "N<n>…" && push` en el repo.
 - No introducir credenciales/tokens (push por llavero).
 
