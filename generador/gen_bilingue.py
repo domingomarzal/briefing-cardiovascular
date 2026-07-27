@@ -23,7 +23,13 @@ def T(es, en, cls=""):
     c = (" "+cls) if cls else ""
     return '<span class="i18n%s" data-es="%s" data-en="%s">%s</span>' % (c, ae(es), ae(en), he(es))
 
-def jlink(doi, title):
+def jlink(doi, title, key=None):
+    # LINKFIX: destino alternativo para los artículos cuyo DOI NO aterriza en el artículo.
+    # Caso conocido (N7): doi.org -> linkinghub.elsevier.com -> raíz de jacc.org "Page Not Found"
+    # en algunos artículos de la familia JACC. Se sustituye por su página de PubMed, que
+    # siempre resuelve y ofrece el enlace al editor. El mapa lo genera check_links.py.
+    if key and key in LINKFIX:
+        return LINKFIX[key]
     return ("https://doi.org/"+doi) if doi else ("https://pubmed.ncbi.nlm.nih.gov/?term="+quote(title))
 
 def titles(a):
@@ -48,11 +54,12 @@ VARIANTS = {
 }
 
 # ---- build per-article presentation ----
-BY = {}; ALL = {}; VIZ = ""
+BY = {}; ALL = {}; VIZ = ""; LINKFIX = {}
 def setup(cfg):
-    global DATA, NUM, PERIOD, DESTACADO_KEY, TOP3, _ACR, VIZ, BY, ALL
+    global DATA, NUM, PERIOD, DESTACADO_KEY, TOP3, _ACR, VIZ, BY, ALL, LINKFIX
     DATA = json.load(open(cfg["data"])); NUM = cfg["num"]; PERIOD = cfg["period"]
     DESTACADO_KEY = cfg["dest"]; TOP3 = cfg["top3"]; _ACR = cfg["acr"]; VIZ = cfg["viz"]
+    LINKFIX = cfg.get("linkfix", {})
     BY = {}
     for k, a in DATA.items():
         es, en = titles(a); a["_t_es"], a["_t_en"] = es, en
@@ -159,7 +166,7 @@ def colorcss():
     return "\n".join(".c%d{background:%s;color:#fff;} .indice .nn.c%d{background:transparent;color:%s;} .chev.t%d{color:%s;}"%(n,c,n,c,n,c) for n,c in SECTION_COLORS.items())
 
 def jl(a, t3=False):
-    href = jlink(a["doi"], a["title_en"]); cls = "j t3j" if t3 else "j"
+    href = jlink(a["doi"], a["title_en"], a["key"]); cls = "j t3j" if t3 else "j"
     return '<a class="%s" href="%s" target="_blank">%s</a>' % (cls, href, he(a["journal"]))
 
 def ptype_span(a):
@@ -289,7 +296,7 @@ CONFIGS = [
  dict(n="n4", data=BASE+"/generador/n4_data.json", num="Nº 4", period=("29 de junio al 5 de julio de 2026","June 29 – July 5, 2026"), dest="a1", top3=["a2","a3","a4"], acr=_acr(BASE+"/generador/n4_acr.json"), viz=_viz(BASE+"/generador/n4_viz.html"), local="Briefing Cardiovascular_N4", lnum="N4"),
  dict(n="n5", data=BASE+"/generador/n5_data.json", num="Nº 5", period=("6 al 12 de julio de 2026","July 6–12, 2026"), dest="a1", top3=["a2","a3","a4"], acr=_acr(BASE+"/generador/n5_acr.json"), viz=_viz(BASE+"/generador/n5_viz.html"), local="Briefing Cardiovascular_N5", lnum="N5"),
  dict(n="n6", data=BASE+"/generador/n6_data.json", num="Nº 6", period=("13 al 19 de julio de 2026","July 13–19, 2026"), dest="a14", top3=["a39","a6","a24"], acr=_acr(BASE+"/generador/n6_acr.json"), viz=_viz(BASE+"/generador/n6_viz.html"), local="Briefing Cardiovascular_N6", lnum="N6"),
- dict(n="n7", data=BASE+"/generador/n7_data.json", num="Nº 7", period=("20 al 26 de julio de 2026","July 20–26, 2026"), dest="a51", top3=["a11","a46","a6"], acr=_acr(BASE+"/generador/n7_acr.json"), viz=_viz(BASE+"/generador/n7_viz.html"), local="Briefing Cardiovascular_N7", lnum="N7"),
+ dict(n="n7", linkfix=_acr(BASE+"/generador/n7_linkfix.json"), data=BASE+"/generador/n7_data.json", num="Nº 7", period=("20 al 26 de julio de 2026","July 20–26, 2026"), dest="a51", top3=["a11","a46","a6"], acr=_acr(BASE+"/generador/n7_acr.json"), viz=_viz(BASE+"/generador/n7_viz.html"), local="Briefing Cardiovascular_N7", lnum="N7"),
 ]
 import sys as _sys
 ONLY = _sys.argv[1] if len(_sys.argv) > 1 else None
