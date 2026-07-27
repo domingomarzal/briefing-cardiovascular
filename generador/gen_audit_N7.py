@@ -123,9 +123,16 @@ head = re.sub(r'Listado completo de artículos revisados \(\d+\); puntuados los 
               f'Listado completo de artículos revisados ({ntot}); puntuados los {nsel} seleccionados', head)
 head = re.sub(r'mostrando \d+ de \d+ · \d+ seleccionados', f'mostrando {ntot} de {ntot} · {nsel} seleccionados', head)
 head = re.sub(r'Se recuperaron <b>\d+ referencias</b>', f'Se recuperaron <b>{ntot} referencias</b>', head)
+# LINKFIX: para los artículos cuyo DOI no aterriza en el artículo (ver check_links.py) se vacía
+# el DOI aquí, de modo que add_audit_links.py enlace su fila a PubMed en vez de a un DOI roto.
+try:
+    _fix = json.load(open(GEN + "/n7_linkfix.json"))
+    NO_DOI = {s["pmid"] for s in sel.values() if s["key"] in _fix}
+except FileNotFoundError:
+    NO_DOI = set()
 # El título va SIN punto final, igual que en las filas, para que add_audit_links.py case por título
-new_data = [{"p": a["pmid"], "d": a["doi"] or "", "i": a["pmid"], "t": a["title"].rstrip("."),
-             "a": a["abstract"] or "[Abstract not available]"} for a in corpus]
+new_data = [{"p": a["pmid"], "d": ("" if a["pmid"] in NO_DOI else (a["doi"] or "")), "i": a["pmid"],
+             "t": a["title"].rstrip("."), "a": a["abstract"] or "[Abstract not available]"} for a in corpus]
 _pd = "window.PUBMED_DATA =" + json.dumps(new_data, ensure_ascii=False) + ";"
 # lambda: evita que re.sub interprete las barras invertidas del JSON como escapes
 tail = re.sub(r'window\.PUBMED_DATA =\[.*?\];', lambda _m: _pd, tail, count=1, flags=re.S)

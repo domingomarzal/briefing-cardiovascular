@@ -30,3 +30,38 @@ Al añadir el acrónimo del estudio al título de un artículo (p. ej. (LOGICAL)
 
 ## Secciones siempre visibles
 Las 10 secciones temáticas se muestran SIEMPRE, aunque una semana no tengan material. Una sección que esa semana quede con 0 artículos se muestra con la nota «Sin novedades relevantes esta semana.» (clase .nonews) en lugar de fichas; con 1 o más, se muestran sus fichas. No se rellena artificialmente ni se omiten secciones.
+
+## Enlaces: verificación obligatoria antes de publicar (regla dura, 27-jul-2026)
+
+En N7 cuatro artículos de la familia JACC llevaban a "Page Not Found": el DOI era correcto y
+estaba registrado, pero `doi.org` redirige a `linkinghub.elsevier.com` y este, con un salto por
+JavaScript, rebotaba a la RAÍZ de `jacc.org`. Afecta a unos artículos sí y a otros no del mismo
+fascículo, sin patrón deducible de los metadatos.
+
+Antes de publicar cualquier número:
+1. `python3 generador/check_links.py n<n>` — valida contra Crossref que TODOS los DOIs existen y
+   que el título registrado cuadra con el nuestro (caza DOIs equivocados), y lista el subconjunto
+   de riesgo (revistas alojadas en Elsevier: familia JACC, Heart Rhythm, Atherosclerosis,
+   EuroIntervention).
+2. Abre ese subconjunto en el panel de navegador y mira el `<title>`. Si dice "Page Not Found",
+   anota la clave. NO sirven ni `curl` (linkinghub devuelve 200 y el salto lo hace JS) ni Chrome
+   headless (Cloudflare responde "Just a moment..." y todo saldría OK en falso).
+3. `python3 generador/check_links.py n<n> <clave> <clave> ...` escribe `n<n>_linkfix.json`
+   apuntando a PubMed, que siempre resuelve y ofrece el enlace al editor.
+4. Regenera con `gen_bilingue.py` y `gen_audit_N<n>.py`: ambos aplican el linkfix (el audit vacía
+   el DOI de esas filas para que `add_audit_links.py` enlace a PubMed).
+
+## Permisos: la tarea del lunes debe correr sin pedir nada (regla dura, 27-jul-2026)
+
+`~/.claude/settings.json` tiene `defaultMode: bypassPermissions` y ahora también allow explícito
+para ToolSearch, Agent/Task/Skill, el MCP de Gmail y las herramientas del panel de navegador.
+
+PERO la tarjeta de aprobación POR ORIGEN del panel de navegador es una puerta de seguridad aparte
+que settings.json NO gobierna: abrir un dominio nuevo puede seguir preguntando. Por eso, en la
+ejecución automática del lunes:
+- Para capturas y comprobación visual usa SIEMPRE Chrome headless por Bash
+  (`--headless --screenshot`), que no pide nada. NO uses el panel de navegador para esto.
+- El panel de navegador queda reservado al paso 2 de la verificación de enlaces, que es el único
+  que necesita atravesar Cloudflare. Si ese paso pidiera permiso en una ejecución desatendida, NO
+  bloquees la tarea: publica, y avisa en el PASO 9 de que la verificación de enlaces quedó
+  pendiente para que el usuario la lance a mano.
