@@ -4,7 +4,7 @@ import json, os
 G = os.path.dirname(os.path.abspath(__file__))
 sel = {s["key"]: s for s in json.load(open(G + "/n7_sel.json"))}
 fich = {}
-for b in range(5):
+for b in range(6):  # 0-4 = lotes automáticos; 5 = entrada manual (consenso HFpEF del ACC)
     for o in json.load(open(f"{G}/n7_out{b}.json")):
         fich[o["key"]] = o
 data = {}

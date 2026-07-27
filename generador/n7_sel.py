@@ -37,6 +37,9 @@ SEL = [
  (13, 5, "Documento de consenso",                8,7,7,None,6,7, ""),
  (16, 5, "Artículo de revisión",                 8,6,6,5,7,8, ""),
  (21, 5, "Registro",                             7,4,6,5,5,7, ""),
+ # a25 = post hoc de AVANTI. Se mantiene AQUÍ para no desplazar la numeración de claves (a26...a50,
+ # que ya está ligada a las fichas redactadas), pero se ELIMINA después vía DROP: su puesto en la
+ # sección 05 lo ocupa el consenso HFpEF del ACC (MANUAL_SEL), recuperado a mano por orden del usuario.
  (88, 5, "Análisis secundario de ensayo clínico",6,4,6,4,4,6, ""),
  # 06 Miocardiopatías
  (9,  6, "Estudio de cohorte",                   8,6,6,6,6,6, ""),
@@ -93,6 +96,30 @@ for i, (idx, sec, ptype, rel, cam, evi, efe, rep, fi, acr) in enumerate(SEL, 1):
                     rel=rel, cambio=cam, evid=evi, efecto=efe, rep=rep, fi=fi,
                     total=tot, prio=prio(tot, cam),
                     title=r['title'].rstrip('.'), abstract=r['abstract']))
+
+# Se elimina DESPUÉS de asignar las claves, para no renumerar a26...a50.
+DROP = {"a25"}
+out = [o for o in out if o["key"] not in DROP]
+
+# --- ENTRADA MANUAL (orden del usuario) -------------------------------------
+# El 2026 ACC Expert Consensus Decision Pathway de HFpEF (J Am Coll Cardiol, 23-jul-2026)
+# NO tiene resumen en PubMed, por lo que el cribado automático lo descarta. Se recupera a mano:
+# su ficha se ha elaborado a partir del documento publicado y de los materiales del ACC.
+# Consenso -> EFECTO = None (el 15 % se reparte, factor 1/0,85).
+MANUAL_SEL = [
+ dict(key="a51", pmid="42494134", doi="10.1016/j.jacc.2026.06.018", pii="S0735-1097(26)06875-0",
+      journal="J Am Coll Cardiol", sec=5, ptype="Documento de consenso", acr="",
+      rel=9, cambio=8, evid=7, efecto=None, rep=7, fi=8,
+      title=("Management of Heart Failure With Preserved Ejection Fraction: 2026 ACC Expert Consensus "
+             "Decision Pathway: A Report of the American College of Cardiology Solution Set Oversight Committee"),
+      abstract=""),
+]
+for m in MANUAL_SEL:
+    m["total"] = score(m["rel"], m["cambio"], m["evid"], m["efecto"], m["rep"], m["fi"])
+    m["prio"] = prio(m["total"], m["cambio"])
+    m["idx"] = -1
+    out.append(m)
+
 json.dump(out, open(os.path.dirname(__file__)+'/n7_sel.json', 'w'), ensure_ascii=False, indent=1)
 for o in sorted(out, key=lambda x: -x['total'])[:10]:
     print(f"{o['total']:5} {o['prio'][:14]:15} s{o['sec']:<3}{o['journal'][:22]:24}{o['title'][:66]}")

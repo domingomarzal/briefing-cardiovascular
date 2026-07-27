@@ -504,27 +504,6 @@
   "abstract": "AIMS: Advanced heart failure (AdvHF) remains a major clinical challenge, yet contemporary epidemiological real-world data on AdvHF patients are limited. Aim was to assess 20-year trends in clinical characteristics, outcomes, and use of left ventricular assist devices (LVAD) and heart transplantation (HTx) in patients with AdvHF and reduced ejection fraction (AdvHFrEF) in Sweden. METHODS AND RESULTS: Between 2003-2022, 5,323 patients (median age 76 [IQR 68-82], 23% females) included in the Swedish HF Registry met adapted ESC-HFA criteria for AdvHF (NYHA III-IV, EF<30%, ≥1 HF hospitalizations ≤6 months). Of these, 29% were eligible for AdvHF therapies (median age 63 [IQR 57-67] years, 18% females) according to the following additional criteria: ≤70 years old, no dialysis within ≤5 years, no active cancer within ≤3 years.Unadjusted temporal trends in 1-year outcomes (all-cause, CV and non-CV death, HTx and LVAD implantation) were presented as estimated annual percent change (eAPC). 1-year all-cause mortality declined significantly in the overall cohort (eAPC -3.8; 95%CI -5.3 to -2.2) as well as in patients eligible for AdvHF therapies (eAPC -3.2; 95%CI -6.3 to -0.1) over the study period. These improvements were largely driven by reductions in CV mortality (overall cohort: eAPC -4.3; 95%CI -6.0 to -2.6; eligible cohort: eAPC -5.6, 95%CI -9.4 to -1.7). Use of LVAD significantly increased over the study period, while HTx showed a modest but non-significant rise. CONCLUSIONS: In a large nationwide cohort, all-cause and CV-mortality among AdvHFrEF patients markedly declined over the past 20 years, potentially reflecting improvements in treatments. Despite progress, significant opportunities remain to improve access to and adoption of advanced therapies."
  },
  {
-  "key": "a25",
-  "idx": 88,
-  "pmid": "42489380",
-  "doi": "10.1016/j.jacadv.2026.102891",
-  "pii": "S2772-963X(26)00312-1",
-  "journal": "JACC Adv",
-  "sec": 5,
-  "ptype": "Análisis secundario de ensayo clínico",
-  "acr": "",
-  "rel": 6,
-  "cambio": 4,
-  "evid": 6,
-  "efecto": 4,
-  "rep": 4,
-  "fi": 6,
-  "total": 4.96,
-  "prio": "Complementario",
-  "title": "Short-Term Effects of Pecavaptan on Weight and Congestion in Acute Heart Failure: The AVANTI Post-Hoc Analysis",
-  "abstract": "BACKGROUND: Pecavaptan, a dual vasopressin V1a/V2-receptor antagonist, did not enhance weight loss by day 30 in hospitalized heart failure (HF) patients. However, its short-term effects remain unclear. OBJECTIVES: The objective of the study was to evaluate pecavaptan's effect on weight loss and congestion after 7 days. METHODS: AVANTI was a double-blind, randomized, placebo-controlled trial in patients hospitalized with HF and incomplete decongestion (n = 482). In part A, patients received pecavaptan (30 mg) (n = 242) or placebo (n = 240) as adjunctive therapy for 30 days. In this post hoc analysis, baseline-adjusted differences in weight change and a composite congestion score (CCS) at day 7 were calculated using analysis of covariance. Individual CCS component effects were assessed using baseline-adjusted ordinal regression at day 7. RESULTS: Patients had a median age of 70 years (IQR: 62.0-78.0) and 24% (118/482) were women. Pecavaptan resulted in greater weight loss vs placebo by day 7 (-1.43 kg vs -0.95 kg; difference -0.47 kg; 95% CI: -0.94 to -0.01; P = 0.044). Although the CCS was not significantly modified by pecavaptan at day 7 (P = 0.171), we observed a better resolution of pedal edema (adjusted OR: 0.63; 95% CI: 0.42-0.95; nominal P = 0.026) and reduced thoracic fluid content (difference: -1.43%; 95% CI: -2.57 to -0.28; nominal P = 0.015) at day 7. These effects were limited and no longer significant by day 30. An increase in plasma osmolality and serum sodium concentration by pecavaptan was observed at day 7 and day 30 (both P < 0.01). CONCLUSIONS: In patients hospitalized for acute HF with residual congestion, pecavaptan showed modest signals of early decongestion, without durable benefit at 30 days. These post hoc findings require prospective confirmation. (A Trial to Study BAY1753011 in Patients With Congestive Heart Failure [AVANTI]; NCT03901729)."
- },
- {
   "key": "a26",
   "idx": 9,
   "pmid": "42485712",
@@ -1048,5 +1027,26 @@
   "prio": "Relevante",
   "title": "Optimizing Pulsed Field Ablation: Results From a 1,000-Patient Cohort",
   "abstract": "BACKGROUND: Pulsed field ablation (PFA) using the pentaspline catheter is a nonthermal technology for pulmonary vein isolation (PVI) in atrial fibrillation (AF). We progressively refined the procedural workflow to enhance safety, PVI durability and long-term outcomes, including the transition from 8 applications to the 10-application \"olive\" strategy. OBJECTIVES: This study aimed to evaluate procedural characteristics and long-term outcomes and to assess the impact of sequential workflow refinements. METHODS: This single-center study included consecutive AF patients undergoing PVI using the pentaspline PFA catheter between April 2021 and May 2024, excluding ablation beyond PVI. Procedural data and follow-up outcomes were collected and analyzed. RESULTS: In total, 1,000 patients (median age 69 years [Q1-Q3: 60-76 years]) were included and PVI was achieved in all patients with a median procedure time of 30 minutes (Q1-Q3: 25-40 minutes). The major complication rate was 0.5% (total 2.1%; primarily access site related). Median follow-up time was 454 days (Q1-Q3: 370-631 days). One-year arrhythmia-free survival was 76.6%, higher in paroxysmal AF (83.8%) vs persistent AF (66.6%) (P < 0.001). Durable PVI was observed in 82% (n = 562 of 685) of veins across 173 repeat procedures. Workflow refinements improved safety, including a trend toward reduction of tamponades from 0.8% (n = 2 of 260) to 0% (n = 0 of 740) (P = 0.067), and procedure-related bradycardia from 49.3% to 5% (P < 0.001). Furthermore, PVI durability increased from 78.7% with the conventional approach to 91.6% (P < 0.001) with the olive strategy, while long-term outcomes remained unchanged. CONCLUSIONS: In this large cohort, PFA demonstrated high efficacy with short procedure times, low complication rates, and favorable long-term outcomes. Workflow refinements improved safety and PVI durability, underscoring PFA's role for standardized and safe AF ablation."
+ },
+ {
+  "key": "a51",
+  "pmid": "42494134",
+  "doi": "10.1016/j.jacc.2026.06.018",
+  "pii": "S0735-1097(26)06875-0",
+  "journal": "J Am Coll Cardiol",
+  "sec": 5,
+  "ptype": "Documento de consenso",
+  "acr": "",
+  "rel": 9,
+  "cambio": 8,
+  "evid": 7,
+  "efecto": null,
+  "rep": 7,
+  "fi": 8,
+  "title": "Management of Heart Failure With Preserved Ejection Fraction: 2026 ACC Expert Consensus Decision Pathway: A Report of the American College of Cardiology Solution Set Oversight Committee",
+  "abstract": "",
+  "total": 7.86,
+  "prio": "Imprescindible",
+  "idx": -1
  }
 ]

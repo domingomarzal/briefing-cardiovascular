@@ -59,7 +59,7 @@ for a in corpus:
     if p in sel:
         g = sel[p]
         pr = {"Imprescindible": "alto", "Relevante": "medio", "Complementario": "bajo"}[g["prio"]]
-        star = "dest" if g["key"] == "a11" else ("top3" if g["key"] in ("a46", "a6", "a1") else "")
+        star = "dest" if g["key"] == "a11" else ("top3" if g["key"] in ("a51", "a46", "a6") else "")
         rec.update(scored=True, sel=True, sec=g["sec"], ptype=g["ptype"], REL=g["rel"], CA=g["cambio"], EV=g["evid"],
                    EF=g["efecto"], REP=g["rep"], FI=g["fi"], tot=g["total"], pri=pr, pril=g["prio"], star=star, mot="")
     else:
