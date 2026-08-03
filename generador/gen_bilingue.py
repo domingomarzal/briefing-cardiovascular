@@ -297,6 +297,7 @@ CONFIGS = [
  dict(n="n5", data=BASE+"/generador/n5_data.json", num="Nº 5", period=("6 al 12 de julio de 2026","July 6–12, 2026"), dest="a1", top3=["a2","a3","a4"], acr=_acr(BASE+"/generador/n5_acr.json"), viz=_viz(BASE+"/generador/n5_viz.html"), local="Briefing Cardiovascular_N5", lnum="N5"),
  dict(n="n6", data=BASE+"/generador/n6_data.json", num="Nº 6", period=("13 al 19 de julio de 2026","July 13–19, 2026"), dest="a14", top3=["a39","a6","a24"], acr=_acr(BASE+"/generador/n6_acr.json"), viz=_viz(BASE+"/generador/n6_viz.html"), local="Briefing Cardiovascular_N6", lnum="N6"),
  dict(n="n7", linkfix=_acr(BASE+"/generador/n7_linkfix.json"), data=BASE+"/generador/n7_data.json", num="Nº 7", period=("20 al 26 de julio de 2026","July 20–26, 2026"), dest="a51", top3=["a11","a46","a6"], acr=_acr(BASE+"/generador/n7_acr.json"), viz=_viz(BASE+"/generador/n7_viz.html"), local="Briefing Cardiovascular_N7", lnum="N7"),
+ dict(n="n8", linkfix=_acr(BASE+"/generador/n8_linkfix.json"), data=BASE+"/generador/n8_data.json", num="Nº 8", period=("27 de julio al 2 de agosto de 2026","July 27 – August 2, 2026"), dest="a6", top3=["a20","a45","a11"], acr=_acr(BASE+"/generador/n8_acr.json"), viz=_viz(BASE+"/generador/n8_viz.html"), local="Briefing Cardiovascular_N8", lnum="N8"),
 ]
 import sys as _sys
 ONLY = _sys.argv[1] if len(_sys.argv) > 1 else None
