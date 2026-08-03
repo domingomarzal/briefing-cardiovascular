@@ -1,7 +1,7 @@
 # Briefing Cardiovascular · Cardio al día — Documento de arranque
 
 > Para abrir el proyecto en una sesión NUEVA de Claude y continuarlo. Léelo entero
-> antes de tocar nada. Última actualización: **20-jul-2026** (tras N6 + retirada del
+> antes de tocar nada. Última actualización: **3-ago-2026** (tras N8; ver §2 y §6). Nota previa: 20-jul-2026 (N6 + retirada del
 > paso de WhatsApp, ver §6 y el apéndice §8).
 
 ---
@@ -32,7 +32,9 @@ Además se genera la **Auditoría (Artículos Revisados)** y un **borrador de co
 | N4 | 29 jun–5 jul | ✓ (generado 6-jul) |
 | N5 | 6–12 jul | ✓ (generado 13-jul · 39 art. de 203 revisados) |
 | **N6** | **13–19 jul** | ✓ (generado 20-jul · 48 art. de 248 revisados) |
-| **N7** | **20–26 jul** | → **lunes 27-jul** (siguiente) |
+| N7 | 20–26 jul | ✓ (generado 27-jul · 50 art. · nace la verificación de enlaces, PASO 7b) |
+| **N8** | **27 jul–2 ago** | ✓ (generado 3-ago · 49 art. de 243 revisados · 2 enlaces JACC rotos corregidos) |
+| **N9** | **3–9 ago** | → **lunes 10-ago** (siguiente) |
 
 **Regla de numeración/fecha:** el número y el periodo se CALCULAN de la fecha real
 del sistema (`date`), NUNCA de memoria. Ventana = semana natural anterior (lunes-domingo).
@@ -64,9 +66,16 @@ N1 = semana 8-14 jun; cada semana suma 1. Contrasta siempre con el repo (`ls n*`
 ## 4. La tarea automática
 
 - **taskId:** `pulso-cardiologico-semanal` · cron `0 8 * * 1` (lunes 08:00, dispara ~08:06).
-- **Activa.** Última: 20-jul (N6). Próxima: **27-jul (N7)**.
-- Requiere que el **Mac esté encendido y con Claude abierto** a esa hora (tarea local).
-  Si algún lunes no termina sola, se lanza a mano siguiendo la SKILL.
+- **Activa.** Última: 3-ago (N8), corrió 100 % sola. Próxima: **10-ago (N9)**.
+- **NO requiere tener el Mac abierto a las 08:06** (verificado 20-jul-2026 con la documentación
+  oficial de Desktop scheduled tasks): si la app o el Mac estaban cerrados, al abrirlos el
+  planificador detecta la ejecución perdida y lanza **una** ejecución de RECUPERACIÓN
+  (catch-up). Ventana: **7 días**; se recupera SOLO la más reciente y se descartan las
+  anteriores; es automático y no se puede desactivar. Prueba real: N6 tenía franja nominal
+  08:00 y `lastRunAt` 08:13 → se disparó al abrir la app, y `recordedSkips` está vacío.
+  ⚠️ Consecuencia: la tarea puede correr un día distinto del lunes, por eso el PASO 1 calcula
+  la ventana anclada al **lunes más reciente** (nunca «hoy − 7 días»). Si se pierden 2+ lunes
+  seguidos, solo se genera el número más reciente: los anteriores hay que lanzarlos a mano.
 - Para verla/editarla: herramientas `mcp__scheduled-tasks__list_scheduled_tasks` /
   `update_scheduled_task`.
 
@@ -97,7 +106,14 @@ la sesión automática del lunes puede reaparecer etiquetada «UICAR» en la bar
   CERRADO (⌘Q) — con la app abierta, la pisa al salir.
 - NUNCA "borrar y recrear" la tarea: `create_scheduled_task` reescribe el `SKILL.md`
   (50 KB de reglas afinadas).
-- Sin riesgo de permisos: `~/.claude/settings.json` global tiene `bypassPermissions`.
+- **Permisos — OJO, matiz aprendido el 20-jul-2026:** `~/.claude/settings.json` tiene
+  `defaultMode: bypassPermissions`, pero su lista **`ask` ANULA ese bypass** para
+  `Bash(rm:*)`, `rmdir`, `sudo`, `git push --force`, `git reset --hard`, `git clean`.
+  Un `rm -f` metido en la SKILL el 16-jul hizo que la tarea del lunes SE PARARA pidiendo
+  permiso en N6 (N4 y N5 habían corrido 100 % solas). **Regla dura: el pipeline del lunes
+  NUNCA usa esos comandos.** Para vaciar la subcarpeta se usa `mv` (mover el Cardio al día
+  a UICAR), nunca `cp`+`rm`. Si algo hay que borrar, no se borra en la ejecución automática:
+  se reporta en el PASO 9 y lo decide el usuario.
 
 ### 4.2 Migración del historial de sesiones — 16-jul-2026 (hecho)
 
