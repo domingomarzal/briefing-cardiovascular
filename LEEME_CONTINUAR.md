@@ -173,6 +173,13 @@ del número anterior, comprobar que siguen corregidas):**
 
 ## 6. Reglas duras (NO romper)
 
+- **Erratas del abstract: se marcan, NO se corrigen en silencio** (regla nacida en N8, 3-ago-2026).
+  Si una cifra del abstract está claramente mal (en N8, el IC del HR de a36 figuraba como
+  «1.07–170» tanto en PubMed como en la web de Oxford, y el texto completo estaba de pago),
+  se transcribe **tal como está publicada** y se señala la errata: `[sic]` en el resumen y una
+  aclaración entre guiones en «Resultados». Nunca se inventa el valor «lógico» (1,70): eso
+  fabricaría un dato que no está en la fuente. Antes de decidir, comprueba el texto completo
+  en la web de la revista por si el valor real es recuperable.
 - **Fecha = publicación ONLINE en la web de la revista.** El `ArticleDate` de PubMed puede
   engañar (fecha antigua aunque el número online sea de esta semana): verifica en la web de
   la revista (NEJM «updated on… at NEJM.org»; JACC/Elsevier «Available online»…). Esa fecha
