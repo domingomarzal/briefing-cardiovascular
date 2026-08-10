@@ -258,7 +258,7 @@
   "total": 6.8,
   "prio": "Relevante",
   "title_en": "Opportunistic Genetic Testing for Familial Hypercholesterolemia in Premature Acute Coronary Syndrome: Results of the ACCURATE Study",
-  "title_es": "Pruebas genéticas oportunistas para la hipercolesterolemia familiar en el síndrome coronario agudo prematuro",
+  "title_es": "Pruebas genéticas oportunistas para la hipercolesterolemia familiar en el síndrome coronario agudo prematuro: resultados del estudio ACCURATE",
   "es": {
    "resumen": "Estudio prospectivo no aleatorizado en 140 pacientes menores de 60 años ingresados por síndrome coronario agudo con cLDL ≥4 mmol/L (≥155 mg/dL) que comparó una fase de práctica habitual con otra en la que se ofreció test genético de hipercolesterolemia familiar. A los 15 meses se diagnosticó hipercolesterolemia familiar definitiva en el 10% de la fase con test genético frente al 0% de la fase de práctica habitual, con mayor consecución del objetivo de cLDL <1,8 mmol/L (73% frente a 53%; p=0,04).",
    "why": "demuestra que ofrecer el estudio genético de forma oportunista en la propia unidad coronaria no solo desenmascara casos de hipercolesterolemia familiar que la práctica habitual no diagnostica, sino que se traduce en un tratamiento hipolipemiante más intensivo y en un mejor control lipídico a 15 meses.",
@@ -333,7 +333,7 @@
   "total": 6.6,
   "prio": "Relevante",
   "title_en": "OCT-Defined Plaque Morphology and Clinical Outcomes After Percutaneous Coronary Intervention: An ILUMIEN IV Substudy",
-  "title_es": "Morfología de la placa definida por tomografía de coherencia óptica y resultados clínicos tras la intervención coronaria percutánea",
+  "title_es": "Morfología de la placa definida por OCT y resultados clínicos tras la intervención coronaria percutánea: un subestudio de ILUMIEN IV",
   "es": {
    "resumen": "Subestudio del brazo guiado por tomografía de coherencia óptica del ensayo ILUMIEN IV que analizó, en 926 pacientes con una única lesión de novo, si la morfología predominante de la placa antes del procedimiento predice el pronóstico. El fallo del vaso diana a 2 años fue más frecuente en las lesiones predominantemente cálcicas que en las fibróticas (10,7% frente a 4,0%; HR ajustada 2,20; IC 95% 1,12-4,33; p=0,02), con las lipídicas en posición intermedia.",
    "why": "es el primer análisis de un ensayo clínico de gran tamaño que demuestra valor pronóstico de la morfología basal de la placa por tomografía de coherencia óptica sobre los resultados tras el intervencionismo, y sitúa a la placa cálcica —no a la lipídica— como la de peor evolución.",
@@ -1058,7 +1058,7 @@
   "total": 8.73,
   "prio": "Imprescindible",
   "title_en": "Duration of Therapeutic Hypothermia After Out-of-Hospital Cardiac Arrest: The ICECAP Randomized Clinical Trial",
-  "title_es": "Duración de la hipotermia terapéutica tras una parada cardiaca extrahospitalaria: ensayo clínico aleatorizado",
+  "title_es": "Duración de la hipotermia terapéutica tras una parada cardiaca extrahospitalaria: el ensayo clínico aleatorizado ICECAP",
   "es": {
    "resumen": "Ensayo adaptativo bayesiano en 71 hospitales de EE. UU. que aleatorizó a 1.158 supervivientes comatosos de parada cardiaca extrahospitalaria a diez duraciones de hipotermia a 33 °C, de 6 a 72 horas. Prolongar el enfriamiento no mejoró la función neurológica a 90 días: en el grupo con ritmo no desfibrilable, la probabilidad posterior de que 6 horas fuera la duración más corta con el mejor resultado fue de 0,51.",
    "why": "responde a la pregunta que quedaba abierta tras los ensayos de hipotermia —cuánto tiempo enfriar— con un diseño adaptativo que explora toda la curva duración-respuesta, y su respuesta es que enfriar más tiempo no aporta nada: ni siquiera 6 horas quedan claramente por debajo del resto.",
@@ -1158,7 +1158,7 @@
   "total": 6.45,
   "prio": "Relevante",
   "title_en": "Cardiac Resynchronization With or Without Defibrillator in Nonischemic Cardiomyopathy: A Nationwide Cohort Study (DECIDE-CRT)",
-  "title_es": "Resincronización cardiaca con o sin desfibrilador en la miocardiopatía no isquémica: estudio de cohortes de ámbito nacional",
+  "title_es": "Resincronización cardiaca con o sin desfibrilador en la miocardiopatía no isquémica: estudio de cohortes de ámbito nacional (DECIDE-CRT)",
   "es": {
    "resumen": "Cohorte de 3.965 pacientes con miocardiopatía no isquémica y resincronización en prevención primaria en 170 hospitales de veteranos de EE. UU. Con una mediana de seguimiento de 5,2 años, añadir desfibrilador no se asoció a mejor supervivencia (HR ajustado 0,90; IC 95% 0,71-1,13; p=0,34) y sí a más recambios de generador e infecciones del dispositivo.",
    "why": "vuelve a cuestionar el valor añadido del desfibrilador sobre la resincronización en la miocardiopatía no isquémica en la era del tratamiento médico moderno, con una cohorte nacional amplia y seguimiento largo, y refuerza la necesidad de un ensayo aleatorizado.",
