@@ -15,7 +15,10 @@ def t(k):
     ac = ACR.get(k, "")
     if ac and ac.strip(" ()") not in s: s += ac
     return s
-def doi(k): return "https://doi.org/" + D[k]["doi"]
+LINKFIX = json.load(open(G + "/n10_linkfix.json")) if os.path.exists(G + "/n10_linkfix.json") else {}
+# Mismo criterio que gen_bilingue.py: los DOIs que no aterrizan en el artículo (ver check_links.py)
+# se sustituyen por su página de PubMed, que siempre resuelve.
+def doi(k): return LINKFIX.get(k) or ("https://doi.org/" + D[k]["doi"])
 def e(s): return html.escape(s, quote=False)
 
 rows = ""
