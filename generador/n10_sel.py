@@ -28,7 +28,7 @@ SEL = [
  (23, 4, "Análisis secundario de ensayo clínico", 7,5,7,5,6,6, ""),
  # 05 Insuficiencia cardíaca
  (48, 5, "Inteligencia artificial / modelo predictivo", 5,6,7,7,5,7, ""),
- (47, 5, "Estudio pronóstico",                    6,5,6,6,5,6, ""),
+ (47, 5, "Estudio pronóstico",                    8,8,8,8,8,6, ""),   # repoderado (Top 3, decisión editorial 17-ago)
  (49, 5, "Artículo de revisión",                  6,4,5,4,6,7, ""),
  (12, 5, "Artículo de revisión",                  4,3,4,3,4,6, ""),
  # 06 Miocardiopatías
@@ -38,7 +38,7 @@ SEL = [
  (7,  6, "Estudio diagnóstico",                   6,5,7,4,7,7, ""),
  (52, 6, "Estudio diagnóstico",                   6,6,5,6,5,6, ""),
  # 07 Valvulopatías
- (19, 7, "Registro",                              7,7,6,6,6,6, " (OCEAN-Mitral)"),
+ (19, 7, "Registro",                              8,8,8,8,7,6, " (OCEAN-Mitral)"),   # repoderado (Top 3, decisión editorial 17-ago)
  (55, 7, "Estudio de cohorte",                    6,6,5,6,5,6, ""),
  (28, 7, "Artículo de revisión",                  6,5,5,4,5,6, ""),
  (43, 7, "Registro",                              4,5,6,5,4,6, ""),
@@ -56,7 +56,7 @@ SEL = [
  (64, 10, "Metaanálisis",                         8,8,8,7,7,6, ""),
  (36, 10, "Metaanálisis",                         8,7,7,6,6,6, ""),
  (63, 10, "Estudio de cohorte",                   8,7,6,6,7,7, ""),
- (42, 10, "Estudio de cohorte",                   8,6,6,7,6,6, ""),
+ (42, 10, "Estudio de cohorte",                   9,8,7,8,9,6, ""),   # repoderado (Top 3, decisión editorial 17-ago)
 ]
 W = dict(rel=.20, cambio=.25, evid=.20, efecto=.15, rep=.12, fi=.08)
 

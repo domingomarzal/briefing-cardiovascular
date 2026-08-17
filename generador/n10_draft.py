@@ -4,7 +4,7 @@ import json, os, html
 G = os.path.dirname(os.path.abspath(__file__))
 D = json.load(open(G + "/n10_data.json"))
 ACR = json.load(open(G + "/n10_acr.json"))
-DEST = "a6"; TOP3 = ["a35", "a36", "a1"]
+DEST = "a6"; TOP3 = ["a39", "a16", "a24"]
 PERIOD = "10 al 16 de agosto de 2026"
 URL = "https://domingomarzal.github.io/briefing-cardiovascular/n10/cardio-al-dia.html"
 SEC = {1:"Cardiología preventiva",2:"Cardiometabolismo",3:"Dislipemia",4:"Cardiopatía isquémica",
