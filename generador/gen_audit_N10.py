@@ -117,6 +117,13 @@ head = head.replace("Artículos revisados · 3 al 9 de agosto de 2026", "Artícu
 head = head.replace("2026/08/03–2026/08/09", "2026/08/10–2026/08/16")
 head = head.replace("3–9 ago 2026", "10–16 ago 2026")
 head = head.replace("Reglas de selección (N9).", "Reglas de selección (N10).")
+# El Top 3 de este número es una SELECCIÓN EDITORIAL, no los tres siguientes por puntuación:
+# se deja constancia para que la tabla de ejes no parezca incoherente con las estrellas.
+NOTA_TOP3 = ('<p class="intro" style="margin-top:10px;"><b>Nota sobre el bloque «No te los puedes perder» (N10).</b> '
+ 'El <span class="star">★</span>★ <b>Destacado</b> es el artículo de mayor puntuación total. Los tres marcados con '
+ '<span class="star">★</span> son, en este número, una <b>selección editorial del Dr. Marzal</b> y no los tres '
+ 'siguientes por puntuación: la ponderación de los 6 ejes que figura en esta tabla es la que da la rúbrica, sin retocar.</p>')
+head = head.replace('\n\n    <div class="box">', NOTA_TOP3 + '\n\n    <div class="box">', 1)
 head = re.sub(r'da <b>\d+ seleccionados</b> esta semana', f'da <b>{nsel} seleccionados</b> esta semana', head)
 head = re.sub(r'<div class="box">.*?</div>', '<div class="box">' + box_html + '</div>', head, count=1, flags=re.S)
 head = re.sub(r'Listado completo de artículos revisados \(\d+\); puntuados los \d+ seleccionados',

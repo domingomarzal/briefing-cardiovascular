@@ -380,8 +380,8 @@
   "ptype": "Estudio pronóstico",
   "journal": "Heart Rhythm",
   "doi": "10.1016/j.hrthm.2026.08.011",
-  "total": 7.84,
-  "prio": "Imprescindible",
+  "total": 5.63,
+  "prio": "Relevante",
   "title_en": "Heart failure risk stratification at the time of ICD implantation after myocardial infarction: the HF WICD-MI score",
   "title_es": "Estratificación del riesgo de insuficiencia cardiaca en el momento del implante de DAI tras un infarto de miocardio: la escala HF WICD-MI",
   "es": {
@@ -580,8 +580,8 @@
   "ptype": "Registro",
   "journal": "JACC Adv",
   "doi": "10.1016/j.jacadv.2026.103126",
-  "total": 7.72,
-  "prio": "Imprescindible",
+  "total": 6.45,
+  "prio": "Relevante",
   "title_en": "Mitral Transcatheter Edge-to-Edge Repair in Ventricular Functional Mitral Regurgitation and Very Severe Left Ventricular Dysfunction",
   "title_es": "Reparación mitral transcatéter borde a borde en la insuficiencia mitral funcional ventricular con disfunción ventricular izquierda muy grave",
   "es": {
@@ -955,8 +955,8 @@
   "ptype": "Estudio de cohorte",
   "journal": "Heart Rhythm",
   "doi": "10.1016/j.hrthm.2026.08.008",
-  "total": 7.96,
-  "prio": "Imprescindible",
+  "total": 6.55,
+  "prio": "Relevante",
   "title_en": "Combined Effects of Early Rhythm Control and Exercise on Atrial Fibrillation Outcomes: Nationwide Cohort Analysis",
   "title_es": "Efectos combinados del control precoz del ritmo y el ejercicio sobre los resultados en la fibrilación auricular: análisis de una cohorte nacional",
   "es": {
