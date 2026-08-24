@@ -91,11 +91,8 @@ main{padding:24px 40px 0;}
 .destacado .d-viz{max-width:180px;overflow:hidden;}
 .destacado .d-viz svg{width:100%;height:auto;display:block;}
 .destacado .d-viz img{max-width:100%;height:auto;display:block;}
-.destacado .d-viz-open{display:block;max-width:180px;position:relative;cursor:zoom-in;border-radius:8px;transition:box-shadow .15s;}
+.destacado .d-viz-open{display:block;max-width:180px;position:relative;border-radius:8px;transition:box-shadow .15s;}
 .destacado .d-viz-open:hover{box-shadow:0 0 0 2px var(--titleac);}
-.d-viz-zoom{position:absolute;right:3px;bottom:3px;width:22px;height:22px;border-radius:50%;background:var(--titleac);display:flex;align-items:center;justify-content:center;box-shadow:0 1px 4px rgba(0,0,0,.28);pointer-events:none;opacity:0;transition:opacity .15s;}
-.destacado .d-viz-open:hover .d-viz-zoom, .destacado .d-viz-open:focus-within .d-viz-zoom{opacity:1;}
-.d-viz-zoom svg{display:block;}
 .cmodal-viz{max-width:600px;text-align:center;}
 .cmodal-viz .d-viz{max-width:100%;overflow:visible;margin:6px auto 0;}
 .cmodal-viz .d-viz svg{width:100%;height:auto;display:block;}
@@ -235,13 +232,8 @@ def build(variant):
     # Figura del Destacado ampliable como pop-up (mismo checkbox-hack sin JS que las fichas;
     # funciona en Quick Look del iPhone). El cambio de idioma actúa sobre TODOS los [data-es],
     # así que la copia grande del modal también traduce sola.
-    _zoom_icon = ('<svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="#fff" '
-                  'stroke-width="2.4" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/>'
-                  '<line x1="15.2" y1="15.2" x2="21" y2="21"/></svg>')
     if VIZ.strip():
-        viz_open = ('<label class="d-viz-open" for="cb-viz" aria-label="Ampliar figura">%s'
-                    '<span class="d-viz-zoom" aria-hidden="true">%s</span></label>'
-                    ) % (VIZ, _zoom_icon)
+        viz_open = '<label class="d-viz-open" for="cb-viz" aria-label="Ampliar figura">%s</label>' % VIZ
         viz_modal = ('<input type="checkbox" id="cb-viz" class="mcb"><div class="cmodal">'
                      '<label class="cmodal-bg" for="cb-viz"></label>'
                      '<div class="cmodal-box cmodal-viz"><label class="cmodal-x" for="cb-viz" aria-label="Cerrar">&times;</label>'
@@ -269,7 +261,7 @@ def build(variant):
       T(dest["es"].get("resumen",""), dest["en"].get("resumen","")),
       T("Por qué importa:","Why it matters:"), T(dest["es"].get("why",""), dest["en"].get("why","")), jl(dest), viz_open)
 
-    root = ":root{"+VAR["root"]+"}"
+    root = ":root{"+VAR["root"]+"}"+CURSOR_CSS
     HTML = ('<!DOCTYPE html><html lang="es"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">'
       '<title>%s</title><style>%s\n%s\n%s</style></head><body><div class="wrap">'
       '<div class="mast"><h1 class="mast-title">%s</h1><div class="mast-bottom">'
@@ -294,6 +286,10 @@ def build(variant):
     return HTML
 
 LOGO_B64 = __import__("base64").b64encode(open("/Users/dmarzal/Documents/Claude/Briefing Cardiovascular/briefing-cardiovascular-repo/generador/firma_DM_horizontal.png","rb").read()).decode()
+# Cursor personalizado (círculo turquesa con lupa blanca, colores de Briefing Cardiovascular)
+# que sustituye al feo cursor de zoom del sistema al pasar sobre la figura del Destacado.
+CURSOR_B64 = __import__("base64").b64encode(open("/Users/dmarzal/Documents/Claude/Briefing Cardiovascular/briefing-cardiovascular-repo/generador/cursor_zoom.png","rb").read()).decode()
+CURSOR_CSS = ".destacado .d-viz-open{cursor:url(data:image/png;base64,"+CURSOR_B64+") 13 13, pointer;}"
 
 SCRIPT = """<script>
 (function(){
