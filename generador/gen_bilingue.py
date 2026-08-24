@@ -91,6 +91,15 @@ main{padding:24px 40px 0;}
 .destacado .d-viz{max-width:180px;overflow:hidden;}
 .destacado .d-viz svg{width:100%;height:auto;display:block;}
 .destacado .d-viz img{max-width:100%;height:auto;display:block;}
+.destacado .d-viz-open{display:block;max-width:180px;position:relative;cursor:zoom-in;border-radius:8px;transition:box-shadow .15s;}
+.destacado .d-viz-open:hover{box-shadow:0 0 0 2px var(--titleac);}
+.d-viz-zoom{position:absolute;right:3px;bottom:3px;width:22px;height:22px;border-radius:50%;background:var(--titleac);display:flex;align-items:center;justify-content:center;box-shadow:0 1px 4px rgba(0,0,0,.28);pointer-events:none;opacity:0;transition:opacity .15s;}
+.destacado .d-viz-open:hover .d-viz-zoom, .destacado .d-viz-open:focus-within .d-viz-zoom{opacity:1;}
+.d-viz-zoom svg{display:block;}
+.cmodal-viz{max-width:600px;text-align:center;}
+.cmodal-viz .d-viz{max-width:100%;overflow:visible;margin:6px auto 0;}
+.cmodal-viz .d-viz svg{width:100%;height:auto;display:block;}
+.d-viz-cap{margin:12px 4px 0;font-size:12.5px;color:var(--suave);text-align:center;}
 .destacado h2{margin:4px 0 8px;font-size:20px;line-height:1.25;color:var(--titulo);font-weight:800;text-align:justify;}
 .destacado p{margin:6px 0;font-size:14.5px;text-align:justify;}
 .top3{margin:26px 0 4px;border:1px solid var(--linea);border-radius:12px;overflow:hidden;}
@@ -223,6 +232,26 @@ def build(variant):
         secs += ('<section class="sec" id="s%d"><a class="sec-head" href="#s%d"><span class="sec-num c%d">%02d</span><h2>%s</h2><span class="chev t%d">▸</span></a>'
                  '<div class="sec-body">%s<div class="sec-foot"><a href="#indice" class="toindex" aria-label="Secciones">↩︎</a></div></div></section>\n') % (s,s,s,s,T(SECES[s],SECEN[s]),s,ah)
     modals="\n".join(modal(a) for _,arts in sections for a in arts)
+    # Figura del Destacado ampliable como pop-up (mismo checkbox-hack sin JS que las fichas;
+    # funciona en Quick Look del iPhone). El cambio de idioma actúa sobre TODOS los [data-es],
+    # así que la copia grande del modal también traduce sola.
+    _zoom_icon = ('<svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="#fff" '
+                  'stroke-width="2.4" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/>'
+                  '<line x1="15.2" y1="15.2" x2="21" y2="21"/></svg>')
+    if VIZ.strip():
+        viz_open = ('<label class="d-viz-open" for="cb-viz" aria-label="Ampliar figura">%s'
+                    '<span class="d-viz-zoom" aria-hidden="true">%s</span></label>'
+                    ) % (VIZ, _zoom_icon)
+        viz_modal = ('<input type="checkbox" id="cb-viz" class="mcb"><div class="cmodal">'
+                     '<label class="cmodal-bg" for="cb-viz"></label>'
+                     '<div class="cmodal-box cmodal-viz"><label class="cmodal-x" for="cb-viz" aria-label="Cerrar">&times;</label>'
+                     '<div class="d-viz-big">%s</div>'
+                     '<p class="d-viz-cap" data-es="%s" data-en="%s">%s</p></div></div>') % (
+                     VIZ, ae("Figura del Destacado de la semana"), ae("Highlight of the week — figure"),
+                     he("Figura del Destacado de la semana"))
+        modals = modals + viz_modal
+    else:
+        viz_open = VIZ
     dest=ALL[DESTACADO_KEY]; de,den=dest["_t_es"],dest["_t_en"]; ddt = de if VAR["title_lang"]=="es" else den
     svg = ('<svg viewBox="0 0 200 190" xmlns="http://www.w3.org/2000/svg">'
       '<text x="100" y="16" font-size="11" font-weight="700" fill="#5d6878" text-anchor="middle" data-es="Mortalidad a 10 años" data-en="10-year mortality">Mortalidad a 10 años</text>'
@@ -238,7 +267,7 @@ def build(variant):
       T("★ Destacado de la semana","★ Highlight of the week"), ptype_span(dest), DESTACADO_KEY,
       ae(de if VAR["title_lang"]=="es" else den), ae(den), he(ddt),
       T(dest["es"].get("resumen",""), dest["en"].get("resumen","")),
-      T("Por qué importa:","Why it matters:"), T(dest["es"].get("why",""), dest["en"].get("why","")), jl(dest), VIZ)
+      T("Por qué importa:","Why it matters:"), T(dest["es"].get("why",""), dest["en"].get("why","")), jl(dest), viz_open)
 
     root = ":root{"+VAR["root"]+"}"
     HTML = ('<!DOCTYPE html><html lang="es"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">'
