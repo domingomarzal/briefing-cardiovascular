@@ -1,7 +1,7 @@
 # Briefing Cardiovascular · Cardio al día — Documento de arranque
 
 > Para abrir el proyecto en una sesión NUEVA de Claude y continuarlo. Léelo entero
-> antes de tocar nada. Última actualización: **17-ago-2026** (tras N10; ver §2). Nota previa: 20-jul-2026 (N6 + retirada del
+> antes de tocar nada. Última actualización: **24-ago-2026** (tras N11; ver §2). Nota previa: 20-jul-2026 (N6 + retirada del
 > paso de WhatsApp, ver §6 y el apéndice §8).
 
 ---
@@ -36,7 +36,8 @@ Además se genera la **Auditoría (Artículos Revisados)** y un **borrador de co
 | **N8** | **27 jul–2 ago** | ✓ (generado 3-ago · 49 art. de 243 revisados · 2 enlaces JACC rotos corregidos) |
 | **N9** | **3–9 ago** | ✓ (generado 10-ago · 47 art. de 253 revisados · 3 enlaces JACC rotos corregidos) |
 | **N10** | **10–16 ago** | ✓ (generado 17-ago · 39 art. de 233 revisados · 6 enlaces corregidos: 5 JACC Adv + 1 Circulation sin DOI en Crossref) |
-| N11 | 17–23 ago | → **lunes 24-ago** (siguiente) |
+| **N11** | **17–23 ago** | ✓ (generado 24-ago · 50 art. de 252 revisados · 2 enlaces JACC Adv rotos corregidos · 1 duplicado de N10 descartado) |
+| N12 | 24–30 ago | → **lunes 31-ago** (siguiente) |
 
 **Regla de numeración/fecha:** el número y el periodo se CALCULAN de la fecha real
 del sistema (`date`), NUNCA de memoria. Ventana = semana natural anterior (lunes-domingo).
@@ -68,7 +69,7 @@ N1 = semana 8-14 jun; cada semana suma 1. Contrasta siempre con el repo (`ls n*`
 ## 4. La tarea automática
 
 - **taskId:** `pulso-cardiologico-semanal` · cron `0 8 * * 1` (lunes 08:00, dispara ~08:06).
-- **Activa.** Última: 17-ago (N10), corrió 100 % sola. Próxima: **24-ago (N11)**.
+- **Activa.** Última: 24-ago (N11), corrió 100 % sola. Próxima: **31-ago (N12)**.
 - **NO requiere tener el Mac abierto a las 08:06** (verificado 20-jul-2026 con la documentación
   oficial de Desktop scheduled tasks): si la app o el Mac estaban cerrados, al abrirlos el
   planificador detecta la ejecución perdida y lanza **una** ejecución de RECUPERACIÓN
