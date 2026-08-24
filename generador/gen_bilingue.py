@@ -91,7 +91,7 @@ main{padding:24px 40px 0;}
 .destacado .d-viz{max-width:180px;overflow:hidden;}
 .destacado .d-viz svg{width:100%;height:auto;display:block;}
 .destacado .d-viz img{max-width:100%;height:auto;display:block;}
-.destacado .d-viz-open{display:block;max-width:180px;position:relative;border-radius:8px;transition:box-shadow .15s;}
+.destacado .d-viz-open{display:block;max-width:180px;position:relative;border-radius:8px;transition:box-shadow .15s;cursor:pointer;}
 .destacado .d-viz-open:hover{box-shadow:0 0 0 2px var(--titleac);}
 .cmodal-viz{max-width:600px;text-align:center;}
 .cmodal-viz .d-viz{max-width:100%;overflow:visible;margin:6px auto 0;}
@@ -261,7 +261,7 @@ def build(variant):
       T(dest["es"].get("resumen",""), dest["en"].get("resumen","")),
       T("Por qué importa:","Why it matters:"), T(dest["es"].get("why",""), dest["en"].get("why","")), jl(dest), viz_open)
 
-    root = ":root{"+VAR["root"]+"}"+CURSOR_CSS
+    root = ":root{"+VAR["root"]+"}"
     HTML = ('<!DOCTYPE html><html lang="es"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">'
       '<title>%s</title><style>%s\n%s\n%s</style></head><body><div class="wrap">'
       '<div class="mast"><h1 class="mast-title">%s</h1><div class="mast-bottom">'
@@ -286,10 +286,6 @@ def build(variant):
     return HTML
 
 LOGO_B64 = __import__("base64").b64encode(open("/Users/dmarzal/Documents/Claude/Briefing Cardiovascular/briefing-cardiovascular-repo/generador/firma_DM_horizontal.png","rb").read()).decode()
-# Cursor personalizado (círculo turquesa con lupa blanca, colores de Briefing Cardiovascular)
-# que sustituye al feo cursor de zoom del sistema al pasar sobre la figura del Destacado.
-CURSOR_B64 = __import__("base64").b64encode(open("/Users/dmarzal/Documents/Claude/Briefing Cardiovascular/briefing-cardiovascular-repo/generador/cursor_zoom.png","rb").read()).decode()
-CURSOR_CSS = ".destacado .d-viz-open{cursor:url(data:image/png;base64,"+CURSOR_B64+") 13 13, pointer;}"
 
 SCRIPT = """<script>
 (function(){
