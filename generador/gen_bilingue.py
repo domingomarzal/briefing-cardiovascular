@@ -159,6 +159,8 @@ footer .fsign{width:auto;max-height:68px;height:auto;display:inline-block;}
 .cmodal-bg{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(16,21,31,.55);cursor:pointer;}
 .cmodal-box{position:relative;z-index:1;background:#fff;max-width:700px;width:100%;max-height:88vh;overflow-y:auto;border-radius:14px;padding:26px 30px 30px;box-shadow:0 18px 50px rgba(0,0,0,.35);}
 .cmodal-x{position:absolute;top:6px;right:16px;font-size:30px;color:var(--suave);text-decoration:none;cursor:pointer;}
+.modal-body ul.mnov{margin:4px 0 14px;padding-left:22px;}
+.modal-body ul.mnov li{margin:6px 0;text-align:justify;}
 .modal-type{font-size:13px;font-weight:700;font-family:Arial,Helvetica,sans-serif;color:var(--teal);margin-bottom:8px;}
 .modal-title{margin:0 0 16px;font-size:20px;font-weight:800;color:var(--titulo);line-height:1.3;text-align:justify;}
 .modal-body{font-size:14.5px;color:#37414f;line-height:1.6;text-align:justify;}
@@ -189,9 +191,16 @@ def modal(a):
     else:
         l2 = T("Resultados.", "Results.")
         l3 = T("Conclusiones.", "Conclusions.")
-    body = ("<p><b>%s</b> %s</p>" % (T("De qué va.","What it’s about."), T(e.get("deque",""), n.get("deque","")))
-          + "<p><b>%s</b> %s</p>" % (l2, T(e.get("resultados",""), n.get("resultados","")))
-          + "<p><b>%s</b> %s</p>" % (l3, T(e.get("conclusiones",""), n.get("conclusiones",""))))
+    def blk(label, kes, ken):
+        # Si el contenido es una LISTA, se pinta como viñetas (cada <li> con su propio span i18n)
+        # para que las novedades de las guías se lean de un vistazo. Si es texto, párrafo normal.
+        if isinstance(kes, list):
+            lis = "".join("<li>%s</li>" % T(a, b) for a, b in zip(kes, ken))
+            return "<p><b>%s</b></p><ul class=\"mnov\">%s</ul>" % (label, lis)
+        return "<p><b>%s</b> %s</p>" % (label, T(kes, ken))
+    body = (blk(T("De qué va.","What it’s about."), e.get("deque",""), n.get("deque",""))
+          + blk(l2, e.get("resultados",""), n.get("resultados",""))
+          + blk(l3, e.get("conclusiones",""), n.get("conclusiones","")))
     mt = '<h3 class="modal-title" data-es="%s" data-en="%s">%s</h3>' % (ae(es if VAR["title_lang"]=="es" else en), ae(en), he(es if VAR["title_lang"]=="es" else en))
     return ('<input type="checkbox" id="%s" class="mcb"><div class="cmodal"><label class="cmodal-bg" for="%s"></label>'
             '<div class="cmodal-box"><label class="cmodal-x" for="%s" aria-label="Cerrar">&times;</label>'
@@ -330,7 +339,7 @@ CONFIGS = [
  dict(n="n9", linkfix=_acr(BASE+"/generador/n9_linkfix.json"), data=BASE+"/generador/n9_data.json", num="Nº 9", period=("3 al 9 de agosto de 2026","August 3–9, 2026"), dest="a43", top3=["a6","a18","a44"], acr=_acr(BASE+"/generador/n9_acr.json"), viz=_viz(BASE+"/generador/n9_viz.html"), local="Briefing Cardiovascular_N9", lnum="N9"),
  dict(n="n10", linkfix=_acr(BASE+"/generador/n10_linkfix.json"), data=BASE+"/generador/n10_data.json", num="Nº 10", period=("10 al 16 de agosto de 2026","August 10–16, 2026"), dest="a6", top3=["a39","a16","a24"], acr=_acr(BASE+"/generador/n10_acr.json"), viz=_viz(BASE+"/generador/n10_viz.html"), local="Briefing Cardiovascular_N10", lnum="N10"),
  dict(n="n11", linkfix=_acr(BASE+"/generador/n11_linkfix.json"), data=BASE+"/generador/n11_data.json", num="Nº 11", period=("17 al 23 de agosto de 2026","August 17–23, 2026"), dest="a41", top3=["a6","a42","a46"], acr=_acr(BASE+"/generador/n11_acr.json"), viz=_viz(BASE+"/generador/n11_viz.html"), local="Briefing Cardiovascular_N11", lnum="N11"),
- dict(n="n12", linkfix=_acr(BASE+"/generador/n12_linkfix.json"), data=BASE+"/generador/n12_data.json", num="Nº 12", period=("24 al 30 de agosto de 2026","August 24–30, 2026"), dest="a21", top3=["a16","a46","a47"], acr=_acr(BASE+"/generador/n12_acr.json"), viz=_viz(BASE+"/generador/n12_viz.html"), local="Briefing Cardiovascular_N12", lnum="N12"),
+ dict(n="n12", linkfix=_acr(BASE+"/generador/n12_linkfix.json"), data=BASE+"/generador/n12_data.json", num="Nº 12", period=("24 al 30 de agosto de 2026","August 24–30, 2026"), dest="a21", top3=["a6","a1","a16"], acr=_acr(BASE+"/generador/n12_acr.json"), viz=_viz(BASE+"/generador/n12_viz.html"), local="Briefing Cardiovascular_N12", lnum="N12"),
 ]
 import sys as _sys
 ONLY = _sys.argv[1] if len(_sys.argv) > 1 else None
