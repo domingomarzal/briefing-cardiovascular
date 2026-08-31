@@ -181,10 +181,10 @@ body.has-audio .abtn{display:inline-flex;}
 @media (prefers-reduced-motion:reduce){.abtn.live .wv line{animation:none;}}
 /* en la cabecera, sobre fondo navy */
 .mast .abtn{color:#bdeaeb;border:1px solid rgba(255,255,255,.32);}
-/* Destacado: el botón acompaña al título, arriba a la derecha aunque el título ocupe varias líneas */
-.d-h2row{display:flex;align-items:flex-start;gap:12px;}
-.d-h2row h2{flex-grow:1;min-width:0;}
-.d-h2row .abtn{margin-top:2px;}
+/* Destacado: el rótulo de la izquierda crece, y el tipo de artículo y el botón
+   quedan juntos a la derecha (como en No te los puedes perder) */
+.destacado .d-top .d-kicker{flex-grow:1;}
+.destacado .d-top .abtn{margin-left:4px;}
 /* Top 3: sobre fondo navy, en verde claro para que se lea */
 .top3 .t3h{display:flex;align-items:center;}
 .top3 .t3h h3{flex-grow:1;min-width:0;}
@@ -203,9 +203,15 @@ body.has-audio .abtn{display:inline-flex;}
 /* dentro del pop-up, a la izquierda de la X */
 
 /* barra de audio flotante mientras suena */
-.abar{position:fixed;left:50%;transform:translateX(-50%);bottom:18px;z-index:400;display:none;align-items:center;gap:12px;background:var(--navy);color:#fff;border-radius:30px;padding:9px 10px 9px 18px;box-shadow:0 8px 26px rgba(10,61,98,.34);max-width:min(560px,92vw);}
+/* Barra de audio: compacta (solo controles). Se despliega si quieres ver qué suena. */
+.abar{position:fixed;right:20px;bottom:20px;z-index:400;display:none;align-items:center;gap:6px;background:var(--navy);color:#fff;border-radius:26px;padding:7px 9px;box-shadow:0 8px 26px rgba(10,61,98,.34);max-width:min(420px,92vw);}
 body.audio-live .abar{display:flex;}
-.abar .txt{font-size:12.5px;line-height:1.35;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.abar .txt{display:none;font-size:12.5px;line-height:1.35;padding:0 4px 0 6px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:210px;}
+.abar.open .txt{display:block;}
+.abar select{display:none;}
+.abar.open select{display:block;}
+.abar .exp svg{transition:transform .18s;}
+.abar.open .exp svg{transform:rotate(180deg);}
 .abar button{border:none;background:rgba(255,255,255,.16);color:#fff;width:30px;height:30px;flex:0 0 30px;border-radius:50%;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;padding:0;}
 .abar button:hover{background:rgba(255,255,255,.28);}
 @media print{.abtn,.abar{display:none!important;}}
@@ -224,7 +230,8 @@ body.ask-chrome .chrome-ask{display:flex;}
 .chrome-ask .go:hover{background:#08324f;}
 .chrome-ask .stay{background:#eef3f6;color:var(--gris);}
 .chrome-ask .stay:hover{background:#e2eaef;}
-.chrome-ask .cp{font-size:12px;color:var(--suave);margin-top:12px;cursor:pointer;text-decoration:underline;display:inline-block;}
+.chrome-ask .copied-msg{display:none;margin:14px 0 0;font-size:13px;color:var(--teal);font-weight:700;text-align:left;line-height:1.5;}
+.chrome-ask .box.copied .copied-msg{display:block;}
 
 .modal-body ul.mnov li{margin:6px 0;text-align:justify;}
 .modal-type{font-size:13px;font-weight:700;font-family:Arial,Helvetica,sans-serif;color:var(--teal);margin-bottom:8px;}
@@ -352,8 +359,8 @@ def build(variant):
       '<text x="64" y="120" font-size="14" font-weight="800" fill="#fff" text-anchor="middle">86%</text><text x="136" y="120" font-size="14" font-weight="800" fill="#fff" text-anchor="middle">83%</text>'
       '<text x="64" y="148" font-size="11" font-weight="700" fill="#0a3d62" text-anchor="middle">TAVR</text><text x="136" y="148" font-size="11" font-weight="700" fill="#0f9aa0" text-anchor="middle" data-es="Cirugía" data-en="Surgery">Cirugía</text>'
       '<text x="100" y="172" font-size="9.5" fill="#8c97a6" text-anchor="middle">HR 1,13 (1,02-1,25)</text></svg>')
-    destacado = ('<div class="destacado"><div class="d-top"><span class="d-kicker">%s</span>%s</div>'
-      '<div class="d-grid"><div class="d-text"><div class="d-h2row"><h2><label class="ml" for="cb-a-%s" data-es="%s" data-en="%s">%s</label></h2>' + abtn("art", DESTACADO_KEY) + '</div>'
+    destacado = ('<div class="destacado"><div class="d-top"><span class="d-kicker">%s</span>%s' + abtn("art", DESTACADO_KEY) + '</div>'
+      '<div class="d-grid"><div class="d-text"><h2><label class="ml" for="cb-a-%s" data-es="%s" data-en="%s">%s</label></h2>'
       '<p>%s</p><p class="why"><b>%s</b> %s</p><div class="jwrap">%s</div></div>'
       '%s</div></div>') % (
       T("★ Destacado de la semana","★ Highlight of the week"), ptype_span(dest), DESTACADO_KEY,
@@ -393,15 +400,18 @@ def build(variant):
       '<footer><table class="ftable"><tr><td class="fleft"><div class="fmark">%s</div>'
       '<div class="fbody" data-es="%s" data-en="%s">%s</div></td>'
       '<td class="fright"><img class="fsign" src="data:image/png;base64,%s" alt="Domingo Marzal"></td></tr></table></footer>'
-      '</div><a href="#indice" class="backtop" aria-label="Secciones">↩︎</a>'
+      '</div>'
       '<div class="chrome-ask" role="dialog" aria-modal="true"><div class="bg" data-ck="stay"></div><div class="box">'
       '<div class="hd"><div class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0f9aa0" stroke-width="1.8" stroke-linecap="round"><line x1="4.5" y1="10" x2="4.5" y2="14"/><line x1="8.2" y1="7.4" x2="8.2" y2="16.6"/><line x1="12" y1="5" x2="12" y2="19"/><line x1="15.8" y1="7.4" x2="15.8" y2="16.6"/><line x1="19.5" y1="10" x2="19.5" y2="14"/></svg></div>'
       '<h4 class="i18n" data-es="Se escucha mucho mejor en Chrome" data-en="It sounds much better in Chrome">Se escucha mucho mejor en Chrome</h4></div>'
       '<p class="i18n" data-es="El audio usa las voces que instala tu navegador. A día de hoy, Chrome incorpora voces propias de Google, bastante más naturales que las que trae el sistema; este navegador solo ofrece las básicas." data-en="The audio uses the voices your browser provides. As of today, Chrome ships Google’s own voices, considerably more natural than the system ones; this browser only offers the basic set.">El audio usa las voces que instala tu navegador. A día de hoy, Chrome incorpora voces propias de Google, bastante más naturales que las que trae el sistema; este navegador solo ofrece las básicas.</p>'
-      '<div class="acts"><button class="go" data-ck="go"><span class="i18n" data-es="Abrir en Chrome" data-en="Open in Chrome">Abrir en Chrome</span></button>'
-      '<button class="stay" data-ck="stay"><span class="i18n" data-es="Escuchar aquí igualmente" data-en="Listen here anyway">Escuchar aquí igualmente</span></button></div>'
+      '<div class="acts"><button class="go" data-ck="go"><span class="i18n" data-es="Escuchar en Chrome" data-en="Listen in Chrome">Escuchar en Chrome</span></button>'
+      '<button class="stay" data-ck="stay"><span class="i18n" data-es="Escuchar aquí" data-en="Listen here">Escuchar aquí</span></button></div>'
+      '<p class="copied-msg"></p>'
       '</div></div>'
-      '<div class="abar" role="status"><span class="txt"></span>'
+      '<div class="abar" role="status">'
+      '<button class="exp" data-ab="exp" aria-label="Ver qué suena"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M15 5l-7 7 7 7"/></svg></button>'
+      '<span class="txt"></span>'
       '<button data-ab="pp" aria-label="Pausar o reanudar"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="9" y1="7" x2="9" y2="17"/><line x1="15" y1="7" x2="15" y2="17"/></svg></button>'
       '<button data-ab="st" aria-label="Detener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="6" y1="6" x2="18" y2="18"/><line x1="18" y1="6" x2="6" y2="18"/></svg></button></div>'
       '%s</body></html>') % (
@@ -713,15 +723,42 @@ SCRIPT = """<script>
       document.body.classList.remove('ask-chrome');
       try { sessionStorage.setItem('brief-chrome-ok', '1'); } catch(e){}
       if (q === 'go'){
-        /* Se pasa a Chrome la orden concreta en el hash (#audio=all | sec-N | art-KEY)
-           y el idioma, para que allí continúe exactamente lo que se iba a escuchar. */
-        var base = location.href.split('#')[0];
-        var destino = base + '#audio=' + (pendRef || 'all') + '&lang=' + lang();
-        var sinProto = destino.replace(/^https?:\/\//, '');
-        window.location.href = 'googlechrome://' + sinProto;
-        /* iOS usa otra forma del esquema; si ninguna abre, se sigue aquí */
-        setTimeout(function(){ window.location.href = 'googlechrome://navigate?url=' + encodeURIComponent(destino); }, 350);
-        setTimeout(function(){ if (pend) pend(); pend = null; }, 1600);
+        /* La orden de audio viaja en el hash para que Chrome retome lo que se iba a oír. */
+        var destino = location.href.split('#')[0] + '#audio=' + (pendRef || 'all') + '&lang=' + lang();
+        var ua = navigator.userAgent;
+        var esIOS = /iPhone|iPad|iPod/.test(ua);
+        if (esIOS){
+          /* En iOS Chrome SÍ registra el esquema googlechrome:// */
+          window.location.href = 'googlechrome://' + destino.replace(/^https?:\/\//, '');
+          setTimeout(function(){ if (pend) pend(); pend = null; }, 1500);
+        } else {
+          /* En macOS y Windows NINGÚN navegador puede abrir otro navegador: está
+             prohibido por seguridad (Chrome no registra googlechrome:// fuera de iOS,
+             de ahí el "address is invalid" de Safari). Lo máximo posible es dejar el
+             enlace copiado para pegarlo en Chrome de un Cmd+V. */
+          var ok = false;
+          try { navigator.clipboard.writeText(destino); ok = true; } catch(e){}
+          if (!ok){
+            try {
+              var ta = document.createElement('textarea');
+              ta.value = destino; ta.style.position='fixed'; ta.style.opacity='0';
+              document.body.appendChild(ta); ta.select(); document.execCommand('copy');
+              document.body.removeChild(ta); ok = true;
+            } catch(e2){}
+          }
+          var box = document.querySelector('.chrome-ask .box');
+          if (box){
+            box.classList.add('copied');
+            var msg = box.querySelector('.copied-msg');
+            if (msg) msg.textContent = ok
+              ? (lang()==='en' ? 'Link copied. Open Chrome and paste it (⌘V): the audio starts on its own.'
+                               : 'Enlace copiado. Abre Chrome y pégalo (⌘V): el audio arranca solo.')
+              : (lang()==='en' ? 'Copy this page’s address and paste it into Chrome.'
+                               : 'Copia la dirección de esta página y pégala en Chrome.');
+          }
+          document.body.classList.add('ask-chrome');   /* no cerrar: hay que leer el aviso */
+          return;
+        }
       } else if (pend){ pend(); pend = null; }
       return;
     }
@@ -736,7 +773,13 @@ SCRIPT = """<script>
       return;
     }
     var ab = ev.target.closest && ev.target.closest('.abar button');
-    if (ab){ ev.preventDefault(); (ab.getAttribute('data-ab') === 'pp') ? pausa() : parar(); }
+    if (ab){
+      ev.preventDefault();
+      var a = ab.getAttribute('data-ab');
+      if (a === 'exp'){ bar.classList.toggle('open'); montaVoces(); }
+      else if (a === 'pp') pausa();
+      else parar();
+    }
   }, true);
 
   /* al cambiar de idioma o cerrar el pop-up, se detiene: el texto ya no es el mismo */
