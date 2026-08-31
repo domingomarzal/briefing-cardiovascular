@@ -409,6 +409,61 @@ SCRIPT = """<script>
   var Q = [], qi = 0, mode = null, ref = null, st = 'idle', btn = null, voz = null;
 
   function lang(){ return document.documentElement.getAttribute('lang') === 'en' ? 'en' : 'es'; }
+
+  /* ---------- LOCUTOR: pasa el texto ESCRITO a texto para ESCUCHAR ----------
+     Un briefing está escrito para leerse: intervalos de confianza, valores de p y
+     abreviaturas son imprescindibles en papel y horribles en voz alta. Aquí se
+     retira el andamiaje estadístico (se conserva SIEMPRE la cifra principal y la
+     dirección del efecto) y se expanden las siglas que un locutor pronunciaría. */
+  var LIMPIA = [
+    /* andamiaje estadístico: fuera del audio, sigue estando en el texto */
+    [/\s*\((?:IC|CI)\s*(?:del\s*)?95\s*%[^)]*\)/gi, ''],
+    [/[;,]?\s*(?:IC|CI)\s*(?:del\s*)?95\s*%\s*[^;.)]*/gi, ''],
+    [/[;,]?\s*\bp\s*[=<>≤≥]\s*0?[.,]\d+/gi, ''],
+    [/[;,]?\s*\bp\s*(?:de\s*)?no\s*inferioridad[^;.)]*/gi, ''],
+    [/\s*\(\s*[;,\s]*\)/g, ''],            /* paréntesis que quedan vacíos */
+    [/\s*\(\s*\)/g, '']
+  ];
+  var SIGLAS_ES = [
+    [/\bHR\b\s*/g, 'una razón de riesgo de '], [/\bRR\b\s*/g, 'un riesgo relativo de '],
+    [/\bOR\b\s*/g, 'una odds ratio de '], [/\bNNT\b/g, 'el número necesario a tratar'],
+    [/\bFEVI\b/g, 'fracción de eyección'], [/\bIAMCEST\b/g, 'infarto con elevación del ST'],
+    [/\bIAM\b/g, 'infarto agudo de miocardio'], [/\bSCA\b/g, 'síndrome coronario agudo'],
+    [/\bICP\b/g, 'intervención coronaria percutánea'], [/\bFA\b/g, 'fibrilación auricular'],
+    [/\bERC\b/g, 'enfermedad renal crónica'], [/\bECV\b/g, 'enfermedad cardiovascular'],
+    [/\bARM\b/g, 'antagonista del receptor mineralocorticoide'],
+    [/\bARA-?II\b/g, 'ARA dos'], [/\biSGLT2\b/g, 'inhibidores SGLT2'],
+    [/\barGLP-?1\b/g, 'agonistas del receptor GLP uno'],
+    [/\bcLDL\b/g, 'colesterol LDL'], [/\bLp\(a\)\b/g, 'lipoproteína A'],
+    [/\bDM2\b/g, 'diabetes tipo 2'], [/\bHTA\b/g, 'hipertensión arterial'],
+    [/\bPAS\b/g, 'presión arterial sistólica'], [/\bTRC\b/g, 'terapia de resincronización'],
+    [/\bDAI\b/g, 'desfibrilador automático implantable'], [/\bRMC\b/g, 'resonancia magnética cardiaca'],
+    [/\bmmHg\b/g, 'milímetros de mercurio'], [/\bmg\/dl\b/gi, 'miligramos por decilitro'],
+    [/\bml\/min\b/gi, 'mililitros por minuto'], [/\bIMC\b/g, 'índice de masa corporal'],
+    [/\bvs\.?\b/gi, 'frente a'], [/\bn\s*=\s*/g, ' '],
+    [/≥/g, 'igual o mayor de '], [/≤/g, 'igual o menor de '],
+    [/(\d)\s*%/g, '$1 por ciento'], [/\bIC\b(?!\s*\d)/g, 'insuficiencia cardiaca']
+  ];
+  var SIGLAS_EN = [
+    [/\bHR\b\s*/g, 'a hazard ratio of '], [/\bRR\b\s*/g, 'a relative risk of '],
+    [/\bOR\b\s*/g, 'an odds ratio of '], [/\bLVEF\b/g, 'left ventricular ejection fraction'],
+    [/\bSTEMI\b/g, 'ST elevation myocardial infarction'], [/\bMI\b/g, 'myocardial infarction'],
+    [/\bACS\b/g, 'acute coronary syndrome'], [/\bPCI\b/g, 'percutaneous coronary intervention'],
+    [/\bAF\b/g, 'atrial fibrillation'], [/\bCKD\b/g, 'chronic kidney disease'],
+    [/\bCVD\b/g, 'cardiovascular disease'], [/\bHF\b/g, 'heart failure'],
+    [/\bMRA\b/g, 'mineralocorticoid receptor antagonist'], [/\bBMI\b/g, 'body mass index'],
+    [/\bmmHg\b/g, 'millimetres of mercury'], [/\bvs\.?\b/gi, 'versus'],
+    [/\bn\s*=\s*/g, ' '], [/≥/g, 'at least '], [/≤/g, 'at most '], [/(\d)\s*%/g, '$1 percent']
+  ];
+  function locuta(txt, L){
+    var s = ' ' + (txt || '') + ' ';
+    LIMPIA.forEach(function(r){ s = s.replace(r[0], r[1]); });
+    (L === 'en' ? SIGLAS_EN : SIGLAS_ES).forEach(function(r){ s = s.replace(r[0], r[1]); });
+    s = s.replace(/\s*·\s*/g, '. ').replace(/\s*—\s*/g, ', ').replace(/\s*–\s*/g, ' a ');
+    s = s.replace(/\.{2,}/g, '.').replace(/\s+([.,;:])/g, '$1').replace(/([.,;:]){2,}/g, '$1');
+    return s.replace(/\s+/g, ' ').trim();
+  }
+
   function T(k){ return D.i18n[lang()][k]; }
   function clean(s){ return (s||'').replace(/\s+/g,' ').replace(/ /g,' ').trim(); }
 
@@ -426,15 +481,20 @@ SCRIPT = """<script>
     var score = function(v){
       var n=(v.name||'').toLowerCase(), s=0;
       if ((v.lang||'').toLowerCase() === exact) s += 4;
-      if (/premium|enhanced|neural|siri/.test(n)) s += 3;
+      if (/premium/.test(n)) s += 6;        /* las Premium son las neuronales: mandan */
+      else if (/enhanced|neural/.test(n)) s += 4;
       if (v.localService) s += 1;
+      if (/eddy|flo|grandma|grandpa|reed|rocko|sandy|shelley|bells|bad news|good news|jester|organ|cellos|zarvox|trinoids|whisper|bubbles|boing|wobble|superstar|albert|fred|junior|kathy|ralph|princess|deranged/.test(n)) s -= 12;  /* voces de novedad: nunca para un briefing clínico */
+      if (/mónica|monica|paulina|jorge|diego|marisol/.test(n)) s += 2;   /* voces neutras de calidad */
       return s;
     };
     return vs.slice().sort(function(a,b){ return score(b)-score(a); })[0];
   }
   function decir(txt){
     var u = new SpeechSynthesisUtterance(txt);
-    u.lang = T('lang'); u.rate = 1; u.pitch = 1;
+    u.lang = T('lang');
+    /* algo por debajo del habla neutra: a 1.0 las voces atropellan las cifras */
+    u.rate = 0.94; u.pitch = 1;
     var v = voz || mejorVoz(); if (v) u.voice = v;
     return u;
   }
@@ -444,32 +504,54 @@ SCRIPT = """<script>
     var cb = document.getElementById('cb-a-' + k); if (!cb) return null;
     var box = cb.nextElementSibling && cb.nextElementSibling.querySelector('.cmodal-box');
     if (!box) return null;
+    var L = lang(), out = [];
+    var tipo = clean(box.querySelector('.modal-type') && box.querySelector('.modal-type').textContent);
     var ti = clean(box.querySelector('.modal-title') && box.querySelector('.modal-title').textContent);
-    var bo = clean(box.querySelector('.modal-body') && box.querySelector('.modal-body').textContent);
-    if (!ti && !bo) return null;
-    return ti + '. ' + bo;
+    /* el titular se anuncia como lo haría un locutor: primero qué es, luego el título */
+    if (ti) out.push(locuta((tipo ? tipo + '. ' : '') + ti, L));
+    var body = box.querySelector('.modal-body');
+    if (body){
+      /* cada apartado (De qué va / Resultados / Conclusiones) va en su propio bloque,
+         y cada viñeta de una guía como frase suelta: así hay pausa entre ideas */
+      Array.prototype.forEach.call(body.children, function(el){
+        if (el.tagName === 'UL'){
+          Array.prototype.forEach.call(el.children, function(li){
+            var s = locuta(clean(li.textContent), L);
+            if (s) out.push(s.replace(/\.?$/, '.'));
+          });
+        } else {
+          var s = locuta(clean(el.textContent), L);
+          if (s) out.push(s);
+        }
+      });
+    }
+    return out.length ? out : null;
   }
   function nombreSec(s){ return D.names[lang()][s] || ('' + s); }
 
   /* --- construcción de la cola --- */
   function cola(m, r){
     var out = [], dicho = {};
-    function push(txt, et){ if (txt) out.push({ t: txt, e: et }); }
+    function push(txt, et){
+      if (!txt) return;
+      if (typeof txt === 'string'){ out.push({ t: txt, e: et }); return; }
+      txt.forEach(function(s, i){ out.push({ t: s, e: et, brk: i === txt.length - 1 }); });
+    }
     if (m === 'all'){
-      push(T('dest'), '★');
+      out.push({ t: T('dest'), e: '★', intro: true });
       var d = ficha(D.dest); if (d){ push(d, '★'); dicho[D.dest] = 1; }
-      push(T('top3'), '★');
+      out.push({ t: T('top3'), e: '★', intro: true });
       D.top3.forEach(function(k){ var f = ficha(k); if (f){ push(f, '★'); dicho[k] = 1; } });
       for (var s = 1; s <= 10; s++){
         var ks = (D.secs[s] || []).filter(function(k){ return !dicho[k]; });
         if (!ks.length) continue;                       /* ya sonó entera arriba */
-        push(T('sec').replace('%s', nombreSec(s)), nombreSec(s));
+        out.push({ t: T('sec').replace('%s', nombreSec(s)), e: nombreSec(s), intro: true });
         ks.forEach(function(k){ var f = ficha(k); if (f) push(f, nombreSec(s)); });
       }
       push(T('end'), '');
     } else if (m === 'sec'){
       var n = parseInt(r, 10);
-      push(T('secOnly').replace('%s', nombreSec(n)), nombreSec(n));
+      out.push({ t: T('secOnly').replace('%s', nombreSec(n)), e: nombreSec(n), intro: true });
       (D.secs[n] || []).forEach(function(k){ var f = ficha(k); if (f) push(f, nombreSec(n)); });
     } else {
       var f2 = ficha(r); if (f2) push(f2, '');
@@ -491,8 +573,15 @@ SCRIPT = """<script>
   }
   function siguiente(){
     if (qi >= Q.length){ parar(); return; }
-    var u = decir(Q[qi].t);
-    u.onend = function(){ if (st === 'playing'){ qi++; pinta(); siguiente(); } };
+    var it = Q[qi], u = decir(it.t);
+    /* pausa entre ideas: corta dentro de una ficha, larga al terminarla o al
+       anunciar una sección — es lo que hace que no suene como un chorro de texto */
+    var pausa = it.intro ? 500 : (it.brk ? 420 : 170);
+    u.onend = function(){
+      if (st !== 'playing') return;
+      qi++; pinta();
+      setTimeout(function(){ if (st === 'playing') siguiente(); }, pausa);
+    };
     u.onerror = function(){ if (st === 'playing'){ qi++; siguiente(); } };
     SS.speak(u); pinta();
   }
