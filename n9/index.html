@@ -111,11 +111,22 @@ body.has-audio .abtn{display:inline-flex;}
 @media (prefers-reduced-motion:reduce){.abtn.live .wv line{animation:none;}}
 /* en la cabecera, sobre fondo navy */
 .mast .abtn{color:#bdeaeb;border:1px solid rgba(255,255,255,.32);}
-/* Destacado: el botón se alinea con el TÍTULO y queda a la altura de su PRIMERA
-   línea aunque el título ocupe varias (align-items:flex-start) */
+/* Destacado: el botón queda a la altura de la PRIMERA línea del título, pero
+   desplazado hasta el borde derecho del bloque — el título vive en la columna
+   izquierda de una rejilla 1fr/180px con gap 22px, así que hay que salvar esos
+   202 px para alinearlo con «Guía de práctica clínica» y con las revistas. */
 .d-h2row{display:flex;align-items:flex-start;gap:14px;}
 .d-h2row h2{flex-grow:1;min-width:0;}
-.d-h2row .abtn{margin-top:3px;}
+.d-h2row .abtn{margin-top:3px;margin-right:-202px;}
+/* Aviso de un solo toque cuando el navegador exige gesto para hablar */
+.gesto{position:fixed;left:0;right:0;bottom:0;z-index:600;display:flex;justify-content:center;
+  padding:16px;pointer-events:none;}
+.gesto button{pointer-events:auto;display:inline-flex;align-items:center;gap:10px;
+  border:0;border-radius:999px;cursor:pointer;padding:13px 24px;
+  font:600 15px/1 inherit;color:#fff;background:#0f9aa0;
+  box-shadow:0 6px 22px rgba(15,23,42,.28);}
+.gesto button:hover{background:#0c8288;}
+@media(max-width:620px){.d-h2row .abtn{margin-right:0;}}
 /* Top 3: sobre fondo navy, en verde claro para que se lea */
 .top3 .t3h{display:flex;align-items:center;}
 .top3 .t3h h3{flex-grow:1;min-width:0;}
@@ -680,22 +691,53 @@ body.ask-chrome .chrome-ask{display:flex;}
     });
     bar.insertBefore(sel, bar.querySelector('button'));
   }
-  /* Si venimos de "Abrir en Chrome", el hash trae qué había que escuchar */
+  /* Si venimos de "Escuchar en Chrome", el hash trae qué había que escuchar.
+     Chrome exige un gesto del usuario para hablar: un speak() automático nada
+     más cargar se descarta EN SILENCIO. Por eso lo intentamos, comprobamos si
+     ha sonado de verdad y, si no, ofrecemos un botón grande — un solo toque. */
   (function retoma(){
     var h = location.hash || '';
     var m = h.match(/audio=([a-z0-9\-]+)/i); if (!m) return;
     var l = (h.match(/lang=(es|en)/i) || [])[1];
+    history.replaceState(null, '', location.pathname + location.search);
+    /* Venir con este hash significa que el usuario YA eligió Chrome: si no lo
+       marcamos, el diálogo se vuelve a abrir aquí, tapa la página y el audio
+       nunca llega a sonar. */
+    try { sessionStorage.setItem('brief-chrome-ok', '1'); } catch(e){}
+
     function lanza(){
       if (l && l !== lang()){ var bt = document.querySelector('.lang button[data-l="' + l + '"]'); if (bt) bt.click(); }
-      var ref = m[1], b = null;
-      if (ref === 'all') b = document.querySelector('.mast .abtn');
-      else if (ref === 'top3') b = document.querySelector('.abtn[data-a="top3"]');
-      else if (ref.indexOf('sec-') === 0) b = document.querySelector('.abtn[data-a="sec"][data-ref="' + ref.slice(4) + '"]');
-      else if (ref.indexOf('art-') === 0) b = document.querySelector('.abtn[data-a="art"][data-ref="' + ref.slice(4) + '"]');
-      history.replaceState(null, '', location.pathname + location.search);
-      try {
-        if (b) b.click();      /* Chrome puede exigir un gesto: si lo bloquea, el botón queda listo */
-      } catch(e){}
+      var r = m[1], b = null;
+      if (r === 'all') b = document.querySelector('.mast .abtn');
+      else if (r === 'top3') b = document.querySelector('.abtn[data-a="top3"]');
+      else if (r.indexOf('sec-') === 0) b = document.querySelector('.abtn[data-a="sec"][data-ref="' + r.slice(4) + '"]');
+      else if (r.indexOf('art-') === 0) b = document.querySelector('.abtn[data-a="art"][data-ref="' + r.slice(4) + '"]');
+      if (!b) return;
+
+      try { b.click(); } catch(e){}
+
+      /* ¿ha sonado? Si Chrome lo bloqueó, speaking sigue en false */
+      setTimeout(function(){
+        if (SS.speaking || SS.pending) return;      /* sonó: nada que hacer */
+        parar();                                    /* deja el reproductor limpio */
+        var es = lang() === 'es';
+        var w = document.createElement('div');
+        w.className = 'gesto';
+        w.innerHTML = '<button type="button">'
+          + '<svg viewBox="0 0 24 24" width="19" height="19" aria-hidden="true">'
+          + '<path d="M8 5v14l11-7z" fill="currentColor"></path></svg>'
+          + '<span>' + (es ? 'Pulsa para escuchar' : 'Tap to listen') + '</span></button>';
+        document.body.appendChild(w);
+        function arranca(){
+          w.parentNode && w.parentNode.removeChild(w);
+          document.removeEventListener('click', arranca, true);
+          try { b.click(); } catch(e){}
+          b.scrollIntoView({ block: 'center' });
+        }
+        w.querySelector('button').addEventListener('click', function(ev){ ev.stopPropagation(); arranca(); });
+        /* cualquier otro clic en la página vale igual como gesto */
+        setTimeout(function(){ document.addEventListener('click', arranca, true); }, 50);
+      }, 900);
     }
     setTimeout(lanza, 700);    /* dar tiempo a que carguen las voces */
   })();
