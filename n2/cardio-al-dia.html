@@ -331,12 +331,15 @@ body.ask-chrome .chrome-ask{display:flex;}
 
   var Q = [], qi = 0, mode = null, ref = null, st = 'idle', btn = null, voz = null;
   /* Velocidad: por defecto 1,25x en español y 1x en inglés — las voces
-     españolas suenan lentas al ritmo neutro. Se guarda por idioma. */
+     españolas suenan lentas al ritmo neutro. La elección manual se recuerda
+     POR NÚMERO y por idioma: cada briefing nuevo estrena el valor por defecto,
+     y volver a uno ya escuchado recupera lo que ajustaste allí. */
   var vel = 1;
   function velDef(){ return lang() === 'es' ? 1.25 : 1; }
+  function velKey(){ return 'brief-vel-n' + D.num + '-' + lang(); }
   function leeVel(){
     var v = null;
-    try { v = parseFloat(localStorage.getItem('brief-vel-' + lang())); } catch(e){}
+    try { v = parseFloat(localStorage.getItem(velKey())); } catch(e){}
     return v || velDef();
   }
   var sesion = 0;   /* cada reproducción tiene su id: las anteriores quedan invalidadas */
@@ -710,7 +713,7 @@ body.ask-chrome .chrome-ask{display:flex;}
     sv.dataset.listo = '1';
     sv.addEventListener('change', function(){
       vel = parseFloat(sv.value) || velDef();
-      try { localStorage.setItem('brief-vel-' + lang(), String(vel)); } catch(e){}
+      try { localStorage.setItem(velKey(), String(vel)); } catch(e){}
       if (st !== 'idle'){ SS.cancel(); st = 'playing'; siguiente(); }   /* re-lee al ritmo nuevo */
     });
   }
