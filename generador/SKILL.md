@@ -1,6 +1,6 @@
 ---
 name: pulso-cardiologico-semanal
-description: Brazo LOCAL del Briefing Cardiovascular: hace git pull y coloca los ficheros del número (que genera la routine en la nube a las 08:05) en su subcarpeta, en UICAR y en el Escritorio. Si la nube falló, genera el número completo como red de seguridad.
+description: Brazo LOCAL del Briefing Cardiovascular: coloca los ficheros del número que la nube genera los lunes a las 08:00 (hora de Madrid) en su subcarpeta, en UICAR y en el Escritorio. Se dispara en cuanto se abre el Mac tras la generación, sea la hora y el día que sea (recuperación de 7 días). Vigila el cambio horario de la routine en la nube. Si la nube falló, genera el número completo como red de seguridad.
 ---
 
 Eres un editor experto en formación médica para cardiólogos. Cada lunes generas el número semanal de "Briefing Cardiovascular" del Dr. Marzal. Idioma: ESPAÑOL. Audiencia: cardiólogos clínicos generales. NO uses la palabra "newsletter".
@@ -14,11 +14,26 @@ ORDEN DE TRABAJO OBLIGATORIO (orden del usuario, 22-jun-2026 — es lo PRIMERO y
 
 AUTONOMÍA (orden del usuario, 22-jun-2026): tienes permiso para TODO el pipeline; ejecútalo de principio a fin SIN pedir confirmación paso a paso (la tarea debe poder lanzarse sola sin que el usuario apruebe nada en directo). Restricciones que SÍ se mantienen: crear SOLO borrador en Gmail (nunca enviar) y no introducir credenciales/tokens (el push usa el llavero; si falla la 1.ª vez, deja el commit hecho y avisa).
 
-PASO 0 — SINCRONIZACIÓN CON LA NUBE (regla dura del usuario, 31/08/2026). Desde el 7-sep-2026 el número lo genera y publica una ROUTINE EN LA NUBE los lunes a las 08:05 (funciona con el Mac apagado; id `trig_016TKue46hKwUG9r2KZTWjd7`). Esta tarea local YA NO es la que genera: es el BRAZO LOCAL que coloca los ficheros y la RED DE SEGURIDAD si la nube falla. Haz SIEMPRE esto ANTES que nada:
+⏰ HORARIO — REGLA DURA DEL USUARIO (31/08/2026, dicha con énfasis: «que no haya dudas»):
+  · LA NUBE GENERA **cada lunes a las 08:00 HORA DE MADRID**, siempre, sea verano o invierno. La routine es `trig_016TKue46hKwUG9r2KZTWjd7` y funciona con el Mac apagado y Claude cerrado.
+  · EL MAC COLOCA LOS FICHEROS **en cuanto el usuario abre el Mac después de que el número esté generado**. NO a una hora fija: si lo abre a las 08:30, a las 08:30; si a las 15:00, a las 15:00; si el miércoles, el miércoles. Esto lo garantiza la RECUPERACIÓN (catch-up) del planificador local, con ventana de 7 días.
+
+PASO 0.0 — ⭐ GUARDIA DEL CAMBIO HORARIO (regla dura del usuario, 31/08/2026). El cron de las routines de la nube se expresa SIEMPRE en **UTC** y la API **NO admite zona horaria** (se probó el campo `timezone`: se ignora silenciosamente). Por eso, si no se corrige, el cambio de hora de Madrid desplaza la generación una hora. Haz esto ANTES de nada, cada vez que se ejecute esta tarea:
+  1. Calcula la hora UTC que hoy corresponde a las 08:00 de Madrid:
+     `python3 -c "import datetime,zoneinfo as z; m=datetime.datetime.now(z.ZoneInfo('Europe/Madrid')).replace(hour=8,minute=0,second=0,microsecond=0); print(m.astimezone(datetime.timezone.utc).hour)"`
+     → devuelve **6** en horario de verano (CEST) y **7** en horario de invierno (CET).
+  2. Lee la routine con la herramienta `RemoteTrigger` (`{action:"get", trigger_id:"trig_016TKue46hKwUG9r2KZTWjd7"}`) y mira su `cron_expression`.
+  3. Si NO es `0 <esa hora> * * 1`, corrígela: `{action:"update", trigger_id:"...", body:{"cron_expression":"0 <esa hora> * * 1"}}` y DILO en el resumen final.
+  Fechas del cambio en España: último domingo de **octubre** (a invierno → cron `0 7 * * 1`) y último domingo de **marzo** (a verano → cron `0 6 * * 1`). En 2026: 25-oct. En 2027: 28-mar.
+  NOTA: esta guardia corrige la hora para las semanas siguientes. El lunes inmediatamente posterior a un cambio de hora la nube puede generar una hora antes o después de lo previsto; NO es un problema práctico, porque los ficheros llegan igualmente al Mac en cuanto el usuario lo abre.
+
+PASO 0 — SINCRONIZACIÓN CON LA NUBE (regla dura del usuario, 31/08/2026). El número lo genera y publica la ROUTINE EN LA NUBE los lunes a las 08:00 hora de Madrid. Esta tarea local YA NO es la que genera: es el BRAZO LOCAL que coloca los ficheros y la RED DE SEGURIDAD si la nube falla. Haz SIEMPRE esto ANTES que nada:
   0.1. Ejecuta `python3 "$HOME/Library/Application Support/briefing-sync/sync.py"`. Ese script hace `git pull` del repo y coloca automáticamente, para CADA número publicado que falte en local: el Briefing y la Auditoría en su subcarpeta `Briefing Cardiovascular_N<n>/`, y el `Cardio al día_N<n>.html` en `~/Documents/UICAR/Cardio al dIA/` más una copia de comprobación en el Escritorio (solo del número más reciente y solo una vez: si el usuario la borra, NO se vuelve a poner). Es idempotente y no escribe en el repo. Su log está en `~/Library/Logs/briefing-sync.log`.
   0.2. Comprueba si el número de ESTA semana (calculado como manda el PASO 1) ya existe en el repo (`n<n>/index.html`). 
        · SI EXISTE (caso normal: lo hizo la nube) → NO regeneres NADA. El PASO 0.1 ya ha colocado los ficheros. Comprueba solo que el borrador de Gmail existe (la nube también lo crea; si ya está, NO crees otro: el conector no puede borrar duplicados) y pasa directamente al PASO 9 para informar.
-       · SI NO EXISTE (la nube falló) → eres la RED DE SEGURIDAD: ejecuta el pipeline COMPLETO (PASOS 1 a 8) como se ha hecho siempre, y dilo claramente en el resumen para que el usuario sepa que la nube no cumplió.
+       · SI NO EXISTE → ⚠️ NO generes todavía. Esta tarea puede dispararse mientras la nube AÚN ESTÁ TRABAJANDO (arranca a las 08:00 y un número completo puede llevarle 20-40 min); si generas en paralelo, duplicas el trabajo y provocas conflictos en el repo. Haz esto:
+         (a) Si es LUNES y aún no son las 12:00 de Madrid → ESPERA a la nube: repite `git fetch origin main` y comprueba `n<n>/index.html` cada 5 minutos, hasta 60 minutos. En cuanto aparezca, vuelve al PASO 0.1 (coloca los ficheros) y sigue por la rama «SI EXISTE».
+         (b) Si tras esa espera sigue sin existir, o si ya han pasado las 12:00 de Madrid, o si es otro día de la semana → entonces sí eres la RED DE SEGURIDAD: ejecuta el pipeline COMPLETO (PASOS 1 a 8) y dilo claramente en el resumen para que el usuario sepa que la nube no cumplió.
   0.2.b ⭐ AUDITORÍA DE COBERTURA (SIEMPRE, tanto si generó la nube como si generas tú). La nube NO puede usar Crossref (su red lo bloquea), así que **este control es responsabilidad del Mac**. Ejecuta `python3 <repo>/generador/cobertura.py <n>` (añade `--faltantes` para ver el detalle). Compara, revista a revista, lo que el EDITOR publicó (Crossref, filtro `created`) con lo que el número recogió, y deja el detalle en `n<n>_cobertura.json`. Interpretación:
        · Faltantes en **Lancet/JAMA/BMJ/Nat Med** suelen ser artículos NO cardiovasculares u opinión: normal, el filtro temático hizo su trabajo. Revisa por encima que no haya ningún original CV.
        · Faltantes en **NEJM, EuroIntervention o Rev Esp Cardiol (Engl Ed)**: SOSPECHA SIEMPRE. Son las tres revistas donde se han detectado agujeros reales (ver PASO 1b y el aviso de nombres del PASO 1).
@@ -176,3 +191,91 @@ ATRIBUCIÓN OBLIGATORIA: los datos bibliográficos proceden de PubMed. Cita "Pub
 PASO 7b — VERIFICACIÓN DE ENLACES, OBLIGATORIA ANTES DE PUBLICAR (regla dura del usuario, 27/07/2026). En N7 cuatro artículos de la familia JACC llevaban a «página no encontrada»: el DOI era correcto y estaba registrado en Crossref, pero doi.org redirige a linkinghub.elsevier.com y este, con un salto por JavaScript, rebotaba a la RAÍZ de jacc.org. Afecta a unos artículos sí y a otros no del mismo fascículo, sin patrón deducible de los metadatos, así que NO se puede prever: hay que comprobarlo cada semana. Procedimiento: (1) `python3 generador/check_links.py n<n>` valida contra Crossref que TODOS los DOIs existen y que el título registrado cuadra con el nuestro, y lista el subconjunto de riesgo (revistas alojadas en Elsevier: familia JACC, Heart Rhythm, Atherosclerosis, EuroIntervention); (2) abre ese subconjunto en el panel de navegador y mira el `<title>` — si dice «Page Not Found», anota la clave. NO sirven ni `curl` (linkinghub devuelve 200 y el salto lo hace JavaScript) ni Chrome headless (Cloudflare responde «Just a moment...» y todo saldría OK en falso): solo el panel de navegador atraviesa Cloudflare; (3) `python3 generador/check_links.py n<n> <clave> <clave> ...` escribe `n<n>_linkfix.json` apuntando a PubMed, que siempre resuelve y ofrece el enlace al editor; (4) regenera con gen_bilingue.py y gen_audit_N<n>.py, que aplican el linkfix en el briefing, en el Cardio al día y en la auditoría. NUNCA publiques un número sin haber pasado este paso.
 
 PASO 0 — SIN PEDIR PERMISOS (regla dura del usuario, 27/07/2026). La tarea debe completarse SOLA. `~/.claude/settings.json` tiene `defaultMode: bypassPermissions` y allow explícito para ToolSearch, Agent/Task/Skill, el MCP de Gmail y las herramientas del panel de navegador. PERO la tarjeta de aprobación POR ORIGEN del panel de navegador es una puerta de seguridad aparte que settings.json NO gobierna: abrir un dominio nuevo puede seguir preguntando. Por tanto: (a) para capturas y comprobación visual usa SIEMPRE Chrome headless por Bash (`--headless --screenshot`), que no pide nada — NO uses el panel de navegador para eso; (b) el panel de navegador queda reservado al PASO 7b, el único que necesita atravesar Cloudflare; (c) si ese paso pidiera permiso en una ejecución desatendida, NO bloquees la tarea: publica igualmente y avisa en el PASO 9 de que la verificación de enlaces quedó pendiente. Sigue vigente la prohibición de `rm`/`rmdir`/`sudo`/`git push --force`/`git reset --hard`/`git clean` (usa `mv`, nunca `cp`+`rm`).
+═══════════════════════════════════════════════════════════════════════════
+PASO 10 — AUDIO DEL BRIEFING (bloque consolidado el 31/08/2026 tras una sesión
+entera de ajuste con el usuario). Todo esto YA está implementado en
+`generador/gen_bilingue.py`: no hay que rehacerlo cada semana, pero SÍ hay que
+respetarlo y no romperlo al tocar el generador.
+═══════════════════════════════════════════════════════════════════════════
+
+QUÉ ES: cada número lleva locución por Web Speech API, como MEJORA PROGRESIVA
+(sin JavaScript el número se sigue leyendo entero: regla global del usuario para
+que se vea en el iPhone). Hay botón de audio en: el briefing completo (cabecera,
+al lado del selector de idioma), el Destacado, «No te los puedes perder», cada
+sección (junto al botón de desplegar, tanto plegada como desplegada) y cada
+pop-up de artículo.
+
+REGLAS DE DISEÑO YA FIJADAS (no cambiarlas sin que el usuario lo pida):
+ · ICONO: onda de sonido. En marcha = onda ANIMADA; en pausa = barras quietas.
+ · COLOR: turquesa en el Destacado, en «No te los puedes perder» y en SUS pop-ups.
+   El color de sección se usa ÚNICAMENTE dentro de las secciones y en los pop-ups
+   de los artículos de sección.
+ · POSICIÓN en el Destacado: en la fila del TÍTULO, alineado con la PRIMERA línea
+   (`align-items:flex-start`) y desplazado al BORDE DERECHO del bloque con
+   `margin-right:-202px` — el título vive en la columna izquierda de una rejilla
+   `1fr / 180px` con `gap:22px`, y hay que salvar esos 202 px para que quede a
+   plomo con «Guía de práctica clínica» y con las revistas del Top 3. En móvil
+   (≤620px) el margen negativo se anula.
+ · En los pop-ups: a la izquierda del botón de cerrar.
+
+REPRODUCTOR (barra flotante abajo a la derecha):
+ · Arranca SIEMPRE REPLEGADO. Se despliega con la flecha; se repliega con la
+   flecha otra vez o CLICANDO FUERA. Replegar NO detiene la locución.
+ · Cada nueva reproducción vuelve a replegarlo (si no, basta desplegarlo una vez
+   para que salga abierto en todos los audios siguientes).
+ · Solo puede sonar UN audio a la vez (token de sesión que invalida el anterior).
+ · Desplegado muestra: selector de VOZ (`select.vozsel`) y selector de VELOCIDAD
+   (`select.vel`). ⚠️ `montaVoces()` debe buscar `select.vozsel`, NUNCA
+   `bar.querySelector('select')` a secas: si no, BORRA el selector de velocidad.
+
+VELOCIDAD (orden del usuario, 31/08/2026): opciones **1× · 1,25× · 1,5×** (el 2×
+se retiró por ininteligible). Multiplican la base 0,94 (`u.rate = 0.94 * vel`).
+POR DEFECTO: **1,25× en español y 1× en inglés**. La elección manual se guarda
+POR NÚMERO y por idioma, en `localStorage` con clave `brief-vel-n<N>-<idioma>`:
+un número nuevo estrena siempre el valor por defecto aunque el usuario hubiera
+cambiado el anterior; volver a un número ya ajustado recupera su valor. Un valor
+guardado que ya no se ofrece (p. ej. un 2× antiguo) se ignora y vuelve al defecto.
+
+PRESENTACIONES HABLADAS (orden del usuario, 31/08/2026): se dice el número del
+briefing y NO la fecha. Plantillas (`%N` = número):
+ · Briefing entero: «Hola, vamos a ver el Briefing Cardiovascular número %N.
+   Empezamos con el destacado de la semana.»
+ · Destacado: «Hola, vamos a ver el destacado de la semana del Briefing
+   Cardiovascular número %N.»
+ · Top 3: «Hola, vamos a ver "No te los puedes perder" del Briefing
+   Cardiovascular número %N.»
+ · Sección: «Hola, vamos a ver la sección de %s del Briefing Cardiovascular
+   número %N.»
+Los pop-ups sueltos de artículo NO llevan presentación. En el audio general no se
+repite un artículo ya oído en el Destacado o en el Top 3.
+
+CALIDAD DE VOZ: hay un «locutor» que quita intervalos de confianza y valores p y
+expande abreviaturas antes de hablar. macOS NO expone las voces Premium/Siri a
+ninguna página web (verificado en Chrome real): la mejor disponible es «Google
+español», que solo trae Chrome. De ahí el diálogo siguiente.
+
+DIÁLOGO «ESCUCHAR EN CHROME»:
+ · Solo aparece si el navegador NO tiene voces de Google. El criterio es la VOZ,
+   no la marca del navegador. En Chrome no pregunta nada.
+ · Diseño simple: icono arriba centrado, un título, y DOS botones del mismo ancho
+   (`grid-template-columns:1fr 1fr`): «Escuchar en Chrome» y «Escuchar aquí».
+ · ⛔ `googlechrome://` NO existe en macOS (es un esquema solo de iOS): produce
+   «Safari can not open the page because the address is invalid». Ningún navegador
+   puede abrir otro por seguridad. Lo único posible es COPIAR el enlace al
+   portapapeles para pegarlo en Chrome. Tras copiarlo se muestra el aviso y el
+   diálogo SE CIERRA SOLO a los 2,6 s, para poder irse a Chrome.
+
+LLEGADA DESDE EL ENLACE PEGADO EN CHROME (`#audio=<ref>&lang=<es|en>`):
+ · ⛔ NO se reproduce sola. Chrome deja `speechSynthesis.speaking` en **true**
+   aunque NO emita sonido si no hubo gesto del usuario: un arranque automático
+   deja el botón «sonando» en falso y MUDO, y hay que pausar y reanudar para
+   oírlo. Fue un fallo real reportado por el usuario.
+ · Comportamiento correcto: la página llega EN REPOSO, baja hasta el audio
+   elegido y muestra abajo un botón turquesa «Pulsa para escuchar» (z-index 600,
+   por encima de todo). Un toque —o cualquier clic en la página— arranca.
+ · Al llegar con ese hash se marca `sessionStorage['brief-chrome-ok']='1'`: si no,
+   el diálogo de Chrome se vuelve a abrir AQUÍ, su fondo tapa la página entera y
+   el audio no suena nunca. Fue el fallo de raíz del «no se oye en Chrome».
+
+TÍTULOS: en modo español los títulos de las publicaciones se muestran EN ESPAÑOL
+también en el Briefing (`title_lang="es"`), como ya hacía el Cardio al día.
