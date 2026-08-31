@@ -336,6 +336,7 @@ body.audio-live .abar{display:flex;}
 
   /* --- reproducción --- */
   var bar = document.querySelector('.abar'), barTxt = bar && bar.querySelector('.txt');
+  /* la voz se puede cambiar en cualquier momento en que la barra esté visible */
   function pinta(){
     document.querySelectorAll('.abtn').forEach(function(b){ b.classList.remove('on','live','paused'); });
     document.body.classList.toggle('audio-live', st !== 'idle');
@@ -374,14 +375,20 @@ body.audio-live .abar{display:flex;}
   }, true);
 
   /* al cambiar de idioma o cerrar el pop-up, se detiene: el texto ya no es el mismo */
-  document.querySelectorAll('.lang button').forEach(function(x){ x.addEventListener('click', function(){ voz = null; parar(); }); });
+  document.querySelectorAll('.lang button').forEach(function(x){
+    x.addEventListener('click', function(){ voz = null; parar(); setTimeout(montaVoces, 60); });
+  });
   window.addEventListener('beforeunload', function(){ SS.cancel(); });
   if (SS.onvoiceschanged !== undefined) SS.onvoiceschanged = function(){};
 
   /* selector de voz: aparece en la barra si el sistema ofrece más de una */
   function montaVoces(){
-    if (!bar || bar.querySelector('select')) return;
-    var vs = voces(); if (vs.length < 2) return;
+    if (!bar) return;
+    var viejo = bar.querySelector('select');
+    var vs = voces();
+    if (vs.length < 2){ if (viejo) viejo.remove(); return; }
+    /* se RECONSTRUYE siempre: al cambiar de idioma y cuando el sistema añade voces nuevas */
+    if (viejo) viejo.remove();
     var sel = document.createElement('select');
     sel.setAttribute('aria-label', T('voz'));
     sel.style.cssText = 'background:rgba(255,255,255,.16);color:#fff;border:none;border-radius:15px;font:inherit;font-size:11.5px;padding:5px 8px;max-width:130px;cursor:pointer';
@@ -395,7 +402,9 @@ body.audio-live .abar{display:flex;}
     bar.insertBefore(sel, bar.querySelector('button'));
   }
   setTimeout(montaVoces, 400);
-  if (SS.onvoiceschanged !== undefined) SS.addEventListener && SS.addEventListener('voiceschanged', montaVoces);
+  setTimeout(montaVoces, 1500);          /* getVoices() se puebla en diferido en Safari */
+  if (SS.addEventListener) SS.addEventListener('voiceschanged', montaVoces);
+  else SS.onvoiceschanged = montaVoces;
  })();
 
 })();
