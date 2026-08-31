@@ -181,10 +181,11 @@ body.has-audio .abtn{display:inline-flex;}
 @media (prefers-reduced-motion:reduce){.abtn.live .wv line{animation:none;}}
 /* en la cabecera, sobre fondo navy */
 .mast .abtn{color:#bdeaeb;border:1px solid rgba(255,255,255,.32);}
-/* Destacado: el rótulo de la izquierda crece, y el tipo de artículo y el botón
-   quedan juntos a la derecha (como en No te los puedes perder) */
-.destacado .d-top .d-kicker{flex-grow:1;}
-.destacado .d-top .abtn{margin-left:4px;}
+/* Destacado: el botón se alinea con el TÍTULO y queda a la altura de su PRIMERA
+   línea aunque el título ocupe varias (align-items:flex-start) */
+.d-h2row{display:flex;align-items:flex-start;gap:14px;}
+.d-h2row h2{flex-grow:1;min-width:0;}
+.d-h2row .abtn{margin-top:3px;}
 /* Top 3: sobre fondo navy, en verde claro para que se lea */
 .top3 .t3h{display:flex;align-items:center;}
 .top3 .t3h h3{flex-grow:1;min-width:0;}
@@ -219,18 +220,18 @@ body.audio-live .abar{display:flex;}
 .chrome-ask{position:fixed;inset:0;z-index:500;display:none;align-items:center;justify-content:center;padding:24px;}
 body.ask-chrome .chrome-ask{display:flex;}
 .chrome-ask .bg{position:absolute;inset:0;background:rgba(16,21,31,.55);}
-.chrome-ask .box{position:relative;z-index:1;background:#fff;max-width:440px;width:100%;border-radius:16px;padding:28px 30px 24px;box-shadow:0 20px 56px rgba(10,61,98,.34);text-align:left;}
-.chrome-ask .hd{display:flex;align-items:center;gap:13px;margin-bottom:13px;}
-.chrome-ask .ic{width:42px;height:42px;flex:0 0 42px;border-radius:50%;background:var(--teal-soft);display:flex;align-items:center;justify-content:center;}
-.chrome-ask h4{margin:0;font-size:18px;color:var(--titulo);font-weight:800;letter-spacing:-.01em;}
+.chrome-ask .box{position:relative;z-index:1;background:#fff;max-width:380px;width:100%;border-radius:16px;padding:26px 26px 22px;box-shadow:0 20px 56px rgba(10,61,98,.34);text-align:center;}
+.chrome-ask .hd{display:flex;flex-direction:column;align-items:center;gap:12px;margin-bottom:2px;}
+.chrome-ask .ic{width:46px;height:46px;flex:0 0 46px;border-radius:50%;background:var(--teal-soft);display:flex;align-items:center;justify-content:center;}
+.chrome-ask h4{margin:0;font-size:16.5px;color:var(--titulo);font-weight:800;letter-spacing:-.01em;line-height:1.35;}
 .chrome-ask p{margin:0 0 8px;font-size:14px;color:var(--gris);line-height:1.55;text-align:justify;}
-.chrome-ask .acts{display:flex;gap:10px;margin-top:18px;flex-wrap:wrap;}
-.chrome-ask button{font-family:inherit;border:none;border-radius:9px;padding:11px 16px;font-size:13.5px;font-weight:700;cursor:pointer;}
-.chrome-ask .go{background:var(--navy);color:#fff;flex-grow:1;}
+.chrome-ask .acts{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:20px;}
+.chrome-ask button{font-family:inherit;border:none;border-radius:10px;padding:12px 10px;font-size:13.5px;font-weight:700;cursor:pointer;width:100%;}
+.chrome-ask .go{background:var(--navy);color:#fff;}
 .chrome-ask .go:hover{background:#08324f;}
 .chrome-ask .stay{background:#eef3f6;color:var(--gris);}
 .chrome-ask .stay:hover{background:#e2eaef;}
-.chrome-ask .copied-msg{display:none;margin:14px 0 0;font-size:13px;color:var(--teal);font-weight:700;text-align:left;line-height:1.5;}
+.chrome-ask .copied-msg{display:none;margin:16px 0 0;font-size:13px;color:var(--teal);font-weight:700;text-align:center;line-height:1.5;}
 .chrome-ask .box.copied .copied-msg{display:block;}
 
 .modal-body ul.mnov li{margin:6px 0;text-align:justify;}
@@ -292,7 +293,7 @@ def modal(a):
           + blk(l3, e.get("conclusiones",""), n.get("conclusiones","")))
     mt = '<h3 class="modal-title" data-es="%s" data-en="%s">%s</h3>' % (ae(es if VAR["title_lang"]=="es" else en), ae(en), he(es if VAR["title_lang"]=="es" else en))
     return ('<input type="checkbox" id="%s" class="mcb"><div class="cmodal"><label class="cmodal-bg" for="%s"></label>'
-            '<div class="cmodal-box"><div class="cmodal-head"><div class="modal-type">%s</div>' + abtn("art", a["key"], SECTION_COLORS[a["sec"]]) + '<label class="cmodal-x" for="%s" aria-label="Cerrar">&times;</label></div>'
+            '<div class="cmodal-box"><div class="cmodal-head"><div class="modal-type">%s</div>' + abtn("art", a["key"], "" if (a["key"] == DESTACADO_KEY or a["key"] in TOP3) else SECTION_COLORS[a["sec"]]) + '<label class="cmodal-x" for="%s" aria-label="Cerrar">&times;</label></div>'
             '%s<div class="modal-body">%s</div>'
             '<div class="modal-links">%s</div></div></div>') % (cid, cid, ptype_span(a), cid, mt, body, jl(a))
 
@@ -359,8 +360,8 @@ def build(variant):
       '<text x="64" y="120" font-size="14" font-weight="800" fill="#fff" text-anchor="middle">86%</text><text x="136" y="120" font-size="14" font-weight="800" fill="#fff" text-anchor="middle">83%</text>'
       '<text x="64" y="148" font-size="11" font-weight="700" fill="#0a3d62" text-anchor="middle">TAVR</text><text x="136" y="148" font-size="11" font-weight="700" fill="#0f9aa0" text-anchor="middle" data-es="Cirugía" data-en="Surgery">Cirugía</text>'
       '<text x="100" y="172" font-size="9.5" fill="#8c97a6" text-anchor="middle">HR 1,13 (1,02-1,25)</text></svg>')
-    destacado = ('<div class="destacado"><div class="d-top"><span class="d-kicker">%s</span>%s' + abtn("art", DESTACADO_KEY) + '</div>'
-      '<div class="d-grid"><div class="d-text"><h2><label class="ml" for="cb-a-%s" data-es="%s" data-en="%s">%s</label></h2>'
+    destacado = ('<div class="destacado"><div class="d-top"><span class="d-kicker">%s</span>%s</div>'
+      '<div class="d-grid"><div class="d-text"><div class="d-h2row"><h2><label class="ml" for="cb-a-%s" data-es="%s" data-en="%s">%s</label></h2>' + abtn("art", DESTACADO_KEY) + '</div>'
       '<p>%s</p><p class="why"><b>%s</b> %s</p><div class="jwrap">%s</div></div>'
       '%s</div></div>') % (
       T("★ Destacado de la semana","★ Highlight of the week"), ptype_span(dest), DESTACADO_KEY,
@@ -373,17 +374,24 @@ def build(variant):
     AUDIO_DATA = ('<script>window.BRIEF_AUDIO=' + json.dumps({
         "dest": DESTACADO_KEY, "top3": list(TOP3), "secs": _sec_keys,
         "names": {"es": SECES, "en": SECEN},
+        "num": NUM.replace("Nº", "").strip(), "per": {"es": PERIOD[0], "en": PERIOD[1]},
         "i18n": {
-          "es": {"dest": "Vamos a comenzar con la publicación destacada de la semana.",
+          "es": {"hola": "Hola. Vamos a comenzar el Briefing Cardiovascular número %N, del %P. Empezamos con el destacado de la semana.",
+                 "dest": "Vamos a comenzar con la publicación destacada de la semana.",
+                 "destOnly": "Destacado de la semana del Briefing Cardiovascular número %N, del %P.",
                  "top3": "Continuamos con las publicaciones que no te puedes perder.",
+                 "top3Only": "Apartado «No te los puedes perder» del Briefing Cardiovascular número %N, del %P.",
                  "sec": "Continuamos con la sección de %s.",
-                 "secOnly": "Sección de %s.",
-                 "end": "Fin del briefing.", "lang": "es-ES", "voz": "Voz"},
-          "en": {"dest": "Let us begin with the highlight of the week.",
+                 "secOnly": "Sección de %s. Briefing Cardiovascular número %N, del %P.",
+                 "end": "Aquí termina el briefing. Hasta la semana que viene.", "lang": "es-ES", "voz": "Voz"},
+          "en": {"hola": "Hello. This is Briefing Cardiovascular number %N, covering %P. We begin with the highlight of the week.",
+                 "dest": "Let us begin with the highlight of the week.",
+                 "destOnly": "Highlight of the week. Briefing Cardiovascular number %N, covering %P.",
                  "top3": "Next, the articles you should not miss.",
+                 "top3Only": "The articles you should not miss. Briefing Cardiovascular number %N, covering %P.",
                  "sec": "Now the section on %s.",
-                 "secOnly": "Section: %s.",
-                 "end": "End of the briefing.", "lang": "en-GB", "voz": "Voice"}}
+                 "secOnly": "Section: %s. Briefing Cardiovascular number %N, covering %P.",
+                 "end": "That is the end of the briefing. See you next week.", "lang": "en-GB", "voz": "Voice"}}
     }, ensure_ascii=False) + ';</script>')
     root = ":root{"+VAR["root"]+"}"
     HTML = ('<!DOCTYPE html><html lang="es"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">'
@@ -404,7 +412,6 @@ def build(variant):
       '<div class="chrome-ask" role="dialog" aria-modal="true"><div class="bg" data-ck="stay"></div><div class="box">'
       '<div class="hd"><div class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0f9aa0" stroke-width="1.8" stroke-linecap="round"><line x1="4.5" y1="10" x2="4.5" y2="14"/><line x1="8.2" y1="7.4" x2="8.2" y2="16.6"/><line x1="12" y1="5" x2="12" y2="19"/><line x1="15.8" y1="7.4" x2="15.8" y2="16.6"/><line x1="19.5" y1="10" x2="19.5" y2="14"/></svg></div>'
       '<h4 class="i18n" data-es="Se escucha mucho mejor en Chrome" data-en="It sounds much better in Chrome">Se escucha mucho mejor en Chrome</h4></div>'
-      '<p class="i18n" data-es="El audio usa las voces que instala tu navegador. A día de hoy, Chrome incorpora voces propias de Google, bastante más naturales que las que trae el sistema; este navegador solo ofrece las básicas." data-en="The audio uses the voices your browser provides. As of today, Chrome ships Google’s own voices, considerably more natural than the system ones; this browser only offers the basic set.">El audio usa las voces que instala tu navegador. A día de hoy, Chrome incorpora voces propias de Google, bastante más naturales que las que trae el sistema; este navegador solo ofrece las básicas.</p>'
       '<div class="acts"><button class="go" data-ck="go"><span class="i18n" data-es="Escuchar en Chrome" data-en="Listen in Chrome">Escuchar en Chrome</span></button>'
       '<button class="stay" data-ck="stay"><span class="i18n" data-es="Escuchar aquí" data-en="Listen here">Escuchar aquí</span></button></div>'
       '<p class="copied-msg"></p>'
@@ -530,7 +537,10 @@ SCRIPT = """<script>
     return s;
   }
 
-  function T(k){ return D.i18n[lang()][k]; }
+  function T(k){
+    var s = D.i18n[lang()][k] || '';
+    return s.replace('%N', D.num).replace('%P', D.per[lang()]);
+  }
   function clean(s){ return (s||'').replace(/\s+/g,' ').replace(/ /g,' ').trim(); }
 
   /* --- voces: elige la mejor del idioma y recuerda la preferida --- */
@@ -634,7 +644,7 @@ SCRIPT = """<script>
       txt.forEach(function(s, i){ out.push({ t: s, e: et, brk: i === txt.length - 1 }); });
     }
     if (m === 'all'){
-      out.push({ t: T('dest'), e: '★', intro: true });
+      out.push({ t: T('hola'), e: '★', intro: true });
       var d = ficha(D.dest); if (d){ push(d, '★'); dicho[D.dest] = 1; }
       out.push({ t: T('top3'), e: '★', intro: true });
       D.top3.forEach(function(k){ var f = ficha(k); if (f){ push(f, '★'); dicho[k] = 1; } });
@@ -646,13 +656,15 @@ SCRIPT = """<script>
       }
       push(T('end'), '');
     } else if (m === 'top3'){
-      out.push({ t: T('top3'), e: '★', intro: true });
+      out.push({ t: T('top3Only'), e: '★', intro: true });
       D.top3.forEach(function(k){ push(ficha(k), '★'); });
     } else if (m === 'sec'){
       var n = parseInt(r, 10);
       out.push({ t: T('secOnly').replace('%s', nombreSec(n)), e: nombreSec(n), intro: true });
       (D.secs[n] || []).forEach(function(k){ var f = ficha(k); if (f) push(f, nombreSec(n)); });
     } else {
+      /* Un artículo suelto no lleva presentación... salvo el Destacado, que sí la merece */
+      if (r === D.dest) out.push({ t: T('destOnly'), e: '★', intro: true });
       var f2 = ficha(r); if (f2) push(f2, '');
     }
     return out;
