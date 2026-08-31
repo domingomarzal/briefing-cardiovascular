@@ -181,6 +181,15 @@ body.has-audio .abtn{display:inline-flex;}
 @media (prefers-reduced-motion:reduce){.abtn.live .wv line{animation:none;}}
 /* en la cabecera, sobre fondo navy */
 .mast .abtn{color:#bdeaeb;border:1px solid rgba(255,255,255,.32);}
+/* Destacado: el botón acompaña al título, arriba a la derecha aunque el título ocupe varias líneas */
+.d-h2row{display:flex;align-items:flex-start;gap:12px;}
+.d-h2row h2{flex-grow:1;min-width:0;}
+.d-h2row .abtn{margin-top:2px;}
+/* Top 3: sobre fondo navy, en verde claro para que se lea */
+.top3 .t3h{display:flex;align-items:center;}
+.top3 .t3h h3{flex-grow:1;min-width:0;}
+.top3 .t3h .abtn{color:#bdeaeb;}
+.top3 .t3h .abtn:hover{background:rgba(255,255,255,.16);}
 .sec-head-row{display:flex;align-items:center;}
 .sec-head-row .sec-head{flex-grow:1;min-width:0;}
 .sec-head-row .abtn{margin:0 4px 0 8px;}
@@ -205,9 +214,10 @@ body.audio-live .abar{display:flex;}
 body.ask-chrome .chrome-ask{display:flex;}
 .chrome-ask .bg{position:absolute;inset:0;background:rgba(16,21,31,.55);}
 .chrome-ask .box{position:relative;z-index:1;background:#fff;max-width:440px;width:100%;border-radius:16px;padding:28px 30px 24px;box-shadow:0 20px 56px rgba(10,61,98,.34);text-align:left;}
-.chrome-ask .ic{width:42px;height:42px;border-radius:50%;background:var(--teal-soft);display:flex;align-items:center;justify-content:center;margin-bottom:14px;}
-.chrome-ask h4{margin:0 0 8px;font-size:18px;color:var(--titulo);font-weight:800;letter-spacing:-.01em;}
-.chrome-ask p{margin:0 0 8px;font-size:14px;color:var(--gris);line-height:1.55;text-align:left;}
+.chrome-ask .hd{display:flex;align-items:center;gap:13px;margin-bottom:13px;}
+.chrome-ask .ic{width:42px;height:42px;flex:0 0 42px;border-radius:50%;background:var(--teal-soft);display:flex;align-items:center;justify-content:center;}
+.chrome-ask h4{margin:0;font-size:18px;color:var(--titulo);font-weight:800;letter-spacing:-.01em;}
+.chrome-ask p{margin:0 0 8px;font-size:14px;color:var(--gris);line-height:1.55;text-align:justify;}
 .chrome-ask .acts{display:flex;gap:10px;margin-top:18px;flex-wrap:wrap;}
 .chrome-ask button{font-family:inherit;border:none;border-radius:9px;padding:11px 16px;font-size:13.5px;font-weight:700;cursor:pointer;}
 .chrome-ask .go{background:var(--navy);color:#fff;flex-grow:1;}
@@ -241,7 +251,7 @@ def abtn(kind, ref="", color="", extra=""):
     color: color CSS a heredar (el de la sección cuando procede)."""
     sty = (' style="color:%s"' % color) if color else ""
     lab = {"art": "Escuchar este artículo", "sec": "Escuchar esta sección",
-           "all": "Escuchar el briefing"}[kind]
+           "all": "Escuchar el briefing", "top3": "Escuchar los tres destacados"}[kind]
     return ('<button class="abtn" type="button" data-a="%s" data-ref="%s" aria-label="%s"%s%s>'
             '<svg class="ic-w wv" width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true">'
             '<line x1="4.5" y1="10" x2="4.5" y2="14"/><line x1="8.2" y1="7.4" x2="8.2" y2="16.6"/>'
@@ -343,7 +353,7 @@ def build(variant):
       '<text x="64" y="148" font-size="11" font-weight="700" fill="#0a3d62" text-anchor="middle">TAVR</text><text x="136" y="148" font-size="11" font-weight="700" fill="#0f9aa0" text-anchor="middle" data-es="Cirugía" data-en="Surgery">Cirugía</text>'
       '<text x="100" y="172" font-size="9.5" fill="#8c97a6" text-anchor="middle">HR 1,13 (1,02-1,25)</text></svg>')
     destacado = ('<div class="destacado"><div class="d-top"><span class="d-kicker">%s</span>%s</div>'
-      '<div class="d-grid"><div class="d-text"><h2><label class="ml" for="cb-a-%s" data-es="%s" data-en="%s">%s</label></h2>'
+      '<div class="d-grid"><div class="d-text"><div class="d-h2row"><h2><label class="ml" for="cb-a-%s" data-es="%s" data-en="%s">%s</label></h2>' + abtn("art", DESTACADO_KEY) + '</div>'
       '<p>%s</p><p class="why"><b>%s</b> %s</p><div class="jwrap">%s</div></div>'
       '%s</div></div>') % (
       T("★ Destacado de la semana","★ Highlight of the week"), ptype_span(dest), DESTACADO_KEY,
@@ -375,7 +385,7 @@ def build(variant):
       '<div class="langwrap"><div class="lang"><button data-l="es" class="on">ESP</button><button data-l="en">ENG</button></div>' + abtn("all") + '</div>' +
       '<div class="mast-meta"><span class="periodo" data-es="%s" data-en="%s">%s</span><span class="num">%s</span></div>'
       '</div><div class="mast-rule"></div></div><main>%s'
-      '<div class="top3"><div class="t3h"><span class="star">★</span><h3>%s</h3></div><ol>%s</ol></div>'
+      '<div class="top3"><div class="t3h"><span class="star">★</span><h3>%s</h3>' + abtn("top3") + '</div><ol>%s</ol></div>'
       '<div class="indice" id="indice"><h3>%s</h3><ol>%s</ol></div>'
       '<div class="filtros"><span class="filtro on" data-f="all">%s</span><span class="filtro" data-f="alto"><span class="dot d-alto"></span> %s</span>'
       '<span class="filtro" data-f="medio"><span class="dot d-medio"></span> %s</span><span class="filtro" data-f="bajo"><span class="dot d-bajo"></span> %s</span></div>'
@@ -385,12 +395,11 @@ def build(variant):
       '<td class="fright"><img class="fsign" src="data:image/png;base64,%s" alt="Domingo Marzal"></td></tr></table></footer>'
       '</div><a href="#indice" class="backtop" aria-label="Secciones">↩︎</a>'
       '<div class="chrome-ask" role="dialog" aria-modal="true"><div class="bg" data-ck="stay"></div><div class="box">'
-      '<div class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0f9aa0" stroke-width="1.8" stroke-linecap="round"><line x1="4.5" y1="10" x2="4.5" y2="14"/><line x1="8.2" y1="7.4" x2="8.2" y2="16.6"/><line x1="12" y1="5" x2="12" y2="19"/><line x1="15.8" y1="7.4" x2="15.8" y2="16.6"/><line x1="19.5" y1="10" x2="19.5" y2="14"/></svg></div>'
-      '<h4 class="i18n" data-es="Se escucha mucho mejor en Chrome" data-en="It sounds much better in Chrome">Se escucha mucho mejor en Chrome</h4>'
-      '<p class="i18n" data-es="El audio usa las voces que instala tu navegador. Chrome incorpora voces propias de Google, bastante más naturales que las que trae el sistema; este navegador solo ofrece las básicas." data-en="The audio uses the voices your browser provides. Chrome ships Google’s own voices, considerably more natural than the system ones; this browser only offers the basic set.">El audio usa las voces que instala tu navegador. Chrome incorpora voces propias de Google, bastante más naturales que las que trae el sistema; este navegador solo ofrece las básicas.</p>'
+      '<div class="hd"><div class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0f9aa0" stroke-width="1.8" stroke-linecap="round"><line x1="4.5" y1="10" x2="4.5" y2="14"/><line x1="8.2" y1="7.4" x2="8.2" y2="16.6"/><line x1="12" y1="5" x2="12" y2="19"/><line x1="15.8" y1="7.4" x2="15.8" y2="16.6"/><line x1="19.5" y1="10" x2="19.5" y2="14"/></svg></div>'
+      '<h4 class="i18n" data-es="Se escucha mucho mejor en Chrome" data-en="It sounds much better in Chrome">Se escucha mucho mejor en Chrome</h4></div>'
+      '<p class="i18n" data-es="El audio usa las voces que instala tu navegador. A día de hoy, Chrome incorpora voces propias de Google, bastante más naturales que las que trae el sistema; este navegador solo ofrece las básicas." data-en="The audio uses the voices your browser provides. As of today, Chrome ships Google’s own voices, considerably more natural than the system ones; this browser only offers the basic set.">El audio usa las voces que instala tu navegador. A día de hoy, Chrome incorpora voces propias de Google, bastante más naturales que las que trae el sistema; este navegador solo ofrece las básicas.</p>'
       '<div class="acts"><button class="go" data-ck="go"><span class="i18n" data-es="Abrir en Chrome" data-en="Open in Chrome">Abrir en Chrome</span></button>'
       '<button class="stay" data-ck="stay"><span class="i18n" data-es="Escuchar aquí igualmente" data-en="Listen here anyway">Escuchar aquí igualmente</span></button></div>'
-      '<span class="cp" data-ck="copy"><span class="i18n" data-es="o copiar el enlace para pegarlo en Chrome" data-en="or copy the link to paste into Chrome">o copiar el enlace para pegarlo en Chrome</span></span>'
       '</div></div>'
       '<div class="abar" role="status"><span class="txt"></span>'
       '<button data-ab="pp" aria-label="Pausar o reanudar"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="9" y1="7" x2="9" y2="17"/><line x1="15" y1="7" x2="15" y2="17"/></svg></button>'
@@ -430,6 +439,7 @@ SCRIPT = """<script>
   document.body.classList.add('has-audio');
 
   var Q = [], qi = 0, mode = null, ref = null, st = 'idle', btn = null, voz = null;
+  var sesion = 0;   /* cada reproducción tiene su id: las anteriores quedan invalidadas */
 
   function lang(){ return document.documentElement.getAttribute('lang') === 'en' ? 'en' : 'es'; }
 
@@ -625,6 +635,9 @@ SCRIPT = """<script>
         ks.forEach(function(k){ var f = ficha(k); if (f) push(f, nombreSec(s)); });
       }
       push(T('end'), '');
+    } else if (m === 'top3'){
+      out.push({ t: T('top3'), e: '★', intro: true });
+      D.top3.forEach(function(k){ push(ficha(k), '★'); });
     } else if (m === 'sec'){
       var n = parseInt(r, 10);
       out.push({ t: T('secOnly').replace('%s', nombreSec(n)), e: nombreSec(n), intro: true });
@@ -647,27 +660,33 @@ SCRIPT = """<script>
     }
     if (barTxt && Q[qi]) barTxt.textContent = (Q[qi].e ? Q[qi].e + ' · ' : '') + Q[qi].t.slice(0, 90);
   }
-  function siguiente(){
+  function siguiente(mi){
+    if (mi !== sesion) return;                 /* llegó tarde: hay otra reproducción */
     if (qi >= Q.length){ parar(); return; }
     var it = Q[qi], u = decir(it.t);
     /* pausa entre ideas: corta dentro de una ficha, larga al terminarla o al
        anunciar una sección — es lo que hace que no suene como un chorro de texto */
     var pausa = it.intro ? 500 : (it.brk ? 420 : 170);
     u.onend = function(){
-      if (st !== 'playing') return;
+      if (mi !== sesion || st !== 'playing') return;
       qi++; pinta();
-      setTimeout(function(){ if (st === 'playing') siguiente(); }, pausa);
+      setTimeout(function(){ if (mi === sesion && st === 'playing') siguiente(mi); }, pausa);
     };
-    u.onerror = function(){ if (st === 'playing'){ qi++; siguiente(); } };
+    u.onerror = function(){ if (mi === sesion && st === 'playing'){ qi++; siguiente(mi); } };
     SS.speak(u); pinta();
   }
   function arranca(m, r, b){
+    sesion++;                                  /* invalida cualquier audio en curso */
     SS.cancel(); Q = cola(m, r); qi = 0; mode = m; ref = r; btn = b; st = 'playing';
     if (!Q.length){ parar(); return; }
-    siguiente();
+    siguiente(sesion);
   }
-  function parar(){ SS.cancel(); st = 'idle'; Q = []; qi = 0; btn = null; pinta(); }
-  function pausa(){ if (st === 'playing'){ SS.pause(); st = 'paused'; } else if (st === 'paused'){ SS.resume(); st = 'playing'; } pinta(); }
+  function parar(){ sesion++; SS.cancel(); st = 'idle'; Q = []; qi = 0; btn = null; pinta(); }
+  function pausa(){
+    if (st === 'playing'){ SS.pause(); st = 'paused'; }
+    else if (st === 'paused'){ SS.resume(); st = 'playing'; }
+    pinta();
+  }
 
   /* ---- ¿estamos en Chrome? Sus voces de Google son muy superiores a las del sistema ---- */
   function esChrome(){
@@ -675,8 +694,9 @@ SCRIPT = """<script>
     return /Chrome|CriOS/.test(ua) && !/Edg|OPR|OPiOS|SamsungBrowser/.test(ua);
   }
   function hayVozBuena(){ return voces().some(function(v){ return /^google/i.test(v.name); }); }
-  var pend = null;                                  /* acción aplazada por el diálogo */
-  function pideChrome(fn){
+  var pend = null, pendRef = null;                   /* acción aplazada por el diálogo */
+  function pideChrome(fn, ref){
+    pendRef = ref || 'all';
     /* solo se pregunta una vez por sesión, y solo si aquí no hay voces de Google */
     var visto = false;
     try { visto = sessionStorage.getItem('brief-chrome-ok') === '1'; } catch(e){}
@@ -693,15 +713,16 @@ SCRIPT = """<script>
       document.body.classList.remove('ask-chrome');
       try { sessionStorage.setItem('brief-chrome-ok', '1'); } catch(e){}
       if (q === 'go'){
-        /* Chrome registra el esquema googlechrome:// en macOS e iOS */
-        var u = location.href;
-        window.location.href = 'googlechrome://' + u.replace(/^https?:\/\//, '');
-        setTimeout(function(){ if (pend) pend(); }, 1200);   /* si no abre, seguimos aquí */
-      } else if (q === 'copy'){
-        try { navigator.clipboard.writeText(location.href); ck.textContent = lang()==='en' ? 'Link copied' : 'Enlace copiado'; } catch(e){}
-        document.body.classList.add('ask-chrome');           /* no cerrar al copiar */
-      } else if (pend){ pend(); }
-      if (q !== 'copy') pend = null;
+        /* Se pasa a Chrome la orden concreta en el hash (#audio=all | sec-N | art-KEY)
+           y el idioma, para que allí continúe exactamente lo que se iba a escuchar. */
+        var base = location.href.split('#')[0];
+        var destino = base + '#audio=' + (pendRef || 'all') + '&lang=' + lang();
+        var sinProto = destino.replace(/^https?:\/\//, '');
+        window.location.href = 'googlechrome://' + sinProto;
+        /* iOS usa otra forma del esquema; si ninguna abre, se sigue aquí */
+        setTimeout(function(){ window.location.href = 'googlechrome://navigate?url=' + encodeURIComponent(destino); }, 350);
+        setTimeout(function(){ if (pend) pend(); pend = null; }, 1600);
+      } else if (pend){ pend(); pend = null; }
       return;
     }
     var b = ev.target.closest && ev.target.closest('.abtn');
@@ -709,7 +730,9 @@ SCRIPT = """<script>
       ev.preventDefault(); ev.stopPropagation();
       var m = b.getAttribute('data-a'), r = b.getAttribute('data-ref');
       if (btn === b && st !== 'idle'){ pausa(); return; }
-      pideChrome(function(){ arranca(m === 'all' ? 'all' : (m === 'sec' ? 'sec' : 'art'), r, b); });
+      var modo = (m === 'all' ? 'all' : (m === 'sec' ? 'sec' : (m === 'top3' ? 'top3' : 'art')));
+      pideChrome(function(){ arranca(modo, r, b); },
+                 modo === 'all' ? 'all' : (modo === 'top3' ? 'top3' : (modo === 'sec' ? 'sec-' + r : 'art-' + r)));
       return;
     }
     var ab = ev.target.closest && ev.target.closest('.abar button');
@@ -743,6 +766,25 @@ SCRIPT = """<script>
     });
     bar.insertBefore(sel, bar.querySelector('button'));
   }
+  /* Si venimos de "Abrir en Chrome", el hash trae qué había que escuchar */
+  (function retoma(){
+    var h = location.hash || '';
+    var m = h.match(/audio=([a-z0-9\-]+)/i); if (!m) return;
+    var l = (h.match(/lang=(es|en)/i) || [])[1];
+    function lanza(){
+      if (l && l !== lang()){ var bt = document.querySelector('.lang button[data-l="' + l + '"]'); if (bt) bt.click(); }
+      var ref = m[1], b = null;
+      if (ref === 'all') b = document.querySelector('.mast .abtn');
+      else if (ref === 'top3') b = document.querySelector('.abtn[data-a="top3"]');
+      else if (ref.indexOf('sec-') === 0) b = document.querySelector('.abtn[data-a="sec"][data-ref="' + ref.slice(4) + '"]');
+      else if (ref.indexOf('art-') === 0) b = document.querySelector('.abtn[data-a="art"][data-ref="' + ref.slice(4) + '"]');
+      history.replaceState(null, '', location.pathname + location.search);
+      try {
+        if (b) b.click();      /* Chrome puede exigir un gesto: si lo bloquea, el botón queda listo */
+      } catch(e){}
+    }
+    setTimeout(lanza, 700);    /* dar tiempo a que carguen las voces */
+  })();
   setTimeout(montaVoces, 400);
   setTimeout(montaVoces, 1500);          /* getVoices() se puebla en diferido en Safari */
   if (SS.addEventListener) SS.addEventListener('voiceschanged', montaVoces);
