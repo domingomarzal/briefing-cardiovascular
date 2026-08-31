@@ -200,6 +200,21 @@ body.audio-live .abar{display:flex;}
 .abar button{border:none;background:rgba(255,255,255,.16);color:#fff;width:30px;height:30px;flex:0 0 30px;border-radius:50%;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;padding:0;}
 .abar button:hover{background:rgba(255,255,255,.28);}
 @media print{.abtn,.abar{display:none!important;}}
+/* Aviso: fuera de Chrome las voces del sistema son mucho peores */
+.chrome-ask{position:fixed;inset:0;z-index:500;display:none;align-items:center;justify-content:center;padding:24px;}
+body.ask-chrome .chrome-ask{display:flex;}
+.chrome-ask .bg{position:absolute;inset:0;background:rgba(16,21,31,.55);}
+.chrome-ask .box{position:relative;z-index:1;background:#fff;max-width:440px;width:100%;border-radius:16px;padding:28px 30px 24px;box-shadow:0 20px 56px rgba(10,61,98,.34);text-align:left;}
+.chrome-ask .ic{width:42px;height:42px;border-radius:50%;background:var(--teal-soft);display:flex;align-items:center;justify-content:center;margin-bottom:14px;}
+.chrome-ask h4{margin:0 0 8px;font-size:18px;color:var(--titulo);font-weight:800;letter-spacing:-.01em;}
+.chrome-ask p{margin:0 0 8px;font-size:14px;color:var(--gris);line-height:1.55;text-align:left;}
+.chrome-ask .acts{display:flex;gap:10px;margin-top:18px;flex-wrap:wrap;}
+.chrome-ask button{font-family:inherit;border:none;border-radius:9px;padding:11px 16px;font-size:13.5px;font-weight:700;cursor:pointer;}
+.chrome-ask .go{background:var(--navy);color:#fff;flex-grow:1;}
+.chrome-ask .go:hover{background:#08324f;}
+.chrome-ask .stay{background:#eef3f6;color:var(--gris);}
+.chrome-ask .stay:hover{background:#e2eaef;}
+.chrome-ask .cp{font-size:12px;color:var(--suave);margin-top:12px;cursor:pointer;text-decoration:underline;display:inline-block;}
 
 .modal-body ul.mnov li{margin:6px 0;text-align:justify;}
 .modal-type{font-size:13px;font-weight:700;font-family:Arial,Helvetica,sans-serif;color:var(--teal);margin-bottom:8px;}
@@ -369,6 +384,14 @@ def build(variant):
       '<div class="fbody" data-es="%s" data-en="%s">%s</div></td>'
       '<td class="fright"><img class="fsign" src="data:image/png;base64,%s" alt="Domingo Marzal"></td></tr></table></footer>'
       '</div><a href="#indice" class="backtop" aria-label="Secciones">↩︎</a>'
+      '<div class="chrome-ask" role="dialog" aria-modal="true"><div class="bg" data-ck="stay"></div><div class="box">'
+      '<div class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0f9aa0" stroke-width="1.8" stroke-linecap="round"><line x1="4.5" y1="10" x2="4.5" y2="14"/><line x1="8.2" y1="7.4" x2="8.2" y2="16.6"/><line x1="12" y1="5" x2="12" y2="19"/><line x1="15.8" y1="7.4" x2="15.8" y2="16.6"/><line x1="19.5" y1="10" x2="19.5" y2="14"/></svg></div>'
+      '<h4 class="i18n" data-es="Se escucha mucho mejor en Chrome" data-en="It sounds much better in Chrome">Se escucha mucho mejor en Chrome</h4>'
+      '<p class="i18n" data-es="El audio usa las voces que instala tu navegador. Chrome incorpora voces propias de Google, bastante más naturales que las que trae el sistema; este navegador solo ofrece las básicas." data-en="The audio uses the voices your browser provides. Chrome ships Google’s own voices, considerably more natural than the system ones; this browser only offers the basic set.">El audio usa las voces que instala tu navegador. Chrome incorpora voces propias de Google, bastante más naturales que las que trae el sistema; este navegador solo ofrece las básicas.</p>'
+      '<div class="acts"><button class="go" data-ck="go"><span class="i18n" data-es="Abrir en Chrome" data-en="Open in Chrome">Abrir en Chrome</span></button>'
+      '<button class="stay" data-ck="stay"><span class="i18n" data-es="Escuchar aquí igualmente" data-en="Listen here anyway">Escuchar aquí igualmente</span></button></div>'
+      '<span class="cp" data-ck="copy"><span class="i18n" data-es="o copiar el enlace para pegarlo en Chrome" data-en="or copy the link to paste into Chrome">o copiar el enlace para pegarlo en Chrome</span></span>'
+      '</div></div>'
       '<div class="abar" role="status"><span class="txt"></span>'
       '<button data-ab="pp" aria-label="Pausar o reanudar"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="9" y1="7" x2="9" y2="17"/><line x1="15" y1="7" x2="15" y2="17"/></svg></button>'
       '<button data-ab="st" aria-label="Detener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="6" y1="6" x2="18" y2="18"/><line x1="18" y1="6" x2="6" y2="18"/></svg></button></div>'
@@ -501,6 +524,9 @@ SCRIPT = """<script>
     try { pref = localStorage.getItem('brief-voz-' + lang()); } catch(e){}
     if (pref){ for (var i=0;i<vs.length;i++) if (vs[i].name === pref) return vs[i]; }
     var exact = lang()==='en' ? 'en-gb' : 'es-es';
+    /* preferencia explícita del usuario: Google español y Google UK English */
+    var quiere = lang()==='en' ? /^google uk english/i : /^google espa/i;
+    for (var q=0;q<vs.length;q++) if (quiere.test(vs[q].name)) return vs[q];
     var score = function(v){
       var n=(v.name||'').toLowerCase(), s=0;
       if ((v.lang||'').toLowerCase() === exact) s += 4;
@@ -643,13 +669,47 @@ SCRIPT = """<script>
   function parar(){ SS.cancel(); st = 'idle'; Q = []; qi = 0; btn = null; pinta(); }
   function pausa(){ if (st === 'playing'){ SS.pause(); st = 'paused'; } else if (st === 'paused'){ SS.resume(); st = 'playing'; } pinta(); }
 
+  /* ---- ¿estamos en Chrome? Sus voces de Google son muy superiores a las del sistema ---- */
+  function esChrome(){
+    var ua = navigator.userAgent;
+    return /Chrome|CriOS/.test(ua) && !/Edg|OPR|OPiOS|SamsungBrowser/.test(ua);
+  }
+  function hayVozBuena(){ return voces().some(function(v){ return /^google/i.test(v.name); }); }
+  var pend = null;                                  /* acción aplazada por el diálogo */
+  function pideChrome(fn){
+    /* solo se pregunta una vez por sesión, y solo si aquí no hay voces de Google */
+    var visto = false;
+    try { visto = sessionStorage.getItem('brief-chrome-ok') === '1'; } catch(e){}
+    /* El criterio NO es la marca del navegador sino si hay voces de Google: hay
+       navegadores integrados que se identifican como Chrome y no las traen. */
+    if (visto || hayVozBuena()){ fn(); return; }
+    pend = fn; document.body.classList.add('ask-chrome');
+  }
   document.addEventListener('click', function(ev){
+    var ck = ev.target.closest && ev.target.closest('[data-ck]');
+    if (ck){
+      ev.preventDefault();
+      var q = ck.getAttribute('data-ck');
+      document.body.classList.remove('ask-chrome');
+      try { sessionStorage.setItem('brief-chrome-ok', '1'); } catch(e){}
+      if (q === 'go'){
+        /* Chrome registra el esquema googlechrome:// en macOS e iOS */
+        var u = location.href;
+        window.location.href = 'googlechrome://' + u.replace(/^https?:\/\//, '');
+        setTimeout(function(){ if (pend) pend(); }, 1200);   /* si no abre, seguimos aquí */
+      } else if (q === 'copy'){
+        try { navigator.clipboard.writeText(location.href); ck.textContent = lang()==='en' ? 'Link copied' : 'Enlace copiado'; } catch(e){}
+        document.body.classList.add('ask-chrome');           /* no cerrar al copiar */
+      } else if (pend){ pend(); }
+      if (q !== 'copy') pend = null;
+      return;
+    }
     var b = ev.target.closest && ev.target.closest('.abtn');
     if (b){
       ev.preventDefault(); ev.stopPropagation();
       var m = b.getAttribute('data-a'), r = b.getAttribute('data-ref');
-      if (btn === b && st !== 'idle') pausa();      /* mismo botón: pausa / reanuda */
-      else arranca(m === 'all' ? 'all' : (m === 'sec' ? 'sec' : 'art'), r, b);
+      if (btn === b && st !== 'idle'){ pausa(); return; }
+      pideChrome(function(){ arranca(m === 'all' ? 'all' : (m === 'sec' ? 'sec' : 'art'), r, b); });
       return;
     }
     var ab = ev.target.closest && ev.target.closest('.abar button');
@@ -694,6 +754,8 @@ SCRIPT = """<script>
 
 BASE = "/Users/dmarzal/Documents/Claude/Briefing Cardiovascular/briefing-cardiovascular-repo"
 LOCALBASE = "/Users/dmarzal/Documents/Claude/Briefing Cardiovascular"
+UICAR = os.path.expanduser("~/Documents/UICAR/Cardio al dIA")
+DESK  = os.path.expanduser("~/Desktop")
 def _acr(p): return json.load(open(p)) if os.path.exists(p) else {}
 def _viz(p): return io.open(p, encoding="utf-8").read() if os.path.exists(p) else ""
 CONFIGS = [
@@ -724,6 +786,18 @@ for cfg in CONFIGS:
         if variant=="briefing":
             io.open(LOCALBASE+"/"+cfg["local"]+"/"+cfg["local"]+".html","w",encoding="utf-8").write(h)
         else:
-            io.open(LOCALBASE+"/"+cfg["local"]+"/Cardio al día_"+cfg["lnum"]+".html","w",encoding="utf-8").write(h)
+            # El «Cardio al día» NO debe quedarse en la subcarpeta del número (regla del
+            # usuario): su sitio es UICAR + una copia en el Escritorio. Si UICAR existe
+            # (estamos en el Mac) se escribe allí directamente, así nunca queda suelto.
+            # En la nube UICAR no existe: se deja en la subcarpeta y el Mac lo coloca.
+            cad = "/Cardio al día_"+cfg["lnum"]+".html"
+            if os.path.isdir(UICAR):
+                io.open(UICAR+cad,"w",encoding="utf-8").write(h)
+                if os.path.isdir(DESK):
+                    io.open(DESK+cad,"w",encoding="utf-8").write(h)
+                sob = LOCALBASE+"/"+cfg["local"]+cad          # limpiar restos de antes
+                if os.path.exists(sob): os.remove(sob)
+            else:
+                io.open(LOCALBASE+"/"+cfg["local"]+cad,"w",encoding="utf-8").write(h)
         print(cfg["n"], variant, len(h.encode()), "bytes")
 print("OK")
