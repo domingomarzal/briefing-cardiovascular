@@ -455,13 +455,36 @@ SCRIPT = """<script>
     [/\bmmHg\b/g, 'millimetres of mercury'], [/\bvs\.?\b/gi, 'versus'],
     [/\bn\s*=\s*/g, ' '], [/≥/g, 'at least '], [/≤/g, 'at most '], [/(\d)\s*%/g, '$1 percent']
   ];
+  /* Rótulos del pop-up -> transiciones que un locutor diría en voz alta */
+  var ROTULOS_ES = [
+    [/^De qué va\.\s*/, ''], [/^Resultados\.\s*/, 'Los resultados. '],
+    [/^Conclusiones\.\s*/, 'La conclusión de los autores. '],
+    [/^Novedades\.\s*$/, 'Estas son las novedades.'], [/^Novedades\.\s*/, 'Estas son las novedades. '],
+    [/^Qué cambia en la práctica\.\s*/, 'Qué cambia en la práctica. '],
+    [/^Novedades estructurales\.\s*/, 'Novedades estructurales. ']
+  ];
+  var ROTULOS_EN = [
+    [/^What it.s about\.\s*/, ''], [/^Results\.\s*/, 'The results. '],
+    [/^Conclusions\.\s*/, 'The authors conclude. '],
+    [/^What.s new\.\s*$/, 'Here is what is new.'], [/^What.s new\.\s*/, 'Here is what is new. '],
+    [/^What changes in practice\.\s*/, 'What changes in practice. ']
+  ];
   function locuta(txt, L){
     var s = ' ' + (txt || '') + ' ';
     LIMPIA.forEach(function(r){ s = s.replace(r[0], r[1]); });
     (L === 'en' ? SIGLAS_EN : SIGLAS_ES).forEach(function(r){ s = s.replace(r[0], r[1]); });
+    /* rangos y comparaciones que en voz alta se leen fatal */
+    s = s.replace(/(\d)\s*[-–]\s*(\d)/g, L === 'en' ? '$1 to $2' : '$1 a $2');
     s = s.replace(/\s*·\s*/g, '. ').replace(/\s*—\s*/g, ', ').replace(/\s*–\s*/g, ' a ');
-    s = s.replace(/\.{2,}/g, '.').replace(/\s+([.,;:])/g, '$1').replace(/([.,;:]){2,}/g, '$1');
-    return s.replace(/\s+/g, ' ').trim();
+    /* referencias entre paréntesis que solo son ruido al oído */
+    s = s.replace(/\s*\((?:NCT|ISRCTN|EudraCT)[^)]*\)/gi, '');
+    s = s.replace(/\s*\(\s*(?:clinicaltrials\.gov|registro)[^)]*\)/gi, '');
+    s = s.trim();
+    (L === 'en' ? ROTULOS_EN : ROTULOS_ES).forEach(function(r){ s = s.replace(r[0], r[1]); });
+    s = s.replace(/\.{2,}/g, '.').replace(/\s+([.,;:])/g, '$1').replace(/([.,;:])\1+/g, '$1');
+    s = s.replace(/\s+/g, ' ').trim();
+    if (s && !/[.!?]$/.test(s)) s += '.';     /* cerrar la frase da la cadencia final */
+    return s;
   }
 
   function T(k){ return D.i18n[lang()][k]; }
@@ -481,14 +504,41 @@ SCRIPT = """<script>
     var score = function(v){
       var n=(v.name||'').toLowerCase(), s=0;
       if ((v.lang||'').toLowerCase() === exact) s += 4;
-      if (/premium/.test(n)) s += 6;        /* las Premium son las neuronales: mandan */
-      else if (/enhanced|neural/.test(n)) s += 4;
+      if (/premium/.test(n)) s += 8;              /* si algún día macOS las expone */
+      else if (/enhanced|neural/.test(n)) s += 5;
+      /* En Chrome aparecen las voces de Google: son las más naturales disponibles
+         hoy en una web. macOS NO expone sus voces Premium ni las de Siri (verificado
+         el 31/08/2026 en Chrome y en el navegador integrado), así que estas mandan. */
+      if (/^google/i.test(n)) s += 7;
       if (v.localService) s += 1;
       if (/eddy|flo|grandma|grandpa|reed|rocko|sandy|shelley|bells|bad news|good news|jester|organ|cellos|zarvox|trinoids|whisper|bubbles|boing|wobble|superstar|albert|fred|junior|kathy|ralph|princess|deranged/.test(n)) s -= 12;  /* voces de novedad: nunca para un briefing clínico */
       if (/mónica|monica|paulina|jorge|diego|marisol/.test(n)) s += 2;   /* voces neutras de calidad */
       return s;
     };
     return vs.slice().sort(function(a,b){ return score(b)-score(a); })[0];
+  }
+  /* Las voces de red (Google) truncan los enunciados largos: se parte por frases
+     para que ninguna supere ~180 caracteres. También mejora la prosodia. */
+  function trocea(s){
+    if (s.length <= 180) return [s];
+    var frases = s.split(/(?<=[.;:])\s+/), out = [], buf = '';
+    frases.forEach(function(f){
+      if ((buf + ' ' + f).trim().length > 180){ if (buf) out.push(buf.trim()); buf = f; }
+      else buf = (buf ? buf + ' ' : '') + f;
+    });
+    if (buf.trim()) out.push(buf.trim());
+    /* si aún hay trozos enormes (una frase sola muy larga), partir por comas */
+    var fin = [];
+    out.forEach(function(x){
+      if (x.length <= 220) { fin.push(x); return; }
+      var p = x.split(/,\s+/), b = '';
+      p.forEach(function(q){
+        if ((b + ', ' + q).length > 180){ if (b) fin.push(b.replace(/[,\s]+$/, '') + '.'); b = q; }
+        else b = (b ? b + ', ' : '') + q;
+      });
+      if (b) fin.push(b);
+    });
+    return fin;
   }
   function decir(txt){
     var u = new SpeechSynthesisUtterance(txt);
@@ -517,11 +567,11 @@ SCRIPT = """<script>
         if (el.tagName === 'UL'){
           Array.prototype.forEach.call(el.children, function(li){
             var s = locuta(clean(li.textContent), L);
-            if (s) out.push(s.replace(/\.?$/, '.'));
+            if (s) trocea(s.replace(/\.?$/, '.')).forEach(function(x){ out.push(x); });
           });
         } else {
           var s = locuta(clean(el.textContent), L);
-          if (s) out.push(s);
+          if (s) trocea(s).forEach(function(x){ out.push(x); });
         }
       });
     }
