@@ -45,7 +45,7 @@ VARIANTS = {
    fname="index", title_html='Briefing <span class="ac">Cardiovascular</span>',
    foot_html='Briefing <span class="ac">Cardiovascular</span>',
    root="--headbg:linear-gradient(135deg,#0a3d62 0%,#072b46 100%);--titleac:#0f9aa0;--top3bg:#0a3d62;--top3star:#0f9aa0;--numborder:#0f9aa0;--numtext:#bdeaeb;--periodoc:#aac3d1;",
-   title_lang="en"),  # briefing: ES mode keeps English titles
+   title_lang="es"),  # briefing: en ESP los títulos van en ESPAÑOL (regla del usuario, 31/08/2026)
  "ciencia": dict(
    fname="cardio-al-dia", title_html='Cardio al d<span class="ac iabig">IA</span>',
    foot_html='Cardio al d<span class="ac">IA</span>',
@@ -166,24 +166,32 @@ body.has-audio .abtn{display:inline-flex;}
 .abtn:hover{background:color-mix(in srgb, currentColor 13%, transparent);}
 .abtn:focus-visible{outline:2px solid currentColor;outline-offset:1px;}
 .abtn svg{display:block;pointer-events:none;}
+/* REPRODUCIENDO = la onda se mueve · PAUSA = dos barras quietas */
 .abtn .ic-p{display:none;}
-.abtn.on .ic-w{display:none;} .abtn.on .ic-p{display:block;}
-.abtn .wv line{stroke:currentColor;stroke-width:1.9;stroke-linecap:round;}
-@keyframes wvb{0%,100%{transform:scaleY(.55)}50%{transform:scaleY(1)}}
-.abtn.on .wv line{transform-origin:center;}
-.abtn.live .wv line{animation:wvb 1s ease-in-out infinite;}
-.abtn.live .wv line:nth-child(2){animation-delay:.12s}
-.abtn.live .wv line:nth-child(3){animation-delay:.24s}
-.abtn.live .wv line:nth-child(4){animation-delay:.36s}
-.abtn.live .wv line:nth-child(5){animation-delay:.48s}
+.abtn.paused .ic-w{display:none;} .abtn.paused .ic-p{display:block;}
+.abtn .wv line{stroke:currentColor;stroke-width:1.9;stroke-linecap:round;transform-origin:12px 12px;}
+@keyframes wvb{0%,100%{transform:scaleY(.42)}50%{transform:scaleY(1.12)}}
+.abtn.live .wv line{animation:wvb .85s ease-in-out infinite;}
+.abtn.live .wv line:nth-of-type(1){animation-delay:0s}
+.abtn.live .wv line:nth-of-type(2){animation-delay:.13s}
+.abtn.live .wv line:nth-of-type(3){animation-delay:.26s}
+.abtn.live .wv line:nth-of-type(4){animation-delay:.39s}
+.abtn.live .wv line:nth-of-type(5){animation-delay:.52s}
+@media (prefers-reduced-motion:reduce){.abtn.live .wv line{animation:none;}}
 /* en la cabecera, sobre fondo navy */
 .mast .abtn{color:#bdeaeb;border:1px solid rgba(255,255,255,.32);}
 .sec-head-row{display:flex;align-items:center;}
 .sec-head-row .sec-head{flex-grow:1;min-width:0;}
-.sec-head-row .abtn{margin-left:6px;}
+.sec-head-row .abtn{margin:0 4px 0 8px;}
+.chevlink{display:inline-flex;align-items:center;text-decoration:none;padding:0 2px;}
+.langwrap{display:flex;align-items:center;gap:8px;}
+.cmodal-head{display:flex;align-items:center;gap:10px;margin-bottom:2px;}
+.cmodal-head .modal-type{flex-grow:1;min-width:0;}
+.cmodal-head .cmodal-x{position:static;font-size:26px;line-height:1;}
+.cmodal-box{padding-top:20px;}
 .mast .abtn:hover{background:rgba(255,255,255,.14);}
 /* dentro del pop-up, a la izquierda de la X */
-.cmodal-box > .abtn{position:absolute;top:10px;right:52px;}
+
 /* barra de audio flotante mientras suena */
 .abar{position:fixed;left:50%;transform:translateX(-50%);bottom:18px;z-index:400;display:none;align-items:center;gap:12px;background:var(--navy);color:#fff;border-radius:30px;padding:9px 10px 9px 18px;box-shadow:0 8px 26px rgba(10,61,98,.34);max-width:min(560px,92vw);}
 body.audio-live .abar{display:flex;}
@@ -251,9 +259,9 @@ def modal(a):
           + blk(l3, e.get("conclusiones",""), n.get("conclusiones","")))
     mt = '<h3 class="modal-title" data-es="%s" data-en="%s">%s</h3>' % (ae(es if VAR["title_lang"]=="es" else en), ae(en), he(es if VAR["title_lang"]=="es" else en))
     return ('<input type="checkbox" id="%s" class="mcb"><div class="cmodal"><label class="cmodal-bg" for="%s"></label>'
-            '<div class="cmodal-box">' + abtn("art", a["key"], SECTION_COLORS[a["sec"]]) + '<label class="cmodal-x" for="%s" aria-label="Cerrar">&times;</label>'
-            '<div class="modal-type">%s</div>%s<div class="modal-body">%s</div>'
-            '<div class="modal-links">%s</div></div></div>') % (cid, cid, cid, ptype_span(a), mt, body, jl(a))
+            '<div class="cmodal-box"><div class="cmodal-head"><div class="modal-type">%s</div>' + abtn("art", a["key"], SECTION_COLORS[a["sec"]]) + '<label class="cmodal-x" for="%s" aria-label="Cerrar">&times;</label></div>'
+            '%s<div class="modal-body">%s</div>'
+            '<div class="modal-links">%s</div></div></div>') % (cid, cid, ptype_span(a), cid, mt, body, jl(a))
 
 def article(a):
     imp = IMP[a["prio"]]; es, en = a["_t_es"], a["_t_en"]
@@ -292,8 +300,8 @@ def build(variant):
         else:
             ordered=sorted(arts, key=lambda a:(PRIO_RANK[IMP[a["prio"]]], _grp(a), -a["total"]))
             ah="\n".join(article(a) for a in ordered)
-        secs += ('<section class="sec" id="s%d"><div class="sec-head-row"><a class="sec-head" href="#s%d"><span class="sec-num c%d">%02d</span><h2>%s</h2><span class="chev t%d">▸</span></a>' + AB_SEC[s] + '</div>'
-                 '<div class="sec-body">%s<div class="sec-foot"><a href="#indice" class="toindex" aria-label="Secciones">↩︎</a></div></div></section>\n') % (s,s,s,s,T(SECES[s],SECEN[s]),s,ah)
+        secs += ('<section class="sec" id="s%d"><div class="sec-head-row"><a class="sec-head" href="#s%d"><span class="sec-num c%d">%02d</span><h2>%s</h2></a>' + AB_SEC[s] + '<a class="chevlink" href="#s%d" aria-label="Desplegar"><span class="chev t%d">▸</span></a></div>'
+                 '<div class="sec-body">%s<div class="sec-foot"><a href="#indice" class="toindex" aria-label="Secciones">↩︎</a></div></div></section>\n') % (s,s,s,s,T(SECES[s],SECEN[s]),s,s,ah)
     modals="\n".join(modal(a) for _,arts in sections for a in arts)
     # Figura del Destacado ampliable como pop-up (mismo checkbox-hack sin JS que las fichas;
     # funciona en Quick Look del iPhone). El cambio de idioma actúa sobre TODOS los [data-es],
@@ -348,7 +356,7 @@ def build(variant):
     HTML = ('<!DOCTYPE html><html lang="es"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">'
       '<title>%s</title><style>%s\n%s\n%s</style></head><body><div class="wrap">'
       '<div class="mast"><h1 class="mast-title">%s</h1><div class="mast-bottom">'
-      '<div class="lang"><button data-l="es" class="on">ESP</button><button data-l="en">ENG</button></div>' + abtn("all") +
+      '<div class="langwrap"><div class="lang"><button data-l="es" class="on">ESP</button><button data-l="en">ENG</button></div>' + abtn("all") + '</div>' +
       '<div class="mast-meta"><span class="periodo" data-es="%s" data-en="%s">%s</span><span class="num">%s</span></div>'
       '</div><div class="mast-rule"></div></div><main>%s'
       '<div class="top3"><div class="t3h"><span class="star">★</span><h3>%s</h3></div><ol>%s</ol></div>'
@@ -471,9 +479,12 @@ SCRIPT = """<script>
   /* --- reproducción --- */
   var bar = document.querySelector('.abar'), barTxt = bar && bar.querySelector('.txt');
   function pinta(){
-    document.querySelectorAll('.abtn').forEach(function(b){ b.classList.remove('on','live'); });
+    document.querySelectorAll('.abtn').forEach(function(b){ b.classList.remove('on','live','paused'); });
     document.body.classList.toggle('audio-live', st !== 'idle');
-    if (btn && st !== 'idle'){ btn.classList.add('on'); if (st === 'playing') btn.classList.add('live'); }
+    if (btn && st !== 'idle'){
+      btn.classList.add('on');
+      btn.classList.add(st === 'playing' ? 'live' : 'paused');
+    }
     if (barTxt && Q[qi]) barTxt.textContent = (Q[qi].e ? Q[qi].e + ' · ' : '') + Q[qi].t.slice(0, 90);
   }
   function siguiente(){
