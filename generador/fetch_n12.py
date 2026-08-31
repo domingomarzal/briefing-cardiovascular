@@ -9,7 +9,7 @@ GENERAL=["N Engl J Med","Lancet","JAMA","BMJ","Ann Intern Med","Nat Med"]
 CV=["Eur Heart J","Circulation","J Am Coll Cardiol","JAMA Cardiol","Nat Rev Cardiol",
 "Eur J Heart Fail","JACC Heart Fail","Circ Heart Fail","EuroIntervention","JACC Cardiovasc Interv",
 "Circ Cardiovasc Interv","Heart Rhythm","Europace","JACC Clin Electrophysiol","JACC Cardiovasc Imaging",
-"Eur Heart J Cardiovasc Imaging","Eur J Prev Cardiol","Hypertension","Heart","Rev Esp Cardiol",
+"Eur Heart J Cardiovasc Imaging","Eur J Prev Cardiol","Hypertension","Heart","Rev Esp Cardiol (Engl Ed)",
 "Atherosclerosis","J Am Heart Assoc","JACC Adv","Circ Res","Nat Cardiovasc Res"]
 THEME='(cardiovascular OR cardiac OR heart OR coronary OR myocardial OR atrial OR valvular OR hypertension OR cholesterol OR lipid OR "heart failure" OR arrhythmia)'
 def get(u,data=None):
