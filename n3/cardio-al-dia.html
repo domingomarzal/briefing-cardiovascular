@@ -330,8 +330,15 @@ body.ask-chrome .chrome-ask{display:flex;}
   document.body.classList.add('has-audio');
 
   var Q = [], qi = 0, mode = null, ref = null, st = 'idle', btn = null, voz = null;
-  var vel = 1;                                       /* multiplicador de velocidad */
-  try { vel = parseFloat(localStorage.getItem('brief-vel')) || 1; } catch(e){}
+  /* Velocidad: por defecto 1,25x en español y 1x en inglés — las voces
+     españolas suenan lentas al ritmo neutro. Se guarda por idioma. */
+  var vel = 1;
+  function velDef(){ return lang() === 'es' ? 1.25 : 1; }
+  function leeVel(){
+    var v = null;
+    try { v = parseFloat(localStorage.getItem('brief-vel-' + lang())); } catch(e){}
+    return v || velDef();
+  }
   var sesion = 0;   /* cada reproducción tiene su id: las anteriores quedan invalidadas */
 
   function lang(){ return document.documentElement.getAttribute('lang') === 'en' ? 'en' : 'es'; }
@@ -685,22 +692,29 @@ body.ask-chrome .chrome-ask{display:flex;}
 
   /* al cambiar de idioma o cerrar el pop-up, se detiene: el texto ya no es el mismo */
   document.querySelectorAll('.lang button').forEach(function(x){
-    x.addEventListener('click', function(){ voz = null; parar(); setTimeout(montaVoces, 60); });
+    x.addEventListener('click', function(){
+      voz = null; parar();
+      setTimeout(function(){ montaVoces(); montaVel(); }, 60);         /* voz y ritmo del idioma nuevo */
+    });
   });
   window.addEventListener('beforeunload', function(){ SS.cancel(); });
   if (SS.onvoiceschanged !== undefined) SS.onvoiceschanged = function(){};
 
   /* selector de velocidad: 1x, 1,25x, 1,5x y 2x sobre el ritmo natural */
-  (function montaVel(){
+  function montaVel(){
     var sv = bar && bar.querySelector('.vel'); if (!sv) return;
+    vel = leeVel();
     sv.value = String(vel);
     sv.setAttribute('aria-label', T('vel'));
+    if (sv.dataset.listo) return;                    /* el listener se pone una sola vez */
+    sv.dataset.listo = '1';
     sv.addEventListener('change', function(){
-      vel = parseFloat(sv.value) || 1;
-      try { localStorage.setItem('brief-vel', String(vel)); } catch(e){}
+      vel = parseFloat(sv.value) || velDef();
+      try { localStorage.setItem('brief-vel-' + lang(), String(vel)); } catch(e){}
       if (st !== 'idle'){ SS.cancel(); st = 'playing'; siguiente(); }   /* re-lee al ritmo nuevo */
     });
-  })();
+  }
+  montaVel();
 
   /* selector de voz: aparece en la barra si el sistema ofrece más de una */
   function montaVoces(){
