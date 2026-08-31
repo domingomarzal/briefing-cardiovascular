@@ -6,7 +6,17 @@ GEN = BASE + "/generador"
 D1, D2 = "2026/08/24", "2026/08/30"
 BADT = {'Editorial', 'Comment', 'Letter', 'Published Erratum', 'News', 'Case Reports'}
 corpus = json.load(open(GEN + "/n12_corpus.json"))["recs"]
-sel = {s["pmid"]: s for s in json.load(open(GEN + "/n12_sel.json"))}
+_selraw = json.load(open(GEN + "/n12_sel.json"))
+# Los artículos RECUPERADOS POR CROSSREF (originales de NEJM que PubMed no había indexado a
+# tiempo, ver PASO 1b de la SKILL) no están en el corpus de PubMed y no tienen PMID: se añaden
+# aquí como registros sintéticos para que figuren en la auditoría con su origen declarado.
+for s in _selraw:
+    if not s.get("pmid"):
+        s["pmid"] = "CR:" + s["key"]
+        corpus.append(dict(pmid=s["pmid"], journal=s["journal"], title=s["title"],
+                           ptypes=["Journal Article"], abstract="(recuperado del editor)",
+                           doi=s.get("doi",""), pii="", adate="2026/08/28", _crossref=True))
+sel = {s["pmid"]: s for s in _selraw}
 # lista de elegibles EXACTAMENTE como en n12_sel.py, para poder referirse a ellos por índice
 # N12: el conjunto de elegibles se lee de n12_el.json porque incluye los documentos de
 # INCLUSIÓN OBLIGATORIA (guías ESC) que NO tienen abstract en PubMed y que la regla

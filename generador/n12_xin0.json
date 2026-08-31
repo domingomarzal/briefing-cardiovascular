@@ -1,0 +1,34 @@
+[
+ {
+  "journal": "N Engl J Med",
+  "doi": "10.1056/nejmoa2607314",
+  "title": "Atorvastatin, Cardiovascular Events, and Disability-free Survival in Older Adults",
+  "tipo": "ELEGIBLE",
+  "online": "2026-8-28",
+  "key": "x1"
+ },
+ {
+  "journal": "N Engl J Med",
+  "doi": "10.1056/nejmoa2608533",
+  "title": "Clopidogrel or Dual Antiplatelet Therapy in High-Ischemic-Risk Patients",
+  "tipo": "ELEGIBLE",
+  "online": "2026-8-29",
+  "key": "x4"
+ },
+ {
+  "journal": "N Engl J Med",
+  "doi": "10.1056/nejmoa2608717",
+  "title": "Milvexian with Antiplatelet Therapy after Acute Coronary Syndrome Event",
+  "tipo": "ELEGIBLE",
+  "online": "2026-8-29",
+  "key": "x7"
+ },
+ {
+  "journal": "N Engl J Med",
+  "doi": "10.1056/nejmoa2606934",
+  "title": "Tricuspid-Valve Intervention in Heart Failure",
+  "tipo": "ELEGIBLE",
+  "online": "2026-8-30",
+  "key": "x10"
+ }
+]

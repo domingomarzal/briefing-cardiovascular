@@ -1,0 +1,98 @@
+[
+ {
+  "journal": "N Engl J Med",
+  "doi": "10.1056/nejmoa2607314",
+  "title": "Atorvastatin, Cardiovascular Events, and Disability-free Survival in Older Adults",
+  "tipo": "ELEGIBLE",
+  "online": "2026-8-28",
+  "key": "x1"
+ },
+ {
+  "journal": "N Engl J Med",
+  "doi": "10.1056/nejmoa2606997",
+  "title": "Aspirin Omission at the Time of Primary Percutaneous Coronary Intervention in STEMI",
+  "tipo": "ELEGIBLE",
+  "online": "2026-8-29",
+  "key": "x2"
+ },
+ {
+  "journal": "N Engl J Med",
+  "doi": "10.1056/nejmoa2609057",
+  "title": "Prasugrel versus Ticagrelor in Acute Coronary Syndromes",
+  "tipo": "ELEGIBLE",
+  "online": "2026-8-29",
+  "key": "x3"
+ },
+ {
+  "journal": "N Engl J Med",
+  "doi": "10.1056/nejmoa2608533",
+  "title": "Clopidogrel or Dual Antiplatelet Therapy in High-Ischemic-Risk Patients",
+  "tipo": "ELEGIBLE",
+  "online": "2026-8-29",
+  "key": "x4"
+ },
+ {
+  "journal": "N Engl J Med",
+  "doi": "10.1056/nejmoa2609059",
+  "title": "Prevalence of Silent Atherosclerosis across Adult Life",
+  "tipo": "ELEGIBLE",
+  "online": "2026-8-29",
+  "key": "x5"
+ },
+ {
+  "journal": "N Engl J Med",
+  "doi": "10.1056/nejmoa2605373",
+  "title": "Complete Revascularization Guided by Functional Coronary Angiography in STEMI",
+  "tipo": "ELEGIBLE",
+  "online": "2026-8-29",
+  "key": "x6"
+ },
+ {
+  "journal": "N Engl J Med",
+  "doi": "10.1056/nejmoa2608717",
+  "title": "Milvexian with Antiplatelet Therapy after Acute Coronary Syndrome Event",
+  "tipo": "ELEGIBLE",
+  "online": "2026-8-29",
+  "key": "x7"
+ },
+ {
+  "journal": "N Engl J Med",
+  "doi": "10.1056/nejmoa2608903",
+  "title": "Targeted Use of Computed Tomographic Coronary Angiography in Acute Chest Pain",
+  "tipo": "ELEGIBLE",
+  "online": "2026-8-29",
+  "key": "x8"
+ },
+ {
+  "journal": "N Engl J Med",
+  "doi": "10.1056/nejmoa2606924",
+  "title": "Timing of PCI in Patients Undergoing Transcatheter Aortic-Valve Implantation",
+  "tipo": "ELEGIBLE",
+  "online": "2026-8-30",
+  "key": "x9"
+ },
+ {
+  "journal": "N Engl J Med",
+  "doi": "10.1056/nejmoa2606934",
+  "title": "Tricuspid-Valve Intervention in Heart Failure",
+  "tipo": "ELEGIBLE",
+  "online": "2026-8-30",
+  "key": "x10"
+ },
+ {
+  "journal": "N Engl J Med",
+  "doi": "10.1056/nejmoa2605812",
+  "title": "Immediate Ambulatory Electrocardiographic Monitoring in Syncope",
+  "tipo": "ELEGIBLE",
+  "online": "2026-8-30",
+  "key": "x11"
+ },
+ {
+  "journal": "N Engl J Med",
+  "doi": "10.1056/nejmoa2609056",
+  "title": "Pulmonary Denervation for Heart Failure–Related Pulmonary Hypertension",
+  "tipo": "ELEGIBLE",
+  "online": "2026-8-30",
+  "key": "x12"
+ }
+]
