@@ -221,6 +221,8 @@ body.audio-live .abar{display:flex;}
 .abar .txt{display:none;font-size:12.5px;line-height:1.35;padding:0 4px 0 6px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:210px;}
 .abar.open .txt{display:block;}
 .abar select{display:none;}
+.abar .vel{background:rgba(255,255,255,.16);color:#fff;border:none;border-radius:15px;font:inherit;font-size:11.5px;padding:5px 7px;cursor:pointer;}
+.abar .vel option{color:#16202e;}
 .abar.open select{display:block;}
 .abar .exp svg{transition:transform .18s;}
 .abar.open .exp svg{transform:rotate(180deg);}
@@ -387,22 +389,22 @@ def build(variant):
         "names": {"es": SECES, "en": SECEN},
         "num": NUM.replace("Nº", "").strip(), "per": {"es": PERIOD[0], "en": PERIOD[1]},
         "i18n": {
-          "es": {"hola": "Hola. Vamos a comenzar el Briefing Cardiovascular número %N, del %P. Empezamos con el destacado de la semana.",
+          "es": {"hola": "Hola, vamos a ver el Briefing Cardiovascular número %N. Empezamos con el destacado de la semana.",
                  "dest": "Vamos a comenzar con la publicación destacada de la semana.",
-                 "destOnly": "Destacado de la semana del Briefing Cardiovascular número %N, del %P.",
+                 "destOnly": "Hola, vamos a ver el destacado de la semana del Briefing Cardiovascular número %N.",
                  "top3": "Continuamos con las publicaciones que no te puedes perder.",
-                 "top3Only": "Apartado «No te los puedes perder» del Briefing Cardiovascular número %N, del %P.",
+                 "top3Only": "Hola, vamos a ver «No te los puedes perder» del Briefing Cardiovascular número %N.",
                  "sec": "Continuamos con la sección de %s.",
-                 "secOnly": "Sección de %s. Briefing Cardiovascular número %N, del %P.",
-                 "end": "Aquí termina el briefing. Hasta la semana que viene.", "lang": "es-ES", "voz": "Voz"},
-          "en": {"hola": "Hello. This is Briefing Cardiovascular number %N, covering %P. We begin with the highlight of the week.",
+                 "secOnly": "Hola, vamos a ver la sección de %s del Briefing Cardiovascular número %N.",
+                 "end": "Aquí termina el briefing. Hasta la semana que viene.", "lang": "es-ES", "voz": "Voz", "vel": "Velocidad"},
+          "en": {"hola": "Hello, this is Briefing Cardiovascular number %N. We begin with the highlight of the week.",
                  "dest": "Let us begin with the highlight of the week.",
-                 "destOnly": "Highlight of the week. Briefing Cardiovascular number %N, covering %P.",
+                 "destOnly": "Hello, this is the highlight of the week, from Briefing Cardiovascular number %N.",
                  "top3": "Next, the articles you should not miss.",
-                 "top3Only": "The articles you should not miss. Briefing Cardiovascular number %N, covering %P.",
+                 "top3Only": "Hello, these are the articles you should not miss, from Briefing Cardiovascular number %N.",
                  "sec": "Now the section on %s.",
-                 "secOnly": "Section: %s. Briefing Cardiovascular number %N, covering %P.",
-                 "end": "That is the end of the briefing. See you next week.", "lang": "en-GB", "voz": "Voice"}}
+                 "secOnly": "Hello, this is the section on %s, from Briefing Cardiovascular number %N.",
+                 "end": "That is the end of the briefing. See you next week.", "lang": "en-GB", "voz": "Voice", "vel": "Speed"}}
     }, ensure_ascii=False) + ';</script>')
     root = ":root{"+VAR["root"]+"}"
     HTML = ('<!DOCTYPE html><html lang="es"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">'
@@ -428,6 +430,7 @@ def build(variant):
       '<p class="copied-msg"></p>'
       '</div></div>'
       '<div class="abar" role="status">'
+      '<select class="vel"><option value="1">1&#215;</option><option value="1.25">1,25&#215;</option><option value="1.5">1,5&#215;</option><option value="2">2&#215;</option></select>'
       '<button class="exp" data-ab="exp" aria-label="Ver qué suena"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M15 5l-7 7 7 7"/></svg></button>'
       '<span class="txt"></span>'
       '<button data-ab="pp" aria-label="Pausar o reanudar"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="9" y1="7" x2="9" y2="17"/><line x1="15" y1="7" x2="15" y2="17"/></svg></button>'
@@ -467,6 +470,8 @@ SCRIPT = """<script>
   document.body.classList.add('has-audio');
 
   var Q = [], qi = 0, mode = null, ref = null, st = 'idle', btn = null, voz = null;
+  var vel = 1;                                       /* multiplicador de velocidad */
+  try { vel = parseFloat(localStorage.getItem('brief-vel')) || 1; } catch(e){}
   var sesion = 0;   /* cada reproducción tiene su id: las anteriores quedan invalidadas */
 
   function lang(){ return document.documentElement.getAttribute('lang') === 'en' ? 'en' : 'es'; }
@@ -610,8 +615,9 @@ SCRIPT = """<script>
   function decir(txt){
     var u = new SpeechSynthesisUtterance(txt);
     u.lang = T('lang');
-    /* algo por debajo del habla neutra: a 1.0 las voces atropellan las cifras */
-    u.rate = 0.94; u.pitch = 1;
+    /* algo por debajo del habla neutra: a 1.0 las voces atropellan las cifras.
+       El multiplicador elegido por el usuario se aplica sobre esa base. */
+    u.rate = 0.94 * vel; u.pitch = 1;
     var v = voz || mejorVoz(); if (v) u.voice = v;
     return u;
   }
@@ -782,7 +788,12 @@ SCRIPT = """<script>
               : (lang()==='en' ? 'Copy this page’s address and paste it into Chrome.'
                                : 'Copia la dirección de esta página y pégala en Chrome.');
           }
-          document.body.classList.add('ask-chrome');   /* no cerrar: hay que leer el aviso */
+          /* se deja leer el aviso y se cierra solo: así puedes irte a Chrome */
+          document.body.classList.add('ask-chrome');
+          setTimeout(function(){
+            document.body.classList.remove('ask-chrome');
+            if (box) box.classList.remove('copied');
+          }, 2600);
           return;
         }
       } else if (pend){ pend(); pend = null; }
@@ -819,15 +830,28 @@ SCRIPT = """<script>
   window.addEventListener('beforeunload', function(){ SS.cancel(); });
   if (SS.onvoiceschanged !== undefined) SS.onvoiceschanged = function(){};
 
+  /* selector de velocidad: 1x, 1,25x, 1,5x y 2x sobre el ritmo natural */
+  (function montaVel(){
+    var sv = bar && bar.querySelector('.vel'); if (!sv) return;
+    sv.value = String(vel);
+    sv.setAttribute('aria-label', T('vel'));
+    sv.addEventListener('change', function(){
+      vel = parseFloat(sv.value) || 1;
+      try { localStorage.setItem('brief-vel', String(vel)); } catch(e){}
+      if (st !== 'idle'){ SS.cancel(); st = 'playing'; siguiente(); }   /* re-lee al ritmo nuevo */
+    });
+  })();
+
   /* selector de voz: aparece en la barra si el sistema ofrece más de una */
   function montaVoces(){
     if (!bar) return;
-    var viejo = bar.querySelector('select');
+    var viejo = bar.querySelector('select.vozsel');
     var vs = voces();
     if (vs.length < 2){ if (viejo) viejo.remove(); return; }
     /* se RECONSTRUYE siempre: al cambiar de idioma y cuando el sistema añade voces nuevas */
     if (viejo) viejo.remove();
     var sel = document.createElement('select');
+    sel.className = 'vozsel';                        /* no confundirlo con el de velocidad */
     sel.setAttribute('aria-label', T('voz'));
     sel.style.cssText = 'background:rgba(255,255,255,.16);color:#fff;border:none;border-radius:15px;font:inherit;font-size:11.5px;padding:5px 8px;max-width:130px;cursor:pointer';
     vs.forEach(function(v){ var o = document.createElement('option'); o.value = v.name; o.textContent = v.name; o.style.color = '#16202e'; sel.appendChild(o); });
@@ -837,7 +861,7 @@ SCRIPT = """<script>
       try { localStorage.setItem('brief-voz-' + lang(), sel.value); } catch(e){}
       if (st !== 'idle'){ SS.cancel(); st = 'playing'; siguiente(); }   /* re-lee con la voz nueva */
     });
-    bar.insertBefore(sel, bar.querySelector('button'));
+    bar.insertBefore(sel, bar.firstChild);
   }
   /* Si venimos de "Escuchar en Chrome", el hash trae qué había que escuchar.
      Chrome exige un gesto del usuario para hablar: un speak() automático nada
