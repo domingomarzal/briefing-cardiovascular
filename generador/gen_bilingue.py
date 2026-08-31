@@ -430,7 +430,7 @@ def build(variant):
       '<p class="copied-msg"></p>'
       '</div></div>'
       '<div class="abar" role="status">'
-      '<select class="vel"><option value="1">1&#215;</option><option value="1.25">1,25&#215;</option><option value="1.5">1,5&#215;</option><option value="2">2&#215;</option></select>'
+      '<select class="vel"><option value="1">1&#215;</option><option value="1.25">1,25&#215;</option><option value="1.5">1,5&#215;</option></select>'
       '<button class="exp" data-ab="exp" aria-label="Ver qué suena"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M15 5l-7 7 7 7"/></svg></button>'
       '<span class="txt"></span>'
       '<button data-ab="pp" aria-label="Pausar o reanudar"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="9" y1="7" x2="9" y2="17"/><line x1="15" y1="7" x2="15" y2="17"/></svg></button>'
@@ -477,10 +477,13 @@ SCRIPT = """<script>
   var vel = 1;
   function velDef(){ return lang() === 'es' ? 1.25 : 1; }
   function velKey(){ return 'brief-vel-n' + D.num + '-' + lang(); }
+  var VELS = [1, 1.25, 1.5];
   function leeVel(){
     var v = null;
     try { v = parseFloat(localStorage.getItem(velKey())); } catch(e){}
-    return v || velDef();
+    /* si viene un valor que ya no ofrecemos (p. ej. un 2x guardado antes),
+       se ignora y se vuelve al predeterminado del idioma */
+    return VELS.indexOf(v) > -1 ? v : velDef();
   }
   var sesion = 0;   /* cada reproducción tiene su id: las anteriores quedan invalidadas */
 
