@@ -80,7 +80,7 @@ def main():
         while True:
             u = (f"https://api.crossref.org/journals/{issn}/works?"
                  f"filter=from-created-date:{D1},until-created-date:{D2},type:journal-article"
-                 f"&rows=200&offset={off}&select=DOI,title,created")
+                 f"&rows=200&offset={off}&select=DOI,title,created,issued,published-online")
             msg = json.loads(get(u, UA)).get("message", {})
             got = msg.get("items", [])
             if not got: break
@@ -91,6 +91,18 @@ def main():
         for m in items:
             doi = (m.get("DOI") or "").lower()
             if not doi or doi in tengo: continue
+            # ⚠️ `created` es la fecha de DEPÓSITO en Crossref, y algunas revistas REDEPOSITAN
+            # metadatos de artículos ANTIGUOS (EuroIntervention volcó en ago-2026 artículos de
+            # 2023). Hay que confirmar con la fecha real de publicación: si `issued` o
+            # `published-online` son de un AÑO/MES anterior a la ventana, NO es material nuevo.
+            def _ym(key):
+                v = m.get(key, {}).get("date-parts", [[None]])[0]
+                return (v[0], v[1] if len(v) > 1 else 1) if v and v[0] else None
+            real = _ym("published-online") or _ym("issued")
+            if real:
+                ym_win = (int(D1[:4]), int(D1[5:7]))
+                if real < (ym_win[0], ym_win[1]):      # publicado antes del mes de la ventana
+                    continue
             if name == "N Engl J Med" and not doi.split("/")[-1].startswith(NEJM_OK):
                 continue                       # editorial/carta/perspectiva: no elegible
             falt.append(dict(journal=name, doi=m.get("DOI"), title=(m.get("title") or [""])[0]))
