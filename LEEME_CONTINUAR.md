@@ -1,7 +1,9 @@
 # Briefing Cardiovascular · Cardio al día — Documento de arranque
 
 > Para abrir el proyecto en una sesión NUEVA de Claude y continuarlo. Léelo entero
-> antes de tocar nada. Última actualización: **24-ago-2026** (tras N11; ver §2). Nota previa: 20-jul-2026 (N6 + retirada del
+> antes de tocar nada. Última actualización: **31-ago-2026** (tras N12 y el alta de la routine en
+> la nube; ver §2 y §4.4 — incluye el hallazgo de que la nube no alcanza NCBI). Nota previa:
+> 24-ago-2026 (tras N11; ver §2). Nota previa: 20-jul-2026 (N6 + retirada del
 > paso de WhatsApp, ver §6 y el apéndice §8).
 
 ---
@@ -37,7 +39,8 @@ Además se genera la **Auditoría (Artículos Revisados)** y un **borrador de co
 | **N9** | **3–9 ago** | ✓ (generado 10-ago · 47 art. de 253 revisados · 3 enlaces JACC rotos corregidos) |
 | **N10** | **10–16 ago** | ✓ (generado 17-ago · 39 art. de 233 revisados · 6 enlaces corregidos: 5 JACC Adv + 1 Circulation sin DOI en Crossref) |
 | **N11** | **17–23 ago** | ✓ (generado 24-ago · 50 art. de 252 revisados · 2 enlaces JACC Adv rotos corregidos · 1 duplicado de N10 descartado) |
-| N12 | 24–30 ago | → **lunes 31-ago** (siguiente) |
+| **N12** | **24–30 ago** | ✓ (generado 31-ago en el Mac · 50 art. de 508 revisados · semana congreso ESC · guías ESC 2026 de IC, ERC-ECV y rehabilitación + 5.ª Definición Universal de IAM) |
+| N13 | 31 ago–6 sep | → **lunes 7-sep**, primera generación por la ROUTINE EN LA NUBE (ver §4.4) |
 
 **Regla de numeración/fecha:** el número y el periodo se CALCULAN de la fecha real
 del sistema (`date`), NUNCA de memoria. Ventana = semana natural anterior (lunes-domingo).
@@ -69,7 +72,8 @@ N1 = semana 8-14 jun; cada semana suma 1. Contrasta siempre con el repo (`ls n*`
 ## 4. La tarea automática
 
 - **taskId:** `pulso-cardiologico-semanal` · cron `0 8 * * 1` (lunes 08:00, dispara ~08:06).
-- **Activa.** Última: 24-ago (N11), corrió 100 % sola. Próxima: **31-ago (N12)**.
+- **Activa.** Última: 31-ago (N12), corrió en el Mac. Desde el 7-sep el número lo genera la
+  **routine en la nube** (§4.4) y esta tarea local pasa a ser el BRAZO LOCAL (PASO 0 de la SKILL).
 - **NO requiere tener el Mac abierto a las 08:06** (verificado 20-jul-2026 con la documentación
   oficial de Desktop scheduled tasks): si la app o el Mac estaban cerrados, al abrirlos el
   planificador detecta la ejecución perdida y lanza **una** ejecución de RECUPERACIÓN
@@ -146,6 +150,39 @@ proyecto «Briefing Cardiovascular». No crea ninguna sesión de Claude y sobrev
 - Comprobar: `launchctl print gui/$(id -u)/com.dmarzal.briefing-relabel`
 - Quitar: `launchctl bootout gui/$(id -u)/com.dmarzal.briefing-relabel` + borrar el plist y el script.
 NO toca el planificador, el `SKILL.md` ni el repo → no afecta a la generación del lunes.
+
+### 4.4 Routine en la NUBE — creada 31-ago-2026 (pasa a ser la que genera)
+
+- **id** `trig_016TKue46hKwUG9r2KZTWjd7` · nombre «Briefing Cardiovascular semanal (nube)» ·
+  cron `0 6 * * 1` UTC = **lunes 08:05 hora de Madrid** · modelo `claude-opus-5` ·
+  entorno `env_01KSR3fZTj37xSNRFd9HVtKz` · fuente = este repo.
+- Genera y **publica** el número con el Mac apagado. El Mac queda como brazo local (PASO 0 de la
+  SKILL): `sync.py` hace `git pull` y coloca los ficheros en la subcarpeta, en UICAR y en el
+  Escritorio. **Primera generación real: N13, lunes 7-sep-2026.**
+- **Disparo inaugural 31-ago-2026 10:49 UTC:** no generó nada, y es lo correcto. La ventana de
+  ese día (24–30 ago) es la de N12, que el Mac ya había publicado esa misma mañana; y N13 aún no
+  era generable porque su semana no había terminado. Aplicó la regla dura del PASO 0.3 (nunca
+  regenerar un número existente). Lo único que sí hizo: crear el borrador de Gmail
+  «Cardio al día_N12», que faltaba.
+
+#### ⚠️ Hallazgo crítico de ese disparo: la nube NO puede salir a NCBI
+
+La política de egreso del entorno de la nube **bloquea** (403 en el CONNECT del proxy):
+`eutils.ncbi.nlm.nih.gov`, `api.crossref.org`, `doi.org` y `domingomarzal.github.io`.
+Consecuencias para la routine de la nube:
+
+1. **Los `generador/fetch_*.py` NO funcionan en la nube** (consultan E-utilities de NCBI por HTTP).
+   La búsqueda de PubMed debe hacerse con el **conector MCP de PubMed**
+   (`search_articles` + `get_article_metadata`), que **sí funciona** (verificado el 31-ago con la
+   ventana 24–30 ago: 41 resultados en `Eur Heart J`). Es además lo que manda el PASO 1 de la SKILL.
+2. **El PASO 7b (verificación de enlaces) NO se puede completar en la nube:** `check_links.py`
+   necesita Crossref, que está bloqueado. Queda pendiente para el Mac, o hay que habilitar
+   `api.crossref.org` en la política de red del entorno.
+3. Tampoco se puede comprobar desde la nube que la página publicada responde (Pages bloqueado).
+
+**Qué conviene hacer antes del 7-sep:** o bien añadir `eutils.ncbi.nlm.nih.gov` y
+`api.crossref.org` a la lista permitida del entorno, o bien dejar constancia en el prompt de la
+routine de que el fetch se hace con el conector MCP de PubMed y de que el PASO 7b se delega al Mac.
 
 ---
 
