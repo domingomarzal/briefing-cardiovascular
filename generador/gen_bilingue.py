@@ -181,9 +181,17 @@ def ptype_span(a):
 def modal(a):
     es, en = a["_t_es"], a["_t_en"]; cid = "cb-a-"+a["key"]
     e, n = a["es"], a["en"]
+    # Las guías/consensos/statements no tienen "Resultados" ni "Conclusiones": llevan
+    # "Novedades" (recomendaciones nuevas o modificadas) y "Qué cambia en la práctica".
+    if a["ptype"] in ("Guía de práctica clínica", "Documento de consenso", "Scientific Statement"):
+        l2 = T("Novedades.", "What’s new.")
+        l3 = T("Qué cambia en la práctica.", "What changes in practice.")
+    else:
+        l2 = T("Resultados.", "Results.")
+        l3 = T("Conclusiones.", "Conclusions.")
     body = ("<p><b>%s</b> %s</p>" % (T("De qué va.","What it’s about."), T(e.get("deque",""), n.get("deque","")))
-          + "<p><b>%s</b> %s</p>" % (T("Resultados.","Results."), T(e.get("resultados",""), n.get("resultados","")))
-          + "<p><b>%s</b> %s</p>" % (T("Conclusiones.","Conclusions."), T(e.get("conclusiones",""), n.get("conclusiones",""))))
+          + "<p><b>%s</b> %s</p>" % (l2, T(e.get("resultados",""), n.get("resultados","")))
+          + "<p><b>%s</b> %s</p>" % (l3, T(e.get("conclusiones",""), n.get("conclusiones",""))))
     mt = '<h3 class="modal-title" data-es="%s" data-en="%s">%s</h3>' % (ae(es if VAR["title_lang"]=="es" else en), ae(en), he(es if VAR["title_lang"]=="es" else en))
     return ('<input type="checkbox" id="%s" class="mcb"><div class="cmodal"><label class="cmodal-bg" for="%s"></label>'
             '<div class="cmodal-box"><label class="cmodal-x" for="%s" aria-label="Cerrar">&times;</label>'
@@ -322,6 +330,7 @@ CONFIGS = [
  dict(n="n9", linkfix=_acr(BASE+"/generador/n9_linkfix.json"), data=BASE+"/generador/n9_data.json", num="Nº 9", period=("3 al 9 de agosto de 2026","August 3–9, 2026"), dest="a43", top3=["a6","a18","a44"], acr=_acr(BASE+"/generador/n9_acr.json"), viz=_viz(BASE+"/generador/n9_viz.html"), local="Briefing Cardiovascular_N9", lnum="N9"),
  dict(n="n10", linkfix=_acr(BASE+"/generador/n10_linkfix.json"), data=BASE+"/generador/n10_data.json", num="Nº 10", period=("10 al 16 de agosto de 2026","August 10–16, 2026"), dest="a6", top3=["a39","a16","a24"], acr=_acr(BASE+"/generador/n10_acr.json"), viz=_viz(BASE+"/generador/n10_viz.html"), local="Briefing Cardiovascular_N10", lnum="N10"),
  dict(n="n11", linkfix=_acr(BASE+"/generador/n11_linkfix.json"), data=BASE+"/generador/n11_data.json", num="Nº 11", period=("17 al 23 de agosto de 2026","August 17–23, 2026"), dest="a41", top3=["a6","a42","a46"], acr=_acr(BASE+"/generador/n11_acr.json"), viz=_viz(BASE+"/generador/n11_viz.html"), local="Briefing Cardiovascular_N11", lnum="N11"),
+ dict(n="n12", linkfix=_acr(BASE+"/generador/n12_linkfix.json"), data=BASE+"/generador/n12_data.json", num="Nº 12", period=("24 al 30 de agosto de 2026","August 24–30, 2026"), dest="a21", top3=["a16","a46","a47"], acr=_acr(BASE+"/generador/n12_acr.json"), viz=_viz(BASE+"/generador/n12_viz.html"), local="Briefing Cardiovascular_N12", lnum="N12"),
 ]
 import sys as _sys
 ONLY = _sys.argv[1] if len(_sys.argv) > 1 else None
