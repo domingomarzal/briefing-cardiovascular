@@ -802,7 +802,11 @@ SCRIPT = """<script>
       if (a === 'exp'){ bar.classList.toggle('open'); montaVoces(); }
       else if (a === 'pp') pausa();
       else parar();
+      return;
     }
+    /* clic fuera del diálogo desplegado → se repliega al tamaño pequeño */
+    if (bar && bar.classList.contains('open') && !(ev.target.closest && ev.target.closest('.abar')))
+      bar.classList.remove('open');
   }, true);
 
   /* al cambiar de idioma o cerrar el pop-up, se detiene: el texto ya no es el mismo */
@@ -855,30 +859,28 @@ SCRIPT = """<script>
       else if (r.indexOf('art-') === 0) b = document.querySelector('.abtn[data-a="art"][data-ref="' + r.slice(4) + '"]');
       if (!b) return;
 
-      try { b.click(); } catch(e){}
-
-      /* ¿ha sonado? Si Chrome lo bloqueó, speaking sigue en false */
-      setTimeout(function(){
-        if (SS.speaking || SS.pending) return;      /* sonó: nada que hacer */
-        parar();                                    /* deja el reproductor limpio */
-        var es = lang() === 'es';
-        var w = document.createElement('div');
-        w.className = 'gesto';
-        w.innerHTML = '<button type="button">'
-          + '<svg viewBox="0 0 24 24" width="19" height="19" aria-hidden="true">'
-          + '<path d="M8 5v14l11-7z" fill="currentColor"></path></svg>'
-          + '<span>' + (es ? 'Pulsa para escuchar' : 'Tap to listen') + '</span></button>';
-        document.body.appendChild(w);
-        function arranca(){
-          w.parentNode && w.parentNode.removeChild(w);
-          document.removeEventListener('click', arranca, true);
-          try { b.click(); } catch(e){}
-          b.scrollIntoView({ block: 'center' });
-        }
-        w.querySelector('button').addEventListener('click', function(ev){ ev.stopPropagation(); arranca(); });
-        /* cualquier otro clic en la página vale igual como gesto */
-        setTimeout(function(){ document.addEventListener('click', arranca, true); }, 50);
-      }, 900);
+      /* NO se reproduce solo. Chrome deja speechSynthesis.speaking en true
+         aunque no emita sonido si no hubo gesto del usuario, así que un
+         arranque automático deja el botón "sonando" en falso y mudo. Llegamos
+         en reposo y basta un toque — que sí es gesto — para que suene. */
+      b.scrollIntoView({ block: 'center' });
+      var es = lang() === 'es';
+      var w = document.createElement('div');
+      w.className = 'gesto';
+      w.innerHTML = '<button type="button">'
+        + '<svg viewBox="0 0 24 24" width="19" height="19" aria-hidden="true">'
+        + '<path d="M8 5v14l11-7z" fill="currentColor"></path></svg>'
+        + '<span>' + (es ? 'Pulsa para escuchar' : 'Tap to listen') + '</span></button>';
+      document.body.appendChild(w);
+      function arranca(){
+        if (!w.parentNode) return;
+        w.parentNode.removeChild(w);
+        document.removeEventListener('click', arranca, true);
+        try { b.click(); } catch(e){}
+      }
+      w.querySelector('button').addEventListener('click', function(ev){ ev.stopPropagation(); arranca(); });
+      /* cualquier otro clic de la página sirve igual como gesto */
+      setTimeout(function(){ document.addEventListener('click', arranca, true); }, 60);
     }
     setTimeout(lanza, 700);    /* dar tiempo a que carguen las voces */
   })();
