@@ -710,6 +710,9 @@ SCRIPT = """<script>
   }
   function arranca(m, r, b){
     sesion++;                                  /* invalida cualquier audio en curso */
+    /* cada audio empieza con el reproductor REPLEGADO: si no, basta desplegarlo
+       una vez (para elegir voz) para que aparezca abierto en todos los demás */
+    if (bar) bar.classList.remove('open');
     SS.cancel(); Q = cola(m, r); qi = 0; mode = m; ref = r; btn = b; st = 'playing';
     if (!Q.length){ parar(); return; }
     siguiente(sesion);
