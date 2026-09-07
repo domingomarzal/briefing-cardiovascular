@@ -320,27 +320,20 @@ LLEGADA DESDE EL ENLACE PEGADO EN CHROME (`#audio=<ref>&lang=<es|en>`):
 
 TÍTULOS: en modo español los títulos de las publicaciones se muestran EN ESPAÑOL
 también en el Briefing (`title_lang="es"`), como ya hacía el Cardio al día.
-PASO 11 — ORDEN DE LAS CARPETAS: DE MÁS RECIENTE A MÁS ANTIGUO (regla dura del
-usuario, 07/09/2026). Domingo quiere ver SIEMPRE arriba el número más nuevo, tanto
-en `~/Documents/Claude/Briefing Cardiovascular/` como en `~/Documents/UICAR/Cardio al dIA/`:
-N14 encima de N13, N13 encima de N12, etc.
- ⛔ POR QUÉ NO BASTA EL NOMBRE: el orden alfabético mezcla los números de una cifra
-   con los de dos — N0, N1, **N10, N11, N12, N13**, N2, N3… — así que ordenar por
-   nombre NUNCA da el orden correcto (ni ascendente ni descendente).
- ✅ CÓMO SE RESUELVE: por FECHA. Cada número lleva estampada su fecha real de
-   publicación (el lunes en que salió), no la fecha en que se copió el fichero.
-   `sync.py` lo hace solo con `sella_fecha()`: al colocar cada fichero y cada carpeta
-   les pone el lunes que les corresponde (el último número = el lunes de esta semana;
-   los anteriores retroceden de 7 en 7 días). Es idempotente.
- ⚠️ IMPORTANTE AL REGENERAR EN MASA: si alguna vez se regeneran varios números de
-   golpe desde el Mac, TODOS quedan con la fecha de hoy y el orden se pierde. Basta
-   volver a ejecutar `python3 "$HOME/Library/Application Support/briefing-sync/sync.py"`,
-   que reestampa las fechas de todo. NO renombrar las carpetas con ceros a la
-   izquierda (N00, N01…): rompería `sync.py` y los `local=`/`lnum=` de gen_bilingue.py.
- VISTA DE FINDER: las dos carpetas deben estar en vista Lista ordenadas por «Fecha de
-   modificación» descendente. Es un ajuste del usuario en su Finder (una sola vez por
-   carpeta); no se puede fijar desde la tarea porque controlar Finder por AppleScript
-   requiere una autorización del sistema que en ejecución desatendida se queda colgada.
+PASO 11 — ⛔ NO TOCAR LAS FECHAS NI EL ORDEN DE LAS CARPETAS (regla dura del
+usuario, 07/09/2026, corrigiendo un cambio mío del mismo día que NO había pedido).
+Domingo organiza **TODO su Mac por NOMBRE**. Las carpetas
+`~/Documents/Claude/Briefing Cardiovascular/` y `~/Documents/UICAR/Cardio al dIA/`
+se ordenan por nombre, y así se quedan. Que N10 salga entre N1 y N2 es un efecto
+del orden alfabético que a él NO le molesta.
+ · NO estampes fechas de publicación en ficheros ni carpetas para forzar un orden
+   cronológico. Se probó y se revirtió: `sync.py` no debe llevar `sella_fecha()`.
+ · NO renombres con ceros a la izquierda (N00, N01…): además de cambiar el criterio
+   del usuario, rompería `sync.py` y los `local=`/`lnum=` de gen_bilingue.py.
+ · Las copias las hace `shutil.copy2`, que conserva la fecha del fichero origen del
+   repo. Ese es el comportamiento correcto: no lo alteres.
+ LECCIÓN: la organización de sus carpetas es decisión suya. Si algo parece
+ «desordenado», se le pregunta antes de cambiarlo; no se reorganiza por iniciativa.
 
 BACKUP DE LA MIGRACIÓN DE SESIONES — RESUELTO (07/09/2026). El fichero
 `backup-sesiones-20260716-175210.tgz` (348 MB) era la copia de seguridad previa a la
