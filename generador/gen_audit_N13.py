@@ -149,6 +149,12 @@ head = re.sub(r'Se recuperaron <b>\d+ referencias</b>', f'Se recuperaron <b>{nto
 #    (8-10 una guía mayor de ESC/ACC/AHA), con la fórmula normal de 6 ejes.
 head = head.replace("guías —sin EFECTO— y ensayos negativos",
                     "guías y consensos —que puntúan EFECTO por su respaldo institucional— y ensayos negativos")
+# 1b) Y la frase gemela de la leyenda: en N13 los tres documentos de sociedad (a2, a39, a46)
+#     SÍ llevan EFECTO puntuado (7, 6 y 7), así que anunciar «EFECTO = —» era falso.
+head = re.sub(r'En las guías/consensos y los documentos sin resultado cuantitativo, <b>EFECTO = «—»</b>',
+              'En los documentos sin resultado cuantitativo, <b>EFECTO = «—»</b>; las guías, consensos y '
+              'statements de sociedad SÍ puntúan EFECTO (8-10 una guía mayor de ESC/ACC/AHA; 6-8 un '
+              'consenso o statement de alcance más limitado)', head)
 # 2) El corpus ya no sale solo de PubMed: la auditoría de cobertura (PASO 0.2.b) incorpora
 #    los artículos que el editor publicó y PubMed no indexó, recuperados por Crossref.
 head = head.replace(
