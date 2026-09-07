@@ -220,11 +220,29 @@ REGLAS DE DISEÑO YA FIJADAS (no cambiarlas sin que el usuario lo pida):
    El color de sección se usa ÚNICAMENTE dentro de las secciones y en los pop-ups
    de los artículos de sección.
  · POSICIÓN en el Destacado: en la fila del TÍTULO, alineado con la PRIMERA línea
-   (`align-items:flex-start`) y desplazado al BORDE DERECHO del bloque con
-   `margin-right:-202px` — el título vive en la columna izquierda de una rejilla
-   `1fr / 180px` con `gap:22px`, y hay que salvar esos 202 px para que quede a
-   plomo con «Guía de práctica clínica» y con las revistas del Top 3. En móvil
-   (≤620px) el margen negativo se anula.
+   y a plomo con «Guía de práctica clínica» y con las revistas del Top 3, es decir,
+   en el BORDE DERECHO del bloque. El título vive en la columna izquierda de una
+   rejilla `1fr / 180px` con `gap:22px`, así que hay que salvar esos 202 px.
+   ⛔ CÓMO **NO** SE HACE (fallo real, corregido el 07/09/2026 a petición del usuario):
+   con `.d-h2row` en `display:flex`, `h2{flex-grow:1}` y el botón con
+   `margin-right:-202px`. Visualmente el botón quedaba bien, PERO el margen negativo
+   libera 202 px dentro del flex y el `h2`, al tener `flex-grow:1`, se los queda: el
+   TÍTULO DEL DESTACADO se estiraba a TODO EL ANCHO de la tarjeta, en vez de tener el
+   mismo ancho que el resumen y el «Por qué importa» de debajo. Se veía como una sola
+   columna y descuadraba el bloque entero.
+   ✅ CÓMO SE HACE: el botón va **POSICIONADO EN ABSOLUTO**, fuera del flujo, de modo
+   que no participa en el reparto de espacio y el `h2` conserva el ancho de su columna:
+     `.d-h2row{position:relative;}`
+     `.d-h2row h2{margin-right:0;}`
+     `.d-h2row .abtn{position:absolute;top:3px;right:-202px;}`
+   El `right:-202px` deja el borde derecho del botón exactamente donde lo dejaba el
+   margen negativo (202 px = 180 de la figura + 22 del gap), así que la posición visual
+   NO cambia: solo se arregla el ancho del título. En móvil (≤620px) la rejilla es de
+   una sola columna, así que ahí el botón VUELVE al flujo:
+     `@media(max-width:620px){.d-h2row{display:flex;align-items:flex-start;gap:14px;}`
+     `  .d-h2row h2{flex-grow:1;min-width:0;} .d-h2row .abtn{position:static;margin-top:3px;}}`
+   REGLA: el título del Destacado SIEMPRE ha de tener el mismo ancho que el texto que
+   lleva debajo. Si al tocar el audio vuelve a ocupar toda la tarjeta, es este fallo.
  · En los pop-ups: a la izquierda del botón de cerrar.
 
 REPRODUCTOR (barra flotante abajo a la derecha):
@@ -246,15 +264,29 @@ cambiado el anterior; volver a un número ya ajustado recupera su valor. Un valo
 guardado que ya no se ofrece (p. ej. un 2× antiguo) se ignora y vuelve al defecto.
 
 PRESENTACIONES HABLADAS (orden del usuario, 31/08/2026): se dice el número del
-briefing y NO la fecha. Plantillas (`%N` = número):
- · Briefing entero: «Hola, vamos a ver el Briefing Cardiovascular número %N.
-   Empezamos con el destacado de la semana.»
- · Destacado: «Hola, vamos a ver el destacado de la semana del Briefing
-   Cardiovascular número %N.»
- · Top 3: «Hola, vamos a ver "No te los puedes perder" del Briefing
-   Cardiovascular número %N.»
- · Sección: «Hola, vamos a ver la sección de %s del Briefing Cardiovascular
-   número %N.»
+briefing y NO la fecha.
+⭐ CADA VARIANTE SE PRESENTA CON SU PROPIO NOMBRE (regla dura del usuario, 07/09/2026).
+El audio del **Cardio al día** —el fichero que se guarda en `~/Documents/UICAR/Cardio al dIA/`
+y la copia del Escritorio— NO puede decir «Briefing Cardiovascular»: se llama **Cardio al día**.
+Solo el fichero de la carpeta `Briefing Cardiovascular` dice «Briefing Cardiovascular».
+Cómo está implementado en `gen_bilingue.py`: cada entrada de `VARIANTS` declara su nombre
+hablado en tres formas —`sp_nom` (con artículo: «el Briefing Cardiovascular» / «Cardio al día»),
+`sp_gen` (genitivo: «del Briefing Cardiovascular» / «de Cardio al día») y `sp_end` (cierre:
+«el briefing» / «Cardio al día»)—, y las plantillas llevan los marcadores **%B**, **%G** y **%E**,
+que `_nombra()` resuelve al construir cada fichero. `%N` (número) y `%s` (sección) los sigue
+sustituyendo el JS en tiempo de ejecución. «Cardio al día» se escribe CON TILDE y sin el juego
+tipográfico «dIA», para que el sintetizador lo lea bien.
+Plantillas (`%N` = número; `%B`/`%G`/`%E` = nombre de la variante):
+ · Número entero: «Hola, vamos a ver %B número %N. Empezamos con el destacado de la semana.»
+ · Destacado: «Hola, vamos a ver el destacado de la semana %G número %N.»
+ · Top 3: «Hola, vamos a ver "No te los puedes perder" %G número %N.»
+ · Sección: «Hola, vamos a ver la sección de %s %G número %N.»
+ · Cierre: «Aquí termina %E. Hasta la semana que viene.»
+Que resuelto da, por ejemplo: «Hola, vamos a ver "No te los puedes perder" del Briefing
+Cardiovascular número 13.» en el briefing, y «…"No te los puedes perder" de Cardio al día
+número 13.» en el Cardio al día. Lo mismo en inglés. COMPROBACIÓN antes de publicar: en el
+`window.BRIEF_AUDIO` del `cardio-al-dia.html` NO debe aparecer la cadena «Briefing
+Cardiovascular», y en el del briefing NO debe aparecer «Cardio al día».
 Los pop-ups sueltos de artículo NO llevan presentación. En el audio general no se
 repite un artículo ya oído en el Destacado o en el Top 3.
 
