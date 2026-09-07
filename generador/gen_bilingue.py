@@ -184,10 +184,17 @@ body.has-audio .abtn{display:inline-flex;}
 /* Destacado: el botón queda a la altura de la PRIMERA línea del título, pero
    desplazado hasta el borde derecho del bloque — el título vive en la columna
    izquierda de una rejilla 1fr/180px con gap 22px, así que hay que salvar esos
-   202 px para alinearlo con «Guía de práctica clínica» y con las revistas. */
-.d-h2row{display:flex;align-items:flex-start;gap:14px;}
-.d-h2row h2{flex-grow:1;min-width:0;}
-.d-h2row .abtn{margin-top:3px;margin-right:-202px;}
+   202 px para alinearlo con «Guía de práctica clínica» y con las revistas.
+   OJO (corregido 7-sep-2026 a petición del usuario): el botón va POSICIONADO EN ABSOLUTO,
+   no con margin-right negativo dentro de un flex. Con el margen negativo, el h2 (flex-grow:1)
+   se estiraba esos 202 px más allá de su columna y el TÍTULO DEL DESTACADO ocupaba todo el
+   ancho de la tarjeta, en vez de tener el mismo ancho que el texto de debajo. Sacándolo del
+   flujo, el h2 recupera el ancho de la columna izquierda y el botón queda EXACTAMENTE donde
+   estaba: su borde derecho a 202 px del borde de la columna = borde derecho del bloque.
+   En móvil (<=620px) la rejilla es de una sola columna: ahí vuelve al flujo (position:static). */
+.d-h2row{position:relative;}
+.d-h2row h2{margin-right:0;}
+.d-h2row .abtn{position:absolute;top:3px;right:-202px;}
 /* Aviso de un solo toque cuando el navegador exige gesto para hablar */
 .gesto{position:fixed;left:0;right:0;bottom:0;z-index:600;display:flex;justify-content:center;
   padding:16px;pointer-events:none;}
@@ -196,7 +203,9 @@ body.has-audio .abtn{display:inline-flex;}
   font:600 15px/1 inherit;color:#fff;background:#0f9aa0;
   box-shadow:0 6px 22px rgba(15,23,42,.28);}
 .gesto button:hover{background:#0c8288;}
-@media(max-width:620px){.d-h2row .abtn{margin-right:0;}}
+@media(max-width:620px){.d-h2row{display:flex;align-items:flex-start;gap:14px;}
+  .d-h2row h2{flex-grow:1;min-width:0;}
+  .d-h2row .abtn{position:static;margin-top:3px;}}
 /* Top 3: sobre fondo navy, en verde claro para que se lea */
 .top3 .t3h{display:flex;align-items:center;}
 .top3 .t3h h3{flex-grow:1;min-width:0;}
@@ -969,7 +978,7 @@ CONFIGS = [
  dict(n="n10", linkfix=_acr(BASE+"/generador/n10_linkfix.json"), data=BASE+"/generador/n10_data.json", num="Nº 10", period=("10 al 16 de agosto de 2026","August 10–16, 2026"), dest="a6", top3=["a39","a16","a24"], acr=_acr(BASE+"/generador/n10_acr.json"), viz=_viz(BASE+"/generador/n10_viz.html"), local="Briefing Cardiovascular_N10", lnum="N10"),
  dict(n="n11", linkfix=_acr(BASE+"/generador/n11_linkfix.json"), data=BASE+"/generador/n11_data.json", num="Nº 11", period=("17 al 23 de agosto de 2026","August 17–23, 2026"), dest="a41", top3=["a6","a42","a46"], acr=_acr(BASE+"/generador/n11_acr.json"), viz=_viz(BASE+"/generador/n11_viz.html"), local="Briefing Cardiovascular_N11", lnum="N11"),
  dict(n="n12", linkfix=_acr(BASE+"/generador/n12_linkfix.json"), data=BASE+"/generador/n12_data.json", num="Nº 12", period=("24 al 30 de agosto de 2026","August 24–30, 2026"), dest="a21", top3=["a6","a1","a16"], acr=_acr(BASE+"/generador/n12_acr.json"), viz=_viz(BASE+"/generador/n12_viz.html"), local="Briefing Cardiovascular_N12", lnum="N12"),
- dict(n="n13", linkfix=_acr(BASE+"/generador/n13_linkfix.json"), data=BASE+"/generador/n13_data.json", num="Nº 13", period=("31 de agosto al 6 de septiembre de 2026","August 31 – September 6, 2026"), dest="a36", top3=["a41","a42","a11"], acr=_acr(BASE+"/generador/n13_acr.json"), viz=_viz(BASE+"/generador/n13_viz.html"), local="Briefing Cardiovascular_N13", lnum="N13"),
+ dict(n="n13", linkfix=_acr(BASE+"/generador/n13_linkfix.json"), data=BASE+"/generador/n13_data.json", num="Nº 13", period=("31 de agosto al 6 de septiembre de 2026","August 31 – September 6, 2026"), dest="a11", top3=["a12","a41","a42"], acr=_acr(BASE+"/generador/n13_acr.json"), viz=_viz(BASE+"/generador/n13_viz.html"), local="Briefing Cardiovascular_N13", lnum="N13"),
 ]
 import sys as _sys
 ONLY = _sys.argv[1] if len(_sys.argv) > 1 else None

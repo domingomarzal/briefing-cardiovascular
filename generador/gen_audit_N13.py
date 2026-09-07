@@ -24,7 +24,7 @@ for s in _selraw:
     if not s.get("pmid"):
         s["pmid"] = _recuperados.get(s["title"], "CR:" + s["key"])
 sel = {s["pmid"]: s for s in _selraw}
-DEST = "a36"; TOP3 = ("a41", "a42", "a11")
+DEST = "a11"; TOP3 = ("a12", "a41", "a42")
 SECN = {1: "Cardiología preventiva", 2: "Cardiometabolismo", 3: "Dislipemia", 4: "Cardiopatía isquémica",
         5: "Insuficiencia cardíaca", 6: "Miocardiopatías", 7: "Valvulopatías", 8: "Imagen cardíaca",
         9: "Cardiología intervencionista", 10: "Arritmias y electrofisiología"}
@@ -55,6 +55,9 @@ for f in sorted(glob.glob(GEN + "/n13_out?.json")):
         if "no cardiovascular" in m: NOCV.add(p)
         elif "básica" in m: BASICA.add(p)
         else: NOELIG.add(p)
+# Excluidos por DECISIÓN EDITORIAL del usuario (7-sep-2026): tema fuera del ámbito de la
+# cardiología clínica, aunque la revista y el tipo sí fueran elegibles.
+FUERA_AMBITO = {e["pmid"] for e in EL if e["doi"].lower() == "10.1056/nejmoa2608012"}
 rows = []
 for a in corpus:
     p = a["pmid"]
@@ -70,17 +73,19 @@ for a in corpus:
         rec.update(scored=True, sel=True, sec=g["sec"], ptype=g["ptype"], REL=g["rel"], CA=g["cambio"], EV=g["evid"],
                    EF=g["efecto"], REP=g["rep"], FI=g["fi"], tot=g["total"], pri=pr, pril=g["prio"], star=star, mot="")
     else:
-        if not inwin: mot = "periodo"
+        if p in FUERA_AMBITO: mot = "ambito"
+        elif not inwin: mot = "periodo"
         elif not (etype and has_abs): mot = "tipo"
         elif p in NOCV: mot = "nocv"
         elif p in BASICA: mot = "basica"
         else: mot = "top5"
         rec.update(scored=False, sel=False, mot=mot, ptype=entype(a["ptypes"]))
     rows.append(rec)
-order_mot = {"": 0, "top5": 1, "basica": 3, "nocv": 3, "tipo": 4, "periodo": 5}
+order_mot = {"": 0, "top5": 1, "ambito": 2, "basica": 3, "nocv": 3, "tipo": 4, "periodo": 5}
 rows.sort(key=lambda r: (0 if r["scored"] else 1, -(r.get("tot", 0) if r["scored"] else 0),
                          order_mot.get(r["mot"], 6), r["journal"].lower()))
 MOTTXT = {"top5": "fuera del top 5 de su sección", "basica": "ciencia básica / sin traslación clínica",
+          "ambito": "fuera del ámbito de la cardiología clínica (embolia pulmonar)",
           "nocv": "no cardiovascular", "tipo": "tipo no elegible / sin resumen"}
 def motcell(r):
     if r["sel"]: return '<td class="estado"><span class="est-sel">Seleccionado</span></td>'
