@@ -46,12 +46,22 @@ VARIANTS = {
    fname="index", title_html='Briefing <span class="ac">Cardiovascular</span>',
    foot_html='Briefing <span class="ac">Cardiovascular</span>',
    root="--headbg:linear-gradient(135deg,#0a3d62 0%,#072b46 100%);--titleac:#0f9aa0;--top3bg:#0a3d62;--top3star:#0f9aa0;--numborder:#0f9aa0;--numtext:#bdeaeb;--periodoc:#aac3d1;",
-   title_lang="es"),  # briefing: en ESP los títulos van en ESPAÑOL (regla del usuario, 31/08/2026)
+   title_lang="es",  # briefing: en ESP los títulos van en ESPAÑOL (regla del usuario, 31/08/2026)
+   # Nombre HABLADO por el motor de audio. sp_nom = con artículo ("vamos a ver EL Briefing…"),
+   # sp_gen = genitivo ("el destacado DEL Briefing…"), sp_end = cierre ("aquí termina…").
+   sp_nom=("el Briefing Cardiovascular", "Briefing Cardiovascular"),
+   sp_gen=("del Briefing Cardiovascular", "from Briefing Cardiovascular"),
+   sp_end=("el briefing", "the briefing")),
  "ciencia": dict(
    fname="cardio-al-dia", title_html='Cardio al d<span class="ac iabig">IA</span>',
    foot_html='Cardio al d<span class="ac">IA</span>',
    root="--headbg:linear-gradient(135deg,#0a3d62 0%,#072b46 100%);--titleac:#0f9aa0;--top3bg:#0a3d62;--top3star:#0f9aa0;--numborder:#0f9aa0;--numtext:#bdeaeb;--periodoc:#aac3d1;",
-   title_lang="es"),  # ciencia: ES mode = Spanish titles
+   title_lang="es",  # ciencia: ES mode = Spanish titles
+   # «Cardio al día» es su nombre: en el audio NUNCA se dice «Briefing Cardiovascular».
+   # Va con tilde y sin el juego tipográfico «dIA» para que el sintetizador lo lea bien.
+   sp_nom=("Cardio al día", "Cardio al día"),
+   sp_gen=("de Cardio al día", "from Cardio al día"),
+   sp_end=("Cardio al día", "Cardio al día")),
 }
 
 # ---- build per-article presentation ----
@@ -393,27 +403,37 @@ def build(variant):
 
     # Datos para el motor de audio: qué leer y en qué orden
     _sec_keys = {s: [a["key"] for a in sorted(BY.get(s, []), key=lambda x: -x["total"])] for s in range(1, 11)}
+    # %B/%G/%E = nombre hablado de ESTA variante. El briefing dice «Briefing Cardiovascular»;
+    # el Cardio al día dice «Cardio al día». %N y %s los sustituye el JS en tiempo de ejecución.
+    def _nombra(d):
+        for li, lang in enumerate(("es", "en")):
+            for k, v in d[lang].items():
+                if isinstance(v, str):
+                    d[lang][k] = (v.replace("%B", VAR["sp_nom"][li])
+                                   .replace("%G", VAR["sp_gen"][li])
+                                   .replace("%E", VAR["sp_end"][li]))
+        return d
     AUDIO_DATA = ('<script>window.BRIEF_AUDIO=' + json.dumps({
         "dest": DESTACADO_KEY, "top3": list(TOP3), "secs": _sec_keys,
         "names": {"es": SECES, "en": SECEN},
         "num": NUM.replace("Nº", "").strip(), "per": {"es": PERIOD[0], "en": PERIOD[1]},
-        "i18n": {
-          "es": {"hola": "Hola, vamos a ver el Briefing Cardiovascular número %N. Empezamos con el destacado de la semana.",
+        "i18n": _nombra({
+          "es": {"hola": "Hola, vamos a ver %B número %N. Empezamos con el destacado de la semana.",
                  "dest": "Vamos a comenzar con la publicación destacada de la semana.",
-                 "destOnly": "Hola, vamos a ver el destacado de la semana del Briefing Cardiovascular número %N.",
+                 "destOnly": "Hola, vamos a ver el destacado de la semana %G número %N.",
                  "top3": "Continuamos con las publicaciones que no te puedes perder.",
-                 "top3Only": "Hola, vamos a ver «No te los puedes perder» del Briefing Cardiovascular número %N.",
+                 "top3Only": "Hola, vamos a ver «No te los puedes perder» %G número %N.",
                  "sec": "Continuamos con la sección de %s.",
-                 "secOnly": "Hola, vamos a ver la sección de %s del Briefing Cardiovascular número %N.",
-                 "end": "Aquí termina el briefing. Hasta la semana que viene.", "lang": "es-ES", "voz": "Voz", "vel": "Velocidad"},
-          "en": {"hola": "Hello, this is Briefing Cardiovascular number %N. We begin with the highlight of the week.",
+                 "secOnly": "Hola, vamos a ver la sección de %s %G número %N.",
+                 "end": "Aquí termina %E. Hasta la semana que viene.", "lang": "es-ES", "voz": "Voz", "vel": "Velocidad"},
+          "en": {"hola": "Hello, this is %B number %N. We begin with the highlight of the week.",
                  "dest": "Let us begin with the highlight of the week.",
-                 "destOnly": "Hello, this is the highlight of the week, from Briefing Cardiovascular number %N.",
+                 "destOnly": "Hello, this is the highlight of the week, %G number %N.",
                  "top3": "Next, the articles you should not miss.",
-                 "top3Only": "Hello, these are the articles you should not miss, from Briefing Cardiovascular number %N.",
+                 "top3Only": "Hello, these are the articles you should not miss, %G number %N.",
                  "sec": "Now the section on %s.",
-                 "secOnly": "Hello, this is the section on %s, from Briefing Cardiovascular number %N.",
-                 "end": "That is the end of the briefing. See you next week.", "lang": "en-GB", "voz": "Voice", "vel": "Speed"}}
+                 "secOnly": "Hello, this is the section on %s, %G number %N.",
+                 "end": "That is the end of %E. See you next week.", "lang": "en-GB", "voz": "Voice", "vel": "Speed"}})
     }, ensure_ascii=False) + ';</script>')
     root = ":root{"+VAR["root"]+"}"
     HTML = ('<!DOCTYPE html><html lang="es"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">'
