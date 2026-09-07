@@ -144,6 +144,18 @@ head = re.sub(r'Listado completo de artículos revisados \(\d+\); puntuados los 
               f'Listado completo de artículos revisados ({ntot}); puntuados los {nsel} seleccionados', head)
 head = re.sub(r'mostrando \d+ de \d+ · \d+ seleccionados', f'mostrando {ntot} de {ntot} · {nsel} seleccionados', head)
 head = re.sub(r'Se recuperaron <b>\d+ referencias</b>', f'Se recuperaron <b>{ntot} referencias</b>', head)
+# --- Correcciones de la metodología heredada de la plantilla (7-sep-2026):
+# 1) La anulación «las guías no puntúan EFECTO» fue DEROGADA el 31/08/2026: ahora SÍ lo puntúan
+#    (8-10 una guía mayor de ESC/ACC/AHA), con la fórmula normal de 6 ejes.
+head = head.replace("guías —sin EFECTO— y ensayos negativos",
+                    "guías y consensos —que puntúan EFECTO por su respaldo institucional— y ensayos negativos")
+# 2) El corpus ya no sale solo de PubMed: la auditoría de cobertura (PASO 0.2.b) incorpora
+#    los artículos que el editor publicó y PubMed no indexó, recuperados por Crossref.
+head = head.replace(
+  "Auditoría completa de la búsqueda semanal en PubMed",
+  "Auditoría completa de la búsqueda semanal en PubMed, ampliada con los artículos que el editor "
+  "publicó en la ventana y PubMed no había indexado, recuperados por Crossref y verificados en la "
+  "web del editor (auditoría de cobertura)")
 try:
     _fix = json.load(open(GEN + "/n13_linkfix.json"))
     NO_DOI = {s["pmid"] for s in sel.values() if s["key"] in _fix}
