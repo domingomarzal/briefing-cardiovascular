@@ -40,7 +40,7 @@ Además se genera la **Auditoría (Artículos Revisados)** y un **borrador de co
 | **N10** | **10–16 ago** | ✓ (generado 17-ago · 39 art. de 233 revisados · 6 enlaces corregidos: 5 JACC Adv + 1 Circulation sin DOI en Crossref) |
 | **N11** | **17–23 ago** | ✓ (generado 24-ago · 50 art. de 252 revisados · 2 enlaces JACC Adv rotos corregidos · 1 duplicado de N10 descartado) |
 | **N12** | **24–30 ago** | ✓ (generado 31-ago en el Mac · 50 art. de 508 revisados · semana congreso ESC · guías ESC 2026 de IC, ERC-ECV y rehabilitación + 5.ª Definición Universal de IAM) |
-| N13 | 31 ago–6 sep | → **lunes 7-sep**, primera generación por la ROUTINE EN LA NUBE (ver §4.4) |
+| **N13** | **31 ago–6 sep** | ✓ (generado 7-sep **en la nube**, primera vez · 45 art. de 547 revisados · ver §4.5) |
 
 **Regla de numeración/fecha:** el número y el periodo se CALCULAN de la fecha real
 del sistema (`date`), NUNCA de memoria. Ventana = semana natural anterior (lunes-domingo).
@@ -183,6 +183,52 @@ Consecuencias para la routine de la nube:
 **Qué conviene hacer antes del 7-sep:** o bien añadir `eutils.ncbi.nlm.nih.gov` y
 `api.crossref.org` a la lista permitida del entorno, o bien dejar constancia en el prompt de la
 routine de que el fetch se hace con el conector MCP de PubMed y de que el PASO 7b se delega al Mac.
+
+### 4.5 N13 (7-sep-2026): la nube YA genera el número entero — qué cambió y qué sigue pendiente
+
+**RESUELTO: la nube ya sale a internet.** La política de red del entorno se pasó a *Personalizado*
+y ahora `api.crossref.org`, `eutils.ncbi.nlm.nih.gov` y `domingomarzal.github.io` responden 200.
+Consecuencias, frente a lo que dice §4.4:
+- Los `generador/fetch_*.py` **funcionan en la nube**: N13 se buscó con `fetch_n13.py` (E-utilities),
+  no con el conector MCP de PubMed.
+- El **PASO 1b (auditoría de cobertura, `cobertura.py`) se ejecuta en la nube**, ya no hay que
+  delegarlo al Mac.
+- Se puede comprobar que la página publicada carga.
+
+**Sigue sin poder hacerse en la nube:** el egreso está en lista blanca, así que **`doi.org`, las
+webs de los editores (nejm.org, eurointervention.pcronline.com, sciencedirect…) y el panel de
+navegador NO son accesibles**. Por tanto el **PASO 7b queda a medias**: el paso 1 (validar los DOI
+contra Crossref) sí corre; el paso 2 (abrir a ojo los enlaces de riesgo de Elsevier para cazar el
+«Page Not Found» de linkinghub) sigue siendo del Mac.
+
+**Rutas.** Los scripts llevaban rutas absolutas del Mac. `gen_bilingue.py` y `gen_audit_N13.py` ya
+resuelven la raíz del repo de forma **relativa** (a partir de la ubicación del propio script) y solo
+usan las rutas del Mac si existen; fuera del Mac, el «Cardio al día» local se escribe en un
+directorio temporal, nunca dentro del repo. Al copiar `gen_audit_N<n>.py` para el número siguiente,
+conserva ese patrón.
+
+**⚠️ Fallo estructural encontrado y corregido en `cobertura.py`: dos ISSN estaban mal.**
+- `EuroIntervention` → el correcto es **1969-6213** (el 1774-024X devuelve 0 siempre).
+- `Rev Esp Cardiol (Engl Ed)` → el correcto es **1885-5857** (el 0300-8932 es el de la edición
+  española en papel y devuelve 0).
+Con los ISSN antiguos la auditoría de cobertura decía «0 publicados por el editor» para esas dos
+revistas y por tanto **nunca detectaba nada que faltase en ellas**. Es el mismo tipo de agujero
+silencioso que el nombre `[ta]` equivocado del PASO 1.
+
+**Recuperado en N13 por Crossref:** *Immune Checkpoint Inhibitor Myocarditis and Myotoxicity*
+(Circulation, 1-sep-2026), que PubMed aún no había indexado. Entró en Miocardiopatías.
+
+**Detectado pero NO incorporado (y por qué):** los 6 depósitos de **EuroIntervention** del 31-ago.
+No tienen abstract en Crossref, no están en PubMed y la web del editor está bloqueada por el
+egreso, así que no había forma de redactar la ficha sin inventar. Además su `published-online` en
+Crossref es solo «2026-09» (sin día) y dos búsquedas web independientes los sitúan el **7-sep**, o
+sea, dentro de la ventana de N14. Se dejaron fuera a propósito, documentado en el resumen del
+número. **Al generar N14, compruébalos: si son del 7-sep, entran ahí.**
+
+**También en este número:** se corrigió el periodo de la cabecera de la auditoría de N12, que decía
+«17 al 23 de agosto» (la semana de N11) cuando N12 es la del 24 al 30 de agosto. El
+`gen_audit_N13.py` sustituye ya el periodo por regex, no por cadena literal, para que ese arrastre
+no se repita al copiar el script.
 
 ---
 
