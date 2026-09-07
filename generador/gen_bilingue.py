@@ -444,7 +444,9 @@ def build(variant):
         secs, modals, VAR["foot_html"], ae(DISC[0]), ae(DISC[1]), he(DISC[0]), LOGO_B64, AUDIO_DATA + SCRIPT)
     return HTML
 
-LOGO_B64 = __import__("base64").b64encode(open("/Users/dmarzal/Documents/Claude/Briefing Cardiovascular/briefing-cardiovascular-repo/generador/firma_DM_horizontal.png","rb").read()).decode()
+# La firma vive siempre junto a este script, dentro de <repo>/generador/: se resuelve por
+# ruta relativa para que el generador funcione igual en el Mac y en la nube.
+LOGO_B64 = __import__("base64").b64encode(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "firma_DM_horizontal.png"), "rb").read()).decode()
 
 SCRIPT = """<script>
 (function(){
@@ -940,8 +942,15 @@ SCRIPT = """<script>
 })();
 </script>"""
 
-BASE = "/Users/dmarzal/Documents/Claude/Briefing Cardiovascular/briefing-cardiovascular-repo"
-LOCALBASE = "/Users/dmarzal/Documents/Claude/Briefing Cardiovascular"
+# BASE = raíz del repo. En el Mac es la ruta de siempre; en la nube (o en cualquier otro clon)
+# se deduce de la ubicación de este propio fichero, que vive en <repo>/generador/.
+_MACBASE = "/Users/dmarzal/Documents/Claude/Briefing Cardiovascular/briefing-cardiovascular-repo"
+BASE = _MACBASE if os.path.isdir(_MACBASE) else os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# LOCALBASE = carpeta de trabajo del Mac. Fuera del Mac se manda a un directorio temporal
+# FUERA del repo, para no ensuciar el árbol de publicación con copias locales.
+_MACLOCAL = "/Users/dmarzal/Documents/Claude/Briefing Cardiovascular"
+LOCALBASE = _MACLOCAL if os.path.isdir(_MACLOCAL) else os.path.join(
+    __import__("tempfile").gettempdir(), "briefing-local")
 UICAR = os.path.expanduser("~/Documents/UICAR/Cardio al dIA")
 DESK  = os.path.expanduser("~/Desktop")
 def _acr(p): return json.load(open(p)) if os.path.exists(p) else {}
@@ -960,6 +969,7 @@ CONFIGS = [
  dict(n="n10", linkfix=_acr(BASE+"/generador/n10_linkfix.json"), data=BASE+"/generador/n10_data.json", num="Nº 10", period=("10 al 16 de agosto de 2026","August 10–16, 2026"), dest="a6", top3=["a39","a16","a24"], acr=_acr(BASE+"/generador/n10_acr.json"), viz=_viz(BASE+"/generador/n10_viz.html"), local="Briefing Cardiovascular_N10", lnum="N10"),
  dict(n="n11", linkfix=_acr(BASE+"/generador/n11_linkfix.json"), data=BASE+"/generador/n11_data.json", num="Nº 11", period=("17 al 23 de agosto de 2026","August 17–23, 2026"), dest="a41", top3=["a6","a42","a46"], acr=_acr(BASE+"/generador/n11_acr.json"), viz=_viz(BASE+"/generador/n11_viz.html"), local="Briefing Cardiovascular_N11", lnum="N11"),
  dict(n="n12", linkfix=_acr(BASE+"/generador/n12_linkfix.json"), data=BASE+"/generador/n12_data.json", num="Nº 12", period=("24 al 30 de agosto de 2026","August 24–30, 2026"), dest="a21", top3=["a6","a1","a16"], acr=_acr(BASE+"/generador/n12_acr.json"), viz=_viz(BASE+"/generador/n12_viz.html"), local="Briefing Cardiovascular_N12", lnum="N12"),
+ dict(n="n13", linkfix=_acr(BASE+"/generador/n13_linkfix.json"), data=BASE+"/generador/n13_data.json", num="Nº 13", period=("31 de agosto al 6 de septiembre de 2026","August 31 – September 6, 2026"), dest="a36", top3=["a41","a42","a11"], acr=_acr(BASE+"/generador/n13_acr.json"), viz=_viz(BASE+"/generador/n13_viz.html"), local="Briefing Cardiovascular_N13", lnum="N13"),
 ]
 import sys as _sys
 ONLY = _sys.argv[1] if len(_sys.argv) > 1 else None

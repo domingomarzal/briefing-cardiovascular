@@ -24,12 +24,16 @@ REVISTAS = [
  ("N Engl J Med","0028-4793"), ("Lancet","0140-6736"), ("JAMA","0098-7484"),
  ("Eur Heart J","0195-668X"), ("Circulation","0009-7322"), ("J Am Coll Cardiol","0735-1097"),
  ("JAMA Cardiol","2380-6583"), ("Nat Rev Cardiol","1759-5002"), ("Eur J Heart Fail","1388-9842"),
- ("JACC Heart Fail","2213-1779"), ("Circ Heart Fail","1941-3289"), ("EuroIntervention","1774-024X"),
+ ("JACC Heart Fail","2213-1779"), ("Circ Heart Fail","1941-3289"), ("EuroIntervention","1969-6213"),
  ("JACC Cardiovasc Interv","1936-8798"), ("Circ Cardiovasc Interv","1941-7640"),
  ("Heart Rhythm","1547-5271"), ("Europace","1099-5129"), ("JACC Clin Electrophysiol","2405-500X"),
  ("JACC Cardiovasc Imaging","1936-878X"), ("Eur Heart J Cardiovasc Imaging","2047-2404"),
  ("Eur J Prev Cardiol","2047-4873"), ("Hypertension","0194-911X"), ("Heart","1355-6037"),
- ("Rev Esp Cardiol","0300-8932"), ("Atherosclerosis","0021-9150"),
+ # ⚠️ ISSN corregidos el 07/09/2026 (N13): con los ISSN antiguos estas dos revistas daban
+ # SIEMPRE 0 en el editor y la auditoría no detectaba nada. EuroIntervention deposita bajo
+ # 1969-6213 (el 1774-024X está muerto) y Rev Esp Cardiol (Engl Ed) bajo 1885-5857
+ # (el 0300-8932 es el de la edición española en papel).
+ ("Rev Esp Cardiol (Engl Ed)","1885-5857"), ("Atherosclerosis","0021-9150"),
  ("J Am Heart Assoc","2047-9980"), ("JACC Adv","2772-963X"),
 ]
 # Prefijos de DOI de NEJM que SÍ son artículo (el editor codifica el tipo en el DOI)

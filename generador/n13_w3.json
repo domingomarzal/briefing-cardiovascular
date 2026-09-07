@@ -1,0 +1,101 @@
+[
+ {
+  "key": "a28",
+  "journal": "Circulation",
+  "doi": "10.1161/CIRCULATIONAHA.126.081201",
+  "seccion": "Miocardiopatías",
+  "ptype": "Artículo de revisión",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Immune Checkpoint Inhibitor Myocarditis and Myotoxicity",
+  "abstract": "Immune checkpoint inhibitor (ICI)-associated myocarditis is uncommon but has been described as an important and potentially fatal complication of cancer treatment. Increasing evidence from a variety of data sources have reframed this complication as part of ICI-associated myotoxicity (ICI-M), a systemic cardiomuscular syndrome in which myocarditis, myositis, conduction disease, ventricular arrhythmias, dysphagia, pseudo-myasthenic oculobulbar signs, and respiratory muscle failure may coexist. Elevated troponin with ICI use is not synonymous with myocarditis but instead should trigger a structured evaluation that considers symptoms, ECG findings, troponin and creatine kinase concentrations, structural and functional assessments including left ventricular function, pathology when feasible, and exclusion of alternative causes including other cardiotoxic therapies. The severity of ICI-M is heterogeneous and can now be stratified using the presence of active thymoma, cardiomuscular symptoms, low QRS-voltage, left ventricular ejection fraction <50%, and magnitude of troponin elevation. Low-risk cases such as patients with abnormal cardiac biomarkers only may be monitored closely, whereas severe ICI-M requires monitored admission, early respiratory and swallowing assessment, ICI interruption, and rapid multidisciplinary immunosuppression. Corticosteroids are generally recommended; however, severe, progressive, or refractory disease increasingly supports pathophysiology-directed-based therapies, including abatacept and ruxolitinib. Abatacept inhibits CD80/CD86-CD28 co-stimulation and can be titrated to CD86 receptor occupancy of the monocytes. Ruxolitinib inhibits Janus kinase/signal transducer and activator of transcription cytokine signaling pathway and may complement abatacept bioactivity. Evidence is promising for these therapies but not definitive, pending prospective trials. Rechallenge is often avoided but could be reassessed in selected patients under strict surveillance."
+ },
+ {
+  "key": "a29",
+  "journal": "Eur J Heart Fail",
+  "doi": "10.1093/ejhf/xuag285",
+  "seccion": "Miocardiopatías",
+  "ptype": "Revisión sistemática",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Early and Late TAVI Outcomes in Aortic Stenosis with Transthyretin Cardiac Amyloidosis: A Systematic Review",
+  "abstract": "Concomitant transthyretin cardiac amyloidosis (ATTR-CA) is increasingly recognized among elderly patients with severe aortic stenosis (AS) referred to transcatheter aortic valve implantation (TAVI), yet its impact on early and late outcomes remains incompletely defined. We conducted a systematic review of studies comparing TAVI outcomes in patients with isolated AS and those with AS+ATTR-CA. Eleven observational studies were included, comprising 644,107 patients with isolated AS and 1,637 with AS+ATTR-CA. AS+ATTR-CA patients were older, more frequently male, and showed more atrial fibrillation, mildly reduced left ventricular ejection fraction, and markedly elevated cardiac biomarkers. Thirty-day mortality was low and similar between groups, with no consistent differences in stroke or major bleeding, whereas acute kidney injury and permanent pacemaker implantation were more frequent in AS+ATTR-CA. During follow-up, AS+ATTR-CA patients experienced higher heart failure readmissions and late all-cause mortality. ATTR-CA should not preclude TAVI but should inform risk stratification, peri-procedural management, and post-TAVI follow-up."
+ },
+ {
+  "key": "a30",
+  "journal": "Nat Cardiovasc Res",
+  "doi": "10.1038/s44161-026-00866-8",
+  "seccion": "Miocardiopatías",
+  "ptype": "Inteligencia artificial / modelo predictivo",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "A multiancestry polygenic risk score improves stratification in patients with hypertrophic cardiomyopathy",
+  "abstract": "Hypertrophic cardiomyopathy (HCM) has traditionally been considered a Mendelian disease driven by pathogenic or likely pathogenic variants in sarcomere-encoding genes (SARC-HCM-P/LP). However, these variants explain only one-third of cases, and variable penetrance suggests additional polygenic contributions. Existing HCM polygenic risk scores (PRSs), largely derived from European-ancestry cohorts, have limited generalizability. Here we develop a multiancestry PRS using summary statistics from the BioBank Japan, Million Veteran Program and a meta-analysis of seven European-ancestry cohorts and evaluate its association with HCM in a USA-based multiancestry population. Individuals with the highest PRS quintile had a 2.11-fold increased risk of HCM in the overall population and nearly 70-fold higher risk among SARC-HCM-P/LP carriers. The PRS improved risk stratification and showed trends toward improved ancestry-specific prediction. Among individuals with HCM, a higher PRS was also associated with adverse cardiovascular outcomes. These findings support the integration of multiancestry PRSs into HCM risk assessment and prognostication."
+ },
+ {
+  "key": "a31",
+  "journal": "Eur Heart J",
+  "doi": "10.1093/eurheartj/ehag518",
+  "seccion": "Valvulopatías",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Thoracic aortic disease: prognostic role of gene variants and polygenic risk scores",
+  "abstract": "BACKGROUND AND AIMS: Thoracic aortic aneurysm and dissection (TAAD) can have catastrophic health consequences. Eleven genes have strong or definitive evidence for causing heritable TAAD (HTAAD). The aim of this work was to determine the prevalence and effect of rare, pathogenic or likely pathogenic (P/LP) variants in HTAAD genes on the association of TAAD diagnoses, and whether increased polygenic risk is associated with an additive effect on monogenic risk. METHODS: This genetic association study used data from Penn Medicine Biobank (PMBB) and MyCode Biobank. P/LP HTAAD gene variants were adjudicated according to American College of Medical Genetics and Genomics standards. A polygenic risk score (PRS) was derived from a genome-wide association study of aortic diameter to assess polygenic TAAD risk. The main outcome of interest, TAAD, was identified using an algorithmic review of electronic health records. Regression analyses were performed to determine the monogenic and polygenic effects on TAAD risk. RESULTS: Across the two cohorts, .2%-.3% of participants carried a P/LP HTAAD gene variant. Individuals carrying P/LP HTAAD gene variants had a significantly higher odds of TAAD compared to non-carriers [odds ratio (OR) 13.5, 95% confidence interval (CI) 5.3-34.6, P < .001] with variable effects when stratified by gene. A one standard deviation increase in the PRS was associated with an OR for TAAD of 1.43 (95% CI 1.39-1.47, P < .001). TAAD prevalence was higher among individuals carrying a P/LP HTAAD gene variant in the highest PRS quintile compared to carriers in the lowest PRS quintile (relative risk 2.32, 95% CI 1.29-4.17, P < .01), suggesting that polygenic risk may be an important additive factor in rare variant TAAD risk. CONCLUSIONS: P/LP HTAAD gene variants confer a substantial population-level increased risk of TAAD. Polygenic risk represents an additive factor for rare variant TAAD risk, suggesting that integrating monogenic and polygenic risks has the potential to enhance patient risk stratification and treatment."
+ },
+ {
+  "key": "a32",
+  "journal": "Eur Heart J Cardiovasc Imaging",
+  "doi": "10.1093/ehjci/jeag233",
+  "seccion": "Valvulopatías",
+  "ptype": "Registro",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Sex-specific Patterns of Valvulo-Aortopathy in Bicuspid Aortic Valve According to the International Consensus Framework: Insights from the RE-BAV Registry",
+  "abstract": "AIMS: To characterise sex-specific patterns of bicuspid aortic valve (BAV) valvulo-aortopathy using consensus phenotyping and to assess how aortic normalisation strategies influence sex-related differences in aortic dimensions. METHODS AND RESULTS: We analysed 808 adults with BAV (mean age 49.9 ± 17.5 years; 588 men) from the RE-BAV registry. Valve morphology, aortopathy phenotypes, and clinical valvulo-aortopathy categories were classified according to consensus definitions. Typical and uncomplicated forms were additionally analysed together as a non-complex category. Proximal aortic dimensions were defined as the aortic root and ascending aorta.Valve morphology distribution did not differ by sex. Although the prevalence of aortic dilatation was similar, phenotype distribution differed: women more frequently exhibited the extended phenotype (34.7% vs 23.3%, p = 0.001), whereas the root phenotype was more common in men (15.1% vs 7.8%, p = 0.006). Moderate-to-severe aortic regurgitation was more prevalent in men (50.3% vs 29.1%, p < 0.001). Sex differences in proximal aortic dimensions varied by normalisation strategy. For the ascending aorta, indexing to body surface area yielded larger values in women (21.1 ± 4.0 vs 20.0 ± 4.0 mm/m2, p = 0.001), whereas diameter/height showed no sex-related difference at this level. Conversely, the cross-sectional area-to-height ratio remained higher in men across proximal segments, most prominently at the sinuses of Valsalva (6.9 ± 2.0 vs 5.6 ± 1.6 cm2/m, p < 0.001). Age was independently associated with larger proximal aortic dimensions across all strategies. CONCLUSION: Sex-related differences in BAV involved aortopathy phenotype, aortic regurgitation burden, and proximal aortic dimensions. Interpretation of proximal aortic dimensions depended on the normalisation strategy used, indicating that indexing methods should not be treated as interchangeable."
+ },
+ {
+  "key": "a33",
+  "journal": "Nat Rev Cardiol",
+  "doi": "10.1038/s41569-026-01342-3",
+  "seccion": "Imagen cardíaca",
+  "ptype": "Artículo de revisión",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Intracoronary imaging in percutaneous coronary intervention: why, when, how and which from large, randomized trials",
+  "abstract": "The introduction of intracoronary imaging (ICI) into clinical practice has been one of the major advances in percutaneous coronary intervention (PCI) for patients with atherosclerotic coronary artery disease. However, because the procedural advantages of ICI in routine clinical practice can be offset by higher costs and longer procedural times, high-quality evidence demonstrating the net clinical benefits of ICI guidance has long been awaited. The publication of eight large (n > 1,000 patients), international, randomized studies (the ILUMIEN IV, IVUS-ACS, IVUS-CHIP, IVUS-XPL, OCCUPI, OCTOBER, RENOVATE-COMPLEX-PCI and ULTIMATE trials) has provided substantial data on the clinical use of ICI guidance to improve the safety and outcomes of patients undergoing PCI. However, the heterogeneity of the study populations, lack of standardized criteria across ICI protocols and the mixed results of randomized trials have left uncertainty about why and when the use of ICI confers a benefit in real-world settings. In this Review, by discussing the study characteristics and procedural aspects that contributed to the consistency and heterogeneity across trials, we provide a practical and comprehensive appraisal of the appropriateness - why, when, how and which - of ICI guidance in the clinical decision-making process for contemporary PCI, with the overall aim of improving clinical outcomes."
+ },
+ {
+  "key": "a34",
+  "journal": "Circulation",
+  "doi": "10.1161/CIRCULATIONAHA.126.080420",
+  "seccion": "Imagen cardíaca",
+  "ptype": "Estudio diagnóstico",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Noninvasive Thrombus Imaging in Patients With Ischemic Stroke",
+  "abstract": "BACKGROUND: Determining the source of thromboembolism in patients with acute ischemic stroke remains challenging because current diagnostic approaches rely largely on circumstantial and inferential associations rather than direct identification of the cause of stroke. Fluorine-18 GP1 ([18F]GP1) is a novel radiotracer that binds with high affinity and specificity to activated glycoprotein IIb/IIIa receptors on activated platelets. We aimed to determine whether hybrid [18F]GP1 positron emission tomography (PET) and computed tomography angiography could identify in vivo cardiovascular thromboembolism in patients with acute ischemic stroke and provide a mechanism-based assessment of stroke etiology. METHODS: In a single-center prospective observational cohort study, 100 patients presenting with acute ischemic stroke underwent hybrid [18F]GP1 PET/computed tomography angiography within 21 days of symptom onset in addition to standard-of-care stroke investigations. Stroke etiology was classified using the causative classification system by an expert stroke physician blinded to [18F]GP1 PET findings. In parallel, [18F]GP1 PET/computed tomography angiography images were analyzed independently by readers who were blinded to all clinical data and causative classification system classification. We assessed whether [18F]GP1 PET/computed tomography angiography could identify the source of in vivo cardiovascular thromboembolism, influence stroke classification, and predict recurrent cerebrovascular events. RESULTS: Cardiovascular [18F]GP1 uptake indicative of thrombosis was identified in nearly two-thirds (n=63) of participants, changing stroke classification in over a quarter (n=26) of patients. In those with stroke of undetermined cause, the source of thrombus was identified in 18 of 41 (44%) participants, which included nonstenotic carotid atherothrombosis, native cardiac valve thrombosis, and paradoxical thromboembolism. During a median follow-up of 613 (interquartile interval, 251-788) days, recurrent stroke or transient ischemic attack occurred in 14 patients, 13 (93%) of whom had cardiovascular [18F]GP1 uptake at baseline. Cardiovascular [18F]GP1 uptake was associated with a 10.4-fold increased risk of recurrent events (95% CI, 1.35-79.40; P=0.024). CONCLUSIONS: Noninvasive thrombosis imaging is a novel technique that enables direct in vivo identification of thrombus formation and frequently reveals the source of thromboembolism in patients with acute ischemic stroke. This approach represents a shift from inference-based to mechanism-based stroke classification with potential implications for targeted prevention strategies and better patient outcomes. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique Identifier: NCT05636748."
+ },
+ {
+  "key": "a35",
+  "journal": "Circ Heart Fail",
+  "doi": "10.1161/CIRCHEARTFAILURE.126.014519",
+  "seccion": "Imagen cardíaca",
+  "ptype": "Estudio pronóstico",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Optimal Strain Combinations for Prognostic Prediction in Pulmonary Arterial Hypertension",
+  "abstract": "BACKGROUND: Strain parameters are sensitive indicators of myocardial performance, but the optimal combination for prognostic prediction in pulmonary arterial hypertension remains unclear. METHODS: Patients diagnosed with pulmonary arterial hypertension between June 2013 and June 2024 were prospectively recruited. Strain parameters, including left ventricular global longitudinal strain, right ventricular GLS, right ventricular free-wall longitudinal strain, and right atrial phasic strain, were analyzed. Feature selection used elastic net Cox regression and stepwise Cox regression with the Akaike information criterion. Survival analyses were performed for all-cause mortality and a composite end point (mortality and heart failure rehospitalization). RESULTS: A total of 269 patients with pulmonary arterial hypertension (mean age, 42±15 years) were included. During a median follow-up of 39.3 months, 68 patients reached the primary end point, and 91 reached the secondary end point. The combination of left ventricular global longitudinal strain and right atrial reservoir strain had the strongest prognostic value. Both left ventricular global longitudinal strain (hazard ratio, 1.46, per 5% increase [95% CI, 1.07-2.00]; P=0.02) and right atrial reservoir strain (hazard ratio, 0.77, per 5% increase [95% CI, 0.62-0.95]; P=0.02) remained independent predictors of all-cause mortality. Their combination outperformed conventional cardiac magnetic resonance and clinical models, as evidenced by higher C-index values (all P≤0.05), and stratified patients into low-, intermediate-, and high-risk groups with distinct 1-year mortality rates (2.8%, 6.2%, 21.0%, respectively; P<0.001). Landmark analysis confirmed their long-term prognostic relevance. CONCLUSIONS: The combined assessment of left ventricular global longitudinal strain and right atrial reservoir strain yields the strongest prognostic utility among the strain parameters in pulmonary arterial hypertension, significantly improves risk stratification beyond several established cardiac magnetic resonance and clinical predictors, and holds promise as a practical tool for guiding management strategies."
+ },
+ {
+  "key": "a36",
+  "journal": "N Engl J Med",
+  "doi": "10.1056/NEJMoa2608012",
+  "seccion": "Cardiología intervencionista",
+  "ptype": "Ensayo clínico aleatorizado",
+  "acr": "PRAGUE-26",
+  "prio": "Imprescindible",
+  "title": "Catheter-Directed Thrombolysis in Intermediate-High-Risk Pulmonary Embolism",
+  "abstract": "BACKGROUND: Whether catheter-directed thrombolysis improves clinical outcomes in patients with intermediate-high-risk pulmonary embolism, as compared with anticoagulation alone, is uncertain. METHODS: In this multicenter, open-label, randomized trial, we randomly assigned patients with intermediate-high-risk acute pulmonary embolism (defined by hemodynamic stability, a simplified Pulmonary Embolism Severity Index score of ≥1, and right ventricular dysfunction plus an elevated level of cardiac troponin or natriuretic peptide) in a 1:1 ratio to receive catheter-directed thrombolysis with alteplase plus anticoagulation therapy (thrombolysis group) or anticoagulation therapy alone (standard-care group). The primary outcome was a composite of death from any cause, recurrence of pulmonary embolism, or cardiorespiratory decompensation or collapse within 7 days after randomization. Secondary outcomes included clinically relevant bleeding as defined by the Bleeding Academic Research Consortium, major bleeding as defined in the Global Use of Strategies to Open Occluded Coronary Arteries guidelines, and intracranial hemorrhage. RESULTS: A total of 558 patients underwent randomization; 280 were assigned to the thrombolysis group, and 278 to the standard-care group. The median age was 64 years, and 40.9% were female. A primary-outcome event occurred in 2 patients (0.7%) in the thrombolysis group and in 19 patients (6.8%) in the standard-care group (relative risk, 0.10; 95% confidence interval, 0.02 to 0.44; P<0.001); this difference was driven mainly by the lower incidence of cardiorespiratory decompensation or collapse in the thrombolysis group. By day 7, clinically relevant bleeding had occurred in 13 patients (4.6%) in the thrombolysis group and in 14 patients (5.0%) in the standard-care group (P = 0.85); major bleeding in 4 (1.4%) and 6 (2.2%), respectively (P = 0.54); and intracranial hemorrhage in 2 (0.7%) and none. One patient in the thrombolysis group died within 30 days, and 4 patients in the standard-care group died within 7 days. CONCLUSIONS: Among patients with intermediate-high-risk acute pulmonary embolism, catheter-directed thrombolysis with alteplase plus anticoagulation therapy led to a lower risk of death from any cause, recurrent pulmonary embolism, or cardiorespiratory decompensation or collapse within 7 days after randomization than anticoagulation therapy alone. (Funded by the Ministry of Health of the Czech Republic and others; PRAGUE-26 ClinicalTrials.gov number, NCT05493163; EudraCT number, 2022-002218-18; European Union Clinical Trials number, 2024-516144-25-00.)."
+ }
+]
