@@ -1,0 +1,112 @@
+[
+ {
+  "key": "a31",
+  "journal": "Eur Heart J Cardiovasc Imaging",
+  "doi": "10.1093/ehjci/jeag234",
+  "seccion": "Valvulopatías",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Imaging REASSESSment of embolic events before antibiotic discontinuation in infective endocarditis: REASSESS-IE study",
+  "abstract": "INTRODUCTION: Embolic events (EEs) in infective endocarditis (IE) are frequent and associated with poor prognosis. Follow-up imaging is not standardized despite the risk of persistent extracardiac foci. We aimed to assess the therapeutic impact of imaging reassessment before antibiotic discontinuation. METHODS AND RESULTS: Prospective multicentre study including patients with definite or possible IE complicated by EEs (2013-2022). Asymptomatic or clinically stable patients who underwent follow-up imaging before antibiotic discontinuation to reassess IE-related EEs were included, whereas those imaged for clinical reasons were excluded. The primary endpoint was therapeutic impact: antibiotic modification and/or intervention. Secondary endpoints included all-cause mortality. Overall, 54% (n = 700/1300) of the entire cohort had IE-related EEs. Among them, 554 patients (mean age 65.7 years, 76% male) under antibiotic therapy were included: 49% with cerebral and 79% with extracerebral EEs, mainly ischaemic stroke (42%) and splenic embolism (40%). Follow-up imaging before antibiotic discontinuation (median, 6 weeks) was performed in 51% (n = 281/554), leading treatment modification in 5.7% (16/281), mainly in patients with Staphylococcus aureus IE complicated by abscess. In-hospital and 5-year mortality were 9.4% and 30.8%, respectively. Haemodynamic instability and comorbidities were associated with long-term mortality, whereas only cardiac surgery was associated with improved survival. CONCLUSION: Imaging reassessment of IE-related EEs before stopping antibiotics may lead to therapeutic modification in asymptomatic or clinically stable patients using a risk-stratified individualized imaging strategy guided by the endocarditis teams, rather than a uniform approach. Prospective studies are needed to define standardized imaging algorithms."
+ },
+ {
+  "key": "a32",
+  "journal": "Rev Esp Cardiol (Engl Ed)",
+  "doi": "10.1016/j.rec.2026.08.007",
+  "seccion": "Valvulopatías",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Sex differences in preoperative cardiac damage in patients with primary mitral regurgitation: impact on surgical outcomes",
+  "abstract": "INTRODUCTION AND OBJECTIVES: Prior evidence suggests that women have worse outcomes after surgery for mitral regurgitation (MR). We aimed to examine sex-related differences in preoperative cardiac damage among patients with severe primary MR and to assess the impact of these differences on surgical outcomes. METHODS: We performed a retrospective analysis of a prospective cohort of patients undergoing surgery for primary MR at a tertiary hospital (2014-2022). Baseline clinical and echocardiographic data and 1-year outcomes (all-cause mortality and heart failure [HF] hospitalizations) were compared by sex. RESULTS: A total of 349 patients were included; 154 (44%) were female. Women were older, had a higher comorbidity burden and were more frequently symptomatic at the time of surgery. Compared with men, women had significantly more advanced (right-sided) cardiac damage before surgery (54.5% vs 36.5%; P = .017), greater impairment of left ventricular global longitudinal strain and left atrial reservoir strain, and worse right ventricular-pulmonary arterial coupling. Mitral valve repair was more common in men, whereas women more often required concomitant tricuspid valve repair. At 1 year, the incidence of HF hospitalizations was higher in women (7% vs 1%; HR, 2.41; 95%CI, 1.14-6.30), and there was a nonsignificant trend toward higher all-cause mortality (11% vs 6.2%; HR, 1.72; 95%CI, 0.79-3.76). CONCLUSIONS: Women with primary MR were more often symptomatic at the time of surgery, presented with more advanced biventricular and left atrial dysfunction preoperatively, and had higher HF hospitalization rates after surgery. New strategies are needed to ensure equitable management and outcomes between sexes."
+ },
+ {
+  "key": "a33",
+  "journal": "JACC Adv",
+  "doi": "10.1016/j.jacadv.2026.103227",
+  "seccion": "Valvulopatías",
+  "ptype": "Estudio de cohorte",
+  "acr": "VALVENOR",
+  "prio": "Complementario",
+  "title": "Association Between the Degree of Extravalvular Cardiac Damage and the Severity of Aortic Stenosis",
+  "abstract": "BACKGROUND: The relationship between the extent of extravalvular cardiac damage (CD) and valve disease severity remains uncertain in aortic stenosis (AS) patients. OBJECTIVES: The objective of the study was to investigate the correlation between AS severity and CD staging and its clinical impact across the spectrum of AS outpatients. METHODS: Consecutive patients with mild (peak aortic velocity = 2.5-2.9 m/s), moderate (3-3.9 m/s), and severe AS (≥4 m/s) native AS from a regionwide cohort were included by 117 cardiologists between May 2016 and December 2017 in the VALVENOR cohort. Patients were followed up for 5 years. RESULTS: Among the 1,747 patients with available CD (65% of the overall cohort), 744 (42.6%) patients had mild AS, 714 (40.9%) patients moderate AS, and 289 (16.5%) severe AS. Of the 1747 patients, 524 patients (30%) demonstrated CD stage 0, 298 (17%) stage 1, 765 (44%) stage 2, 109 (6%) stage 3, and 51 (3%) stage 4. Patients in stage >0 had higher peak aortic jet velocity compared to patients in stage 0 (3.35 ± 0.69 vs 3.11 ± 0.56 m/s; P < 0.001). After adjustment, higher peak aortic jet velocity (per m/s, P < 0.001) remained independently associated with CD stage >0. Both all-cause mortality and cardiovascular mortality were higher in patients in stage >0 as compared with patients in stage 0 (HR: 1.75; 95% CI: 1.44-2.11; P < 0.001 and HR: 2.52: 95% CI: 1.79-3.55; P < 0.001, respectively). CONCLUSIONS: The extent of extravalvular CD correlates with AS severity and is associated with poor clinical outcomes across all AS stages. Further research is warranted to determine whether assessing CD should be integrated in the management of patients with AS."
+ },
+ {
+  "key": "a34",
+  "journal": "Circ Cardiovasc Interv",
+  "doi": "10.1161/CIRCINTERVENTIONS.126.016578",
+  "seccion": "Valvulopatías",
+  "ptype": "Estudio observacional",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Mitral Regurgitation and Severe Aortic Stenosis: Clinical Characteristics, Prognostic Impact, and Response to TAVR: Insights From Egnite Data",
+  "abstract": "BACKGROUND: Aortic stenosis (AS) and mitral regurgitation (MR) frequently co-occur, complicating diagnosis and treatment. We examined current US treatment trends and patient outcomes among patients with severe AS and at least moderate MR. METHODS: We analyzed data from 2 992 362 patients (aged ≥18 years) undergoing 5 245 904 echocardiograms at 43 US institutions (Egnite Database; Egnite, Aliso Viejo, CA, with permissions) to identify a cohort of patients with severe AS and moderate or greater MR. The primary end point was 2-year all-cause mortality, assessed via Kaplan-Meier analysis. For patients undergoing transcatheter aortic valve replacement (TAVR) alone, MR severity changes from baseline to 45 days post-TAVR were visualized using Sankey diagrams. RESULTS: The cohort included 36 402 patients (mean age, 78.2 years; 54.6% male), of whom 52.0% were untreated, 36.5% underwent TAVR alone, and 11.5% underwent surgery or other transcatheter interventions. Two-year mortality for untreated patients was 36.8% (95% CI, 35.6%-38.0%) for AS with less than moderate MR, 57.3% (95% CI, 54.0%-60.6%) for AS with moderate MR, and 65.5% (95% CI, 60.9%-70.1%) for AS with moderate-to-severe or severe MR (log-rank P<0.001). Undertreatment was more frequent in patients with AS and significant MR (64.5% versus 49.9%, P<0.001). Among patients undergoing TAVR alone with follow-up MR data, 77.5% demonstrated improvement in MR. CONCLUSIONS: Patients with concurrent MR and AS exhibit substantially higher mortality yet have high rates of undertreatment throughout the duration of follow-up. TAVR alone significantly improves MR in most patients."
+ },
+ {
+  "key": "a35",
+  "journal": "Eur Heart J",
+  "doi": "10.1093/eurheartj/ehag716",
+  "seccion": "Imagen cardíaca",
+  "ptype": "Estudio diagnóstico",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Exercise stress echocardiography for diagnosis of heart failure with preserved ejection fraction: a multicentre study",
+  "abstract": "BACKGROUND AND AIMS: Exercise stress echocardiography is recommended as an alternative to invasive testing for diagnosing heart failure with preserved ejection fraction (HFpEF), but an evidence-based operational framework guiding its application is lacking. METHODS: Patients with chronic unexplained dyspnoea underwent invasive haemodynamic exercise testing with simultaneous echocardiography to test the hypotheses that (i) the current diagnostic algorithms (H2FPEF, HFA-PEFF, and HFpEF-ABA scores) could be enhanced when combined with exercise echocardiography; and (ii) incorporating resting left atrial (LA) compliance (LA reservoir strain divided by E/e') could further improve diagnostic triage, using separate cut points optimizing sensitivity and specificity. Findings were then validated in an international multicentre cohort. RESULTS: Of 482 patients, HFpEF was present in 386 and non-cardiac dyspnoea in 96. Sensitivity to detect HFpEF was only 55%-60% and accuracy 61%-67% using individual diagnostic scores with currently recommended exercise echocardiography. Addition of abnormal resting LA compliance to exercise echocardiography increased sensitivity to 84%-85% but increased the false-positive rate to 31%-43%. Applying separate cut points that optimize specificity and sensitivity (either exercise E/e' ≥ 13.8 or resting LA compliance ≤1.6% to rule-in HFpEF; both exercise E/e' < 7.2 and resting LA compliance >4.4% to rule-out HFpEF, remaining patients indeterminate who require invasive testing) improved sensitivity to 95%-99% among definitively classified patients and reduced the number of patients that require invasive exercise testing from ∼60% to ∼30%. Findings were replicated in a multicentre, international validation cohort of patients undergoing rest-exercise echocardiography and invasive exercise testing. CONCLUSIONS: Currently used non-invasive approaches to HFpEF diagnosis have inadequate sensitivity, indicating that exercise echocardiography cannot supplant invasive testing. Addition of LA strain imaging with optimized rule-in or rule-out values improves diagnostic triage by expanding non-invasive rule-in/rule-out classifications while identifying patients who still require invasive testing in the evaluation of HFpEF."
+ },
+ {
+  "key": "a36",
+  "journal": "Rev Esp Cardiol (Engl Ed)",
+  "doi": "10.1016/j.rec.2026.06.015",
+  "seccion": "Imagen cardíaca",
+  "ptype": "Documento de consenso",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Current indications for cardiac magnetic resonance and cardiac computed tomography: a position statement from the Cardiovascular Imaging Association of the Spanish Society of Cardiology",
+  "abstract": "Cardiac magnetic resonance and cardiac computed tomography have become essential imaging modalities in the evaluation of patients with a wide spectrum of cardiovascular diseases, providing valuable anatomical and functional information for clinical decision-making, prognostic stratification, and therapeutic planning. Their indications and clinical applications have expanded considerably in recent years; however, accessibility and implementation remain uneven among health care settings. To facilitate and promote access to these techniques, the Cardiovascular Imaging Association of the Spanish Society of Cardiology has prepared this position statement, which brings together, in a structured format, the main recommendations of the European Society of Cardiology regarding their use. The document promotes the implementation of these modalities through specialized training for health care professionals, the use of well-established indications, and the prioritization of applications with high clinical impact in cardiovascular medicine."
+ },
+ {
+  "key": "a37",
+  "journal": "JACC Cardiovasc Imaging",
+  "doi": "10.1016/j.jcmg.2026.07.018",
+  "seccion": "Imagen cardíaca",
+  "ptype": "Estudio pronóstico",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Recommended Criteria to Define Right Ventricular Dysfunction in Severe Secondary Tricuspid Regurgitation: Association With Outcome",
+  "abstract": "BACKGROUND: The TVARC (Tricuspid Valve Academic Research Consortium) and the ASE (American Society of Echocardiography) have proposed echocardiography cutoffs to define right ventricular (RV) dysfunction in secondary tricuspid regurgitation (STR), although these thresholds have not yet been validated. OBJECTIVES: This study aims to evaluate the prognostic value of the proposed thresholds for the main RV function parameters in a large real-world STR cohort. METHODS: Consecutive patients with ≥ moderate-to-severe STR were included. RV function was assessed by tricuspid annular plane systolic excursion (TAPSE), fractional area change, right ventricular global longitudinal strain, and right ventricular free wall longitudinal strain (RVFWLS). The study outcome was the composite of all-cause mortality and heart failure hospitalization, censored for tricuspid valve intervention. RESULTS: A total of 1,550 patients (mean age: 69 ± 13 years, 50% men) were included. During a median follow-up of 22 months (Q1-Q3: 3-63 months), 703 patients (45%) reached the composite endpoint. All proposed cutoffs were associated with outcomes in univariable Cox analyses, but after multivariable adjustment, mainly strain parameters remained significant. A multiparametric approach combining echocardiographic measures was evaluated, and a stepwise combined grading using TAPSE and RVFWLS showed the strongest association with the composite endpoint; the different grades of RV dysfunction (mild, moderate, and severe, respectively) also remained independently associated (overall value of P < 0.001 and P < 0.005 for TVARC and ASE cutoffs, respectively) with the endpoint. CONCLUSIONS: The TVARC and ASE cutoffs for RV dysfunction showed prognostic value in patients with significant STR. Combining TAPSE and RVFWLS may provide a pragmatic, exploratory framework for risk stratification of these patients."
+ },
+ {
+  "key": "a38",
+  "journal": "Eur Heart J Cardiovasc Imaging",
+  "doi": "10.1093/ehjci/jeag252",
+  "seccion": "Imagen cardíaca",
+  "ptype": "Inteligencia artificial / modelo predictivo",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Prognostic Value of AI-derived Ventricular Imaging Phenotypes from Cardiac CTA for Long-term Risk of Myocardial Infarction ---Analysis of SCOT-HEART Trial",
+  "abstract": "BACKGROUND: Cardiac computed tomography angiography (CTA) is widely used to assess coronary artery disease, but the prognostic value of myocardial radiomic phenotypes beyond coronary artery findings remains unknown. OBJECTIVES: To investigate whether myocardial radiomic phenotypes derived from cardiac CTA provide incremental prognostic value for fatal or nonfatal myocardial infarction (MI) during long-term follow-up. METHODS: Post hoc analysis of CTA was performed within Scottish Computed Tomography of the Heart (SCOT-HEART) trial. A multivariable linear regression model was built to assess associations between myocardial radiomic phenotypes and cardiovascular risk factors, including hypertension, diabetes, and calcium score. Univariable and multivariable Cox proportional hazards models were used to determine the associations between myocardial radiomic phenotypes and MI. The prognostic model incorporating myocardial radiomic phenotypes was compared to clinical models based on cardiovascular risk factors, calcium score, and presence of obstructive disease to determine the improvement in predictive performance. RESULTS: Over a median follow-up of 8.6 years, 82 of 1736 participants (4.7%) experienced a fatal or nonfatal MI. Myocardial radiomic phenotypes were associated with age, sex and hypertension, and diabetes (P<0.01 for all), with older age, male sex, and cardiometabolic risk linked to increased myocardial volume and density. Among myocardial radiomic features associated with cardiovascular risk factors, univariable analysis identified 22 features associated with MI. Incorporation of myocardial radiomic phenotypes into a clinical model (including cardiovascular risk score, CAC score and presence of obstructive disease) improved discrimination for future MI events (C-index from 0.693 to 0.722, Δ=0.029, P<0.001) and improved model fit (likelihood ratio test, χ2=13.5, P=0.009). CONCLUSION: Myocardial radiomic phenotypes based on CTA may offer incremental prognostic value for long-term myocardial infarction prediction, beyond conventional established cardiovascular risk factors and imaging features. Trial Registration:  ClinicalTrials.gov Identifier: NCT01149590."
+ },
+ {
+  "key": "a39",
+  "journal": "JACC Cardiovasc Imaging",
+  "doi": "10.1016/j.jcmg.2026.07.017",
+  "seccion": "Imagen cardíaca",
+  "ptype": "Análisis secundario de ensayo clínico",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Coronary Blood Flow in Women From the CENTURY Trial: Potential Mechanisms for Sex Differences in Coronary Disease",
+  "abstract": "BACKGROUND: Despite comparable cardiovascular risk factors, clinically manifest coronary artery disease (CAD) in women is delayed by up to 2 decades compared with men without a defined physiological basis. OBJECTIVES: This study aims to assess the mechanistic basis of sex differences in CAD using quantitative coronary blood flow (CBF) and coronary flow capacity measured by positron emission tomography in a post hoc analysis of the randomized CENTURY trial. METHODS: CENTURY trial data were reanalyzed in 331 women vs 697 men for risk factors, age, quantitative CBF, coronary flow capacity, and clinical outcomes through 14 years of follow-up. RESULTS: Women and men had similar age, body mass index, hypertension, diabetes, and cumulative summed risk scores. Still, women had less established CAD, lower coronary artery calcium, and fewer positron emission tomography perfusion defects. Women had approximately half the rates of all-cause death (log-rank P = 0.0223), death or myocardial infarction (log-rank P = 0.0138), revascularization (log-rank P = 0.0004), and major adverse cardiac events (log-rank P < 0.0001) compared with men by Kaplan-Meier plots. Rest and stress CBF were 33% higher in women than in men across all comparable strata of age, body mass index, risk factors, and treatment. When integrated with the published reports showing ∼10% smaller coronary arteries in women, these flow data suggest a potential global endothelial shear stress ∼82% higher in women than in men, suggesting a potential hypothetical chronic, diffuse, antiatherogenic differential mechanism. CONCLUSIONS: In the randomized CENTURY trial, women had higher CBF than men across all comparable strata. Combined with the smaller coronary arteries reported in the published reports, this higher CBF suggests a potential, hypothesized higher antiatherogenic ESS that may be a primary, sex-specific physiological mechanism underlying the delayed onset and modifying the course of CAD throughout women's lives. (Comprehensive LifEstyle ModificatioN, Optimal Pharmacological Treatment and Utilizing PET Imaging for Quantifying and Managing Stable CoronaRy ArterY Disease [CENTURY]; NCT00756379)."
+ },
+ {
+  "key": "a40",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.126.052609",
+  "seccion": "Cardiología intervencionista",
+  "ptype": "Metaanálisis",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Mechanical Circulatory Support for Complex High-Risk Indicated Percutaneous Coronary Intervention: Network Meta-Analysis of Randomized Trials",
+  "abstract": "BACKGROUND: Mechanical circulatory support (MCS) is increasingly used during complex high-risk indicated percutaneous coronary intervention, yet whether different support strategies improve clinical outcomes remains uncertain. We sought to compare the efficacy and safety of individual MCS strategies with standard care and with each other at short- and long-term follow-up. METHODS: This frequentist random-effects network meta-analysis included randomized trials of patients undergoing nonemergent complex high-risk indicated percutaneous coronary intervention and comparing percutaneous left ventricular assist devices, intra-aortic balloon pump, venoarterial extracorporeal membrane oxygenation, or standard care. The primary efficacy outcome was major adverse cardiovascular events. Secondary outcomes included death, myocardial infarction, stroke, or repeat revascularization, and periprocedural major adverse events. RESULTS: Eight trials (n=1856) were included. At 30 days, no MCS was associated with lower major adverse cardiovascular events compared with standard care, though percutaneous left ventricular assist devices (risk ratio [RR] 0.30, 95% CI 0.10-0.90) and intra-aortic balloon pump (RR 0.26, 95% CI 0.07-0.90) reduced periprocedural major adverse events. At a weighted mean of 10.8 months, no significant differences in major adverse cardiovascular events were observed with percutaneous left ventricular assist devices (incidence rate ratio 0.79; 95% CI 0.47-1.35), intra-aortic balloon pump (incidence rate ratio 0.89, 95% CI 0.52-1.54), or venoarterial extracorporeal membrane oxygenation (incidence rate ratio 1.47, 95% CI 0.64-3.40) compared with standard care. Consistently, no MCS strategy reduced death, myocardial infarction, stroke, or repeat revascularization. CONCLUSIONS: Among patients undergoing complex high-risk indicated percutaneous coronary intervention, MCS did not improve clinical outcomes, despite fewer periprocedural adverse events with percutaneous left ventricular assist devices and intra-aortic balloon pump. These findings do not support routine prophylactic use and suggest that MCS should be limited to selected patients."
+ }
+]
