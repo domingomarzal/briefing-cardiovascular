@@ -24,7 +24,7 @@ for s in _selraw:
     if not s.get("pmid"):
         s["pmid"] = _recuperados.get(s["title"], "CR:" + s["key"])
 sel = {s["pmid"]: s for s in _selraw}
-DEST = "a30"; TOP3 = ("a25", "a35", "a20")
+DEST = "a30"; TOP3 = ("a23", "a35", "a36")
 SECN = {1: "Cardiología preventiva", 2: "Cardiometabolismo", 3: "Dislipemia", 4: "Cardiopatía isquémica",
         5: "Insuficiencia cardíaca", 6: "Miocardiopatías", 7: "Valvulopatías", 8: "Imagen cardíaca",
         9: "Cardiología intervencionista", 10: "Arritmias y electrofisiología"}
@@ -136,9 +136,13 @@ head = re.sub(r'\d+\s*[–-]\s*\d+ (?:ene|feb|mar|abr|may|jun|jul|ago|sep|oct|no
               '7 – 13 sep 2026', head)
 head = head.replace("Reglas de selección (N13).", "Reglas de selección (N14).")
 NOTA_TOP3 = ('<p class="intro" style="margin-top:10px;"><b>Nota sobre el bloque «No te los puedes perder» (N14).</b> '
- 'El <span class="star">★</span>★ <b>Destacado</b> es el artículo de mayor puntuación total y los tres marcados con '
- '<span class="star">★</span> son los tres siguientes por puntuación, sin retoque editorial: en este número el bloque '
- 'sale íntegramente del ranking de la rúbrica de 6 ejes que figura en esta tabla.</p>')
+ 'El <span class="star">★</span>★ <b>Destacado</b> es el artículo de mayor puntuación total (a30, 8,2), elegido por la '
+ 'rúbrica de 6 ejes. El bloque de tres, en cambio, lleva <b>retoque editorial en este número</b>: se mantiene por '
+ 'puntuación la ecocardiografía de estrés en la IC-FEp (a35, 7,16) y el director sustituye los otros dos puestos '
+ '—que por ranking habrían sido a25 (7,16) y a20 (7,11)— por el documento de posicionamiento de imagen de la SEC '
+ '(a36, 7,08) y por el estudio de congestión extravascular e iSGLT2 (a23, 4,99), por su interés para el lector '
+ 'español. Ambos siguen figurando con su puntuación real en esta tabla y en su sección; la rúbrica no se ha alterado '
+ 'para justificar la elección.</p>')
 head = re.sub(r'<p class="intro" style="margin-top:10px;"><b>Nota sobre el bloque.*?</p>', lambda _m: NOTA_TOP3, head, count=1, flags=re.S)
 head = re.sub(r'da <b>\d+ seleccionados</b> esta semana', f'da <b>{nsel} seleccionados</b> esta semana', head)
 head = re.sub(r'<div class="box">.*?</div>', lambda _m: '<div class="box">' + box_html + '</div>', head, count=1, flags=re.S)
