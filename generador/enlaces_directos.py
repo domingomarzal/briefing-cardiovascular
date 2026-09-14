@@ -22,14 +22,18 @@ LA SOLUCIÓN NO ES MIRARLOS A OJO, ES NO PASAR POR AHÍ.
 Este script escribe `n<n>_jlinks.json` = {clave: URL directa del editor}, que
 `gen_bilingue.py` aplica en `jlink()`. Rutas por plataforma:
 
-  · Familia JACC .......... https://www.sciencedirect.com/science/article/pii/<PII>
-                            ⚠️ NO jacc.org. La primera versión de este script usaba
-                            `jacc.org/doi/<DOI>` según el PASO 5, y el MISMO 14-sep se
-                            comprobó en navegador real que 3 de los 7 enlaces JACC de
-                            N14 daban ahí «Page Not Found» (a13, a39, a49), sin patrón
-                            —a37 va y a39 no, con DOI consecutivos—. Los tres abren bien
-                            por PII. Así que la familia JACC va por PII como el resto de
-                            Elsevier, y jacc.org queda solo de reserva si no hay PII.
+  · Familia JACC .......... https://www.jacc.org/doi/<DOI>            (PASO 5)
+                            …salvo las EXCEPCIONES de `n<n>_jacc_pii.json`, que van a
+                            ScienceDirect por PII. Regla del usuario (14-sep-2026): a
+                            ScienceDirect se manda SOLO el artículo concreto al que no
+                            se puede acceder en jacc.org, nunca la revista entera —la
+                            web de la sociedad es el destino preferido, y la mayoría de
+                            los enlaces funcionan ahí. En N14 fueron 3 de 7 (a13, a39,
+                            a49) frente a 4 que abrían bien (a19, a33, a27, a37), sin
+                            patrón: a37 (jcmg…018) va y a39 (jcmg…017) no, con DOI
+                            consecutivos. Las excepciones se añaden con:
+                                python3 enlaces_directos.py <n> --pii a13 a39 a49
+                            tras comprobarlas en un navegador real (ver PASO 7b).
   · Revistas AHA .......... https://www.ahajournals.org/doi/<DOI>     (PASO 5; Crossref
                             devuelve exactamente esa URL como resource.primary.URL)
   · N Engl J Med .......... https://www.nejm.org/doi/full/<DOI>       (PASO 5)
@@ -95,9 +99,19 @@ def pii_de_crossref(doi):
 
 
 def main():
-    n = sys.argv[1] if len(sys.argv) > 1 else ""
+    args = sys.argv[1:]
+    n = args[0] if args else ""
     if not n:
-        raise SystemExit("uso: python3 enlaces_directos.py <n>")
+        raise SystemExit("uso: python3 enlaces_directos.py <n> [--pii <clave> <clave> ...]")
+    # --pii: claves de la familia JACC que NO se sirven en jacc.org y hay que mandar a
+    # ScienceDirect. Se acumulan en n<n>_jacc_pii.json (no se pierden al regenerar).
+    exc_p = os.path.join(B, f"n{n}_jacc_pii.json")
+    excepciones = set(json.load(open(exc_p))) if os.path.exists(exc_p) else set()
+    if "--pii" in args:
+        nuevas = [a for a in args[args.index("--pii") + 1:] if not a.startswith("-")]
+        excepciones |= set(nuevas)
+        json.dump(sorted(excepciones), open(exc_p, "w"), ensure_ascii=False, indent=1)
+        print(f"n{n}_jacc_pii.json: {len(excepciones)} excepciones -> {', '.join(sorted(excepciones))}")
     sel = json.load(open(os.path.join(B, f"n{n}_sel.json")))
     out, sin_pii = {}, []
     for o in sel:
@@ -105,23 +119,24 @@ def main():
         if not doi:
             continue
         if j in JACC:
-            # ⛔ NO uses https://www.jacc.org/doi/<DOI> (fue la primera versión de este
-            # script, 14-sep-2026, y se cambió el MISMO día al comprobarla en navegador
-            # real): de los 7 enlaces de la familia JACC de N14, TRES daban «Page Not
-            # Found» en jacc.org — a13 (jacadv.103233), a39 (jcmg.2026.07.017) y a49
-            # (jacep.2026.09.001) — mientras que a19, a33, a27 y a37 abrían bien. Sin
-            # patrón: a37 (jcmg…018) funciona y a39 (jcmg…017) no, con DOI consecutivos.
-            # Es la MISMA avería que se venía viendo desde N7; quitar linkinghub no la
-            # cura, porque el destino final seguía siendo jacc.org.
-            # Los TRES rotos abren perfectamente en sciencedirect por PII, que es la ruta
-            # que ya se usaba para el resto de Elsevier. Así que la familia JACC va
-            # también por PII, y jacc.org queda solo como reserva si no hay PII.
-            pii = o.get("pii") or pii_de_crossref(doi)
-            if pii:
-                out[k] = "https://www.sciencedirect.com/science/article/pii/" + pii_plano(pii)
-            else:
-                out[k] = "https://www.jacc.org/doi/" + doi
-            time.sleep(0.4)
+            # REGLA DEL USUARIO (14-sep-2026): la familia JACC va a jacc.org, que es la
+            # web de la sociedad y lo que manda el PASO 5. A ScienceDirect SOLO van los
+            # artículos concretos que jacc.org NO sirve, uno a uno, nunca la revista
+            # entera. Esos son las EXCEPCIONES de n<n>_jacc_pii.json, que se alimentan
+            # con `--pii <clave>` tras comprobarlas en un navegador real.
+            # Por qué existe la excepción: en N14, 3 de los 7 enlaces JACC daban «Page
+            # Not Found» en jacc.org (a13 jacadv.103233, a39 jcmg.2026.07.017, a49
+            # jacep.2026.09.001) mientras a19, a33, a27 y a37 abrían bien. Sin patrón:
+            # a37 (jcmg…018) va y a39 (jcmg…017) no, con DOI consecutivos. Los tres
+            # rotos abren perfectamente en ScienceDirect por PII.
+            if k in excepciones:
+                pii = o.get("pii") or pii_de_crossref(doi)
+                if pii:
+                    out[k] = "https://www.sciencedirect.com/science/article/pii/" + pii_plano(pii)
+                    time.sleep(0.4)
+                    continue
+                sin_pii.append((k, j, doi))   # excepción sin PII: se avisa y se deja en jacc.org
+            out[k] = "https://www.jacc.org/doi/" + doi
         elif j in AHA:
             out[k] = "https://www.ahajournals.org/doi/" + doi
         elif j == "N Engl J Med":
