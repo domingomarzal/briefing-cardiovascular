@@ -22,13 +22,21 @@ LA SOLUCIÓN NO ES MIRARLOS A OJO, ES NO PASAR POR AHÍ.
 Este script escribe `n<n>_jlinks.json` = {clave: URL directa del editor}, que
 `gen_bilingue.py` aplica en `jlink()`. Rutas por plataforma:
 
-  · Familia JACC .......... https://www.jacc.org/doi/<DOI>            (PASO 5)
+  · Familia JACC .......... https://www.sciencedirect.com/science/article/pii/<PII>
+                            ⚠️ NO jacc.org. La primera versión de este script usaba
+                            `jacc.org/doi/<DOI>` según el PASO 5, y el MISMO 14-sep se
+                            comprobó en navegador real que 3 de los 7 enlaces JACC de
+                            N14 daban ahí «Page Not Found» (a13, a39, a49), sin patrón
+                            —a37 va y a39 no, con DOI consecutivos—. Los tres abren bien
+                            por PII. Así que la familia JACC va por PII como el resto de
+                            Elsevier, y jacc.org queda solo de reserva si no hay PII.
   · Revistas AHA .......... https://www.ahajournals.org/doi/<DOI>     (PASO 5; Crossref
                             devuelve exactamente esa URL como resource.primary.URL)
   · N Engl J Med .......... https://www.nejm.org/doi/full/<DOI>       (PASO 5)
   · Resto de Elsevier ..... https://www.sciencedirect.com/science/article/pii/<PII>
                             con el PII que el propio editor registra en Crossref; es
                             el destino al que linkinghub intenta llegar, sin el salto.
+                            El PII se guarda en forma plana (ver pii_plano).
   · Todo lo demás ......... se omite -> `jlink()` usa doi.org, que para OUP, JAMA,
                             BMJ y Nature resuelve bien y además es más duradero que
                             la URL de «advance-article» de OUP, que cambia al salir
@@ -61,6 +69,17 @@ def crossref(doi):
     return {}
 
 
+def pii_plano(pii):
+    """PII en forma plana alfanumérica, que es la canónica de ScienceDirect.
+
+    PubMed lo da puntuado —`S2772-963X(26)00654-X`— y esa forma TAMBIÉN resuelve,
+    pero mete paréntesis en la URL, que algunos clientes de correo y parsers de
+    Markdown parten por la mitad. ScienceDirect canonicaliza a `S2772963X2600654X`,
+    así que se guarda ya normalizado (verificado en navegador el 14-sep-2026).
+    """
+    return re.sub(r"[^A-Za-z0-9]", "", pii or "")
+
+
 def pii_de_crossref(doi):
     """Devuelve el PII que el editor registra en Crossref, o '' si no lo hay."""
     m = crossref(doi)
@@ -86,7 +105,23 @@ def main():
         if not doi:
             continue
         if j in JACC:
-            out[k] = "https://www.jacc.org/doi/" + doi
+            # ⛔ NO uses https://www.jacc.org/doi/<DOI> (fue la primera versión de este
+            # script, 14-sep-2026, y se cambió el MISMO día al comprobarla en navegador
+            # real): de los 7 enlaces de la familia JACC de N14, TRES daban «Page Not
+            # Found» en jacc.org — a13 (jacadv.103233), a39 (jcmg.2026.07.017) y a49
+            # (jacep.2026.09.001) — mientras que a19, a33, a27 y a37 abrían bien. Sin
+            # patrón: a37 (jcmg…018) funciona y a39 (jcmg…017) no, con DOI consecutivos.
+            # Es la MISMA avería que se venía viendo desde N7; quitar linkinghub no la
+            # cura, porque el destino final seguía siendo jacc.org.
+            # Los TRES rotos abren perfectamente en sciencedirect por PII, que es la ruta
+            # que ya se usaba para el resto de Elsevier. Así que la familia JACC va
+            # también por PII, y jacc.org queda solo como reserva si no hay PII.
+            pii = o.get("pii") or pii_de_crossref(doi)
+            if pii:
+                out[k] = "https://www.sciencedirect.com/science/article/pii/" + pii_plano(pii)
+            else:
+                out[k] = "https://www.jacc.org/doi/" + doi
+            time.sleep(0.4)
         elif j in AHA:
             out[k] = "https://www.ahajournals.org/doi/" + doi
         elif j == "N Engl J Med":
@@ -94,7 +129,7 @@ def main():
         elif doi.startswith("10.1016"):           # Elsevier no-JACC: Heart Rhythm, Rev Esp Cardiol…
             pii = o.get("pii") or pii_de_crossref(doi)
             if pii:
-                out[k] = "https://www.sciencedirect.com/science/article/pii/" + pii
+                out[k] = "https://www.sciencedirect.com/science/article/pii/" + pii_plano(pii)
             else:
                 sin_pii.append((k, j, doi))
             time.sleep(0.4)
