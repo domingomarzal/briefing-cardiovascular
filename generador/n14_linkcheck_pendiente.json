@@ -1,15 +1,25 @@
 {
  "num": 14,
  "fecha": "2026-09-14",
- "estado": "ABIERTA UNA DUDA CONCRETA, no una verificacion masiva",
- "contexto": "El 14-sep se resolvio de raiz la averia de enlaces (enlaces_directos.py: ningun enlace pasa ya por linkinghub). Este fichero NO reabre el procedimiento antiguo de abrir todo a ojo, que quedo retirado. Solo deja anotada una duda que la correccion de raiz no cubre.",
- "hallazgo": "a13 (10.1016/j.jacadv.2026.103233, JACC Adv, publicado el 11-sep) da 'Page Not Found' EN SU URL DIRECTA https://www.jacc.org/doi/10.1016/j.jacadv.2026.103233 — comprobado en el Chrome real del usuario. No es el rebote de linkinghub: jacc.org no sirve el articulo en esa ruta. Resuelto con linkfix a PubMed 42727228, que tiene prioridad sobre jlinks.",
- "duda_abierta": "¿Es sistematico en JACC Adv, o es que jacc.org tarda unos dias en publicar los articulos nuevos y a13 era demasiado reciente? Las dos hipotesis explican lo observado y tienen arreglos distintos.",
- "como_resolverla": "Abrir en un navegador REAL estos dos y mirar el titulo: (1) https://www.jacc.org/doi/10.1016/j.jacadv.2026.103218 (a19, JACC Adv de la misma semana) y (2) cualquier articulo jacadv de N12 o N13, ya con varias semanas. Si el reciente falla y el antiguo funciona -> es cuestion de tiempo, y basta con que enlaces_directos.py mande JACC Adv a sciencedirect por PII cuando el articulo tenga menos de ~2 semanas. Si fallan los dos -> JACC Adv no se sirve en jacc.org y hay que mandarla SIEMPRE a sciencedirect por PII, como ya se hace con Heart Rhythm.",
- "claves_jacadv_de_n14": {
-  "a13": "linkfix aplicado (PubMed)",
+ "estado": "DUDA DE JACC Adv RESUELTA. Quedan 3 enlaces sin comprobar, de riesgo bajo.",
+ "contexto": "El 14-sep se resolvio de raiz la averia de enlaces (enlaces_directos.py: ningun enlace pasa ya por linkinghub). Este fichero NO reabre el procedimiento antiguo de abrir todo a ojo, que quedo retirado.",
+
+ "resuelto": "¿Falla JACC Adv de forma sistematica en jacc.org, o es que el articulo era demasiado reciente? NI UNA COSA NI LA OTRA. Comprobado en el Chrome real del usuario con las tres jacadv de N14: a19 (103218) abre bien -> 'Hospital Financial Structure and Unplanned Rehospitalization Following Acute Myocardial Infarction in the United States'; a33 (103227) abre bien -> 'Association Between the Degree of Extravalvular Cardiac Damage and the Severity of Aortic Stenosis'; a13 (103233) da 'Page Not Found' de forma reproducible, comprobado dos veces con horas de diferencia. Conclusion: JACC Adv SI se sirve en jacc.org/doi/<DOI>; a13 es una anomalia de ESE articulo, no de la revista ni del momento. La ruta de enlaces_directos.py para JACC Adv es CORRECTA y no hay que cambiarla.",
+
+ "verificados_ok": {
   "a19": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103218",
-  "a33": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103227"
+  "a33": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103227",
+  "a27": "https://www.jacc.org/doi/10.1016/j.jacc.2026.06.031",
+  "a37": "https://www.jacc.org/doi/10.1016/j.jcmg.2026.07.018"
  },
- "nota_operativa": "No se pudo cerrar el 14-sep porque el panel de navegador esta denegado en sesiones de tarea programada y el Chrome real del usuario estaba en uso (las pestanas abiertas se cerraban antes de poder leerlas). Al abrir estas URL de una en una con mcp__Control_Chrome__open_url hay que leerlas con list_tabs, no con get_current_tab."
+ "roto_y_corregido": {
+  "a13": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103233 -> 'Page Not Found'. linkfix a PubMed 42727228 aplicado; tiene prioridad sobre jlinks."
+ },
+ "pendientes": {
+  "a39": "https://www.jacc.org/doi/10.1016/j.jcmg.2026.07.017",
+  "a49": "https://www.jacc.org/doi/10.1016/j.jacep.2026.09.001",
+  "a47": "https://www.sciencedirect.com/science/article/pii/S1547-5271(26)02764-5"
+ },
+ "riesgo_residual": "BAJO: de los 5 enlaces de la familia JACC ya comprobados, 4 abren bien y solo a13 falla. No hay indicio de problema sistematico. Si alguno de los 3 fallara, la correccion es la de siempre: check_links.py n14 <clave> -> linkfix a PubMed -> regenerar con gen_bilingue.py n14 y gen_audit_N14.py -> republicar.",
+ "por_que_no_se_cerro": "Chrome se reinicio a media comprobacion y, desde entonces, las pestanas nuevas dejaron de aparecer en list_tabs (probablemente se abren en otra ventana). No es un problema del pipeline."
 }
