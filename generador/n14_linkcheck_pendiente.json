@@ -1,19 +1,15 @@
 {
  "num": 14,
- "fecha_publicacion": "2026-09-14",
- "motivo": "panel denegado",
- "detalle": "El panel de navegador devolvio 'navigation to https://doi.org was denied or failed' por ser sesion de tarea programada (aprobacion por origen no concedible). Se intento con el Chrome real del usuario (mcp__Control_Chrome__*), que SI atraviesa Cloudflare: asi se confirmo roto a13. Los 7 restantes no se pudieron leer porque el usuario estaba trabajando en Chrome y las pestanas se cerraban. curl y Chrome headless no sirven (HTTP 403 'Just a moment...' en todos por igual).",
- "ya_verificados": {
-  "a13": "ROTO - confirmado: la URL final era https://www.jacc.org/doi/10.1016/j.jacadv.2026.103233 con titulo 'Page Not Found'. Linkfix aplicado a PubMed 42727228 y numero republicado."
+ "fecha": "2026-09-14",
+ "estado": "ABIERTA UNA DUDA CONCRETA, no una verificacion masiva",
+ "contexto": "El 14-sep se resolvio de raiz la averia de enlaces (enlaces_directos.py: ningun enlace pasa ya por linkinghub). Este fichero NO reabre el procedimiento antiguo de abrir todo a ojo, que quedo retirado. Solo deja anotada una duda que la correccion de raiz no cubre.",
+ "hallazgo": "a13 (10.1016/j.jacadv.2026.103233, JACC Adv, publicado el 11-sep) da 'Page Not Found' EN SU URL DIRECTA https://www.jacc.org/doi/10.1016/j.jacadv.2026.103233 — comprobado en el Chrome real del usuario. No es el rebote de linkinghub: jacc.org no sirve el articulo en esa ruta. Resuelto con linkfix a PubMed 42727228, que tiene prioridad sobre jlinks.",
+ "duda_abierta": "¿Es sistematico en JACC Adv, o es que jacc.org tarda unos dias en publicar los articulos nuevos y a13 era demasiado reciente? Las dos hipotesis explican lo observado y tienen arreglos distintos.",
+ "como_resolverla": "Abrir en un navegador REAL estos dos y mirar el titulo: (1) https://www.jacc.org/doi/10.1016/j.jacadv.2026.103218 (a19, JACC Adv de la misma semana) y (2) cualquier articulo jacadv de N12 o N13, ya con varias semanas. Si el reciente falla y el antiguo funciona -> es cuestion de tiempo, y basta con que enlaces_directos.py mande JACC Adv a sciencedirect por PII cuando el articulo tenga menos de ~2 semanas. Si fallan los dos -> JACC Adv no se sirve en jacc.org y hay que mandarla SIEMPRE a sciencedirect por PII, como ya se hace con Heart Rhythm.",
+ "claves_jacadv_de_n14": {
+  "a13": "linkfix aplicado (PubMed)",
+  "a19": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103218",
+  "a33": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103227"
  },
- "pendientes": {
-  "a19": "https://doi.org/10.1016/j.jacadv.2026.103218",
-  "a27": "https://doi.org/10.1016/j.jacc.2026.06.031",
-  "a33": "https://doi.org/10.1016/j.jacadv.2026.103227",
-  "a37": "https://doi.org/10.1016/j.jcmg.2026.07.018",
-  "a39": "https://doi.org/10.1016/j.jcmg.2026.07.017",
-  "a47": "https://doi.org/10.1016/j.hrthm.2026.09.002",
-  "a49": "https://doi.org/10.1016/j.jacep.2026.09.001"
- },
- "como_cerrarlo": "Abrir cada URL DE UNA EN UNA con mcp__Control_Chrome__open_url y leerla con list_tabs (get_current_tab devuelve la pestana activa, que no es la tuya). Si el titulo dice 'Page Not Found', anotar la clave. Luego: python3 generador/check_links.py n14 <claves rotas>, regenerar con gen_bilingue.py n14 y gen_audit_N14.py, y republicar. Finalmente mover este fichero fuera con mv (nunca rm)."
+ "nota_operativa": "No se pudo cerrar el 14-sep porque el panel de navegador esta denegado en sesiones de tarea programada y el Chrome real del usuario estaba en uso (las pestanas abiertas se cerraban antes de poder leerlas). Al abrir estas URL de una en una con mcp__Control_Chrome__open_url hay que leerlas con list_tabs, no con get_current_tab."
 }
