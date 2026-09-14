@@ -41,6 +41,7 @@ Además se genera la **Auditoría (Artículos Revisados)** y un **borrador de co
 | **N11** | **17–23 ago** | ✓ (generado 24-ago · 50 art. de 252 revisados · 2 enlaces JACC Adv rotos corregidos · 1 duplicado de N10 descartado) |
 | **N12** | **24–30 ago** | ✓ (generado 31-ago en el Mac · 50 art. de 508 revisados · semana congreso ESC · guías ESC 2026 de IC, ERC-ECV y rehabilitación + 5.ª Definición Universal de IAM) |
 | **N13** | **31 ago–6 sep** | ✓ (generado 7-sep **en la nube**, primera vez · 45 art. de 547 revisados · ver §4.5) |
+| **N14** | **7–13 sep** | ✓ (generado 14-sep · 49 art. de 343 revisados · nube y Mac a la vez, ver §4.7 · **resuelta de raíz la avería de los enlaces JACC**, ver §4.6 · los 3 EuroIntervention del 7-sep eran duplicados del N13) |
 
 **Regla de numeración/fecha:** el número y el periodo se CALCULAN de la fecha real
 del sistema (`date`), NUNCA de memoria. Ventana = semana natural anterior (lunes-domingo).
@@ -231,6 +232,48 @@ número. **Al generar N14, compruébalos: si son del 7-sep, entran ahí.**
 no se repita al copiar el script.
 
 ---
+
+### 4.6 N14 (14-sep-2026): resuelta de raíz la avería recurrente de los enlaces JACC
+
+**El fallo que se repetía desde N7 no era impredecible: estaba en el generador.** El PASO 5 de la
+SKILL manda desde junio de 2026 enlazar «prefiriendo la URL DIRECTA del editor, para que abra sin
+saltos» (jacc.org, ahajournals.org, nejm.org). Esa regla **nunca se implementó**: `jlink()` de
+`gen_bilingue.py` mandaba el 100 % de los enlaces a `https://doi.org/<DOI>` — en N14, 102 de 102.
+Y doi.org manda todo lo alojado en Elsevier a `linkinghub.elsevier.com`, que salta por JavaScript
+y a veces rebota a la raíz de la revista. De ahí los «Page Not Found» de la familia JACC número
+tras número (N7: 4 · N8: 2 · N9: 3 · N10: 6 · N11: 2) y de ahí que el PASO 7b obligara a abrirlos
+a ojo cada lunes: se estaba tratando el síntoma.
+
+Confirmado con Crossref (accesible desde la nube): para la familia JACC y Heart Rhythm
+`resource.primary.URL` es `https://linkinghub.elsevier.com/retrieve/pii/<PII>`; para Circulation,
+en cambio, es exactamente `https://www.ahajournals.org/doi/<DOI>`.
+
+**Arreglo:** nuevo `generador/enlaces_directos.py <n>` → escribe `n<n>_jlinks.json` = {clave: URL
+directa del editor}, que `gen_bilingue.py` aplica en `jlink()` (mapa APARTE de `linkfix`, porque
+`gen_audit_N<n>.py` usa `linkfix` para vaciar el DOI y mandar esas filas a PubMed). Reparto en N14:
+20 a ahajournals.org, 7 a jacc.org, 4 a sciencedirect.com por PII y 18 se quedan en doi.org (OUP,
+JAMA, BMJ, Nature), que para esas plataformas resuelve bien y es más duradero que la URL de
+«advance-article» de OUP. **Ningún enlace del número pasa ya por linkinghub.**
+
+**Consecuencia práctica:** desaparece el único paso del pipeline que obligaba al usuario a estar
+delante y el único que la nube no podía completar (su política de red deniega el CONNECT a doi.org,
+linkinghub, jacc.org y sciencedirect.com con 403 — comprobado el 14-sep-2026; no es que falle el
+`curl`, es que el egreso no lo permite). N14 se regeneró con los enlaces corregidos sin tocar ni
+una ficha. Los números N0–N13 siguen con enlaces doi.org; se corregirán solos la próxima vez que
+se regeneren.
+
+⚠️ **No deshagas esto.** Si alguien vuelve a tocar `jlink()`, mandar la familia JACC por doi.org es
+exactamente lo que rompe los enlaces.
+
+### 4.7 N14: la nube y el Mac generaron el mismo número a la vez
+
+La routine de la nube se quedó sin turnos esperando a sus subagentes de fichas y el Mac, como red
+de seguridad (PASO 0.2.b), publicó el N14 completo a las 08:24. Cuando la nube volvió, aplicó la
+regla dura del PASO 0.3: **no pisó el número del Mac**, descartó su propia versión de las fichas y
+el HTML y se alineó con lo publicado. Lo que la nube sí había dejado hecho y sirvió de base al Mac:
+corpus, cribado, selección de los 49, ponderación, auditoría de cobertura y la figura del Destacado.
+Lección: la regla «nunca regeneres un número que ya existe» funcionó, pero conviene que la nube
+compruebe `git fetch` ANTES de arrancar la redacción de fichas, no solo al principio.
 
 ## 5. Pipeline (cada lunes, en este orden)
 
