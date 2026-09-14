@@ -103,39 +103,46 @@ def main():
     n = args[0] if args else ""
     if not n:
         raise SystemExit("uso: python3 enlaces_directos.py <n> [--pii <clave> <clave> ...]")
-    # --pii: claves de la familia JACC que NO se sirven en jacc.org y hay que mandar a
-    # ScienceDirect. Se acumulan en n<n>_jacc_pii.json (no se pierden al regenerar).
-    exc_p = os.path.join(B, f"n{n}_jacc_pii.json")
+    # --pii: claves cuyo enlace NO abre el artículo en la ruta por defecto y hay que
+    # mandar a ScienceDirect. Vale para CUALQUIER revista, no solo la familia JACC
+    # (regla del usuario, 14-sep-2026: se revisan TODOS los enlaces, y el que falle se
+    # redirige, sea de quien sea). Se acumulan en n<n>_pii.json.
+    exc_p = os.path.join(B, f"n{n}_pii.json")
+    viejo = os.path.join(B, f"n{n}_jacc_pii.json")      # nombre anterior, solo-JACC
+    if os.path.exists(viejo) and not os.path.exists(exc_p):
+        os.rename(viejo, exc_p)
     excepciones = set(json.load(open(exc_p))) if os.path.exists(exc_p) else set()
     if "--pii" in args:
         nuevas = [a for a in args[args.index("--pii") + 1:] if not a.startswith("-")]
         excepciones |= set(nuevas)
         json.dump(sorted(excepciones), open(exc_p, "w"), ensure_ascii=False, indent=1)
-        print(f"n{n}_jacc_pii.json: {len(excepciones)} excepciones -> {', '.join(sorted(excepciones))}")
+        print(f"n{n}_pii.json: {len(excepciones)} excepciones -> {', '.join(sorted(excepciones))}")
     sel = json.load(open(os.path.join(B, f"n{n}_sel.json")))
     out, sin_pii = {}, []
     for o in sel:
         doi, j, k = (o.get("doi") or "").strip(), o["journal"], o["key"]
         if not doi:
             continue
+        # EXCEPCIÓN UNIVERSAL: cualquier clave marcada con --pii va a ScienceDirect,
+        # sea de la revista que sea, siempre que exista PII (los DOI 10.1016 son de
+        # Elsevier y lo tienen). Si no hay PII, no se puede usar esta vía: se avisa y
+        # el artículo se manda a PubMed con el linkfix de check_links.py.
+        if k in excepciones:
+            pii = o.get("pii") or pii_de_crossref(doi)
+            time.sleep(0.4)
+            if pii:
+                out[k] = "https://www.sciencedirect.com/science/article/pii/" + pii_plano(pii)
+                continue
+            sin_pii.append((k, j, doi))
         if j in JACC:
             # REGLA DEL USUARIO (14-sep-2026): la familia JACC va a jacc.org, que es la
             # web de la sociedad y lo que manda el PASO 5. A ScienceDirect SOLO van los
             # artículos concretos que jacc.org NO sirve, uno a uno, nunca la revista
-            # entera. Esos son las EXCEPCIONES de n<n>_jacc_pii.json, que se alimentan
-            # con `--pii <clave>` tras comprobarlas en un navegador real.
+            # entera; se marcan arriba como excepción.
             # Por qué existe la excepción: en N14, 3 de los 7 enlaces JACC daban «Page
             # Not Found» en jacc.org (a13 jacadv.103233, a39 jcmg.2026.07.017, a49
             # jacep.2026.09.001) mientras a19, a33, a27 y a37 abrían bien. Sin patrón:
-            # a37 (jcmg…018) va y a39 (jcmg…017) no, con DOI consecutivos. Los tres
-            # rotos abren perfectamente en ScienceDirect por PII.
-            if k in excepciones:
-                pii = o.get("pii") or pii_de_crossref(doi)
-                if pii:
-                    out[k] = "https://www.sciencedirect.com/science/article/pii/" + pii_plano(pii)
-                    time.sleep(0.4)
-                    continue
-                sin_pii.append((k, j, doi))   # excepción sin PII: se avisa y se deja en jacc.org
+            # a37 (jcmg…018) va y a39 (jcmg…017) no, con DOI consecutivos.
             out[k] = "https://www.jacc.org/doi/" + doi
         elif j in AHA:
             out[k] = "https://www.ahajournals.org/doi/" + doi
