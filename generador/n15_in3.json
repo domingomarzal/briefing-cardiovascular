@@ -1,0 +1,283 @@
+[
+ {
+  "idx": 75,
+  "journal": "Heart Rhythm",
+  "title": "Heart Rhythm Society and Heart Rhythm advocates position statement: Prior authorization in cardiac electrophysiology: Evidence, policy, and reform.",
+  "ptypes": [
+   "Journal Article",
+   "Practice Guideline"
+  ],
+  "abstract": "Prior authorization (PA) requirements imposed by Medicare Advantage (MA) and commercial insurers have evolved into a systematic barrier to guideline-indicated cardiac electrophysiology (EP) care, producing measurable patient harm, substantial administrative burden on physicians and allied professionals, and widening health care disparities. This paper examines the financial architecture of the MA capitation model and the structural incentives it creates for denial, characterizes the root causes of the denial system, including third-party denial organizations, artificial intelligence-based algorithms, and opaque coverage criteria; reviews federal oversight findings from the Office of Inspector General and the Senate Permanent Subcommittee on Investigations, and analyzes procedure-specific denial patterns for catheter ablation of atrial fibrillation, implantable cardioverter-defibrillator therapy, left atrial appendage occlusion, and cardiac resynchronization therapy with defibrillation. Federal audit data establish that a substantial proportion of denied PA requests meet Medicare's own coverage criteria and that the majority of appealed denials are overturned, yet most wrongful denials go uncontested. Clinical outcome data confirm that PA delays have direct clinical consequences across EP procedure categories. The regulatory and legislative landscape-spanning Centers for Medicare & Medicaid Services rulemaking from 2023 to 2026 and pending congressional action-is reviewed, and the paper concludes with a structured framework for appeals strategy, institutional advocacy, and physician-level engagement.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 76,
+  "journal": "J Am Heart Assoc",
+  "title": "Trends in Incidence of Atrial Fibrillation-Related Stroke: The Norwegian AFNOR Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The increasing prevalence of atrial fibrillation (AF), along with changes in cardiovascular risk factors, AF detection and oral anticoagulant use, may have altered the epidemiology of AF-related stroke. However, population-based data on long-term trends remain limited. METHODS: Using mandatory nationwide registry data from the Atrial Fibrillation in Norway (AFNOR) study (2001-2021), we identified incident stroke cases defined as first hospitalization or death due to stroke in individuals aged ≥15 years. Age-standardized incidence rates were calculated using direct standardization. Sex- and age-adjusted incidence rate ratios (IRR) were estimated using negative binomial regression. RESULTS: Among 227 575 incident strokes, 66 795 (29.4%) were AF-related, and increased from 22% to 31% during 2001-2021, with 69% of all AF-related ischemic strokes occurring in non-anticoagulated individuals. Incidence rate of AF-related ischemic strokes remained stable overall (67.8 per 100 000 person-years in 2001 to 68.4 in 2021; IRR=1.01; 95% CI, 1.00-1.03) but increased among individuals aged 15 to 64 years. Non-AF ischemic strokes declined from 204.4 to 130.8 (IRR=0.98; 95% CI, 0.97-0.99). Incidence of AF-related intracerebral hemorrhage in individuals aged ≥75 years increased, driven by anticoagulated patients. Incidence of non-AF intracerebral hemorrhage decreased (IRR=0.98; 95% CI, 0.97-0.99). CONCLUSIONS: The favorable decline in ischemic stroke incidence from 2001 to 2021 did not include AF-related strokes. AF-related ischemic strokes increased in younger age groups, whereas AF-related intracerebral hemorrhage increased in the oldest age groups driven by anticoagulated patients. These findings underscore the need for improved strategies for AF detection and stroke prevention, particularly in younger populations, and greater attention towards management of bleeding risk among older, anticoagulated individuals.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 77,
+  "journal": "Circ Heart Fail",
+  "title": "Next Generation Temporary Mechanical Circulatory Support for Cardiogenic Shock.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Cardiogenic shock remains the leading cause of death in patients with acute myocardial infarction and severe acute heart failure. Temporary mechanical circulatory support devices have emerged as important adjuncts for restoring systemic perfusion, unloading the failing ventricle, and stabilizing patients for cardiogenic shock and during high-risk percutaneous coronary interventions. However, currently available devices are associated with important limitations, including vascular complications, hemolysis, and uncertain survival benefit. Technological innovation has led to the development of new percutaneous mechanical support systems designed to deliver higher cardiac output with more limited vascular access and improved hemocompatibility. This review summarizes the current evidence regarding current and emerging temporary mechanical circulatory support devices used in cardiogenic shock and high-risk percutaneous coronary interventions. Literature from major clinical trials, observational registries, and device development studies was reviewed to evaluate device mechanisms, hemodynamic performance, and emerging technologies.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 78,
+  "journal": "J Am Heart Assoc",
+  "title": "Clinical Prediction Models in Cardiovascular Disease: Foundations, Clinical Applications and Future Directions.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Clinical prediction models have progressed from traditional risk scores derived from epidemiological cohorts into sophisticated systems capable of integrating multimodal data, electronic health records, and machine learning approaches. This review provides a clinically focused synthesis of the clinical prediction model lifecycle, outlining their conceptual foundations and methodological evolution across health care settings, with particular emphasis on cardiovascular risk prediction. These predictive frameworks inform both population-level public health strategies and individual clinical decision-making. However, external validation studies frequently reveal a stark discrepancy between statistical performance and real-world implementation, driven by temporal calibration drift, geographic transportability failures, and systemic sociodemographic or sex-based biases. Importantly, clinical prediction models should not be viewed as replacements for randomized trial evidence; instead, they function as vital complementary mechanisms to dissect the heterogeneity of treatment effects and individualize treatment decisions by contextualizing average treatment effects at the bedside. As health care shifts toward data-driven infrastructures, this review aims to contextualize the bench-to-bedside translational gap, offering an evidence-based roadmap for clinicians, statisticians, and data scientists to safely harness predictive modeling and ensure meaningful improvements in patient outcomes.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 79,
+  "journal": "JACC Cardiovasc Interv",
+  "title": "Surgical Bailout During TAVR: A Contemporary Analysis of the Centers for Medicare and Medicaid Services Database.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Surgical bailout during transcatheter aortic valve replacement (TAVR) may be necessary to manage emergent TAVR complications. With discussions of performing TAVR in U.S. hospitals without in-hospital cardiac surgery support, analysis of TAVR bailout on a national level is needed. OBJECTIVES: This study sought to analyze the annual trends and outcomes of TAVR bailout. METHODS: This study included Medicare beneficiaries who underwent TAVR between 2016 and 2024. Annual trends of bailout were analyzed. The primary outcome was 30-day mortality. Additionally, the impact of hospital surgical aortic valve replacement (SAVR) volume on TAVR bailout mortality was assessed with multivariable analysis. RESULTS: TAVR bailout occurred in 0.56% (2,240/400,862) of TAVRs. The annual incidence of TAVR bailout decreased from 0.92% (261/28,430) in 2016 to 0.40% (216/54,301) in 2024 (P < 0.001). The median follow-up time after TAVR was 952 days (IQR: 414-1,615 days). The 30-day mortality rate of TAVR bailout was 26.3% (588/2,240). Landmark analysis demonstrated higher mortality of TAVR bailout compared to TAVR without bailout up to 1 year after TAVR (P < 0.001), but similar mortality was seen after 1 year (P = 0.53). When compared across low-, intermediate-, and high-volume SAVR hospitals in a multilevel hierarchal model, 30-day mortality was similar (27% [102/383] vs 29% [163/566] vs 25% [322/1,291], respectively; P = 0.28). CONCLUSIONS: In contemporary data, the annual incidence of TAVR surgical bailout is decreasing, but the short-term mortality remains high. However, patients who survived 1 year after TAVR had similar long-term mortality to patients without surgical bailout. These data support the need for continued cardiac surgical support in TAVR centers to manage emergent complications.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 80,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Flow-Mediated Dilation in Competitive Athletes: Non-linear Associations and Haemodynamic Characteristics.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: The vascular endothelial effects of chronic competitive training remain controversial. Traditional sport classifications may not capture complex haemodynamic demands, while training-related outward arterial remodelling may reduce percentage flow-mediated dilation (FMD) and obscure endothelial adaptation. We compared resting FMD between competitive athletes and non-athletic controls and explored potential sport-, participant-, and vascular-level moderators. METHODS: Five databases were searched from inception to 11 March 2026. Controlled studies reporting resting ultrasound-assessed conduit-artery FMD in competitive athletes and non-athletic controls were included. Dependent effect sizes were synthesised using a three-level random-effects model. Subgroup analyses and meta-regression examined potential moderators, with secondary exploratory quadratic models applied to selected continuous variables. Evidence certainty was assessed using GRADE. RESULTS: The pooled athlete-control difference in FMD was not statistically significant (SMD = 0.33, 95% CI -0.01 to 0.66; P = 0.06), with substantial heterogeneity. In secondary analyses, sport modality was associated with variation in effect estimates, and endurance athletes showed higher FMD than controls; evidence for strength and mixed-modality sports was less conclusive. Exploratory quadratic meta-regression suggested possible curved associations involving age and maximal oxygen uptake (VO2max), although the fitted turning points were not validated physiological thresholds. Substantial heterogeneity remained across most analyses. CONCLUSION: No clear overall difference in FMD was observed between athletes and controls. Higher FMD among endurance athletes in secondary analyses should be interpreted cautiously given the observational designs, residual heterogeneity, and moderate certainty of evidence.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 81,
+  "journal": "Circulation",
+  "title": "Clinical Management of Myocardial Infarction.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Despite notable advancements in the acute and long-term management, coronary artery disease and myocardial infarction (MI) remain the leading cause of mortality worldwide. Atherothrombosis overlying coronary plaque rupture or erosion is the main pathophysiological mechanism of MI. Plaque disruption leads to the exposure of tissue factors and subintimal components to the luminal blood, triggering activation of the coagulation cascade and platelet aggregation, which ultimately result in luminal thrombosis. Protocolization of timely and effective revascularization in patients with acute MI is a milestone in the history of cardiovascular medicine. In the last decades, the widespread implementation of systems of care aimed at prioritizing immediate reperfusion by primary percutaneous coronary intervention or fibrinolysis (if primary percutaneous coronary intervention cannot be performed within 120 minutes), advancements in the acute phase management and secondary prevention measures has led to a substantial reduction of morbidity and mortality of MI. However, coronary artery disease and MI remains responsible for >370 000 deaths in the United States each year, and a nonnegligible proportion of patients with MI still experience recurrent cardiovascular events despite effective control of conventional risk factors. These considerations prompted the pursuit of adjunctive pharmacological agents aimed at facilitating reperfusion of the infarct-related artery and optimized secondary prevention measures to mitigate post-MI complications and residual risk for recurrent MI. This state-of-the-art review summarizes the contemporary clinical management of MI, focusing on diagnostic framework, approach to risk stratification, and treatment. A critical appraisal of the existing evidence on revascularization strategies (including timing and guidance of complete revascularization) and emerging pharmacological treatment approaches for secondary prevention of MI are also provided, with a special emphasis on the increasingly recognized entity characterized by MI without obstructive coronary artery disease. Further efforts are needed to refine risk prediction and diagnostic algorithms for occlusive MI, reduce delays to reperfusion, improve upon cardiogenic shock-related mortality, and ultimately advance adoption of secondary prevention measures that will further enhance patient outcomes.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 82,
+  "journal": "J Am Heart Assoc",
+  "title": "Real-World External Validation of Artificial Intelligence-Based Full-Vessel Segmentation for Intracoronary Optical Coherence Tomography.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Artificial intelligence (AI) allows automated evaluation of intracoronary optical coherence tomography (OCT) images. However, algorithms are mostly developed and validated on well-curated data sets, which may not represent real-world data. We sought to externally validate a previously developed algorithm performing full-vessel segmentation for OCT in an unselected consecutive real-world data set. METHODS: This was a retrospective, single-center, external validation study comprising 100 consecutive patients undergoing clinically indicated OCT. A previously developed AI algorithm (OCT-AID) was used for automated pixelwise labeling of OCT images, distinguishing among lumen, guidewire artifact, intima, media, lipid plaque, calcium plaque, side branch, plaque rupture, thrombus, microvessel, and background. The AI-based predictions were compared on a frame level to the reference standard obtained through manual OCT image analysis by expert readers. RESULTS: Among 2560 analyzable frames, the agreement between the automated OCT image analysis and the reference standard was excellent for calcified plaque identification (κ=0.88 [95% CI, 0.84-0.92]) and quantification (intraclass correlation coefficient values ranged between 0.79 and 0.93), with a performance close to interobserver variability. For lipid plaque identification and quantification, the model performance was reasonable (κ=0.68 [95% CI, 0.64-0.72]; intraclass correlation coefficient for lipid arc, 0.79 [95% CI, 0.76-0.81]; intraclass correlation coefficient for minimum fibrous cap thickness, 0.59 [95% CI, 0.55-0.63]) and largely superior to interobserver variability. The algorithm performance for low-prevalence features (e.g., plaque rupture) was limited. CONCLUSIONS: AI-based fully automated evaluation of OCT images is feasible with performances consistent with interobserver variability in a real-world data set of consecutive patients, supporting generalizability of the proposed methodology.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 83,
+  "journal": "J Am Heart Assoc",
+  "title": "Health-Related Quality of Life in Adults With Congenital Heart Disease: A Population-Based Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: As survival into adulthood improves for patients with congenital heart disease (CHD), quality of that survival is paramount. We assessed health-related quality of life (HRQL) in a large adult CHD cohort. METHODS: We studied 868 participants from a multicenter registry with complete Pediatric Quality of Life Inventory 4.0 Generic Core Scale and covariate data. Analyses followed 3 stages: CHD complexity across HRQL score bands, predictors of worse or better HRQL, and predictors of HRQL in severe CHD. RESULTS: Pediatric Quality of Life Inventory total scores were high (median 76.1, interquartile range 64.1-87.0), highest in Social functioning, with longer lower tails for Emotional and Psychosocial scales. Severe CHD was over-represented in the lower and under-represented in the upper 15% bands (Total HRQL: P<0.001). At the 15th percentile, worse HRQL was linked to severe CHD (-5.9; 95% CI -11.6 to -0.1), poor transition support (-11.2; 95% CI -18.6 to -3.9), mood disorder (-12.7; 95% CI -18.3 to -7.1), and diabetes (-16.6; 95% CI -29.9 to -3.3); at the 85th percentile, to severe CHD (-5.2; 95% CI -9.2 to -1.1), mood disorder (-7.3; 95% CI -11.7 to -3.0), anxiety disorder (-5.6; 95% CI -9.7 to -1.5). In severe CHD, poor transition support and mood or anxiety disorders (odds ratio [OR] 0.48, 0.30, and 0.36, respectively; P=0.01) markedly increased the odds of worse HRQL. Very well-supported transition (OR 1.91) was associated with better HRQL. CONCLUSIONS: In adult CHD, anatomic complexity contributes modestly to HRQL extremes. Modifiable predictors (transition experience, mental-health comorbidity, location, and diabetes) emerge as key targets to improve HRQL.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 84,
+  "journal": "Circ Heart Fail",
+  "title": "Association Between Hospital Tiers and Cardiogenic Shock Mortality: Mitigating the Transfer Penalty Through a Regionalized Hub-and-Spoke Model.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cardiogenic shock remains associated with high short-term mortality despite contemporary advances in care. The association between institutional cardiac capability and outcomes-particularly among transferred patients and after accounting for clinical instability-remains incompletely defined. We sought to evaluate the association between hierarchical hospital cardiac capability and in-hospital mortality using a latent measure of acute physiological severity. METHODS: Using the National Inpatient Sample (2016-2022), hospitals were classified into 5 hierarchical tiers ranging from non-percutaneous coronary intervention (tier 1) to heart transplant/durable left ventricular assist device (LVAD) centers (tier 5). Generalized structural equation modeling assessed the relationship between hospital tier and mortality. A latent Acute Severity construct-comprising cardiac arrest, acute kidney and liver injury, and mechanical ventilation-was incorporated to model the effects of clinical instability. RESULTS: Among an estimated 1 177 180 cardiogenic shock hospitalizations, most occurred at cardiac surgical and transplant/LVAD centers. Crude mortality declined stepwise from non-percutaneous coronary intervention hospitals (64.4%) to transplant/LVAD centers (36.5%). After adjustment, a higher hospital tier was independently associated with lower mortality (tier 2 odds ratio [OR], 0.43 [95% CI, 0.38-0.48]; tier 3 OR, 0.37 [95% CI, 0.32-0.43]; tier 4 OR, 0.34 [95% CI, 0.30-0.38]; tier 5 OR, 0.36 [95% CI, 0.31-0.41]). Although transfer-in status was associated with increased mortality (OR 1.36 [95% CI, 1.30-1.43]), this association was attenuated at cardiac surgical and transplant/LVAD centers, consistent with mitigation of transfer-associated risk. CONCLUSIONS: Higher hospital cardiac capability is independently associated with lower mortality among patients with cardiogenic shock. Advanced centers are associated with mitigation of transfer-associated risk, supporting regionalized hub-and-spoke systems with early referral to high-capability centers.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 85,
+  "journal": "Europace",
+  "title": "Nav1.5 Beyond Genetics: Loss of Cardiac Sodium-Channel Function in Brugada Syndrome.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Brugada syndrome is usually interpreted through SCN5A genetics, yet many patients with a Brugada phenotype carry no clearly pathogenic SCN5A variant and penetrance among carriers is incomplete. Cardiac sodium-channel function is therefore not a direct readout of coding sequence but an integrated property shaped by the channelosome, transcriptional and epigenetic control, post-translational modification, metabolic state, and inflammatory signaling. Through these routes, oxidative stress, altered glycosylation, and Nedd4-2-dependent ubiquitination can reduce peak sodium current in experimental systems, potentially lowering conduction reserve; inflammatory mediators may additionally modify the regional substrate through other ionic pathways without altering the SCN5A coding sequence in the experimental system, converging on the loss-of-function phenotype that characterizes Brugada syndrome, in contrast to the late-current gain of function of long QT syndrome type 3. Epicardial adipose tissue may provide a regional context for such signals at the right ventricular outflow tract, where conduction reserve is low and the substrate preferentially localizes, and anti-Nav1.5 autoantibodies provide a humoral route to reduced channel availability. We examine sequence-independent modifiers that may dynamically reduce Nav1.5 function and define the experimental framework needed to establish their clinical weight.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 86,
+  "journal": "JAMA Cardiol",
+  "title": "Efficacy and Safety of Semaglutide According to Frailty Status: A Post Hoc Analysis of the SELECT Randomized Clinical Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: Whether frailty influences the benefit-risk balance of glucagon-like peptide-1 receptor agonists (GLP-1 RA) is uncertain. OBJECTIVE: To evaluate whether frailty modifies the efficacy and safety of the GLP-1 RA semaglutide in adults with cardiovascular disease and overweight/obesity. DESIGN, SETTING, AND PARTICIPANTS: In this secondary analysis of a randomized clinical trial, participants were adults with a body mass index of 27 or higher and established cardiovascular disease without diabetes. A 31-item frailty index (FI) was constructed using the Rockwood cumulative deficit approach; participants were categorized as not frail (FI ≤0.210), more frail (FI 0.211-0.310), and most frail (FI ≥0.311). INTERVENTIONS: Semaglutide, 2.4 mg, once weekly or placebo. MAIN OUTCOMES AND MEASURES: The primary composite outcome was cardiovascular death, nonfatal myocardial infarction, and nonfatal stroke. Key secondary clinical outcomes, health-related quality-of-life (assessed by EuroQol 5-Dimension 5-Level [EQ-5D-5L] score), and safety events were additionally examined. RESULTS: Of 17 604 participants, the mean (SD) age was 61.6 (8.9) years; 12 732 patients (72.3%) were male and 4872 were female (27.7%). A total of 5432 patients (31%) had an FI up to 0.210, 8349 (47%) had an FI of 0.211 to 0.310, and 3823 (22%) had an FI 0.311 or higher. The incidence of the primary outcome increased with higher baseline FI. Benefits of semaglutide vs placebo on the primary outcome appeared consistent across the FI categories (hazard ratio [HR], 0.84; 95% CI, 0.65-1.07, if the FI was ≤0.210; HR, 0.70; 95% CI, 0.59-0.82, if the FI was 0.211-0.310; HR, 0.92; 95% CI, 0.76-1.10, if the FI was ≥0.311; P = .09 for interaction). Similar findings were observed when the FI was examined continuously (P = .30 for interaction). Semaglutide additionally reduced the composite heart failure outcome (P = .82 for interaction), all-cause hospitalization (P = .71 for interaction), and all-cause mortality (P = .28 for interaction) regardless of FI category. Benefits of semaglutide on EQ-5D-5L scores appeared larger with higher FI (P = .02 for interaction). Between baseline and week 104, FI category was more likely to improve (odds ratio [OR], 2.46; 95% CI, 1.80-3.37), and less likely to worsen (OR, 0.47; 95% CI, 0.34-0.65) with semaglutide vs placebo. The HRs for adverse events leading to permanent discontinuation of semaglutide vs placebo appeared lower among participants with higher baseline FI (P < .001 for interaction). CONCLUSIONS AND RELEVANCE: This study found that semaglutide demonstra",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 87,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Metabolic obesity phenotypes and degenerative valvular heart disease: A cohort study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: We evaluated the association between metabolic obesity phenotypes and degenerative valvular heart disease (VHD) risk, and elucidate underlying molecular pathways via large-scale proteomics. METHODS: We categorized 487,443 UK Biobank participants into four phenotypes based on Body Mass Index (BMI) and metabolic syndrome criteria: metabolically healthy normal weight (MHNO), metabolically healthy obese (MHO), metabolically unhealthy normal weight (MUNO), and metabolically unhealthy obese (MUO). Multivariable-adjusted Cox models assessed the risk of VHD and its subtypes. We further integrated polygenic risk scores (PRS) and plasma proteomic profiling to explore gene-environment interactions and biological mechanisms. RESULTS: Over a median 13.3-year follow-up, 12,793 participants (2.6%) developed degenerative VHD. Compared with MHNO, higher VHD risk was noted in MHO (HR 1.12, 95%CI 1.07-1.17) and MUO (HR 1.30, 95%CI 1.24-1.37) groups, but not MUNO (HR 1.05, 95%CI 0.92-1.19). Associations were most pronounced for aortic stenosis (AS) (MHO: HR 1.42, 95%CI 1.31-1.54; MUO: HR 1.67, 95%CI 1.32-2.11), modest for aortic regurgitation (AR) and insignificant for mitral regurgitation (MR). Individuals with MUO and high genetic risk exhibited the highest AS risk (HR 2.91, 95%CI 2.51-3.36), although no significant interaction was found (P-interaction=0.938). MUO exhibited the most distinct proteomic signatures, characterized by extensive overlap with AS-related proteins and enrichment in immune-inflammation, extracellular matrix remodeling, and MAPK signaling pathways. CONCLUSION: Obesity is persistently associated with increased aortic valve pathology risk, indicating that MHO is not entirely benign. Concomitant metabolic dysfunction further compounds this risk, highlighting the need to integrate weight management with metabolic health optimization for VHD prevention.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 88,
+  "journal": "Atherosclerosis",
+  "title": "Cumulative LDL cholesterol exposure after percutaneous coronary intervention is associated with major adverse cardiovascular events.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: We assessed whether AUC-derived cumulative low-density lipoprotein cholesterol (LDL-C) exposure after percutaneous coronary intervention (PCI) was associated with subsequent major adverse cardiac and cerebrovascular events (MACCE), and compared this longitudinal metric with the latest LDL-C measurement. METHODS: We conducted a retrospective, single-centre, matched case-control study of consecutive patients undergoing successful PCI from 2010 to 2020. Cases with major adverse cardiac and cerebrovascular events (MACCE) were matched 1:1 to event-free controls by follow-up duration. Cumulative LDL-C exposure was calculated from serial LDL-C measurements by the trapezoidal rule. Conditional logistic regression with restricted cubic splines was used, with prespecified multivariable adjustment for available baseline clinical characteristics. RESULTS: Among 544 matched pairs, cumulative LDL-C exposure was higher in MACCE cases than controls (median 489.8 vs 179.5 mg/dL·year; p < 0.001), whereas the latest LDL-C was modestly lower in cases (74.3 ± 26.6 vs 81.2 ± 26.4 mg/dL; p < 0.001). In the multivariable-adjusted spline model, the odds ratio at 400 mg/dL·year was 2.73 (95% CI, 2.24-3.32) relative to the median exposure in controls. Associations were consistent in time-truncated and component-specific exploratory analyses. CONCLUSIONS: In secondary prevention after PCI, AUC-derived cumulative LDL-C exposure was associated with MACCE beyond available baseline clinical characteristics and may complement snapshot LDL-C assessment. The apparent 400 mg/dL·year range is exploratory and hypothesis-generating, not a clinically actionable treatment target.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 89,
+  "journal": "Heart Rhythm",
+  "title": "Sodium-Glucose Cotransporter-2 Inhibitor Use and Lower Left Atrial Epicardial Adipose Tissue Volume Across Metabolic Phenotypes in Atrial Fibrillation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Epicardial adipose tissue (EAT) is implicated in atrial fibrillation (AF), yet pharmacologic strategies to modify EAT remain incompletely defined. OBJECTIVE: We evaluated whether sodium-glucose cotransporter-2 inhibitor (SGLT2i) use is associated with lower left atrial EAT volume (LA-EATV) in AF ablation candidates and whether this association varies across metabolic phenotypes. METHODS: In this single-center retrospective study, consecutive AF ablation candidates with analyzable preprocedural contrast-enhanced computed tomography (CECT) were included. Two prespecified multivariable linear regression models (continuous and binary covariates) were constructed, and 1:2 propensity score matching (PSM) was performed. Interaction analyses across metabolic phenotypes were also performed. RESULTS: Of 1,321 candidates, 1,133 had analyzable CECT data. In both multivariable models, SGLT2i use was associated with lower log-transformed LA-EATV (β = -0.274, p = 0.01 and β = -0.296, p = 0.009, respectively), corresponding to approximately 25% lower LA-EATV. The inverse association was also observed in the propensity score-matched cohort (β = -0.314, 95% confidence interval -0.585 to -0.044; p = 0.023). Significant interactions were observed for triglyceride (TG) level and body mass index (BMI). The association was stronger in patients with TG ≥175 mg/dL and attenuated in those with BMI ≥25 kg/m2. The strongest phenotype-stratified association was observed in patients with hypertriglyceridemia but without obesity (p = 0.01). CONCLUSION: SGLT2i use was associated with lower LA-EATV in patients with AF after multivariable adjustment. Exploratory findings suggested that the strength of this association may vary according to metabolic phenotype, but these hypothesis-generating observations require confirmation in larger studies.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 90,
+  "journal": "Europace",
+  "title": "Yield of Atrial Fibrillation Screening according to Methodology and Patient Characteristics: An Individual Participant Data Meta-Analysis of 34,165 Individuals Screened for Atrial Fibrillation within the AFFECT-EU/AF-SCREEN Collaboration.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUNDS AND AIMS: Atrial fibrillation (AF) screening may reduce adverse outcomes through early initiation of preventive treatment. However, more data are warranted to inform the yield of different screening strategies. This study aimed to evaluate how patient characteristics and screening methodologies influence screening yield. METHODS: We conducted an individual participant data meta-analysis of 12 European and North American study cohorts, by using generalized linear mixed models with random intercept at study level. RESULTS: In this meta-analysis of 34,165 participants screened for AF (age 73.4 ± 7.5 years and 53.5% female), the screening yield increased with more intensive approaches, ranging from 0.83% [95% confidence interval (CI): 0.24-2.87] in single-timepoint screening, to 5.06% [95% CI: 3.55-7.17] in intermittent (i.e. repeated single-timepoint) screening, 4.81% [95% CI: 3.79-6.08] in short-term continuous monitoring (≤30 days), and up to 30.39% [95% CI: 28.06-32.84] in long-term continuous monitoring (>30 days). Advanced age, male sex, hypertension, and heart failure (HF) were associated with detection. Significant interactions were observed between screening approach and age, sex, HF, CHADS2, and NT-proBNP. These risk factors had a stronger influence on AF detection with single-timepoint screening, compared with more intensive methods. CONCLUSIONS: In this meta-analysis, AF screening yield varied substantially by patient characteristics and screening approach. Advanced age, male sex, and HF were independently associated with greater AF detection, particularly in those having single-timepoint screening. Our findings support tailoring the screening approach to the individual target population in clinical practice. Further studies to assess clinical outcomes following screening are needed and underway.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 91,
+  "journal": "J Am Heart Assoc",
+  "title": "Multivariate Machine Learning Model for Long-Term Risk Prediction of Acute Coronary Syndrome in Patients With Heart Failure With Preserved Ejection Fraction and Obstructive Sleep Apnea.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Heart failure with preserved ejection fraction is a heterogeneous syndrome, and comorbid obstructive sleep apnea further increases the risk of acute coronary syndrome. However, effective tools for long-term acute coronary syndrome risk stratification in this population remain limited. This study aimed to develop and externally validate a machine learning-based prognostic model for predicting acute coronary syndrome risk at multiple time points in patients with heart failure with preserved ejection fraction and obstructive sleep apnea. METHODS: We retrospectively enrolled 2272 patients with heart failure with preserved ejection fraction and obstructive sleep apnea from 2 tertiary hospitals. Candidate predictors from clinical characteristics, sleep monitoring, laboratory tests, and echocardiography were selected using least absolute shrinkage and selection operator regression and the Boruta algorithm. Thirty-three survival models were developed, and the optimal model was selected based on the concordance index and externally validated. RESULTS: Ten core predictors were identified, including metabolic, sleep-related, and cardiac parameters. The accelerated oblique random survival forest model achieved the best discrimination among all evaluated models, with a concordance index of 0.731 in the external validation cohort. The model demonstrated good time-dependent discrimination, with area under the curve values of 0.742, 0.734, and 0.755 at 20, 30, and 40 months, respectively. Calibration analyses and decision curve analysis supported its reliability and clinical utility. CONCLUSIONS: We developed and externally validated a machine learning-based model for multitime-point acute coronary syndrome risk prediction in patients with heart failure with preserved ejection fraction and obstructive sleep apnea. The accelerated oblique random survival forest model, implemented as a web-based calculator, may facilitate individualized risk assessment and clinical decision-making. REGISTRATION: URL: https://www.chictr.org.cn/; Unique Identifier: ChiCTR2300075727.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 92,
+  "journal": "Heart Rhythm",
+  "title": "Periatrial Epicardial Adipose Tissue as a Predictor of Substrate Distribution and Atrial Arrhythmia Recurrence in Patients with Early Atrial Remodeling.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Epicardial adipose tissue (EAT) is hypothesized to induce atrial remodeling. However, no prior studies have evaluated the spatial relationship between EAT and early atrial substrate. Given atrial fibrosis may progress from epi- to endocardium, unipolar voltage may be a more sensitive marker of early remodeling. OBJECTIVE: To evaluate the relationship between left atrial (LA) EAT, local unipolar and bipolar voltage, and post-ablation arrhythmia recurrence in patients with early atrial remodeling. METHODS: Consecutive patients underwent high-resolution LA electroanatomic mapping before index AF ablation. Patients with bipolar low voltage (≤0.5mV) area ≥5% were excluded. LA and regional unipolar scar was defined by the 5th percentile cutpoint in a healthy control cohort. EAT was segmented on pre-procedural CT. For each voltage point, EAT presence within 3 voxels was determined. Multivariable modeling was used to identify predictors of voltage at non-scar points. Atrial arrhythmia recurrence was evaluated over 12-months follow-up. RESULTS: Fifty patients (56±11 years, 78% paroxysmal) were included. Unipolar voltage cutpoints identified an additional 9.2% of points that had preserved bipolar voltages, as scar. EAT presence was a significant predictor of local bipolar voltage (p=0.010). This EAT-voltage relationship was most pronounced on the posterior wall where EAT presence predicted both unipolar (p=0.027) and bipolar (p=0.007) voltage. The posterior:LA EAT ratio was the only independent predictor of atrial arrhythmia recurrence amongst paroxysmal AF patients. CONCLUSION: EAT plays an early and likely causal role in atrial substrate development, particularly on the posterior wall. Unipolar voltage mapping may provide additive value in identifying early atrial substrate.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 93,
+  "journal": "Atherosclerosis",
+  "title": "Lipoprotein(a) in acute myocardial infarction - insights from the randomised ASSAIL-MI trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: Elevated circulating levels of lipoprotein(a) [Lp(a)] increase the risk of cardiovascular events. Plasma concentrations of biomarkers and lipoproteins may change substantially in the aftermath of myocardial infarction and may fluctuate with inflammation and lipid-lowering treatment. We aimed to assess the stability of plasma Lp(a) concentrations throughout the course of an ST-elevation myocardial infarction (STEMI) and to determine how Lp(a) levels changed with inflammation and anti-inflammatory treatment. METHODS: In 199 patients with STEMI who were randomized 1:1 to receive the interleukin-6 receptor inhibitor tocilizumab or placebo within 6 h of symptom onset, we measured Lp(a) at baseline, at 24 h, at 3-7 days, and at 3 and 6 months. We measured the myocardial salvage index, infarct size, and microvascular obstruction by magnetic resonance imaging 3-7 days after the STEMI. RESULTS: The median plasma level of Lp(a) at baseline was 17 (interquartile range 6 - 86) nmol/L. Plasma levels rose slightly over the first days after the infarction to a peak value of 25 (9 - 118) nmol/L at 3-7 days (p < 0.001) and 22 (8 - 110) at 6 months. Few patients moved between low- and high-risk categories during follow-up. Tocilizumab did not affect Lp(a) levels. Baseline Lp(a) was not associated with myocardial salvage, final infarct size, or the extent of microvascular obstruction. CONCLUSION: After myocardial infarction, there was a statistically significant, but not clinically relevant increase in Lp(a) levels that was not affected by inhibition of interleukin 6 signalling.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 94,
+  "journal": "Atherosclerosis",
+  "title": "Lysosomal dysfunction in vascular smooth muscle cells: Mechanisms and therapeutic targets in vascular disease.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Vascular smooth muscle cell (VSMC) dysfunction is a common feature of atherosclerosis, aortic aneurysms, vascular calcification, and other vascular diseases. In VSMCs, lysosomes play an essential role in autophagic degradation, endocytic cargo processing, intracellular recycling, and cellular stress responses. Under pathological conditions, lysosomal dysfunction promotes foam cell formation, osteogenic differentiation, and extracellular matrix remodeling in VSMCs, thereby contributing to vascular diseases. This review summarizes current evidence on the role of lysosomal dysfunction in VSMC biology, its contribution to vascular diseases, and the molecular mechanisms involved. We also discuss strategies to restore lysosomal function and the challenges of targeting lysosomal pathways in VSMCs. A better understanding of VSMC-specific lysosomal regulation may facilitate the development of therapeutic strategies for vascular diseases.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 95,
+  "journal": "Circulation",
+  "title": "Women's Kidney Health in Focus: A Scientific Statement From the American Heart Association.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Chronic kidney disease is a global epidemic affecting ≈10% of adults worldwide. Women have a higher prevalence of chronic kidney disease than men yet are less likely to progress to kidney failure, to initiate dialysis, or to receive a kidney transplantation, underscoring the influence of biological sex on chronic kidney disease development, progression, treatment response, and outcomes. Women may also respond differently from men to pharmacological therapies, but they remain underrepresented in clinical trials, limiting the evidence base for sex-specific kidney care. Preclinical evidence implicates a role for estrogen receptor signaling in renal physiology and pathophysiology. Women with chronic kidney disease are at increased risk for adverse pregnancy outcomes and hypertensive disorders of pregnancy, and pregnancy complications can also increase future chronic kidney disease risk. Menopause and aging accelerate chronic kidney disease progression in women as a result of declining estradiol and shifts in kidney estrogen receptor profiles. Endocrine and metabolic disorders such as polycystic ovary syndrome increase susceptibility to chronic kidney disease. Family planning, prepregnancy counseling, and antenatal care are essential to support reproductive health in women with chronic kidney disease. Because chronic kidney disease and cardiovascular disease are tightly intertwined, chronic kidney disease is also a leading contributor to cardiovascular mortality in women. Advancing precision kidney medicine for women requires equitable access to kidney care, embedding assessment of reproductive health in chronic care, trial design with adequate power that includes both women and men, and mechanistic studies linking reproductive health to long-term cardiovascular disease and chronic kidney disease development and progression.",
+  "oblig": true,
+  "noabs": false
+ },
+ {
+  "idx": 96,
+  "journal": "JAMA",
+  "title": "Adoption of Adjunctive Azithromycin for Unscheduled Cesarean Delivery and Postpartum Infections.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: Cesarean delivery is the most common surgery in the US and the most significant risk factor for postpartum infection. Although trial evidence demonstrated that adjunctive azithromycin use at the time of birth reduces postpartum infection in pregnant persons who undergo an unscheduled cesarean delivery, use of azithromycin outside that trial has not been reported. OBJECTIVE: To determine the adoption of trial evidence in clinical practice and describe postpartum infection trends among US pregnant persons undergoing unscheduled cesarean delivery. DESIGN, SETTING, AND PARTICIPANTS: Data from Epic Cosmos were used to conduct a difference-in-differences analysis including pregnant individuals who received prenatal care, labored, and gave birth to a liveborn singleton infant at 24 to 43 weeks' gestation from 2013 to 2024. Cesarean birth was considered the treatment group and vaginal birth was considered the control group. The analysis was conducted from July 2025 to June 2026. EXPOSURE: Relative to the publication of trial evidence in 2016, births that occurred from January 1, 2013, to September 28, 2016, were compared with births that occurred from January 1, 2017, to December 31, 2024. MAIN OUTCOMES AND MEASURES: The primary outcomes were perioperative administration of azithromycin and postpartum infection within 6 weeks of delivery. Patient-level linear regression was used to obtain the difference-in-differences estimate. RESULTS: Of the 1 663 441 infant deliveries included in the analysis, there were 202 234 cesarean births and 1 461 207 vaginal births (mean age of pregnant individuals, 29.3 [SD, 5.7] years; median body mass index at time of delivery, 31.8 [IQR, 28.2-36.5]). From January 1, 2013, to September 28, 2016, azithromycin was administered during 2.2% of cesarean births (721/32 970) vs 0.01% of vaginal births (15/261 624) compared with 39.6% (67 094/169 264) vs 0.04% (421/1 199 583), respectively, from January 1, 2017, to December 31, 2024 (adjusted difference-in-differences estimate, 37.6 percentage points [95% CI, 33.1 to 42.2]). From January 1, 2013, to September 28, 2016, postpartum infection occurred after 9.2% of cesarean births (3048/32 970) vs 2.0% of vaginal births (5311/261 624) compared with 8.0% (13 555/169 264) vs 2.7% (32 581/1 199 583), respectively, from January 1, 2017, to December 31, 2024 (adjusted difference-in-differences estimate, -2.0 percentage points [95% CI, -2.6 to -1.4]). CONCLUSIONS AND RELEVANCE: After publication of the trial evidence in 2016, azithromycin use for pregnant persons undergoing unscheduled ",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 97,
+  "journal": "J Am Heart Assoc",
+  "title": "Asian Computed Tomography Criteria for Cerebral Amyloid Angiopathy-Related Intracerebral Hemorrhage: Magnetic Resonance Imaging and Pathology Validations.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The simplified Edinburgh criteria enable diagnosis of cerebral amyloid angiopathy-associated lobar intracerebral hemorrhage when magnetic resonance imaging is unavailable. However, their applicability to Asian populations, which have higher frequencies of deep perforator arteriopathy, remains uncertain. METHODS: We retrospectively analyzed 2 cohorts of patients with spontaneous lobar intracerebral hemorrhage at National Taiwan University Hospital. Patients in the magnetic resonance imaging cohort (2015-2022) who underwent acute computed tomography (CT) and magnetic resonance imaging were classified using the modified Boston criteria. CT imaging predictors were selected by elastic net penalized logistic regression following prespecified clinical exclusions, and a logistic regression model with risk stratification was developed. Bootstrap optimism correction with uniform shrinkage was applied for internal validation. Histopathologic validation was performed in an independent cohort from 2016 to 2023. RESULTS: Eighty-seven patients were analyzed. The Edinburgh criteria yielded a suboptimal area under the receiver operating characteristic curve of 0.654 (95% CI, 0.547-0.761). The Asian CT criteria (absence of old lacune, cortical involvement, and presence of cortical atrophy) achieved an apparent area under the receiver operating characteristic curve of 0.843 (optimism-corrected 0.834; DeLong P=0.002 versus Edinburgh). The rule-in specificity for the high-risk group was 85.1% (95% CI, 72.3%-92.6%), and the rule-out sensitivity for the low-risk group was 85.0% (95% CI, 70.9%-92.9%). Histopathologic validation confirmed a rule-out sensitivity of 83.3% and a rule-in specificity of 92.9%. Decision curve analysis demonstrated superior net benefit across threshold probabilities from 2% to 79%. CONCLUSIONS: The simplified Edinburgh criteria may have limited applicability for Asian populations. The proposed Asian CT criteria offer improved discrimination and may facilitate CT-based cerebral amyloid angiopathy diagnosis in Asian patients with lobar intracerebral hemorrhage.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 98,
+  "journal": "Heart Rhythm",
+  "title": "Rhythm-Guided Pill-in-the-Pocket Anticoagulation Following Cryoballoon Ablation: A COMPARE-CRYO post-hoc analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Current guidelines recommend lifelong oral anticoagulation (OAC) for atrial fibrillation (AF) patients based on stroke risk, regardless of AF burden. Post-AF ablation trials report lower than expected stroke rates, raising the question of whether OAC could be reserved for periods of AF recurrence: rhythm-guided pill-in-the-pocket strategy. OBJECTIVE: Characterise long-term AF burden post-ablation and modelled rhythm guided OAC. METHODS: Post-hoc analysis of the COMPARE-CRYO trial of paroxysmal AF patients undergoing first-time cryoablation with continuous ICM monitoring. AF episodes were independently adjudicated. Rhythm-guided OAC strategies were modelled in patients with CHA2DS2-VA ≥1, triggered by daily burden of ≥6 minutes, ≥1 hour, ≥5.5 hours, and ≥23.5 hours with different OAC window durations. RESULTS: Among 201 patients over a median follow-up of 3.3 years, median daily AF burden was 0% (IQR, 0-0.01%), with AF absent on 96.5% of days. Of 108 patients with recurrence, 40% maintained very low burden (<0.1%) and 36% had low burden (0.1-1%). Among 139 patients with CHA2DS2-VA ≥1 a restart-and-continue strategy triggered by AF ≥6 minutes resulted in OAC during 32% of follow-up. Pill-in-the-pocket strategies with fixed OAC windows (14 or 30 days) reduced OAC by 90.8-99.4%. The ≥1-hour threshold with 30-day OAC window provided the most favourable balance, covering 97.5% of time in AF whilst reducing OAC exposure by 90.8%. CONCLUSIONS: Most patients maintained a consistently low AF burden after cryoablation. Rhythm-guided anticoagulation could substantially reduce OAC, with the ≥1-hour threshold best balancing OAC reduction and time-in-AF coverage. These strategies require prospective evaluation of clinical outcomes.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 99,
+  "journal": "Hypertension",
+  "title": "Evaluation of Current Screening Thresholds for the Detection of Primary Aldosteronism.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: In 2025, the Endocrine Society (ES) updated the guidelines for primary aldosteronism (PA), introducing more inclusive diagnostic criteria: plasma renin activity (PRA) ≤1 ng/mL per hour, plasma aldosterone concentration (PAC) ≥7.5 ng/dL by liquid chromatography-tandem mass spectrometry, and aldosterone-to-renin ratio >15. We compared PA positivity by comparing these updated criteria against broader permissive criteria (PRA <1 ng/mL per hour, PAC >5 ng/dL, without an aldosterone-to-renin ratio requirement). METHODS: We retrospectively analyzed deidentified adults with PRA and PAC measurements between January and August 2025. Patients were categorized by ES versus permissive criteria. Biochemical and clinical characteristics were compared. RESULTS: Of 60 449 patients, 13.0% (n=7883) met ES screening criteria for PA versus 26.2% (n=15 872) by permissive criteria. Among the 8006 (13.2%) permissive-positive/ES-negative patients, 6325 did not meet ES criteria due to PAC 5 to 7.5 ng/dL, despite 55.2% having a PRA <0.5 ng/mL per hour. An additional 1681 patients were excluded by ES criteria because the aldosterone-to-renin ratio was ≤15, despite a median PAC of 9.00 (8-10) ng/dL. Among permissive-positive/ES-negative patients, PRA ≤ 0.25 ng/mL per hour was associated with higher odds of atrial fibrillation (odds ratio, 2.38; P=0.004), hypertension (odds ratio, 1.27; P=0.0002) and hypokalemia (K<3.5; odds ratio, 1.66; P=0.0012). CONCLUSIONS: Current ES thresholds potentially exclude PA cases with a biochemical phenotype consistent with milder or earlier renin-independent aldosterone production. If validated in cohorts with comprehensive clinical data, the biochemical definition of PA may need to expand to include a greater proportion of individuals with renin-independent aldosterone production.",
+  "oblig": false,
+  "noabs": false
+ }
+]

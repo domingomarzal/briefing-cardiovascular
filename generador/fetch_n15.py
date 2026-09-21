@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-# Fetch corpus N14: semana 2026/09/07 - 2026/09/13 (lun-dom), 31 revistas, con ArticleDate.
+# Fetch corpus N14: semana 2026/09/14 - 2026/09/20 (lun-dom), 31 revistas, con ArticleDate.
 import urllib.request,urllib.parse,json,time,datetime,xml.etree.ElementTree as ET
 EU="https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
-D1,D2="2026/09/07","2026/09/13"
-ES1,ES2="2026/09/03","2026/09/20"  # red amplia edat; la pertenencia la decide ArticleDate
+D1,D2="2026/09/14","2026/09/20"
+ES1,ES2="2026/09/10","2026/09/24"  # red amplia edat; la pertenencia la decide ArticleDate
 # Revistas con filtro temático generalista
 GENERAL=["N Engl J Med","Lancet","JAMA","BMJ","Ann Intern Med","Nat Med"]
 CV=["Eur Heart J","Circulation","J Am Coll Cardiol","JAMA Cardiol","Nat Rev Cardiol",
@@ -58,6 +58,6 @@ for i in range(0,len(pmids),120):
         pmid=a.findtext("./MedlineCitation/PMID","")
         recs.append(dict(pmid=pmid,journal=jr,title=ttl,ptypes=pts,abstract=ab,doi=doi,pii=pii,adate=articledate(a)))
     time.sleep(0.34)
-json.dump(dict(periodo=f"{D1}-{D2}",recs=recs),open("n14_corpus.json","w"),ensure_ascii=False)
+json.dump(dict(periodo=f"{D1}-{D2}",recs=recs),open("n15_corpus.json","w"),ensure_ascii=False)
 inwin=sum(1 for r in recs if D1<=r["adate"]<=D2)
-print(f"semana {D1}-{D2}: {len(recs)} arts ({sum(1 for r in recs if r['abstract'])} con abstract); {inwin} con ArticleDate en ventana -> n14_corpus.json")
+print(f"semana {D1}-{D2}: {len(recs)} arts ({sum(1 for r in recs if r['abstract'])} con abstract); {inwin} con ArticleDate en ventana -> n15_corpus.json")

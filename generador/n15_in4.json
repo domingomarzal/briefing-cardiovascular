@@ -1,0 +1,286 @@
+[
+ {
+  "idx": 100,
+  "journal": "Heart Rhythm",
+  "title": "High-Intensity Ultrasound Catheter Ablation: Transmural Ventricular Lesions Through Transducer-Tissue Contact Sensing.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: High-intensity ultrasound (HIU) ablation can produce deep myocardial lesions but has been limited by the directional, side-facing transducer orientation, yielding inconsistent myocardial targeting with lesion efficiencies <75% and transmurality <60%. OBJECTIVE: We designed HIU catheters and a real-time contact sensing method to guide energy delivery, aiming for a device capable of deep ventricular tachycardia (VT) ablation and septal reduction therapy in hypertrophic cardiomyopathy (HCM). We hypothesized that contact sensing guided HIU (CSG-HIU) would create larger, deeper, and more transmural lesions than standard HIU (Std-HIU) in a terminal swine model. METHODS: Transducer dimensions (5x6 mm) and frequency (5 MHz) were selected from 3D acoustic simulations. Three contact sensing modalities (pulse-echo, and bipolar or unipolar impedance via transducer-side microelectrodes) were validated ex-vivo. The best method was then used in a prospective in-vivo swine study comparing Std-HIU (n=10) to CSG-HIU (n=13) ablation of the ventricular septum. RESULTS: Ex-vivo, bipolar impedance performed best, with a 600 Ω threshold showing 100% sensitivity and specificity for stable contact. In-vivo, versus Std-HIU, CSG-HIU improved lesion efficiency (100 vs 50%, p=0.007), with larger volumes (2071±1231 vs. 568±890 mm3, p=0.005), deeper lesions (15±3 vs. 6±6 mm, p<0.001), and transmurality in 69 vs 20% of swine (p=0.030). No sustained atrioventricular block, ventricular septal defects, or procedural mortality occurred. CONCLUSIONS: Real-time bipolar impedance CSG-HIU overcomes historical directional limitations, achieving 100% lesion efficiency and more predictable transmurality.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 101,
+  "journal": "Eur J Heart Fail",
+  "title": "Mortality benefit and lifetime survival gains with vericiguat in HFrEF: Bayesian and actuarial analyses of the VICTOR trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The VICTOR trial did not meet its primary composite endpoint of cardiovascular death or first hospitalization for heart failure (HF) but demonstrated a nominally significant reduction in the prespecified and powered endpoint of cardiovascular death with vericiguat in patients with HF and reduced ejection fraction (HFrEF). Bayesian and actuarial methods offer complementary frameworks to quantify the probability and lifetime implications of this mortality benefit. METHODS: This post hoc analysis of the VICTOR trial applied Bayesian and actuarial analyses. Bayesian analysis estimated the probability that vericiguat reduces mortality, integrating trial data with prior evidence. Actuarial analysis used restricted mean survival time (RMST) to quantify event-free survival at 1 and 2 years, and age-based Cox proportional hazards modelling to project lifetime survival gains across ages 45-80. RESULTS: Bayesian analyses showed a consistently high probability of mortality benefit with vericiguat, regardless of whether sceptical or optimistic prior evidence was weighted. For cardiovascular mortality, the sceptical prior yielded a 98.4% posterior probability of any benefit, a 77.6% probability of at least a 10% relative reduction, and a 20.4% probability of at least a 20% reduction. The VICTORIA-based optimistic prior yielded 99.1%, 60.7%, and 2.2%, respectively. Similar results were observed for all-cause mortality. Actuarial analyses demonstrated greater event-free survival with vericiguat over 1 and 2 years. Lifetime projections suggested that vericiguat may extend overall survival across a broad age range, with the largest gains observed of ∼1.6 to 1.9 years for those aged 55 to 60 at randomization. CONCLUSION: In this post hoc analysis, Bayesian and actuarial methods provided hypothesis-generating evidence of a cardiovascular mortality benefit with vericiguat in HFrEF, an endpoint for which the trial was prospectively powered, that warrants prospective confirmation.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 102,
+  "journal": "Hypertension",
+  "title": "Relations of Menopause Timing With Pressure Pulsatility in the Framingham Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Women have lower pulse pressure (PP) than men as young adults, but higher PP after a midlife PP nadir. This PP reversal is often attributed to lower estrogen levels at menopause. However, a detailed analysis of hemodynamic changes around the time of menopause has not been performed. METHODS: Relations between the timing of menopause and sex differences in PP were assessed in the Framingham Heart Study cohorts (N=6760 unique participants) across 3 visits spanning 14 years. Women were categorized into 4 groups by age at menopause: persistently premenopausal or postmenopausal with early (<25th percentile, age <48 years), average (25th to 74th percentile, age 48-53), or late (≥75th percentile, age >53 years) menopause age. RESULTS: PP decreased with increasing age in women and men under 40 years of age, being lower in women than in men. PP increased with age in women and men after midlife and was higher in women than in men after age 60. Nadirs in midlife PP, adjusted for vascular risk factors, occurred at 47 years of age in men and at 39, 38, 37, and 37 years of age in the 4 menopause groups, respectively, with nadirs in the postmenopausal groups occurring an average of 6, 14, and 19 years before menopause. CONCLUSIONS: PP transitions from a falling to a rising profile approximately a decade earlier in women than in men, and up to 2 decades before the onset of menopause in women, suggesting that factors other than age of menopause are involved.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 103,
+  "journal": "Heart Rhythm",
+  "title": "Non-Invasive Median Nerve Stimulation with a Wearable Stimulator to Reduce Atrial Arrhythmia Recurrence after Atrial Fibrillation Ablation: The NEUROPULSE Pilot.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: To improve atrial fibrillation (AF) ablation success, empiric lesions are often placed - with variable effectiveness - but at the expense of myocardial destruction. Autonomic modulation may provide a non-ablative adjunct that improves rhythm outcomes without excess myocardial injury. OBJECTIVE: To evaluate cutaneous median nerve stimulation (MNS) after AF ablation. METHODS: NEUROPULSE was a 3-center, randomized, double-blind, sham-controlled pilot study. Seventy-seven patients were randomized 1:1 to active MNS (3x20-min sessions/week) or sham; the modified intention-to-treat (mITT) population included 59 patients (31 MNS, 28 sham). Treatment began within 48 hours after ablation (largely pulsed field ablation) and continued for 6 months (daily for 2 weeks, then 3 times weekly). Surveillance included twice-daily 2-minute device ECGs and 10-day patches at 2 and 6 months. RESULTS: Median age was 67 years (IQR, 56-74 years), 39% female, 68% paroxysmal AF, and 27% redo ablation. Blinding was maintained. During post-blanking follow-up (months 2-6), 12 AF/AT/AFL events occurred with MNS and 243 with sham (rate ratio [RR] 17.93; 95%CI 10.04-32.0; P<0.0001). Excluding 1 high-burden sham outlier, 12 vs 28 events occurred (RR 2.17; 95%CI 1.10-4.27; P=0.025). AF/AT/AFL recurred in 2 of 31 MNS and 5 of 28 sham patients; six-month arrhythmia-free survival was 90.0% vs 80.8% (hazard ratio 2.15; 95%CI 0.42-11.1; P=0.36), respectively. PAC counts and patient-reported outcomes did not differ. No MNS- or device-related serious adverse events occurred. CONCLUSIONS: Wearable MNS after AF ablation was associated with fewer recurrent atrial arrhythmia events. This pilot study warrants confirmation in an adequately-powered trial.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 104,
+  "journal": "N Engl J Med",
+  "title": "Blinatumomab for Replacing Chemotherapy in Pediatric Acute Lymphoblastic Leukemia.",
+  "ptypes": [
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Multicenter Study",
+   "Clinical Trial, Phase III"
+  ],
+  "abstract": "BACKGROUND: Blinatumomab, a bispecific T-cell engager targeting the CD19 antigen on B cells, may offer an option to safely replace cycles of traditional chemotherapy in pediatric patients with newly diagnosed high-risk B-cell acute lymphoblastic leukemia (ALL). METHODS: We randomly assigned, in a 1:1 ratio, children with high-risk B-cell ALL to receive two cycles of blinatumomab (blinatumomab group) or two cycles of chemotherapy (control group) after consolidation. The primary end point was event-free survival as evaluated in a time-to-event analysis; the duration of event-free survival was defined as the time from randomization to the first event among resistance to protocol treatment, relapse, second cancer, or death from any cause. Our primary objective was to evaluate whether the 4-year event-free survival would be 10 percentage points higher in the blinatumomab group than in the control group. RESULTS: Overall, 709 of 768 eligible patients (92.3%) underwent randomization; 358 were assigned to the blinatumomab group and 351 to the control group. A planned interim analysis at a median follow-up of 2.9 years showed an estimated 4-year event-free survival of 83.0% (95% confidence interval [CI], 77.4 to 87.4) in the blinatumomab group and 70.3% (95% CI, 63.8 to 75.9) in the control group (P = 0.0002 in an intention-to-treat analysis). The estimated hazard ratio for a primary end-point event (blinatumomab vs. control) was 0.51 (95% CI, 0.35 to 0.73) as assessed with a Cox model. Infection related to the trial treatment occurred in 23.9% of patients in the blinatumomab group and in 69.4% of those in the control group (P<0.001). Life-threatening adverse events occurred in 2 patients (0.5%) in the blinatumomab group, including one (in 0.3%) that was fatal, and in 16 patients (4.7%) in the control group. Neurotoxic events were reported in 12.0% and 3.2%, respectively (P<0.001). Cytokine release syndrome of grade 2 or higher occurred in 1.1% of patients in the blinatumomab group. CONCLUSIONS: In children with newly diagnosed high-risk B-cell ALL, replacement of two cycles of highly toxic conventional chemotherapy with blinatumomab resulted in a significantly greater percentage of patients with event-free survival at 4 years. (Funded by Deutsche Krebshilfe and others; AIEOP-BFM ALL 2017 EudraCT number, 2016-001935-12; EU Clinical Trials number, 2023-509856-32-00; and ClinicalTrials.gov number, NCT03643276.).",
+  "oblig": true,
+  "noabs": false
+ },
+ {
+  "idx": 105,
+  "journal": "J Am Heart Assoc",
+  "title": "Novel Biatrial Epicardial Colchicine-Eluting Bioresorbable Polymer Mesh for the Prevention of Postoperative Atrial Fibrillation: A Proof-of-Concept Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Recent clinical trials have shown that colchicine, an anti-inflammatory agent, is superior in preventing postoperative atrial fibrillation (POAF) in patients after open heart surgery. However, the systemic use of colchicine was associated with an increased incidence of gastrointestinal adverse effects, often leading patients to discontinue treatment. The objective of this study was to evaluate the effectiveness and safety of biatrial epicardial colchicine-eluting bioresorbable polymer mesh for preventing POAF in a swine sterile pericarditis model. METHODS: Twelve domestic pigs underwent initial pericarditis surgery. During the creation of the swine sterile pericarditis model, either colchicine-eluting bioresorbable mesh (0.5-1 mg/day, 6 pigs) or only bioresorbable mesh without the drug (6 pigs) was placed on both atria. On postoperative days 1 and 2, we measured the electrophysiological properties, including pacing threshold, atrial effective refractory period, and inducibility of POAF. Blood and tissue samples were obtained to assess systemic and local inflammation. RESULTS: The pacing threshold was significantly lower and the atrial effective refractory period was significantly longer in the colchicine-treated pericarditis pigs compared with the pericarditis control pigs. The inducibility of POAF episodes was significantly lower in the colchicine-treated pericarditis pigs (median of POAF episodes: 0, P<0.05; 3/6 pigs) compared with the pericarditis control pigs (median of POAF episodes: 1.5; 6/6 pigs). RNA sequencing analysis of local tissue revealed a decrease in differentially expressed genes associated with inflammation and cardiotoxicity in the colchicine-treated group. CONCLUSIONS: Biatrial epicardial colchicine-eluting bioresorbable polymer mesh significantly diminished atrial inflammation, thereby reducing the inducibility of POAF in a swine sterile pericarditis model.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 106,
+  "journal": "Eur J Prev Cardiol",
+  "title": "A multistate prediction model for hypertension and cardiovascular disease after pregnancy using routine care data in the Netherlands.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Adverse pregnancy outcomes (APOs) are associated with increased cardiovascular risk, but risk stratification has largely focused on midlife populations. We developed a multistate prediction model to enable early postpartum risk stratification for hypertension and cardiovascular disease (CVD). METHODS: In this nationwide, registry-based retrospective study, we predicted hypertension (intermediate outcome) and CVD (primary outcome: hospitalization or death from myocardial infarction or stroke), while accounting for non-CVD mortality (competing risk). Candidate predictors included hypertensive disorders of pregnancy (HDP: pregnancy-induced hypertension [PIH] and (pre)eclampsia), preterm birth, small-for-gestational-age, recurrent miscarriages, diabetes, country of origin, and socioeconomic status (SES; income and education). Follow-up started 6 weeks after childbirth, with a maximum of 17 years. A stratified, time-dependent Cox model was used. RESULTS: Among 737,257 primiparous women, 1.7% developed hypertension and 0.3% developed CVD. HDP showed the strongest associations with both hypertension and CVD, attenuating with age. In Dutch women with PIH, hypertension risk was higher with low vs. high SES (15% vs. 5%). Surinamese women had higher hypertension risks than Dutch women. PIH combined with preterm birth and low SES resulted in the highest risks. Predictive performance was modest to good (AUCs 0.65-0.89), with alignment between predicted and observed risks. CONCLUSIONS: This study showed future cardiovascular risk can be stratified at 6 weeks postpartum. Women with HDP, low SES, Surinamese origin, and multiple risk factors were identified as the highest-risk groups. These findings support early identification of women at cardiovascular risk, although validation is required before clinical implementation.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 107,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Comparison of Performance of Publicly Available Polygenic Risk Scores to Predict Clinically Actionable Coronary Artery Calcium Scores: The BioHEART-CT Cohort.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIM: Coronary artery disease (CAD) remains the leading cause of morbidity and mortality globally. Polygenic Risk Scores (PRS) have been trained against major adverse cardiovascular outcomes (MACE) in large cohorts. Few studies have examined the effectiveness of these CAD MACE PRS tools in detecting individuals with subclinical coronary calcification. An association would provide an opportunity for clinical translation and targeting of CT imaging to new patients at risk for subclinical disease. METHODS: An analysis of 53 publicly available CAD PRS tools was completed in participants of the BioHEART-CT Discovery 1000 cohort presenting for clinically referred CT coronary angiography (CCTA). Associations between PRS and two binary CACS outcomes reflecting clinically significant coronary calcification were assessed: a) Absolute CACS (CACS ≥100 Agatston units [AU]; and b) Percentile CACS (CACS ≥75th age-/sex-adjusted percentile). Models were adjusted for genetic principal components, modifiable cardiovascular risk factors, and age/sex (in Absolute CACS). A subgroup analysis was performed using Framingham Risk Score (FRS) at baseline. RESULTS: Among 803 BioHEART-CT Discovery 1000 participants, 487 (60.6%) had any detectable coronary calcium. Most PRS tools demonstrated significant association with CACS outcomes, particularly evident when PRS was modelled as a continuous predictor. For Percentile CACS, 94.3% of PRS tools were significantly associated after full adjustment (median OR per PRS SD 1.41 (IQR 1.23-1.60). Quintile-based analysis revealed that individuals in the Top Quintile PRS had up to 7.99-fold increased odds of Percentile CACS ≥75th compared to those in the Bottom Quintile. Analysis by FRS group revealed positive performance, especially in individuals of Low FRS wherein incorporating a PRS increased pre-test probability from 14% to 26%. CONCLUSION: Whilst most CAD PRS tools have been developed against clinical events, we show their ability to predict clinically relevant coronary calcification. Utility appears strongest in individuals traditionally considered lower risk, presenting an opportunity for clinical translation for improved diagnosis in the primary prevention setting, with the potential to triage individuals into a CACS screening pathway.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 108,
+  "journal": "Heart Rhythm",
+  "title": "Diagnostic and therapeutic challenges in Andersen-Tawil syndrome.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Andersen-Tawil syndrome (ATS) is a rare autosomal dominant multisystem disorder characterised by ventricular arrhythmias, periodic paralysis, and dysmorphic features. However, marked phenotypic heterogeneity is observed, contributing to significant diagnostic delays. ATS is most commonly caused by loss-of-function variants in KCNJ2, which encodes the α-subunit of the inward rectifier potassium channel Kir2.1, resulting in impaired IK1 currents. Impaired IK1 destabilises terminal repolarisation and depolarisation kinetics, promoting prominent U waves, ventricular ectopy, and complex ventricular arrhythmias. Management remains challenging due to limited evidence and variable treatment response. β-blockers and flecainide are commonly used while implantable cardioverter-defibrillators are reserved for high-risk cases. Potassium supplementation and acetazolamide should be considered in selected patients with periodic paralysis. Given incomplete penetrance and absence of validated risk stratification tools, careful multidisciplinary evaluation and individualised management are essential.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 109,
+  "journal": "J Am Heart Assoc",
+  "title": "Stillbirth as a Risk Marker for Postpartum Readmission for Cardiovascular Disease: A Population-Based Retrospective Cohort Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cardiovascular disease (CVD) remains a leading cause of pregnancy-related morbidity and death in the early postpartum period. Stillbirth is associated with elevated long-term CVD risk. However, whether stillbirth unmasks short-term CVD is less well characterized. METHODS: We conducted a population-based retrospective cohort study of singleton delivery hospitalizations using the Nationwide Readmissions Database (2010-2020). The primary outcome was CVD-related readmission or in-hospital death within the calendar year of delivery, including heart disease and stroke. Associations were estimated using adjusted Cox proportional hazards models and corrected for unmeasured confounding. Analyses were stratified by chronic hypertension, ischemic placental disease, and diabetes. RESULTS: Among 18 253 997 singleton delivery hospitalizations, 117 230 (6.5 per 1000) resulted in stillbirth. Median follow-up was 6.4 months (interquartile range, 3.7-9.1). The rate of CVD-related readmission was higher following stillbirth than live birth (404.0 versus 166.0 per 100 000 delivery hospitalizations; incidence proportion difference, 238 per 100 000 [95% CI, 192-285]). Stillbirth was associated with higher hazards of CVD hospitalization (adjusted hazard ratio [HR], 2.03 [95% CI, 1.78-2.32]), including heart disease (adjusted HR, 2.00 [95% CI, 1.72-2.32]), stroke (adjusted HR, 2.29 [95% CI, 1.80-2.92]), and CVD-related death (adjusted HR, 2.08 [95% CI, 1.12-3.84]). CVD hospitalization risk was elevated within 30 days postpartum and peaked from 60 to 89 days. Risks of CVD hospitalization were higher with co-occurring chronic hypertension, ischemic placental disease, or diabetes. CONCLUSIONS: Stillbirth was associated with increased short-term CVD-related readmission and death, extending prior evidence linking stillbirth to long-term CVD risk.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 110,
+  "journal": "JACC Cardiovasc Imaging",
+  "title": "Long-Term Warranty Period of Stress CMR and SPECT in Stable Angina: Implications for Repeat Testing.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Few prospective studies have explored the long-term prognostic value and warranty period of functional imaging in patients with stable chest pain. The CE-MARC (Clinical Evaluation of Magnetic Resonance in Coronary Heart Disease) trial recruited 752 patients with suspected angina and demonstrated the high diagnostic accuracy of stress cardiac magnetic resonance (CMR) compared with single-photon emission computed tomography (SPECT), using invasive coronary angiography as the reference standard. OBJECTIVES: This study aims to assess the comparative long-term prognostic value of stress CMR and SPECT and to establish operational warranty periods for normal test results. METHODS: Participants in the CE-MARC trial were followed up for major adverse cardiovascular events (MACE), including cardiovascular death, myocardial infarction, and unplanned coronary revascularization. The warranty period identified the time interval during which patients with a normal test result remained 97.5% free of MACE. Multivariable regression analysis identified key warranty period modifiers. RESULTS: Of 752 recruited patients, 652 (86.9%) with CMR and SPECT with follow-up available formed the study cohort. At a median of 15.5 years (Q1-Q3: 12.4-16.6 years), 40 (6.1%) cardiovascular deaths occurred, 29 (4.4%) patients experienced a myocardial infarction, and 47 (7.2%) unplanned revascularization. After adjustment for cardiovascular risk factors, an abnormal CMR remained a strong independent MACE predictor (HR: 2.74; 95% CI: 1.70-4.42; P < 0.001). Patients with a normal test result had a warranty period of 6.8 years for stress CMR and 5.1 years for SPECT. Age, smoking, and diabetes identified higher-risk patients who had a reduced warranty period for a normal result. CONCLUSIONS: In a long-term prospective study of patients with stable chest pain, stress CMR remained a strong, independent predictor of hard cardiovascular events, with a warranty period of almost 7 years for a normal scan. (Clinical Evaluation of Magnetic Resonance in Coronary Heart Disease; [CE-MARC]; ISRCTN77246133).",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 111,
+  "journal": "Hypertension",
+  "title": "Development and External Validation of Mini PIERSdynamic Model for Predicting the Adverse Maternal Outcome of Preeclampsia in Low-Resource Settings.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Preeclampsia remains a leading cause of maternal mortality, particularly in low-resource settings. We aimed to develop a dynamic prediction model accommodating repeated measurements for predicting adverse maternal outcomes in preeclampsia. METHODS: We utilized data from 7283 women with preeclampsia from the PIERS studies (Preeclampsia Integrated Estimate of Risk). Data from 6548 women were randomly split into a training set (80%) and an internal validation set (20%), while an independent cohort of 735 women was used for external validation. The outcome was a composite of maternal mortality and severe maternal morbidity. The mini PIERSdynamic model was fitted with the binary mixed model random forest algorithm. Threshold probabilities were calculated for 5 risk strata, ranging from very low to very high risk. Model performance was externally validated. RESULTS: In the development cohort, 785 (12.0%) women experienced an adverse maternal outcome, compared with 91 (12.4%) women in the external validation cohort. The final model retained all candidate predictors. Model performance was similar in internal and external validation. The daily area under the receiver-operating-characteristics curve remained around 0.75 on days 0 to 9 in internal validation and 0.70 in external validation, with peak values of 0.92 and 0.94, respectively. The area under the precision-recall curve declined over time as outcome incidence decreased. Observed daily event rates corresponded closely with the assigned risk strata. CONCLUSIONS: We developed the mini PIERSdynamic model and performed external validation, demonstrating its potential for dynamic prediction of adverse maternal outcomes in preeclampsia for up to 10 days after initial presentation. Further evaluation is required to verify its generalizability and clinical utility.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 112,
+  "journal": "J Am Heart Assoc",
+  "title": "Association Between Rest-Activity Rhythm and Cardiovascular Disease, Cardiovascular Mortality, and All-Cause Mortality: A Systematic Review and Meta-Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Disruption in rest-activity rhythm (RAR) is an emerging risk factor for cardiovascular disease (CVD) and mortality, but the strength of evidence is unclear. Therefore, we conducted a systematic review and meta-analysis to assess associations between RAR characteristics and cardiovascular disease incidence or prevalence, cardiovascular mortality, and all-cause mortality. METHODS: A systematic search was conducted in PubMed, Web of Science, Cochrane Library, and Embase for cohort or cross-sectional studies published up to August 2025. The exposure variables were nonparametric RAR parameters, including interdaily stability (describing day-to-day stability of the RAR), intradaily variability (a measure of RAR fragmentation), and relative amplitude (indicating robustness or strength of the RAR). The primary outcomes were cardiovascular mortality and all-cause mortality. The secondary outcomes included cardiovascular disease prevalence and incidence. RESULTS: Seven studies involving 109 365 participants were included. Pooled results showed that higher intradaily variability was associated with a significantly increased risk of all-cause mortality (hazard ratio [HR], 1.05 [95% CI, 1.02-1.09]) and cardiovascular disease prevalence (odds ratio, 1.73 [95% CI, 1.21-2.47]). Lower relative amplitude was significantly associated with higher cardiovascular mortality (HR, 1.50 [95% CI, 1.13-1.98]) and all-cause mortality (HR, 1.46 [95% CI, 1.27-1.68]). Interdaily stability showed no significant associations with any outcome. CONCLUSIONS: Measures of disrupted rest-activity rhythms were associated with increased cardiovascular mortality, and all-cause mortality. These findings support using RAR metrics as early, noninvasive risk indicators. Future work should investigate whether appropriately timed physical activity and sleep, as well as other interventions targeting RAR can mitigate cardiovascular risk.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 113,
+  "journal": "J Am Heart Assoc",
+  "title": "Ambient Carbon Monoxide as a Delayed Trigger of Acute Aortic Dissection: A Time-Stratified Case-Crossover Study in a Tropical Industrial Metropolis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Acute aortic dissection (AAD) is a fatal cardiovascular emergency whose environmental triggers remain poorly understood. Although particulate air pollution has been implicated, the role of gaseous pollutants, such as carbon monoxide (CO), remains unclear. This study was performed to determine whether short-term exposure to ambient CO and other air pollutants triggers the onset of AAD. METHODS: We conducted a time-stratified case-crossover study of 798 patients with emergency department-confirmed AAD in an industrial metropolitan area from 2018 to 2021. Individual exposures to fine particulate matter (aerodynamic diameter ≤2.5 μm), particulate matter (aerodynamic diameter ≤10 μm), CO, nitrogen dioxide, ozone, sulfur dioxide, temperature, humidity, and wind speed were assigned from 24 monitoring stations. Conditional logistic regression models evaluated associations across lag 0 to 3 days, adjusting for meteorological factors. Effects were assessed using mean and interquartile range increments. RESULTS: No air pollutants were associated with AAD on the event day. However, ambient CO exhibited a strong delayed effect: at a 2-day lag, each 1-ppm increase in CO was associated with a 2.67-fold increase in AAD risk (95% CI, 1.207-5.900), and each interquartile range increase of 0.19 ppm increased risk by 113% (95% CI, 1.075-4.239). The other pollutants showed no significant associations at any lag. Apparent temperature effects in mean-based models were not confirmed by interquartile range-based analysis, indicating no robust thermal trigger. CONCLUSIONS: Ambient CO is a potent delayed trigger of acute aortic dissection, likely acting through subacute inflammatory and oxidative vascular injury rather than immediate hypoxia. These findings suggest targeted public health alerts and emission control for CO in industrialized cities.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 114,
+  "journal": "J Am Heart Assoc",
+  "title": "Cardiometabolic and Inflammatory Predictors of Life-Threatening Ventricular Arrhythmias in Adults Without Structural Heart Diseases.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Life-threatening ventricular arrhythmias (LTVAs) can occur in individuals without apparent structural heart disease, yet the cardiometabolic and inflammatory determinants remain unclear. We aimed to identify clinical, sociodemographic, and lifestyle determinants of LTVAs in structurally normal hearts. METHODS: We included 423 186 UKB (UK Biobank) participants after excluding coronary artery disease, heart failure, cardiomyopathy, and valvular and congenital heart disease at baseline and during follow-up. The primary end point was incident LTVAs, defined as ventricular tachyarrhythmias, cardiac arrest, sudden cardiac death, and related resuscitation or ablation procedures. Cox models estimated adjusted hazard ratios (HRs) with 95% CIs. Model discrimination was assessed using Harrell's concordance index and explained variance (R2). RESULTS: Over a median 13.3 (interquartile range, 12.6-14.0) years, 1116 LTVAs occurred. Cases were older (61 versus 57 years) and more often men (56.1% versus 42.6%). Hypertension (HR, 2.21 [95% CI, 1.90-2.57]), current smoking (HR, 1.78 [95% CI, 1.48-2.13), and male sex (HR, 1.67 [95% CI, 1.45-1.92]) showed the strongest associations with LTVAs. Additional factors associated with increased risk included nonideal sleep, previous smoking, physical inactivity, older age, and higher high-sensitivity C-reactive protein. Low-density lipoprotein cholesterol showed a modest inverse association (HR, 0.89 [95% CI, 0.82-0.97]). Age and hypertension showed the highest discrimination (concordance index, 0.629 and 0.615; R2 0.0082 and 0.0101), and overall model discrimination was modest. Findings were consistent across sexes and in sensitivity analyses. CONCLUSIONS: In adults without structural heart disease, hypertension, smoking, and male sex show the strongest associations with LTVAs, with additional contributions from age, inflammation, and other lifestyle factors.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 115,
+  "journal": "Heart Rhythm",
+  "title": "The Effect of Glucagon-Like Peptide-1 Receptor Agonists versus Sodium-Glucose Cotransporter-2 Inhibitors Alone and in Combination on AF Recurrence and Cardiovascular Outcomes after Catheter Ablation for Atrial Fibrillation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Glucagon-like peptide-1 receptor agonists (GLP-1 RA) and sodium-glucose cotransporter 2 inhibitors (SGLT2i) improve cardiovascular outcomes, but their effect on atrial fibrillation (AF) recurrence after catheter ablation (CA) for AF remains undefined. OBJECTIVE: To evaluate the impact of GLP-1 RA, SGLT2i, and their combination on AF recurrence following catheter ablation. METHODS: Using the TriNetX database (2018-2024), adults with AF who underwent CA for AF were grouped by GLP-1 RA, SGLT2i, or combination use within 12 months prior to CA. The primary outcome was AF recurrence, defined as repeat CA, cardioversion, or antiarrhythmic drug use after a 3-month blanking period. Propensity score matching (PSM) was applied for GLP-1 RA vs SGLT2i, combination vs GLP-1 RA, and combination vs SGLT2i. RESULTS: In GLP-1 RA vs SGLT2i (n=1,393 each), AF recurrence was similar (HR 1.01, 95% CI 0.89-1.15; p=0.86). In combination vs GLP-1 RA (n=952 each), recurrence was similar (HR 1.13, 95% CI 0.98-1.31; p=0.10), but all-cause mortality was lower (HR 0.54, 95% CI 0.34-0.87; p=0.01) in the combination group. In combination vs SGLT2i (n=1,213 each), recurrence was similar (HR 1.09, 95% CI 0.96-1.24; p=0.20), while all-cause mortality was reduced (HR 0.60, 95% CI 0.39-0.93; p=0.02). Secondary outcomes, including stroke, heart failure, and all-cause hospitalization, were similar among all three groups. CONCLUSION: GLP-1 RA and SGLT2i alone or in combination were associated with comparable AF recurrence rates following CA for AF. However, combination therapy was consistently associated with lower all-cause mortality.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 116,
+  "journal": "JACC Cardiovasc Interv",
+  "title": "Impact of Diabetes on Outcomes of Contemporary PCI Guided by OCT vs Angiography: The ILUMIEN IV Trial.",
+  "ptypes": [
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Comparative Study",
+   "Multicenter Study"
+  ],
+  "abstract": "BACKGROUND: Patients with diabetes are at higher risk for adverse events after percutaneous coronary intervention (PCI) compared with patients without diabetes. OBJECTIVES: This study sought to assess the influence of diabetes and complex lesions on the outcomes of patients undergoing PCI with and without optical coherence tomography (OCT) guidance during a follow-up period of 2 years. METHODS: Patients in ILUMIEN IV randomized to OCT-guided vs angiography-guided PCI were grouped into those with (n = 1,044) and without diabetes (n = 1,443). Study endpoints were target vessel failure (TVF) and serious major adverse cardiovascular events (MACE). RESULTS: After adjustment for differences in clinical and angiographic characteristics, the 2-year rates of both TVF (9.9% vs 6.3%; adjusted HR: 1.48; 95% CI: 1.09-2.02; P = 0.01) and serious MACE (5.3% vs 2.7%; adjusted HR: 1.77; 95% CI: 1.14-2.76; P = 0.01) were increased in diabetic compared with nondiabetic patients, consistently in patients with and without complex lesions (Pinteraction = 0.22 and 0.14, respectively), although the highest 2-year rates were in patients with diabetes and complex lesions. In all randomized patients, OCT guidance compared with angiography guidance did not reduce TVF or serious MACE. These effects were consistent in patients with and without diabetes (Pinteraction = 0.41 and 0.20, respectively), and were not modified by treatment of complex lesions. CONCLUSIONS: In the large-scale ILUMIEN IV trial, patients with diabetes remained at increased risk for adverse events after PCI compared with nondiabetic patients despite the use of OCT procedural guidance. Patients with diabetes and complex lesions were at particularly high risk for adverse outcomes after PCI.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 117,
+  "journal": "BMJ",
+  "title": "Survival benefit of deceased donor kidney transplantation versus continued dialysis: international target trial emulation.",
+  "ptypes": [
+   "Journal Article",
+   "Comparative Study"
+  ],
+  "abstract": "OBJECTIVE: To quantify the survival benefit of deceased donor kidney transplantation versus continued dialysis according to patients' characteristics (age, diabetes, cardiovascular disease), donor quality (standard criteria donor or expanded criteria donor) and donor retrieval type (donation after brain death or donation after circulatory death). DESIGN: Target trial emulation. SETTING: European Renal Association Registry data from five countries or regions: Catalonia (Spain), Denmark, France, Norway, and the UK. PARTICIPANTS: Patients aged ≥20 years receiving dialysis and waitlisted for a first deceased donor kidney-only transplant between 2000 and 2019. MAIN OUTCOME MEASURES: Five year patient survival following deceased donor kidney transplantation versus continued dialysis within monthly sequential trials. Flexible parametric spline models estimated adjusted five year patient survival across recipient age. RESULTS: Of 64 036 waitlisted patients receiving dialysis, 39 244 received a deceased donor kidney transplant: 16 897 (43.1%) from a standard criteria donor/donation after brain death donor, 4324 (11.0%) from a standard criteria donor/donation after circulatory death donor, 14 799 (37.7%) from an expanded criteria donor/donation after brain death donor, and 3224 (8.2%) from an expanded criteria donor/donation after circulatory death donor. Standard criteria donor/donation after brain death and standard criteria donor/donation after circulatory death transplantation showed higher estimated five year survival compared with continued dialysis regardless of recipient age. However, the survival benefit associated with expanded criteria donor/donation after brain death transplantation and, particularly, expanded criteria donor/donation after circulatory death transplantation decreased with increasing recipient age, albeit with greater statistical uncertainty among older patients. For example, among 75 year olds, estimated five year survival following expanded criteria donor/donation after circulatory death transplantation did not differ significantly from that with continued dialysis (59% (95% confidence interval 51% to 66%) versus 55% (54% to 55%); hazard ratio 0.97, 95% confidence interval 0.70 to 1.33), irrespective of diabetes or cardiovascular disease status. This group had a threefold higher early post-transplant mortality than those continuing dialysis. CONCLUSIONS: Standard criteria donor kidney transplantation was consistently associated with a survival benefit compared with continued dialysis. By contrast, the survival benefit associated with e",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 118,
+  "journal": "Heart Rhythm",
+  "title": "Right Atrial Cardiomyopathy Assessed by Late Gadolinium Enhancement Cardiac MRI Following Pulmonary Vein Isolation in Patients with Atrial Fibrillation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Structural remodeling in atrial fibrillation (AF) affects both atria, but it remains unknown how reverse right atrial (RA) remodeling after pulmonary vein isolation (PVI) corresponds to tissue-level changes. OBJECTIVE: This study evaluated RA tissue changes before and post-PVI using 3D late gadolinium enhancement cardiac MRI (LGE-CMR). METHODS: AF patients (n=54, 62±7 years, 38 males) underwent PVI and LGE-CMR imaging at baseline and 3 months post-PVI, and one-year AF recurrence was assessed. Healthy volunteers served as controls (n=18, 45±14 years, 4 males). RA-LGE was quantified using image-intensity-ratio thresholds (>1.20:total LGE; 1.20-1.32:border-zone;>1.32:dense LGE), and RA volumes and strain were analyzed. RESULTS: AF patients exhibited significantly higher RA-LGE levels (36.0[14.4-59.9]% vs. 8.3[4.2-12.5]%, p<0.001), larger volumes (RAVImax: 44.7±11.3mL/m2 vs. 37.3±8.2mL/m2, p=0.01), and lower emptying fraction (37.7±11.4% vs. 47.3±6.7%, p<0.001), compared with controls. Among AF patients, total, border-zone, and dense RA-LGE was similar at baseline and 3 months post-PVI. RA volumes decreased post-PVI (indexed 3D volume: 58.4±16.5mL/m2 to 53.8±14.0mL/m2, p<0.001), and RA reservoir strain increased compared to baseline (17.1±4.6% to 18.9±3.7%, p=0.03). Substantial interindividual variability in RA-LGE changes was observed: only patients with decreased RA-LGE post-PVI demonstrated reverse RA remodeling. Total RA LGE increased in patients with AF recurrence (n=21, 38.9%) and remained unchanged in those without recurrence. CONCLUSION: Compared with healthy controls, AF patients exhibited more extensive RA-LGE, RA enlargement, and dysfunction, reflecting significant RA myopathy. In AF patients, average RA-LGE was similar after PVI, but RA volumes decreased and function improved. Notably, patients with reduced RA-LGE showed reverse remodeling, while those with increased LGE did not.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 119,
+  "journal": "Circulation",
+  "title": "Impact of Prolonged Spaceflight on Cardiac Structure and Function: An Exploratory Longitudinal Observational Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Gravitational gradients, ranging from the surface of the Earth (1 G) to the microgravity of spaceflight (0 G), including intermediate gravitational fields such as those on Mars (⅜ G), directly affect cardiovascular hemodynamics. We sought to track changes in cardiac structure and function over the course of long-duration spaceflight and compare them with responses to specific gravitational loads measured preflight and postflight in a uniquely simulated Martian gravitational load. METHODS: We performed a prospective, within-subject, repeated-measures observational study of astronauts during flights to the International Space Station, with acquisition of echocardiographic variables during preflight supine rest and upright tilt at specific gravitational loads, including simulated Martian gravity (22° tilt; 0.38 G). Data were subsequently acquired during spaceflight onboard the International Space Station, upon landing on Earth, and after landing during exposure to simulated Martian gravity. Offline analyses of echocardiographic images were performed according to standardized methods, including myocardial deformation measurements. RESULTS: Thirteen astronauts (9 male) with a mean age of 49±4 years were included. The median spaceflight duration was 164 days (interquartile range, 126 to 169 days; median absolute deviation, 21 days). Significant reductions occurred in left ventricular (LV) end-diastolic volume, stroke volume, and myocardial deformation measures from preflight supine to early in-flight (14 days) measures in microgravity. These early in-flight values were similar in magnitude to those observed in the preflight upright Earth posture, with the exception of an increase in LV longitudinal strain magnitude (-14.5%±1.79% versus -16.9%±2.03%; P=0.006) and a reduction in LV global circumferential strain (-26.09%±1.76% versus -23.3%±3.22%; P=0.016). Throughout the subsequent duration of spaceflight, LV end-diastolic volume and LV stroke volume increased toward preflight supine values. After ≈6 months in space, when astronauts were exposed to simulated Martian gravity (⅜ G), no volumetric or hemodynamic measure evinced greater load or hemodynamic stress than upright posture on Earth before flight. CONCLUSIONS: In this small exploratory study, initial changes in LV chamber volumes, myocardial mechanics, cardiac output, and stroke volume with transition from Earth's gravitational loads to microgravity were transient and stabilized during flight. Given current countermeasures, prolonged spaceflight of up to 6 months does not result in large change",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 120,
+  "journal": "Circulation",
+  "title": "State of Cardiovascular Disease and Stroke in Hispanic/Latino Adults in the United States: A Scientific Statement From the American Heart Association.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Cardiovascular disease became the leading cause of death among Hispanic individuals in the United States in 2022. Hispanic adults experience a disproportionate burden of cardiometabolic risk factors, including obesity, diabetes, and dyslipidemia. Hispanic populations are highly heterogeneous, with substantial variations in genetic ancestry and sociocultural influences that shape cardiovascular disease risk and outcomes. The \"Hispanic paradox,\" describing lower cardiovascular disease mortality despite higher risk factor burden, is increasingly recognized as an oversimplification that does not apply uniformly across Hispanic heritage groups, sexes, or disease types. Disaggregated data reveal substantial differences in risk profiles and disease burden among Hispanic heritage groups, emphasizing the limitations of treating this population as a monolithic unit. Recent evidence demonstrates widening disparities in hypertension control, obesity, diabetes, and metabolic diseases among Hispanic populations, threatening this prior mortality advantage. Advancing cardiovascular and equitable health will require developing a deeper understanding of the unique drivers of cardiovascular disease within diverse Hispanic communities, addressing barriers such as language and insurance access, and implementing culturally tailored interventions and policies. This scientific statement summarizes current cardiovascular disease epidemiology in Hispanic populations, emphasizing heritage group variation and social and structural determinants of health, and presents strategies to improve prevention and healthcare delivery. Key priorities for advancing cardiovascular health in Hispanic adults include expanding disaggregated data collection, increasing representation in research, and ensuring equitable implementation of precision medicine approaches, including genomics, multi-omics, and artificial intelligence, while addressing environmental exposures, psychosocial stressors, and policy-related drivers of risk in order to achieve the American Heart Association's 2028 Impact Goals to advancing health and hope for everyone, everywhere.",
+  "oblig": true,
+  "noabs": false
+ },
+ {
+  "idx": 121,
+  "journal": "Circulation",
+  "title": "Dysregulated Ribonucleoprotein Granules Impair Mitochondrial Function in RBM20-Related Dilated Cardiomyopathy.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Pathogenic variants in RBM20 cause severe dilated cardiomyopathy. Loss-of-function variants disrupt splicing; neomorphic gain-of-function (GoF) variants also mislocalize RBM20 to cytoplasmic ribonucleoprotein granules and are associated with more aggressive disease. The mechanism by which RBM20 mislocalization drives cardiac dysfunction remains unknown. METHODS: We investigated the effects of Rbm20 GoF and loss-of-function (LoF) variants using proteomic profiling, protein solubility assays, mitochondrial respiration and calcium flux analyses, and ultrastructural imaging in mouse models. Human induced pluripotent stem cell-derived cardioids were used to validate variant-specific phenotypes. RESULTS: Rbm20 GoF, but not LoF, variants caused posttranscriptional downregulation of soluble mitochondrial proteins, including the calcium efflux regulator TMEM65 (transmembrane protein 65), and reduced solubility of mitochondrial membrane proteins. Electron microscopy revealed enlarged mitochondria with cristae disorganization. Functional assays confirmed impaired oxidative phosphorylation, reduced mitochondrial membrane potential, and abnormal calcium handling in Rbm20 GoF models. Human cardioids reproduced these findings, demonstrating that cytoplasmic mislocalization, rather than splicing deficiency, drives mitochondrial dysfunction. CONCLUSIONS: Cytoplasmic mislocalization of RBM20 disrupts mitochondrial function by reducing mitochondrial protein abundance, leading to oxidative phosphorylation failure and abnormal mitochondrial calcium handling. This mechanism distinguishes RBM20 GoF from LoF variants and may explain the more severe heart failure phenotype observed in patients with RBM20 GoF variants. These insights advance the mechanistic understanding of RBM20-related cardiomyopathy and identify mitochondrial mRNA/protein regulation as a key node in cardiac energetics.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 122,
+  "journal": "Eur Heart J Cardiovasc Imaging",
+  "title": "Prospective Systematic Screening for Transthyretin Amyloid Cardiomyopathy in Cardiology Inpatients With Left Ventricular Hypertrophy: the IMPACT Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Transthyretin cardiac amyloidosis (ATTR-CM) is an underdiagnosed severe cardiomyopathy in older adults. Current diagnostic strategies rely on clinical \"red flags\", but data on systematic screening in minimally selected populations remain limited. We aimed to describe the prevalence of ATTR-CM among cardiology inpatients with left ventricular hypertrophy (LVH) and to identify parameters associated with its diagnosis. METHODS AND RESULTS: This prospective single-center study included consecutive patients aged ≥60 years hospitalized in cardiology with echocardiographic LVH (wall thickness ≥12 mm), irrespective of etiology. Patients with known amyloidosis, prior heart transplantation, or contraindication to scintigraphy were excluded. All patients underwent immunologic testing and technetium-99m scintigraphy. ATTR-CM was diagnosed by cardiac uptake (Perugini grade ≥2) without significant monoclonal gammopathy. Multivariable logistic regression identified independent associations and receiver-operating characteristic curve analysis assessed diagnostic performance. Between October 2021 and June 2023, ATTR-CM was diagnosed in 29 of 400 patients (7.3%). Four variables were independently associated with ATTR-CM: basal longitudinal strain (BLS) (odds ratio [OR] 0.84, 95% CI 0.74-0.95), non-sinus rhythm (OR 3.85, 95% CI 1.30-11.11), bilateral carpal tunnel syndrome (OR 3.48, 95% CI 1.09-11.14), and history of stroke (OR 8.67, 95% CI 2.65-28.34). BLS showed the highest discrimination for ATTR-CM (AUC 0.81). During a median follow-up of 3.31 years, all-cause mortality did not significantly differ between ATTR-CM and non-ATTR-CM patients (p=0.137). CONCLUSION: In a minimally selected cardiology population with LVH, systematic screening identified a substantial prevalence of ATTR-CM. BLS may help prioritize diagnostic testing in routine practice and facilitate earlier identification and management of ATTR-CM.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 123,
+  "journal": "J Am Heart Assoc",
+  "title": "Novel Prediction Model for ICU Admission in Acute Intracerebral Hemorrhage.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Accurate prediction of intensive care unit (ICU) admission in intracerebral hemorrhage (ICH) patients could improve triage, resource use, and outcomes, yet admission criteria remain unclear. Thus, we aimed to develop and externally validate a predictive model for ICU admission in patients with acute ICH. METHODS: The derivation cohort included 419 patients with ICH admitted within 2 weeks of onset to Peking Union Medical College Hospital (November 2014-October 2022). External validation used 642 prospectively enrolled patients with ICH from Tongji Hospital, Wuhan (September 2020-August 2023) with identical enrollment criteria. Using multivariable logistic regression, we developed a simplified 6-predictor model of intracerebral hemorrhage (HEM-6), incorporating tachycardia, leukocytosis, Glasgow Coma Scale ≤8, modified Rankin Scale ≥4, hemorrhage volume ≥25 mL, and combined vascular events. Model performance was assessed by discrimination and calibration. RESULTS: Among 419 patients in the derivation cohort, 169 (40.3%) were female, and the median age was 58 years. Overall, 166 patients (39.6%) were admitted to the ICU. The HEM-6 score demonstrated strong discriminative power for ICU admission (AUC=0.84, 95% CI: 0.80-0.88) and was successfully validated in the validation (ICU admission rate=42.7% [274 of 642], AUC=0.88, 95% CI: 0.86-0.91). In external validation cohort, HEM-6 showed excellent calibration (Hosmer-Lemeshow test P=0.8783). The ICU admission rates were 6.4%, 28.4%, 63.4% and 94.7% for HEM-6 scores of 0-1, 2-3, 4-6, and ≥7, respectively. CONCLUSIONS: The HEM-6 model provided a practical and reliable tool for predicting ICU admission in patients with acute ICH. With its robust discriminative power and successful external validation, HEM-6 has the potential to optimize ICU triage decisions, improve resource allocation, and ultimately enhance patient care in emergency and critical care settings.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 124,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Physical performance and outcomes after myocardial infarction in older patients undergoing multidomain cardiac rehabilitation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: To investigate the prognostic role of physical performance as a marker of vulnerability in older patients after myocardial infarction and its interaction with a multidomain cardiac rehabilitation intervention. METHODS AND RESULTS: In this prespecified subanalysis of the PIpELINe trial, physical performance was evaluated using the Short Physical Performance Battery (SPPB). Patients aged ≥65 years with intermediate SPPB scores (4-9) were randomized in a 2:1 ratio to a multidomain rehabilitation programme or usual care. The primary outcome was a composite of cardiovascular death or unplanned hospitalization for cardiovascular causes at 1 year. Associations between baseline SPPB, its individual components, longitudinal changes over time, and clinical outcomes were examined using competing-risk models. Among 512 randomized patients, lower baseline SPPB scores were associated with a significantly higher risk of the primary outcome (HR 0.51, 95% CI 0.32-0.82). No interaction was observed between baseline SPPB and treatment assignment, indicating a consistent benefit of intervention across levels of physical performance. Among individual SPPB components, gait speed emerged as the strongest prognostic marker, with an approximately 50% reduction in risk per 1-point increase (HR 0.50, 95% CI 0.37-0.68; P < 0.001). Improvement in SPPB of at least one point during follow-up was associated with a lower risk of adverse outcomes. CONCLUSION: In older myocardial infarction patients, baseline physical performance is a strong and independent predictor of adverse cardiovascular outcomes without modifying the benefit of multidomain cardiac rehabilitation. Gait speed represents a simple and pragmatic marker of risk, and functional improvement over time is associated with better prognosis. REGISTRATION: ClinicalTrials.gov NCT03021044.",
+  "oblig": false,
+  "noabs": false
+ }
+]

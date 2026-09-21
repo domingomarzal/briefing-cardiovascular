@@ -31,33 +31,25 @@ Al añadir el acrónimo del estudio al título de un artículo (p. ej. (LOGICAL)
 ## Secciones siempre visibles
 Las 10 secciones temáticas se muestran SIEMPRE, aunque una semana no tengan material. Una sección que esa semana quede con 0 artículos se muestra con la nota «Sin novedades relevantes esta semana.» (clase .nonews) en lugar de fichas; con 1 o más, se muestran sus fichas. No se rellena artificialmente ni se omiten secciones.
 
-## Enlaces: verificación obligatoria antes de publicar (27-jul-2026 · RESUELTO DE RAÍZ el 14-sep-2026)
+## Enlaces: verificación obligatoria antes de publicar (regla dura, 27-jul-2026)
 
-Desde N7 reaparecía cada pocas semanas la misma avería: artículos de la familia JACC que llevaban
-a "Page Not Found" (N7: 4 · N8: 2 · N9: 3 · N10: 6 · N11: 2). Se creía que era impredecible y se
-comprobaba A OJO cada lunes. **No era impredecible.** El PASO 5 de la SKILL manda desde junio de
-2026 enlazar a la URL directa del editor, pero `jlink()` de `gen_bilingue.py` nunca lo hizo: el
-100 % de los enlaces salía por `https://doi.org/<DOI>` (en N14, 102 de 102). Y doi.org manda todo
-lo alojado en Elsevier a `linkinghub.elsevier.com`, que salta por JavaScript y a veces rebota a la
-raíz de la revista. Crossref lo confirma: para la familia JACC y Heart Rhythm
-`resource.primary.URL` es `linkinghub.elsevier.com/retrieve/pii/<PII>`; para Circulation es
-exactamente `www.ahajournals.org/doi/<DOI>`.
+En N7 cuatro artículos de la familia JACC llevaban a "Page Not Found": el DOI era correcto y
+estaba registrado, pero `doi.org` redirige a `linkinghub.elsevier.com` y este, con un salto por
+JavaScript, rebotaba a la RAÍZ de `jacc.org`. Afecta a unos artículos sí y a otros no del mismo
+fascículo, sin patrón deducible de los metadatos.
 
-Antes de publicar cualquier número (los dos pasos corren en la nube, sin intervención):
-1. `python3 generador/enlaces_directos.py <n>` — escribe `n<n>_jlinks.json` con la URL directa del
-   editor de cada artículo (JACC → jacc.org/doi/<DOI> · AHA → ahajournals.org/doi/<DOI> · NEJM →
-   nejm.org/doi/full/<DOI> · resto de Elsevier → sciencedirect.com/science/article/pii/<PII>, con
-   el PII que el editor registra en Crossref). El resto se queda en doi.org. Ningún enlace vuelve
-   a pasar por linkinghub.
-2. `python3 generador/check_links.py n<n>` — valida contra Crossref que todos los DOI existen y que
-   el título registrado cuadra con el nuestro (caza DOI equivocados). Sus avisos de "DOI NO
-   REGISTRADO" sobre el número entero son falsos positivos por rate-limiting: confirma el DOI suelto
-   con `curl api.crossref.org/works/<doi>` antes de tocar nada.
-3. Regenera con `gen_bilingue.py n<n>`.
-
-Ya NO hay que abrir enlaces a ojo en el panel de navegador: ese paso existía solo para cazar el
-rebote de linkinghub. `n<n>_linkfix.json` (vía `check_links.py n<n> <clave> …`) se conserva como
-red de seguridad manual y tiene prioridad sobre `jlinks`.
+Antes de publicar cualquier número:
+1. `python3 generador/check_links.py n<n>` — valida contra Crossref que TODOS los DOIs existen y
+   que el título registrado cuadra con el nuestro (caza DOIs equivocados), y lista el subconjunto
+   de riesgo (revistas alojadas en Elsevier: familia JACC, Heart Rhythm, Atherosclerosis,
+   EuroIntervention).
+2. Abre ese subconjunto en el panel de navegador y mira el `<title>`. Si dice "Page Not Found",
+   anota la clave. NO sirven ni `curl` (linkinghub devuelve 200 y el salto lo hace JS) ni Chrome
+   headless (Cloudflare responde "Just a moment..." y todo saldría OK en falso).
+3. `python3 generador/check_links.py n<n> <clave> <clave> ...` escribe `n<n>_linkfix.json`
+   apuntando a PubMed, que siempre resuelve y ofrece el enlace al editor.
+4. Regenera con `gen_bilingue.py` y `gen_audit_N<n>.py`: ambos aplican el linkfix (el audit vacía
+   el DOI de esas filas para que `add_audit_links.py` enlace a PubMed).
 
 ## Permisos: la tarea del lunes debe correr sin pedir nada (regla dura, 27-jul-2026)
 

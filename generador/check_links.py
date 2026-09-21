@@ -61,25 +61,11 @@ def crossref(k):
 
 
 def pubmed_ok(pmid, title):
-    """¿El PMID existe y es NUESTRO artículo?
-
-    OJO (14-sep-2026): antes esto raspaba https://pubmed.ncbi.nlm.nih.gov/<pmid>/ y
-    buscaba el título dentro del HTML. NCBI bloquea ese acceso automatizado: devuelve
-    HTTP 203 con una página de 5,5 KB titulada «pubmed.ncbi.nlm.nih.gov», sin el
-    artículo. El resultado era un FALSO NEGATIVO sistemático — en N14 abortó un
-    linkfix legítimo (a13, PMID 42727228, que sí existe y es el artículo correcto).
-    Se verifica por E-utilities, que es la vía soportada y no está bloqueada.
-    """
     try:
-        req = urllib.request.Request(
-            "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi"
-            f"?db=pubmed&id={urllib.parse.quote(str(pmid))}&retmode=json", headers=UA)
+        req = urllib.request.Request(f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
+                                     headers={"User-Agent": "Mozilla/5.0"})
         with urllib.request.urlopen(req, timeout=45) as f:
-            r = json.loads(f.read())["result"][str(pmid)]
-        if r.get("error"): return False
-        # Comparación normalizada: PubMed añade el punto final y a veces cambia la
-        # puntuación, así que un `in` sobre el texto crudo no vale.
-        return norm(r.get("title") or "")[:40] == norm(title)[:40]
+            return title[:40].lower() in f.read().decode("utf-8", "replace").lower()
     except Exception:
         return False
 

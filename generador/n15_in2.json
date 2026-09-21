@@ -1,0 +1,285 @@
+[
+ {
+  "idx": 50,
+  "journal": "Circ Heart Fail",
+  "title": "A Recovery-Focused Framework for the Management of Cardiogenic Shock.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Cardiogenic shock describes a syndrome of systemic hypoperfusion due to insufficient cardiac output. Therapeutic interventions aim to restore systemic perfusion and oxygen delivery, relieve congestion, and reverse the primary culprit pathologies that precipitate shock. Cardiogenic shock care often emphasizes acute rescue and survival; however, survival does not always equal meaningful recovery. In this review, we propose a recovery-focused framework in which myocardial and end-organ recovery are treated as explicit, measurable targets. Building upon prior frameworks proposed for the management of shock, we organize cardiogenic shock management into four overlapping phases: salvage, optimization, stabilization, and de-escalation. Each phase addresses a distinct clinical question: can the patient be rescued, is perfusion and unloading sufficient to prevent further injury, is meaningful myocardial and end-organ recovery occurring, and is recovery durable enough to withdraw support? We synthesize current strategies and highlight emerging targets and research priorities spanning early identification and triage, integrated macro- and microcirculatory monitoring, phenotype-guided management, targeted metabolic and immunologic therapies, use of mechanical circulatory support as a recovery platform, and structured de-escalation of care.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 51,
+  "journal": "Heart Rhythm",
+  "title": "Epicardial adipose tissue in paroxysmal and persistent atrial fibrillation ablation using photon counting CT and automated 3D atrial segmentation: The Prospective AFAT Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Epicardial adipose tissue (EAT) may contribute to atrial fibrillation (AF) pathogenesis and recurrence after catheter ablation, but data using precise volumetric quantification alongside systematic body composition assessment are limited. OBJECTIVE: To quantify biatrial EAT using photon-counting CT (PCCT) with semiautomated 3D segmentation and assess its association with arrhythmia recurrence after first-time catheter ablation in paroxysmal and persistent AF. METHODS: In this prospective observational study, 210 adults undergoing first-time catheter ablation at the German Heart Centre Munich underwent preprocedural PCCT with 3D biatrial EAT reconstruction and protocolized whole-body composition assessment. The primary endpoint was freedom from any atrial arrhythmia at one year following an 8-week blanking period, assessed by 7-day Holter monitoring at 3, 6 and 12 months. RESULTS: Median age was 68.0 years and median body mass index 27.0 kg/m2 (IQR 24.5-30.0). Median left atrial (LA) EAT volume was 30.4 mL (IQR 23.5-40.1) and right atrial EAT 31.2 mL (IQR 23.8-38.0); the two were strongly correlated (r = 0.92, P < 0.0001). Patients with persistent AF had higher LA and right atrial EAT than those with paroxysmal AF (32.1 vs 28.0 mL and 33.4 vs 27.7 mL; P < 0.01). One-year arrhythmia freedom was 81.9% in paroxysmal and 57.3% in persistent AF (P = 0.005). In multivariable Cox regression, greater LA EAT per 10-mL increase was associated with recurrence in persistent AF (HR 1.51, 95% CI 1.06-2.15) but not paroxysmal AF (HR 0.79, 95% CI 0.54-1.15; P for interaction = 0.014). LA EAT was not associated with low-voltage substrate. CONCLUSION: PCCT enables precise biatrial EAT quantification. LA EAT was associated with arrhythmia recurrence in persistent but not paroxysmal AF, supporting its potential as an imaging biomarker.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 52,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Low-grade inflammation predicts major cardiovascular events and mortality in recently diagnosed type 2 diabetes: A Danish nationwide cohort study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: This study aimed to investigate the prospective associations of interleukin-6 (IL-6), tumour necrosis factor-α (TNF-α), and high-sensitivity C-reactive protein (hsCRP) levels with major adverse cardiac event (MACE) and mortality in individuals recently diagnosed with type 2 diabetes and without prevalent CVD. METHODS: We included 7630 individuals recently diagnosed with type 2 diabetes (median duration 0.9 years) with a median age of 60 years (44% females). Individuals with prevalent CVD (n=1390) were excluded from the primary analyses modelling Fine-Gray subdistribution hazard regressions accounting for competing risk of non-CVD death and adjusting for classical risk factors (e.g. diabetes duration, smoking, alcohol, physical activity, waist circumference, LDL cholesterol, HbA1c, systolic blood pressure, eGFR, and pharmacological treatment). Subsequently, we evaluated the predictive ability of adding low-grade inflammation to a model containing classical risk factors. RESULTS: Median follow-up time was 9 years. A 1-SD increase in log-IL-6 (1.98 pg/mL), log-TNF-α (1.40 pg/mL) and log-hsCRP (3.28 mg/L) was associated with HRs of 1.16 (95% CI 1.09, 1.23), 1.01 (0.95, 1.08), and 1.16 (1.09, 1.25) for MACE and 1.38 (1.31, 1.45), 1.16 (1.10, 1.22), and 1.34 (1.25, 1.43) for all-cause mortality, respectively. Prediction of both MACE and all-cause mortality was slightly improved by adding IL-6 and hsCRP to the model alongside classical risk factor. CONCLUSIONS: Low-grade inflammation was associated with MACE and all-cause mortality, independently of classical risk factors, in individuals recently diagnosed with type 2 diabetes and without prevalent CVD. Despite improved predictive ability of IL-6 and hsCRP, the absolute improvement was sparse.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 53,
+  "journal": "J Am Heart Assoc",
+  "title": "Interactions Between Health Inequalities on the Management and Outcomes of Thoracic Aortic Disease in England: A National Cohort Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The aim of this study was to evaluate the intersectionality between measured causes of health inequality and clinical factors that influence treatment decisions and regional variations in care and survival for people with thoracic aortic disease (TAD) in England. METHODS: The target population was all new TAD diagnoses in English hospitals between April 2013 and March 2018 with at least a 1-year follow-up. Adjusted regression models analyzed the associations between age, sex, race and ethnicity, socioeconomic deprivation, and geographic region with 1-year all-cause death, early elective thoracic aortic intervention, and referral for imaging surveillance or clinical genetics screening. RESULTS: The analysis cohort included 33 793 new TAD diagnoses with complete baseline and follow-up data. In multivariate analyses, older patients, women, and people from economically deprived areas, were more likely to die within 1 year of diagnosis. Exploratory analyses showed that older people, people of Asian or Black race, and those from deprived areas were less likely to undergo early treatment, and older people, women, and people from deprived areas were more likely to undergo surveillance scans within 6 months of diagnosis. People from areas of deprivation were less likely to be referred for genetic screening. After adjustment for baseline differences and health inequalities, there was significant regional variation in the proportion of people with newly diagnosed TAD who underwent treatment and aortic surveillance. CONCLUSIONS: There are multilevel sources of inequality in access to care and survival following a diagnosis with TAD in England. These findings expose a significant evidence-to-practice gap and the need for national strategies to implement equitable standardized care pathways.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 54,
+  "journal": "Nat Cardiovasc Res",
+  "title": "Risk-guided cardioprotection in cardio-oncology.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "The cardiotoxic effects of cancer therapies are well established, and the most clinically relevant consequences include heart failure and cardiomyopathy. As such, efforts have been focused on developing strategies to attenuate the risk of cardiovascular dysfunction in patients receiving potentially cardiotoxic therapies. Randomized trials to identify cardioprotective approaches have largely selected patients on the basis of cancer type and treatment regimen, regardless of baseline or dynamic changes in cardiovascular risk. However, contemporary evidence suggests that this approach results in modest to no significant benefit on subclinical or clinical measures of cardiotoxicity. We hypothesize that a risk-guided cardioprotection approach can enable the delivery of targeted therapy to those who may derive the greatest cardiovascular benefit, avoiding unnecessary treatment of lower-risk populations. Here, we review the contemporary literature on primary cardioprotection and present recent studies in cardio-oncology focused on risk-guided cardioprotection to support the implementation of more tailored strategies.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 55,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Heterogeneity in Lipoprotein(a) Profile Changes Across the Menopausal Transition.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIM: Assess changes in Lp(a) levels and transitions across ASCVD risk-thresholds by menopausal trajectory to inform risk stratification and testing recommendations. . METHODS:  We examined changes in Lp(a) between visits 1 and 2 among UK Biobank women. Analyses were examined by menopausal trajectory: those who underwent menopause (N=415), those who remained premenopausal (N=532), and those who remained postmenopausal (N=3,615) between visits. Change in Lp(a) between visits was also stratified by visit 1 Lp(a). The primary outcome was incident Lp(a) ≥125 nmol/L at visit 2, estimated using Poisson regression. RESULTS: Data were available for 4,562 women (mean visit 1 age = 57 years; median visit 1 Lp(a) = 22 nmol/L; median time between visits = 4 years). At visit 1, median Lp(a) was 23 nmol/L in postmenopausal women and 19 nmol/L in premenopausal women. Overall, median changes in Lp(a) between visits were modest. Among women with intermediate visit 1 Lp(a) (75-125 nmol/L), those who transitioned through menopause experienced a median increase of 34.9 nmol/L, approximately fourfold greater than women who remained pre- or postmenopausal. Further, 22 of 39 (56%) of women with intermediate visit 1 Lp(a) who had menopause between visits had incident Lp(a) ≥125 nmol/L at visit 2, compared with 29% and 28% of women who remained pre- or postmenopausal, representing a risk ratio of 2.27 (95% CI: 1.36, 3.78) after adjustment for visit 1 age and continuous Lp(a). CONCLUSIONS: Relying on a single lifetime Lp(a) measurement may miss reclassification across risk-enhancing thresholds during menopause, particularly for women with intermediate premenopausal levels.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 56,
+  "journal": "J Am Heart Assoc",
+  "title": "Impact of Left Internal Mammary Artery-to-Left Anterior Descending Artery Anastomotic Location on Graft Patency: A Secondary Analysis of the PATENCY Trial Data Set.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The impact of the left internal mammary artery (LIMA)-to-left anterior descending artery (LAD) anastomotic location on graft patency remains uncertain. METHODS: This study included 1597 patients with isolated proximal LAD lesions from the PATENCY (Graft Patency Between no-touch Vein Harvesting Technique and Conventional Approach in Coronary Artery Bypass Graft Surgery) trial who underwent coronary artery bypass grafting. The relative anastomotic site (RAS) of the LIMA-LAD anastomosis was quantified using postoperative coronary computed tomography angiography and defined as the ratio of anastomotic height/heart height. The primary end point was LIMA occlusion at 3 years, and the secondary end point was major adverse cardiac events. Multivariable logistic regression was used to evaluate the association between RAS and 3-year LIMA occlusion, and Cox proportional hazards regression was used to evaluate associations with time-to-event clinical outcomes. RESULTS: The exploratory RAS threshold was 46%. Distal anastomosis (RAS >46%) was associated with a significantly lower 3-year LIMA occlusion rate compared with proximal anastomosis (RAS ≤46%) (2.3% versus 6.3%; adjusted odds ratio, 0.37 [95% CI, 0.20-0.68]; P=0.002). At 3 years, major adverse cardiac event rates were similar between groups (3.4% versus 4.4%; adjusted hazard ratio, 0.68 [95% CI, 0.40-1.15]; P=0.16). CONCLUSIONS: In patients with isolated proximal LAD disease, a more distal LIMA-LAD anastomotic location may be associated with a lower risk of graft occlusion at 3 years. Further prospective validation is warranted.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 57,
+  "journal": "Europace",
+  "title": "Early rhythm control in patients with atrial fibrillation and cancer: A subgroup analysis of the EAST-AFNET 4 trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: Early rhythm-control improves cardiovascular outcomes in patients with atrial fibrillation (AF). Its effectiveness in patients with cancer is unclear. This study evaluated the effects of cancer history on early rhythm-control in the EAST-AFNET 4 trial. METHODS: This secondary analysis of EAST-AFNET 4 compared patients with and without a history of cancer, including active cancer and cancer in remission. Outcomes included the primary outcome, a composite of cardiovascular death, stroke, or hospitalization for worsening heart failure or acute coronary syndrome; the safety outcome, a composite of death, stroke, and serious adverse events related to rhythm-control; and rhythm at 24 months. RESULTS: Cancer history was available in 2779/2789 patients (99.6%). Cancer history was present in 216/2779 (7.8%; 19 with active cancer; mean age, 73 years; 95 [44%] women; mean CHA2DS2-VASc score, 3.5). During a follow-up to 8.6 years, early rhythm control reduced the primary outcome in patients with and without a history of cancer (pinteraction = .23) with high rates of sinus rhythm at 24 months (cancer: 84.9%, without cancer: 81.8%; pinteraction = .60). In patients with a cancer history, there was a signal for more safety outcomes with early rhythm control (early rhythm control 36/116 [31%] patients with event, 22 deaths; usual care 20/100 [20%] patients with event, 18 deaths; pinteraction = .055). CONCLUSIONS: Early rhythm control therapy appears effective in patients with AF and a history of cancer but may be less safe than in patients without cancer, in this hypothesis-generating analysis. This could be play of chance but warrants further research into the safety and efficacy of rhythm control therapy in patients with a cancer history.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 58,
+  "journal": "Circ Heart Fail",
+  "title": "Kidney Failure in Cardiogenic Shock.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Acute kidney injury (AKI) is a frequent and prognostically decisive complication of cardiogenic shock (CS), conferring substantially increased short- and long-term mortality. As understanding of CS has evolved beyond an isolated low-output model, AKI is increasingly recognized as a consequence of multifactorial pathophysiology encompassing venous congestion, neurohormonal dysregulation, microcirculatory dysfunction, inflammation, and iatrogenic injury from shock therapies. Despite this expanded mechanistic framework, approaches to the diagnosis and management of AKI in CS remain highly variable, and no single strategy has consistently improved renal or survival outcomes. Emerging data suggest multiple biologically distinct phenotypes of AKI in CS that may enable future targeted therapeutics. This review synthesizes contemporary evidence on the classification, epidemiology, and mechanisms of AKI in CS across distinct phenotypes, including early- versus late-onset, acute versus acute-on-chronic, and cardiorenal versus cardiometabolic presentations. We further discuss the renal effects of contemporary shock therapies, including vasoactive agents, temporary mechanical circulatory support, and renal replacement strategies. Finally, we highlight emerging diagnostic tools, including noninvasive vascular imaging and renal biomarkers, alongside novel device-based approaches to improve renal perfusion and congestion. Advancing care in CS will depend on redefining AKI not only as a binary marker of renal dysfunction but also as a mechanistically heterogeneous component of shock biology amenable to targeted intervention.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 59,
+  "journal": "JACC Cardiovasc Interv",
+  "title": "Ultrashort vs Standard-Duration Dual Antiplatelet Therapy in Acute Coronary Syndrome Patients Undergoing PCI: A Meta-Analysis.",
+  "ptypes": [
+   "Journal Article",
+   "Meta-Analysis",
+   "Systematic Review"
+  ],
+  "abstract": "BACKGROUND: The efficacy and safety of ultrashort (≤1-month) dual antiplatelet therapy (DAPT) followed by antiplatelet monotherapy remain uncertain in acute coronary syndrome (ACS) patients. OBJECTIVES: This study sought to compare ultrashort vs standard-duration DAPT in patients with ACS undergoing percutaneous coronary intervention (PCI). METHODS: We conducted a systematic review and meta-analysis of randomized controlled trials until February 15, 2026. Primary outcomes were major adverse cardiac and cerebrovascular events (MACCE), major bleeding, and net adverse clinical event (NACE). Prespecified subgroup analyses examined by ethnicity (East Asian vs non-East Asian) and abbreviation strategy (intensive: ≤1-week DAPT or clopidogrel/aspirin monotherapy vs moderate: ≥2-week DAPT, followed by ticagrelor/prasugrel monotherapy). RESULTS: Across 10 trials (n = 29,232), ultrashort DAPT did not increase MACCE risk (HR: 1.06; 95% CI: 0.93-1.20; P = 0.38; I2 = 24%), with higher MACCE risk observed in ST-segment elevation myocardial infarction (STEMI) but not non-ST-segment elevation ACS (NSTE-ACS), and significantly reduced major bleeding (HR: 0.47; 95% CI: 0.35-0.64; P < 0.00001; I2 = 44%), resulting in a net clinical benefit (HR: 0.83; 95% CI: 0.72-0.97; P = 0.02; I2 = 61%). Bleeding reduction was more pronounced in East Asians (HR: 0.35; 95% CI: 0.25-0.49; P < 0.00001; I2 = 0%) than non-East Asians (HR: 0.63; 95% CI: 0.43-0.93; P = 0.02; I2 = 44%), with a significant interaction (P = 0.02). The abbreviation strategy significantly modified outcomes (P for interaction = 0.003): intensive abbreviation raised MACCE risk (HR: 1.37; 95% CI: 1.11-1.69; P = 0.003; I2 = 0%), while moderate abbreviation had no statistically significant difference (HR: 0.96; 95% CI: 0.85-1.08; P = 0.47; I2 = 0%). CONCLUSIONS: In patients with ACS undergoing PCI, ultrashort DAPT reduced bleeding without increasing ischemic events overall, although a signal of increased MACCE was observed in STEMI but not in NSTE-ACS. Bleeding reduction was greater in East Asians, while ≤1-week DAPT or clopidogrel/aspirin monotherapy may increase ischemic risk.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 60,
+  "journal": "Heart Rhythm",
+  "title": "Isolated Phrenic and Vagus Nerve Stimulation and Conduction Suppression Induced by Electroporation Pulses.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Pulsed field ablation (PFA) is a novel non-thermal ablation modality with high myocardial selectivity. However, stimulation and transient dysfunction of adjacent neural structures remain important off-target effects. OBJECTIVE: To define pulse-parameter effects on excitation, conduction suppression and recovery of phrenic and vagus nerves exposed to single biphasic electroporation pulses. METHODS: Ex vivo swine phrenic and vagus nerves were studied using a multi-electrode chamber enabling four-channel compound action potential (CAP) recordings. Pulse amplitude, pulse width (0.5-10 μs), and interphase delay (0.5-1000 μs) were systematically varied. Stimulation thresholds and conduction suppression were quantified, and recovery was assessed over time. An in silico model of the phrenic nerve was developed to estimate electric field distribution and support mechanistic interpretation. RESULTS: Stimulation thresholds increased with decreasing pulse width and interphase delay. Unmyelinated fibers required 6.8-8.3-fold higher voltages than myelinated fibers. Conduction suppression was strongly dependent on pulse parameters, with longer pulse widths and higher amplitudes producing greater conduction suppression. High-amplitude pulses induced complete but reversible conduction suppression, with CAP recovery exceeding 80% within 30 minutes. Modeling showed elevated electric field gradients near the electrodes and predicted particularly high electric-field magnitudes in the perineurium, suggesting that this structure may be affected early during pulse delivery. CONCLUSION: Single PFA pulses induced both nerve excitation and reversible conduction suppression in isolated porcine phrenic and vagus nerves in a parameter-dependent manner. These findings provide mechanistic insight into PFA-related neural effects and suggest that stimulation of nearby autonomic nerves could potentially contribute to clinical observations such as bradycardia and coronary vasospasm. Quantitative translation will require clinically representative catheter geometries and complete pulse trains.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 61,
+  "journal": "Circ Heart Fail",
+  "title": "Hypoperfusion-Shock Continuum in Acute Decompensated Heart Failure.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Acute decompensated heart failure is a clinical syndrome characterized by upregulation of neurohormonal compensatory mechanisms that, while intended to preserve organ perfusion as a response to reduced cardiac output, progressively exacerbate systemic congestion. Perfusion, defined by adequate oxygen delivery to the tissues, is more complex than simple cardiac output and arterial inflow, and is also significantly influenced by venous backpressure, as well as microcirculatory autoregulation. Therefore, as venous pressures continue to rise, these may ultimately contribute to hypoperfusion and, therefore, cardiogenic shock (CS). Other mechanisms, such as inflammation and increased organ capsular pressure, can contribute to further impairments in tissue oxygenation. This gradual and often clinically unrecognized deterioration from acute decompensated heart failure to heart failure-related CS (HF-CS) contrasts with acute myocardial infarction-related CS, where underlying compensatory mechanisms are more limited. Furthermore, prolonged and unrecognized hypoperfusion may further worsen HF-CS through progressive microcirculatory dysfunction with subsequent uncoupling of macrocirculation and microcirculation. At this point, normalization of macrocirculatory parameters may no longer restore tissue oxygenation. Early identification of hypoperfusion is, therefore, critical so that interventions targeting systemic hemodynamics may still improve tissue perfusion and reverse circulatory collapse. This review (1) outlines the pathophysiology of hypoperfusion in HF-CS; (2) summarizes invasive, biochemical, and imaging parameters to detect hypoperfusion; (3) phenotypes HF-CS profiles; and (4) proposes a monitoring framework for hypoperfusion in HF-CS.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 62,
+  "journal": "J Am Heart Assoc",
+  "title": "Role of Thrombectomy Technique in Alteplase Bridging Intravenous Thrombolysis for Basilar Artery Occlusion.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Endovascular treatment (EVT) is the standard of care for acute basilar artery occlusion (BAO) although the role of bridging intravenous thrombolysis (IVT) with alteplase prior to EVT remains debated. Whether the effect of bridging IVT differs across EVT techniques has not been systematically assessed. METHODS: We conducted a retrospective multicenter analysis including consecutive patients with BAO treated with EVT at 7 comprehensive stroke centers between 2019 and 2023. Patients were stratified according to first-line thrombectomy technique: direct thromboaspiration (BAOTA), stent retriever (BAOST), or combined approach (BAOCO). Outcomes were analyzed using inverse probability weighting to adjust for baseline imbalances. The primary end point was 90-day favorable functional outcome (modified Rankin Scale 0-3) and ordinal 90-day modified Rankin Scale shift. Secondary end points included 90-day functional independence (modified Rankin Scale 0-2), successful reperfusion, 90-day mortality, hemorrhagic transformation, and symptomatic intracerebral hemorrhage. Sensitivity analyses with trimmed weights and subgroup analyses were prespecified. RESULTS: A total of 517 patients were included: 200 BAOTA, 260 BAOST, and 57 BAOCO. In patients with BAOTA, bridging IVT was associated with higher rates of 90-day favorable outcome (risk ratio [RR] 1.47, 95% CI 1.00-2.16) and improved 90-day modified Rankin Scale shift. In patients with BAOST bridging IVT significantly reduced symptomatic intracerebral hemorrhage risk (RR 0.27, 95% CI 0.09-0.77) while in patients with BAOCO functional independence was numerically more frequent among patients treated with bridging IVT (RR 1.91, 95% CI 1.08-3.37). CONCLUSIONS: Bridging IVT was associated with differences in clinical and safety outcomes across EVT strategies. However, no statistically significant interaction was observed between treatment allocation and EVT technique. Therefore, these findings should be interpreted as descriptive and hypothesis-generating rather than evidence of true differences in treatment effect.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 63,
+  "journal": "J Am Heart Assoc",
+  "title": "Therapeutic Strategies for Takotsubo Syndrome: A Comprehensive Clinical Review.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Takotsubo syndrome (TTS), also known as stress-induced cardiomyopathy, is an acute reversible form of left ventricular systolic dysfunction that mimics acute coronary syndrome in presentation. Once regarded as benign, TTS is now recognized to have a complicated in-hospital course in a substantial proportion of patients, with clinically significant events occurring in up to one third of cases, including cardiogenic shock, arrhythmias, thromboembolism, and death. Despite growing recognition, evidence-based management strategies remain limited due to the absence of randomized controlled trials. However, early evidence from small randomized trials is emerging in support of nonpharmacological interventions. This review provides a comprehensive synthesis of current therapeutic strategies for acute and long-term management of TTS, including pharmacological and nonpharmacological interventions such as cardiac rehabilitation, and management of psychiatric (eg, anxiety, depression) comorbidities, which increase the incidence of recurrences. As of today, TTS management remains largely empirical, relying on expert consensus and registry data focused on a multidisciplinary, personalized approach integrating cardiovascular, neurological, and psychological domains. Clinical trials and mechanistic research are needed to establish evidence-based therapies targeting the unique pathophysiology of TTS.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 64,
+  "journal": "Rev Esp Cardiol (Engl Ed)",
+  "title": "Spanish founder variant in MYBPC3: implications of diagnostic criteria, clinical phenotype, and prognosis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "INTRODUCTION AND OBJECTIVES: MYBPC3 is the most frequently mutated gene in hypertrophic cardiomyopathy (HCM). This study presents the clinical phenotype of a founder variant in MYBPC3, p.Arg891Alafs*160, present in 47 families from southern Spain, and compares it with other described founder truncating variants in MYBPC3. METHODS: We studied 259 relatives of 47 index cases with HCM carrying the p.Arg891Alafs*160 variant. Clinical evaluation, including recently proposed diagnostic criteria, pedigree analysis and genotyping in relation to outcomes, were performed. RESULTS: A total of 159 carriers of p.Arg891Alafs*160 (age, 48.8 ± 19.6 years; 40.3% female) were identified, of whom 90 (57.0%, 30.0% female) had HCM. The mean age of affected individuals was 57.1 ± 15.0 years, mean maximal left ventricular hypertrophy (LVH) was 19.0 ± 5.7 mm, and 20 (22.5%) had left ventricular obstruction. Age, sex and body surface area correction altered the proportion of men and women with HCM. There were 8 adverse cardiac events: 1 sudden death, 1 resuscitated cardiac arrest, 2 implantable cardioverter-defibrillator discharges, 2 transplants, and 2 heart failure deaths. Disease penetrance increased with age, and men developed disease 8.0 years earlier than women. This variant had a lower annual sudden death rate than other MYBPC3 truncating variants. CONCLUSIONS: MYBPC3 p.Arg891Alafs*160 is a founder truncating variant associated with HCM. Affected carriers present with incomplete penetrance, moderate LVH, and disease onset in middle age. Implementation of age, sex and body surface area-normalized LVH cutoffs for the diagnosis of HCM has an impact on the proportion of affected females.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 65,
+  "journal": "J Am Heart Assoc",
+  "title": "Cerebral Injury and Impaired Brain Metabolism in Patients With Left Ventricular Assist Device and Chronic Heart Failure -An Interdisciplinary Cognition, Blood-Based Biomarker and Brain Metabolism Assessment.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Chronic heart failure is linked to cognitive dysfunction. Left ventricular assist devices (LVAD) potentially ameliorate cognition, but continuous flow profiles might result in long-term progression. In this cross-sectional pilot study, we aimed to investigate the association between LVAD therapy and neuronal impairment measured by cognitive performance, blood-based biomarkers of neuronal injury and 18F-fluorodeoxyglucose-positron emission tomography/computed tomography-derived brain metabolism. METHODS: We prospectively enrolled 19 patients with LVAD and 13 patients with advanced chronic heart failure receiving best medical treatment. Cognitive performance was assessed using the Montreal Cognitive Assessment and Frontal Assessment Battery. Serum levels of NfL (neurofilament light chain), pTau181 (phosphorylated Tau protein at threonine 181), and GFAP (glial fibrillary acidic protein) were measured by immunoassay. Brain metabolism was assessed using 18F-fluorodeoxyglucose-positron emission tomography/computed tomography by statistical parametric mapping analyses compared with 16 healthy controls (P<0.001 uncorrected). RESULTS: Of all patients, 69% showed cognitive dysfunction, 5 patients had evidence for frontotemporal impairment. Median neurochemical biomarker concentrations were elevated in the whole cohort (NfL 45.7 pg/mL [26.9-80.2]; pTau181 23.1 pg/mL [18.1-40.1]; GFAP 191.3 pg/mL [126.3-251.7]). Both groups did not differ regarding cognitive performance and biomarker levels. The uncorrected statistical parametric mapping analyses indicated frontotemporally accentuated hypometabolism in both groups compared with healthy controls. Patients with LVAD revealed more hypometabolic volumes in single-subject analyses (LVAD 1.03 mL (0-7.34); chronic heart failure 0 mL (0-0.01), P<0.003). CONCLUSIONS: In this exploratory study, patients with chronic heart failure and patients with LVAD exhibited impaired cognitive performance and elevated biomarker levels of neuronal injury. 18F-fluorodeoxyglucose-positron emission tomography/computed tomography results of uncorrected thresholds suggested subtle frontal hypometabolism. Neurochemical biomarkers and 18F-fluorodeoxyglucose-positron emission tomographyappear promising for further investigation of cerebral health in patients with heart failure.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 66,
+  "journal": "Ann Intern Med",
+  "title": "A Synopsis of the 2025 U.S. Department of Veterans Affairs and U.S. Department of Defense Clinical Practice Guideline for Lipid Management for Cardiovascular Disease Risk Reduction.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "DESCRIPTION: In December 2025, the U.S. Department of Veterans Affairs (VA) and the U.S. Department of Defense (DoD) released a clinical practice guideline (CPG) update on lipid management for cardiovascular disease risk reduction in adults. This synopsis reviews the 2025 updates and describes the major recommendations. METHODS: The VA/DoD guideline development team updated the 2020 VA/DoD lipid management CPG with clinical stakeholders. The guideline panel developed 12 key questions, systematically evaluated the literature (English-language publications from 16 May 2019 to 15 January 2025), and developed 24 evidence-based recommendations. The recommendations were graded using the GRADE (Grading of Recommendations Assessment, Development and Evaluation) system. RECOMMENDATIONS: This synopsis highlights key recommendations for lipid management that are new or differ from other guideline recommendations. This update recommends the Predicting Risk of Cardiovascular Disease EVENTs (PREVENT) calculator for risk estimation in primary prevention and removes a previous recommendation against routine lipid monitoring. Two new risk refinement strategies were added: Coronary artery calcium testing is suggested for patients with clinical uncertainty and intermediate-to-high calculated risk, and one-time lipoprotein(a) testing is recommended to identify patients with enhanced cardiovascular risk. For primary prevention, moderate-intensity statins remain the recommended treatment for those at higher risk and should be considered for those at intermediate risk. A new recommendation suggests moderate-intensity statins for adults living with HIV even when 10-year risk is low. This update shifts toward more intensive lipid-lowering therapy for secondary prevention. For very high-risk patients with atherosclerotic cardiovascular disease, the guideline now suggests combination therapy with high-intensity or maximally tolerated statins plus ezetimibe and/or proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitors. For statin-intolerant patients, alternatives include bempedoic acid, ezetimibe, fibrates, or PCSK9 monoclonal antibody inhibitors.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 67,
+  "journal": "JACC Heart Fail",
+  "title": "Genotype-Phenotype Associations in Pediatric Hypertrophic Cardiomyopathy: A Study From the Pediatric Cardiomyopathy Registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Genotype-phenotype correlations in pediatric hypertrophic cardiomyopathy (HCM) are not well established. Determining whether specific genes or variants correlate with disease severity may impact clinical care. OBJECTIVES: This study aims to identify associations between pathogenic genetic variants in pediatric HCM and echocardiographic maximal left ventricular wall thickness. METHODS: Children with primary HCM from pediatric cardiomyopathy centers were recruited for research-based exome sequencing. Associations between genetic findings, imaging, and clinical outcomes were assessed. Genetic variants in established HCM genes were classified according to established guidelines. Left ventricular hypertrophy (LVH) at enrollment was classified as mild (z-score <12), moderate (z-score ≥12), or severe (z-score ≥17) based on LV septal or posterior wall thickness z-scores measured by a core echocardiography laboratory. RESULTS: Severity of LVH was determined in 143 children with adequate echocardiograms. The median age at enrollment was 11.5 years (range: 3.8-14.4 years). Overall, 51% had a pathogenic variant, of which 93% were in sarcomeric genes. Children with severe LVH (n = 40, 28%) were diagnosed at younger ages than those with mild LVH (n = 78, 55%) at a median of 6.4 vs 12.9 years, P = 0.005. Those with severe LVH were more likely to have pathogenic variants; this association was driven by variants in MYBPC3 (OR: 4.1; 95% CI: 1.7-9.9). Missense variants in MYBPC3 predominated over stop, insertion-deletion, or splicing variants in severe cases. CONCLUSIONS: In this population of children with primary HCM, severe LVH was associated with a younger age at enrollment and a higher likelihood of harboring a pathogenic variant in MYBPC3. (Genotype-Phenotype Associations in Pediatric Cardiomyopathy [PCM GENES]; NCT01873963).",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 68,
+  "journal": "Circulation",
+  "title": "Intestinal Serotonergic Vagal Signaling as a Mediator of Microbiota-Induced Hypertension.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Hypertension is a pervasive global health challenge, impacting more than 1 billion individuals worldwide. Despite strides in therapeutic strategies, a significant proportion of patients remain resistant to the currently available therapies. Although conventional treatments predominantly focus on cardiac, renal, and cerebral targets, emerging research underscores the pivotal role of the gut and its microbiota. Yet, the precise mechanisms governing interactions between the gut microbiota and the host blood pressure remain unclear. METHODS: We combined fecal microbiota transplantation between normotensive and hypertensive rats, an intersectional genetic strategy in a serotonin receptor 3a (5HT3a) receptor Cre rat line to activate, ablate, and restore serotonin-sensing colonic vagal neurons, in vivo calcium imaging and radiotelemetric blood pressure recordings, and measurements of intestinal serotonin (5-hydroxytryptamine [5-HT]) and 5HT3a receptor signaling in rats and in colonic biopsies from normotensive and hypertensive human subjects (N=5 per group; 36 to 75 years of age). RESULTS: A marked decrease in both intestinal 5-HT and vagal 5HT3a receptor signaling was observed in hypertensive rats and humans, and in rats subjected to fecal microbiota transplantation from hypertensive rats. Leveraging the intersectional genetic strategy in a Cre rat line, we demonstrate that intestinal 5HT3a receptor vagal signaling is a crucial link between the gut microbiota and blood pressure homeostasis and that recovery of 5-HT signaling in colon innervating vagal neurons can alleviate hypertension. CONCLUSIONS: Here, we describe a neural host-microbiota interaction that is mediated by intestinal serotonin (5-HT) signaling via the vagal 5HT3a, which is crucial for maintenance of blood pressure homeostasis. This finding enhances our comprehension of hypertensive pathophysiology and unveils a promising new therapeutic target for combating resistant hypertension associated with gut dysbiosis.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 69,
+  "journal": "Heart Rhythm",
+  "title": "Quantitative CT Lead Localization Reveals Proximal Left Bundle Targeting Facilitates Superior Physiologic Pacing.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Implant electrical criteria for left bundle branch (LBB) capture in conduction system pacing (CSP) cannot localize the lead along the conduction axis. OBJECTIVE: To classify CSP lead position with an observer-independent CT workflow (CARA) using two anatomic measurements - lead-to-His distance (LH) and lead-to-endocardium offset (LE) - and to test whether proximal position yields near-native paced activation. METHODS: Of 186 consecutive CSP patients, 145 had interpretable CT anatomy. Leads were classified by prespecified rule: LVSP if LE ≤ -2.5 mm; otherwise proximal (LH ≤ 25 mm) or distal (LH > 25 mm), with 25 mm referenced to left bundle histology. Primary analysis set: sinus rhythm, native QRS <115 ms, complete paired ECGs, LE > -2.5 mm (n = 46). PRIMARY ENDPOINT: |Δ frontal axis| ≤15° and |Δ QRS duration| ≤15 ms. RESULTS: Classification yielded 68 proximal, 70 distal and 7 LVSP leads. The procedural label carried no positional information (48% of physician-labeled LBBP leads proximal vs 49% overall). The composite endpoint occurred in 15/24 (62%) proximal versus 6/22 (27%) distal leads (OR 4.14, 95% CI 1.23-13.96; p = 0.021; adjusted OR 5.35, p = 0.013), consistent across sensitivity analyses. The ROC-optimal LH cut-point (24.9 mm) independently reproduced the prespecified 25 mm threshold. Position was not recoverable from the surface ECG (classification AUC 0.48). CONCLUSION: In this proof-of-concept anatomic study, a two-measurement rule classified CSP lead position objectively. Near-native paced activation requires proximal targeting (LH ≤ 25 mm), which neither the procedural label nor ECG can identify - quantitative imaging is required.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 70,
+  "journal": "JACC Adv",
+  "title": "Intravascular Imaging-Guided Percutaneous Coronary Intervention for Calcified Coronary Lesions: A Network Meta-Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The role of intravascular imaging guidance in percutaneous coronary intervention (PCI) of calcified coronary lesions remains incompletely defined. OBJECTIVES: The objective of the study was to compare intravascular ultrasound (IVUS) or optical coherence tomography (OCT) vs angiography-guided PCI in patients with calcified coronary lesions. METHODS: A systematic review and frequentist network meta-analysis was conducted. Randomized and observational studies comparing IVUS-, OCT-, and angiography-guided PCI in calcified lesions were included. The primary endpoint was major adverse cardiovascular events (MACE), defined as cardiac death, target vessel myocardial infarction, and target vessel revascularization (TVR). Secondary endpoints included target vessel failure, target lesion revascularization, TVR, minimum stent area (MSA), and stent thrombosis. RESULTS: Ten studies including 4,003 patients were included. IVUS- and OCT-guided PCI were associated with significantly lower MACE compared with angiography guidance (IVUS: relative risk [RR]: 0.56; 95% CI: 0.37-0.86; OCT: RR: 0.65; 95% CI: 0.52-0.82), with no statistically significant differences between imaging modalities. Results were consistent in randomized controlled trial-only sensitivity analyses. Stent thrombosis was also significantly lower with IVUS (RR: 0.15; 95% CI: 0.03-0.89) and OCT (RR: 0.12; 95% CI: 0.03-0.46). OCT-guided PCI was also associated with a larger MSA compared with angiography (MD +0.87 mm2; 95% CI: +0.03 to +1.70), whereas IVUS showed a nonsignificant trend in the same direction. No significant differences were observed for target vessel failure, target lesion revascularization, or TVR, although there was a trend in favor of imaging guidance for all outcomes. Heterogeneity was low except for MSA. CONCLUSIONS: In calcified coronary lesions, intravascular imaging is associated with lower MACE and stent thrombosis, compared with angiography guidance.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 71,
+  "journal": "Hypertension",
+  "title": "Noninvasive Blood-Brain Barrier Imaging in Aging Community Cohorts.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cerebral perfusion is a critical determinant of brain health and cognitive function, and vascular dysfunction contributes to small-vessel disease and neurodegeneration. Multiecho time-encoded arterial spin labeling is an emerging magnetic resonance imaging technique that enables noninvasive quantification of cerebral blood flow (CBF), arterial transit time (ATT), and blood-brain barrier water exchange time (Tex) without exogenous contrast. This study examined how demographic and vascular risk factors influence cerebral hemodynamics and their relation to structural imaging and cognitive scores. METHODS: Participants were drawn from 2 community-based cohorts, comprising 527 adults aged 30 to 95 years. All underwent harmonized 3T multiecho arterial spin labeling and structural magnetic resonance imaging, alongside detailed cognitive testing. Linear and logistic regression models evaluated associations between cerebral hemodynamics, age, sex, vascular risk factors, brain structure, and cognition, adjusting for demographic, vascular, and intracranial volume. RESULTS: Older age was independently associated with lower CBF and Tex and longer ATT, with a nonlinear age-ATT relationship suggesting accelerated change in later life. Males showed lower CBF and Tex and higher ATT than females, independent of age and vascular risk factors. Hypertension and higher blood pressure were associated with lower Tex, reduced CBF, and longer ATT; diabetes was associated with reduced CBF. Longer ATT correlated with smaller gray and hippocampal volumes and greater white matter hyperintensity. Lower Tex was related to higher white matter hyperintensity volume as well as poorer semantic fluency. CONCLUSIONS: Multiecho arterial spin labeling captures blood-brain barrier-related and hemodynamic changes associated with age, sex, and vascular risk factors, supporting its use as a noninvasive imaging biomarker for early cerebrovascular injury relevant to cardiovascular health.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 72,
+  "journal": "Heart",
+  "title": "Discordance between N-terminal pro-B-type natriuretic peptide and left ventricular end-diastolic pressure in suspected heart failure with a preserved ejection fraction: implications for diagnosis and prognosis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Diagnosing heart failure with preserved ejection fraction (HFpEF) remains challenging, as natriuretic peptides and resting haemodynamic measurements reflect complementary but incomplete aspects of myocardial stress and filling pressure. METHODS: In this prospective all-comer cohort (UKSH-Trial registration number AZ-D412-/21), adults undergoing elective left heart catheterisation underwent simultaneous invasive left ventricular end-diastolic pressure (LVEDP) measurement and N-terminal pro-B-type natriuretic peptide (NT-proBNP) sampling. The H₂FPEF score was calculated in patients with preserved ejection fraction (≥50%), and those with intermediate or high probability were included. Patients were classified using guideline-recommended NT-proBNP thresholds and LVEDP ≥16 mm Hg into four groups: normal (Group 1), isolated LVEDP elevation (Group 2), isolated NT-proBNP elevation (Group 3) and combined elevation (Group 4). The primary endpoint was all-cause mortality, analysed using multivariable Cox models, including age, sex, renal dysfunction and H2FPEF risk category. RESULTS: Among 514 participants (mean age 70 years, 49% women), group distribution was 29%, 14%, 28% and 29%. Discordance was common (42%). Clinical profiles aligned more closely with NT-proBNP than LVEDP. Compared with Group 1, adjusted mortality was not significantly higher in Group 2 (HR 1.34, 95% CI 0.45 to 4.02), whereas it was significantly higher in Group 3 (HR 2.26, 95% CI 1.02 to 5.01) and Group 4 (HR 3.33, 95% CI 1.54 to 7.20). CONCLUSIONS: NT-proBNP and LVEDP are frequently discordant and provide complementary prognostic information in suspected HFpEF. Mortality risk was highest when both were elevated and was also increased with isolated NT-proBNP elevation, whereas isolated LVEDP elevation was not associated with excess mortality. These findings support integrated biomarker-haemodynamic assessment and warrant prospective validation.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 73,
+  "journal": "Heart Rhythm",
+  "title": "STAR Apollo™ Map-Guided Redo Ablation for Recurrent Persistent Atrial Fibrillation after Prior Pulmonary Vein Isolation: Procedural Feasibility, Safety, and Twelve-Month Rhythm Outcomes from a Prospective Multicenter Study (NCT05826665).",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Redo ablation for persistent atrial fibrillation (AF) that recurs after pulmonary vein isolation (PVI) has limited durable success, and adjunctive substrate strategies have not consistently improved outcomes. The STAR Apollo™ Mapping System (Rhythm AI Ltd) is an FDA-cleared technology that applies stochastic trajectory analysis of ranked signals to identify repetitive patterns of activation (RPAs) and early sites of activation (ESAs) that may indicate regions sustaining AF. OBJECTIVE: To examine the procedural feasibility and safety, and to describe the 12-month rhythm outcomes, of STAR Apollo-guided redo ablation in patients with recurrent persistent AF after prior PVI. METHODS: In this prospective, multicenter, observational study, patients with persistent AF recurring after one prior PVI (prior extra-pulmonary-vein ablation excluded) underwent pulmonary vein re-isolation, STAR Apollo mapping, and operator-directed adjunctive ablation. Because STAR mapping requires ongoing AF, the analysis was confined to the 50 patients (of 64 enrolled) in whom a STAR map was obtained; the 14 without a STAR map, because they were not in AF at the procedure, were excluded. Procedural parameters, safety, and rhythm at the 3-, 6-, and 12-month visits were recorded. RESULTS: All 50 patients had one prior PVI and recurrent persistent AF; they were 68.8 ± 8.7 years of age, 35 (70.0%) male, with body-mass index 31.3 ± 5.5 kg/m2. Pulmonary vein reconnection was found and re-isolated in 46/50 (92.0%). The system identified a median of 3 (2-3) ESAs per patient, and STAR mapping added a median of 16 (13-21) minutes to a median total procedure of 125 (91-166) minutes. Sinus rhythm was restored without cardioversion in 23/50 (46.0%; AF terminated during ablation in 19/50 [38.0%] and spontaneously in 4/50 [8.0%]); 26/50 (52.0%) required cardioversion and 1/50 (2.0%) was not restored in the laboratory. Adjunctive lines included a roof line in 30/50 (60.0%) and a mitral isthmus line in 11/50 (22.0%). A procedural complication occurred in 1/50 (2.0%) (pericardial effusion). Among 40 patients assessed at 12 months, 33 (82.5%) were in sinus rhythm and symptom class improved to EHRA I in 23/30 (76.7%). By Kaplan-Meier estimation (single procedure; recurrence, repeat ablation or cardioversion counted as failure), freedom from AF was 95.3% (95% CI 82.5-98.8) at 6 months and 75.3% (95% CI 59.0-85.9) at 12 months. CONCLUSION: In recurrent persistent AF after prior PVI, STAR Apollo-guided redo ablation was feasible and safe, added a modest mapping step, and was associated with sin",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 74,
+  "journal": "JACC Adv",
+  "title": "Evolving Evidence-Driven Strategies in Cardiogenic Shock Management.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Although existing guidelines and expert consensus documents provide a general framework for management of cardiogenic shock (CS), a substantial body of evidence has yet emerged which has not been fully incorporated into current recommendations. This State-of-the Art review synthesizes both established and recent literature to provide an updated perspective on contemporary CS management. We review randomized controlled trials and key observational studies evaluating invasive hemodynamic monitoring, pharmacologic therapies, temporary mechanical circulatory support, and structural and valvular interventions. We critically appraise trial design, patient heterogeneity, and methodological limitations that influence interpretation and clinical applicability. Finally, we highlight persistent gaps and ongoing trials that aim to refine risk stratification and treatment strategies. This review provides a comprehensive, up-to-date synthesis of the CS literature and outlines key directions for future research and clinical practice.",
+  "oblig": false,
+  "noabs": false
+ }
+]

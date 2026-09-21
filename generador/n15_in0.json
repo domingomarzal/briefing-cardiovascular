@@ -1,0 +1,282 @@
+[
+ {
+  "idx": 0,
+  "journal": "Heart Rhythm",
+  "title": "Avoid It or Reach It? The Cardiac Conduction Axis as a Common yet Divergent Determinant of Patient Outcomes in Transcatheter Aortic Valve Replacement and Conduction-System Pacing.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Transcatheter aortic valve replacement (TAVR)-related conduction injury and the benefit of conduction-system pacing (CSP) are usually considered in isolation, despite depending on one structure: the His-Purkinje axis crossing the basal interventricular septum. We argue that implant position relative to that axis is the dominant modifiable determinant of outcome in both. In TAVR, pacemaker rates remain near 16% in contemporary multicenter practice, while single-center strategies interpreting depth against membranous septum length have reached 3-5%; the odds of pacing rise 25% per millimeter of implantation below the estimated His bundle. In CSP, capture is categorical; beyond that threshold, each millimeter closer to the left bundle branch origin adds a 0.25% absolute gain in ejection fraction, and each millimeter closer to the left ventricular endocardium 0.63%, chiefly in patients with depressed baseline function. Reconstruction of the axis from routine cardiac computed tomography has entered clinical evaluation.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 1,
+  "journal": "J Am Heart Assoc",
+  "title": "Prediction of Post-Cardiac Arrest Seizures Using Heart Rate Variability.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Seizures are common after out-of-hospital cardiac arrest and may exacerbate secondary brain injury, yet early prediction remains challenging. Although heart rate variability has been used to predict seizures in epilepsy, its role and optimal prediction window after cardiac arrest remain unclear. We aimed to develop a heart rate variability-based model for predicting post-cardiac arrest seizures and identify the optimal prediction window. METHODS: This study prospectively collected and retrospectively analyzed data from adults resuscitated from nontraumatic out-of-hospital cardiac arrest and admitted to an academic post-cardiac arrest care center. Electrocardiography and electroencephalography were continuously recorded, and seizures were independently confirmed by a neurologist. Five-minute time-, frequency-, and nonlinear-domain heart rate variability features from 0 to 30 minutes before seizure onset were normalized to baseline and entered into a support vector machine classifier using training, validation, and testing sets. RESULTS: Among 36 patients, 20 (56%) experienced 93 seizures. Model performance was highest 15 to 20 minutes before seizure onset. At 18 minutes, the model achieved an area under the receiver operating characteristic curve of 0.812 (95% CI, 0.792-0.832), 76% accuracy, 77% sensitivity, and 68% specificity. Compared with baseline, low frequency increased 3.28-fold, sample entropy 2.58-fold, high frequency 2.43-fold, and the low/high frequency ratio 1.47-fold in seizure segments; corresponding ratios in nonseizure segments remained near baseline. These findings suggest that autonomic function fluctuates substantially before post-cardiac arrest seizures and may provide an early warning window for clinically important neurologic events during intensive care. CONCLUSIONS: Heart rate variability changed before post-cardiac arrest seizures, with 18 minutes before onset appearing optimal for prediction.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 2,
+  "journal": "Eur Heart J Cardiovasc Imaging",
+  "title": "The added value of echocardiography in pulmonary arterial hypertension risk assessment an artificial intelligence machine learning-derived analysis of the ULTRA RIGHT VALUE registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: The right ventricle (RV) is a major determinant of outcome in pulmonary arterial hypertension (PAH), but its assessment has not been completely incorporated in the risk of mortality scores. We therefore evaluated the added value of echocardiography of the RV to risk scores in a large multicentre European prospective cohort of patients with prevalent PAH enrolled in the ULTRAsound RIGHt venTricular eVALUation in PAH (ULTRA RIGHT VALUE) study. METHODS AND RESULTS: A total of 401 patients with prevalent PAH enrolled between January 2022 and December 2023 underwent an echocardiography and a risk assessment by Registry to Evaluate Early and Long-Term PAH Disease Management (REVEAL) 2.0 and European Society of Cardiology (ESC)/European Respiratory Society (ERS) scoring systems. For both the ESC/ERS and REVEAL scores a one-unit decrease in any morphological parameter increased up to 69% and 92%, respectively, the odds for achieving/maintaining a low-risk status. Similarly, a one-unit increase in any RV functional parameter increased up to 1.28 and 1.78, respectively, the odds for achieving/maintaining a low-risk status. For this purpose, echocardiographic assessments of RV-PA coupling were the most performant. The inclusion of echocardiographic variables into the ESC/ERS and REVEAL 2.0 scores improved the c-index for morbi-mortality prediction from 0.73 [95% confidence interval (CI) 0.69-0.76] to 0.78 (95% CI 0.75-0.81; P < 0.01) and from 0.74 (95% CI 0.67-0.83) to 0.79 (95% CI 0.76-0.82; P < 0.01), respectively, with machine learning techniques showing indexes of RV-PA coupling having the highest influence on the c-index. CONCLUSION: Incorporation of echocardiographic parameters improves risk scores in PAH.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 3,
+  "journal": "J Am Heart Assoc",
+  "title": "Distinctive Features of Obstructive Sleep Apnea in Chinese Patients With Acute Cerebral Infarction: A Prospective Observational Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Obstructive sleep apnea (OSA) is a modifiable risk factor that benefits from timely detection and treatment to improve poststroke outcomes, yet ethnic-specific features and practical screening strategies remain undercharacterized. We evaluated OSA prevalence, its association with neurocognitive function, and screening performance in Chinese patients with acute cerebral infarction. METHODS: In this prospective cohort, 183 consecutive Han Chinese inpatients with acute cerebral infarction underwent home sleep apnea testing within 2 weeks of onset. Moderate to severe OSA was defined as an apnea-hypopnea index ≥15 events/h. Neurocognitive function was assessed by Mini-Mental State Examination and National Institutes of Health Stroke Scale. The diagnostic performance of the STOP-Bang questionnaire, including sensitivity, specificity, positive predictive value, and negative predictive value, was evaluated for identifying moderate to severe OSA. RESULTS: OSA prevalence was 79.2%, with 37.7% moderate to severe. Cognitive impairment (Mini-Mental State Examination <23) was less frequent in patients without OSA than patients with OSA (15.8% versus 31.3%-40.8%, P=0.048). Sex-stratified analyses showed higher cognitive impairment burden in women comparing non-OSA versus mild OSA (P=0.040), with no parallel association observed in men (all P=0.400). STOP-Bang had limited discrimination (area under the receiver operating characteristic curve, 0.72), with high sensitivity (88.4%) but low specificity (39.5%). CONCLUSIONS: Chinese patients with acute cerebral infarction have a high OSA burden. Sex-stratified results suggest potential female-specific vulnerability to OSA-related cognitive impairment, warranting larger cohorts. Given limited specificity and triage value of STOP-Bang, objective sleep apnea evaluation should be performed whenever feasible in this population. REGISTRATION: URL: https://www.chictr.org.cn/. Identifier: ChiCTR2000038312.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 4,
+  "journal": "Heart Rhythm",
+  "title": "Integrated Hemodynamic Sensing, Electrical Sensing, and Ventricular Pacing from a Novel Substernal Lead: An Acute Human Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Implantable cardioverter-defibrillators (ICDs) rely primarily on electrical signals to guide therapy. Hemodynamic sensing may provide complementary information about the immediate physiologic consequences of arrhythmias. OBJECTIVE: Evaluate the acute feasibility and performance of a 3-dimensional substernal shock lead integrating hemodynamic sensing, electrical sensing, and ventricular pacing. METHODS: This prospective first-in-human feasibility study enrolled 5 patients undergoing cardiac surgery or epicardial ventricular tachycardia (VT) ablation. A substernal shock lead was temporarily placed through a percutaneous subxiphoid approach using a dedicated delivery system. Lead placement and removal, adverse events, synchronized sensor signals, surface electrocardiograms, substernal electrograms, and pacing thresholds were assessed. RESULTS: Lead placement and removal were successful in all patients without device- or procedure-related acute adverse events. Interpretable hemodynamic signals were obtained in all 5 patients and showed stable beat-to-beat temporal correspondence with the electrocardiogram and distinct rhythm-associated patterns across sinus rhythm (SR), atrial fibrillation, VT, and ventricular fibrillation (VF). All 147 VT episodes had interpretable hemodynamic-index recordings. The hemodynamic index decreased abruptly during VT and recovered after arrhythmia termination. Corresponding changes in the hemodynamic index were observed during transitions among VT, VF, and SR. Ventricular capture was achieved in all 5 patients at 11-17 V (mean, 13.8 V) at 0.5 ms. CONCLUSION: Acute placement of this multifunctional substernal lead was feasible and enabled integrated hemodynamic and electrical sensing with acute ventricular capture. These findings provide preliminary human support for further development of physiology-guided extravascular ICD systems; chronic performance and clinical validation of the hemodynamic sensing algorithm require further study.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 5,
+  "journal": "Hypertension",
+  "title": "Chronic Hypertension and the Brain's Waste Drainage System.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "An important system for brain waste clearance comprises a series of interconnected fluid and tissue compartments: the cerebrospinal fluid compartment, the glymphatic system, and the dura with the meningeal lymphatic vasculature, which drains to the cervical lymphatics. Although exchanges between these compartments are increasingly well documented, the mechanisms underlying their crosstalk and especially the regulation of brain waste clearance efficiency-including the role of immune surveillance along this pathway-remain incompletely understood. This interconnected pathway, designated the glymphatic-meningeal-cervical-lymphatic axis, is critically dependent on the cerebral vasculature, both structurally and functionally. Yet given this intimate vascular dependence, the effects of chronic hypertension-one of the most prevalent chronic diseases worldwide-on the structural and functional integrity of this axis remain remarkably understudied. This review examines each component of this pathway in physiological sequence, evaluating the evidence for hypertension-related dysfunction at each node and identifying where critical gaps remain.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 6,
+  "journal": "J Am Heart Assoc",
+  "title": "Comparison of a Novel Occluder Versus Traditional Occluder in Atrial Septal Defect: A Randomized Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Traditional occluders for atrial septal defect have 2 drawbacks: incomplete endothelialization and difficulty in achieving atrial septum puncture post implantation. The novel occluder ReAces was designed to address these 2 clinical pain points. In this study, we aimed to compare the efficacy and safety of ReAces with a traditional Amplatzer-like atrial septal defect occluder. METHODS: This was a multicenter, randomized, parallel-controlled, noninferiority clinical trial. Patients with atrial septal defects were enrolled and randomly implanted with a ReAces or a traditional Amplatzer-like occluder. The primary outcome was complete closure rate at 12 months post implantation. The Migraine Disability Assessment scores before and after the procedure were recorded. RESULTS: Sixty-two patients were implanted with ReAces and 64 patients with a traditional occluder. At the 12-month follow-up, complete closure was achieved in 61 patients in the trial group (98.4%) and 63 patients in the control group (98.4%), which demonstrated noninferiority (95% CI, -4.4% to 4.3%). No severe adverse events occurred during 12 months of follow-up except a case of device dislodgement in the trial group. The thickness of the central region of ReAces at the 12-month follow-up was significantly lower than that of the traditional device (6.8±3.7 mm versus 12.2±5.2, P<0.0001). The trial group showed a significantly lower Migraine Disability Assessment score (0.4±2.4 versus 1.4±4.1, P=0.042) and a lower proportion of patients with a nonzero Migraine Disability Assessment score (5.6% versus 18.2%, P=0.042) at the 1-month follow-up. CONCLUSIONS: The efficacy of ReAces was noninferior to that of a traditional Amplatzer-like occluder for transcatheter atrial septal defect closure. ReAces had a thinner central region during the follow-up and a lower Migraine Disability Assessment score at the 1-month follow-up. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT05371366.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 7,
+  "journal": "JACC Heart Fail",
+  "title": "Contemporary Trends in Outcomes After Heart Failure Hospitalization Among Medicare Beneficiaries.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Contemporary trends in outcomes after heart failure hospitalization (HFH), particularly during and after the COVID-19 pandemic, are not well characterized. OBJECTIVES: This study analyzed temporal trends in outcomes after HFH among Medicare beneficiaries from 2016 to 2022. METHODS: This retrospective cohort study used national Medicare data and included patients who were hospitalized with a principal discharge diagnosis of heart failure between January 2016 and December 2022. Trends in adjusted 30-day mortality, readmission, and home time (days alive and out of health care facilities) were examined across the prepandemic (2016-2019) and postpandemic (2020-2022) periods, using generalized estimating equations stratified by sex, race/ethnicity, Medicare plan type (fee-for-service [FFS] vs Medicare Advantage), and HF subtype. RESULTS: A total of 4,957,054 HFHs were identified (mean age: 78 years; 52% female; 16% Black). Adjusted 30-day mortality declined prepandemic (9.01 to 8.38 per 100; adjusted risk/rate ratio [aRR] 2019 vs 2016: 0.93 [95% CI: 0.92-0.94]), increased in 2020 (9.13 per 100), and declined again to 8.49 per 100 by 2022 (aRR 2022 vs 2020: 0.93 [95% CI: 0.92-0.94]), remaining slightly higher than 2019. Mortality was consistently higher in men (vs women) and White (vs Black) beneficiaries. Medicare FFS (vs Medicare Advantage) beneficiaries had higher mortality rates, and the gap widened over time. One-year mortality trends were similar to 30-day mortality trends. Readmission rates declined prepandemic (aRR 2019 vs 2016: 0.98 [95% CI: 0.98-0.99]), plateaued in 2020, and declined again postpandemic (aRR 2022 vs 2020: 0.96 [95% CI: 0.95-0.97]). Readmission rates were higher in men (vs women), Black (vs White), and FFS (vs Medicare Advantage) beneficiaries. CONCLUSIONS: Among Medicare beneficiaries hospitalized for HF, outcomes improved over time in the prepandemic period, worsened or plateaued during the pandemic, and then improved again in the postpandemic period. Black patients had lower 30-day mortality but higher readmission rates. FFS beneficiaries consistently had worse outcomes compared with Medicare Advantage beneficiaries.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 8,
+  "journal": "J Am Heart Assoc",
+  "title": "Multicenter Study of the Electrical Characteristics and Short-Term Outcomes of the Aveir VR Leadless Pacemaker.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The Aveir leadless pacemaker uses an active fixation method, enabling real-time monitoring of electrical parameters during implantation. However, comprehensive studies on the electrical parameters during this procedure are rare. This study aims to analyze the electrical characteristics to further guide the implantation strategy and improve device stability and safety. METHODS: This multicenter retrospective study enrolled 119 patients (mean age, 70.18 years; 59.58% women) who received the Aveir VR leadless pacemaker from November 2024 to May 2025 at 10 centers in China. Intraprocedural variations in commanded electrogram, current of injury (COI), impedance, pacing threshold, and sensing parameters were meticulously documented. RESULTS: Commanded electrogram mapping demonstrated various morphologies (R, RS, QR, QRS, and QS), aiding localization. During fixation, 58.82% of patients exhibited an increased COI from mapping to 0.5 turns, which was associated with reduced short-term pacing thresholds. From 0.5 to 1 turn, 52.94% showed a further increase in COI. Receiver operating characteristic analysis revealed that an impedance increase has predictive value for short-term pacing thresholds, with an area under the receiver operating characteristic curve of 0.634 and a cutoff value of 230 Ω (sensitivity, 0.622; specificity, 0.41). Lead stability showed a moderate correlation with impedance increase (R=0.44, P<0.001), while the correlation with COI was weak. CONCLUSIONS: During Aveir implantation, commanded electrogram variations guide site localization. Initial COI increases (0-0.5 turns) are linked to optimal short-term thresholds. Monitoring impedance increase is vital, as a threshold of 230 Ω serves as a key indicator of device stability and fixation quality.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 9,
+  "journal": "J Am Heart Assoc",
+  "title": "Do Androgens and Sex Hormone-Binding Globulin Mediate Sex Differences in the Risk of Stroke and Myocardial Infarction? The KORA Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Sex differences in cardiovascular disease are well established, but the role of androgens and sex hormone-binding globulin (SHBG) remains unclear. We investigated whether these hormones and SHBG mediate sex differences in the risk of stroke and myocardial infarction (MI). METHODS: Observational data from the German population-based KORA (Cooperative Health Research in the Region of Augsburg) F4 study (n=1970; mean age, 54 years; 58% men) were used as baseline examination. Incident stroke and incident MI cases were identified through regular follow-ups until the end of 2016. Multivariable linear and Cox regression models were used to explore associations. Mediation analyses were performed to assess direct effects, indirect effects, and the mediating role of androgens (total testosterone, dihydrotestosterone, dehydroepiandrosterone, and dehydroepiandrosterone-sulfate) and SHBG in the association between sex (women versus men) and risk of stroke/MI. RESULTS: During a median follow-up of 8.6 years, 71 stroke and 63 MI events occurred. An inconsistent mediatory role was observed for total testosterone and dihydrotestosterone on the association between sex and risk of stroke. The direct effects were 0.42 (95% CI, 0.18-0.86) and 0.40 (95% CI, 0.17-0.82) and indirect effects were 2.48 (95% CI, 1.27-6.17) and 2.90 (95% CI, 1.67-6.35) for total testosterone and dihydrotestosterone, respectively. No mediating role was observed for other androgens or SHBG in relation to stroke, and neither androgens nor SHBG mediated the risk of MI. CONCLUSIONS: Our findings suggest that both total testosterone and dihydrotestosterone may have dimorphic mediating role with stroke risk, and that these associations may vary between men and women.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 10,
+  "journal": "JACC Cardiovasc Interv",
+  "title": "Long-Term Outcomes of Contemporary Balloon-Expandable TAVR in Bicuspid Aortic Valve: A Propensity-Matched Comparison to Tricuspid.",
+  "ptypes": [
+   "Journal Article",
+   "Comparative Study"
+  ],
+  "abstract": "BACKGROUND: Limited data are available comparing clinical outcomes between bicuspid and tricuspid patients following transcatheter aortic valve replacement (TAVR). OBJECTIVES: This study sought to investigate 5-year clinical outcomes in patients with severe aortic stenosis following TAVR with contemporary balloon-expandable valves (BEVs) in patients with bicuspid vs tricuspid leaflet morphology. METHODS: From August 2015 to December 2023, a total of 3,393 patients with native aortic stenosis who underwent TAVR with contemporary BEVs were divided into bicuspid and tricuspid groups. A 1:1 propensity score-matched analysis was performed to adjust for baseline differences. The primary endpoint was all-cause mortality at 5-year follow-up. RESULTS: Among 515 matched pairs, over a median follow-up duration of 1,511 days (Q1-Q3: 937-1825 days), there were no significant differences in all-cause mortality (13.2% vs 13.7%; P = 0.384). Heart failure rehospitalization (8.5% vs 6.8%; P = 0.622), stroke (2.4% vs 2.6%; P = 0.618), or aortic valve reintervention (0.7% vs 1.6%; P = 0.706) at 5 years was not significantly different between the groups. Ascending aortic growth rates (0.37 mm/y vs 0.31 mm/y; P = 0.578), in-hospital death (0.8% vs 1.0%; P = 0.738), valve hemodynamics through 5 years, including mean transvalvular gradients (12.0 mm Hg vs 11.5 mm Hg; P = 0.863), effective orifice area (1.35 cm2 vs 1.50 cm2, P = 0.084), and moderate or greater paravalvular leak (3.9% vs 5.6%; P = 0.578) did not differ significantly between groups. CONCLUSIONS: In propensity score-matched patients undergoing TAVR with contemporary BEVs, long-term clinical outcomes, valve performance, and ascending aortic growth rate showed no statistically significant differences between bicuspid and tricuspid groups.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 11,
+  "journal": "JACC Adv",
+  "title": "Objective and Subjective Multidimensional Sleep Health in Women After Myocardial Infarction.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Poor sleep after acute cardiovascular events is associated with increased mortality. Women are more likely than men to report sleep disturbances after cardiovascular events, but other sleep metrics linked to cardiometabolic health remain underexplored. OBJECTIVES: We characterize multiple dimensions of sleep and examine factors associated with poor sleep among women with prior myocardial infarction (MI). METHODS: Participants completed 7 nights of wrist actigraphy, which measured sleep duration, sleep efficiency, and wake after sleep onset (WASO), and sleep diary, which measured self-reported sleep quality using a Likert scale. Multivariable regression modeled associations between sociodemographic, clinical, and psychosocial characteristics and sleep measures. RESULTS: Among 94 post-MI women (median days since MI 93; IQR: 69-709), mean age was 60 years, and 67.0% identified as non-Hispanic White. The mean sleep duration was 405.1 minutes (approximately 6.8 hours), sleep efficiency 86.3%, WASO 61.6 minutes, and self-reported sleep quality 3.3, indicating fair-to-good sleep quality. Overall, 64.9% of women had short (<7 hours) or long (>9 hours) sleep duration, 33% low sleep efficiency (<85%), and 88.3% long WASO (>30 minutes). In exploratory analyses, associations with poor sleep included identifying as other than non-Hispanic White (shorter sleep duration, lower efficiency, and longer WASO), being nonpartnered (shorter sleep duration), hypertension (lower sleep efficiency), and higher depressive symptoms (lower sleep quality). CONCLUSIONS: Many women with prior MI had suboptimal sleep (short or long sleep duration, low sleep efficiency, and/or long WASO). Our results highlight the importance of discussing multiple dimensions of sleep with women post-MI to optimize cardiovascular health.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 12,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Gene-environment interactions shape cytokine-mediated inflammation and cardiovascular risk.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Chronic inflammation is a major driver of cardiovascular diseases, but mechanisms linking systemic inflammation to cardiac remodelling remain incompletely understood. We aimed to evaluate the role of cytokine-mediated signalling and the influence of environmental and genetic factors on inflammation and cardiac phenotypes in a large population-based cohort. METHODS: We analysed subsets of 488 079 UK Biobank participants with metabolomic and proteomic profiling, cardiac magnetic resonance (CMR) imaging, and longitudinal outcomes. Chronic inflammation was quantified using glycoprotein acetyls (GlycA) by nuclear magnetic resonance spectroscopy. Machine learning-based analysis extracted CMR phenotypes. Multivariable linear regression assessed GlycA-cardiac associations. Mediation analysis tested 80 inflammatory proteins as potential mediators. Cox models evaluated GlycA levels and major adverse cardiovascular events (MACEs). An exposome-wide association study identified environmental determinants of inflammation, and gene-environment interactions were assessed using multi-ancestry polygenic risk scores. RESULTS: Higher GlycA levels were associated with reduced left ventricular indexed end-diastolic volume (β=-2.09) and stroke volume (β=-1.12), with compensatory increased heart rate (β=1.38; all P<10-228). Interleukin (IL)-1 receptor antagonist statistically mediated 27% of the GlycA effect on end-diastolic volume (average causal mediated effect -0.53 [95% CI, -0.64 to -0.41]; P<10-16). The highest GlycA quintile had 43% higher MACE risk versus the lowest (adjusted HR, 1.43 [95% CI, 1.38-1.49]). Trunk fat mass (β=0.35), current smoking (β=0.39), psychological distress, and low socioeconomic status were the strongest GlycA determinants (all P<10-50). Cardiovascular polygenic risk scores modified associations between environmental exposures, inflammation, and MACE. CONCLUSIONS: Chronic systemic inflammation is associated with reduced left ventricular volumes and increased cardiovascular risk in the community, with circulating cytokines and growth factors including IL-1 and TNF identified as potential mediators of these associations. Exposure-gene interactions are associated with inflammatory responses such that risk may reflect the convergence of inherited and acquired factors.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 13,
+  "journal": "Ann Intern Med",
+  "title": "Evaluation and Management of Anemia in Chronic Kidney Disease: Synopsis of the Kidney Disease: Improving Global Outcomes 2026 Clinical Practice Guideline.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "DESCRIPTION: The Kidney Disease: Improving Global Outcomes (KDIGO) 2026 Clinical Practice Guideline for the Management of Anemia in Chronic Kidney Disease (CKD) provides an update of the 2012 version. Its scope includes anemia diagnosis and use of iron therapy, erythropoiesis-stimulating agents (ESAs), hypoxia-inducible factor-prolyl hydroxylase inhibitors (HIF-PHIs), and red blood cell (RBC) transfusions to treat anemia in CKD. METHODS: An international work group of patient partners, health care professionals, researchers, and clinicians defined the guideline scope. An independent evidence review team conducted systematic reviews through October 2024 and graded the certainty of evidence using the GRADE (Grading of Recommendations Assessment, Development and Evaluation) approach. The final guideline incorporated feedback from a public review involving registered stakeholders in late 2024. RECOMMENDATIONS: This synopsis focuses on the 8 graded recommendations. Key points include the use of transferrin saturation and ferritin thresholds to guide iron therapy, with intravenous iron preferred over oral iron in people receiving hemodialysis; addressing correctable causes of anemia before use of an ESA or a HIF-PHI; using an ESA rather than a HIF-PHI as first-line treatment; individualized hemoglobin (Hb) thresholds for ESA initiation based on patient characteristics, symptoms, and values; and an upper Hb target of below 11.5 g/dL (<115 g/L) during ESA maintenance therapy. The guideline also includes 49 practice points representing expert consensus where robust evidence was limited or systematic review could not be conducted.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 14,
+  "journal": "Circ Heart Fail",
+  "title": "Cardiogenic Shock Management: A Framework for Individualized Microaxial Flow Pump Support.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Cardiogenic shock (CS) is a highly heterogeneous syndrome with persistently high mortality despite advances in therapies, including temporary mechanical circulatory support. The disparate results of trials on temporary mechanical circulatory support in CS suggest that improved strategies, including better patient selection, are needed in the context of CS heterogeneity. Notably, a microaxial flow pump device has recently shown a survival benefit in ST-segment-elevation myocardial infarction-associated CS in the DanGer Shock trial (Danish-German Cardiogenic Shock), marking a positive outcome amid many negative or neutral trials. As CS phenotyping becomes increasingly important for developing tailored therapeutic strategies, it is essential to identify factors contributing to variable phenotypes, including shock severity, cause, hemodynamic profile, ventricular function, shock pattern, and patient-centered factors that may influence microaxial flow pump candidacy. Successful CS management with a microaxial flow pump may be best guided by an individualized and proactive approach, tailored to each patient's risk profile and clinical course. It is rational to implement this strategy at centers capable of providing and managing advanced temporary mechanical circulatory support options while determining candidacy for advanced heart failure therapies. Our review underscores the importance of CS phenotyping and tailoring temporary mechanical circulatory support-particularly microaxial flow pump support-to patient-specific factors that are central to optimizing outcomes in CS management.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 15,
+  "journal": "Eur Heart J Cardiovasc Imaging",
+  "title": "ESC vs. ACC/AHA Guidelines for Non-Invasive Imaging in Chronic Coronary Disease: Guideline Discordance, Gaps, and Future Directions.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Chronic coronary disease remains a complex condition for which non-invasive imaging is central to diagnosis, risk stratification, follow-up, and management. An understanding of contemporary clinical practice guidelines is critical to appropriate test selection, avoidance of low-value testing, and individualized care. This review compares the contemporary European Society of Cardiology guidelines and the American College of Cardiology/American Heart Association guidelines regarding non-invasive imaging for chronic coronary disease/syndromes. METHODS AND RESULTS: The European and American guidelines are broadly concordant in supporting clinical likelihood assessment before testing, selective use of coronary computed tomography angiography (CCTA) and functional imaging, and avoidance of routine surveillance testing in clinically stable patients. However, several distinctions emerge. First, the European guideline provides a more prescriptive diagnostic algorithm for suspected chronic coronary syndromes, using pre-test likelihood thresholds to guide deferral of testing, CCTA, functional imaging, and invasive angiography, whereas the American guideline is more focused on established chronic coronary disease, symptom change, functional decline, and whether testing will alter management. Second, the European guideline assigns a stronger early role to CCTA, particularly in low-to-moderate likelihood patients, and provides more high-risk anatomic and ischemic imaging thresholds. Third, the guidelines differ in the positioning of exercise electrocardiography and in the diagnostic evaluation of angina or ischemia with non-obstructive coronary arteries, microvascular angina, and vasospastic angina. CONCLUSION: The latest ESC guideline remains more diagnosis-forward and algorithmic, whereas the ACC/AHA guideline is more management-forward and symptom-driven. These differences may influence imaging selection, repeat testing, and evaluation of non-obstructive coronary syndromes.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 16,
+  "journal": "Heart Rhythm",
+  "title": "Velocity Vector Analysis for Slowly Conducting Anatomical Isthmuses in Patients with Tetralogy of Fallot.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Slowly conducting anatomical isthmuses (SCAI) represent the main substrate for ventricular arrhythmias (VAs) in tetralogy of Fallot (TOF). However, the optimal conduction velocity (CV) threshold and the best approach for measurements remain to be determined. OBJECTIVE: This study aimed at evaluating a new method for CV analysis. METHODS: This single-center retrospective study included consecutive patients with TOF undergoing right ventricular electroanatomic activation mapping. CV across anatomical isthmus 3 was assessed using both automated Local Activation Time Velocity Vector (LVV) analysis and conventional manual measurements. The primary outcome was inducibility of sustained monomorphic ventricular tachycardia (SMVT). RESULTS: A total of 44 patients were included (mean age 44.6±13.8 years, 56.8% males). Overall, a SMVT was inducible in 23 (52.3%) patients, including 12/14 (85.7%) patients referred for catheter ablation of VT (history of clinical VT) and 11/30 (36.7%) patients referred for EPS without spontaenous VT. LVV-CV demonstrated a strong correlation with manual measurements (r = 0.81). The optimal cutoff value of LVV-CV based on the Youden index was 0.5 m/s. AUC, sensitivity, and specificity were 0.81, 0.96, and 0.71 using LVV-CV vs. 0.75, 0.57, and 0.81 using manual CV measurements, respectively. LVV analysis reduced the number of classification errors from 14 (31.8%) cases with manual CV measurement to 7 (15.9%) cases when LVV-CV was used. CONCLUSION: This novel, reproductible, and easy-to-use LVV-based approach to CV measurement for substrate evaluation in patients with TOF suggest that LVV-CV provides superior discriminative performance compared with manual CV measurements for identifying SCAIs associated with SMVT inducibility. Further studies are warranted to evaluate this approach in larger populations.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 17,
+  "journal": "Circ Cardiovasc Interv",
+  "title": "Minicrush or T-Stenting and Minimal Protrusion in Complex Coronary Bifurcation Lesions: The Multicenter TREX Registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Percutaneous coronary intervention of complex coronary bifurcation lesions frequently requires an upfront 2-stent strategy. Although the double kissing crush technique has been extensively studied, limited contemporary data are available comparing alternative 2-stent approaches, particularly Minicrush and T-stenting and minimal protrusion (TAP), in complex bifurcation anatomy. This study aimed to compare procedural characteristics and long-term clinical outcomes of Minicrush versus TAP stenting techniques in patients undergoing percutaneous coronary intervention for complex coronary bifurcation lesions. METHODS: The TREX registry is a multicenter, retrospective cohort study including consecutive patients treated with an upfront 2-stent strategy using Minicrush or TAP between November 2015 and April 2025. The primary end point was target lesion failure. Secondary end points included major adverse cardiac events and definite or probable stent thrombosis. Clinical outcomes were assessed for up to 10 years. RESULTS: Among 601 screened patients, 469 (78%) underwent an upfront 2-stent strategy (Minicrush: n=257; TAP: n=212). TLF occurred in 10.4% of patients, with no significant differences between groups at 1, 5, or 10 years. Major cardiovascular event rates were also comparable across all time points. In multivariable analyses, distal left main involvement and severe coronary calcification were the strongest predictors of TLF, whereas reduced left ventricular ejection fraction was the main predictor of major cardiovascular events. Definite or probable stent thrombosis occurred more frequently with TAP than with Minicrush (5.7% versus 0.8%; P<0.01). CONCLUSIONS: Minicrush and TAP provide comparable long-term efficacy in complex coronary bifurcation percutaneous coronary intervention; however, Minicrush is associated with a lower risk of stent thrombosis, suggesting a more favorable safety profile. REGISTRATION: URL: https://clinicaltrials.gov/; Unique Identifier: NCT06484647.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 18,
+  "journal": "JACC Cardiovasc Imaging",
+  "title": "Myocardial Tissue Characterization by CMR Captures Mechanistic Severity Beyond Filling Pressure in HFpEF: The Multicenter DECIPHER HFpEF Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Diastolic dysfunction (DD) in heart failure with preserved ejection fraction (HFpEF) reflects active relaxation (τ) and passive stiffness (β), conflated by end-diastolic pressure (EDP) and potentially requiring different therapies. Whether cardiac magnetic resonance (CMR) tissue mapping captures these beyond filling pressure is unknown. OBJECTIVES: This study aims to determine whether CMR tissue mapping (native T1 corrected for field strength and scanner [T1c], native T2 corrected for field strength and scanner [T2c]) captures τ and β as markers of mechanistic severity in HFpEF beyond EDP. METHODS: In this prospective multicenter study, patients with suspected HFpEF underwent CMR with sequence-corrected tissue mapping and invasive pressure-volume loop analysis. HFpEF was defined as EDP ≥16 mm Hg (n = 52). Age- and sex-matched control patients (n = 32) and healthy volunteers (n = 18) provided cross-group context. Eighteen catheterized symptomatic patients with normal resting EDP underwent handgrip provocation for a continuum analysis. Partial correlations adjusted T1c-β and T2c-τ associations for EDP. RESULTS: T1c and T2c differed between HFpEF and matched control patients (Cliff's δ 0.74 and 0.80; both P < 0.001). Within HFpEF, T1c correlated with β (partial ρ = 0.47; P = 0.003) and T2c with τ (ρ = 0.35; P = 0.018), both conditional on EDP. Exploratory partitioning around medoids clustering on τ and β identified 2 phenotypes (mild DD [n = 24], severe DD [n = 28]; adjusted Rand index: 0.78) that separated T1c and T2c (both P < 0.001), whereas an EDP median split did not, consistent with tissue mapping reflecting mechanistic severity beyond filling pressure. CONCLUSIONS: In invasively characterized HFpEF, CMR tissue mapping captures active relaxation impairment and passive stiffness conditional on filling pressure, robust to clinical covariate adjustment. The exploratory 2-phenotype partition is hypothesis-generating; prospective external validation, including treatment-response data, is required before clinical stratification. (Validation of CMR Against Invasive Heamodynamics in Patients With HFpEF [DECIPHER HFpEF]; NCT03251183).",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 19,
+  "journal": "JACC Adv",
+  "title": "The LEDA Score: An Integrated Echocardiographic Score for the Diagnosis of HFpEF.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Diagnosis of heart failure with preserved ejection fraction (HFpEF) remains challenging because clinical findings may not reflect hemodynamic disease expression. OBJECTIVES: The aim of the study was to evaluate the diagnostic performance of LEDA (Left ventricular concentricity, E/e', left ventricle-to-left atrium Diastasis volume ratio, left Atrial reservoir function), an integrated echocardiographic score, for identifying HFpEF and elevated left-sided filling pressure (LSFP). METHODS: In this prospective single-center study, 171 selected patients with unexplained dyspnea underwent echocardiography and an invasive hemodynamic assessment within 24 hours. HFpEF was defined by symptoms or signs of heart failure with elevated levels of N-terminal pro-B-type natriuretic peptide and/or invasively measured LSFP ≥15 mm Hg. LEDA integrates left ventricular concentricity, E/e', left ventricular-left atrial diastasis coupling, and left atrial reservoir function. Diagnostic performance was compared with H2FPEF (Heavy, Hypertensive, Atrial fibrillation, Pulmonary hypertension, Elder, Filling pressure score) and HFA-PEFF (Heart Failure Association Pre-test assessment, Echocardiography & natriuretic peptide, Functional testing, Final etiology diagnostic algorithm); 2025 American Society of Echocardiography diastolic criteria were analyzed as an echocardiographic filling-pressure framework rather than as a standalone HFpEF diagnostic score. RESULTS: HFpEF was present in 42% of patients. LEDA showed higher discrimination for HFpEF than for H2FPEF, HFA-PEFF, and American Society of Echocardiography criteria, with area under the curve of 0.85, 0.74, 0.74, and 0.61, respectively (P ≤ 0.010). At LEDA ≥3, the positive likelihood ratio was 7.4, compared with 3.0, 1.8, and 1.6, respectively. For invasive LSFP endpoints, LEDA achieved area under the curve up to 0.90, specificity up to 95.5%, and positive likelihood ratio up to 16.3. CONCLUSIONS: In this selected cohort undergoing an invasive hemodynamic assessment for diagnostic uncertainty, LEDA showed stronger diagnostic performance than contemporary HFpEF diagnostic algorithms and an echocardiographic filling-pressure framework. External validation is required before application to broader outpatient populations.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 20,
+  "journal": "Rev Esp Cardiol (Engl Ed)",
+  "title": "Spanish pacemaker registry. 23rd official report of the Heart Rhythm Association of the Spanish Society of Cardiology (2025).",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "INTRODUCTION AND OBJECTIVES: This report presents data on cardiac pacing system implantation in Spain in 2025. METHODS: The registry is based on information provided by implanting centers to the Heart Rhythm Association of the Spanish Society of Cardiology following device implantation, through the national online registry platform, CardioDispositivos. Additional sources of information included: a) data provided by device manufacturers and distributors; b) the European pacemaker patient identification card; and c) local databases submitted by implanting centers. RESULTS: A total of 136 hospitals participated in the registry, 8 more than in 2024, and 26 130 devices were reported (1% fewer than in 2024). These accounted for 53% of all device implantations billed in Spain, with considerable geographical variation. The number of cardiac resynchronization therapy devices remained stable, whereas implantation of leadless pacemakers increased markedly (+ 62%). The most frequent indication was atrioventricular block, and the most commonly used pacing mode was DDD/R. Left bundle branch area pacing was reported in 27.3% of implants, and the axillary venous approach was used more often than the subclavian approach. Remote monitoring continued to increase overall, although its use declined for leadless pacemakers and cardiac resynchronization defibrillators. CONCLUSIONS: Participation in the Spanish pacemaker registry has stabilized, with data reported for 53% of implanted devices. The continued uptake of emerging therapies, such as conduction system pacing and leadless pacemaker implantation, is particularly noteworthy. Substantial geographical variation persists across all pacing modalities.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 21,
+  "journal": "JACC Adv",
+  "title": "Ventricular Strain Predicts the Risk of Right Heart Failure After Durable Left Ventricular Assist Device Implantation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Right heart failure (RHF) is prevalent after left ventricular assist device (LVAD) implantation and associated with poor short- and long-term outcomes. The interaction of the right ventricle (RV) with its afterload before LVAD implantation may impact the incidence of RHF. OBJECTIVES: The aim of the study was to investigate RV pulmonary artery (RVPA) coupling indexes derived from fusing myocardial strain imaging and invasive hemodynamics for their potential to predict RHF or the need for an RV assist device (RVAD). METHODS: Patients (N = 288) underwent a retrospective imaging analysis to yield RVPA coupling indexes fused from right ventricle free-wall (RVFW) strain or right ventricle global longitudinal strain (RVGLS) with systolic pulmonary artery pressure (sPAP). Multivariable logistic regression models considering the RVPA indexes and standard hemodynamics were assessed to predict: 1) the need for an RVAD; and 2) RHF. RESULTS: Eighty-two patients (28.5%) developed RHF, and 52 (18.1%) required a temporary RVAD. Reduced RVFW strain (OR: 1.37; 95% CI: 1.23-1.55; P < 0.001) and RVGLS strain (OR: 1.55; 95% CI: 1.34-1.83; P < 0.001) were associated with the need for an RVAD. RVPA coupling defined by RVFW/sPAP (OR: 0.03-4; 95% CI: 0.03-6 to 0.01-2; P < 0.001) and by RVGLS/sPAP (OR: 0.09-6; 95% CI: 0.01-9 to 0.06-4; P < 0.001) were both associated with the need for an RVAD. The multivariable model with the highest predictive accuracy consisted of RVFW strain and pulmonary artery pulsatility index, yielding an area under the curve of 0.850 with a sensitivity of 88.6% and a specificity of 71.3%. CONCLUSIONS: RVFW strain and coupling indexes derived from catheterization and echocardiographic RV strain imaging can aid with the need for an RVAD and RHF risk stratification following LVAD implantation.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 22,
+  "journal": "Circ Heart Fail",
+  "title": "Node-Based Framework for Regionalized Cardiogenic Shock Systems of Care: Evidence, Design, and Future Directions.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Cardiogenic shock (CS) is a cardiovascular emergency with short-term mortality ranging from 30% to 40% despite an expanding therapeutic armamentarium. Structured systems of care have transformed outcomes in ST-segment-elevation myocardial infarction, stroke, and out-of-hospital cardiac arrest through tiered hospital designations, standardized protocols, and regionalized networks, yet no analogous framework exists for CS. CS differs from these conditions in ways that complicate direct application of existing models: the appropriate intervention varies by cause, hemodynamic phenotype, and shock severity; the therapeutic trajectory is iterative and uncertain rather than binary and time-fixed; prehospital identification is rarely feasible; and the exit strategy, encompassing myocardial recovery, durable mechanical support, transplantation, or palliation, has no parallel in other cardiovascular emergencies. Observational data suggest an association between structured multidisciplinary care, regionalized networks, and more consistent care delivery though causal relationships remain unestablished, and no standardized national framework for CS center designation yet exists. We propose that CS systems of care should be organized around a node-based model in which each hospital tier has a defined role, transfer is guided by physiological trajectory and exit strategy candidacy rather than geography, and system performance is evaluated by metrics of timing, outcomes, and equity. The American Heart Association Cardiogenic Shock Registry, designed to enroll consecutive patients across all etiologies and severity levels, represents the natural infrastructure around which this framework can be constructed. Realizing this vision will require dedicated registries, implementation research, and a definition of success that extends beyond in-hospital survival to encompass recovery, function, and equitable access to care.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 23,
+  "journal": "Rev Esp Cardiol (Engl Ed)",
+  "title": "Spanish implantable cardioverter-defibrillator registry. 22nd official report of the Heart Rhythm Association of the Spanish Society of Cardiology (2025).",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "INTRODUCTION AND OBJECTIVES: This article presents data on implantable cardioverter-defibrillator (ICD) implantation in Spain in 2025. METHODS: The registry is based on data submitted by participating centers after device implantation to the Spanish Society of Cardiology Heart Rhythm Association registry through CardioDispositivos, the online platform of the national registry. Additional data sources included: a) data provided by device manufacturers and distributors; b) local databases submitted by implanting centers; and c) the ICD Technical Report. Implantation rates were calculated using population data from the Spanish National Institute of Statistics. RESULTS: In 2025, 200 hospitals participated in the registry. A total of 8637 devices were reported, compared with 9076 reported by Eucomed (European Confederation of Medical Suppliers Associations). The overall implantation rate was 182 implants per million inhabitants (the second highest in the history of the registry), with substantial variation among the autonomous communities. Only 18% of ICD implantations were performed in women. CONCLUSIONS: The registry data for 2025 reflect virtually all ICD implantations performed in Spain. The number of implantations remained close to the highest levels recorded to date, although marked differences persisted among the autonomous communities.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 24,
+  "journal": "Nat Cardiovasc Res",
+  "title": "Age-associated loss of lymphatic vessels promotes cardiac inflammation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Aging is a major risk factor for cardiovascular disease, but the role of the cardiac lymphatic vasculature in this process remains poorly understood. Here we show that aging reduces cardiac lymphatic vessel density in humans and mice and induces structural remodeling characterized by tighter, zipper-like endothelial junctions. These changes are associated with immune cell infiltration, fibrinogen and amyloid accumulation, and myocardial edema. Selective reduction of cardiac lymphatics in young mice, through Flt4 (VEGFR3) depletion or soluble Flt4 overexpression, recapitulates key features of cardiac aging, including inflammation and impaired lymphatic integrity. Mechanistically, aging induces selective upregulation of nuclear interleukin-33 (IL-33) in lymphatic endothelial cells. Unlike extracellular IL-33, nuclear IL-33 promotes lymphatic endothelial cell death and junctional remodeling. We identify VEGFC as an age-sensitive regulator that declines with aging and suppresses IL-33. Cardiac Vegfc overexpression or Il33 silencing restores lymphatic density and tissue homeostasis in aged hearts, identifying a potential therapeutic target for age-related cardiac dysfunction.",
+  "oblig": false,
+  "noabs": false
+ }
+]

@@ -1,0 +1,280 @@
+[
+ {
+  "idx": 25,
+  "journal": "Circ Res",
+  "title": "Cytomegalovirus Latency Fuels Inflammation Following Myocardial Infarction.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Epidemiological studies have consistently associated cytomegalovirus (CMV) seropositivity with adverse cardiovascular outcomes. However, the mechanisms by which cytomegalovirus infection impacts pathophysiology in the heart remain poorly understood. In this study, we sought to dissect how latent murine cytomegalovirus infection impacts cardiac immune cell dynamics at steady-state and during postmyocardial infarction (MI) repair. METHODS: Experimental MI studies were conducted in C57BL/6J mice previously infected with murine cytomegalovirus. In situ inflammatory responses were characterized by spectral flow cytometry, bulk and single-cell RNA/T-cell receptor (TCR) sequencing, whereas cardiac function was monitored by echocardiography and cardiac magnetic resonance imaging. Moreover, we retrospectively assessed the cytomegalovirus serostatus and associated T-cell expansions in a well-characterized patient cohort with longitudinal cardiac magnetic resonance imaging data available and performed bulk TCR sequencing on peripheral blood and myocardial samples to identify cytomegalovirus-specific TCRs. RESULTS: Our findings show that exposure to murine cytomegalovirus induces long-term changes in the cardiac transcriptional profile and alterations in various cardiac-resident immune cell populations, including the establishment of virus-specific memory CD8+ T-cell residency. Compared with infarcted controls, mice previously exposed to murine cytomegalovirus exhibited stronger inflammatory responses marked by increased CD8+ T-cell infiltration and worsened cardiac function following MI. These observations in mice were supported by data from patients with cytomegalovirus seropositive MI, who harbored cytomegalovirus-responsive T cells in the heart. CONCLUSIONS: Our findings demonstrate that latent cytomegalovirus infection leads to long-term changes in the cardiac microenvironment, which ultimately impair post-MI healing outcomes.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 26,
+  "journal": "Hypertension",
+  "title": "Antihypertensive Treatment and Risk of Metabolic Associated Fatty Liver Disease: A Drug-Target Mendelian Randomization.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Metabolic dysfunction-associated fatty liver disease, conventionally known as nonalcoholic fatty liver disease (NAFLD), affects over a quarter of the global population and lacks approved pharmacological treatments. We investigated whether elevated blood pressure (BP) is a modifiable risk factor for NAFLD and whether antihypertensive drugs could be repurposed for prevention. METHODS: We conducted whole-genome Mendelian randomization using genetic data from over 1 million individuals of European ancestry to assess systolic BP as a risk factor for NAFLD. Drug-target Mendelian randomization was used to investigate the class-specific effects of antihypertensive agents, including renin-angiotensin system inhibitors, β-blockers, calcium channel blockers, and diuretics. NAFLD was defined by persistently elevated alanine aminotransferase levels after excluding alternative liver diseases and alcohol use disorders. Genetic estimates were compared with individual-participant meta-analyses of randomized controlled trials (n=358 636) and summary data from 104 antihypertensive drug trials (≈500 000 participants), using coronary heart disease as a positive control. RESULTS: A genetically proxied 5-mm Hg reduction in systolic BP was associated with an 8% lower risk of NAFLD (odds ratio, 0.92 [95% CI, 0.90-0.94]). Renin-angiotensin system inhibition was associated with a 27% lower risk (odds ratio, 0.73 [95% CI, 0.62-0.85]), whereas other drug classes showed no substantial associations. For coronary heart disease, effects were directionally consistent across classes in genetic and trial analyses. CONCLUSIONS: Genetically lower systolic BP is associated with reduced NAFLD risk, with renin-angiotensin system inhibition showing the most favorable association. These findings support BP lowering, particularly renin-angiotensin system inhibition, as a potential preventive strategy warranting dedicated randomized trials.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 27,
+  "journal": "JACC Adv",
+  "title": "Coronary Plaque Burden in South Asian Adults: Insights From the DILWALE Registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: South Asian (SA) adults have disproportionately high rates of premature coronary artery disease, yet conventional risk calculators may not fully capture coronary plaque burden. OBJECTIVES: We analyzed the DILWALE (DIL Wellness and Arterial Health Longitudinal Evaluation) registry to quantify coronary plaque burden using computed tomography angiography (CTA) and compare it across risk categories using the 10-year atherosclerotic cardiovascular disease (ASCVD) risk calculator and American Heart Association PREVENT-ASCVD Calculator. METHODS: The DILWALE study is a medical record-based multicenter registry of SA adults (≥18 years) within Baylor Scott & White Health system. Patients who underwent clinically indicated coronary CTA were included and were risk stratified based on the PREVENT-ASCVD and Pooled Cohort Equations (PCE) risk scores. Quantitative plaque analysis was done using HeartFlow's plaque analysis tool to evaluate the association among PCE, PREVENT, and plaque burden. RESULTS: A total of 341 SAs were included. Among individuals stratified by the PREVENT score, median total plaque volume rose from 0 mm3 in the low-risk group (<5% 10-year predicted ASCVD risk) to 34 mm3, 161 mm3, and 161 mm3 in the borderline- (5%-7.4%), intermediate- (7.5%-19.9%), and high-risk (≥20%) groups, respectively (P < 0.0001). In the PCE cohort, median total plaque volume increased from 1 mm3 in the low-risk group to 91 mm3, 122 mm3, and 215 mm3 in the borderline-, intermediate-, and high-risk groups, respectively (P < 0.0001). CONCLUSIONS: In this SA cohort, higher PREVENT and ASCVD/PCE risk categories were associated with higher plaque burden. CTA reveals substantial noncalcified plaque missed by calcium scoring, underscoring its value for anatomic risk in SA adults.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 28,
+  "journal": "JACC Adv",
+  "title": "Effect of Yoga on Ventricular Premature Complex Burden and Quality of Life: The VPC-Yoga Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Ventricular premature complexes (VPCs) are common cardiac arrhythmias with prognostic significance depending on clinical context and arrhythmia burden. Yoga modulates autonomic tone and may improve cardiac dysautonomia, including arrhythmias, while enhancing quality of life (QoL). OBJECTIVES: The objective of the study was to evaluate the efficacy of adjunctive yoga-based intervention on VPC burden, QoL, and left ventricular ejection fraction in patients with frequent VPCs. METHODS: In this single-center, prospective, randomized controlled trial, 134 patients with frequent VPCs (burden ≥5% on 24-hour Holter monitoring) were randomized (1:1) to a structured yoga intervention (n = 67) or standard care (n = 67) and followed for 24 weeks. The primary outcome was change in VPC burden. Secondary outcomes included QoL (36-Item Short Form Survey), left ventricular ejection fraction, major adverse cardiac and cerebrovascular events, psychological outcomes (Depression, Anxiety and Stress Scale-21 Items), and heart rate variability. RESULTS: The baseline VPC burden was higher in the control group than in the yoga group (21.06 [10.48-34.67] vs 13.02 [8.87-21.60]). At 6 weeks, both groups demonstrated a reduction in VPC burden (control: 19.19 [7.50-30.70]; yoga: 11.62 [5.83-21.59]). A statistically significant between-group difference was observed at 12 weeks (P = 0.02). At 24 weeks, the yoga group showed significantly better 36-Item Short Form Survey scores across all domains and Depression, Anxiety and Stress Scale-21 Items scores. CONCLUSIONS: Yoga as an adjunct therapeutic modality reduced VPC burden and improved QoL and psychological burden in patients with frequent VPCs. It may be useful to integrate a cost-effective, nonpharmacological intervention like yoga in the management of patients with frequent VPCs. (Effect of Yoga-based intervention on VPC burden, quality of life and LV functions in patients with Ventricular premature complexes [VPC]: A Randomized controlled Trial; CTRI/2021/06/034450).",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 29,
+  "journal": "J Am Heart Assoc",
+  "title": "Real-World Effectiveness of Evolocumab in Reducing Major Adverse Cardiovascular Events: A Cohort Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Evolocumab reduces major adverse cardiovascular events in randomized trials, but evidence of its effectiveness in real-world clinical practice remains limited. METHODS: US adults with atherosclerotic cardiovascular disease who initiated evolocumab between 2017 and 2023 were identified from the Komodo Healthcare Map. At day 75 after initiation (index date), patients were classified as treated (remained on evolocumab) or nontreated (discontinued evolocumab before day 75). Patients were followed until the earliest of outcome occurrence, evolocumab discontinuation (treated group) or reinitiation (nontreated group), insurance disenrollment, end of database, or death. The primary outcome was a composite of myocardial infarction, stroke, or coronary revascularization; the secondary outcome was a composite of myocardial infarction, stroke, or cardiovascular disease death. Four-year cumulative incidence, risk ratios (RR), and 95% CIs were estimated, adjusting for confounders and informative censoring using inverse probability of treatment and censoring weights. Negative control outcomes were used to assess residual confounding before initiating comparative outcome analyses. RESULTS: After weighting, baseline characteristics were well balanced between treated (n=87 102) and nontreated (n=24 609) groups. At 4 years, treated patients had a 20% lower risk of the primary outcome (RR, 0.80 [95% CI, 0.73-0.86]) and a 29% lower risk of the secondary outcome (RR, 0.71 [95% CI, 0.64-0.78]) compared with nontreated patients. CONCLUSIONS: In a large, diverse, real-world population with atherosclerotic cardiovascular disease, evolocumab use was associated with significant reductions in major adverse cardiovascular events, supporting the effectiveness of guideline-recommended PCSK9 (proprotein convertase subtilisin/kexin type 9) inhibitor therapy in routine clinical practice.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 30,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Strenuous Exercise Elicits Sex-Specific Cardiovascular Maladaptation in a Rodent Model: Atrial Fibrillation and Vascular Risk in Females.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: We aimed to investigate in a rodent model whether the detrimental cardiovascular effects of chronic strenuous exercise observed in males (atrial fibrillation, right ventricle and vascular maldaption) also occur in females. METHODS: Male and female Wistar rats underwent a 16-week high-intensity treadmill regimen or remained sedentary. Structural and functional cardiac parameters were assessed through echocardiography, electrocardiography, invasive hemodynamics, histology, molecular biology, and transcriptomic profiling. RESULTS: Exercise induced comparable physiological left ventricular remodeling in both sexes, alongside systolic and diastolic right ventricular dysfunction. Notably, females developed atrial fibrosis and exhibited a similar propensity for atrial fibrillation as their male counterparts. However, transcriptional remodeling in the atria was sex- and chamber-specific, with exercise-induced gene expression changes being more pronounced in the left atrium of females. In the vasculature, sedentary females displayed superior endothelial function, but unlike males, failed to improve after training. Furthermore, exercised females developed tunica media fibrosis without accompanying oxidative stress, suggesting divergent mechanisms of vascular injury. Plasma proteomic profiling at rest identified Ccl20 as a candidate biomarker of exercise-induced cardiovascular damage; acute post-exercise responses revealed numerous sex-specific alterations in circulating biomarkers, including those associated with inflammation and fibrosis. CONCLUSIONS: Females engaged in regular strenuous endurance exercise are at an increased risk of atrial fibrillation and vascular harm, similar to males. However, underlying mechanisms and phenotypic expressions are strongly sex-dependent. These findings highlight the importance of incorporating sex-specific approaches into the diagnostic and prognostic evaluation of cardiovascular adaptations and risks associated with endurance training.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 31,
+  "journal": "Rev Esp Cardiol (Engl Ed)",
+  "title": "Spanish heart transplant registry. 37th official report of the Heart Failure Association of the Spanish Society of Cardiology.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "INTRODUCTION AND OBJECTIVES: The Spanish Heart Transplant Registry is updated annually with data on all heart transplants (HTs) performed in Spain. This report includes data through 2025. In particular, it analyzes the main characteristics of HTs performed over the past decade (2016-2025). METHODS: We performed a descriptive analysis of recipient and donor characteristics, surgical procedures, and follow-up events, as well as their temporal trends since 2016. Data were collected prospectively using a standardized electronic data collection form. RESULTS: In 2025, 390 HTs were performed, the highest annual number recorded in the registry, with 7% performed in pediatric recipients. Since 2016, significant trends have been observed toward lower rates of respiratory disease, previous cardiac surgery, mechanical ventilation, and serum bilirubin levels before HT, together with increased use of extracorporeal membrane oxygenation as pretransplant support. Donors were younger, and ischemic times were shorter. The use of controlled donation after circulatory death increased markedly, accounting for 35% of all HTs performed in 2025. Survival improved (85.5% at 1 year among patients transplanted in 2022-2024), and early mortality (within 30 days) declined to 7.5% in 2025 despite a significant increase in the incidence of severe primary graft dysfunction. CONCLUSIONS: HT activity has increased over the past 5 years, largely driven by the growing use of controlled donation after circulatory death. The improvements in early and mid-term survival are confirmed.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 32,
+  "journal": "Hypertension",
+  "title": "Neuroimaging in Hypertension: A Multifaceted Approach to Investigate the Brain.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "The brain is the most metabolically demanding organ, whose integrity and homeostasis are highly sensitive to changes in blood perfusion. Cerebrovascular alterations are therefore major drivers in the development of neurodegenerative diseases and cognitive impairment. Among cardiovascular conditions, hypertension is associated with a wide spectrum of structural and functional brain changes, being a major risk factor for dementia. The multitude of cerebrovascular alterations and consequent injuries linked to hypertension covers distinct, yet interdependent, brain aspects, from modifications in vascular morphology and hemodynamics to features of white matter or cortical damage, eventually leading to disruption of brain activity and cognitive decline. Neuroimaging approaches probe structural properties of brain tissue and vasculature, as well as cerebral perfusion and function, enabling the investigation of hypertension-induced alterations in a minimally invasive manner. In this review, we navigate through neuroimaging techniques that have been employed to study the impact of hypertension on the brain. Particularly, we highlight how these modalities can provide a multifaceted characterization of cerebral injury in hypertension, thus clarifying its relationship with structural, functional, and homeostatic brain properties.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 33,
+  "journal": "Heart",
+  "title": "European Infective Endocarditis (EURO-ENDO) score for predicting 30-day mortality in left-sided infective endocarditis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: A major challenge in managing left-sided infective endocarditis (LSIE) is identifying patients who will benefit from surgery including those with prohibitive operative risk. However, no widely validated models are currently available to estimate 30-day mortality early after the initial diagnostic evaluation in the broader LSIE population including patients managed without surgery. We aimed to develop and externally validate the European Infective Endocarditis (EURO-ENDO) risk score for predicting 30-day mortality in patients with LSIE. METHODS: The prospective, multicentre European Society of Cardiology (ESC)-EURObservational Research Programme EURO-ENDO registry included 2171 patients with LSIE diagnosed according to ESC 2015 criteria. Clinical, biological, microbiological and imaging variables were analysed and a multivariable logistic regression model was developed. Internal validation was performed using bootstrap resampling. External validation was conducted in an independent temporal cohort of 377 consecutive patients with LSIE from two tertiary centres in Barcelona, Spain, recruited between 2019 and 2024. RESULTS: Among 2140 registry patients included in the final analysis, 254 (11.9%) died within 30 days. Eleven variables were independently associated with 30-day mortality and included in the EURO-ENDO prediction model: previous stroke or transient ischaemic attack, previous cardiac surgery, heart failure or cardiogenic shock, creatinine >2 mg/dL, vegetations >10 mm, severe regurgitation, abscess, negative blood cultures, Staphylococcus aureus infection, absence of surgical indication and surgical indication without intention to operate. The model showed good discrimination and calibration (area under the receiver operating characteristic (AUROC) 0.763; Hosmer-Lemeshow p=0.825; Brier score 0.09). In the external validation cohort, 48/377 patients (12.7%) died; discrimination remained excellent (AUROC 0.799; 95% CI 0.730 to 0.868) with good calibration (slope 1.017; expected-to-observed ratio 1.124). CONCLUSIONS: The EURO-ENDO risk score, incorporating 11 variables available during the initial diagnostic evaluation, accurately predicts individualised 30-day mortality in patients with LSIE and showed consistent performance in both internal and external validation cohorts. This tool may support early risk stratification, multidisciplinary endocarditis team discussions and clinical decision-making (https://scoreei.web.app/score).",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 34,
+  "journal": "Eur Heart J",
+  "title": "Whole-grain consumption and cardiometabolic risk: a meta-analysis of randomized trials.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: Evidence suggests that higher whole-grain intake is associated with lower cardiometabolic disease risks, but underlying mechanisms remain unclear. METHODS: Randomized trials evaluating the effects of whole grains on cardiometabolic risk factors were included. Random-effects meta-analyses were used to estimate mean differences (MDs) with 95% confidence intervals (CIs) per 48 g/day increment of whole grains (dry weight; equivalent to ∼90 g or 3 servings of fresh weight). RESULTS: Eighty-seven trials (101 publications) were included. Each 48 g/day whole-grain intake was associated with reductions in body weight (MD: -.20 kg; 95% CI: -.31 to -.09; n = 41), waist circumference (-.22 cm; 95% CI: -.39 to -.06; n = 27), total cholesterol (-.10 mmol/L; 95% CI: -.13 to -.07; n = 54), and interleukin-6 (MD: -.12 pg/mL; 95% CI: -.23 to -.00; n = 12), with high certainty; low-density lipoprotein cholesterol (-.07 mmol/L; 95% CI: -.10 to -.05; n = 52), triglycerides (-.04 mmol/L; 95% CI: -.06 to -.02; n = 52), fasting plasma glucose (-.03 mmol/L; 95% CI: -.06 to -.00; n = 44), and systolic blood pressure (-.82 mmHg; 95% CI: -1.49 to -.15; n = 32), with moderate certainty. Non-linear analyses indicated greatest effects at 60-100 g/day for most outcomes, but at higher intakes (up to 180-220 g/day) for a few outcomes. CONCLUSIONS: Whole-grain intake was associated with improvements in multiple cardiometabolic risk factors, with larger effects generally observed at intakes of ∼60-100 g/day. However, the certainty of evidence varied across outcomes, and sparse data at higher intake levels limit firm conclusions regarding dose thresholds.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 35,
+  "journal": "J Am Heart Assoc",
+  "title": "Mitral Valve Lithotripsy With SmartCrack Balloon for Severe Calcified Mitral Stenosis: First-in-Human Experience.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Mitral stenosis due to mitral annular calcification and calcific rheumatic heart disease (CRHD) remains challenging to treat. This first-in-human study evaluated the safety and feasibility of the dedicated SmartCrack lithotripsy balloon in patients with severe mitral stenosis secondary to mitral annular calcification or calcific rheumatic heart disease. METHODS: High surgical risk patients underwent mitral lithotripsy with the SmartCrack system. Intraoperative measures included mitral valve area, transmitral pressure gradient, and mitral regurgitation severity, assessed pre- and post procedure. Follow-up computed tomography evaluated calcification changes. The primary safety end point was adverse events within 7 days (death, stroke, or procedural complications). The primary efficacy end point was mitral valve area >1.5 cm2, ≥50% reduction in transmitral pressure gradient, or transmitral pressure gradient <5 mm Hg without significant mitral regurgitation. RESULTS: Ten patients were enrolled. The primary safety end point occurred in 10% (n=1, minor stroke), with no deaths or major bleeding. Mitral regurgitation worsened from mild to moderate in 1 patient. The primary efficacy end point was achieved in all patients. Median device time was 18 minutes, and 8 of the 10 patients (80%) underwent postdilatation following SmartCrack therapy. Mitral valve area increased from 0.89±0.18 to 1.31±0.40 cm2 (P<0.001), transmitral pressure gradient decreased from 7.7±2.6 to 4.4±1.8 mm Hg (P<0.01). Follow-up computed tomography revealed calcium cracks in 4 of 5 patients with mitral annular calcification, whereas no cracks were observed in patients with calcific rheumatic heart disease. At 30 days, most patients (n=8/10) reporting symptom improvement. CONCLUSIONS: This study demonstrates the procedural feasibility of the SmartCrack lithotripsy balloon when combined with balloon mitral valvuloplasty, potentially modifying valvular calcification and improving mitral valve area. Larger studies are needed to confirm its safety, effectiveness, long-term durability, and clinical benefits.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 36,
+  "journal": "Circ Cardiovasc Interv",
+  "title": "Influence of Chronic Kidney Disease on Outcomes After Paclitaxel-Coated Balloon Angioplasty for Coronary In-Stent Restenosis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Drug-coated balloons (DCB) are superior to conventional balloon angioplasty in coronary in-stent restenosis. The influence of chronic kidney disease (CKD) on outcomes after DCB for in-stent restenosis is not well described. METHODS: A post hoc analysis of the AGENT IDE trial was performed to compare the efficacy and safety of DCB versus balloon angioplasty in patients with CKD (estimated glomerular filtration rate <60 mL/min per 1.73 m2) and those without renal impairment. The primary outcome was target lesion failure, a composite of ischemia-driven target lesion revascularization (TLR), target vessel myocardial infarction, or cardiac death. The 2 cohorts were compared using time-to-first-event and recurrent event methods through 2 years. RESULTS: Of the 406 patients randomized to DCB, 149 (25%) had CKD (mean estimated glomerular filtration rate 47.3±9.2). They were older and had greater multivessel disease and congestive heart failure than those without CKD. There were no differences in clinical presentation, Mehran in-stent restenosis patterns or technical success. The effect of DCB versus balloon angioplasty on 2-year target lesion failure was similar in patients with CKD (23.6% versus 30.0%; hazard ratio, 0.70 [95% CI, 0.35-1.39]) compared with those without CKD (28.1% versus 34.9%; hazard ratio, 0.74 [95% CI, 0.52-1.05]; PInt=0.90). Similarly, the effect of DCB on outcomes in the recurrent events analysis was not influenced by baseline renal function. CONCLUSIONS: Among patients undergoing intervention for in-stent restenosis, the benefit of DCB versus balloon angioplasty was consistent irrespective of baseline CKD status. Baseline renal function also did not influence outcomes in the recurrent event analysis. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT04647253.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 37,
+  "journal": "J Am Heart Assoc",
+  "title": "Development and Validation of an Interpretable Prediction Model for IVIG-Resistant Kawasaki Disease: A Multicenter Prospective Cohort Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Early identification of intravenous immunoglobulin-resistant Kawasaki disease is important for reducing the risk of coronary artery lesions. We aimed to develop, externally validate, and deploy an interpretable machine-learning model for early prediction of intravenous immunoglobulin-resistant Kawasaki disease. METHODS: The derivation cohort included 3023 patients with Kawasaki disease admitted to Children's Hospital of Soochow University from January 2020 to December 2024 and was used for model training and internal validation. External validation included 1632 patients from 3 independent hospitals during the same period. Thirty-three clinical variables available within 24 hours of admission were used to develop 12 machine-learning models. Model discrimination was assessed using the area under the curve, and Shapley Additive Explanations were used for model interpretation. RESULTS: Among the 12 algorithms, the Extra Trees model showed the best discriminative performance. After feature reduction, an interpretable Extra Trees model incorporating 8 variables was selected. The model achieved area under the curve of 0.865 in internal validation, 0.890 in the Anhui cohort (n=654), 0.805 in the Xuzhou cohort (n=574), and 0.853 in the Suqian cohort (n=404). The final model was implemented as a web-based application for individualized risk estimation. CONCLUSIONS: We developed and externally validated an interpretable machine-learning model for early prediction of intravenous immunoglobulin-resistant Kawasaki disease. Shapley Additive Explanations-based interpretation and web deployment may facilitate individualized risk assessment and clinical decision-making.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 38,
+  "journal": "JACC Adv",
+  "title": "Sex Differences in Coronary Atheroma Regression After Intensive Lipid-Lowering Therapy: A Pooled Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Intensive lipid-lowering therapy with high-intensity statins, with or without proprotein convertase subtilisin/kexin type 9 inhibitors, reduces coronary plaque burden. However, whether men and women experience similar atheroma regression and plaque compositional changes remains uncertain. OBJECTIVES: The objective of the study was to quantify sex-specific changes in percent atheroma volume (PAV), total atheroma volume (TAV), and plaque composition after intensive lipid-lowering, using pooled individual-participant data from four serial intravascular ultrasound trials. METHODS: Data from REVERSAL, ASTEROID, SATURN, and GLAGOV trials (N = 2,737; 1,987 men, 750 women) were analyzed centrally. Over a median follow-up of 20.7 months, annualized changes in PAV, TAV, and virtual histology components were compared using linear mixed-effects models adjusted for baseline plaque burden and trial. RESULTS: Women were older with higher rates of hypertension and diabetes but presented with lower baseline PAV (mean: 34.5% vs 38.5%) and less extensive plaque composition abnormalities, even when normalized for plaque burden. Virtual histology analysis revealed women had lower baseline fibro-fatty volume (median: 13.7 vs 34.3 mm3), necrotic core volume (median: 7.7 vs 13.1 mm3), and higher fibrous content (mean: 41.5% vs 36.7%). Following treatment achieving similar low-density lipoprotein-cholesterol (LDL-C) (∼70 mg/dL), women showed greater regression in PAV (least-squares-mean: -0.25% vs -0.05%) and TAV, with similar plaque stabilization. Female sex independently predicted PAV regression, which was most pronounced in women achieving LDL-C <55 mg/dL. CONCLUSIONS: Women undergoing clinically indicated procedures present with paradoxically less extensive atheroma and more favorable plaque composition despite higher cardiovascular risk burden. They experience greater coronary plaque regression than men after intensive lipid-lowering, especially when LDL-C is below 55 mg/dL, with similar plaque stabilization.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 39,
+  "journal": "J Am Heart Assoc",
+  "title": "Comparative Outcomes of Transcatheter Versus Surgical Aortic Valve Replacement in Patients With Heart Failure and Chronic Kidney Disease.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Evidence comparing intermediate-term outcomes of transcatheter aortic valve implantation (TAVI) versus surgical aortic valve replacement (SAVR) in patients with concomitant heart failure and chronic kidney disease remains limited. METHODS: Using the TriNetX Global Collaborative Network, we conducted a retrospective study of adults with heart failure and chronic kidney disease undergoing TAVI or SAVR between January 2020 and December 2025. We excluded patients with redo procedures, history of endocarditis, prior heart transplant, ventricular assist device placement, or concomitant valve surgery. The primary outcome was all-cause death. Secondary outcomes included acute myocardial infarction, ischemic stroke, acute kidney injury, and all-cause hospitalization. Outcomes were assessed over 2 years of follow-up using Cox proportional hazards models. RESULTS: Before matching, 9575 patients underwent TAVI and 1233 underwent SAVR. Propensity score matching across 21 covariates balanced demographics, comorbidities, medications, and laboratory values, yielding 1034 matched patients in each cohort. During follow-up, TAVI was associated with a higher mortality rate (hazard ratio [HR], 1.56 [95% CI, 1.21-2.01]) and lower risk of acute kidney injury (HR, 0.69 [95% CI, 0.60-0.80]) compared with SAVR. Risks of acute myocardial infarction (HR, 1.12 [95% CI, 0.87-1.44]), ischemic stroke (HR, 1.11 [95% CI, 0.85-1.45]), and all-cause hospitalization (HR, 0.90 [95% CI, 0.81-1.00]) were similar. Sensitivity analyses across alternative modeling strategies yielded directionally consistent results. CONCLUSIONS: In this contemporary-era cohort of patients with heart failure and chronic kidney disease, SAVR was associated with a lower mortality rate, whereas TAVI was associated with less acute kidney injury. These findings suggest important trade-offs between procedural strategies in high-risk cardiorenal populations.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 40,
+  "journal": "J Am Heart Assoc",
+  "title": "Pooled Analysis of Valve-in-Valve and Valve-in-Ring Transcatheter Mitral Valve Replacement Using the SAPIEN Valve.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Transcatheter mitral valve replacement (TMVR) using the Sapien (Edwards Lifesciences, Irvine, CA) transcatheter heart valve has become the preferred treatment for high-risk patients with failed mitral bioprosthetic valves or prior surgical mitral valve repairs. Differences in anatomy and procedural complexity between valve-in-valve TMVR (ViV-TMVR) and valve-in-ring TMVR (ViR-TMVR) may influence clinical outcomes. METHODS: We systematically searched OVID Medline, Embase, SCOPUS, Web of Science, and Cochrane for studies published between 2015 and 2022 comparing ViV-TMVR and ViR-TMVR. The primary end point was 30-day all-cause mortality. Secondary outcomes included in-hospital mortality, stroke, acute kidney injury, major bleeding, reintervention, left ventricular outflow tract obstruction, and device embolization. Random-effects models were used to pool outcomes. RESULTS: Eight studies including 1947 patients (ViV-TMVR: 1435; ViR-TMVR: 512) were analyzed. Patients undergoing ViV-TMVR were older and had a greater baseline comorbidity burden. No significant differences were observed in 30-day mortality (odds ratio [OR]: 0.70 [95% CI: 0.47-1.05]; I2=0%) or in-hospital mortality (OR: 1.05 [95% CI: 0.34-3.21]; I2=3%). Similarly, stroke, major bleeding, and device embolization did not differ significantly between groups. However, ViV-TMVR was associated with lower rates of left ventricular outflow tract obstruction (OR: 0.30 [95% CI: 0.18-0.51]), reintervention (OR: 0.19 [95% CI: 0.13-0.30]), and acute kidney injury (OR: 0.51 [95% CI: 0.29-0.90]), with no significant heterogeneity. CONCLUSIONS: Compared with ViR-TMVR, ViV-TMVR was associated with lower rates of left ventricular outflow tract obstruction, reintervention, and acute kidney injury, whereas mortality and other major complications were comparable. These findings may inform patient selection and procedural planning for transcatheter mitral valve interventions.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 41,
+  "journal": "J Am Heart Assoc",
+  "title": "Associations of Plasma Deoxycholic Acid and Its Conjugates With the Clinical Outcomes After Ischemic Stroke.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Deoxycholic acid (DCA) and its conjugates glycodeoxycholic acid (GDCA), taurodeoxycholic acid, and 23-nordeoxycholic acid (NorDCA) were implicated in anti-inflammation and energy metabolism, but their prognostic values in ischemic stroke remained unclear. We aimed to investigate the associations of plasma DCA and its conjugates with outcomes after ischemic stroke in a multicenter prognostic cohort study. METHODS: Our multicenter prognostic cohort study included 3405 Chinese patients with hypertensive stroke from the China Antihypertensive Trial in Acute Ischemic Stroke. The primary outcome was a composite outcome of death and major disability (modified Rankin Scale score, 3-6) at 3 months after ischemic stroke. RESULTS: After adjustment for age, sex, and other important covariates, elevated plasma DCA (odds ratio [OR], 0.65 [95% CI, 0.53-0.80]), GDCA (OR, 0.76 [95% CI, 0.61-0.93]), and NorDCA (OR, 0.73 [95% CI, 0.59-0.89]) were associated with a decreased risk of primary outcome when 2 extreme tertiles were compared. Multiple-adjusted spline regression model showed linear associations of DCA, GDCA, and NorDCA with the primary outcome (all P value for linearity<0.05). Adding DCA, GDCA, NorDCA, or DCA metabolite score to conventional prognostic factors significantly improved the risk reclassification for the primary outcome, as evidenced by net reclassification improvement and integrated discrimination index (all P<0.05). CONCLUSIONS: High DCA, GDCA, and NorDCA at baseline were associated with decreased risks of adverse outcomes at 3 months after ischemic stroke, indicating that DCA, GDCA, and NorDCA might be implicated in the development of ischemic stroke and could be valuable intervention targets for ischemic stroke.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 42,
+  "journal": "JACC Adv",
+  "title": "Markers of Autonomic Function and Cancer Mortality Risk in Healthy Adults.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Dysfunction of the autonomic nervous system increases cardiovascular risk, but its contribution to cancer outcomes is less well-characterized. OBJECTIVES: The aim of this study was to evaluate associations between physiological measures reflective of autonomic function and all-site and site-specific cancer mortality in healthy adults. METHODS: The study included 75,308 participants (26.8% women) in the Cooper Center Longitudinal Study who completed a preventive medicine examination with a treadmill test between 1971 and 2018. Gompertz mortality models estimated associations between autonomic markers-resting heart rate, heart rate reserve, systolic blood pressure response to exercise, and heart rate recovery-and cancer mortality through 2019. Analyses were sex-stratified when significant interactions were present. Models adjusted for age, clinical and lifestyle factors, and cardiorespiratory fitness. RESULTS: Over a median follow-up of 21.9 years, 3,855 cancer deaths occurred. Lower heart rate reserve (HR per 10% lower: 1.05; 95% CI: 1.02-1.07) and heart rate recovery at 5 minutes (HR per 10 beats/min lower: 1.06; 95% CI: 1.03-1.09) were associated with higher all-site cancer mortality. Sex-specific associations were observed for certain markers: A higher resting heart rate was related to higher cancer mortality in men (HR per 10 beats/min: 1.04; 95% CI: 1.01-1.08), but not in women, whereas systolic blood pressure response associations were stronger in women. Associations with site-specific cancer mortality were particularly pronounced for lung cancer. CONCLUSIONS: In apparently healthy adults, multiple noninvasive markers of autonomic function were associated with cancer mortality, independent of cardiorespiratory fitness.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 43,
+  "journal": "J Am Heart Assoc",
+  "title": "Outcome-Guided Immunosuppressive Therapy and Clinical Events in Patients With Cardiac Sarcoidosis: An Observational Registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Immunosuppressive therapy (IST) is commonly used in cardiac sarcoidosis, but the strategy to guide it is unclear and its effectiveness uncertain. We assessed the association between IST, guided by clinical course and positron emission tomography, and clinical outcomes in cardiac sarcoidosis. METHODS: We compared 83 patients with cardiac sarcoidosis who received IST with 20 who declined therapy. IST was escalated for persistent symptoms and inflammation. Ventricular arrhythmia recurrence, ventricular pacing, New York Heart Association class, and left ventricular (LV) ejection fraction were assessed after 12 months. Death, LV assist device, and heart transplantation were assessed during a median follow-up of 24.9 months. RESULTS: Sustained ventricular tachycardia recurred in 12% of patients with IST versus 20% of those without IST (P=0.264). Within the IST group, New York Heart Association class and LV ejection fraction improved during 12 months (P=0.011 and P=0.002), but the between-group difference in New York Heart Association change was not significant (P=0.490). Major adverse cardiovascular events occurred less frequently with IST (10.8% versus 40.0%, P=0.004). After adjustment for baseline LV ejection fraction, IST had a lower hazard of major adverse cardiovascular events (hazard ratio, 0.30 [95% CI, 0.11-0.80]; P=0.017), consistent among sensitivity analyses. Given only 17 events and baseline imbalance, residual confounding cannot be excluded and this is hypothesis-generating. CONCLUSIONS: In this observational registry, glucocorticoid-based IST was associated with lower rates of death, heart transplantation, and LV assist device implantation. No significant between-group difference was detected in sustained ventricular tachycardia recurrence, although the study was underpowered to exclude smaller differences. Because treatment was not randomized, these associations cannot establish causality.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 44,
+  "journal": "Europace",
+  "title": "Associations between specific non-sustained ventricular tachycardia characteristics and sudden cardiac death in hypertrophic cardiomyopathy.",
+  "ptypes": [
+   "Journal Article",
+   "Multicenter Study"
+  ],
+  "abstract": "AIMS: Non-sustained ventricular tachycardia (NSVT) is a well-established risk factor for sudden cardiac death (SCD) in hypertrophic cardiomyopathy (HCM). However, its characteristics have been overlooked. This study evaluates the prognostic value of NSVT characteristics, particularly coupling intervals, for HCM risk stratification. METHODS AND RESULTS: This retrospective, multicentre study included 2625 HCM patients. Twenty-four-hour Holter recordings were assessed for NSVT and its characteristics (frequency, duration, and coupling intervals). The primary endpoint was SCD; the secondary endpoints were cardiovascular and all-cause death. Two thousand five hundred and eighty-four patients were analysed (49.6 ± 15.2 years; 62.4% male). Non-sustained ventricular tachycardia occurred in 320 (12.4%). During the median follow-up of 4.4 years, there were 221 all-cause deaths (8.6%), 159 cardiovascular deaths (6.2%), and 64 SCDs (2.5%). Among characteristics, the second coupling interval best predicted adverse outcomes (optimal cut-off = 394 ms). Non-sustained ventricular tachycardia frequency and duration were not prognostic. In univariable and multivariable analyses, a second coupling interval < 394 ms markedly increased the risk of SCD [hazard ratio (HR) 8.36, 95% confidence interval (CI) 4.33-16.12, P < 0.001], cardiovascular death (HR 3.64, 95% CI 2.07-6.37, P < 0.001), and all-cause death (HR 3.26, 95% CI 1.97-5.41, P < 0.001) vs. absence of NSVT, whereas a second coupling interval ≥ 394 ms did not. Replacing NSVT with malignant NSVT (NSVT with short second coupling interval) significantly improved SCD risk algorithms. CONCLUSION: A short second coupling interval of NSVT poses a higher SCD risk in HCM than a long one. Detailed dissection of NSVT characteristics may improve decision-making for implantable cardioverter-defibrillator implantation in HCM.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 45,
+  "journal": "Circulation",
+  "title": "CCND1 Mitigates Ischemia-Induced Pathological Cardiac Remodeling by Promoting Cardiac Monocyte-Derived Macrophage Transition to a Reparative Phenotype.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The innate immune system plays a pivotal role in orchestrating the response to myocardial infarction (MI), with monocytes and macrophages acting as central mediators of tissue injury and repair. Following MI, a dynamic sequence of inflammatory, anti-inflammatory, and reparative phases unfolds over the course of several days. While timely resolution of inflammation and initiation of reparative programs are critical for favorable cardiac remodeling and improved long-term outcomes, the mechanisms by which recruited monocyte-derived macrophages are instructed within the postinfarct niche to adopt a reparative phenotype remain incompletely understood. METHODS: Human peripheral blood mononuclear cells were isolated from individuals with and without MI for single-cell RNA sequencing analysis. The murine cardiac monocyte-derived macrophage behaviors after MI were characterized by genetic lineage tracing, lineage tracing plus bone marrow transplantation, metabolite profiling, and cell phenotyping approaches. The role of macrophage CCND1 (cyclin D1) in MI-induced adverse remodeling was investigated using macrophage-specific Ccnd1 knockout mice. Epigenetic experiments were conducted to study the mechanisms underlying metabolic reprogramming and macrophage phenotypic transition. The therapeutic efficacy of lentivirus-targeting macrophage CCND1 and its downstream regulator PDK4 (pyruvate dehydrogenase kinase 4) were assessed in vivo using an MI mouse model. RESULTS: We found that CCND1 levels in peripheral blood mononuclear cells, monocytes, and cardiac macrophages from patients with MI were significantly decreased. Both macrophage-specific and monocyte-derived macrophage-specific deletion of CCND1 worsened MI-induced cardiac dysfunction and adverse remodeling, driven by amplified inflammatory responses. Mechanistically, CCND1 directly interacted with PDK4 and facilitated its ubiquitination by recruiting RPL11 (ribosomal protein L11) and mouse double minute 2. Through this axis, CCND1 suppressed PDK4-driven PDH (pyruvate dehydrogenase) phosphorylation, enhanced glucose oxidation, and shifted macrophages toward an anti-inflammatory phenotype. Targeted overexpression of the CCND1-PDK4 binding motif or knockdown of PDK4 in macrophages improved cardiac function and mitigated adverse remodeling after MI, independent of the canonical cell cycle-regulatory role of CCND1. CONCLUSIONS: Our findings identify the CCND1-PDK4 axis as a key regulator of macrophage functional reprogramming toward a reparative phenotype after MI, highlighting it as a potential therapeuti",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 46,
+  "journal": "Circulation",
+  "title": "Natural Missplicing Events Amplified by an Elusive Deep-Intronic MYBPC3 Variant Cause Hypertrophic Cardiomyopathy.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Disruption of MYBPC3 precursor mRNA splicing is a frequent genetic cause of hypertrophic cardiomyopathy (HCM). Most often, it reflects changes at canonical sites or the creation of novel splice sites. Prediction tools usually prioritize splice variants with lower efficiency when they are distant from canonical sites. These elusive variants may explain HCM in patients considered genotype-negative after DNA testing. METHODS: Massively parallel sequencing identified the previously unreported deep-intronic variant MYBPC3 c.2308+227G>A in a cohort of genotype-negative patients with HCM from Salamanca, Spain. SpliceAI predicted a benign effect (Δ score, 0.03). However, its recurrent detection prompted us to conduct extensive analyses to investigate its pathogenicity, including genetic testing, clinical assessment, family studies, splicing assays, and haplotype reconstruction. RESULTS: We identified 35 unrelated HCM probands carrying c.2308+227G>A, plus 46 relatives from 27 families, yielding 81 confirmed carriers. Of these, 56 (69%) met diagnostic criteria for HCM (66% male; mean age, 53±15 years). By age 60 years, cumulative penetrance was estimated to be 81% in women and 96% in men. The combined logarithm of the odds score of 5.51 across 20 informative families provided strong evidence of cosegregation. During follow-up of probands, no significant differences were observed in heart failure, arrhythmic events, atrial fibrillation, or mortality when compared with cohorts carrying other pathogenic MYBPC3 variants. Blood splicing assays, confirmed in cardiac tissue, showed that c.2308+227G>A disrupts splicing by the use of pre-existing cryptic donor (c.2308+299) and acceptor (c.2309-580) splice sites, generating 2 misspliced mRNAs with partial intron retention or cryptic exon inclusion, which encode truncated proteins. These cryptic sites are the leading natural, unannotated missplicing events in intron 23, and some of the most frequent across the whole MYBPC3 precursor mRNA, as revealed by SpliceVault analysis of RNA sequencing databases. This deep-intronic variant does not alter essential splice motifs but promotes the use of pre-existing cryptic sites, likely through gain of splicing regulatory enhancer elements. The identification of a shared haplotype among HCM probands carrying this variant explains its recurrent detection, consistent with an ancient founder effect. CONCLUSIONS: MYBPC3 c.2308+227G>A is a pathogenic splice-altering variant that causes HCM by amplifying natural missplicing events. These background splicing errors help explain how",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 47,
+  "journal": "Heart",
+  "title": "Gut-brain-heart axis in congenital heart disease: emerging roles of the microbiome in cardiac physiology and neurodevelopment.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Congenital heart disease (CHD) is increasingly recognised as a multisystem condition extending beyond structural cardiac abnormalities to include gastrointestinal, immunological and neurodevelopmental consequences. Although advances in surgical and intensive care have significantly improved survival, children with CHD remain at heightened risk for adverse neurodevelopmental outcomes, systemic inflammation and gastrointestinal morbidity. The gut microbiome plays a central role in immune regulation, metabolic homeostasis and brain development particularly during early life. Perturbations of the microbiome are common in infants with CHD due to altered gut perfusion, antibiotic exposure, feeding disruption and cardiopulmonary bypass (CPB). These changes may influence both cardiac recovery and neurodevelopment through interconnected gut-heart-brain signalling pathways. This review synthesises current evidence linking the gut microbiome to cardiac physiology and brain development in children with CHD, with particular emphasis on early-life vulnerability, perioperative factors and emerging translational insights. Understanding these interactions may inform future strategies to optimise long-term outcomes in this high-risk population.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 48,
+  "journal": "J Am Heart Assoc",
+  "title": "Missed Opportunities for Stroke Prevention in Patients With Hypertension: A Retrospective Case-Control Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Hypertension is the leading modifiable risk factor for ischemic stroke, yet the adequacy of preventative hypertension care in routine clinical practice remains suboptimal, potentially representing missed opportunities for stroke prevention. We evaluated the association between hypertension care delivery and incident ischemic stroke. METHODS: We conducted a retrospective, matched, nested case-control study among adults with hypertension using data from a large regional health system (2010-2024). Patients with a first-ever ischemic stroke were matched 1:2 to controls on age, sex, race and ethnicity, and calendar time. Three care metrics were assessed: (1) outpatient visits with blood pressure measurement per year; (2) number of antihypertensive medication ingredients; and (3) medication intensification score. Conditional logistic regression estimated adjusted odds ratios. RESULTS: The study included 13 476 cases and 26 952 matched controls. Cases had fewer blood pressure visits per year (median, 2.50 versus 3.01), similar number of medication ingredients (2.00 versus 2.00), and lower treatment intensification scores (-0.211 versus -0.125). Compared with ≤1 visit, >5 blood pressure visits per year was associated with lower stroke odds (adjusted odds ratio, 0.55 [95% CI, 0.51-0.59]). Use of 2 to 3 medication ingredients (versus 0) was also associated with reduced stroke odds (adjusted odds ratio, 0.80 [95% CI, 0.75-0.86]), whereas >3 ingredients was not. The highest quartile of treatment intensification showed the strongest association (adjusted odds ratio, 0.47 [95% CI, 0.44-0.51]). Findings were consistent across subgroup and sensitivity analyses. CONCLUSIONS: Greater engagement in hypertension care was associated with lower odds of ischemic stroke, suggesting that gaps in routine management may represent missed opportunities for prevention.",
+  "oblig": false,
+  "noabs": false
+ },
+ {
+  "idx": 49,
+  "journal": "J Am Heart Assoc",
+  "title": "Association of F11 Gene Variants With Cardiovascular Events and Cardiac Function.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: FXI (Factor XI) inhibitors have emerged as a promising antithrombotic strategy. However, a recent study linked decreased FXI levels with increased risk of heart failure (HF) and atrial fibrillation (AF), particularly in older adults. This study aims to investigate the associations of genetic FXI inhibition with cardiovascular events and cardiac function. METHODS: This prospective study included 408 642 UK Biobank participants of European ancestry. Two F11-based genetic scores were constructed, weighted separately by their associations with activated partial thromboplastin time or circulating FXI levels. Adjusted Cox or linear regression models were built to predict incident HF, AF, and cardiac magnetic resonance measures. Interactions with age and age-related cardiometabolic traits were tested. RESULTS: Over 14.6 years median follow-up, 14 451 participants developed incident HF, and 29 243 developed incident AF. The FXI activated partial thromboplastin time score was not associated with HF, AF, or cardiac magnetic resonance measures overall. In exploratory interaction analyses, baseline hemoglobin A1c (HbA1c) modified its association with HF (P<0.001) and AF (P=0.027), with higher HF risk observed among participants with HbA1c≥7% (hazard ratio per 10% genetically predicted increase in activated partial thromboplastin time, 1.65 [95% CI, 1.13-2.40]) but not in those with HbA1c<7%. No association was observed with AF across HbA1c strata. Similar patterns were observed for the FXI level score. CONCLUSIONS: Genetically proxied FXI inhibition was not associated with HF, AF, or cardiac magnetic resonance-derived cardiac measures overall, but its associations with HF and AF may be modified by HbA1c. Future studies are needed to verify these exploratory findings.",
+  "oblig": false,
+  "noabs": false
+ }
+]

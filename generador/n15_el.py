@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-# Elegibles N14 (7 - 13 sep 2026). Incluye INCLUSIÓN OBLIGATORIA sin abstract.
+# Elegibles N15 (14 - 20 sep 2026). Incluye INCLUSIÓN OBLIGATORIA sin abstract.
 import json, os, re
-D1, D2 = '2026/09/07', '2026/09/13'
+D1, D2 = '2026/09/14', '2026/09/20'
 BAD = {'Editorial','Comment','Letter','Published Erratum','News','Case Reports'}
 B = os.path.dirname(os.path.abspath(__file__))
-recs = json.load(open(B+'/n14_corpus.json'))['recs']
+recs = json.load(open(B+'/n15_corpus.json'))['recs']
 
 OBLIG_J = {'N Engl J Med','Lancet'}
 # Guía/documento REAL de sociedad: patrones estrictos (evita confundir COMENTARIOS que
@@ -43,7 +43,7 @@ for r in EL:
         continue
     seen[k]=r; DEDUP.append(r)
 EL=DEDUP
-json.dump(EL, open(B+'/n14_el.json','w'), ensure_ascii=False)
+json.dump(EL, open(B+'/n15_el.json','w'), ensure_ascii=False)
 print(f"En ventana: {len(win)} | ELEGIBLES tras dedup: {len(EL)}")
 print(f"  de inclusión obligatoria: {sum(1 for r in EL if r['_oblig'])}")
 print(f"  sin abstract (solo obligatorios): {sum(1 for r in EL if r['_noabs'])}")
