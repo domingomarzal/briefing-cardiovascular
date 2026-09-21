@@ -1871,5 +1871,75 @@
   "_oblig": false,
   "_noabs": false,
   "_rec": "crossref"
+ },
+ {
+  "pmid": "42747372",
+  "journal": "J Am Coll Cardiol",
+  "title": "Intracoronary Imaging-Guided Percutaneous Coronary Intervention: An Updated Meta-Analysis of Randomized Trials.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Recent societal guidelines provide a Class I recommendation for intracoronary imaging (ICI)-guided percutaneous coronary intervention (PCI) for complex or left main coronary artery disease; however, recent trials have failed to show a benefit.\nOBJECTIVES: The study aim was to re-evaluate the efficacy of ICI-guided PCI and to explore heterogeneity of results across trials.\nMETHODS: PubMed, Embase, Cochrane Central, and ClinicalTrials.gov databases were searched through June 3, 2026, for randomized controlled trials (RCTs) comparing outcomes with ICI-guided PCI vs angiography-guided PCI in the drug-eluting stent era. Direct comparison meta-analyses, mixed treatment comparison meta-analyses, trial sequential analyses, fragility analysis, and Bayesian meta-analyses were performed. Meta-regression analysis was performed to evaluate heterogeneity using the following variables: stent length (surrogate for lesion length), stent diameter, difference in postdilatation (percentage) between the groups, publication year, and geographic location.\nRESULTS: A total of 28 RCTs met the inclusion criteria, comprising 24,634 patients (mean age 64.8 years; 75.9% male) with a mean follow-up of 22 months. ICI-guided PCI reduced target lesion failure (relative risk [RR]: 0.72; 95% CI: 0.61-0.85; I2 = 61%), cardiac mortality (RR: 0.73; 0.58-0.91; I2 = 5%), myocardial infarction (RR: 0.86; 0.75-0.97; I2 = 0%), target vessel revascularization (RR: 0.69; 95% CI: 0.57-0.83, I2 = 41%), stent thrombosis (RR: 0.55; 95% CI: 0.40-0.76; I2 = 0%), and all-cause mortality (RR: 0.82; 95% CI: 0.70-0.96; I2 = 0%) compared with angiography-guided PCI. Trial sequential analysis confirmed evidence for at least a 20% reduction in all outcomes with ICI-guided PCI. The fragility index was robust, ranging from 9 to 50. The posterior probability for benefit was >99% for all outcomes. Trial differences in geography and lesion characteristics explained most of the between-trial variance (residual tau = 0).\nCONCLUSIONS: In this updated meta-analysis of RCTs, after accounting for modifier effects from recent studies, ICI-guided PCI was associated with significantly reduced cardiovascular events compared with angiography-guided PCI. Geographic heterogeneity across trials was present mainly for target vessel revascularization, explained in large part by differences in lesion characteristics and procedural technique.",
+  "doi": "10.1016/j.jacc.2026.08.008",
+  "pii": "S0735-1097(26)07377-8",
+  "adate": "2026-09-10",
+  "_oblig": false,
+  "_noabs": false
+ },
+ {
+  "pmid": "42159533",
+  "journal": "J Am Coll Cardiol",
+  "title": "Accelerated Diagnostic Pathways for Suspected Acute Coronary Syndrome in Practice: A Randomized Trial of 0/1-Hour vs 0/3-Hour Troponin Testing.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: For suspected acute coronary syndrome (ACS), guidelines recommend using high-sensitivity troponins (hs-cTn) in accelerated diagnostic pathways (ADPs) with 0/1-hour recommended over 0/3-hour ADP. However, implementation of these ADPs, with universal use of hs-cTns, has not been directly compared in randomized trials OBJECTIVES: This study sought to compare the efficiency and safety of the European Society of Cardiology (ESC) 0/1-hour and a 0/3-hour ADP when implemented in real-world clinical practice.\nMETHODS: This pragmatic, randomized, noninferiority implementation trial compared the safety and efficiency of clinician decision making using these 2 pathways. To prevent incorporation bias, an independent hs-cTnI was used for formal adjudication using the fourth universal definition of myocardial infarction (MI). Efficiency was judged by the proportion of patients discharged within 4 hours. The safety endpoint was major adverse cardiac events (MACE) within 30 days (adjudicated index or representation type 1 MI, cardiovascular death, and urgent coronary revascularization) for those who were considered not to have ACS and discharged. The noninferiority margin, for absolute difference in sensitivity, between the ESC 0/1-hour and the 0/3-hour ADP was set at 3%, assessed with a 1-sided 97.5% CI.\nRESULTS: From December 2021 to July 2024, of 13,983 screened 3,543 individual patients with suspected ACS were recruited and consented from 2 major emergency departments in North-West England, with 100% follow-up achieved for all representations to any national hospital. The median age was 60 years (IQR: 49.5-70.5 years), 53% were men, 6.7%, and 7.6% had adjudicated index type 1 MI and MACE within 30 days, respectively. The turnaround time from sample to result for central laboratory hs-cTnT was 81 minutes (IQR: 69-101 minutes). The proportion of patients discharged within 4 hours was relatively low and did not differ substantially (21.8% vs 19.2%, P = 0.07). In addition, the 0/1-hour pathway was noninferior for safety, in patients discharged, compared with the 0/3-hour pathway, absolute difference in sensitivity was +4.2% (1-sided 97.5% CI: -2.5) in favor of the 0/1-hour pathway. The calculated sensitivities were 93.7% (95% CI: 88.4%-97.1%) vs 89.5% (95% CI: 82.7%-94.3%), respectively.\nCONCLUSIONS: Implementation of the ESC 0/1-hour pathway failed to discharge significantly more patients within 4 hours of presentation compared with the 0/3-hour ADP. In addition, The ESC 0/1-hour was noninferior to the 0/3-hour hs-cTn pathway for safety of discharge, although safety for both pathways was less than that imputed by observational studies. This trial demonstrates that perceived benefits to emergency department efficiency of a reduced sampling interval are mitigated by central laboratory turnaround times as well as system constraints. (Pragmatic Randomised Trial of the ESC 0/​1 Versus 0/​3 Hour Troponin Pathway [MACROS2]; NCT05322395).",
+  "doi": "10.1016/j.jacc.2026.02.5135",
+  "pii": "S0735-1097(26)05979-6",
+  "adate": "2026-05-20",
+  "_oblig": false,
+  "_noabs": false
+ },
+ {
+  "pmid": "42663356",
+  "journal": "J Am Coll Cardiol",
+  "title": "Bivalirudin Versus Heparin in Low and Non-Low Bleeding Risk Patients Undergoing Primary PCI for STEMI: The BRIGHT-4 Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: In the BRIGHT-4 trial, among 6,016 patients with ST-segment elevation myocardial infarction (STEMI) undergoing primary percutaneous coronary intervention (PCI) with a radial artery approach, procedural anticoagulation with bivalirudin plus a post-PCI high-dose infusion for 2 to 4 hours reduced the 30-day primary composite outcome of all-cause death or Bleeding Academic Research Consortium (BARC) types 3 to 5 bleeding, as well as death and bleeding individually, compared with heparin monotherapy.\nOBJECTIVES: We sought to determine whether the benefits of bivalirudin apply principally to patients who are at low bleeding risk (LBR) as well as non-LBR.\nMETHODS: In a prespecified analysis from BRIGHT-4, outcomes were examined by baseline bleeding risk, with LBR defined as a CRUSADE score <30.\nRESULTS: At baseline, 4,581 patients (76.1%) were categorized as LBR. Non-LBR patients had higher rates of the 30-day primary endpoint (8.6% vs 2.2%; HR: 4.08 [95% CI: 3.14-5.31]; P < 0.0001), driven by both greater mortality and BARC types 3 to 5 bleeding. In non-LBR patients, the primary outcome occurred in 8.1% of patients randomized to bivalirudin vs 9.2% of those randomized to heparin (difference: -1.1% [95% CI: -4.0% to 1.8%]; HR: 0.88 [95% CI: 0.62-1.26]). In LBR patients, the primary outcome occurred in 1.4% of patients randomized to bivalirudin vs 2.9% of those randomized to heparin (difference: -1.5% [95% CI: -2.3% to -0.6%]; HR: 0.49 [95% CI: 0.32-0.75]) (Pabsolute interaction = 0.81; Prelative interaction = 0.04). The effects of bivalirudin compared with heparin in reducing all-cause death were as robust in LBR patients compared with non-LBR patients (Pabsolute interaction = 0.67; Prelative interaction = 0.06).\nCONCLUSIONS: Among patients with STEMI undergoing primary PCI with radial artery access, procedural anticoagulation with bivalirudin plus a high-dose post-PCI infusion for 2 to 4 hours reduced the 30-day risk of all-cause death and major bleeding in patients at low bleeding risk as well as in patients at higher-risk of bleeding. (Bivalirudin With Prolonged Full Dose Infusion Versus Heparin Alone During Emergency PCI [BRIGHT-4; NCT03822975]).",
+  "doi": "10.1016/j.jacc.2026.06.035",
+  "pii": "S0735-1097(26)06997-4",
+  "adate": "2026-08-28",
+  "_oblig": false,
+  "_noabs": false
+ },
+ {
+  "pmid": "42584383",
+  "journal": "J Am Coll Cardiol",
+  "title": "Intravenous Nicorandil in Patients With ST-Segment Elevation Myocardial Infarction Undergoing Primary PCI: The CLEAN Randomized Clinical Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Nicorandil, an adenosine triphosphate-sensitive potassium-channel opener with nitrate-like properties, may reduce reperfusion injury and microvascular obstruction in ST-segment elevation myocardial infarction (STEMI), but large-scale randomized evidence on long-term clinical outcomes is inconclusive.\nOBJECTIVES: The CLEAN trial aimed to assess whether adjunctive intravenous nicorandil improves 12-month clinical outcomes in patients with STEMI undergoing primary percutaneous coronary intervention.\nMETHODS: In this multicenter, randomized, double-blind, placebo-controlled trial conducted at 49 hospitals in China, patients aged 18 to 80 years with STEMI within 12 hours of symptom onset were randomly assigned (1:1) to receive intravenous nicorandil (6 mg bolus before reperfusion followed by 6 mg/h infusion for 48 h) or matching placebo. Oral nicorandil was prohibited during follow-up. The primary outcome was a composite of cardiovascular death, nonfatal myocardial infarction, target vessel revascularization, or unplanned hospitalization for heart failure within 12 months.\nRESULTS: Between January 2021 and December 2023, 1,503 patients were enrolled and randomly assigned to nicorandil (n = 748) or placebo (n = 755). The primary composite outcome occurred in 98 patients (13.1%) in the nicorandil group (113 events over 717.2 person-years) and 99 (13.1%) in the placebo group (136 events over 710.3 person-years), with no significant difference between groups (rate ratio: 0.869; 95% CI: 0.650-1.162; P = 0.3429). Among secondary outcomes, nominal reductions were observed in cardiovascular death (1.9% vs 3.6%; HR: 0.515; 95% CI: 0.269-0.983) and target-vessel revascularization (1.1% vs 3.0%; HR: 0.322; 95% CI: 0.143-0.727), whereas rates of nonfatal myocardial infarction and unplanned hospitalization for heart failure were similar between groups. Adverse events did not differ between groups.\nCONCLUSIONS: In patients with STEMI undergoing primary percutaneous coronary intervention, adjunctive intravenous nicorandil did not significantly reduce the 12-month primary composite outcome. These findings do not support routine use of intravenous nicorandil in unselected patients with STEMI. (Clinical Efficacy and sAfety of Intravenous Nicorandil; NCT04665648).",
+  "doi": "10.1016/j.jacc.2026.07.005",
+  "pii": "S0735-1097(26)07071-3",
+  "adate": "2026-08-12",
+  "_oblig": false,
+  "_noabs": false
+ },
+ {
+  "pmid": "42455105",
+  "journal": "J Am Coll Cardiol",
+  "title": "Aspirin Withdrawal in Patients With Coronary Artery Disease.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "In patients with coronary artery disease (CAD), aspirin has long represented the cornerstone of antiplatelet therapy for secondary prevention. In patients with an acute coronary syndrome (ACS) and undergoing percutaneous coronary intervention (PCI), oral P2Y12 inhibitors have traditionally been used as adjuncts to aspirin, a strategy known as dual antiplatelet therapy (DAPT). Although DAPT reduces the risk of ischemic recurrences, it carries a risk of bleeding. In CAD patients with a concomitant indication for oral anticoagulation (OAC)-who account for approximately 15% of patients--the combination of aspirin and OAC is associated with an increased risk of bleeding without ischemic benefit. The adverse impact of bleeding on prognosis has prompted investigations aimed at identifying antithrombotic treatment regimens associated with reduced bleeding without compromised ischemic protection. Among these, a strategy of aspirin withdrawal after a brief period of combination therapy has emerged as an attractive option. The efficacy and safety of aspirin withdrawal, however, vary substantially according to clinical setting, patient profile (eg, age, sex, ethnicity, genetic background, and comorbidities), timing of discontinuation after ACS or PCI, and alternative adjunctive antithrombotic therapy, including use of OAC and choice of P2Y12 inhibitor. After reviewing the pharmacologic rationale for aspirin withdrawal, the clinical trial evidence, and guideline recommendations, we provide practical considerations for the implementation of this strategy in patients with CAD, with and without an indication to be on OAC.",
+  "doi": "10.1016/j.jacc.2026.06.003",
+  "pii": "S0735-1097(26)06769-0",
+  "adate": "2026-07-15",
+  "_oblig": false,
+  "_noabs": false
  }
 ]

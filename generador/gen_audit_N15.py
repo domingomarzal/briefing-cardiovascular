@@ -24,7 +24,7 @@ for s in _selraw:
     if not s.get("pmid"):
         s["pmid"] = _recuperados.get(s["title"], "CR:" + s["key"])
 sel = {s["pmid"]: s for s in _selraw}
-DEST = "a11"; TOP3 = ("a1", "a6", "a16")
+DEST = "a55"; TOP3 = ("a56", "a57", "a6")
 SECN = {1: "Cardiología preventiva", 2: "Cardiometabolismo", 3: "Dislipemia", 4: "Cardiopatía isquémica",
         5: "Insuficiencia cardíaca", 6: "Miocardiopatías", 7: "Valvulopatías", 8: "Imagen cardíaca",
         9: "Cardiología intervencionista", 10: "Arritmias y electrofisiología"}
