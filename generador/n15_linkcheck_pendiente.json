@@ -1,0 +1,429 @@
+{
+ "numero": "n15",
+ "periodo": "14 al 20 de septiembre de 2026",
+ "creado": "2026-09-21T06:30:59Z",
+ "motivo": "nube",
+ "explicacion": "PASO 7b — la revisión de los enlaces UNO POR UNO (regla dura del usuario del 14/09/2026) NO se ha podido completar en esta ejecución: es la NUBE y aquí no hay navegador real ni salida de red hacia doi.org, jacc.org, sciencedirect.com ni linkinghub (la política de egreso solo permite api.crossref.org, eutils.ncbi.nlm.nih.gov y domingomarzal.github.io). Lo que SÍ se hizo: enlaces_directos.py (33 enlaces directos de editor, 0 por linkinghub) y check_links.py (validación de los 50 DOI contra Crossref, uno a uno para los que dieron aviso).",
+ "hecho_en_la_nube": {
+  "crossref_ok": 49,
+  "falsos_positivos_confirmados": [
+   "a20",
+   "a26",
+   "a27",
+   "a29",
+   "a30",
+   "a32",
+   "a35",
+   "a38",
+   "a46"
+  ],
+  "roto_real": {
+   "key": "a48",
+   "doi": "10.1016/j.hrthm.2026.08.046",
+   "detalle": "DOI NO registrado en Crossref (HTTP 404 en dos pasadas separadas): el editor aún no lo ha depositado. Redirigido a PubMed con check_links.py (PMID 42754239 verificado por E-utilities). Cuando el DOI se registre, conviene devolverlo al editor: PII de PubMed S1547-5271(26)02749-9 -> https://www.sciencedirect.com/science/article/pii/S1547527126027499"
+  }
+ },
+ "pendiente_en_el_mac": "Abrir los 50 enlaces uno por uno en el Chrome real (mcp__Control_Chrome__open_url, tandas de 4), buscar <title> 'Page Not Found' y marcar las excepciones con 'python3 generador/enlaces_directos.py 15 --pii <clave> ...'. Después regenerar con gen_bilingue.py n15 y gen_audit_N15.py y republicar. Empezar por los marcados prioritario=true (familia JACC y Elsevier), que son donde han aparecido todas las averías desde N7.",
+ "enlaces": [
+  {
+   "key": "a1",
+   "journal": "JAMA",
+   "doi": "10.1001/jama.2026.14703",
+   "url": "https://doi.org/10.1001/jama.2026.14703",
+   "via": "doi.org",
+   "prioritario": false
+  },
+  {
+   "key": "a2",
+   "journal": "JAMA",
+   "doi": "10.1001/jama.2026.13384",
+   "url": "https://doi.org/10.1001/jama.2026.13384",
+   "via": "doi.org",
+   "prioritario": false
+  },
+  {
+   "key": "a3",
+   "journal": "Circulation",
+   "doi": "10.1161/CIR.0000000000001463",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001463",
+   "via": "enlace directo del editor",
+   "prioritario": false
+  },
+  {
+   "key": "a4",
+   "journal": "Eur J Prev Cardiol",
+   "doi": "10.1093/eurjpc/zwag390",
+   "url": "https://doi.org/10.1093/eurjpc/zwag390",
+   "via": "doi.org",
+   "prioritario": false
+  },
+  {
+   "key": "a5",
+   "journal": "Hypertension",
+   "doi": "10.1161/HYPERTENSIONAHA.126.27634",
+   "url": "https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.126.27634",
+   "via": "enlace directo del editor",
+   "prioritario": false
+  },
+  {
+   "key": "a6",
+   "journal": "JAMA Cardiol",
+   "doi": "10.1001/jamacardio.2026.3566",
+   "url": "https://doi.org/10.1001/jamacardio.2026.3566",
+   "via": "doi.org",
+   "prioritario": false
+  },
+  {
+   "key": "a7",
+   "journal": "Circulation",
+   "doi": "10.1161/CIR.0000000000001471",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001471",
+   "via": "enlace directo del editor",
+   "prioritario": false
+  },
+  {
+   "key": "a8",
+   "journal": "Eur Heart J",
+   "doi": "10.1093/eurheartj/ehag519",
+   "url": "https://doi.org/10.1093/eurheartj/ehag519",
+   "via": "doi.org",
+   "prioritario": false
+  },
+  {
+   "key": "a9",
+   "journal": "Eur J Prev Cardiol",
+   "doi": "10.1093/eurjpc/zwag492",
+   "url": "https://doi.org/10.1093/eurjpc/zwag492",
+   "via": "doi.org",
+   "prioritario": false
+  },
+  {
+   "key": "a10",
+   "journal": "Heart Rhythm",
+   "doi": "10.1016/j.hrthm.2026.09.019",
+   "url": "https://www.sciencedirect.com/science/article/pii/S1547527126027931",
+   "via": "enlace directo del editor",
+   "prioritario": true
+  },
+  {
+   "key": "a11",
+   "journal": "Ann Intern Med",
+   "doi": "10.7326/ANNALS-26-01374",
+   "url": "https://doi.org/10.7326/ANNALS-26-01374",
+   "via": "doi.org",
+   "prioritario": false
+  },
+  {
+   "key": "a12",
+   "journal": "Eur J Prev Cardiol",
+   "doi": "10.1093/eurjpc/zwag496",
+   "url": "https://doi.org/10.1093/eurjpc/zwag496",
+   "via": "doi.org",
+   "prioritario": false
+  },
+  {
+   "key": "a13",
+   "journal": "J Am Heart Assoc",
+   "doi": "10.1161/JAHA.126.049323",
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.126.049323",
+   "via": "enlace directo del editor",
+   "prioritario": false
+  },
+  {
+   "key": "a14",
+   "journal": "Atherosclerosis",
+   "doi": "10.1016/j.atherosclerosis.2026.121903",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0021915026012694",
+   "via": "enlace directo del editor",
+   "prioritario": true
+  },
+  {
+   "key": "a15",
+   "journal": "Atherosclerosis",
+   "doi": "10.1016/j.atherosclerosis.2026.121900",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0021915026012669",
+   "via": "enlace directo del editor",
+   "prioritario": true
+  },
+  {
+   "key": "a16",
+   "journal": "JACC Cardiovasc Interv",
+   "doi": "10.1016/j.jcin.2026.07.012",
+   "url": "https://www.jacc.org/doi/10.1016/j.jcin.2026.07.012",
+   "via": "enlace directo del editor",
+   "prioritario": true
+  },
+  {
+   "key": "a17",
+   "journal": "Circulation",
+   "doi": "10.1161/CIRCULATIONAHA.126.079317",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.126.079317",
+   "via": "enlace directo del editor",
+   "prioritario": false
+  },
+  {
+   "key": "a18",
+   "journal": "J Am Heart Assoc",
+   "doi": "10.1161/JAHA.126.051333",
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.126.051333",
+   "via": "enlace directo del editor",
+   "prioritario": false
+  },
+  {
+   "key": "a19",
+   "journal": "J Am Heart Assoc",
+   "doi": "10.1161/JAHA.126.049660",
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.126.049660",
+   "via": "enlace directo del editor",
+   "prioritario": false
+  },
+  {
+   "key": "a20",
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103194",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103194",
+   "via": "enlace directo del editor",
+   "prioritario": true
+  },
+  {
+   "key": "a21",
+   "journal": "Eur J Heart Fail",
+   "doi": "10.1093/ejhf/xuag267",
+   "url": "https://doi.org/10.1093/ejhf/xuag267",
+   "via": "doi.org",
+   "prioritario": false
+  },
+  {
+   "key": "a22",
+   "journal": "Heart",
+   "doi": "10.1136/heartjnl-2026-328688",
+   "url": "https://doi.org/10.1136/heartjnl-2026-328688",
+   "via": "doi.org",
+   "prioritario": false
+  },
+  {
+   "key": "a23",
+   "journal": "Circ Heart Fail",
+   "doi": "10.1161/CIRCHEARTFAILURE.126.014546",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCHEARTFAILURE.126.014546",
+   "via": "enlace directo del editor",
+   "prioritario": false
+  },
+  {
+   "key": "a24",
+   "journal": "JACC Heart Fail",
+   "doi": "10.1016/j.jchf.2026.103311",
+   "url": "https://www.jacc.org/doi/10.1016/j.jchf.2026.103311",
+   "via": "enlace directo del editor",
+   "prioritario": true
+  },
+  {
+   "key": "a25",
+   "journal": "Circ Heart Fail",
+   "doi": "10.1161/CIRCHEARTFAILURE.125.014161",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCHEARTFAILURE.125.014161",
+   "via": "enlace directo del editor",
+   "prioritario": false
+  },
+  {
+   "key": "a26",
+   "journal": "Eur Heart J Cardiovasc Imaging",
+   "doi": "10.1093/ehjci/jeag254",
+   "url": "https://doi.org/10.1093/ehjci/jeag254",
+   "via": "doi.org",
+   "prioritario": false
+  },
+  {
+   "key": "a27",
+   "journal": "Circulation",
+   "doi": "10.1161/CIRCULATIONAHA.125.078812",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.125.078812",
+   "via": "enlace directo del editor",
+   "prioritario": false
+  },
+  {
+   "key": "a28",
+   "journal": "Europace",
+   "doi": "10.1093/europace/euag034",
+   "url": "https://doi.org/10.1093/europace/euag034",
+   "via": "doi.org",
+   "prioritario": false
+  },
+  {
+   "key": "a29",
+   "journal": "Rev Esp Cardiol (Engl Ed)",
+   "doi": "10.1016/j.rec.2026.08.009",
+   "url": "https://www.sciencedirect.com/science/article/pii/S1885585726002100",
+   "via": "enlace directo del editor",
+   "prioritario": true
+  },
+  {
+   "key": "a30",
+   "journal": "JACC Heart Fail",
+   "doi": "10.1016/j.jchf.2026.103355",
+   "url": "https://www.jacc.org/doi/10.1016/j.jchf.2026.103355",
+   "via": "enlace directo del editor",
+   "prioritario": true
+  },
+  {
+   "key": "a31",
+   "journal": "JACC Cardiovasc Interv",
+   "doi": "10.1016/j.jcin.2026.06.030",
+   "url": "https://www.jacc.org/doi/10.1016/j.jcin.2026.06.030",
+   "via": "enlace directo del editor",
+   "prioritario": true
+  },
+  {
+   "key": "a32",
+   "journal": "JACC Cardiovasc Interv",
+   "doi": "10.1016/j.jcin.2026.06.015",
+   "url": "https://www.jacc.org/doi/10.1016/j.jcin.2026.06.015",
+   "via": "enlace directo del editor",
+   "prioritario": true
+  },
+  {
+   "key": "a33",
+   "journal": "Heart",
+   "doi": "10.1136/heartjnl-2026-328064",
+   "url": "https://doi.org/10.1136/heartjnl-2026-328064",
+   "via": "doi.org",
+   "prioritario": false
+  },
+  {
+   "key": "a34",
+   "journal": "J Am Heart Assoc",
+   "doi": "10.1161/JAHA.125.044789",
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.125.044789",
+   "via": "enlace directo del editor",
+   "prioritario": false
+  },
+  {
+   "key": "a35",
+   "journal": "J Am Heart Assoc",
+   "doi": "10.1161/JAHA.126.051598",
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.126.051598",
+   "via": "enlace directo del editor",
+   "prioritario": false
+  },
+  {
+   "key": "a36",
+   "journal": "JACC Cardiovasc Imaging",
+   "doi": "10.1016/j.jcmg.2026.07.016",
+   "url": "https://www.jacc.org/doi/10.1016/j.jcmg.2026.07.016",
+   "via": "enlace directo del editor",
+   "prioritario": true
+  },
+  {
+   "key": "a37",
+   "journal": "Eur Heart J Cardiovasc Imaging",
+   "doi": "10.1093/ehjci/jeag259",
+   "url": "https://doi.org/10.1093/ehjci/jeag259",
+   "via": "doi.org",
+   "prioritario": false
+  },
+  {
+   "key": "a38",
+   "journal": "Eur Heart J Cardiovasc Imaging",
+   "doi": "10.1093/ehjci/jeag232",
+   "url": "https://doi.org/10.1093/ehjci/jeag232",
+   "via": "doi.org",
+   "prioritario": false
+  },
+  {
+   "key": "a39",
+   "journal": "JACC Cardiovasc Imaging",
+   "doi": "10.1016/j.jcmg.2026.07.012",
+   "url": "https://www.jacc.org/doi/10.1016/j.jcmg.2026.07.012",
+   "via": "enlace directo del editor",
+   "prioritario": true
+  },
+  {
+   "key": "a40",
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103246",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103246",
+   "via": "enlace directo del editor",
+   "prioritario": true
+  },
+  {
+   "key": "a41",
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103237",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103237",
+   "via": "enlace directo del editor",
+   "prioritario": true
+  },
+  {
+   "key": "a42",
+   "journal": "JACC Cardiovasc Interv",
+   "doi": "10.1016/j.jcin.2026.06.028",
+   "url": "https://www.jacc.org/doi/10.1016/j.jcin.2026.06.028",
+   "via": "enlace directo del editor",
+   "prioritario": true
+  },
+  {
+   "key": "a43",
+   "journal": "Circ Cardiovasc Interv",
+   "doi": "10.1161/CIRCINTERVENTIONS.126.016978",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCINTERVENTIONS.126.016978",
+   "via": "enlace directo del editor",
+   "prioritario": false
+  },
+  {
+   "key": "a44",
+   "journal": "Circ Cardiovasc Interv",
+   "doi": "10.1161/CIRCINTERVENTIONS.126.016666",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCINTERVENTIONS.126.016666",
+   "via": "enlace directo del editor",
+   "prioritario": false
+  },
+  {
+   "key": "a45",
+   "journal": "J Am Heart Assoc",
+   "doi": "10.1161/JAHA.125.045052",
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.125.045052",
+   "via": "enlace directo del editor",
+   "prioritario": false
+  },
+  {
+   "key": "a46",
+   "journal": "Europace",
+   "doi": "10.1093/europace/euag256",
+   "url": "https://doi.org/10.1093/europace/euag256",
+   "via": "doi.org",
+   "prioritario": false
+  },
+  {
+   "key": "a47",
+   "journal": "Heart Rhythm",
+   "doi": "10.1016/j.hrthm.2026.09.005",
+   "url": "https://www.sciencedirect.com/science/article/pii/S1547527126027700",
+   "via": "enlace directo del editor",
+   "prioritario": true
+  },
+  {
+   "key": "a48",
+   "journal": "Heart Rhythm",
+   "doi": "10.1016/j.hrthm.2026.08.046",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42754239/",
+   "via": "linkfix (PubMed)",
+   "prioritario": false
+  },
+  {
+   "key": "a49",
+   "journal": "Europace",
+   "doi": "10.1093/europace/euag269",
+   "url": "https://doi.org/10.1093/europace/euag269",
+   "via": "doi.org",
+   "prioritario": false
+  },
+  {
+   "key": "a50",
+   "journal": "J Am Heart Assoc",
+   "doi": "10.1161/JAHA.126.049696",
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.126.049696",
+   "via": "enlace directo del editor",
+   "prioritario": false
+  }
+ ]
+}
