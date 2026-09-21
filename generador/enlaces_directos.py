@@ -148,6 +148,13 @@ def main():
             out[k] = "https://www.ahajournals.org/doi/" + doi
         elif j == "N Engl J Med":
             out[k] = "https://www.nejm.org/doi/full/" + doi
+        elif doi.upper().startswith("10.4244"):   # EuroIntervention
+            # OJO (21-sep-2026, N15): EuroIntervention YA NO se sirve desde ScienceDirect.
+            # Crossref declara como `resource.primary.URL` la web propia de la revista
+            # (eurointervention.pcronline.com), que es la que responde HTTP 200 y la que
+            # manda el PASO 5 ("URL DIRECTA del editor"). No hay PII que buscar: estos
+            # DOI no son 10.1016 y no pasan por la rama de Elsevier.
+            out[k] = "https://eurointervention.pcronline.com/doi/" + doi.upper()
         elif doi.startswith("10.1016"):           # Elsevier no-JACC: Heart Rhythm, Rev Esp Cardiol…
             pii = o.get("pii") or pii_de_crossref(doi)
             if pii:
