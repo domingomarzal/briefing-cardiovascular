@@ -1,0 +1,32 @@
+[
+ {
+  "idx": 125,
+  "elegible": true,
+  "motivo_descarte": "",
+  "sec": 1,
+  "ptype": "Análisis secundario de ensayo clínico",
+  "rel": 5,
+  "cambio": 5,
+  "evid": 7,
+  "efecto": 6,
+  "rep": 6,
+  "fi": 10,
+  "acr": "CREST-H",
+  "frase": "Tampoco hay beneficio cognitivo según el grado de deterioro hemodinámico cerebral."
+ },
+ {
+  "idx": 126,
+  "elegible": true,
+  "motivo_descarte": "",
+  "sec": 1,
+  "ptype": "Análisis secundario de ensayo clínico",
+  "rel": 6,
+  "cambio": 6,
+  "evid": 9,
+  "efecto": 7,
+  "rep": 8,
+  "fi": 10,
+  "acr": "CREST-2",
+  "frase": "La revascularización carotídea no mejora la cognición frente al tratamiento médico intensivo."
+ }
+]

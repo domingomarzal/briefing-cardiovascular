@@ -1,0 +1,112 @@
+[
+ {
+  "key": "a41",
+  "journal": "JACC Adv",
+  "doi": "10.1016/j.jacadv.2026.103237",
+  "seccion": "Cardiología intervencionista",
+  "ptype": "Metaanálisis",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Intravascular Imaging-Guided Percutaneous Coronary Intervention for Calcified Coronary Lesions: A Network Meta-Analysis",
+  "abstract": "BACKGROUND: The role of intravascular imaging guidance in percutaneous coronary intervention (PCI) of calcified coronary lesions remains incompletely defined. OBJECTIVES: The objective of the study was to compare intravascular ultrasound (IVUS) or optical coherence tomography (OCT) vs angiography-guided PCI in patients with calcified coronary lesions. METHODS: A systematic review and frequentist network meta-analysis was conducted. Randomized and observational studies comparing IVUS-, OCT-, and angiography-guided PCI in calcified lesions were included. The primary endpoint was major adverse cardiovascular events (MACE), defined as cardiac death, target vessel myocardial infarction, and target vessel revascularization (TVR). Secondary endpoints included target vessel failure, target lesion revascularization, TVR, minimum stent area (MSA), and stent thrombosis. RESULTS: Ten studies including 4,003 patients were included. IVUS- and OCT-guided PCI were associated with significantly lower MACE compared with angiography guidance (IVUS: relative risk [RR]: 0.56; 95% CI: 0.37-0.86; OCT: RR: 0.65; 95% CI: 0.52-0.82), with no statistically significant differences between imaging modalities. Results were consistent in randomized controlled trial-only sensitivity analyses. Stent thrombosis was also significantly lower with IVUS (RR: 0.15; 95% CI: 0.03-0.89) and OCT (RR: 0.12; 95% CI: 0.03-0.46). OCT-guided PCI was also associated with a larger MSA compared with angiography (MD +0.87 mm2; 95% CI: +0.03 to +1.70), whereas IVUS showed a nonsignificant trend in the same direction. No significant differences were observed for target vessel failure, target lesion revascularization, or TVR, although there was a trend in favor of imaging guidance for all outcomes. Heterogeneity was low except for MSA. CONCLUSIONS: In calcified coronary lesions, intravascular imaging is associated with lower MACE and stent thrombosis, compared with angiography guidance."
+ },
+ {
+  "key": "a42",
+  "journal": "JACC Cardiovasc Interv",
+  "doi": "10.1016/j.jcin.2026.06.028",
+  "seccion": "Cardiología intervencionista",
+  "ptype": "Análisis secundario de ensayo clínico",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Impact of Diabetes on Outcomes of Contemporary PCI Guided by OCT vs Angiography: The ILUMIEN IV Trial",
+  "abstract": "BACKGROUND: Patients with diabetes are at higher risk for adverse events after percutaneous coronary intervention (PCI) compared with patients without diabetes. OBJECTIVES: This study sought to assess the influence of diabetes and complex lesions on the outcomes of patients undergoing PCI with and without optical coherence tomography (OCT) guidance during a follow-up period of 2 years. METHODS: Patients in ILUMIEN IV randomized to OCT-guided vs angiography-guided PCI were grouped into those with (n = 1,044) and without diabetes (n = 1,443). Study endpoints were target vessel failure (TVF) and serious major adverse cardiovascular events (MACE). RESULTS: After adjustment for differences in clinical and angiographic characteristics, the 2-year rates of both TVF (9.9% vs 6.3%; adjusted HR: 1.48; 95% CI: 1.09-2.02; P = 0.01) and serious MACE (5.3% vs 2.7%; adjusted HR: 1.77; 95% CI: 1.14-2.76; P = 0.01) were increased in diabetic compared with nondiabetic patients, consistently in patients with and without complex lesions (Pinteraction = 0.22 and 0.14, respectively), although the highest 2-year rates were in patients with diabetes and complex lesions. In all randomized patients, OCT guidance compared with angiography guidance did not reduce TVF or serious MACE. These effects were consistent in patients with and without diabetes (Pinteraction = 0.41 and 0.20, respectively), and were not modified by treatment of complex lesions. CONCLUSIONS: In the large-scale ILUMIEN IV trial, patients with diabetes remained at increased risk for adverse events after PCI compared with nondiabetic patients despite the use of OCT procedural guidance. Patients with diabetes and complex lesions were at particularly high risk for adverse outcomes after PCI."
+ },
+ {
+  "key": "a43",
+  "journal": "Circ Cardiovasc Interv",
+  "doi": "10.1161/CIRCINTERVENTIONS.126.016978",
+  "seccion": "Cardiología intervencionista",
+  "ptype": "Análisis secundario de ensayo clínico",
+  "acr": "AGENT IDE",
+  "prio": "Complementario",
+  "title": "Influence of Chronic Kidney Disease on Outcomes After Paclitaxel-Coated Balloon Angioplasty for Coronary In-Stent Restenosis",
+  "abstract": "BACKGROUND: Drug-coated balloons (DCB) are superior to conventional balloon angioplasty in coronary in-stent restenosis. The influence of chronic kidney disease (CKD) on outcomes after DCB for in-stent restenosis is not well described. METHODS: A post hoc analysis of the AGENT IDE trial was performed to compare the efficacy and safety of DCB versus balloon angioplasty in patients with CKD (estimated glomerular filtration rate <60 mL/min per 1.73 m2) and those without renal impairment. The primary outcome was target lesion failure, a composite of ischemia-driven target lesion revascularization (TLR), target vessel myocardial infarction, or cardiac death. The 2 cohorts were compared using time-to-first-event and recurrent event methods through 2 years. RESULTS: Of the 406 patients randomized to DCB, 149 (25%) had CKD (mean estimated glomerular filtration rate 47.3±9.2). They were older and had greater multivessel disease and congestive heart failure than those without CKD. There were no differences in clinical presentation, Mehran in-stent restenosis patterns or technical success. The effect of DCB versus balloon angioplasty on 2-year target lesion failure was similar in patients with CKD (23.6% versus 30.0%; hazard ratio, 0.70 [95% CI, 0.35-1.39]) compared with those without CKD (28.1% versus 34.9%; hazard ratio, 0.74 [95% CI, 0.52-1.05]; PInt=0.90). Similarly, the effect of DCB on outcomes in the recurrent events analysis was not influenced by baseline renal function. CONCLUSIONS: Among patients undergoing intervention for in-stent restenosis, the benefit of DCB versus balloon angioplasty was consistent irrespective of baseline CKD status. Baseline renal function also did not influence outcomes in the recurrent event analysis. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT04647253."
+ },
+ {
+  "key": "a44",
+  "journal": "Circ Cardiovasc Interv",
+  "doi": "10.1161/CIRCINTERVENTIONS.126.016666",
+  "seccion": "Cardiología intervencionista",
+  "ptype": "Registro",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Minicrush or T-Stenting and Minimal Protrusion in Complex Coronary Bifurcation Lesions: The Multicenter TREX Registry",
+  "abstract": "BACKGROUND: Percutaneous coronary intervention of complex coronary bifurcation lesions frequently requires an upfront 2-stent strategy. Although the double kissing crush technique has been extensively studied, limited contemporary data are available comparing alternative 2-stent approaches, particularly Minicrush and T-stenting and minimal protrusion (TAP), in complex bifurcation anatomy. This study aimed to compare procedural characteristics and long-term clinical outcomes of Minicrush versus TAP stenting techniques in patients undergoing percutaneous coronary intervention for complex coronary bifurcation lesions. METHODS: The TREX registry is a multicenter, retrospective cohort study including consecutive patients treated with an upfront 2-stent strategy using Minicrush or TAP between November 2015 and April 2025. The primary end point was target lesion failure. Secondary end points included major adverse cardiac events and definite or probable stent thrombosis. Clinical outcomes were assessed for up to 10 years. RESULTS: Among 601 screened patients, 469 (78%) underwent an upfront 2-stent strategy (Minicrush: n=257; TAP: n=212). TLF occurred in 10.4% of patients, with no significant differences between groups at 1, 5, or 10 years. Major cardiovascular event rates were also comparable across all time points. In multivariable analyses, distal left main involvement and severe coronary calcification were the strongest predictors of TLF, whereas reduced left ventricular ejection fraction was the main predictor of major cardiovascular events. Definite or probable stent thrombosis occurred more frequently with TAP than with Minicrush (5.7% versus 0.8%; P<0.01). CONCLUSIONS: Minicrush and TAP provide comparable long-term efficacy in complex coronary bifurcation percutaneous coronary intervention; however, Minicrush is associated with a lower risk of stent thrombosis, suggesting a more favorable safety profile. REGISTRATION: URL: https://clinicaltrials.gov/; Unique Identifier: NCT06484647."
+ },
+ {
+  "key": "a45",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.125.045052",
+  "seccion": "Cardiología intervencionista",
+  "ptype": "Ensayo clínico aleatorizado",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Comparison of a Novel Occluder Versus Traditional Occluder in Atrial Septal Defect: A Randomized Trial",
+  "abstract": "BACKGROUND: Traditional occluders for atrial septal defect have 2 drawbacks: incomplete endothelialization and difficulty in achieving atrial septum puncture post implantation. The novel occluder ReAces was designed to address these 2 clinical pain points. In this study, we aimed to compare the efficacy and safety of ReAces with a traditional Amplatzer-like atrial septal defect occluder. METHODS: This was a multicenter, randomized, parallel-controlled, noninferiority clinical trial. Patients with atrial septal defects were enrolled and randomly implanted with a ReAces or a traditional Amplatzer-like occluder. The primary outcome was complete closure rate at 12 months post implantation. The Migraine Disability Assessment scores before and after the procedure were recorded. RESULTS: Sixty-two patients were implanted with ReAces and 64 patients with a traditional occluder. At the 12-month follow-up, complete closure was achieved in 61 patients in the trial group (98.4%) and 63 patients in the control group (98.4%), which demonstrated noninferiority (95% CI, -4.4% to 4.3%). No severe adverse events occurred during 12 months of follow-up except a case of device dislodgement in the trial group. The thickness of the central region of ReAces at the 12-month follow-up was significantly lower than that of the traditional device (6.8±3.7 mm versus 12.2±5.2, P<0.0001). The trial group showed a significantly lower Migraine Disability Assessment score (0.4±2.4 versus 1.4±4.1, P=0.042) and a lower proportion of patients with a nonzero Migraine Disability Assessment score (5.6% versus 18.2%, P=0.042) at the 1-month follow-up. CONCLUSIONS: The efficacy of ReAces was noninferior to that of a traditional Amplatzer-like occluder for transcatheter atrial septal defect closure. ReAces had a thinner central region during the follow-up and a lower Migraine Disability Assessment score at the 1-month follow-up. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT05371366."
+ },
+ {
+  "key": "a46",
+  "journal": "Europace",
+  "doi": "10.1093/europace/euag256",
+  "seccion": "Arritmias y electrofisiología",
+  "ptype": "Metaanálisis",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Yield of Atrial Fibrillation Screening according to Methodology and Patient Characteristics: An Individual Participant Data Meta-Analysis of 34,165 Individuals Screened for Atrial Fibrillation within the AFFECT-EU/AF-SCREEN Collaboration",
+  "abstract": "BACKGROUNDS AND AIMS: Atrial fibrillation (AF) screening may reduce adverse outcomes through early initiation of preventive treatment. However, more data are warranted to inform the yield of different screening strategies. This study aimed to evaluate how patient characteristics and screening methodologies influence screening yield. METHODS: We conducted an individual participant data meta-analysis of 12 European and North American study cohorts, by using generalized linear mixed models with random intercept at study level. RESULTS: In this meta-analysis of 34,165 participants screened for AF (age 73.4 ± 7.5 years and 53.5% female), the screening yield increased with more intensive approaches, ranging from 0.83% [95% confidence interval (CI): 0.24-2.87] in single-timepoint screening, to 5.06% [95% CI: 3.55-7.17] in intermittent (i.e. repeated single-timepoint) screening, 4.81% [95% CI: 3.79-6.08] in short-term continuous monitoring (≤30 days), and up to 30.39% [95% CI: 28.06-32.84] in long-term continuous monitoring (>30 days). Advanced age, male sex, hypertension, and heart failure (HF) were associated with detection. Significant interactions were observed between screening approach and age, sex, HF, CHADS2, and NT-proBNP. These risk factors had a stronger influence on AF detection with single-timepoint screening, compared with more intensive methods. CONCLUSIONS: In this meta-analysis, AF screening yield varied substantially by patient characteristics and screening approach. Advanced age, male sex, and HF were independently associated with greater AF detection, particularly in those having single-timepoint screening. Our findings support tailoring the screening approach to the individual target population in clinical practice. Further studies to assess clinical outcomes following screening are needed and underway."
+ },
+ {
+  "key": "a47",
+  "journal": "Heart Rhythm",
+  "doi": "10.1016/j.hrthm.2026.09.005",
+  "seccion": "Arritmias y electrofisiología",
+  "ptype": "Análisis secundario de ensayo clínico",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Rhythm-Guided Pill-in-the-Pocket Anticoagulation Following Cryoballoon Ablation: A COMPARE-CRYO post-hoc analysis",
+  "abstract": "BACKGROUND: Current guidelines recommend lifelong oral anticoagulation (OAC) for atrial fibrillation (AF) patients based on stroke risk, regardless of AF burden. Post-AF ablation trials report lower than expected stroke rates, raising the question of whether OAC could be reserved for periods of AF recurrence: rhythm-guided pill-in-the-pocket strategy. OBJECTIVE: Characterise long-term AF burden post-ablation and modelled rhythm guided OAC. METHODS: Post-hoc analysis of the COMPARE-CRYO trial of paroxysmal AF patients undergoing first-time cryoablation with continuous ICM monitoring. AF episodes were independently adjudicated. Rhythm-guided OAC strategies were modelled in patients with CHA2DS2-VA ≥1, triggered by daily burden of ≥6 minutes, ≥1 hour, ≥5.5 hours, and ≥23.5 hours with different OAC window durations. RESULTS: Among 201 patients over a median follow-up of 3.3 years, median daily AF burden was 0% (IQR, 0-0.01%), with AF absent on 96.5% of days. Of 108 patients with recurrence, 40% maintained very low burden (<0.1%) and 36% had low burden (0.1-1%). Among 139 patients with CHA2DS2-VA ≥1 a restart-and-continue strategy triggered by AF ≥6 minutes resulted in OAC during 32% of follow-up. Pill-in-the-pocket strategies with fixed OAC windows (14 or 30 days) reduced OAC by 90.8-99.4%. The ≥1-hour threshold with 30-day OAC window provided the most favourable balance, covering 97.5% of time in AF whilst reducing OAC exposure by 90.8%. CONCLUSIONS: Most patients maintained a consistently low AF burden after cryoablation. Rhythm-guided anticoagulation could substantially reduce OAC, with the ≥1-hour threshold best balancing OAC reduction and time-in-AF coverage. These strategies require prospective evaluation of clinical outcomes."
+ },
+ {
+  "key": "a48",
+  "journal": "Heart Rhythm",
+  "doi": "10.1016/j.hrthm.2026.08.046",
+  "seccion": "Arritmias y electrofisiología",
+  "ptype": "Scientific Statement",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Heart Rhythm Society and Heart Rhythm advocates position statement: Prior authorization in cardiac electrophysiology: Evidence, policy, and reform",
+  "abstract": "Prior authorization (PA) requirements imposed by Medicare Advantage (MA) and commercial insurers have evolved into a systematic barrier to guideline-indicated cardiac electrophysiology (EP) care, producing measurable patient harm, substantial administrative burden on physicians and allied professionals, and widening health care disparities. This paper examines the financial architecture of the MA capitation model and the structural incentives it creates for denial, characterizes the root causes of the denial system, including third-party denial organizations, artificial intelligence-based algorithms, and opaque coverage criteria; reviews federal oversight findings from the Office of Inspector General and the Senate Permanent Subcommittee on Investigations, and analyzes procedure-specific denial patterns for catheter ablation of atrial fibrillation, implantable cardioverter-defibrillator therapy, left atrial appendage occlusion, and cardiac resynchronization therapy with defibrillation. Federal audit data establish that a substantial proportion of denied PA requests meet Medicare's own coverage criteria and that the majority of appealed denials are overturned, yet most wrongful denials go uncontested. Clinical outcome data confirm that PA delays have direct clinical consequences across EP procedure categories. The regulatory and legislative landscape-spanning Centers for Medicare & Medicaid Services rulemaking from 2023 to 2026 and pending congressional action-is reviewed, and the paper concludes with a structured framework for appeals strategy, institutional advocacy, and physician-level engagement."
+ },
+ {
+  "key": "a49",
+  "journal": "Europace",
+  "doi": "10.1093/europace/euag269",
+  "seccion": "Arritmias y electrofisiología",
+  "ptype": "Análisis secundario de ensayo clínico",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Early rhythm control in patients with atrial fibrillation and cancer: A subgroup analysis of the EAST-AFNET 4 trial",
+  "abstract": "BACKGROUND AND AIMS: Early rhythm-control improves cardiovascular outcomes in patients with atrial fibrillation (AF). Its effectiveness in patients with cancer is unclear. This study evaluated the effects of cancer history on early rhythm-control in the EAST-AFNET 4 trial. METHODS: This secondary analysis of EAST-AFNET 4 compared patients with and without a history of cancer, including active cancer and cancer in remission. Outcomes included the primary outcome, a composite of cardiovascular death, stroke, or hospitalization for worsening heart failure or acute coronary syndrome; the safety outcome, a composite of death, stroke, and serious adverse events related to rhythm-control; and rhythm at 24 months. RESULTS: Cancer history was available in 2779/2789 patients (99.6%). Cancer history was present in 216/2779 (7.8%; 19 with active cancer; mean age, 73 years; 95 [44%] women; mean CHA2DS2-VASc score, 3.5). During a follow-up to 8.6 years, early rhythm control reduced the primary outcome in patients with and without a history of cancer (pinteraction = .23) with high rates of sinus rhythm at 24 months (cancer: 84.9%, without cancer: 81.8%; pinteraction = .60). In patients with a cancer history, there was a signal for more safety outcomes with early rhythm control (early rhythm control 36/116 [31%] patients with event, 22 deaths; usual care 20/100 [20%] patients with event, 18 deaths; pinteraction = .055). CONCLUSIONS: Early rhythm control therapy appears effective in patients with AF and a history of cancer but may be less safe than in patients without cancer, in this hypothesis-generating analysis. This could be play of chance but warrants further research into the safety and efficacy of rhythm control therapy in patients with a cancer history."
+ },
+ {
+  "key": "a50",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.126.049696",
+  "seccion": "Arritmias y electrofisiología",
+  "ptype": "Registro",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Trends in Incidence of Atrial Fibrillation-Related Stroke: The Norwegian AFNOR Study",
+  "abstract": "BACKGROUND: The increasing prevalence of atrial fibrillation (AF), along with changes in cardiovascular risk factors, AF detection and oral anticoagulant use, may have altered the epidemiology of AF-related stroke. However, population-based data on long-term trends remain limited. METHODS: Using mandatory nationwide registry data from the Atrial Fibrillation in Norway (AFNOR) study (2001-2021), we identified incident stroke cases defined as first hospitalization or death due to stroke in individuals aged ≥15 years. Age-standardized incidence rates were calculated using direct standardization. Sex- and age-adjusted incidence rate ratios (IRR) were estimated using negative binomial regression. RESULTS: Among 227 575 incident strokes, 66 795 (29.4%) were AF-related, and increased from 22% to 31% during 2001-2021, with 69% of all AF-related ischemic strokes occurring in non-anticoagulated individuals. Incidence rate of AF-related ischemic strokes remained stable overall (67.8 per 100 000 person-years in 2001 to 68.4 in 2021; IRR=1.01; 95% CI, 1.00-1.03) but increased among individuals aged 15 to 64 years. Non-AF ischemic strokes declined from 204.4 to 130.8 (IRR=0.98; 95% CI, 0.97-0.99). Incidence of AF-related intracerebral hemorrhage in individuals aged ≥75 years increased, driven by anticoagulated patients. Incidence of non-AF intracerebral hemorrhage decreased (IRR=0.98; 95% CI, 0.97-0.99). CONCLUSIONS: The favorable decline in ischemic stroke incidence from 2001 to 2021 did not include AF-related strokes. AF-related ischemic strokes increased in younger age groups, whereas AF-related intracerebral hemorrhage increased in the oldest age groups driven by anticoagulated patients. These findings underscore the need for improved strategies for AF detection and stroke prevention, particularly in younger populations, and greater attention towards management of bleeding risk among older, anticoagulated individuals."
+ }
+]

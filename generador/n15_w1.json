@@ -1,0 +1,112 @@
+[
+ {
+  "key": "a11",
+  "journal": "Ann Intern Med",
+  "doi": "10.7326/ANNALS-26-01374",
+  "seccion": "Dislipemia",
+  "ptype": "Guía de práctica clínica",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "A Synopsis of the 2025 U.S. Department of Veterans Affairs and U.S. Department of Defense Clinical Practice Guideline for Lipid Management for Cardiovascular Disease Risk Reduction",
+  "abstract": "DESCRIPTION: In December 2025, the U.S. Department of Veterans Affairs (VA) and the U.S. Department of Defense (DoD) released a clinical practice guideline (CPG) update on lipid management for cardiovascular disease risk reduction in adults. This synopsis reviews the 2025 updates and describes the major recommendations. METHODS: The VA/DoD guideline development team updated the 2020 VA/DoD lipid management CPG with clinical stakeholders. The guideline panel developed 12 key questions, systematically evaluated the literature (English-language publications from 16 May 2019 to 15 January 2025), and developed 24 evidence-based recommendations. The recommendations were graded using the GRADE (Grading of Recommendations Assessment, Development and Evaluation) system. RECOMMENDATIONS: This synopsis highlights key recommendations for lipid management that are new or differ from other guideline recommendations. This update recommends the Predicting Risk of Cardiovascular Disease EVENTs (PREVENT) calculator for risk estimation in primary prevention and removes a previous recommendation against routine lipid monitoring. Two new risk refinement strategies were added: Coronary artery calcium testing is suggested for patients with clinical uncertainty and intermediate-to-high calculated risk, and one-time lipoprotein(a) testing is recommended to identify patients with enhanced cardiovascular risk. For primary prevention, moderate-intensity statins remain the recommended treatment for those at higher risk and should be considered for those at intermediate risk. A new recommendation suggests moderate-intensity statins for adults living with HIV even when 10-year risk is low. This update shifts toward more intensive lipid-lowering therapy for secondary prevention. For very high-risk patients with atherosclerotic cardiovascular disease, the guideline now suggests combination therapy with high-intensity or maximally tolerated statins plus ezetimibe and/or proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitors. For statin-intolerant patients, alternatives include bempedoic acid, ezetimibe, fibrates, or PCSK9 monoclonal antibody inhibitors."
+ },
+ {
+  "key": "a12",
+  "journal": "Eur J Prev Cardiol",
+  "doi": "10.1093/eurjpc/zwag496",
+  "seccion": "Dislipemia",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Heterogeneity in Lipoprotein(a) Profile Changes Across the Menopausal Transition",
+  "abstract": "AIM: Assess changes in Lp(a) levels and transitions across ASCVD risk-thresholds by menopausal trajectory to inform risk stratification and testing recommendations. . METHODS:  We examined changes in Lp(a) between visits 1 and 2 among UK Biobank women. Analyses were examined by menopausal trajectory: those who underwent menopause (N=415), those who remained premenopausal (N=532), and those who remained postmenopausal (N=3,615) between visits. Change in Lp(a) between visits was also stratified by visit 1 Lp(a). The primary outcome was incident Lp(a) ≥125 nmol/L at visit 2, estimated using Poisson regression. RESULTS: Data were available for 4,562 women (mean visit 1 age = 57 years; median visit 1 Lp(a) = 22 nmol/L; median time between visits = 4 years). At visit 1, median Lp(a) was 23 nmol/L in postmenopausal women and 19 nmol/L in premenopausal women. Overall, median changes in Lp(a) between visits were modest. Among women with intermediate visit 1 Lp(a) (75-125 nmol/L), those who transitioned through menopause experienced a median increase of 34.9 nmol/L, approximately fourfold greater than women who remained pre- or postmenopausal. Further, 22 of 39 (56%) of women with intermediate visit 1 Lp(a) who had menopause between visits had incident Lp(a) ≥125 nmol/L at visit 2, compared with 29% and 28% of women who remained pre- or postmenopausal, representing a risk ratio of 2.27 (95% CI: 1.36, 3.78) after adjustment for visit 1 age and continuous Lp(a). CONCLUSIONS: Relying on a single lifetime Lp(a) measurement may miss reclassification across risk-enhancing thresholds during menopause, particularly for women with intermediate premenopausal levels."
+ },
+ {
+  "key": "a13",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.126.049323",
+  "seccion": "Dislipemia",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Real-World Effectiveness of Evolocumab in Reducing Major Adverse Cardiovascular Events: A Cohort Study",
+  "abstract": "BACKGROUND: Evolocumab reduces major adverse cardiovascular events in randomized trials, but evidence of its effectiveness in real-world clinical practice remains limited. METHODS: US adults with atherosclerotic cardiovascular disease who initiated evolocumab between 2017 and 2023 were identified from the Komodo Healthcare Map. At day 75 after initiation (index date), patients were classified as treated (remained on evolocumab) or nontreated (discontinued evolocumab before day 75). Patients were followed until the earliest of outcome occurrence, evolocumab discontinuation (treated group) or reinitiation (nontreated group), insurance disenrollment, end of database, or death. The primary outcome was a composite of myocardial infarction, stroke, or coronary revascularization; the secondary outcome was a composite of myocardial infarction, stroke, or cardiovascular disease death. Four-year cumulative incidence, risk ratios (RR), and 95% CIs were estimated, adjusting for confounders and informative censoring using inverse probability of treatment and censoring weights. Negative control outcomes were used to assess residual confounding before initiating comparative outcome analyses. RESULTS: After weighting, baseline characteristics were well balanced between treated (n=87 102) and nontreated (n=24 609) groups. At 4 years, treated patients had a 20% lower risk of the primary outcome (RR, 0.80 [95% CI, 0.73-0.86]) and a 29% lower risk of the secondary outcome (RR, 0.71 [95% CI, 0.64-0.78]) compared with nontreated patients. CONCLUSIONS: In a large, diverse, real-world population with atherosclerotic cardiovascular disease, evolocumab use was associated with significant reductions in major adverse cardiovascular events, supporting the effectiveness of guideline-recommended PCSK9 (proprotein convertase subtilisin/kexin type 9) inhibitor therapy in routine clinical practice."
+ },
+ {
+  "key": "a14",
+  "journal": "Atherosclerosis",
+  "doi": "10.1016/j.atherosclerosis.2026.121903",
+  "seccion": "Dislipemia",
+  "ptype": "Análisis secundario de ensayo clínico",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Lipoprotein(a) in acute myocardial infarction - insights from the randomised ASSAIL-MI trial",
+  "abstract": "BACKGROUND AND AIMS: Elevated circulating levels of lipoprotein(a) [Lp(a)] increase the risk of cardiovascular events. Plasma concentrations of biomarkers and lipoproteins may change substantially in the aftermath of myocardial infarction and may fluctuate with inflammation and lipid-lowering treatment. We aimed to assess the stability of plasma Lp(a) concentrations throughout the course of an ST-elevation myocardial infarction (STEMI) and to determine how Lp(a) levels changed with inflammation and anti-inflammatory treatment. METHODS: In 199 patients with STEMI who were randomized 1:1 to receive the interleukin-6 receptor inhibitor tocilizumab or placebo within 6 h of symptom onset, we measured Lp(a) at baseline, at 24 h, at 3-7 days, and at 3 and 6 months. We measured the myocardial salvage index, infarct size, and microvascular obstruction by magnetic resonance imaging 3-7 days after the STEMI. RESULTS: The median plasma level of Lp(a) at baseline was 17 (interquartile range 6 - 86) nmol/L. Plasma levels rose slightly over the first days after the infarction to a peak value of 25 (9 - 118) nmol/L at 3-7 days (p < 0.001) and 22 (8 - 110) at 6 months. Few patients moved between low- and high-risk categories during follow-up. Tocilizumab did not affect Lp(a) levels. Baseline Lp(a) was not associated with myocardial salvage, final infarct size, or the extent of microvascular obstruction. CONCLUSION: After myocardial infarction, there was a statistically significant, but not clinically relevant increase in Lp(a) levels that was not affected by inhibition of interleukin 6 signalling."
+ },
+ {
+  "key": "a15",
+  "journal": "Atherosclerosis",
+  "doi": "10.1016/j.atherosclerosis.2026.121900",
+  "seccion": "Dislipemia",
+  "ptype": "Estudio de casos y controles",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Cumulative LDL cholesterol exposure after percutaneous coronary intervention is associated with major adverse cardiovascular events",
+  "abstract": "BACKGROUND AND AIMS: We assessed whether AUC-derived cumulative low-density lipoprotein cholesterol (LDL-C) exposure after percutaneous coronary intervention (PCI) was associated with subsequent major adverse cardiac and cerebrovascular events (MACCE), and compared this longitudinal metric with the latest LDL-C measurement. METHODS: We conducted a retrospective, single-centre, matched case-control study of consecutive patients undergoing successful PCI from 2010 to 2020. Cases with major adverse cardiac and cerebrovascular events (MACCE) were matched 1:1 to event-free controls by follow-up duration. Cumulative LDL-C exposure was calculated from serial LDL-C measurements by the trapezoidal rule. Conditional logistic regression with restricted cubic splines was used, with prespecified multivariable adjustment for available baseline clinical characteristics. RESULTS: Among 544 matched pairs, cumulative LDL-C exposure was higher in MACCE cases than controls (median 489.8 vs 179.5 mg/dL·year; p < 0.001), whereas the latest LDL-C was modestly lower in cases (74.3 ± 26.6 vs 81.2 ± 26.4 mg/dL; p < 0.001). In the multivariable-adjusted spline model, the odds ratio at 400 mg/dL·year was 2.73 (95% CI, 2.24-3.32) relative to the median exposure in controls. Associations were consistent in time-truncated and component-specific exploratory analyses. CONCLUSIONS: In secondary prevention after PCI, AUC-derived cumulative LDL-C exposure was associated with MACCE beyond available baseline clinical characteristics and may complement snapshot LDL-C assessment. The apparent 400 mg/dL·year range is exploratory and hypothesis-generating, not a clinically actionable treatment target."
+ },
+ {
+  "key": "a16",
+  "journal": "JACC Cardiovasc Interv",
+  "doi": "10.1016/j.jcin.2026.07.012",
+  "seccion": "Cardiopatía isquémica",
+  "ptype": "Metaanálisis",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Ultrashort vs Standard-Duration Dual Antiplatelet Therapy in Acute Coronary Syndrome Patients Undergoing PCI: A Meta-Analysis",
+  "abstract": "BACKGROUND: The efficacy and safety of ultrashort (≤1-month) dual antiplatelet therapy (DAPT) followed by antiplatelet monotherapy remain uncertain in acute coronary syndrome (ACS) patients. OBJECTIVES: This study sought to compare ultrashort vs standard-duration DAPT in patients with ACS undergoing percutaneous coronary intervention (PCI). METHODS: We conducted a systematic review and meta-analysis of randomized controlled trials until February 15, 2026. Primary outcomes were major adverse cardiac and cerebrovascular events (MACCE), major bleeding, and net adverse clinical event (NACE). Prespecified subgroup analyses examined by ethnicity (East Asian vs non-East Asian) and abbreviation strategy (intensive: ≤1-week DAPT or clopidogrel/aspirin monotherapy vs moderate: ≥2-week DAPT, followed by ticagrelor/prasugrel monotherapy). RESULTS: Across 10 trials (n = 29,232), ultrashort DAPT did not increase MACCE risk (HR: 1.06; 95% CI: 0.93-1.20; P = 0.38; I2 = 24%), with higher MACCE risk observed in ST-segment elevation myocardial infarction (STEMI) but not non-ST-segment elevation ACS (NSTE-ACS), and significantly reduced major bleeding (HR: 0.47; 95% CI: 0.35-0.64; P < 0.00001; I2 = 44%), resulting in a net clinical benefit (HR: 0.83; 95% CI: 0.72-0.97; P = 0.02; I2 = 61%). Bleeding reduction was more pronounced in East Asians (HR: 0.35; 95% CI: 0.25-0.49; P < 0.00001; I2 = 0%) than non-East Asians (HR: 0.63; 95% CI: 0.43-0.93; P = 0.02; I2 = 44%), with a significant interaction (P = 0.02). The abbreviation strategy significantly modified outcomes (P for interaction = 0.003): intensive abbreviation raised MACCE risk (HR: 1.37; 95% CI: 1.11-1.69; P = 0.003; I2 = 0%), while moderate abbreviation had no statistically significant difference (HR: 0.96; 95% CI: 0.85-1.08; P = 0.47; I2 = 0%). CONCLUSIONS: In patients with ACS undergoing PCI, ultrashort DAPT reduced bleeding without increasing ischemic events overall, although a signal of increased MACCE was observed in STEMI but not in NSTE-ACS. Bleeding reduction was greater in East Asians, while ≤1-week DAPT or clopidogrel/aspirin monotherapy may increase ischemic risk."
+ },
+ {
+  "key": "a17",
+  "journal": "Circulation",
+  "doi": "10.1161/CIRCULATIONAHA.126.079317",
+  "seccion": "Cardiopatía isquémica",
+  "ptype": "Artículo de revisión",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Clinical Management of Myocardial Infarction",
+  "abstract": "Despite notable advancements in the acute and long-term management, coronary artery disease and myocardial infarction (MI) remain the leading cause of mortality worldwide. Atherothrombosis overlying coronary plaque rupture or erosion is the main pathophysiological mechanism of MI. Plaque disruption leads to the exposure of tissue factors and subintimal components to the luminal blood, triggering activation of the coagulation cascade and platelet aggregation, which ultimately result in luminal thrombosis. Protocolization of timely and effective revascularization in patients with acute MI is a milestone in the history of cardiovascular medicine. In the last decades, the widespread implementation of systems of care aimed at prioritizing immediate reperfusion by primary percutaneous coronary intervention or fibrinolysis (if primary percutaneous coronary intervention cannot be performed within 120 minutes), advancements in the acute phase management and secondary prevention measures has led to a substantial reduction of morbidity and mortality of MI. However, coronary artery disease and MI remains responsible for >370 000 deaths in the United States each year, and a nonnegligible proportion of patients with MI still experience recurrent cardiovascular events despite effective control of conventional risk factors. These considerations prompted the pursuit of adjunctive pharmacological agents aimed at facilitating reperfusion of the infarct-related artery and optimized secondary prevention measures to mitigate post-MI complications and residual risk for recurrent MI. This state-of-the-art review summarizes the contemporary clinical management of MI, focusing on diagnostic framework, approach to risk stratification, and treatment. A critical appraisal of the existing evidence on revascularization strategies (including timing and guidance of complete revascularization) and emerging pharmacological treatment approaches for secondary prevention of MI are also provided, with a special emphasis on the increasingly recognized entity characterized by MI without obstructive coronary artery disease. Further efforts are needed to refine risk prediction and diagnostic algorithms for occlusive MI, reduce delays to reperfusion, improve upon cardiogenic shock-related mortality, and ultimately advance adoption of secondary prevention measures that will further enhance patient outcomes."
+ },
+ {
+  "key": "a18",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.126.051333",
+  "seccion": "Cardiopatía isquémica",
+  "ptype": "Análisis secundario de ensayo clínico",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Impact of Left Internal Mammary Artery-to-Left Anterior Descending Artery Anastomotic Location on Graft Patency: A Secondary Analysis of the PATENCY Trial Data Set",
+  "abstract": "BACKGROUND: The impact of the left internal mammary artery (LIMA)-to-left anterior descending artery (LAD) anastomotic location on graft patency remains uncertain. METHODS: This study included 1597 patients with isolated proximal LAD lesions from the PATENCY (Graft Patency Between no-touch Vein Harvesting Technique and Conventional Approach in Coronary Artery Bypass Graft Surgery) trial who underwent coronary artery bypass grafting. The relative anastomotic site (RAS) of the LIMA-LAD anastomosis was quantified using postoperative coronary computed tomography angiography and defined as the ratio of anastomotic height/heart height. The primary end point was LIMA occlusion at 3 years, and the secondary end point was major adverse cardiac events. Multivariable logistic regression was used to evaluate the association between RAS and 3-year LIMA occlusion, and Cox proportional hazards regression was used to evaluate associations with time-to-event clinical outcomes. RESULTS: The exploratory RAS threshold was 46%. Distal anastomosis (RAS >46%) was associated with a significantly lower 3-year LIMA occlusion rate compared with proximal anastomosis (RAS ≤46%) (2.3% versus 6.3%; adjusted odds ratio, 0.37 [95% CI, 0.20-0.68]; P=0.002). At 3 years, major adverse cardiac event rates were similar between groups (3.4% versus 4.4%; adjusted hazard ratio, 0.68 [95% CI, 0.40-1.15]; P=0.16). CONCLUSIONS: In patients with isolated proximal LAD disease, a more distal LIMA-LAD anastomotic location may be associated with a lower risk of graft occlusion at 3 years. Further prospective validation is warranted."
+ },
+ {
+  "key": "a19",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.126.049660",
+  "seccion": "Cardiopatía isquémica",
+  "ptype": "Inteligencia artificial / modelo predictivo",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Development and Validation of an Interpretable Prediction Model for IVIG-Resistant Kawasaki Disease: A Multicenter Prospective Cohort Study",
+  "abstract": "BACKGROUND: Early identification of intravenous immunoglobulin-resistant Kawasaki disease is important for reducing the risk of coronary artery lesions. We aimed to develop, externally validate, and deploy an interpretable machine-learning model for early prediction of intravenous immunoglobulin-resistant Kawasaki disease. METHODS: The derivation cohort included 3023 patients with Kawasaki disease admitted to Children's Hospital of Soochow University from January 2020 to December 2024 and was used for model training and internal validation. External validation included 1632 patients from 3 independent hospitals during the same period. Thirty-three clinical variables available within 24 hours of admission were used to develop 12 machine-learning models. Model discrimination was assessed using the area under the curve, and Shapley Additive Explanations were used for model interpretation. RESULTS: Among the 12 algorithms, the Extra Trees model showed the best discriminative performance. After feature reduction, an interpretable Extra Trees model incorporating 8 variables was selected. The model achieved area under the curve of 0.865 in internal validation, 0.890 in the Anhui cohort (n=654), 0.805 in the Xuzhou cohort (n=574), and 0.853 in the Suqian cohort (n=404). The final model was implemented as a web-based application for individualized risk estimation. CONCLUSIONS: We developed and externally validated an interpretable machine-learning model for early prediction of intravenous immunoglobulin-resistant Kawasaki disease. Shapley Additive Explanations-based interpretation and web deployment may facilitate individualized risk assessment and clinical decision-making."
+ },
+ {
+  "key": "a20",
+  "journal": "JACC Adv",
+  "doi": "10.1016/j.jacadv.2026.103194",
+  "seccion": "Cardiopatía isquémica",
+  "ptype": "Estudio observacional",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Objective and Subjective Multidimensional Sleep Health in Women After Myocardial Infarction",
+  "abstract": "BACKGROUND: Poor sleep after acute cardiovascular events is associated with increased mortality. Women are more likely than men to report sleep disturbances after cardiovascular events, but other sleep metrics linked to cardiometabolic health remain underexplored. OBJECTIVES: We characterize multiple dimensions of sleep and examine factors associated with poor sleep among women with prior myocardial infarction (MI). METHODS: Participants completed 7 nights of wrist actigraphy, which measured sleep duration, sleep efficiency, and wake after sleep onset (WASO), and sleep diary, which measured self-reported sleep quality using a Likert scale. Multivariable regression modeled associations between sociodemographic, clinical, and psychosocial characteristics and sleep measures. RESULTS: Among 94 post-MI women (median days since MI 93; IQR: 69-709), mean age was 60 years, and 67.0% identified as non-Hispanic White. The mean sleep duration was 405.1 minutes (approximately 6.8 hours), sleep efficiency 86.3%, WASO 61.6 minutes, and self-reported sleep quality 3.3, indicating fair-to-good sleep quality. Overall, 64.9% of women had short (<7 hours) or long (>9 hours) sleep duration, 33% low sleep efficiency (<85%), and 88.3% long WASO (>30 minutes). In exploratory analyses, associations with poor sleep included identifying as other than non-Hispanic White (shorter sleep duration, lower efficiency, and longer WASO), being nonpartnered (shorter sleep duration), hypertension (lower sleep efficiency), and higher depressive symptoms (lower sleep quality). CONCLUSIONS: Many women with prior MI had suboptimal sleep (short or long sleep duration, low sleep efficiency, and/or long WASO). Our results highlight the importance of discussing multiple dimensions of sleep with women post-MI to optimize cardiovascular health."
+ }
+]

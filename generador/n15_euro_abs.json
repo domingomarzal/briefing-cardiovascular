@@ -1,0 +1,92 @@
+[
+  {
+    "doi": "10.4244/EIJ-D-26-01008",
+    "title": "Breaking up with aspirin: it’s not all about sex; patient factors matter too",
+    "tipo": "EDITORIAL",
+    "elegible": false,
+    "abstract": "",
+    "fuente": "Crossref API (api.crossref.org/works/10.4244/EIJ-D-26-01008)",
+    "nota": "EuroIntervention 2026;22(18):e964-e967 (4 pags), 2 autores, 11 referencias. Cita en sus referencias el DOI 10.4244/EIJ-D-26-00332 (el original de SMART-CHOICE 3 del mismo numero): es el editorial acompanante. Tipo inferido de metadatos Crossref verificados: paginacion, numero de autores, numero de referencias y referencias cruzadas entre articulos del mismo numero (EuroIntervention 2026;22(18)). Sin abstract (Crossref no deposita abstract y los editoriales de EuroIntervention no llevan resumen)."
+  },
+  {
+    "doi": "10.4244/EIJ-D-26-00723",
+    "title": "Reply: Unresolved mechanistic and safety questions from the GLUCO-TAVI trial",
+    "tipo": "REPLY",
+    "elegible": false,
+    "abstract": "",
+    "fuente": "Crossref API (api.crossref.org/works/10.4244/EIJ-D-26-00723)",
+    "nota": "EuroIntervention 2026;22(18):e1017-e1018 (2 pags), 4 autores, 7 referencias. Cita el DOI 10.4244/EIJ-D-26-00693 (la carta) y 10.4244/EIJ-D-26-00032 (el ensayo GLUCO-TAVI): es la respuesta de los autores. Tipo inferido de metadatos Crossref verificados: paginacion, numero de autores, numero de referencias y referencias cruzadas entre articulos del mismo numero (EuroIntervention 2026;22(18)). Las replies no llevan abstract."
+  },
+  {
+    "doi": "10.4244/EIJ-D-26-00878",
+    "title": "Cardiogenic shock after cardiac arrest: phenotype before escalation",
+    "tipo": "EDITORIAL",
+    "elegible": false,
+    "abstract": "",
+    "fuente": "Crossref API (api.crossref.org/works/10.4244/EIJ-D-26-00878)",
+    "nota": "EuroIntervention 2026;22(18):e968-e969 (2 pags), 2 autores, 10 referencias. Cita el DOI 10.4244/EIJ-D-26-00092 (el original SCAI-V del mismo numero): editorial acompanante. Tipo inferido de metadatos Crossref verificados: paginacion, numero de autores, numero de referencias y referencias cruzadas entre articulos del mismo numero (EuroIntervention 2026;22(18)). Sin abstract."
+  },
+  {
+    "doi": "10.4244/EIJ-D-26-00693",
+    "title": "Letter: Unresolved mechanistic and safety questions from the GLUCO-TAVI trial",
+    "tipo": "LETTER",
+    "elegible": false,
+    "abstract": "",
+    "fuente": "Crossref API (api.crossref.org/works/10.4244/EIJ-D-26-00693)",
+    "nota": "EuroIntervention 2026;22(18):e1015-e1016 (2 pags), 3 autores, 3 referencias. Cita el DOI 10.4244/EIJ-D-26-00032 (GLUCO-TAVI). Carta al editor (el propio titulo lleva el prefijo 'Letter:'). Tipo inferido de metadatos Crossref verificados: paginacion, numero de autores, numero de referencias y referencias cruzadas entre articulos del mismo numero (EuroIntervention 2026;22(18)). Sin abstract."
+  },
+  {
+    "doi": "10.4244/EIJ-D-26-00126",
+    "title": "Radial wall strain for residual risk stratification after percutaneous coronary intervention",
+    "tipo": "ORIGINAL RESEARCH",
+    "elegible": true,
+    "abstract": "",
+    "fuente": "Tipo: Crossref API (api.crossref.org/works/10.4244/EIJ-D-26-00126). Abstract: NO CONSEGUIDO.",
+    "nota": "EuroIntervention 2026;22(18):e978-e989 (12 pags), 14 autores, 29 referencias -> articulo original. Tipo inferido de metadatos Crossref verificados: paginacion, numero de autores, numero de referencias y referencias cruzadas entre articulos del mismo numero (EuroIntervention 2026;22(18)). Abstract NO obtenido. Intentos: (1) Crossref API (api.crossref.org) -> registro existe pero SIN campo abstract; (2) PubMed/E-utilities (esearch por DOI [AID], por titulo [Title], y por EuroIntervention[Journal]+22[volume]+18[issue]) -> 0 resultados: el numero 22(18) aun no esta indexado en PubMed; (3) MCP PubMed convert_article_ids -> API_ERROR; (4) MCP Consensus search (Semantic Scholar/PubMed/Scopus) -> el articulo no esta en el indice; (5) MCP Scholar_Gateway semanticSearch -> corpus Wiley, no contiene EuroIntervention; (6) MCP Elicit search_papers -> error api_access_denied (plan sin acceso API); (7) WebSearch (con y sin allowed_domains=eurointervention.pcronline.com) -> el articulo no esta indexado todavia; (8) WebFetch a doi.org, eurointervention.pcronline.com, www.pcronline.com, pubmed.ncbi.nlm.nih.gov, www.ebi.ac.uk (Europe PMC), api.openalex.org y api.semanticscholar.org -> todos EGRESS_BLOCKED. NO se rellena con texto plausible."
+  },
+  {
+    "doi": "10.4244/EIJ-D-25-01059",
+    "title": "Intentional fenestration of an intracoronary membrane-like structure with excimer laser",
+    "tipo": "IMAGE",
+    "elegible": false,
+    "abstract": "",
+    "fuente": "Crossref API (api.crossref.org/works/10.4244/EIJ-D-25-01059)",
+    "nota": "EuroIntervention 2026;22(18):e1013-e1014 (2 pags), 5 autores, 3 referencias, sin referencias cruzadas. Formato corto tipo imagen/caso ('Image - Interventional flashlight' o case report breve); no he podido confirmar la etiqueta exacta de seccion porque la web de EuroIntervention esta bloqueada por el proxy. En cualquier caso NO es investigacion original y no lleva abstract. Tipo inferido de metadatos Crossref verificados: paginacion, numero de autores, numero de referencias y referencias cruzadas entre articulos del mismo numero (EuroIntervention 2026;22(18))."
+  },
+  {
+    "doi": "10.4244/EIJ-D-26-00092",
+    "title": "Phenotypes of cardiogenic shock after out-of-hospital cardiac arrest: the SCAI-V classification",
+    "tipo": "ORIGINAL RESEARCH",
+    "elegible": true,
+    "abstract": "",
+    "fuente": "Tipo: Crossref API (api.crossref.org/works/10.4244/EIJ-D-26-00092). Abstract: NO CONSEGUIDO.",
+    "nota": "EuroIntervention 2026;22(18):e1001-e1012 (12 pags), 28 autores, 34 referencias -> articulo original; tiene editorial acompanante (10.4244/EIJ-D-26-00878). Tipo inferido de metadatos Crossref verificados: paginacion, numero de autores, numero de referencias y referencias cruzadas entre articulos del mismo numero (EuroIntervention 2026;22(18)). Abstract NO obtenido. Intentos: (1) Crossref API (api.crossref.org) -> registro existe pero SIN campo abstract; (2) PubMed/E-utilities (esearch por DOI [AID], por titulo [Title], y por EuroIntervention[Journal]+22[volume]+18[issue]) -> 0 resultados: el numero 22(18) aun no esta indexado en PubMed; (3) MCP PubMed convert_article_ids -> API_ERROR; (4) MCP Consensus search (Semantic Scholar/PubMed/Scopus) -> el articulo no esta en el indice; (5) MCP Scholar_Gateway semanticSearch -> corpus Wiley, no contiene EuroIntervention; (6) MCP Elicit search_papers -> error api_access_denied (plan sin acceso API); (7) WebSearch (con y sin allowed_domains=eurointervention.pcronline.com) -> el articulo no esta indexado todavia; (8) WebFetch a doi.org, eurointervention.pcronline.com, www.pcronline.com, pubmed.ncbi.nlm.nih.gov, www.ebi.ac.uk (Europe PMC), api.openalex.org y api.semanticscholar.org -> todos EGRESS_BLOCKED. NO se rellena con texto plausible. AVISO: WebSearch devolvio resumenes generados por IA sobre estudios DISTINTOS (abstract de congreso del EHJ 2023 y un articulo de JAHA 2024 sobre la clasificacion SCAI modificada en OHCA); NO son el abstract de este articulo y por eso no se han copiado."
+  },
+  {
+    "doi": "10.4244/EIJ-D-26-00332",
+    "title": "Clopidogrel monotherapy versus aspirin monotherapy in females and males after percutaneous coronary intervention: a sex-stratified analysis of the SMART-CHOICE 3 trial",
+    "tipo": "ORIGINAL RESEARCH",
+    "elegible": true,
+    "abstract": "",
+    "fuente": "Tipo y titulo completo: Crossref API (api.crossref.org/works/10.4244/EIJ-D-26-00332). Abstract: NO CONSEGUIDO.",
+    "nota": "OJO: el titulo completo real incluye el subtitulo ': a sex-stratified analysis of the SMART-CHOICE 3 trial' (el de la lista de entrada estaba truncado). EuroIntervention 2026;22(18):e990-e1000 (11 pags), 37 autores, 30 referencias -> articulo original; tiene editorial acompanante (10.4244/EIJ-D-26-01008). Tipo inferido de metadatos Crossref verificados: paginacion, numero de autores, numero de referencias y referencias cruzadas entre articulos del mismo numero (EuroIntervention 2026;22(18)). Abstract NO obtenido. Intentos: (1) Crossref API (api.crossref.org) -> registro existe pero SIN campo abstract; (2) PubMed/E-utilities (esearch por DOI [AID], por titulo [Title], y por EuroIntervention[Journal]+22[volume]+18[issue]) -> 0 resultados: el numero 22(18) aun no esta indexado en PubMed; (3) MCP PubMed convert_article_ids -> API_ERROR; (4) MCP Consensus search (Semantic Scholar/PubMed/Scopus) -> el articulo no esta en el indice; (5) MCP Scholar_Gateway semanticSearch -> corpus Wiley, no contiene EuroIntervention; (6) MCP Elicit search_papers -> error api_access_denied (plan sin acceso API); (7) WebSearch (con y sin allowed_domains=eurointervention.pcronline.com) -> el articulo no esta indexado todavia; (8) WebFetch a doi.org, eurointervention.pcronline.com, www.pcronline.com, pubmed.ncbi.nlm.nih.gov, www.ebi.ac.uk (Europe PMC), api.openalex.org y api.semanticscholar.org -> todos EGRESS_BLOCKED. NO se rellena con texto plausible. AVISO: WebSearch solo devolvio informacion del ensayo principal SMART-CHOICE 3 (Lancet 2025, PMID 40174599) y del subanalisis de diabetes (JACC Cardiovasc Interv, PMID 42461194); NO son este articulo y por eso no se han copiado."
+  },
+  {
+    "doi": "10.4244/EIJ-D-26-00055",
+    "title": "Clinical outcomes of FFR-guided revascularisation of non-culprit lesions in NSTE-ACS",
+    "tipo": "ORIGINAL RESEARCH",
+    "elegible": true,
+    "abstract": "",
+    "fuente": "Tipo: Crossref API (api.crossref.org/works/10.4244/EIJ-D-26-00055). Abstract: NO CONSEGUIDO.",
+    "nota": "EuroIntervention 2026;22(18):e970-e977 (8 pags), 17 autores, 31 referencias -> articulo original; tiene editorial acompanante (10.4244/EIJ-D-26-00956). Tipo inferido de metadatos Crossref verificados: paginacion, numero de autores, numero de referencias y referencias cruzadas entre articulos del mismo numero (EuroIntervention 2026;22(18)). Abstract NO obtenido. Intentos: (1) Crossref API (api.crossref.org) -> registro existe pero SIN campo abstract; (2) PubMed/E-utilities (esearch por DOI [AID], por titulo [Title], y por EuroIntervention[Journal]+22[volume]+18[issue]) -> 0 resultados: el numero 22(18) aun no esta indexado en PubMed; (3) MCP PubMed convert_article_ids -> API_ERROR; (4) MCP Consensus search (Semantic Scholar/PubMed/Scopus) -> el articulo no esta en el indice; (5) MCP Scholar_Gateway semanticSearch -> corpus Wiley, no contiene EuroIntervention; (6) MCP Elicit search_papers -> error api_access_denied (plan sin acceso API); (7) WebSearch (con y sin allowed_domains=eurointervention.pcronline.com) -> el articulo no esta indexado todavia; (8) WebFetch a doi.org, eurointervention.pcronline.com, www.pcronline.com, pubmed.ncbi.nlm.nih.gov, www.ebi.ac.uk (Europe PMC), api.openalex.org y api.semanticscholar.org -> todos EGRESS_BLOCKED. NO se rellena con texto plausible."
+  },
+  {
+    "doi": "10.4244/EIJ-D-26-00956",
+    "title": "Fractional flow reserve in non-ST-segment elevation acute coronary syndrome",
+    "tipo": "EDITORIAL",
+    "elegible": false,
+    "abstract": "",
+    "fuente": "Crossref API (api.crossref.org/works/10.4244/EIJ-D-26-00956)",
+    "nota": "EuroIntervention 2026;22(18):e962-e963 (2 pags), 2 autores, 8 referencias. Cita el DOI 10.4244/EIJ-D-26-00055 (el original de FFR en SCASEST del mismo numero): editorial acompanante. Tipo inferido de metadatos Crossref verificados: paginacion, numero de autores, numero de referencias y referencias cruzadas entre articulos del mismo numero (EuroIntervention 2026;22(18)). Sin abstract."
+  }
+]
