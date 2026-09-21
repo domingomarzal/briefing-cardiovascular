@@ -31,6 +31,14 @@ def jlink(doi, title, key=None):
     # siempre resuelve y ofrece el enlace al editor. El mapa lo genera check_links.py.
     if key and key in LINKFIX:
         return LINKFIX[key]
+    # JLINKS: URL DIRECTA del editor, que es lo que manda el PASO 5 de la SKILL desde
+    # junio de 2026 («prefiriendo la URL DIRECTA del editor, para que abra sin saltos»)
+    # y que hasta N14 no se aplicaba: TODO salía por doi.org. Enviar la familia JACC por
+    # doi.org es justamente lo que la hacía rebotar en linkinghub. El mapa lo genera
+    # generador/enlaces_directos.py a partir de la plataforma de cada revista y del PII
+    # que el propio editor registra en Crossref. Ver PASO 7b.
+    if key and key in JLINKS:
+        return JLINKS[key]
     return ("https://doi.org/"+doi) if doi else ("https://pubmed.ncbi.nlm.nih.gov/?term="+quote(title))
 
 def titles(a):
@@ -65,12 +73,13 @@ VARIANTS = {
 }
 
 # ---- build per-article presentation ----
-BY = {}; ALL = {}; VIZ = ""; LINKFIX = {}
+BY = {}; ALL = {}; VIZ = ""; LINKFIX = {}; JLINKS = {}
 def setup(cfg):
-    global DATA, NUM, PERIOD, DESTACADO_KEY, TOP3, _ACR, VIZ, BY, ALL, LINKFIX
+    global DATA, NUM, PERIOD, DESTACADO_KEY, TOP3, _ACR, VIZ, BY, ALL, LINKFIX, JLINKS
     DATA = json.load(open(cfg["data"])); NUM = cfg["num"]; PERIOD = cfg["period"]
     DESTACADO_KEY = cfg["dest"]; TOP3 = cfg["top3"]; _ACR = cfg["acr"]; VIZ = cfg["viz"]
     LINKFIX = cfg.get("linkfix", {})
+    JLINKS  = cfg.get("jlinks", {})
     BY = {}
     for k, a in DATA.items():
         es, en = titles(a); a["_t_es"], a["_t_en"] = es, en
@@ -999,6 +1008,7 @@ CONFIGS = [
  dict(n="n11", linkfix=_acr(BASE+"/generador/n11_linkfix.json"), data=BASE+"/generador/n11_data.json", num="Nº 11", period=("17 al 23 de agosto de 2026","August 17–23, 2026"), dest="a41", top3=["a6","a42","a46"], acr=_acr(BASE+"/generador/n11_acr.json"), viz=_viz(BASE+"/generador/n11_viz.html"), local="Briefing Cardiovascular_N11", lnum="N11"),
  dict(n="n12", linkfix=_acr(BASE+"/generador/n12_linkfix.json"), data=BASE+"/generador/n12_data.json", num="Nº 12", period=("24 al 30 de agosto de 2026","August 24–30, 2026"), dest="a21", top3=["a6","a1","a16"], acr=_acr(BASE+"/generador/n12_acr.json"), viz=_viz(BASE+"/generador/n12_viz.html"), local="Briefing Cardiovascular_N12", lnum="N12"),
  dict(n="n13", linkfix=_acr(BASE+"/generador/n13_linkfix.json"), data=BASE+"/generador/n13_data.json", num="Nº 13", period=("31 de agosto al 6 de septiembre de 2026","August 31 – September 6, 2026"), dest="a11", top3=["a12","a41","a42"], acr=_acr(BASE+"/generador/n13_acr.json"), viz=_viz(BASE+"/generador/n13_viz.html"), local="Briefing Cardiovascular_N13", lnum="N13"),
+ dict(n="n14", linkfix=_acr(BASE+"/generador/n14_linkfix.json"), jlinks=_acr(BASE+"/generador/n14_jlinks.json"), data=BASE+"/generador/n14_data.json", num="Nº 14", period=("7 al 13 de septiembre de 2026","September 7–13, 2026"), dest="a30", top3=["a23","a35","a36"], acr=_acr(BASE+"/generador/n14_acr.json"), viz=_viz(BASE+"/generador/n14_viz.html"), local="Briefing Cardiovascular_N14", lnum="N14"),
 ]
 import sys as _sys
 ONLY = _sys.argv[1] if len(_sys.argv) > 1 else None

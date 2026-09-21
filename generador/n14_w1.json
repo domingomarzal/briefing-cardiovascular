@@ -1,0 +1,112 @@
+[
+ {
+  "key": "a11",
+  "journal": "Eur J Prev Cardiol",
+  "doi": "10.1093/eurjpc/zwag481",
+  "seccion": "Dislipemia",
+  "ptype": "Documento de consenso",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Lipid lowering therapy in venous thromboembolism. A Clinical Consensus Statement of the ESC Working Group on Aorta and Peripheral Vascular Diseases, the ESC Working Group on Cardiovascular Pharmacotherapy, the ESC Working Group on Pulmonary Circulation & Right Ventricular Function, and the European Society of Vascular Medicine (ESVM)",
+  "abstract": "The aim of this clinical consensus statement of the European Society of Cardiology Working Group on Aorta and Peripheral Vascular Diseases, the Working Group on Cardiovascular Pharmacotherapy, the Working Group on Pulmonary Circulation & Right Ventricular Function, and the European Society of Vascular Medicine is to summarize existing evidence on lipid-lowering therapy (LLT) in primary and secondary prevention of venous thromboembolism (VTE). VTE, which comprises deep vein thrombosis (DVT) and pulmonary embolism (PE), shares common risk factors with atherosclerotic cardiovascular disease (ASCVD). While anticoagulation is the mainstay in the management of patients with VTE, it may be appropriate to define LLT as risk modifier in primary prevention of VTE in populations at high cardiovascular risk. In patients with VTE, assessment of cardiovascular risk factors, including lipid levels, is commonly part of routine cardiovascular care in accordance with existing ESC Guidelines. Finally, this clinical consensus statement highlights the gaps in evidence and the need for large-scale studies directly investigating the role of LLT in secondary prevention of recurrent VTE in high-risk populations."
+ },
+ {
+  "key": "a12",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.125.048729",
+  "seccion": "Dislipemia",
+  "ptype": "Ensayo clínico aleatorizado",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Add-On PCSK9 Inhibitor Therapy for Acute Stroke Attributable to Intracranial Atherosclerosis: A Randomized Clinical Trial",
+  "abstract": "BACKGROUND: Intracranial atherosclerotic stenosis is a major cause of ischemic stroke with high recurrence rates despite intensive therapy. The efficacy of proprotein convertase subtilisin/kexin type 9 inhibitors (PCSK9i) as adjunctive treatment in intracranial atherosclerotic stenosis remains unclear. METHODS: We conducted a prospective, randomized, open-label, blinded-end point trial involving 62 patients with symptomatic intracranial atherosclerotic stenosis. Participants were randomized 1:2 to receive either a PCSK9i (alirocumab 75 mg every 2 weeks) plus high-intensity statin or high-intensity statin alone for 6 months. The primary outcome was the change in intracranial artery stenosis measured by high-resolution vessel-wall magnetic resonance imaging. Secondary outcomes included plaque enhancement volume, low-density lipoprotein cholesterol target achievement (<55 mg/dL), recurrent stroke events, modified Rankin Scale, and safety assessments. RESULTS: Among 62 participants (median age, 66 years; 77% men), 60 completed the study per protocol. At 6 months, median stenosis reduction was greater in the PCSK9i group (7.1%; interquartile range, 3.6-12.8%) than in controls (-1.2%; interquartile range, -4.9-4.5%) (P<0.001). The baseline-adjusted mean difference estimated using a generalized linear model was 8.9 percentage points (95% CI, 5.1-12.6). Both groups showed significant reduction in plaque enhancement volume, but between-group difference was not significant (4.3 versus 4.0 mm3; P=0.79). Low-density lipoprotein cholesterol <55 mg/dL was achieved in 85% of the PCSK9i group versus 13% of controls (P<0.01). Recurrent stroke occurred in 5% versus 13% of patients (P=0.34). No serious adverse events were reported in either group. CONCLUSIONS: In patients with symptomatic intracranial atherosclerotic stenosis, adjunctive PCSK9i therapy significantly reduced intracranial stenosis and improved low-density lipoprotein cholesterol control over 6 months. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique Identifier: NCT05001984."
+ },
+ {
+  "key": "a13",
+  "journal": "JACC Adv",
+  "doi": "10.1016/j.jacadv.2026.103233",
+  "seccion": "Dislipemia",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "PCSK9 Inhibitors and Risk of Aortic Stenosis in Atherosclerotic Cardiovascular Disease",
+  "abstract": "BACKGROUND: Atherosclerotic cardiovascular disease (ASCVD) and aortic stenosis (AS) share lipid-related mechanisms. Although statins have not slowed established AS progression in randomized trials, whether proprotein convertase subtilisin/kexin type 9 inhibitors (PCSK9is) are associated with lower incident AS risk remains uncertain. OBJECTIVES: The objective of the study was to assess the association between PCSK9is use and incident AS in statin-treated patients with ASCVD. METHODS: Using TriNetX, we conducted a retrospective new-user cohort study of adults aged ≥60 years with ASCVD receiving statins from January 1, 2015, to August 31, 2025. PCSK9is were compared with statin-only users after 1:1 propensity score matching. The primary outcome was new-onset AS within 5 years; secondary outcomes included all-cause mortality, heart failure exacerbation (HFE), and aortic valve replacement. RESULTS: After 1:1 matching, 22,924 patients remained in each group. PCSK9is use was associated with a lower risk of AS (HR: 0.87; 95% CI: 0.78-0.97; P = 0.012), all-cause mortality, and HFE. Aortic valve replacement reduction was not significant. Subgroup analyses showed statistically significant interaction was observed only for chronic kidney disease and heart failure. CONCLUSIONS: In statin-treated patients with ASCVD, PCSK9i use was associated with a modestly lower 5-year incidence of new-onset AS. Large mortality and HFE associations may reflect residual confounding and treatment-selection bias. These findings are hypothesis-generating."
+ },
+ {
+  "key": "a14",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.125.047697",
+  "seccion": "Dislipemia",
+  "ptype": "Estudio observacional",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "A Health Coach-Based Multilevel Personalized Strategy Lowers Low-Density Lipoprotein Cholesterol and Enhances Lipid Control in Veterans With Atherosclerotic Cardiovascular Disease",
+  "abstract": "BACKGROUND: The Veterans Affairs New York Harbor Healthcare System is 1 of 50 Veterans Affairs sites participating in the Veterans Affairs Lipid Optimization Reimagined Quality Improvement Project. Veterans Affairs sites worked with an American Heart Association quality improvement consultant to develop and deploy a plan to achieve low-density lipoprotein cholesterol (LDL-C) <70 mg/dL in >30% of veterans with atherosclerotic cardiovascular disease and uncontrolled LDL-C (LDL-C ≥70 mg/dL), and meaningful LDL-C lowering. METHODS: In this pre-post designed project, health coaches applied a root-cause analysis framework, used medication possession ratio to assess adherence, and used motivational interviewing principles to improve medication adherence and lifestyle habits. Health coaches tailored interventions to address adherence barriers (if medication possession ratio <0.8) or facilitated medication intensification (if medication possession ratio ≥0.8). To evaluate the impact of health coaches on outcomes, we compared baseline and follow-up data pre-post to evaluate LDL-C lowering and assess LDL-C control. RESULTS: Among 152 engaged veterans, 57.9% had LDL-C between 70 and 100 mg/dL at baseline, 41.4% had LDL-C ≥100 mg/dL, and 0.7% had no data in the past year. Median (interquartile range) baseline LDL-C was 92.0 (81.0-118.0) mg/dL, and follow-up was 75.0 (54.5-98.0) mg/dL. Mean LDL-C change from baseline was -22.7 mg/dL (Wilcoxon signed rank test, P<0.001). The proportion with controlled LDL-C was 42.6% (binomial test, P=0.001). All specialties, except geriatrics, lowered LDL-C significantly and exceeded the 30% goal. LDL-C control rates did not statistically differ by specialty (Fisher exact test, P=0.091). CONCLUSIONS: Health coach-delivered interventions to improve medication adherence and encourage lifestyle modifications led to significant LDL-C reduction, with 42.6% achieving control, surpassing the 30% program benchmark, and lowered LDL-C level."
+ },
+ {
+  "key": "a15",
+  "journal": "Heart",
+  "doi": "10.1136/heartjnl-2026-328408",
+  "seccion": "Cardiopatía isquémica",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Direct transfer to primary percutaneous coronary intervention centres following out-of-hospital cardiac arrest: longer term outcomes and influences on survival",
+  "abstract": "OBJECTIVE: Myocardial infarction is a leading cause of out-of-hospital cardiac arrest (OHCA). In patients with OHCA due to suspected acute coronary occlusion, direct transfer to a centre capable of primary percutaneous coronary intervention (PPCI) has been shown to improve short-term outcomes. However, practice remains heterogeneous and the impact on longer-term survival is unclear. We evaluated whether direct transfer of OHCA patients with ST-elevation was associated with improved short-term, medium-term and long-term survival compared with indirect transfer via a non-PPCI hospital. METHODS: This retrospective cohort study collected data from a national myocardial infarction registry within a regional emergency service network. Adults with OHCA, return of spontaneous circulation and ST-elevation on post-arrest ECG were included between April 2015 and September 2022. Patients were categorised according to direct transfer to a PPCI centre or indirect transfer via a non-PPCI hospital. The primary outcome was all-cause mortality at 3 years, with landmark analyses at 30 days and 1 year. Survival was analysed using adjusted FPSMs, with covariates including age, sex, witnessed event, presenting rhythm and time to emergency response. RESULTS: 613 patients were included; 359 (59%) were transferred directly and 254 (41%) indirectly. Call-to-balloon time was shorter following direct transfer (134 min vs 222 min) and survival to discharge was higher (81% vs 68%). Following adjustment, indirect transfer was associated with higher mortality at 30 days (adjusted HR 2.48, 95% CI 1.08 to 5.73), with excess risk attenuating thereafter and stabilising after approximately 6 months. Cumulative incidence of death at 3 years was 27.9% versus 41.3%, an absolute risk difference of 13.5%. CONCLUSION: In patients with OHCA and ST-elevation, direct transfer to PPCI centres was associated with improved survival up to 3 years. This advantage appears driven predominantly by early in-hospital outcomes, supporting direct triage for rapid reperfusion and optimised post-resuscitation care."
+ },
+ {
+  "key": "a16",
+  "journal": "Circ Cardiovasc Interv",
+  "doi": "10.1161/CIRCINTERVENTIONS.126.016979",
+  "seccion": "Cardiopatía isquémica",
+  "ptype": "Estudio diagnóstico",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Accuracy of Angiographic Identification of Culprit Lesions in Women With MINOCA",
+  "abstract": "BACKGROUND: Myocardial infarction with nonobstructive coronary arteries (MINOCA) accounts for 6% to 15% of acute coronary syndromes and disproportionately affects women. Although coronary culprit lesions are present in 45% of patients with MINOCA, multivessel optical coherence tomography (OCT) is infrequently performed. We evaluated whether interventional cardiologists can identify coronary arteries with culprit lesions using invasive coronary angiography in women with MINOCA. METHODS: Women with MINOCA who had a coronary culprit lesion identified by multivessel OCT were included. A core laboratory confirmed and localized OCT-defined culprit lesions using angiographic coregistration. Two interventional cardiologists blinded to OCT findings independently reviewed invasive coronary angiography, before and after review of ECG and transthoracic echocardiography, to identify the culprit artery. RESULTS: Among 64 women with MINOCA (median age 64 years; 97% non-ST-segment elevation MI), OCT-defined culprit lesions were most frequently located in the left anterior descending (50.8%) or right coronary (35.4%) arteries. At least 1 interventional cardiologist identified the culprit artery in 54.7% of patients (95% CI, 42.6%-66.3%); both identified it in 28.1% (95% CI, 18.6%-40.1%). The addition of ECG and transthoracic echocardiography data did not improve accuracy (P=0.40 and P=0.97). Culprit arteries were identified by at least 1 cardiologist in 87.5% of plaque rupture cases. Only 11% of circumflex lesions were identified. CONCLUSIONS: Interventional cardiologists could not reliably identify culprit arteries using coronary angiography in women with MINOCA, even after ECG and transthoracic echocardiography review. Our findings suggest that invasive angiography alone should not guide vessel selection for intracoronary imaging and support multivessel imaging when evaluating MINOCA. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT02905357."
+ },
+ {
+  "key": "a17",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.126.050265",
+  "seccion": "Cardiopatía isquémica",
+  "ptype": "Metaanálisis",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Fractional Flow Reserve in Acute Coronary Syndrome: An Updated Systematic Review and Bayesian Meta-Analysis",
+  "abstract": "BACKGROUND: The diagnostic performance of fractional flow reserve (FFR) in the setting of acute coronary syndrome (ACS) remains unclear. We sought to perform an updated systematic review and meta-analysis investigating the performance of FFR-guided revascularization in the setting of ACS. METHODS: Two main primary comparisons tested the major adverse cardiac events (MACE) rate at 1-year of patients treated with an FFR-guided strategy in ACS versus chronic coronary syndrome and an FFR-guided versus angiographic-guided strategy in acute coronary syndrome. Treatment effect was defined as the risk difference and was estimated with Bayesian random effect model with a conservative prior of no treatment effect. Kaplan-Meier estimates and their standard deviations were retrieved to maximum accuracy from cumulative incidence function/ survival function plots for studies with censoring. RESULTS: We found 11 eligible trials (with a total of 13 029 patients) in this systematic review. Within the FFR-guided strategy, acute coronary syndrome was associated with an increased risk of MACE at 1 year compared with chronic coronary syndrome (risk difference (RD): 1.9%, 95% credible interval [0.2% to 3.6%]). In contrast, among patients with ACS no difference in 1-year MACE rate was observed between angiography-guided versus FFR-guided complete revascularization strategy (RD=0.9%, 95% CI [-1.3 to 3.2]). CONCLUSIONS: FFR-guided strategy of lesions in acute coronary syndrome was associated with worse 1-year MACE compared with FFR-guided revascularization in chronic coronary syndrome reflecting the high-risk nature of acute coronary syndrome patients. No difference in long-term outcomes was seen from a FFR-guided versus angiography-guided approach in acute coronary syndrome. Further studies are needed to better understand and optimize the use of physiology in the ACS setting."
+ },
+ {
+  "key": "a18",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.126.050238",
+  "seccion": "Cardiopatía isquémica",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Risk Factors for Coronary Artery Aneurysms in Children With Kawasaki Disease",
+  "abstract": "BACKGROUND: Coronary artery aneurysm (CAA) remains the most serious cardiovascular complication of Kawasaki disease. We sought to identify consistent risk factors for CAA among large contemporary cohorts from Japan and the United States. METHODS: We conducted a retrospective cohort study including 42 350 children from the 26th and 27th Japanese Nationwide Kawasaki Disease Surveys (2019-2022) and 1216 children from a multiethnic US cohort. Multivariable logistic regression was used to evaluate associations between clinical variables and CAA at 1 month after disease onset (Z score ≥2.5). RESULTS: In both cohorts, baseline coronary artery dilation at diagnosis (Z score ≥2.5) was strongly associated with CAA 1 month after disease onset (Japan: odds ratio [OR], 22.7 [95% CI, 19.2-26.7]; United States: OR, 13.4 [95% CI, 8.6-21.0]). Age younger than 6 months and intravenous immunoglobulin resistance were also independently associated with increased risk. These associations were also observed for medium to giant CAAs. Stratified analyses demonstrated that intravenous immunoglobulin resistance was most strongly associated with subsequent CAA among children with normal coronary arteries at diagnosis. CONCLUSIONS: Among large Japanese and US cohorts, coronary artery dilation at diagnosis and age younger than 6 months were consistent predictors of CAA. These associations were also observed for medium to giant CAA, underscoring their relevance for clinically significant coronary outcomes. Early coronary artery assessment provides important prognostic information and may inform cardiovascular risk stratification and management in children with Kawasaki disease."
+ },
+ {
+  "key": "a19",
+  "journal": "JACC Adv",
+  "doi": "10.1016/j.jacadv.2026.103218",
+  "seccion": "Cardiopatía isquémica",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Hospital Financial Structure and Unplanned Rehospitalization Following Acute Myocardial Infarction in the United States",
+  "abstract": "BACKGROUND: Acute myocardial infarction (AMI) affects ∼805,000 individuals in the United States annually and remains a leading cause of rehospitalization. The Hospital Readmissions Reduction Program established 30-day readmissions as a quality benchmark for AMI care. Although for-profit hospitals have shown higher readmission rates than not-for-profit counterparts, ownership-related trends in readmissions and outcomes following AMI remain poorly characterized. OBJECTIVES: We examined 30-day nonelective readmission rates and clinical outcomes in readmitted AMI patients stratified by hospital ownership from 2013 to 2022. METHODS: Adult nonelective AMI hospitalizations were identified from the 2013 to 2022 Nationwide Readmissions Database and stratified by hospital ownership. Temporal trends were assessed with Cuzick nonparametric test. Among readmitted patients, outcomes were compared using doubly robust methodology. RESULTS: Of the 4,636,970 AMI admissions, 534,576 (11.5%) had an unplanned 30-day readmission. Of the 399,800 patients readmitted to the index hospital, 66,394 (16.6%) were treated at for-profit facilities. Over the study period, readmission rates declined at not-for-profit hospitals (11.5% to 10.5%; P < 0.001) but remained stable at for-profit hospitals (13.0% to 12.7%; P = 0.09). Rate reductions at for-profit hospitals were limited to Medicare beneficiaries and coronary artery bypass grafting patients. Following risk adjustment, for-profit status was independently associated with greater odds of 30-day nonelective readmission (adjusted OR [AOR]: 1.15), respiratory (AOR 1.11) and renal complications (AOR 1.04) at readmission, and nonhome discharge (AOR: 1.07). CONCLUSIONS: For-profit status was associated with higher 30-day nonelective readmission rates and greater odds of renal and respiratory complications at readmission and nonhome discharge. These findings may inform policies addressing ownership-related disparities in AMI care."
+ },
+ {
+  "key": "a20",
+  "journal": "Nat Med",
+  "doi": "10.1038/s41591-026-04615-z",
+  "seccion": "Insuficiencia cardíaca",
+  "ptype": "Ensayo clínico aleatorizado",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Myeloperoxidase inhibition with mitiperstat in heart failure with preserved or mildly reduced ejection fraction: a randomized phase 2b trial",
+  "abstract": "Myeloperoxidase (MPO)-derived oxidants reduce nitric oxide bioavailability and promote coronary microvascular dysfunction, cardiomyocyte stiffening and interstitial fibrosis-mechanisms implicated in the pathogenesis of heart failure with preserved and mildly reduced ejection fraction. Here, in a multicenter, randomized, double-blind, placebo-controlled, three-arm, parallel-group phase 2b trial of patients with heart failure and an ejection fraction of >40%, we evaluated whether treatment with the MPO inhibitor mitiperstat versus placebo for 48 weeks improved symptoms and exercise function at 16 weeks (the co-primary endpoints were the Kansas City Cardiomyopathy Questionnaire Total Symptom Score (KCCQ-TSS) and 6-minute walk distance (6MWD)). Secondary endpoints included changes in natriuretic peptides and inflammatory markers (up to 48 weeks) and echocardiographic parameters (up to 24 weeks). In total, 711 patients (45% women) were randomized 1:1:1 to mitiperstat 2.5 mg, mitiperstat 5 mg or placebo. Mitiperstat (pooled doses) did not improve KCCQ-TSS (placebo-corrected difference in mean change from baseline, -1.4 points (95% confidence interval (CI) -3.9, 1.2; P = 0.29), 6MWD (3.8 m (95% CI -3.1, 10.8)); P = 0.28) or any secondary endpoint. Adverse and serious adverse events, including infections, were similar among groups except for maculopapular rash (mitiperstat, 3.6%; placebo, 0.4%). These results indicate that mitiperstat was safe and well tolerated but did not improve symptoms or exercise function in chronic heart failure with preserved or mildly reduced ejection fraction. ClinicalTrials.gov registration: NCT04986202 ."
+ }
+]
