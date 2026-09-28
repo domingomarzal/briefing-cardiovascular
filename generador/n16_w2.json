@@ -1,0 +1,101 @@
+[
+ {
+  "key": "a3",
+  "journal": "N Engl J Med",
+  "doi": "10.1056/NEJMra2413201",
+  "seccion": "Cardiología preventiva",
+  "ptype": "Artículo de revisión",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Clinical Uses of Common Genetic Variants Associated with Common Diseases",
+  "abstract": "Twenty-five years after the draft of the human genome sequence, genomics has revolutionized many areas of biology, the diagnosis of familial and early-onset diseases, and the development of targeted therapies, particularly in oncology. Genomic knowledge has had little effect on the diagnosis and treatment of most common adult-onset conditions. Genomewide association studies have revealed that for these conditions, thousands of genetic variants of small effect underpin the polygenic nature of risk. When incorporated into polygenic risk scores, these variants predict risk; however, polygenic risk scores have had little effect in the clinic. In this article, we review the reasons for the slow pace of the diffusion of these methods in clinical practice. With the impending era of relatively inexpensive genome sequencing in mind, we review the ways in which polygenic risk scores, along with the related field of pharmacogenomics, may be useful in clinical practice for the prevention and treatment of common diseases."
+ },
+ {
+  "key": "a8",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.126.049882",
+  "seccion": "Cardiometabolismo",
+  "ptype": "Estudio de cohorte",
+  "acr": "WHI",
+  "prio": "Complementario",
+  "title": "Reproductive Characteristics, Postmenopausal Obesity, and Cardiovascular Disease Incidence in the Women's Health Initiative",
+  "abstract": "BACKGROUND: Early menarche, menopause, and short reproductive lifespan are risk factors for cardiovascular disease (CVD), but whether these reproductive characteristics are independently associated with CVD or influenced by obesity is unclear. This study aimed to address this gap. METHODS: Postmenopausal women from the Women's Health Initiative longitudinal cohort study without CVD at baseline (October 1993 to December 1998) and followed through January 2025 were included. Early menarche (<12 years) and menopause (<40 years) were self-reported. Reproductive lifespan was defined as the difference between age at menopause and menarche, with short duration as <35 years. Obesity was defined by baseline waist circumference of ≥88 cm. Cox regression models assessed associations of each reproductive characteristic and incident CVD, adjusting for demographic, lifestyle, medical, and reproductive history. Interactions and mediation of reproductive characteristics and CVD by waist circumference were also examined. RESULTS: Participants (N=119 182) reported an age of menarche and menopause at 12.6±1.5 and 48.2±6.3 years of age, yielding an average reproductive lifespan of 35.6±6.4 years. Over a median follow-up of 12.8 years (interquartile range, 8.1-14.1), 12 731 CVD events occurred (rate=10.4/1000 person-years). Early menarche (hazard ratio [HR], 1.07 [95% CI, 1.01-1.15]), early menopause (HR, 1.22 [95% CI, 1.11-1.35]), and short reproductive lifespan (HR, 1.21 [95% CI, 1.13-1.29]) were associated with CVD incidence. Waist circumference was a significant mediator of early menarche, early menopause, and a short reproductive lifespan. CONCLUSIONS: Younger ages at menarche, menopause, and shorter duration of reproductive lifespan were independently associated with CVD incidence; waist circumference was a significant mediator of associations."
+ },
+ {
+  "key": "a13",
+  "journal": "EuroIntervention",
+  "doi": "10.4244/EIJ-D-26-00332",
+  "seccion": "Cardiopatía isquémica",
+  "ptype": "Análisis secundario de ensayo clínico",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Clopidogrel monotherapy versus aspirin monotherapy in females and males after percutaneous coronary intervention: a sex-stratified analysis of the SMART-CHOICE 3 trial",
+  "abstract": "BACKGROUND: Clopidogrel has emerged as a promising alternative to aspirin monotherapy for maintenance therapy after percutaneous coronary intervention (PCI); however, the optimal antiplatelet strategy according to sex remains controversial. AIMS: We aimed to investigate whether the treatment effect of antiplatelet therapy differs according to sex. METHODS: This study was a prespecified substudy of the SMART-CHOICE 3 trial. Patients at high risk of recurrent ischaemic events who had completed the standard duration of dual antiplatelet therapy after PCI were randomly assigned to receive clopidogrel or aspirin monotherapy. The primary endpoint was a composite of all-cause death, myocardial infarction, or stroke. RESULTS: A total of 5,506 patients, including 1,002 females and 4,504 males, were enrolled in South Korea. Females had a higher risk profile than males; however, the incidence of the primary endpoint did not differ significantly between females and males (6.7% vs 5.2%, adjusted hazard ratio [HR] 0.89, 95% confidence interval [CI]: 0.62-1.28; p=0.537). Clopidogrel, compared with aspirin, significantly reduced the primary endpoint in females (4.3% vs 9.4%, adjusted HR 0.45, 95% CI: 0.24-0.85; p=0.014) but not in males (4.4% vs 6.0%, adjusted HR 0.77, 95% CI: 0.56-1.07; p=0.116). There was no significant interaction between sex and the antiplatelet therapy (p for interaction=0.288). CONCLUSIONS: In patients with remote PCI and a high risk of recurrent ischaemic events, clopidogrel monotherapy showed a directionally consistent reduction in the composite endpoint of all-cause death, myocardial infarction, or stroke compared with aspirin in both females and males. No significant sex-by-treatment interaction was observed, supporting the consistency of the treatment effect across sexes."
+ },
+ {
+  "key": "a18",
+  "journal": "Rev Esp Cardiol (Engl Ed)",
+  "doi": "10.1016/j.rec.2026.08.011",
+  "seccion": "Insuficiencia cardíaca",
+  "ptype": "Estudio pronóstico",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Gray zone NT-proBNP values and long-term outcomes in emergency department patients without prior heart failure",
+  "abstract": "INTRODUCTION AND OBJECTIVES: The clinical significance of gray zone N-terminal pro-B-type natriuretic peptide (NT-proBNP) values in the emergency department (ED) remains poorly defined in patients without prior heart failure (HF). We aimed to determine whether, among ED patients without prior HF who did not meet age-adjusted rule-in criteria, gray zone NT-proBNP values were associated with worse long-term outcomes compared with rule-out values. METHODS: This retrospective, observational study included consecutive patients presenting to a tertiary care ED between March and August 2022 who underwent NT-proBNP testing. Patients with prior HF or NT-proBNP values above age-adjusted rule-in thresholds were excluded. First HF hospitalization and all-cause mortality were analyzed as 2 separate, independent outcomes. RESULTS: A total of 454 patients were included, of whom 228 (50.2%) had gray zone NT-proBNP values and 226 (49.8%) had rule-out values. During a median follow-up of 2.7 years, patients with gray zone values had significantly higher rates of first HF hospitalization (24.1% vs 2.2%) and mortality (36.4% vs 5.3%). After multivariable adjustment, gray zone NT-proBNP values were associated with first HF hospitalization (subdistribution hazard ratio [HR], 6.53; 95%CI, 2.38-17.89; P <  .001) and all-cause mortality (HR, 4.59; 95%CI, 2.35-8.94; P <  .001). CONCLUSIONS: In ED patients without prior HF, gray zone NT-proBNP values were associated with higher long-term risks of HF hospitalization and all-cause mortality compared with rule-out values. Prospective studies are needed to determine whether structured evaluation of this population improves clinical outcomes."
+ },
+ {
+  "key": "a23",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.125.043647",
+  "seccion": "Miocardiopatías",
+  "ptype": "Estudio diagnóstico",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Noninvasive Characterization of Myocardial Diseases With Hypertrophic Phenotypes Using Integrated ECG/Echocardiographic Indices",
+  "abstract": "BACKGROUND: Indices reflecting the discordance between QRS complex voltages on ECG and left ventricular (LV) wall thickness or LV mass index on echocardiogram (echo) have enabled identification of cardiac amyloidosis (CA) among patients with hypertrophic hearts. However, this evidence comes from studies that have excluded patients with established hypertrophic cardiomyopathy (HCM) and Anderson-Fabry disease (AFD). The aim of this study was to assess the performance of ECG/echo indices in characterizing adult patients with cardiomyopathies and hypertrophic phenotype. METHODS: This was an Italian retrospective, cross-sectional, multicenter study. Data from ECGs and echo of consecutive adult patients with confirmed CA, HCM, and AFD, and an LV wall thickness >12 mm were analyzed to calculate different ECG/echo indices. RESULTS: Of the 1181 patients included (median age, 65 years; 69% men), 35.5% (n=416) had CA, 46.5% (n=594) had HCM, and 14.5% (n=171) had AFD. All ECG/echo indices were able to distinguish CA from other HCM and AFD (P<0.001). The total QRS score/LV mass index was the best performing ECG/echo index for differentiating CA from other hypertrophic phenotypes (accuracy: 83%). The total QRS/maximum LV wall thickness was the best performing index in discriminating between the 3 cardiomyopathies (cutoff values of 6.21 versus 9.81 versus 11.47 in CA, HCM, AFD, respectively; P<0.001 for all comparisons). CONCLUSIONS: ECG/echo indices, particularly total QRS/maximum LV wall thickness, may serve as easily accessible first-line tools to differentiate CA from HCM and AFD. These findings may enable prompt recognition of patients with different cardiomyopathies in everyday clinical practice, both in community-based centers and tertiary care facilities, and to orient subsequent diagnostic workup."
+ },
+ {
+  "key": "a28",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.126.050412",
+  "seccion": "Valvulopatías",
+  "ptype": "Registro",
+  "acr": "CURRENT AS Registry-2",
+  "prio": "Complementario",
+  "title": "Prognostic Implications of Left Ventricular Ejection Fraction Across the Flow-Gradient Patterns in Severe Aortic Stenosis",
+  "abstract": "BACKGROUND: Current guidelines classify normal-flow low-gradient (LG) aortic stenosis (AS) with left ventricular ejection fraction (LVEF) ≥50% as \"moderate.\" However, the prognostic impact of LVEF remains incompletely understood across various hemodynamic subtypes of AS. METHODS: We analyzed 3363 consecutive patients with severe AS from the CURRENT AS Registry-2 (Contemporary Outcomes After Surgery and Medical Treatment in Patients With Severe Aortic Stenosis). Patients were classified into LG AS with normal flow (N=1005), and LG AS with low flow (N=372), and high-gradient AS (N=1986). Patients were further divided according to baseline LVEF: <50%, 50% to 59%, and ≥60%. The primary outcome measure was a composite of death or heart failure hospitalization. Within each hemodynamic subtype, clinical outcomes were compared across baseline LVEF categories of <50%, 50% to 59%, and ≥60% (reference), and unadjusted and adjusted hazard ratios (aHRs) were estimated using Cox proportional hazards models. The median follow-up period in the entire cohort was 763 days. RESULTS: LVEF <50% was associated with a greater hazard of death or heart failure hospitalization than LVEF ≥60% in all 3 subtypes of AS. LVEF 50% to 59% was associated with a greater hazard of death or heart failure hospitalization than LVEF ≥60% in LG AS with normal flow (aHR, 1.80 [95% CI, 1.35-2.40], P<0.001) and high-gradient AS (aHR, 1.42 [95% CI, 1.13-1.79], P=0.003) with hazards comparable to those with LVEF <50% but not in LG AS with low flow (aHR, 1.13 [95% CI, 0.72-1.79], P=0.59). CONCLUSIONS: These findings suggest that LVEF may provide additional prognostic stratification within severe AS phenotypes, particularly in normal-flow LG AS. REGISTRATION: URL: https://center6.umin.ac.jp; Unique Identifier: UMIN000034169."
+ },
+ {
+  "key": "a33",
+  "journal": "JACC Adv",
+  "doi": "10.1016/j.jacadv.2026.103115",
+  "seccion": "Imagen cardíaca",
+  "ptype": "Inteligencia artificial / modelo predictivo",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Comparison of Artificial Intelligence-Driven Echocardiographic Assessment of Diastolic Function With the ASE Guidelines",
+  "abstract": "BACKGROUND: Contemporary guideline-based assessment of left ventricular diastolic function and filling pressure requires multiple echocardiographic parameters that may not be routinely acquired in real-world clinical practice. OBJECTIVES: The aim of the study was to compare the prognostic and diagnostic performance of a previously validated deep learning (DL) model for left ventricular diastolic function assessment with those of the 2016 ASE (American Society of Echocardiography)/EACVI (European Association of Cardiovascular Imaging) and 2025 ASE guidelines. METHODS: The DL model and the guidelines were compared in the ARIC (Atherosclerosis Risk In Communities) cohort (n = 5,450) for prognostication and in 2 hemodynamic validation cohorts from the United States (n = 83) and Japan (n = 130) for diagnosing elevated left ventricular filling pressure. In all 3 cohorts, ≥1 guideline-recommended parameters were unavailable in a substantial proportion of patients. RESULTS: In the ARIC cohort, the DL model achieved a higher C-index than both the 2016 ASE/EACVI and 2025 ASE guidelines (0.676 vs 0.638 and 0.602, respectively; both P < 0.001). In the United States cohort, the DL model achieved a higher area under the receiver operating characteristic curve (AUC) than the 2025 ASE guidelines (0.879 vs 0.822; P = 0.041) and a similar AUC to the 2016 ASE/EACVI guidelines (0.879 vs 0.812; P = 0.138). In the Japanese cohort, the DL model achieved a higher AUC than both guideline versions (0.816 vs 0.694 and 0.634, respectively; both P < 0.05). CONCLUSIONS: In settings where not all guideline-recommended parameters are available, the DL model may improve prognostic and diagnostic performance compared with both guideline versions. Nevertheless, these exploratory findings require further validation to confirm that the observed advantages persist when all guideline-recommended parameters are systematically acquired."
+ },
+ {
+  "key": "a38",
+  "journal": "Circ Cardiovasc Interv",
+  "doi": "10.1161/CIRCINTERVENTIONS.126.016977",
+  "seccion": "Cardiología intervencionista",
+  "ptype": "Análisis secundario de ensayo clínico",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Paclitaxel-Coated Devices in Patients With Chronic Limb-Threatening Ischemia and Tissue Loss Undergoing Infrainguinal Endovascular Revascularization: Insights From the SWEDEPAD-1 Trial",
+  "abstract": "BACKGROUND: Patients with chronic limb-threatening ischemia and tissue loss (Rutherford 5-6) are at high risk of major amputation. Drug-coated technologies are effective in coronary interventions, but their impact on limb outcomes in advanced ischemia remains uncertain. We evaluated whether drug-coated devices improve limb salvage in this high-risk population. METHODS: This post hoc subgroup analysis used data from SWEDEPAD-1 (Swedish Drug-Elution Trial in Peripheral Arterial Disease), a multicenter registry-based randomized controlled trial of endovascular treatment for infrainguinal arterial disease. Adults with chronic limb-threatening ischemia were randomized 1:1 to treatment with paclitaxel-coated or uncoated endovascular devices. Only patients with tissue loss (Rutherford 5 or 6) were included. The primary end point was time to ipsilateral major amputation. Secondary end points were target vessel reintervention and a composite of major amputation or target vessel reintervention. Outcomes were assessed at 3 months, 1 year, and 5 years using intention-to-treat analyses and adjusted Cox proportional hazards models. RESULTS: Among 1761 patients (median age, 77 years; 60.1% male; 58.4% diabetes), ipsilateral major amputation within 3 months was more frequent in the paclitaxel-coated group than in the uncoated group (10.4% versus 7.5%; adjusted hazard ratio, 1.43 [95% CI, 1.04-1.96]). Amputation rates were similar at 1 year (16.3% versus 14.6%) and remained comparable through 5 years. Target vessel reintervention at 1 year was lower with paclitaxel-coated devices (13.6% versus 18.0%; adjusted hazard ratio, 0.77 [95% CI, 0.61-0.97]), but this difference was attenuated when early limb loss was included in a composite end point. No significant between-group differences were observed at 5 years. CONCLUSIONS: In patients with chronic limb-threatening ischemia and tissue loss, paclitaxel-coated devices did not improve limb salvage and were associated with a higher early risk of major amputation. Although target vessel reintervention was reduced at 1 year, this apparent benefit was not maintained when accounting for the competing risk of limb loss in a composite end point. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT02051088."
+ },
+ {
+  "key": "a43",
+  "journal": "Circulation",
+  "doi": "10.1161/CIRCULATIONAHA.126.080942",
+  "seccion": "Arritmias y electrofisiología",
+  "ptype": "Registro",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Real-World Experience With the Extravascular Implantable Cardioverter Defibrillator Through 1 Year: The Enlighten Post Approval Registry Study",
+  "abstract": "BACKGROUND: The extravascular implantable cardioverter defibrillator (EV-ICD) was developed to provide defibrillation and antitachycardia pacing therapy without the need for intravascular lead placement. Premarket clinical trials reported EV-ICD safety and efficacy through 3 years, but a real-world assessment of the Aurora EV-ICD system, which includes a novel sensing discriminator, is needed. The objective of this analysis was to assess real-world therapy efficacy and safety of the EV-ICD through 1 year. METHODS: Enlighten: The EV-ICD Post Approval Registry is a prospective, global, real-world registry that included patients who underwent an EV-ICD implantation attempt. The main safety analysis was freedom from all system- or procedure-related major complications through 1 year. Event rates at 1 year were calculated using the Kaplan-Meier method. RESULTS: EV-ICD system implantation was attempted by 168 implanters in 787 patients (49.1±15.2 years old; 28.7% women; 34.1% secondary prevention). Tunneling and lead placement in the substernal space were achieved in 781 of 787 patients (99.2%), with 758 patients (96.3%) remaining implanted following defibrillation and electrical testing. One-year freedom from major system- or procedure-related complications was 89.1% (95% CI, 86.3%-91.3%). The 1-year rate of first appropriate therapy (shock, antitachycardia pacing, or both) was 7.3% (95% CI, 5.5-9.6). Shock success for discrete spontaneous episodes was 100% (61 of 61), and the generalized estimating equations antitachycardia pacing success rate, to account for multiple episodes per patient, was 74.2% for monomorphic ventricular tachycardia. The 1-year rate of first inappropriate shock was 7.1% (95% CI, 5.4-9.4), with noncardiac oversensing as the main cause (40.5% of inappropriately shocked episodes). CONCLUSIONS: In the largest prospective worldwide cohort of patients with an EV-ICD to date, both antitachycardia pacing and shock therapy were effective, while the rate of major complications agreed with the premarket experience through 1 year. These data demonstrate that positive outcomes of the EV-ICD are retained in everyday clinical practice in a large, global cohort with an expanded number of implanters. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT06048731."
+ }
+]

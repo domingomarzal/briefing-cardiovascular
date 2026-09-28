@@ -1,0 +1,101 @@
+[
+ {
+  "key": "a5",
+  "journal": "Lancet",
+  "doi": "10.1016/S0140-6736(26)00847-0",
+  "seccion": "Cardiología preventiva",
+  "ptype": "Artículo de revisión",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Peripheral arterial disease: adverse impacts, disparities in outcomes, and the path ahead",
+  "abstract": "This is the third paper in the peripheral arterial disease (PAD) Series. The first and second papers in this Series outline that PAD affects over 300 million people worldwide and can be diagnosed by non-invasive tests, as well as that treatment requires medications to reduce modifiable risk factors and that exercise therapy and revascularisation are required in selected patients. In this paper, the devastating effects of PAD at the individual level are described, including chronic pain, functional limitation, loss of independence, impaired physical and mental quality of life, unemployment, and financial instability. Individuals with PAD are also at high risk of major adverse events, including major amputation, myocardial infarction, stroke, and death. The burden of PAD falls heavily on underserved groups, including women, First Nations Peoples globally, other non-White individuals, patients with financial insecurities, and those living in remote areas. Recommendations to advance PAD management are presented and include short-term changes, such as improving disease awareness and introducing multidisciplinary models of care that deliver more holistic medical and rehabilitation care, as well as long-term changes, such as testing whether screening and initiation of early medical management can reduce the burden of PAD. Furthermore, modification of health-care services is needed to provide better access for underserved, rural and remote, First Nations, and low-income populations."
+ },
+ {
+  "key": "a10",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.125.048360",
+  "seccion": "Cardiometabolismo",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Glycemic Status, Cardiac Structure, and Function by Magnetic Resonance Imaging: The Jackson Heart Study",
+  "abstract": "BACKGROUND: Type 2 diabetes is associated with a high risk of heart failure. Hence, precise cardiac imaging can help early detection of subclinical myocardial dysfunction. We investigated the associations of glycemic status and markers with left ventricular (LV) remodeling assessed by cardiac magnetic resonance imaging among Black adults. METHODS: Peak systolic circumferential strain (Eulerian circumferential systolic strain), LV mass, end-diastolic volume, end-systolic volume, LV ejection fraction, and LV remodeling index were measured by cardiac magnetic resonance imaging in JHS (Jackson Heart Study) participants between 2008 and 2012. We evaluated the associations of glycemic markers (fasting plasma glucose and hemoglobin A1C) and glycemic status (diabetes, prediabetes, and normoglycemia) with cardiac magnetic resonance imaging measures of LV structure and function. RESULTS: A total of 1609 Black participants (mean age, 59 years; 63% women; 27.4% with diabetes and 46.8% with prediabetes) were included. Participants with diabetes had higher LV mass (adjusted β, 4.94 [95% CI, 0.51-9.37]), higher LV remodeling index (β, 0.05 [95% CI: 0.01- 0.09]), impaired global circumferential systolic strain (β, 0.44 [95% CI, 0.04-0.84]), and a higher odds of abnormal strain compared with those with normoglycemia (adjusted odds ratio, 1.43 [95% CI, 1.01-2.04]). Each SD increase in hemoglobin A1C was associated with higher LV mass (β, 2.48 [95% CI, 0.76-4.21]), LV remodeling index (β, 0.02 [95% CI, 0.01-0.04]), and impaired global circumferential systolic strain (β, 0.21 [95% CI, 0.06-0.37]). CONCLUSIONS: In a large community-based cohort of Black individuals, diabetes was associated with differences in LV structure and myocardial strain measured by cardiac magnetic resonance imaging."
+ },
+ {
+  "key": "a15",
+  "journal": "Eur J Prev Cardiol",
+  "doi": "10.1093/eurjpc/zwag508",
+  "seccion": "Cardiopatía isquémica",
+  "ptype": "Registro",
+  "acr": "SWEDEHEART",
+  "prio": "Complementario",
+  "title": "Long-term Trends in Upper Gastrointestinal Bleeding and Ischemic Outcomes after Myocardial Infarction",
+  "abstract": "AIMS: Invasive management and intensive antithrombotic regimens have decreased ischemic risk after myocardial infarction (MI) at the cost of more bleeding. Of particular concern is upper gastrointestinal bleeding (UGIB), which is both common and preventable, yet not well characterized over time. We aimed to describe trends of UGIB hospitalization in relation to other bleeding and ischemic outcomes as well as to explore associated clinical factors. METHODS: We included patients with acute MI enrolled in the SWEDEHEART registry discharged alive on antithrombotic treatment between 1999 and 2020. Patients were followed for hospitalization for adverse events at one year. Trends were analyzed in 2-year intervals for the overall cohort and subgroups. Standardized event rates for UGIB were calculated to assess the association of changes in demographics, comorbidities, in-hospital procedures and pharmacotherapy. RESULTS: Bleeding hospitalizations increased from 2.4% to 4.5%, peaking at 4.7% in 2013-14, while one-year MACCE decreased from 20.1% to 9.4%. The gastrointestinal tract was the most common bleeding site across all time intervals, with the majority of cases being UGIBs. Percutaneous coronary intervention, dual antiplatelet therapy, potent antiplatelet agents, and direct oral anticoagulants increased over time. Standardized event rates for UGIB suggest that changes in incidence were associated with evolving management strategies. CONCLUSION: Bleeding hospitalizations after MI increased until 2013-14, with UGIB the most common source, while ischemic outcomes declined. These opposing trends were associated with the adoption of invasive management and intensified antithrombotic therapy. Routine tailoring of antithrombotic intensity and systematic gastroprotective measures should be considered in post-MI care."
+ },
+ {
+  "key": "a20",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.126.051493",
+  "seccion": "Insuficiencia cardíaca",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Door-to-Cardiac Rehabilitation Time and Clinical Outcomes in Patients Hospitalized for Acute Heart Failure: A Nationwide Japanese Registry",
+  "abstract": "BACKGROUND: Cardiac rehabilitation (CR) improves outcomes in heart failure, but optimal initiation timing during acute hospitalization remains undefined. We characterized the dose-response association between door-to-cardiac rehabilitation time and in-hospital outcomes, describing how this pattern appeared to differ between death and functional measures. METHODS: Using the Japanese Registry of All Cardiac and Vascular Diseases-Diagnosis Procedure database, we identified 564 830 patients hospitalized for acute heart failure (2012-2023), categorized into non-CR (n=275 454) and CR groups by door-to-cardiac rehabilitation quartiles: quartile 1 (≤1 day), quartile 2 (2-3 days), quartile 3 (4-5 days), and quartile 4 (≥6 days). Generalized propensity score-based weighting adjusted for 32 confounders. Restricted cubic splines evaluated dose-response patterns among CR recipients. The primary outcome was in-hospital death; secondary outcomes were Barthel Index at discharge and Barthel Index improvement. RESULTS: All door-to-cardiac rehabilitation quartiles showed lower in-hospital death versus non-CR (adjusted odds ratios, 0.39-0.49; all P<0.001). Barthel Index at discharge was higher in quartile 1 to quartile 3 (mean difference, +3.2 to +3.8 points), with a smaller difference in quartile 4. Spline analysis revealed nonlinear associations: The mortality nadir was observed at 6.1 days, whereas functional measures showed the most favorable associations at 3.3 days. Sensitivity analyses addressing immortal time bias yielded consistent mortality results. CONCLUSIONS: CR was associated with a lower in-hospital mortality rate across all timing quartiles. The association pattern appeared to differ by outcome domain: Functional measures showed more favorable associations with earlier initiation (within 2-3 days), whereas a lower mortality rate was observed across a broader window. These findings warrant prospective evaluation."
+ },
+ {
+  "key": "a25",
+  "journal": "JACC Adv",
+  "doi": "10.1016/j.jacadv.2026.103278",
+  "seccion": "Miocardiopatías",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Life-Course Noncardiac Comorbidity Burden and Mortality in Lower-Complexity Congenital Heart Disease",
+  "abstract": "BACKGROUND: Lower-complexity congenital heart disease (CHD) is generally perceived as a low-risk condition. However, its long-term systemic comorbidity burden and impact on survival remain poorly defined, despite increasing recognition of lifelong care needs. OBJECTIVES: The authors aimed to determine whether lower-complexity CHD is a life-course condition characterized by high noncardiac comorbidity burden and mortality among adults. METHODS: This population-based prospective cohort study identified 3,316 adults with lower-complexity CHD and 492,232 individuals without CHD from the UK Biobank. The primary outcome was the first occurrence of 9 system-specific noncardiac comorbidities, with relative rates estimated by multivariable Cox regression models and lifetime risk from age 40 to 90 assessed using life-table methods. The secondary outcome was all-cause mortality among individuals with lower-complexity CHD, assessed according to baseline and incident comorbidity status using time-varying Cox regression models. The median follow-up was approximately 13 years. RESULTS: Compared to individuals without CHD, adults with lower-complexity CHD had significantly elevated relative rates of noncardiac comorbidities across 9 organ systems, particularly for blood, endocrine, and pulmonary diseases. Comorbidity incidence diverged from midlife and accelerated with age. Absolute lifetime risks ranged from 17.1% (skin disease) to 45.8% (digestive disease), with the largest excess risks observed in endocrine (18.6%), digestive (15.7%), and pulmonary (12.5%) systems. Among individuals with CHD, incident noncardiac comorbidities were independently associated with increased subsequent all-cause mortality, with pulmonary disease conferring the strongest relative rate. CONCLUSIONS: Lower-complexity CHD is associated with higher lifetime noncardiac comorbidity burden and increased subsequent mortality. These findings support a shift toward integrated, life-course clinical management."
+ },
+ {
+  "key": "a30",
+  "journal": "JACC Adv",
+  "doi": "10.1016/j.jacadv.2026.103283",
+  "seccion": "Valvulopatías",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Temporal Trends in Mitral Valve Repair Procedures and Outcomes Among Older U.S. Adults",
+  "abstract": "BACKGROUND: Mitral valve (MV) transcatheter edge-to-edge repair (M-TEER) has reshaped the management of mitral regurgitation in high surgical risk patients. As M-TEER adoption expands, understanding concurrent changes in procedural utilization, patient characteristics, and clinical outcomes is important. OBJECTIVES: The objective of the study was to evaluate temporal trends in procedural utilization, comorbidity burden, and mortality among Medicare beneficiaries undergoing MV repair. METHODS: Medicare beneficiaries undergoing MV repair between 2017 and 2021 were analyzed. Procedure volumes, Elixhauser Comorbidity Index, and mortality at 30-days, 30-days postdischarge, 1-year, and 2-years were assessed. Temporal mortality trends were analyzed using adjusted Cox models with calendar year as a continuous variable. RESULTS: Among 81,215 beneficiaries, 39,097 underwent M-TEER and 42,118 surgical MV repair. M-TEER utilization increased from 15.0 to 27.6 per 100,000 beneficiaries (+84.0%), whereas surgical MV repair decreased from 29.1 to 20.7 per 100,000 (-28.9%), resulting in a 9.5% overall increase in MV repair use. The Elixhauser Comorbidity Index increased overall (+7.8%), remained stable among M-TEER patients (-0.2%), and decreased among surgical MV repair patients (-5.1%). Overall, adjusted mortality decreased at 30-days (adjusted HR [aHR]: 0.92; 95% CI: 0.89-0.94; P < 0.001), postdischarge 30-days (aHR: 0.93; 95% CI: 0.89-0.97; P < 0.001), 1-year (aHR: 0.98; 95% CI: 0.97-1.00; P = 0.013), and 2-years (aHR: 0.98; 95% CI: 0.97-0.99; P < 0.001). CONCLUSIONS: Between 2017 and 2021, M-TEER utilization increased substantially whereas surgical MV repair declined, resulting in increased overall MV repair utilization. Over the same period, adjusted short-term and midterm mortality improved despite a higher overall comorbidity index."
+ },
+ {
+  "key": "a35",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.126.049783",
+  "seccion": "Imagen cardíaca",
+  "ptype": "Estudio pronóstico",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Septal Nonischemic Late Gadolinium Enhancement After Myocardial Infarction Is Associated With Adverse Remodeling and Improves Risk Stratification for Heart Failure Outcomes",
+  "abstract": "BACKGROUND: The prevalence, anatomic distribution, enhancement patterns, and prognostic value of nonischemic late gadolinium enhancement (NI-LGE) in patients with prior myocardial infarction were not systematically investigated. METHODS: A total of 948 patients (mean±SD age, 56.2±10.9 years; 88.4% men) diagnosed with prior myocardial infarction by cardiac magnetic resonance imaging were analyzed, excluding those with coexisting nonischemic cardiomyopathies or myocarditis. NI-LGE was defined as midwall or subepicardial enhancement. Competing risk analysis was performed to mitigate the influence of competing events. RESULTS: Among these, NI-LGE was observed in 78 patients (8.2%), with septal involvement present in all cases. Lower left ventricular ejection fraction (odds ratio [OR]=0.97, P=0.01) and larger end-diastolic volume index (OR=1.01, P<0.001) were independently associated with NI-LGE. During a median follow-up of 69.6 months (interquartile range, 49.7-80.9 months), 99 (10.4%) and 63 (6.6%) experienced heart failure (HF)- and sudden cardiac death-related events, respectively. NI-LGE was associated with a markedly increased risk of HF-related events (subdistribution hazard ratio [sHR]=5.98, P<0.001) after adjusting for the confounders, but not sudden cardiac death (P=0.65). NI-LGE improved the model discrimination and fit performance (C-index: 0.84-0.87; likelihood ratio: 1168.0-1106.1, both P<0.001) for the HF-related events beyond left ventricular ejection fraction and late gadolinium enhancement extent. Moreover, NI-LGE involving both the septum and free wall conferred a higher risk of HF-related events than isolated septal involvement (sHR=2.42, P=0.02). CONCLUSIONS: NI-LGE occurs in 8.2% of patients with prior myocardial infarction, predominantly involving the interventricular septum. As a potential marker of adverse remodeling, NI-LGE might provide incremental prognostic value for HF-related outcomes beyond traditional markers."
+ },
+ {
+  "key": "a40",
+  "journal": "EuroIntervention",
+  "doi": "10.4244/EIJ-D-26-00126",
+  "seccion": "Cardiología intervencionista",
+  "ptype": "Análisis secundario de ensayo clínico",
+  "acr": "TARGET All Comers",
+  "prio": "Complementario",
+  "title": "Radial wall strain for residual risk stratification after percutaneous coronary intervention",
+  "abstract": "BACKGROUND: Percutaneous coronary intervention effectively treats flow-limiting stenoses; however, untreated non-target vessels with vulnerable plaques remain a major contributor to future adverse cardiovascular events. Plaque strain is a promising marker of plaque vulnerability but traditionally requires complex modelling and expensive intracoronary imaging. We developed a novel artificial intelligence algorithm for subpixel-level lumen delineation, enabling real-time automated assessment of radial wall strain (RWS) from routine angiography. AIMS: This post hoc study sought to determine the prognostic value of RWS for predicting future cardiac events in non-target vessels over 5 years, using the high-quality TARGET All Comers randomised trial. METHODS: This blinded analysis included all 1,551 enrolled patients. Angiographic image quality was independently assessed prior to blinded computation of RWS. A prespecified cutoff value of maximal RWS (RWSmax) ≥13% was used to define increased plaque vulnerability. The primary endpoint was a non-target vessel-oriented composite endpoint (NT-VOCE), a composite of cardiac death, non-target vessel myocardial infarction and non-target vessel revascularisation over 5 years, as prospectively adjudicated in the parent trial. Following blinded RWS analysis, the results were integrated into the trial database, and the outcomes were unblinded and linked to corresponding vessel-level outcomes. RESULTS: RWS was successfully evaluated in 1,384 non-target vessels from 802 patients. Baseline RWSmax independently predicted the NT-VOCE, with an adjusted hazard ratio (HR) of 4.82 (95% confidence interval [CI]: 3.14-7.40; p<0.0001) and an adjusted area under the curve (AUC) of 0.73 (95% CI: 0.69-0.78; p<0.0001). Predictive accuracy was highest for non-target vessel revascularisation (adjusted AUC 0.92, 95% CI: 0.88-0.95; p<0.0001). In the subgroup with high-quality angiographic images, RWS demonstrated even greater predictive performance for the NT-VOCE (adjusted HR 6.89, 95% CI: 3.15-15.07; p<0.0001). CONCLUSIONS: In this retrospective post hoc analysis, RWS was independently associated with long-term adverse events in deferred non-target vessels, with its prognostic value most evident for subsequent non-target vessel revascularisation. Elevated baseline RWSmax was strongly associated with the NT-VOCE, with the highest predictive accuracy in vessels with high-quality angiographic imaging. Ongoing and planned prospective, randomised trials are evaluating the role of RWS-guided risk stratification."
+ },
+ {
+  "key": "a45",
+  "journal": "Heart Rhythm",
+  "doi": "10.1016/j.hrthm.2026.09.037",
+  "seccion": "Arritmias y electrofisiología",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Electrocardiogram Abnormalities and the Risk of Out-of-Hospital Cardiac Arrest: A Nationwide Cohort Study",
+  "abstract": "BACKGROUND: Electrocardiograms (ECGs) potentially represent strong risk predictors, but their role in risk stratification for out-of-hospital cardiac arrest (OHCA) is unclear. OBJECTIVE: This study aimed to assess 5-year OHCA risk for different ECG abnormalities. METHODS: Data on patients and their respective first-recorded ECG, from hospital or ambulance setting, were retrieved from Danish Nationwide Electrocardiogram Cohort and Danish Cardiac Arrest Registry. Patients were followed from ECG recording until OHCA, death from other causes, emigration, or end-of-study. Cox proportional hazards models were used to estimate rates of OHCA and death from other causes, adjusted for comorbidities and medication use, and then utilized to estimate 5-year OHCA risk. RESULTS: This study included 2,155,155 patients. Five-year OHCA risk for patients with normal ECGs was 0.50% [95% CI: 0.49-0.51%]. Following ECG abnormalities were associated with significantly higher 5-year OHCA risk: atrial fibrillation (0.61% [95% CI: 0.58-0.64%]), left bundle branch block (0.73% [95% CI: 0.68-0.78%]), intraventricular conduction delay (0.68 [95% CI: 0.63-0.73]), left posterior fascicular block (0.87% [95% CI: 0.67-1.06%]), Q-wave (0.59% [95% CI: 0.57-0.61%]), ST-depression (0.67% [95% CI: 0.64-0.71%], left ventricular hypertrophy (0.74% [95% CI: 0.71-0.77%]) and QTc prolongation (0.84% [95% CI: 0.81-0.86%]). Corresponding results were observed regarding relative risk. CONCLUSIONS: This nationwide study of over two million patients, spanning almost 20 years, showed that several ECG abnormalities were associated with increased 5-year risk of OHCA."
+ }
+]
