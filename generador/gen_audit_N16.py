@@ -24,7 +24,7 @@ for s in _selraw:
     if not s.get("pmid"):
         s["pmid"] = _recuperados.get(s["title"], "CR:" + s["key"])
 sel = {s["pmid"]: s for s in _selraw}
-DEST = "a41"; TOP3 = ("a12", "a36", "a42")
+DEST = "a41"; TOP3 = ("a6", "a36", "a42")
 SECN = {1: "Cardiología preventiva", 2: "Cardiometabolismo", 3: "Dislipemia", 4: "Cardiopatía isquémica",
         5: "Insuficiencia cardíaca", 6: "Miocardiopatías", 7: "Valvulopatías", 8: "Imagen cardíaca",
         9: "Cardiología intervencionista", 10: "Arritmias y electrofisiología"}
@@ -137,7 +137,7 @@ head = re.sub(r'\d+\s*[–-]\s*\d+ (?:ene|feb|mar|abr|may|jun|jul|ago|sep|oct|no
 head = head.replace("Reglas de selección (N15).", "Reglas de selección (N16).")
 NOTA_TOP3 = ('<p class="intro" style="margin-top:10px;"><b>Nota sobre el bloque «No te los puedes perder» (N16).</b> '
  'El <span class="star">★</span> <b>Destacado</b> y los tres titulares salen <b>directamente del ranking</b> de la rúbrica '
- 'de 6 ejes, sin retoque editorial: a41 (6,64), a12 (6,16), a36 (6,12) y a42 (6,12). Semana SIN congreso, sin guías '
+ 'de 6 ejes: a41 (6,64), a12 (6,16), a36 (6,12) y a42 (6,12). <b>Decisión editorial del Dr. Marzal (28-sep-2026):</b> el análisis de mediación de SELECT (a6, 5,83) entra en el bloque en lugar de la hemorragia intracraneal con tenecteplasa (a12), que sigue como ficha en Cardiopatía isquémica. Semana SIN congreso, sin guías '
  'nuevas de sociedad y sin ningún ensayo original cardiovascular en <i>N Engl J Med</i> ni en <i>Lancet</i>: de ahí que '
  'la puntuación máxima sea la más baja de la serie y que ningún artículo alcance la etiqueta 🔴 Imprescindible. '
  'La auditoría de cobertura por Crossref (PASO 1b) no encontró ningún original cardiovascular perdido en '
