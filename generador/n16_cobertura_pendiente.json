@@ -1,0 +1,92 @@
+{
+ "motivo": "nube",
+ "explicacion": "Artículos que el editor depositó en Crossref dentro de la ventana 21-27 sep 2026 y que PubMed aún no había indexado. La nube NO puede recuperar su resumen: PubMed no los tiene (esearch por DOI devuelve vacío), Crossref no deposita abstract para estas revistas y el egreso de red del contenedor no alcanza sciencedirect.com, jacc.org, nature.com ni Europe PMC. Como la REGLA DEL ABSTRACT del PASO 2 prohíbe redactar fichas sin fuente, quedan FUERA de N16 y anotados aquí. El Mac puede abrirlos, leer el resumen y decidir si entran (regeneraría el número).",
+ "ventana": "2026-09-21 a 2026-09-27",
+ "pendientes": [
+  {
+   "journal": "Nat Rev Cardiol",
+   "doi": "10.1038/s41569-026-01334-3",
+   "title": "Global burden of venous thromboembolism: incidence and outcome estimates of deep-vein thrombosis and pulmonary embolism"
+  },
+  {
+   "journal": "Atherosclerosis",
+   "doi": "10.1016/j.atherosclerosis.2026.121912",
+   "title": "Lipoprotein(a) Reduction with PCSK9-Targeting Pharmacotherapy: A Prospective Real-World Registry Study"
+  },
+  {
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103314",
+   "title": "Hypertension and subclinical vascular damage after allogeneic hematopoietic stem cell transplantation"
+  },
+  {
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103320",
+   "title": "Chest Pain Center Accreditation and Outcomes in Patients with Acute Chest Pain: A Single-Center Registry"
+  },
+  {
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103331",
+   "title": "Selective Imaging-Informed Prevention of Coronary Atherosclerosis"
+  },
+  {
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103315",
+   "title": "Hospital and Provider Variability in Outpatient Post-Anthracycline Echocardiography: A SEER-Medicare Analysis"
+  },
+  {
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103319",
+   "title": "ANOCA With Prior Obstructive Coronary Artery Disease and PCI Has Higher Odds of Epicardial Spasm"
+  },
+  {
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103316",
+   "title": "From Recommendation to Reliable Surveillance: A Case for Improving the Implementation of Cardiac Monitoring After Anthracycline Therapy"
+  },
+  {
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103326",
+   "title": "How Pulmonary Embolism Burden Shapes Left Ventricular Strain and Recovery After Thrombectomy"
+  },
+  {
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103335",
+   "title": "Premature Ventricular Contractions at Extreme Altitude: Continuous Electrocardiographic Monitoring on Mount Everest"
+  },
+  {
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103334",
+   "title": "From incidental to actionable: artificial intelligence for aortic valve calcium detection"
+  },
+  {
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103328",
+   "title": "Effectiveness of individualized physical exercise in COVID-19-induced Postural Orthostatic Tachycardia Syndrome"
+  },
+  {
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103317",
+   "title": "Heart Failure Risk in Hypertension: Beyond Left Ventricular Hypertrophy"
+  },
+  {
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103321",
+   "title": "Validating ECG-based Artificial Intelligence Models for Cardiomyopathy Detection in Obstetric Patients: A Multi-Site International Study"
+  },
+  {
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103327",
+   "title": "The Current State of Lipid Management: Missed Opportunities and Room for Improvement"
+  },
+  {
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103332",
+   "title": "Long-term clinical outcomes after physiology-guided versus angiography-guided coronary artery bypass grafting – From the FARGO trial"
+  },
+  {
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103322",
+   "title": "Systemic Venous Excess in Acute Heart Failure: A Retrograde Signal of Right Ventricular Uncoupling"
+  }
+ ]
+}

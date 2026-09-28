@@ -1,0 +1,352 @@
+{
+ "numero": "N16",
+ "ventana": "2026-09-21 a 2026-09-27",
+ "motivo": "nube",
+ "explicacion": "PASO 7b: la revisión de los enlaces UNO POR UNO exige un navegador REAL (Cloudflare devuelve el mismo muro «Just a moment...» a curl y a Chrome headless, tanto para un enlace bueno como para uno roto). Además, el egreso de red de este contenedor en la nube DENIEGA el CONNECT a doi.org, jacc.org, sciencedirect.com, thelancet.com y eurointervention.pcronline.com. Por tanto la verificación visual NO se ha podido hacer aquí y queda PENDIENTE para el Mac. Lo que SÍ se ha hecho: validación de los 45 DOI contra Crossref (PASO 1 de check_links.py). Los 4 avisos de «DOI NO REGISTRADO» (a28, a31, a33, a34) se comprobaron DOI a DOI con curl y los 4 devuelven HTTP 200: son los falsos positivos por rate-limiting descritos en la SKILL. No hay ningún DOI malo.",
+ "crossref": {
+  "validados": 45,
+  "correctos": 45,
+  "falsos_positivos": [
+   "a28",
+   "a31",
+   "a33",
+   "a34"
+  ]
+ },
+ "aviso_lancet": "a4 y a5 (Lancet) salen por www.sciencedirect.com porque enlaces_directos.py mete todo DOI 10.1016 no-JACC en la rama de Elsevier. El PASO 5 de la SKILL prefiere para Lancet www.thelancet.com/journals/lancet/article/PII<PII>/fulltext. NO se ha cambiado el script desde la nube porque no se puede comprobar el destino. REVISAR ESTOS DOS PRIMERO en el Mac y, si sciencedirect no aterriza en el texto completo, añadir la rama de Lancet.",
+ "procedimiento_mac": "python3 generador/revisar_enlaces.py 16  →  abrir cada tanda de 4 con el Chrome real  →  los que den «Page Not Found» se marcan con python3 generador/enlaces_directos.py 16 --pii <clave> ...  →  regenerar con gen_bilingue.py n16 y gen_audit_N16.py  →  republicar.",
+ "pendientes": [
+  {
+   "clave": "a1",
+   "revista": "BMJ",
+   "url": "https://doi.org/10.1136/bmj-2026-100688"
+  },
+  {
+   "clave": "a2",
+   "revista": "Eur J Prev Cardiol",
+   "url": "https://doi.org/10.1093/eurjpc/zwag497"
+  },
+  {
+   "clave": "a3",
+   "revista": "N Engl J Med",
+   "url": "https://www.nejm.org/doi/full/10.1056/NEJMra2413201"
+  },
+  {
+   "clave": "a4",
+   "revista": "Lancet",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0140673626008469"
+  },
+  {
+   "clave": "a5",
+   "revista": "Lancet",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0140673626008470"
+  },
+  {
+   "clave": "a6",
+   "revista": "Eur Heart J",
+   "url": "https://doi.org/10.1093/eurheartj/ehag524"
+  },
+  {
+   "clave": "a7",
+   "revista": "Eur J Prev Cardiol",
+   "url": "https://doi.org/10.1093/eurjpc/zwag455"
+  },
+  {
+   "clave": "a8",
+   "revista": "J Am Heart Assoc",
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.126.049882"
+  },
+  {
+   "clave": "a9",
+   "revista": "J Am Heart Assoc",
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.126.049158"
+  },
+  {
+   "clave": "a10",
+   "revista": "J Am Heart Assoc",
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.125.048360"
+  },
+  {
+   "clave": "a11",
+   "revista": "Eur J Prev Cardiol",
+   "url": "https://doi.org/10.1093/eurjpc/zwag512"
+  },
+  {
+   "clave": "a12",
+   "revista": "Eur Heart J",
+   "url": "https://doi.org/10.1093/eurheartj/ehag754"
+  },
+  {
+   "clave": "a13",
+   "revista": "EuroIntervention",
+   "url": "https://eurointervention.pcronline.com/doi/10.4244/EIJ-D-26-00332"
+  },
+  {
+   "clave": "a14",
+   "revista": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103284"
+  },
+  {
+   "clave": "a15",
+   "revista": "Eur J Prev Cardiol",
+   "url": "https://doi.org/10.1093/eurjpc/zwag508"
+  },
+  {
+   "clave": "a16",
+   "revista": "Circulation",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.126.080727"
+  },
+  {
+   "clave": "a17",
+   "revista": "Circulation",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.126.081334"
+  },
+  {
+   "clave": "a18",
+   "revista": "Rev Esp Cardiol (Engl Ed)",
+   "url": "https://www.sciencedirect.com/science/article/pii/S1885585726002124"
+  },
+  {
+   "clave": "a19",
+   "revista": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103280"
+  },
+  {
+   "clave": "a20",
+   "revista": "J Am Heart Assoc",
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.126.051493"
+  },
+  {
+   "clave": "a21",
+   "revista": "EuroIntervention",
+   "url": "https://eurointervention.pcronline.com/doi/10.4244/EIJ-D-26-00092"
+  },
+  {
+   "clave": "a22",
+   "revista": "JACC Cardiovasc Imaging",
+   "url": "https://www.jacc.org/doi/10.1016/j.jcmg.2026.07.026"
+  },
+  {
+   "clave": "a23",
+   "revista": "J Am Heart Assoc",
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.125.043647"
+  },
+  {
+   "clave": "a24",
+   "revista": "Circ Heart Fail",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCHEARTFAILURE.125.013822"
+  },
+  {
+   "clave": "a25",
+   "revista": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103278"
+  },
+  {
+   "clave": "a26",
+   "revista": "Europace",
+   "url": "https://doi.org/10.1093/europace/euag258"
+  },
+  {
+   "clave": "a27",
+   "revista": "J Am Heart Assoc",
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.126.049040"
+  },
+  {
+   "clave": "a28",
+   "revista": "J Am Heart Assoc",
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.126.050412"
+  },
+  {
+   "clave": "a29",
+   "revista": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103266"
+  },
+  {
+   "clave": "a30",
+   "revista": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103283"
+  },
+  {
+   "clave": "a31",
+   "revista": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103140"
+  },
+  {
+   "clave": "a32",
+   "revista": "Circulation",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.126.081264"
+  },
+  {
+   "clave": "a33",
+   "revista": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103115"
+  },
+  {
+   "clave": "a34",
+   "revista": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103239"
+  },
+  {
+   "clave": "a35",
+   "revista": "J Am Heart Assoc",
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.126.049783"
+  },
+  {
+   "clave": "a36",
+   "revista": "EuroIntervention",
+   "url": "https://eurointervention.pcronline.com/doi/10.4244/EIJ-D-26-00055"
+  },
+  {
+   "clave": "a37",
+   "revista": "Lancet",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0140673626008457"
+  },
+  {
+   "clave": "a38",
+   "revista": "Circ Cardiovasc Interv",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCINTERVENTIONS.126.016977"
+  },
+  {
+   "clave": "a39",
+   "revista": "Circ Cardiovasc Interv",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCINTERVENTIONS.126.016865"
+  },
+  {
+   "clave": "a40",
+   "revista": "EuroIntervention",
+   "url": "https://eurointervention.pcronline.com/doi/10.4244/EIJ-D-26-00126"
+  },
+  {
+   "clave": "a41",
+   "revista": "BMJ",
+   "url": "https://doi.org/10.1136/bmj-2026-100600"
+  },
+  {
+   "clave": "a42",
+   "revista": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103269"
+  },
+  {
+   "clave": "a43",
+   "revista": "Circulation",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.126.080942"
+  },
+  {
+   "clave": "a44",
+   "revista": "JACC Clin Electrophysiol",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacep.2026.07.006"
+  },
+  {
+   "clave": "a45",
+   "revista": "Heart Rhythm",
+   "url": "https://www.sciencedirect.com/science/article/pii/S1547527126028109"
+  }
+ ],
+ "subconjunto_de_riesgo": [
+  {
+   "clave": "a3",
+   "revista": "N Engl J Med",
+   "url": "https://www.nejm.org/doi/full/10.1056/NEJMra2413201"
+  },
+  {
+   "clave": "a4",
+   "revista": "Lancet",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0140673626008469"
+  },
+  {
+   "clave": "a5",
+   "revista": "Lancet",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0140673626008470"
+  },
+  {
+   "clave": "a13",
+   "revista": "EuroIntervention",
+   "url": "https://eurointervention.pcronline.com/doi/10.4244/EIJ-D-26-00332"
+  },
+  {
+   "clave": "a14",
+   "revista": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103284"
+  },
+  {
+   "clave": "a18",
+   "revista": "Rev Esp Cardiol (Engl Ed)",
+   "url": "https://www.sciencedirect.com/science/article/pii/S1885585726002124"
+  },
+  {
+   "clave": "a19",
+   "revista": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103280"
+  },
+  {
+   "clave": "a21",
+   "revista": "EuroIntervention",
+   "url": "https://eurointervention.pcronline.com/doi/10.4244/EIJ-D-26-00092"
+  },
+  {
+   "clave": "a22",
+   "revista": "JACC Cardiovasc Imaging",
+   "url": "https://www.jacc.org/doi/10.1016/j.jcmg.2026.07.026"
+  },
+  {
+   "clave": "a25",
+   "revista": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103278"
+  },
+  {
+   "clave": "a29",
+   "revista": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103266"
+  },
+  {
+   "clave": "a30",
+   "revista": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103283"
+  },
+  {
+   "clave": "a31",
+   "revista": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103140"
+  },
+  {
+   "clave": "a33",
+   "revista": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103115"
+  },
+  {
+   "clave": "a34",
+   "revista": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103239"
+  },
+  {
+   "clave": "a36",
+   "revista": "EuroIntervention",
+   "url": "https://eurointervention.pcronline.com/doi/10.4244/EIJ-D-26-00055"
+  },
+  {
+   "clave": "a37",
+   "revista": "Lancet",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0140673626008457"
+  },
+  {
+   "clave": "a40",
+   "revista": "EuroIntervention",
+   "url": "https://eurointervention.pcronline.com/doi/10.4244/EIJ-D-26-00126"
+  },
+  {
+   "clave": "a42",
+   "revista": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103269"
+  },
+  {
+   "clave": "a44",
+   "revista": "JACC Clin Electrophysiol",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacep.2026.07.006"
+  },
+  {
+   "clave": "a45",
+   "revista": "Heart Rhythm",
+   "url": "https://www.sciencedirect.com/science/article/pii/S1547527126028109"
+  }
+ ]
+}
