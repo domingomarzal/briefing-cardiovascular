@@ -1,0 +1,303 @@
+[
+ {
+  "idx": 1,
+  "journal": "Circulation",
+  "title": "Prognostic Value of Coronary Computed Tomography Angiography-Derived Fractional Flow Reserve From a Large Nationwide Cohort.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The diagnostic value of coronary computed tomography angiography-derived fractional flow reserve (FFR-CT) in stable coronary artery disease is well established. The prognostic value of predicting future cardiovascular events is less clear, as studies are limited by small populations, variable measurement points, composite outcomes, and short follow-up. OBJECTIVES: A nationwide cohort of coronary computed tomography angiography with 3-year follow-up was used to examine the association between FFR-CT measurements and future cardiovascular events. METHODS: Patients receiving coronary computed tomography angiography and clinically indicated FFR-CT analysis (HeartFlow) for stable coronary artery disease between 2017 and 2020 at 27 sites across England were included. Lowest per-patient stenosis-specific and distal vessel FFR-CT measurements were related to individual outcomes of myocardial infarction (MI), cardiovascular mortality, all-cause mortality, and revascularization. FFR-CT measurements were divided into subgroups to investigate for a gradient of risk: normal FFR-CT (>0.8), borderline (0.71-0.8), reduced (0.51-0.7), and severely reduced (≤0.5). RESULTS: In total, 7836 patients aged 63 (56.0-71.0), 37.4% women, underwent FFR-CT analysis. Stenosis-specific FFR-CT was associated with future MI (hazard ratio [HR], 2.08-5.73; P<0.001), cardiovascular death (HR, 1.51-3.40; P<0.001), all-cause death (HR, 1.01-1.58; P=0.01), and revascularization (HR, 4.79-24.48; P<0.001), with lower FFR-CT values associated with incrementally greater risk. After adjusting for cardiovascular risk factors and coronary stenosis severity (Coronary Artery Disease Reporting and Data System), stenosis-specific FFR-CT≤0.7 was associated with MI (adjusted HR, 2.94-3.39; P<0.001), ≤0.5 with cardiovascular death (adjusted HR, 2.92; P=0.02), all-cause death (adjusted HR, 1.49; P=0.045), and ≤0.8 with revascularization (adjusted HR, 3.02-9.42; P<0.001). The addition of FFR-CT improved discrimination for MI or cardiovascular death compared with a risk factor and stenosis severity model (C index, 0.783; ∆C index, 0.012; P<0.001). An FFR-CT value of 0.67 defined the optimal cutoff for risk of future cardiovascular events. Distal-vessel FFR-CT was associated with outcomes similar to stenosis-specific FFR-CT. Stenosis-specific and distal-vessel FFR-CT discordance was common (36.4%), but when stenosis-specific FFR-CT was normal, event rates were low (1.5% at 3 years for MI or cardiovascular death). CONCLUSIONS: FFR-CT is associated with the individual outcomes of MI, cardiovascular death, and all-cause death independent of risk factors and stenosis severity, with lower FFR-CT values associated with worse outcomes. Reduced and severely reduced FFR-CT have the strongest association with future cardiovascular events, with a value of 0.67 defining the optimal risk threshold.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.081264"
+ },
+ {
+  "idx": 6,
+  "journal": "J Am Heart Assoc",
+  "title": "Insulin Resistance Indices and Genetic Predisposition in Relation to the Risk of Incident and Recurrent Coronary Artery Disease.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Insulin resistance contributes to the pathogenesis of coronary artery disease (CAD), yet its association with recurrent CAD and the potential role of genetic susceptibility remain unclear. METHODS: We analyzed data from the UK Biobank. Four triglyceride-glucose (TyG)-based indices were calculated to assess insulin resistance, including TyG, TyG-body mass index, TyG-waist circumference, and TyG-waist-to-height ratio. The polygenic risk score for CAD was categorized into tertiles, representing low, medium, and high genetic risk. Cox proportional hazards models were used to evaluate the associations of TyG-based indices and polygenic risk score with the risk of incident and recurrent CAD. RESULTS: During follow-up, 27 378 of 408 759 (6.7%) participants without baseline CAD developed incident CAD, and 7620 of 12 895 (59.1%) participants with preexisting CAD experienced recurrent CAD. When comparing the highest versus lowest quartile (Q4 versus Q1), the hazard ratios (HRs) and 95% CIs for incident CAD were 1.57 (1.51-1.63) for TyG, 1.79 (1.72-1.86) for TyG-body mass index, 1.95 (1.86-2.04) for TyG-waist circumference, and 1.96 (1.88-2.05) for TyG-waist-to-height ratio. The corresponding HRs for recurrent CAD were 1.18 (95% CI, 1.10-1.26), 1.20 (95% CI, 1.12-1.28), 1.23 (95% CI, 1.15-1.32), and 1.26 (95% CI, 1.17-1.34), respectively. We observed significant interactions between TyG-based indices and genetic risk for incident CAD, with stronger associations among participants with medium/high polygenic risk score. However, no significant interactions were detected for recurrent CAD. CONCLUSIONS: Elevated TyG-based indices were associated with a higher risk of incident and recurrent CAD. Interactions between TyG-based indices and polygenic risk score were observed for incident but not recurrent CAD.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049158"
+ },
+ {
+  "idx": 11,
+  "journal": "J Am Heart Assoc",
+  "title": "Pregnane X Receptor Activation Attenuates Aortic Dissection by Suppressing Lactate Dehydrogenase A-Mediated Lactate Metabolism.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The pathogenesis of thoracic aortic dissection (TAD) involves phenotypic switching of vascular smooth muscle cells (VSMCs) and VSMCs apoptosis. PXR (pregnane X receptor) is a known regulator of apoptosis. The mechanistic role of PXR in the pathogenesis of TAD remains elusive. METHODS: Microarray data sets related to TAD were obtained from the Gene Expression Omnibus database to identify differentially expressed genes. Four-week-old male Pxr-overexpressing mice, beta carotene-treated mice, and Ldha-knockdown mice were administered β-aminopropionitrile (1 g/kg per day) in drinking water for 4 weeks, followed by intraperitoneal injection of angiotensin II (1.44 mg/kg 3 times daily) for 3 days to induce TAD. Lactate concentration and lactate dehydrogenase activity were measured using commercially available assay kits. Apoptosis was assessed by TUNEL staining. VSMC phenotype transformation was detected by quantitative real-time polymerase chain reaction, immunofluorescence, and western blot. RESULTS: Microarray analysis of data sets from the Gene Expression Omnibus revealed downregulated PXR expression in aortic tissues from TAD patients. Consistently, reduced PXR expression was observed in aortic tissues from both TAD patients and β-aminopropionitrile-induced TAD mice. β-Aminopropionitrile-induced TAD progression was significantly ameliorated in mice with PXR overexpression or activation. PXR activation effectively suppressed VSMCs phenotypic switching. It also inhibited LDHA expression, thereby reducing lactate accumulation, attenuating VSMC apoptosis, and ultimately alleviating TAD progression. In line with these findings, β-aminopropionitrile-induced TAD progression was significantly ameliorated in Ldha-knockdown mice. CONCLUSIONS: PXR signaling may represent a novel target for the prevention and treatment of TAD.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.047767"
+ },
+ {
+  "idx": 16,
+  "journal": "Circulation",
+  "title": "ALKBH5-Dependent m6A Demethylation Promotes Cardiac Aging Through SLC38A3 Reduction and Glutamine Metabolic Alteration.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: N6-methyladenosine (m6A) modification has been linked to various types of physiological and pathological bioprocesses. However, the exact role of m6A mRNA methylation in cardiac aging is largely unknown. Here, we show that ALKBH5 (alpha-ketoglutarate-dependent dioxygenase AlkB homolog 5), an m6A demethylase, plays a critical role in regulating cardiac aging. METHODS: Physiologically aged and paraquat-induced mouse models of cardiac aging as well as senescent cardiomyocyte cell cultures were used to evaluate the expression and function of ALKBH5 in cardiac aging. The adeno-associated virus serotype 9 and small interfering RNAs were used to modulate ALKBH5 expression in vivo and in vitro, respectively. Cardiac aging and function were evaluated by histological analysis, immunostaining, and echocardiography. Methylated RNA immunoprecipitation sequencing and functional screening were performed to identify potential targets of ALKBH5 in regulating cardiac aging. RESULTS: ALKBH5 expression was increased in aged hearts and in senescent-like cardiomyocyte models, accompanied by reduced m6A levels. ALKBH5 knockdown attenuated senescence-associated phenotypes in cardiomyocytes and reduced aging-associated cardiac remodeling and dysfunction in physiological aging and paraquat-challenged mouse models when adeno-associated virus serotype 9-short hairpin RNA targeting ALKBH5 gene was delivered beginning in young adulthood, whereas ALKBH5 knockdown initiated in already aged hearts did not reverse established phenotypes. Mechanistically, ALKBH5-dependent m6A demethylation reduced the expression of SLC38A3 (solute carrier family 38-member 3), which suggested a YTHDC2 (YTH domain-containing protein 2)-dependent mechanism, thereby contributing to reduced glutamine accumulation, impaired mitochondrial homeostasis, and increased oxidative stress. SLC38A3 overexpression attenuated aging-associated cardiac phenotypes in vivo. In addition, glutamine supplementation reduced senescence-associated and cardiac aging-related phenotypes. CONCLUSIONS: Our study demonstrates that ALKBH5-SLC38A3 axis is an important regulator of m6A-linked, glutamine-associated pathways in aging-related cardiac phenotypes. These findings support a role for ALKBH5 as a contributor to cardiac aging-associated remodeling and dysfunction and suggest this pathway as a candidate target for further mechanistic and translational investigation.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.125.079193"
+ },
+ {
+  "idx": 21,
+  "journal": "Circulation",
+  "title": "Novel mTORC1 Booster LAPTM4A Potentiates Pathological Cardiac Hypertrophy.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Excessive unnecessary protein accumulation in cardiomyocyte is a leading contributor for pathological cardiac hypertrophy and has been found closely regulated by the mTORC1 (mechanistic target of rapamycin complex 1) signaling and lysosome transmembrane proteins. However, the precise regulatory mechanism stratifying mTORC1 signaling and the specific functions of lysosomal proteins in protein homeostasis of cardiomyocytes remain largely unidentified. METHODS: We screened lysosomal genes conserved in mice, rats, and humans. Adenoviral infection of rat cardiomyocytes was used to assess the functional role of LAPTM4A (lysosome-associated protein transmembrane 4A). To evaluate its effects in vivo, adeno-associated virus 9 driven by the cardiac troponin T promoter was used for cardiomyocyte-specific expression. RNA sequencing and mass spectrometry-based proteomics were performed to elucidate the underlying molecular mechanisms. Last, a dual-luciferase reporter assay was used to screen a Food and Drug Administration-approved drug library for compounds that suppress LAPTM4A expression. RESULTS: Lysosomal transmembrane proteins expressed in cardiomyocytes were screened for their roles in regulating hypertrophy, and LAPTM4A emerged as a potent promoter of cardiomyocyte hypertrophy and prohypertrophic gene expression. Overexpression of LAPTM4A aggravated cardiac remodeling and dysfunction by enhancing mTORC1-p70S6K (70-kDa ribosomal protein S6 kinase)/4EBP1 (eukaryotic translation initiation factor 4E-binding protein 1)-mediated protein synthesis, without affecting lysosomal autophagy, in a NEDD4L (neural precursor cell expressed developmentally downregulated 4-like)-dependent manner. Mechanistically, LAPTM4A directly interacted with NEDD4L, facilitating K63-linked ubiquitination of AKT (protein kinase B [v-akt murine thymoma viral oncogene homolog]) and subsequent activation of mTORC1 signaling. Cardiomyocyte-specific deletion of LAPTM4A significantly attenuated myocardial hypertrophy and fibrosis induced by transverse aortic constriction in mice. Furthermore, a dual-luciferase reporter screen identified magnolol, a Food and Drug Administration-approved compound, as a suppressor of LAPTM4A expression with marked cardioprotective effects in vivo. CONCLUSIONS: Our study identified a novel mTORC1 booster LAPTM4A and verified interrupting the LAPTM4A-mTORC1 axis can significantly inhibit excessive protein synthesis and pathological cardiac hypertrophy, which might represent an attractive therapeutic approach for this disease.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.080371"
+ },
+ {
+  "idx": 26,
+  "journal": "J Am Heart Assoc",
+  "title": "Reproductive Characteristics, Postmenopausal Obesity, and Cardiovascular Disease Incidence in the Women's Health Initiative.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Early menarche, menopause, and short reproductive lifespan are risk factors for cardiovascular disease (CVD), but whether these reproductive characteristics are independently associated with CVD or influenced by obesity is unclear. This study aimed to address this gap. METHODS: Postmenopausal women from the Women's Health Initiative longitudinal cohort study without CVD at baseline (October 1993 to December 1998) and followed through January 2025 were included. Early menarche (<12 years) and menopause (<40 years) were self-reported. Reproductive lifespan was defined as the difference between age at menopause and menarche, with short duration as <35 years. Obesity was defined by baseline waist circumference of ≥88 cm. Cox regression models assessed associations of each reproductive characteristic and incident CVD, adjusting for demographic, lifestyle, medical, and reproductive history. Interactions and mediation of reproductive characteristics and CVD by waist circumference were also examined. RESULTS: Participants (N=119 182) reported an age of menarche and menopause at 12.6±1.5 and 48.2±6.3 years of age, yielding an average reproductive lifespan of 35.6±6.4 years. Over a median follow-up of 12.8 years (interquartile range, 8.1-14.1), 12 731 CVD events occurred (rate=10.4/1000 person-years). Early menarche (hazard ratio [HR], 1.07 [95% CI, 1.01-1.15]), early menopause (HR, 1.22 [95% CI, 1.11-1.35]), and short reproductive lifespan (HR, 1.21 [95% CI, 1.13-1.29]) were associated with CVD incidence. Waist circumference was a significant mediator of early menarche, early menopause, and a short reproductive lifespan. CONCLUSIONS: Younger ages at menarche, menopause, and shorter duration of reproductive lifespan were independently associated with CVD incidence; waist circumference was a significant mediator of associations.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049882"
+ },
+ {
+  "idx": 31,
+  "journal": "JACC Adv",
+  "title": "Comparison of Artificial Intelligence-Driven Echocardiographic Assessment of Diastolic Function With the ASE Guidelines.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Contemporary guideline-based assessment of left ventricular diastolic function and filling pressure requires multiple echocardiographic parameters that may not be routinely acquired in real-world clinical practice. OBJECTIVES: The aim of the study was to compare the prognostic and diagnostic performance of a previously validated deep learning (DL) model for left ventricular diastolic function assessment with those of the 2016 ASE (American Society of Echocardiography)/EACVI (European Association of Cardiovascular Imaging) and 2025 ASE guidelines. METHODS: The DL model and the guidelines were compared in the ARIC (Atherosclerosis Risk In Communities) cohort (n = 5,450) for prognostication and in 2 hemodynamic validation cohorts from the United States (n = 83) and Japan (n = 130) for diagnosing elevated left ventricular filling pressure. In all 3 cohorts, ≥1 guideline-recommended parameters were unavailable in a substantial proportion of patients. RESULTS: In the ARIC cohort, the DL model achieved a higher C-index than both the 2016 ASE/EACVI and 2025 ASE guidelines (0.676 vs 0.638 and 0.602, respectively; both P < 0.001). In the United States cohort, the DL model achieved a higher area under the receiver operating characteristic curve (AUC) than the 2025 ASE guidelines (0.879 vs 0.822; P = 0.041) and a similar AUC to the 2016 ASE/EACVI guidelines (0.879 vs 0.812; P = 0.138). In the Japanese cohort, the DL model achieved a higher AUC than both guideline versions (0.816 vs 0.694 and 0.634, respectively; both P < 0.05). CONCLUSIONS: In settings where not all guideline-recommended parameters are available, the DL model may improve prognostic and diagnostic performance compared with both guideline versions. Nevertheless, these exploratory findings require further validation to confirm that the observed advantages persist when all guideline-recommended parameters are systematically acquired.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103115"
+ },
+ {
+  "idx": 36,
+  "journal": "Heart Rhythm",
+  "title": "Catheter ablation for atrial fibrillation in very young adults - multicentric data from the AF-YOUNG registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Atrial fibrillation below age 30 is rare; ablation outcome data is scarce. OBJECTIVE: The multicenter AF-YOUNG registry analyzed clinical, procedural, and outcome data of consecutive patients ≤30 years undergoing first-time catheter ablation. METHODS: Two high-volume German centers retrospectively included patients ≤30 years undergoing first-time pulmonary vein isolation (PVI) for atrial fibrillation (2005-2025). Recurrence: documented atrial fibrillation after a 90-day blanking period. RESULTS: Of 140 patients (mean age 29.1±3.1 years; 28.6% female), 104 with outcome analysis (paroxysmal 83.6%, persistent atrial fibrillation 16.4%; 18.6% with family history of atrial fibrillation). PVI: Radiofrequency 49.3%, Cryoballoon 45.7%, Pulsed-Field ablation 5%. Mean procedure duration 117 ± 66 min. Over a median follow-up of one year (IQR 0.25-1.74), 10 patients had recurrences. Freedom from atrial fibrillation was 93.6/ 88.2/ 82.1% at 1/ 2/ 3 years; 94.9% at one year after up to two procedures. Paroxysmal vs persistent atrial fibrillation showed better outcome: 98.5% vs. 67.7% at 1 year and 87.8% vs. 50.8% at 3 years (log-rank p<0.001). Three in-hospital complications (2.1%) occurred: one vascular complication requiring surgical repair; a pericarditis and a mild pulmonary-vein stenosis without need for intervention. CONCLUSION: In adults below 30 years, catheter ablation for atrial fibrillation delivers high rhythm control with low complication rates. Benefit is lower in persistent than paroxysmal atrial fibrillation. Atrial fibrillation subtype is the strongest determinant which may argue for early referral to ablation as first-line rhythm control in young adults.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.09.028"
+ },
+ {
+  "idx": 41,
+  "journal": "Eur J Heart Fail",
+  "title": "Longitudinal proteomic organ-specific aging in heart failure.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Heart failure (HF) is a systemic syndrome affecting multiple organs. Organ age gaps (OAGs), quantifying organ-level aging from plasma proteomics, are linked to organ-specific disease including HF but have been studied exclusively cross-sectionally. We examined how organ-specific aging evolves within individuals over the course of HF and whether it carries prognostic information beyond established HF markers. METHODS: We studied two complementary cohorts with repeated plasma proteomic profiling: 557 individuals including those at risk for HF, pre-HF, and newly diagnosed HF (HELPFul, mainly HFpEF)and 382 patients with established HF (Bio-SHiFT, all LVEF < 50%). OAGs for five organs plus a conventional clock were z-scored. Within each cohort, we modelled longitudinal OAG trajectories using linear mixed-effects models, and, in Bio-SHiFT, related OAGs to the primary endpoint using Cox models with progressive adjustment up to NT-proBNP and troponin T. RESULTS: Baseline OAGs differed across HF severity in both cohorts. Longitudinally, 50 HELPFul individuals with LVDD showed increasing artery and immune OAGs over 4.6 years. In Bio-SHiFT, event-free patients had stable trajectories, whereas those with adverse events showed sharply accelerating multi-organ aging over 2.1 years (immune β = 0.36 z-score per year, 95% CI 0.26 to 0.47; heart β = 0.29, 95% CI 0.17 to 0.40). Higher OAGs predicted the primary endpoint, and the kidney, lung, and immune OAGs remained prognostic after full adjustment including NT-proBNP and troponin T. CONCLUSION: In this exploratory study, multi-organ aging accelerated before adverse events, and the kidney, lung, and immune OAGs predicted outcome independently of conventional severity markers, supporting a dynamic, organ-level view of HF risk that warrants confirmation in larger cohorts.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/ejhf/xuag298"
+ },
+ {
+  "idx": 46,
+  "journal": "Nat Med",
+  "title": "Redesigning cardiovascular medicine around sex differences.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Cardiovascular disease remains the leading cause of death in women and a major contributor to disability, yet the evidence guiding diagnosis and treatment is still largely derived from studies in which men and male-pattern disease phenotypes have predominated. Women exhibit distinct cardiovascular physiology that contributes to sex differences in cardiovascular health and disease across the life course. However, these biological differences rarely inform clinical decision-making and remain incompletely understood, owing to a research ecosystem that inadequately addresses sex-specific biology. Conditions such as spontaneous coronary artery dissection, Takotsubo syndrome and coronary vasomotor disorders disproportionately affect women but were historically under-recognized as distinct clinical entities. Consequently, they remain understudied, with limited mechanistic insight and few evidence-based therapeutic strategies. In this Perspective, we advocate strengthening the translational understanding of sex-biased mechanisms and integrating these insights into diagnostics and therapeutics, with a focus on female-predominant conditions. We outline a roadmap for translational research that embeds sex as a biological variable and illustrates how advances in emerging technologies can accelerate the development of an evidence base that improves cardiovascular care for women.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s41591-026-04659-1"
+ },
+ {
+  "idx": 51,
+  "journal": "Hypertension",
+  "title": "FTO/m6A Regulate Prenatal Nicotine-Induced eNOS Uncoupling and BP Susceptibility.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Prenatal nicotine exposure from maternal smoking or e-cigarette use increases cardiovascular risk in offspring, but the underlying mechanisms remain unclear. We tested whether FTO (fat mass and obesity-associated protein)-mediated N6-methyladenosine RNA demethylation drives eNOS (endothelial nitric oxide [NO] synthase) uncoupling and programmed hypertensive susceptibility following prenatal nicotine exposure. METHODS: Using a clinically relevant rat model of chronic intermittent nicotine aerosol exposure or saline aerosol control during gestational days 4 to 21, experiments were performed in adult offspring and human umbilical vein endothelial cells. RESULTS: Prenatal chronic intermittent nicotine aerosol programmed a male-specific increase in hypertensive susceptibility without altering baseline blood pressure. Adult male offspring exhibited enhanced pressor responses to vasoconstrictor stimuli, impaired endothelium-dependent vasodilation, paradoxical eNOS overexpression, reduced NO bioavailability, increased superoxide and hydrogen peroxide production, impaired eNOS dimerization, and decreased tetrahydrobiopterin levels associated with reduced GTPCH1 (GTP cyclohydrolase-1) expression, consistent with eNOS uncoupling. Mechanistically, prenatal chronic intermittent nicotine aerosol increased vascular FTO expression and induced site-specific N6-methyladenosine hypomethylation of eNOS mRNA. Pharmacological inhibition of FTO with FB23-2 restored eNOS and GTPCH1 expression, improved eNOS dimerization, and normalized NO production in mesenteric arteries. In human umbilical vein endothelial cells, nicotine exposure recapitulated FTO-dependent eNOS uncoupling, which was reversed by FB23-2 or siRNA-mediated FTO knockdown. CONCLUSIONS: Prenatal nicotine exposure disrupts endothelial redox homeostasis through FTO-dependent N6-methyladenosine RNA demethylation, leading to tetrahydrobiopterin deficiency, eNOS uncoupling, and vascular dysfunction in male offspring. The FTO-tetrahydrobiopterin-eNOS pathway represents a novel epitranscriptomic mechanism underlying programmed hypertensive susceptibility and a potential therapeutic target for offspring exposed to nicotine during development.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/HYPERTENSIONAHA.126.27374"
+ },
+ {
+  "idx": 56,
+  "journal": "JACC Adv",
+  "title": "Life-Course Noncardiac Comorbidity Burden and Mortality in Lower-Complexity Congenital Heart Disease.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Lower-complexity congenital heart disease (CHD) is generally perceived as a low-risk condition. However, its long-term systemic comorbidity burden and impact on survival remain poorly defined, despite increasing recognition of lifelong care needs. OBJECTIVES: The authors aimed to determine whether lower-complexity CHD is a life-course condition characterized by high noncardiac comorbidity burden and mortality among adults. METHODS: This population-based prospective cohort study identified 3,316 adults with lower-complexity CHD and 492,232 individuals without CHD from the UK Biobank. The primary outcome was the first occurrence of 9 system-specific noncardiac comorbidities, with relative rates estimated by multivariable Cox regression models and lifetime risk from age 40 to 90 assessed using life-table methods. The secondary outcome was all-cause mortality among individuals with lower-complexity CHD, assessed according to baseline and incident comorbidity status using time-varying Cox regression models. The median follow-up was approximately 13 years. RESULTS: Compared to individuals without CHD, adults with lower-complexity CHD had significantly elevated relative rates of noncardiac comorbidities across 9 organ systems, particularly for blood, endocrine, and pulmonary diseases. Comorbidity incidence diverged from midlife and accelerated with age. Absolute lifetime risks ranged from 17.1% (skin disease) to 45.8% (digestive disease), with the largest excess risks observed in endocrine (18.6%), digestive (15.7%), and pulmonary (12.5%) systems. Among individuals with CHD, incident noncardiac comorbidities were independently associated with increased subsequent all-cause mortality, with pulmonary disease conferring the strongest relative rate. CONCLUSIONS: Lower-complexity CHD is associated with higher lifetime noncardiac comorbidity burden and increased subsequent mortality. These findings support a shift toward integrated, life-course clinical management.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103278"
+ },
+ {
+  "idx": 61,
+  "journal": "J Am Heart Assoc",
+  "title": "Right Heart Remodeling Redefines Risk in Significant Secondary Tricuspid Regurgitation Without Indication for Intervention.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The prognostic significance of right heart remodeling (RHR) in patients with secondary tricuspid regurgitation (STR) who do not meet guideline-based indications for tricuspid valve surgery remains uncertain. We evaluated whether advanced markers of RHR are associated with outcomes in medically managed patients with significant STR. METHODS: We retrospectively included 755 patients with significant STR (age 75±12 years). Patients were stratified into 3 groups: Group 1, no current surgical indication (n=519); Group 2, meeting Class I/IIa guideline criteria (n=144); and Group 3, deemed inoperable (n=92). RHR markers included right atrial volume index, right ventricular end-diastolic volume index, forward stroke volume/right ventricular end-systolic volume ratio, and effective right ventricular ejection fraction. The primary end point was a composite of all-cause mortality or heart failure hospitalization. RESULTS: Group 1 patients had less severe STR and less advanced right ventricular remodeling than Groups 2 and 3. Over a median follow-up of 24 months (interquartile range, 11-34), 330 primary events occurred; 64 patients underwent tricuspid valve intervention. In Group 1, 30-month event-free survival was 71±4% with no RHR markers, 65±3% with 1 or 2 markers, and 33±9% with ≥3 markers (adjusted hazard ratio [aHR], 2.76 [95% CI, 1.74-4.37]; P<0.001). Patients in Group 1 with ≥3 RHR markers had event rates comparable to Group 2 (aHR, 2.79 [95% CI, 1.94-4.02]; P<0.001) and Group 3 (aHR, 4.08 [95% CI, 2.73-6.09]; P<0.001). CONCLUSIONS: Among patients with significant STR without surgical indications, ≥3 markers of RHR identify a high-risk phenotype with outcomes similar to those meeting surgical criteria or considered inoperable.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049040"
+ },
+ {
+  "idx": 66,
+  "journal": "J Am Heart Assoc",
+  "title": "Clinical Outcomes of Left Atrial Appendage Occlusion During Cardiac Surgery in Patients Without Atrial Fibrillation: A Systematic Review and Meta-Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The left atrial appendage is the primary source of cardiac thrombi, and prophylactic exclusion during cardiac surgery may reduce thromboembolic risk. However, its benefit in patients without preoperative atrial fibrillation (AF) remains uncertain. METHODS: We searched PubMed, Web of Science, EMBASE, and the Cochrane Library for randomized controlled trials and observational studies comparing surgical left atrial appendage occlusion (LAAO) versus no LAAO in patients with sinus rhythm undergoing cardiac surgery. Primary outcomes were new-onset transient ischemic attack (TIA)/stroke, postoperative AF, and all-cause death. Dichotomous outcomes were pooled as odds ratios and continuous outcomes as mean differences, with 95% CIs. RESULTS: Eleven studies involving 12 145 participants were included. Compared with no LAAO, surgical LAAO reduced new-onset TIA/stroke (odds ratio, 0.75 [95% CI, 0.62-0.90]) and bleeding (odds ratio, 0.78 [95% CI, 0.60-1.00]) but increased postoperative AF (odds ratio, 1.27 [95% CI, 1.06-1.53]). No significant differences were detected between the 2 groups in all-cause death, 30-day death, and length of stay. Subgroup analyses showed some variation in effect estimates across study design, type of surgery, and LAAO technique. CONCLUSIONS: In patients with sinus rhythm undergoing cardiac surgery, surgical LAAO was associated with a lower risk of new-onset TIA/stroke and bleeding but a higher incidence of postoperative AF, with no significant differences in all-cause death, 30-day death, or length of hospital stay. Study design, type of cardiac surgery, and LAAO technique may influence these associations. These findings should be interpreted cautiously given low to moderate certainty of evidence.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.049033"
+ },
+ {
+  "idx": 71,
+  "journal": "JACC Adv",
+  "title": "Strategy Selection and Outcomes of Tip-Detection in CTO-PCI: Intraplaque Tracking vs Antegrade Dissection and Re-Entry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The tip-detection (TD) method expands antegrade options for chronic total occlusion (CTO) percutaneous coronary intervention, but criteria for selecting TD intraplaque tracking (TD-IPT) vs TD antegrade dissection and re-entry (TD-ADR) remain unclear. OBJECTIVES: The authors evaluated factors associated with the initially selected TD strategy and procedural outcomes. METHODS: We retrospectively analyzed 73 TD-attempted CTO-percutaneous coronary intervention cases from November 2020 to December 2023 and classified them as TD-primary IPT (n = 37) or TD-primary ADR (n = 36). Procedural outcomes were evaluated in all cases, and secondary metrics in 69 successful cases. RESULTS: TD success was 97.3% (36/37; 95% CI: 85.8%-99.9%) and 97.2% (35/36; 95% CI: 85.5%-99.9%), and final procedural success was 94.6% (35/37; 95% CI: 81.8%-99.3%) and 97.2% (35/36; 95% CI: 85.5%-99.9%) in the TD-primary IPT and TD-primary ADR groups, respectively. TD-primary ADR was selected more often for J-CTO score ≥2 (83.3% [30/36] vs 62.2% [23/37]; P = 0.043) and severe calcification (47.2% [17/36] vs 2.7% [1/37]; P < 0.001). Among successful cases, lesion crossing time was shorter with TD-primary IPT (75 [51-108] vs 93 [63-137] minutes; P = 0.046), whereas stent length was shorter with TD-primary ADR (38 [28-54] vs 46 [38-64] mm; P = 0.041). In multivariable models, severe calcification was associated with longer lesion crossing time, and bending ≥45° was associated with longer stent length. CONCLUSIONS: TD-primary ADR was preferentially selected for complex, calcified CTOs. Procedural efficiency appeared driven mainly by lesion characteristics rather than the initial TD strategy, supporting individualized TD strategy selection based on lesion morphology and technical feasibility.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103274"
+ },
+ {
+  "idx": 76,
+  "journal": "JACC Adv",
+  "title": "Practical Implementation of Steroidal and Nonsteroidal Mineralocorticoid Receptor Antagonists in the Management of Heart Failure.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Mineralocorticoid receptor antagonists (MRAs) are a well-established treatment option for the management of heart failure (HF) with reduced ejection fraction. However, high-quality evidence for the effect of MRAs in the treatment of heart failure with mildly reduced or preserved ejection fraction (HFmrEF/HFpEF) has been limited until recent years. The nonsteroidal MRA finerenone has demonstrated efficacy in this population and was approved for treatment in July 2025 by the U.S. Food and Drug Administration. A call to action is needed to increase the use of guideline-directed medical therapy in HFmrEF/HFpEF with simultaneous or rapid sequence initiation of a combination therapy. This review provides an overview of MRAs approved for use in HF management, with particular focus on HFmrEF/HFpEF. Guideline recommendations and HF label indications are discussed, highlighting practical considerations for the safe use of MRAs in clinical practice. In addition, the therapeutic management of patients with HFmrEF/HFpEF and concomitant cardiovascular, kidney, and metabolic diseases is considered.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103280"
+ },
+ {
+  "idx": 81,
+  "journal": "Circ Res",
+  "title": "Calpain-Dependent Protein Degradation Contributes to CASQ2-R33Q CPVT.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Catecholaminergic polymorphic ventricular tachycardia (CPVT) is an inherited arrhythmogenic disease associated with cardiac arrest in children and young adults. The recessive form of CPVT is caused by loss-of-function mutations in the genes encoding CASQ2 and TRDN, which, together with JCTN, regulate the release of calcium ions from the sarcoplasmic reticulum through the RyR2 (ryanodine receptor). The CASQ2 R33Q mutation causes calcium mishandling and ventricular tachycardia through triggered activity. The homozygous mouse model Casq2R33Q/R33Q closely replicates the clinical phenotype of patients with CPVT. In this model, CASQ2 (calsequestrin 2), TRDN (triadin), and JCTN (junctin) levels are markedly reduced; however, the mechanisms underlying this reduction and their contribution to CPVT are incompletely understood. METHODS: We used a combination of proteomics, animal models, and experimental methods to identify the molecular mechanisms responsible for the decrease of couplon proteins in Casq2R33Q/R33Q mice and to explore their functional contribution to the disease. RESULTS: Casq2R33Q/R33Q hearts showed activation of endoplasmic reticulum stress, the unfolded protein response, and alterations in major proteolytic pathways. Inhibition of the proteasome or autophagy in neonatal cardiomyocytes and adult mice partially restored CASQ2 but not TRDN levels, suggesting distinct degradation mechanisms. In contrast, calpain inhibition restored CASQ2 and TRDN protein levels, decreased triggered activity in isolated cardiomyocytes, and reduced ventricular tachycardia episodes in vivo in Casq2R33Q/R33Q mice. Biochemical assays showed that TRDN is a direct calpain substrate. TRDN degradation preceded CASQ2 loss, and TRDN overexpression using modified RNA in cardiomyocytes or an adeno-associated viral vector in vivo increased CASQ2 levels in mutant mice, supporting an upstream role for TRDN destabilization. CONCLUSIONS: Couplon protein loss in CPVT associated with CASQ2-R33Q is mediated by coordinated but distinct proteolytic pathways, with calpain-dependent TRDN degradation representing a key pathogenic event that promotes CASQ2 destabilization and arrhythmogenesis.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCRESAHA.126.329035"
+ },
+ {
+  "idx": 86,
+  "journal": "Eur Heart J",
+  "title": "Targeting trafficking defects in long QT syndrome type 2: a phase 2 clinical study with patient-specific cellular validation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: A major component of long QT syndrome (LQTS) is LQT2 due to pathogenic variants in KCNH2, which frequently cause trafficking defects. Despite progress in therapeutic management, there is an unmet clinical need for mechanism-targeted therapies. It has been previously shown, using patient-specific human induced pluripotent stem cell-derived cardiomyocytes (hiPSC-CMs), that lumacaftor (LUM), currently used for cystic fibrosis, can partially correct hERG trafficking. A single-arm phase 2 study was conducted to determine whether LUM could shorten QTc in LQT2 patients with trafficking defects. METHODS: Sixteen adult patients with genetically confirmed trafficking-defective KCNH2 variants were enrolled. Participants were admitted to hospital and received LUM for 7 days under continuous telemetry. QTc was quantified on serial electrocardiograms and 12-lead Holter recordings. For mechanistic correlation, hiPSC-CMs were generated from the first five participants with distinct genetic variants and assessed for hERG maturation and trafficking. RESULTS: Overall, lumacaftor produced a significant QTc shortening (P < .001). The per-patient change averaged 31 ± 21 ms. Patients with baseline QTc ≥500 ms exhibited the most substantial effect, with 75% achieving reductions ≥40 ms. No ventricular arrhythmias occurred, and adverse effects were primarily gastrointestinal and self-limited. In hiPSC-CMs, LUM restored hERG trafficking in three out of five variants, mirroring the clinical observations. CONCLUSIONS: Short-term LUM therapy is safe and yields a significant QTc shortening in LQT2 patients with a trafficking defect. Concordance between cellular and clinical findings reinforces the value of a mechanism-based, variant-informed approach and supports the feasibility of trafficking-correction strategies within a precision-medicine framework for inherited arrhythmia syndromes.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurheartj/ehag753"
+ },
+ {
+  "idx": 91,
+  "journal": "Heart Rhythm",
+  "title": "Atrial Fibrillation Cycle Length Dynamics During Pulmonary Vein Isolation and Posterior Wall Pulsed Field Ablation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The benefit of additional left atrial posterior wall ablation (LAPWA), beyond pulmonary vein isolation (PVI), in persistent atrial fibrillation (PersAF) treatment remains controversial. OBJECTIVE: We investigated whether signals recorded with a pentaspline pulsed field ablation (PFA) catheter can identify PersAF patients with rapid LAPW activity who may benefit from LAPWA. We additionally evaluated whether PFA-induced atrial fibrillation cycle length (AF-CL) prolongation predicts arrhythmia-free survival. METHODS: In this multicenter observational study, consecutive PersAF patients undergoing first-time PVI plus-LAPWA with a pentaspline PFA catheter were included. AF-CL was measured using the FARS-10 method at three time points: baseline, post-PVI, and post-LAPWA, using distal CS signals. LAPW-CL was measured post-PVI from multiple LAPW positions. Any atrial tachyarrhythmia (ATA) lasting >30 seconds beyond the 2-month blanking period was recorded. RESULTS: 270 patients were included. The overall 12-month ATA-free survival was 72.6%. \"Fast LAPW activity\" was defined as a LAPW-CL value shorter than the mean LAPW-CL of the entire cohort (191.4±2.4 msec; ≤ 190 msec). Fast LAPW activity was not associated with arrhythmia recurrence (HR 1.263, 95% CI: 0.739-2.160; p=0.393). In contrast, a greater CS-CL prolongation was independently associated with lower arrhythmia recurrence risk (HR 0.298, 95% CI: 0.017-0.520; p<0.001). A CS-CL increase >23.5% from baseline had a sensitivity of 0.65 and specificity of 0.72 for predicting ATA-free survival. CONCLUSION: Post-PVI fast LAPW activity does not predict recurrence after LAPWA in PersAF patients. CS-CL prolongation >23.5% after LAPWA may serve as a useful real-time marker of effective substrate modification and arrhythmia control.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.09.036"
+ },
+ {
+  "idx": 96,
+  "journal": "Nat Cardiovasc Res",
+  "title": "Cardiac proteomic and phosphoproteomic profiling defines clinically relevant molecular subgroups in human heart failure.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Molecular heterogeneity in heart failure (HF) is increasingly recognized as a major barrier to effective therapy development. Here we performed proteomic profiling of left ventricular tissues from 149 patients with advanced HF spanning nine clinical etiologies. Despite clinical diversity, etiology-stratified analyses revealed convergence toward a shared end-stage proteomic landscape. By contrast, unbiased proteome-based clustering stratified patients into two molecular subgroups characterized by divergent remodeling phenotypes, including differences in fibrosis and immune cell infiltration. Phosphoproteomic profiling was consistent with this stratification, and the analyses further uncovered selective activation of druggable signaling networks in a molecularly defined subgroup of patients. Moreover, our remodeling-associated subgrouping proteins also stratified patients and predicted survival trajectories in an independent plasma-based HF cohort from the UK Biobank, extending our findings to earlier disease stages. Together, our study provides a rich resource for molecular classification of patients with HF, supporting the development of precision-guided therapeutic strategies.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s44161-026-00880-w"
+ },
+ {
+  "idx": 101,
+  "journal": "J Am Heart Assoc",
+  "title": "Impact of Aging, Sex, and Hypertension on Aortoiliac Hemodynamics: A 4-Dimensional Flow Magnetic Resonance Imaging Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The impact of aging, sex, and hypertension on the aortoiliac arterial system is poorly characterized. This study aimed to comprehensively evaluate iliac artery hemodynamics and the vascular aging phenotype using 4-dimensional flow magnetic resonance imaging. METHODS: In this cross-sectional study, 235 participants (aged 18-97 years) without major vascular disease underwent 4-dimensional flow magnetic resonance imaging. The structural (area), basic hemodynamic (velocity, flow, resistive/pulsatility indices), and wall shear stress (WSS) parameters of the infrarenal aorta and left and right common arteries were quantified. Statistical analyses included group comparisons, correlation, multiple linear regression, effect size evaluation, and propensity score matching for hypertension. Multiple comparison corrections were performed throughout this study as appropriate. RESULTS: Vessel area increased with aging and was higher in men. Systolic velocity decreased with age but showed no significant sexual dimorphism. A distinct aging pattern emerged for WSS: time-averaged (TA) axial WSS significantly decreased with age (P<0.001), whereas TA circumferential WSS and oscillatory shear index increased (P<0.001). Multiple linear regression confirmed that age (P<0.001) and antihypertensive medication (P<0.01) were associated with lower TAWSS, whereas hypertension was associated with higher TAWSS (P<0.01). Regarding OSI, higher OSI was associated with higher age (P<0.001) and male (P<0.001). After propensity score matching, analysis revealed no statistically significant difference of hemodynamics parameters in participants with or without hypertension. CONCLUSIONS: This study delineates an aortoiliac aging phenotype characterized by decreasing TA/axial WSS and increasing circumferential WSS/OSI. The role of hypertension in vascular remodeling needs further validation in larger cohorts.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049725"
+ },
+ {
+  "idx": 106,
+  "journal": "Eur Heart J",
+  "title": "Semaglutide and cardiovascular risk reduction: a mediation analysis of the SELECT trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: In SELECT, subcutaneous semaglutide (target dose 2.4 mg) weekly in adults with pre-existing cardiovascular disease and body mass index ≥27 kg/m2 without diabetes significantly reduced major adverse cardiovascular events (MACE) by 20% vs placebo. This analysis explored potential mediators of this cardiovascular benefit. METHODS: Changes from randomization to 24 months in body weight, waist circumference, plasma high-sensitivity C-reactive protein (hsCRP), glycated haemoglobin (HbA1c), lipids, blood pressure, estimated glomerular filtration rate, and urinary albumin-to-creatinine ratio were examined individually, and in combination, as potential mediators of MACE risk reduction, using the Vansteelandt repeated regression method (a counterfactual approach). RESULTS: Semaglutide significantly (P < .05) improved all potential mediators investigated. Point estimates for % mediation were largest for waist circumference (64.0% [95% confidence interval (CI) 27.5, 179.6]), hsCRP (42.1% [17.9, 110.5]), HbA1c (29.0% [-20.7, 120.5]), and body weight (19.5% [-33.0, 110.7]), examined separately, but all had wide CIs. Supplementary analyses suggested unreliability of estimates for body weight and waist circumference, potentially due to differing relationship of body weight and waist change to MACE between treatment arms. Multivariable analysis estimated joint mediation for all potential mediators combined to be 31.4% (95% CI -30.1, 143.6). When variables other than body weight and waist circumference were considered, % mediation was 46.0% (95% CI -6.0, 161.0). CONCLUSIONS: Mediation analyses could not fully ascribe the effects of semaglutide on MACE to known risk factors in SELECT with any certainty. Further investigation of potential additional biomarkers and mediators of semaglutide's cardiovascular protective effect are of interest.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurheartj/ehag524"
+ },
+ {
+  "idx": 111,
+  "journal": "JAMA Cardiol",
+  "title": "Multidimensional Aging Trajectories Preceding Cardiovascular Events.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: Whether declines in functional aging markers precede cardiovascular (CVD) events is unclear. OBJECTIVES: To determine 14-year trajectories of frailty, intrinsic capacity (IC), and physical health-related quality of life (HRQOL) preceding CVD events in later life and to compare these with matched CVD-free controls. DESIGN, SETTING, AND PARTICIPANTS: This was a case-control study nested within the Aspirin in Reducing Events in the Elderly (ASPREE) cohort. Participants were aged 70 years and older (≥65 years for US racial and ethnic minoritized groups) with no prior CVD event, dementia, or significant physical disability and were recruited in Australia and the US between March 2010 and December 2014. Four controls were matched to each CVD case by age (±1 year), sex, and education. Participants were followed up prospectively until December 2024. Data were analyzed between January and May 2026. EXPOSURES: The 64-item Frailty Index (FI), Fried phenotype frailty, IC (comprising cognitive, locomotor, vitality, and psychological domains), and 12-item short form physical HRQOL were assessed annually. MAIN OUTCOMES AND MEASURES: CVD events were adjudicated by expert clinical panels. Linear mixed-effects models were used to compare the trajectories between cases and controls. RESULTS: This study included 12 015 participants (2403 cases and 9612 controls) with a mean (SD) age of 76.4 (4.7) years; 6190 were male (52%). Compared with matched controls, individuals who went on to experience a CVD event had consistently worse profiles up to a decade beforehand, including higher frailty, lower IC, and poorer physical HRQOL. These differences widened markedly in the 5 years preceding the event. Cases showed faster deterioration over time, with greater increases in frailty (FI, β = 0.78; 95% CI, 0.66-0.91; Fried, β = 0.05; 95% CI, 0.03-0.07), and steeper declines in IC (β = -0.34; 95% CI, -0.44 to -0.24) and physical HRQOL (β = -0.55; 95% CI, -0.70 to -0.40). Patterns were broadly similar across components of the CVD composite, with the exception that divergence occurred earlier for heart failure and fatal coronary heart disease (≥10 years before the event) than for myocardial infarction or stroke. CONCLUSIONS AND RELEVANCE: Results of this nested case-control study show that declines in functional aging markers were prominent before clinically apparent CVD, suggesting that they may represent the culmination of progressive multisystem aging and indicating a prolonged window of opportunity for closer clinical evaluation and early intervention.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1001/jamacardio.2026.3597"
+ },
+ {
+  "idx": 116,
+  "journal": "Rev Esp Cardiol (Engl Ed)",
+  "title": "Gray zone NT-proBNP values and long-term outcomes in emergency department patients without prior heart failure.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "INTRODUCTION AND OBJECTIVES: The clinical significance of gray zone N-terminal pro-B-type natriuretic peptide (NT-proBNP) values in the emergency department (ED) remains poorly defined in patients without prior heart failure (HF). We aimed to determine whether, among ED patients without prior HF who did not meet age-adjusted rule-in criteria, gray zone NT-proBNP values were associated with worse long-term outcomes compared with rule-out values. METHODS: This retrospective, observational study included consecutive patients presenting to a tertiary care ED between March and August 2022 who underwent NT-proBNP testing. Patients with prior HF or NT-proBNP values above age-adjusted rule-in thresholds were excluded. First HF hospitalization and all-cause mortality were analyzed as 2 separate, independent outcomes. RESULTS: A total of 454 patients were included, of whom 228 (50.2%) had gray zone NT-proBNP values and 226 (49.8%) had rule-out values. During a median follow-up of 2.7 years, patients with gray zone values had significantly higher rates of first HF hospitalization (24.1% vs 2.2%) and mortality (36.4% vs 5.3%). After multivariable adjustment, gray zone NT-proBNP values were associated with first HF hospitalization (subdistribution hazard ratio [HR], 6.53; 95%CI, 2.38-17.89; P <  .001) and all-cause mortality (HR, 4.59; 95%CI, 2.35-8.94; P <  .001). CONCLUSIONS: In ED patients without prior HF, gray zone NT-proBNP values were associated with higher long-term risks of HF hospitalization and all-cause mortality compared with rule-out values. Prospective studies are needed to determine whether structured evaluation of this population improves clinical outcomes.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.rec.2026.08.011"
+ },
+ {
+  "idx": 121,
+  "journal": "JACC Adv",
+  "title": "Clinician and Patient Perspectives on Cardiac Rehabilitation for Type 1 vs Type 2 Myocardial Infarction.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cardiac rehabilitation (CR) is recommended after myocardial infarction (MI), but perceptions of its role after type 2 MI remain unclear. OBJECTIVES: The aim of the study is to assess clinician and patient perceptions of CR benefits and safety after type 2 MI, clinician-reported referral frequency, and the willingness of patients to participate. METHODS: In this cross-sectional study, 118 clinicians from 2,250 invitations across Mass General Brigham completed a survey comparing perceptions of CR after type 1 vs type 2 MI. Fifty type 2 MI inpatients at a single academic center completed a survey assessing perceptions of CR. RESULTS: Among 110 clinicians with complete paired responses, fewer self-reported \"always\" or \"often\" referring patients after type 2 MI vs type 1 MI (30.0% vs 80.0%; paired difference: -50.0 percentage points; 95% CI: -59.4 to -40.2; P < 0.001), and fewer perceived CR as beneficial (69.1% vs 98.2%; paired difference: -29.1 percentage points; 95% CI: -38.2 to -21.4; P < 0.001). Most clinicians perceived CR as safe although slightly fewer rated it as safe after type 2 MI (92.7% vs 99.1%; paired difference: -6.4 percentage points; 95% CI: -12.6 to -2.8; P = 0.02). Among patients with type 2 MI, 90% perceived CR as beneficial, 80% believed CR would improve safety returning to activity, and 82% would likely attend if referred. CONCLUSIONS: Clinicians self-reported lower CR referral frequency after type 2 MI than after type 1 MI, with lower perceived benefit and barriers related to CR eligibility and referral process familiarity. Most patients with type 2 MI perceive CR as beneficial and report hypothetical willingness to participate if referred.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103230"
+ }
+]

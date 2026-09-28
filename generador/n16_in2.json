@@ -1,0 +1,306 @@
+[
+ {
+  "idx": 2,
+  "journal": "Heart",
+  "title": "Prospective evaluation of a self-report-guided strategy for targeted coronary artery calcium imaging.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Coronary artery calcium (CAC) imaging directly assesses subclinical calcified coronary atherosclerosis but population-wide imaging is not recommended. Simple prescreening may help identify individuals most likely to benefit from CAC imaging. We previously developed a self-report-based model to estimate the probability of CAC ≥100. This study prospectively evaluated a strategy based on this model to select individuals for CAC imaging. We assessed agreement between model-predicted probability and observed prevalence of CAC ≥100 among participants undergoing CT imaging and examined patterns of preventive lipid-lowering therapy. METHODS: The PRedict and Identify cOronary atherosclerosis-Now (PRIO-Now) study applied a prospective, two-step, population-based screening approach. Individuals aged 59-60 years were invited to complete a self-report questionnaire. Eligible respondents without previous ischaemic heart disease whose model-predicted probability of CAC ≥100 exceeded the predefined threshold were invited to clinical assessment and non-contrast coronary CT imaging. The primary analysis assessed agreement between model-predicted probabilities and the observed prevalence of CAC ≥100 among CT completers. RESULTS: Of 8000 invited individuals, 2588 (32%) completed the questionnaire. Of 2375 eligible respondents, 814 were classified as high risk and 563 underwent CT imaging. Among CT completers, the mean predicted probability of CAC ≥100 was 28.3% (95% CI 27.2 to 29.3), compared with an observed prevalence of 28.4% (95% CI 24.8 to 32.4), corresponding to an expected/observed ratio of 0.99 and a Brier score of 0.19. Among participants with CAC ≥100, 64% were not receiving lipid-lowering therapy and 11% had low-density lipoprotein cholesterol ≤1.8 mmol/L. CONCLUSIONS: A self-report-guided strategy enabled targeted CAC imaging in a model-selected cohort. Among participants completing CT imaging, the observed prevalence of CAC ≥100 was comparable with the mean model-predicted probability. These findings suggest that self-report data may support preselection for CAC imaging and help identify opportunities for preventive treatment among individuals with elevated CAC.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1136/heartjnl-2026-328767"
+ },
+ {
+  "idx": 7,
+  "journal": "Circ Heart Fail",
+  "title": "Clonal Hematopoiesis of Indeterminate Potential Proteomic Risk Score for Predicting Clinical Outcome in Patients With Heart Failure With Preserved Ejection Fraction.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Clonal hematopoiesis of indeterminate potential (CHIP) is common in heart failure with preserved ejection fraction (HFpEF). However, the proteomic signatures linked to CHIP driver mutations and their prognostic implications in HFpEF remain poorly defined. We aimed to identify plasma protein signatures associated with CHIP driver mutations and to develop and externally validate a CHIP-proteomic risk score (CHIP-ProtRS) for predicting clinical outcomes in HFpEF. METHODS: The derivation cohort consisted of 118 TOPCAT (Treatment of Preserved Cardiac Function Heart Failure With an Aldosterone Antagonist) participants with available CHIP sequencing and proteomic profiling using the SomaScan platform. Associations between CHIP mutations and circulating proteins were assessed using gene-specific linear regression adjusted for age, with correction for multiple comparisons. Significant proteins were used to derive gene-specific proteomic classifiers using nested cross-validated least absolute shrinkage and selection operator logistic regression. A composite CHIP-ProtRS was generated using least absolute shrinkage and selection operator Cox regression and validated in a composite of 3 independent HFpEF cohorts (n=654). The primary end point was a composite of death and HF hospitalization. RESULTS: In TOPCAT, 30.5% of tested participants carried ≥1 CHIP mutation. Significant protein associations were identified for TET2 (7 proteins), DNMT3A (10), and PPM1D (5), all of which were enriched in immune and inflammatory pathways. Gene-specific least absolute shrinkage and selection operator models showed good discrimination for CHIP mutation (area under the curves, 0.752-0.898). The primary end point occurred in 28.0% of the derivation cohort and 34.7% of the validation cohorts. In the Cox-least absolute shrinkage and selection operator combination, only the TET2-derived proteomic signature retained a nonzero coefficient in the CHIP-ProtRS. The CHIP-ProtRS was independently associated with the primary end point after adjustment for age, sex, Meta-Analysis Global Group in Chronic Heart Failure score, NT-proBNP (N-terminal pro-B-type natriuretic peptide), and atrial fibrillation in the derivation (adjusted hazard ratio, 1.42 [95% CI, 1.01-2.00]) and validation cohorts (adjusted hazard ratio, 1.16 [95% CI, 1.01-1.32]). CONCLUSIONS: CHIP is associated with alterations in plasma concentrations of immune/inflammatory proteins. A CHIP-ProtRS is independently associated with adverse outcomes in HFpEF, supporting its potential role as a biomarker of risk and underlying pathobiology.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCHEARTFAILURE.126.014345"
+ },
+ {
+  "idx": 12,
+  "journal": "J Am Heart Assoc",
+  "title": "Health Disparities, Inequalities and Inequities in Stroke Care: A Global Critical Integrative Review (1991-2024).",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Growing evidence demonstrates the impact of health disparities on stroke care and outcomes. Although reviews have examined disparities related to sex and gender, race and ethnicity, socioeconomic status and rural-urban residence, most have not accounted for the influence of multiple intersecting social identities or positions. This critical integrative review used a modified integrative review methodology with an intersectionality approach. We reported bibliographic trends and generated Upset Plots to analyze intersections among categories of social identity/position. Analysis was iterative to identify patterns and relationships between and within categories. We included 471 records and 392 conference proceedings published over 34 years (1991-2024). Most studies (60.1%) were from the United States and included only individuals with ischemic stroke (48.8%). A total of 59.9% reported on race and/or ethnicity disparities, followed by 43.7% on sex and (cis)gender. Studies focused on geography, migrants, transients and refugees, individuals experiencing homelessness, sexual and gender minorities, and individuals with substance use disorder were lacking. The largest set of studies reporting on at least 2 categories was the combination of race and/or ethnicity, sex and cis(gender) and age. Only 68 (14.9%) quantitative studies conducted intersectional analyses, with the largest intersection being race and/or ethnicity with sex and (cis)gender. Studies often used a unidimensional approach to social identities or positions and focused on identifying and quantifying disparities, with minimal consideration of their intersecting nature and explanatory drivers. Studies on how disparities are experienced by individuals living with stroke were rare. To advance health equity in stroke care and research, studies using an intersectionality framework are needed.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049298"
+ },
+ {
+  "idx": 17,
+  "journal": "BMJ",
+  "title": "Contemporary menopausal hormone therapy and thrombotic disease: nationwide nested case-control study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "OBJECTIVES: To investigate associations between current use of menopausal hormone therapy and development of venous thromboembolism, ischaemic stroke, and myocardial infarction. DESIGN: Nationwide nested case-control study. SETTING: National Danish health registries. PARTICIPANTS: 9807 women with venous thromboembolism, 18 460 women with ischaemic stroke, and 11 974 women with myocardial infarction were identified in a cohort of women of 50-69 years living in Denmark between 2003 and 2021 without a medical history of venous thrombosis, arterial thrombosis, cancer, liver disease, thrombophilia, oophorectomy, infertility treatment, endometriosis, or polyendocrine metabolic ovarian syndrome (PMOS, previously known as polycystic ovary syndrome). Cases were matched by birth year to a total of 49 035, 92 300, and 59 870 women without thrombotic disease, respectively. MAIN OUTCOME MEASURES: Receiving a first time diagnosis of venous thromboembolism, ischaemic stroke, or myocardial infarction. RESULTS: Among women who had not used menopausal hormone therapy, incidence rates of venous thromboembolism, ischaemic stroke, and myocardial infarction per 10 000 person years were 15.8, 20.3, and 13.0, respectively. Compared with no current use, current use of oral oestrogen therapy (alone or combined with progestin) was associated with increased rates of venous thromboembolism (hazard ratio 1.6, 95% CI 1.5 to 1.8), ischaemic stroke (1.3, 1.2 to 1.4), and myocardial infarction (1.2, 1.1 to 1.3). The absolute risk increase per year was 0.09% (95% confidence interval (CI) 0.08 to 0.13%) for venous thromboembolism, 0.06% (0.04 to 0.08%) for ischaemic stroke, and 0.03% (0.01 to 0.04%) for myocardial infarction, corresponding to numbers needed to harm for one year of use of 1055 (95% CI 791 to 1266), 1642 (1232 to 2463), and 3846 (2564 to 7692), respectively.Use of oral forms of oestradiol was consistently associated with increased venous thromboembolic risk compared with no current use. Oral oestradiol doses >1 mg/day used for more than one year was associated with increased risks of ischaemic stroke and myocardial infarction, with risks increasing with treatment duration (stroke hazard ratio 1.8, 95% CI 1.4 to 2.2 and myocardial infarction hazard ratio 1.8, 1.4 to 2.4 for >5 years of use compared with no current use).Transdermal therapy was not associated with increased thrombotic rates compared with no current use, with the exception of increased risk of myocardial infarction with transdermal combined cyclic therapy (hazard ratio 2.1, 95% CI 1.1 to 4.1). CONCLUSIONS: Compared with no current use of any hormone therapy, oral menopausal hormone therapy was associated with increased venous thromboembolic risk regardless of dosage and treatment duration, while prolonged use of high dose oral oestradiol (>1 mg/day) showed elevated risks of ischaemic stroke and myocardial infarction. No increased thrombotic risks were observed with transdermal therapy.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1136/bmj-2026-100688"
+ },
+ {
+  "idx": 22,
+  "journal": "Heart Rhythm",
+  "title": "Clinical Implications of Adjunctive Posterior Wall Isolation According to Ablation Modality: A Subanalysis of the CORNERSTONE AF Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Left atrial posterior wall isolation (LAPWI) is a common adjunctive ablation strategy for persistent or longstanding persistent atrial fibrillation. OBJECTIVE: To investigate the impact of adjunctive LAPWI according to pulmonary vein isolation (PVI) ablation modality. METHODS: This CORNERSTONE-AF randomized trial subanalysis compared 18-month outcomes between PVI alone (n=259) and PVI+LAPWI (n=254). The primary endpoint was freedom from atrial arrhythmia. Secondary endpoints included freedom from repeat ablation. Randomization was stratified by PVI ablation modality. RESULTS: PVI was performed using radiofrequency and cryoballoon ablation in 384 and 129 patients, respectively. In the LAPWI group, the LAPWI area was significantly larger in the cryoballoon than in the radiofrequency subgroup. Additional LAPWI significantly prolonged procedure time without increasing fluoroscopy time in both subgroups. In the cryoballoon subgroup, 18-month freedom from atrial arrhythmia was numerically higher with LAPWI than with PVI alone (82.0% vs. 69.1%, P=0.163), whereas no difference was observed in the radiofrequency subgroup (80.5% vs. 79.4%, P=0.309). There was no treatment-by-modality interaction (P for interaction=0.64). Freedom from repeat ablation was higher with LAPWI in the cryoballoon subgroup (96.5% vs. 82.0%, P=0.029), but not in the radiofrequency subgroup (90.1% vs. 88.5%, P=0.210), without a significant treatment-by-modality interaction (P for interaction=0.17). Overall complication rates were similar between groups; symptomatic gastroparesis occurred in three patients in the radiofrequency LAPWI subgroup. CONCLUSIONS: Adjunctive LAPWI did not significantly improve freedom from atrial arrhythmia with either ablation modality, with no significant treatment-by-modality interaction. The potentially favorable findings with LAPWI after cryoballoon PVI should be considered exploratory and hypothesis-generating.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.09.031"
+ },
+ {
+  "idx": 27,
+  "journal": "J Am Heart Assoc",
+  "title": "Ovariectomy and Chemical Ovarian Failure Exacerbate Atherosclerosis Without Impairing Recovery From Hindlimb Ischemia.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Peripheral artery disease is a major manifestation of atherosclerotic cardiovascular disease (ASCVD) that affects both men and women. In women, menopause increases the ASCVD risk. However, preclinical ASCVD research has historically been conducted predominantly in men, with relatively few studies focused on women and even fewer incorporating menopause models that more closely reflect human ASCVD pathobiology. Herein, we tested whether the chemical 4-vinylcyclohexene diepoxide (4-VCD)-induced ovarian failure or ovariectomy would drive atherosclerotic development and worsen ischemic limb pathophysiology. METHODS: Female C57BL/6J mice were injected with adeno-associated virus-mediated encoding a gain-of-function mutant PCSK9 (proprotein convertase subtilisin/kexin type 9) and fed an atherogenic diet for 23 weeks. Based on the baseline body weight, mice were randomly assigned to normally cycling controls, 4-VCD, or ovariectomy groups. Three weeks after the conformation of ovarian failure (4-VCD) or surgical ovarian removal (ovariectomy), hindlimb ischemia was induced via femoral artery ligation, and limb perfusion recovery and limb muscle performance were assessed. RESULTS: Both 4-VCD treatment and ovariectomy reduced uterus mass, without affecting body weight or composition, or circulating cholesterol levels compared with control mice. Despite the similar metabolic and cholesterol profiles, atherosclerotic lesion areas were 1.5 to 1.7-fold greater in 4-VCD and ovariectomy mice than control mice. Perfusion recovery following hindlimb ischemia and plantar flexor muscle function in the ischemic limb were similar across groups, though muscle oxygenation was reduced in 4-VCD and ovariectomy groups. CONCLUSIONS: Ovarian failure and removal exacerbated atherosclerotic development but had minimal impacts on perfusion recovery and limb function following hindlimb ischemia. These findings confirm the inclusion of menopausal models, whether through ovarian failure or ovariectomy, should be carefully considered to improve translatability of preclinical ASCVD studies, especially for women's health.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.053158"
+ },
+ {
+  "idx": 32,
+  "journal": "Circ Cardiovasc Interv",
+  "title": "Hemodynamic Flow Signatures: A Novel Paradigm for the Evaluation of Transcatheter Aortic Valve Performance.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "A new paradigm for understanding transcatheter aortic valve (TAV) success is emerging, which hinges on whether a device reinstates physiological aortic flow. Limitations of echocardiography prevent complex flow assessment. Meanwhile, 4-dimensional flow cardiac magnetic resonance offers superior quantification of time-resolved 3-dimensional flow dynamics, permitting assessment of systolic flow displacement (reflecting eccentricity), systolic flow reversal ratio (reflecting conduit inefficiency), wall shear stress, and energetic efficiency. Abnormal aortic flow can persist after TAV replacement, despite reduction in transvalvular gradient. Persistent nonphysiological flow is thought to increase energy losses, reduce left ventricular ejection efficiency, and impair optimal afterload reduction, which theoretically may limit left ventricular reverse remodeling. Restoration of near-normal flow is a plausible therapeutic target for evaluating TAV performance. However, whether physiological flow restoration post-TAV replacement may enhance left ventricular mass reduction, increase TAV durability, and improve patient-relevant outcomes is unknown, and further research is crucial. Future clinical translation of cardiac magnetic resonance flow metrics also depends on automated extraction of systolic flow displacement and systolic flow reversal ratio, and postprocessing standardization. This review provides a perspective on 4-dimensional flow cardiac magnetic resonance for evaluating aortic flow post-TAV replacement, which may have the potential to refine TAV platform selection, inform next-generation device design, and hypothetically predict left ventricular recovery.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCINTERVENTIONS.126.017313"
+ },
+ {
+  "idx": 37,
+  "journal": "JACC Adv",
+  "title": "Using CK-MB and hs-cTnT to Predict 30-Day Mortality After CABG: A Combined Biomarker Risk-Stratification Approach.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Accurate diagnosis of perioperative myocardial infarction after coronary artery bypass grafting remains challenging due to uncertainty over postoperative cardiac biomarker interpretation. OBJECTIVES: The authors aimed to evaluate the prognostic value and performance of postoperative creatine kinase-myocardial band (CK-MB) and high-sensitivity cardiac troponin T (hs-cTnT) and explore a combined approach to identify patients at risk of early death. METHODS: This multicenter cohort study involved 9,856 patients undergoing isolated coronary artery bypass grafting at hospitals in Innsbruck, Freiburg, Gothenburg, and Reykjavik. A combined biomarker matrix was created to assess synergistic effects. Associations of biomarkers with 30-day all-cause mortality were evaluated using multivariable Cox regression (adjusted HR) and area under the receiver-operating curve (AUC) analysis. RESULTS: Thirty-day all-cause mortality was 2.0%. Median peak values within 72 hours postsurgery were 2.24 (Q1-Q3: 1.66-3.36) × upper reference limit for CK-MB and 52.06 (Q1-Q3: 29.79-90.00) × upper reference limit for hs-cTnT. Both postoperative CK-MB (adjusted HR: 1.95; 95% CI: 1.79-2.12; P < 0.001) and hs-cTnT (adjusted HR: 1.71; 95% CI: 1.61-1.82; P < 0.001) were associated with higher mortality risk per doubling in concentration independent of EuroSCORE II. Predictive accuracy of CK-MB and hs-cTnT was similar (AUC: 0.787 vs 0.784; P = 0.99), yet stratification using Youden-derived thresholds identified distinct patient subgroups with limited overlap. In a combined analysis, mortality risk was increased only when CK-MB was in the top tertile and hs-cTnT in the mid (adjusted HR: 4.34; 95% CI: 1.78-10.62; P < 0.001) or top tertile (adjusted HR: 14.78; 95% CI: 6.85-31.88; P < 0.001). CONCLUSIONS: The combined use of CK-MB and hs-cTnT enables a simple and robust risk-stratification strategy for early postoperative mortality, with direct implications for clinical surveillance and future cardiac surgery trials.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103284"
+ },
+ {
+  "idx": 42,
+  "journal": "JACC Cardiovasc Imaging",
+  "title": "Native T1 for Diagnosis and Risk Prediction in Amyloid Transthyretin Cardiomyopathy: An Observational Study on 1,675 Subjects.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Native T1 mapping is a contrast-free cardiac magnetic resonance (CMR) marker of myocardial amyloid infiltration, but center-specific diagnostic cutoffs and prognostic strata remain incompletely defined across transthyretin amyloidosis (ATTR). OBJECTIVES: This study aims to define native T1 thresholds and risk strata across the ATTR spectrum and compare its diagnostic and prognostic performance with extracellular volume (ECV). METHODS: In a cohort at a national referral amyloidosis center (2011-2025), 1,675 individuals undergoing CMR for suspected or confirmed ATTR were classified as asymptomatic TTR-variant carriers (n = 125), extracardiac ATTR (n = 44), early ATTR-CM (n = 73), or overt ATTR-CM (n = 1,433). Diagnostic targets were: 1) any cardiac involvement (early/overt ATTR-CM); and 2) overt vs early ATTR-CM. All-cause mortality from national records was analyzed with Cox models; native T1 strata were calibrated to predefined ECV strata using 3-year mortality. RESULTS: Native T1 rose stepwise across disease categories and correlated with ECV (r = 0.62), with weaker coupling in advanced disease. Over a median 3.3 years, 822 of 1,675 (49%) participants died. Native T1 ≤1,050 ms (z-score +1.14) identified a low likelihood of cardiac involvement with 93% sensitivity and 84% specificity, whereas native T1 ≥1,100 ms (z-score +2.40) identified overt ATTR-CM with 75% sensitivity and 88% specificity. Calibration against ECV strata yielded native T1 risk categories that reproduced a stepwise 3-year mortality gradient, with a stronger gradient at low to intermediate T1 and relative plateauing at higher T1; adding native T1 strata improved prognostic information beyond clinical variables. CONCLUSIONS: Native T1 can provide pragmatic diagnostic supportive thresholds, whereas ECV-calibrated native T1 strata reproduced a graded 3-year mortality risk. Native T1 offers a practical contrast-free approach to support diagnosis and risk stratification, although ECV remains the preferred quantitative marker when contrast CMR is available. Thresholds and z-score based approaches still require local recalibration and external validation before adoption at other centers.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcmg.2026.07.026"
+ },
+ {
+  "idx": 47,
+  "journal": "Circ Cardiovasc Interv",
+  "title": "Paclitaxel-Coated Devices in Patients With Chronic Limb-Threatening Ischemia and Tissue Loss Undergoing Infrainguinal Endovascular Revascularization: Insights From the SWEDEPAD-1 Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Patients with chronic limb-threatening ischemia and tissue loss (Rutherford 5-6) are at high risk of major amputation. Drug-coated technologies are effective in coronary interventions, but their impact on limb outcomes in advanced ischemia remains uncertain. We evaluated whether drug-coated devices improve limb salvage in this high-risk population. METHODS: This post hoc subgroup analysis used data from SWEDEPAD-1 (Swedish Drug-Elution Trial in Peripheral Arterial Disease), a multicenter registry-based randomized controlled trial of endovascular treatment for infrainguinal arterial disease. Adults with chronic limb-threatening ischemia were randomized 1:1 to treatment with paclitaxel-coated or uncoated endovascular devices. Only patients with tissue loss (Rutherford 5 or 6) were included. The primary end point was time to ipsilateral major amputation. Secondary end points were target vessel reintervention and a composite of major amputation or target vessel reintervention. Outcomes were assessed at 3 months, 1 year, and 5 years using intention-to-treat analyses and adjusted Cox proportional hazards models. RESULTS: Among 1761 patients (median age, 77 years; 60.1% male; 58.4% diabetes), ipsilateral major amputation within 3 months was more frequent in the paclitaxel-coated group than in the uncoated group (10.4% versus 7.5%; adjusted hazard ratio, 1.43 [95% CI, 1.04-1.96]). Amputation rates were similar at 1 year (16.3% versus 14.6%) and remained comparable through 5 years. Target vessel reintervention at 1 year was lower with paclitaxel-coated devices (13.6% versus 18.0%; adjusted hazard ratio, 0.77 [95% CI, 0.61-0.97]), but this difference was attenuated when early limb loss was included in a composite end point. No significant between-group differences were observed at 5 years. CONCLUSIONS: In patients with chronic limb-threatening ischemia and tissue loss, paclitaxel-coated devices did not improve limb salvage and were associated with a higher early risk of major amputation. Although target vessel reintervention was reduced at 1 year, this apparent benefit was not maintained when accounting for the competing risk of limb loss in a composite end point. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT02051088.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCINTERVENTIONS.126.016977"
+ },
+ {
+  "idx": 52,
+  "journal": "JACC Adv",
+  "title": "Predictors of Bleeding After Percutaneous Left Ventricular Assist Device Support: Findings From the J-PVAD Registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Bleeding is a clinically important complication during percutaneous left ventricular assist devices (pLVAD) support, yet its determinants remain unclear. OBJECTIVES: The objective of the study was to identify predictors of bleeding after pLVAD implantation using a nationwide Japanese registry, J-PVAD (Japanese registry for Percutaneous Ventricular Assist Device). METHODS: A total of 5,608 patients with complete follow-up were analyzed and stratified into acute coronary syndrome (ACS) and non-ACS strata. The primary outcome measure was any bleeding within 30 days. Multivariable Cox proportional hazards model were used to identify predictors within each stratum, with competing-risk analyses using Fine-Gray models performed for sensitivity. Machine learning (ML) with Shapley Additive exPlanations analysis was conducted as a complementary approach. RESULTS: The cohort included 2,667 ACS and 2,941 non-ACS patients. The 30-day incidence of bleeding was similar between the ACS and Non-ACS strata (25.7% vs 26.2%; P = 0.951), with most events occurring within several days after implantation. Additional mechanical circulatory support (MCS) was the strongest factor associated with bleeding in both strata (ACS: adjusted HR: 1.60; non-ACS: adjusted HR 1.75; both P < 0.001). Competing-risk analyses accounting for early mortality yielded consistent results (ACS: subdistribution HR: 1.52; non-ACS: subdistribution HR: 1.74). ML analyses consistently identified additional MCS use as the dominant contributor to bleeding. Shapley Additive exPlanations-based clustering suggested 2 high-risk phenotypes characterized by procedural complexity including additional MCS use and inflammatory-hemodynamic instability. CONCLUSIONS: Bleeding after pLVAD support is common and occurs early, with comparable incidence across ACS and non-ACS strata. Additional MCS use is the dominant determinant of bleeding risk. ML-based phenotyping provides complementary insights into heterogeneous bleeding mechanisms.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103131"
+ },
+ {
+  "idx": 57,
+  "journal": "J Am Heart Assoc",
+  "title": "CRCS-K Imaging Repository: Architecture, Data Characteristics, and a Proof-of-Concept Analysis of Pretreatment Imaging Workflow.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Stroke registries have advanced cerebrovascular research but usually reduce neuroimaging to categorical variables, losing multidimensional information. We describe the CRCS-K (Clinical Research Collaboration for Stroke in Korea) Imaging Repository, a multicenter platform integrating stroke imaging, artificial intelligence-based quantification, and clinical and outcome data through a dedicated research platform, Artificial Intelligence Powered Stroke Clinical-Image Archive Network (AISCAN). METHODS: Building upon the nationwide CRCS-K registry, the Imaging Repository collected all computed tomography, magnetic resonance, and angiographic studies obtained during index hospitalization from consecutive patients with acute ischemic stroke at 18 stroke centers. Images underwent centralized deidentification, quality verification, sequence classification, and artificial intelligence-based quantification. As a proof-of-concept application, we examined associations of pretreatment imaging modality with treatment workflow and functional outcomes after intravenous thrombolysis or endovascular treatment. RESULTS: From June 2022 through May 2025, 225 159 imaging sequences were collected from 20 792 patients. AI modules generated standardized numeric features including ischemic lesion volumes, perfusion parameters, white matter hyperintensity burden, and cerebral microbleed counts. Magnetic resonance-first workflows varied substantially across centers, from 1.0% to 56.7%. Greater pretreatment imaging sequence burden was associated with longer door-to-treatment times after intravenous thrombolysis and endovascular treatment. In overlap-weighted analyses, magnetic resonance-based versus computed tomography-based imaging was associated with directionally lower, but not statistically significant, odds of a favorable 3-month outcome after intravenous thrombolysis (odds ratio [OR], 0.90 [95% CI, 0.70-1.18]) and endovascular treatment (OR, 0.89 [95% CI, 0.65-1.21]). CONCLUSIONS: Prospective, sequence-level retention of all stroke neuroimaging is feasible at network scale and can be integrated with artificial intelligence-derived features and clinical outcomes. This resource enables real-world investigation of imaging workflows and outcomes.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050940"
+ },
+ {
+  "idx": 62,
+  "journal": "Europace",
+  "title": "Progressive Conduction System Disease Preceding Hypertrophy in IVS4 + 919G > A Fabry Variant: a Population-based Electrocardiographic Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The IVS4 + 919G > A variant is the most prevalent late-onset Fabry variant in East Asian populations, but its electrophysiological trajectory remains incompletely defined. METHODS: From a regional genetic screening program, 905 IVS4 + 919G > A carriers were identified among 457,581 patients and matched 1:2 to controls by age and sex. Electrocardiographic (ECG) parameters were compared across decades, and echocardiography correlated structural changes with ECG findings. RESULTS: The cumulative prevalence of IVS4 + 919G > A was 0.198%. Age-specific prevalence in females was ∼2.5-fold higher than in males (0.11-0.15%), without significant change throughout different age categories. Female carriers demonstrated the catch-up phenomenon after the age of 60. Males exhibited a 9-fold risk of right bundle branch block (RBBB) and pacemaker implantation (PPM) compared with male controls (RBBB, HR 9.286, 95% CI 5.16-16.70, P < 0.001; PPM, HR 9.197, 95% CI 2.88-29.31, P < 0.001), and this precedes the onset of echocardiographic left ventricular hypertrophy. Risk of stroke and atrial fibrillation (HR 1.435, 95% CI 0.69-2.96, P = 0.289) was similar between male carriers and controls. PR interval was not shortening and prolongs instead. Combining left ventricular hypertrophy with conduction abnormalities, ECG detection achieved 88% sensitivity, exceeding echocardiographic criteria alone (51.5%). CONCLUSIONS: IVS4 + 919G > A variant is characterized by a progressive electrical phenotype dominated by conduction system disease preceding hypertrophy without excess major arrhythmic events. Electrocardiographic surveillance and phenotype-based risk stratification may be more informative than structural assessment alone for identifying individuals at risk of device therapy.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag258"
+ },
+ {
+  "idx": 67,
+  "journal": "Circ Res",
+  "title": "Reducing Nuclear Rupture Rescues Gene Expression and Survival in LMNA-DCM.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Mutations in the LMNA gene, which encodes the nuclear envelope proteins lamins A and C, account for 6% to 8% of all cases of congenital dilated cardiomyopathy. LMNA-related dilated cardiomyopathy is among the most severe forms of dilated cardiomyopathy, with limited treatment options due to an incomplete understanding of its molecular mechanisms. METHODS: We generated an inducible, cardiomyocyte-specific Lmna deletion mouse model (cKO) and conducted comprehensive bulk, single-nucleus, and spatial transcriptomic analyses on left ventricular free wall tissue from cKO and controls lacking the floxed Lmna alleles mice across disease progression. Concurrent cardiomyocyte-specific expression of a dominant-negative KASH domain protein (DN KASH) that disrupts the linker of nucleoskeleton and cytoskeleton complex was used to determine the role of mechanically induced nuclear envelope rupture in altered gene expression. RESULTS: We identified genes misregulated early in disease that were enriched for cytosolic pattern recognition receptor signaling and innate immunity. These transcriptional changes were primarily driven by a subset of disease-specific cardiomyocytes. Spatial and single-nucleus transcriptomics revealed aberrant interactions between these cardiomyocytes, fibroblasts, and immune cells, contributing to widespread transcriptional dysregulation in cKO hearts. Concurrent disruption of the linker of nucleoskeleton and cytoskeleton complex significantly reduced nuclear envelope rupture, normalized expression of over half the dysregulated genes, and dramatically improved cardiac function and survival in cKO mice. CONCLUSIONS: Our findings support a model in which nuclear envelope rupture in cKO cardiomyocytes triggers cytosolic DNA sensing pathways and maladaptive cell-cell communication with fibroblasts and immune cells, driving inflammation, fibrosis, and cardiac dysfunction. The work presented here points to novel strategies for treating LMNA-dilated cardiomyopathy.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCRESAHA.125.327744"
+ },
+ {
+  "idx": 72,
+  "journal": "JACC Adv",
+  "title": "Prognostic Impact of CCTA According to Standard Cardiovascular Modifiable Risk Factors.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The prognostic value of coronary computed tomographic angiography (CCTA) findings across standard modifiable risk factor (SMuRF) categories has not been explored. OBJECTIVES: We evaluated whether SMuRF burden modifies the prognostic value of the different coronary artery disease (CAD) categories on CCTA. METHODS: Patients without prior CAD who underwent clinically indicated CCTA were included. CCTA findings were categorized as absent CAD (0% stenosis), nonobstructive CAD (1% to 49%), or obstructive CAD (≥50%). SMuRF burden was defined by hypertension, dyslipidemia, diabetes, and smoking, and classified from 0 to 4. The primary endpoint was all-cause mortality or myocardial infarction (MI). RESULTS: Among 29,840 patients (mean age 64 ± 14 years, 53% men), 33% had absent CAD, 43% nonobstructive CAD, and 23% obstructive CAD. Over a median follow-up of 2 years, 2,030 patients (7%) experienced death or MI. Across all CAD categories, higher SMuRF burden was associated with higher cumulative incidence of death or MI rates and higher incidence rates (P < 0.001). Incidence rates per 1,000 person-years across SMuRF categories 0 to 4 increased from 10 to 74 in absent CAD, and 35 to 75 in obstructive CAD (P < 0.001). In adjusted models, each 1-SMuRF increase was associated with a higher risk across all CAD groups (HR: 1.41; 95% CI: 1.27-1.56 for absent CAD; HR: 1.26; 95% CI: 1.17-1.35 for nonobstructive CAD; HR: 1.29; 95% CI: 1.19-1.40 for obstructive CAD). Adding SMuRF burden to age, sex, body mass index, and CAD severity significantly improved prognostic discrimination (C-index 0.653-0.673; P < 0.001). CONCLUSIONS: Across CCTA-defined stenosis categories, SMuRF burden provides incremental prognostic information beyond anatomic disease severity, supporting its integration into CCTA-based risk stratification and personalized preventive management.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103239"
+ },
+ {
+  "idx": 77,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Alcohol use disorder and cardiovascular risk in type 2 diabetes: beyond alcohol consumption.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Alcohol use disorder (AUD) is a chronic neuropsychiatric condition associated with clustering cardiovascular risk factors, yet its independent contribution to incident cardiovascular disease in type 2 diabetes (T2D) remains incompletely defined. METHODS AND RESULTS: Using the Korean National Health Insurance Service database, we identified 364 950 adults with T2D (AUD, n = 4888 [1.34%]; non-AUD, n = 360 062 [98.66%]) who underwent national health screening in 2012. Incident major adverse cardiovascular events (MACE), defined as a composite of myocardial infarction, ischaemic stroke, and cardiovascular death, were ascertained over a median follow-up of 10.2 years. Associations were evaluated using multivariable Cox proportional hazards models. AUD was independently associated with a higher risk of incident MACE (hazard ratio [HR] 1.70; 95% confidence interval [CI], 1.59-1.82), with the strongest association for cardiovascular death (HR 2.37; 95% CI, 2.06-2.72 Among individuals without AUD, a J-shaped association between alcohol consumption and MACE was observed. In contrast, among those with AUD, cardiovascular risk remained elevated across all levels of alcohol intake (all P < 0.001), including among low-risk drinkers (HR 1.44; 95% CI, 1.30-1.61). The association was most pronounced in middle-aged adults (40-64 years; HR 1.89; 95% CI, 1.75-2.05). CONCLUSION: In adults with T2D, AUD was associated with increased risk of incident MACE, even after adjustment for self-reported alcohol consumption volume. These findings suggest that assessment of disordered drinking may complement volume-based alcohol evaluation in cardiovascular risk stratification, although prospective studies are needed to confirm its clinical utility.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag455"
+ },
+ {
+  "idx": 82,
+  "journal": "J Am Heart Assoc",
+  "title": "Translational Perspectives on Cardiac Diseases Disproportionately Affecting Women.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Significant knowledge gaps persist on cardiovascular conditions that predominantly, disproportionately, or only affect women. Historically overshadowed by the focus on obstructive coronary artery disease, conditions such as myocardial infarction with nonobstructive coronary arteries, spontaneous coronary artery dissection, and Takotsubo cardiomyopathy have only recently gained research attention, despite substantial prevalence and impact among women. Similarly, coronary microvascular dysfunction and vasospastic angina, long dismissed as symptoms of psychological origin, are now recognized as common and underdiagnosed mechanisms of chest pain. Disparities in research also extend to heart failure with preserved ejection fraction, disproportionately affecting more women, and with comparable impacts on prognosis and quality of life, yet poorly understood compared with heart failure with reduced ejection fraction. Moreover, female hypertension is underestimated, underdiagnosed, and understudied. Furthermore, pregnancy-related cardiovascular complications, including preeclampsia and peripartum cardiomyopathy underscore the urgent need for research into sex-specific mechanisms and targeted preventive and therapeutic strategies, particularly in resource-limited settings. This review consolidates knowledge on cardiovascular conditions with pronounced sex differences, focusing on translational discoveries that direct current strategies, but most of all, emphasizing the need for future research to bridge the gap between mechanistic insights and clinical application. By identifying knowledge gaps, this article provides a road map for advancing sex-specific understanding and care in cardiovascular disease, ensuring progress in diagnosis, treatment, and prevention. Bridging the sex gap in cardiac research and care requires a multidisciplinary, globally inclusive approach. By integrating knowledge of biological, clinical, and sociocultural perspectives, we can move toward equitable and effective cardiovascular health for all.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050650"
+ },
+ {
+  "idx": 87,
+  "journal": "Europace",
+  "title": "Safety and Efficacy of Left Atrial Ablation After Percutaneous Left Atrial Appendage Occlusion in High-Bleeding-Risk Patients with Atrial Fibrillation: A Multicenter Analysis from the PROCEED-AF Ablation Registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: Patients with left atrial appendage (LAAO) devices are increasingly referred for AF ablation, yet anticoagulation strategies remain uncertain. The goal of this study was to evaluate the safety and efficacy of catheter ablation for atrial fibrillation (AF) in patients with pre-existing LAAO devices and to describe patterns in anticoagulation management after ablation in this unique population. METHODS: We collected data from 14 centers worldwide on patients with prior LAAO devices undergoing AF ablation. Each site provided clinical characteristics, procedural details, and information on complications and arrhythmia outcomes. Data were aggregated and analyzed centrally to evaluate procedural safety, efficacy, and variability in management strategies. RESULTS: A total of 198 patients (age 70 years, 37% female, 42% paroxysmal AF) with prior LAAO were included. Ablation was performed a median of 271 days after LAAO. After ablation, 84% of patients were on oral anticoagulation (OAC), most commonly for 2-3 months. Bleeding complications on OAC occurred in 6.7% of patients at a median of 20 (13, 70) days after ablation. Stroke or TIA occurred in 5 patients (2.6% of cases) within the follow-up period with 2 occurrences (1% of cases) the day after ablation. There were 2 cases of new or worsened peri-device leak after ablation. CONCLUSION: In a large, international registry of patients undergoing catheter ablation for AF with pre-existing LAAO devices, ablation was feasible and device related complications were rare Despite higher bleeding risk in an LAAO population, 84% of patients with prior LAAO tolerated short term OAC post-ablation with bleeding events at expected rates for this population.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag277"
+ },
+ {
+  "idx": 92,
+  "journal": "J Am Heart Assoc",
+  "title": "Septal Nonischemic Late Gadolinium Enhancement After Myocardial Infarction Is Associated With Adverse Remodeling and Improves Risk Stratification for Heart Failure Outcomes.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The prevalence, anatomic distribution, enhancement patterns, and prognostic value of nonischemic late gadolinium enhancement (NI-LGE) in patients with prior myocardial infarction were not systematically investigated. METHODS: A total of 948 patients (mean±SD age, 56.2±10.9 years; 88.4% men) diagnosed with prior myocardial infarction by cardiac magnetic resonance imaging were analyzed, excluding those with coexisting nonischemic cardiomyopathies or myocarditis. NI-LGE was defined as midwall or subepicardial enhancement. Competing risk analysis was performed to mitigate the influence of competing events. RESULTS: Among these, NI-LGE was observed in 78 patients (8.2%), with septal involvement present in all cases. Lower left ventricular ejection fraction (odds ratio [OR]=0.97, P=0.01) and larger end-diastolic volume index (OR=1.01, P<0.001) were independently associated with NI-LGE. During a median follow-up of 69.6 months (interquartile range, 49.7-80.9 months), 99 (10.4%) and 63 (6.6%) experienced heart failure (HF)- and sudden cardiac death-related events, respectively. NI-LGE was associated with a markedly increased risk of HF-related events (subdistribution hazard ratio [sHR]=5.98, P<0.001) after adjusting for the confounders, but not sudden cardiac death (P=0.65). NI-LGE improved the model discrimination and fit performance (C-index: 0.84-0.87; likelihood ratio: 1168.0-1106.1, both P<0.001) for the HF-related events beyond left ventricular ejection fraction and late gadolinium enhancement extent. Moreover, NI-LGE involving both the septum and free wall conferred a higher risk of HF-related events than isolated septal involvement (sHR=2.42, P=0.02). CONCLUSIONS: NI-LGE occurs in 8.2% of patients with prior myocardial infarction, predominantly involving the interventricular septum. As a potential marker of adverse remodeling, NI-LGE might provide incremental prognostic value for HF-related outcomes beyond traditional markers.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049783"
+ },
+ {
+  "idx": 97,
+  "journal": "J Am Heart Assoc",
+  "title": "Scope of Practice Laws Affecting Team-Based Heart Disease Care in Rural America: Policy Challenges and Opportunities.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Heart disease is the leading cause of death in the United States with a disproportionate impact in rural America, and health worker shortages contribute to these disparities. Team-based heart disease care models can help mitigate health worker shortages, but lack of role clarity and restrictive scope of practice laws can be a barrier to their implementation. METHODS: To better understand the intersection of licensed scope of practice laws with rural heart disease care, we performed a legal epidemiology analysis to identify and describe licensed scope of practice laws for 9 health worker cadres in 13 state and federal jurisdictions for 8 heart disease services. RESULTS: We found substantial ambiguity, variation, and some important gaps, which may undermine the predictability of regulatory and reimbursement environments and hinder implementation of innovative team-based care models. CONCLUSIONS: Three policy opportunities to address the identified gaps include: (1) linking licensed scope of practice definitions to the scope of accredited training curricula, (2) shifting away from collaborative practice agreements to define licensed scope of practice, and (3) prohibiting insurance plans from conditioning reimbursement based solely on provider cadre.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049493"
+ },
+ {
+  "idx": 102,
+  "journal": "Circulation",
+  "title": "Acute Coronary Syndrome in Kawasaki Disease From Infancy to Adulthood.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Acute coronary syndrome (ACS) remains underrecognized in patients with Kawasaki disease (KD). The population at risk for KD-associated ACS is increasing, yet current ACS guidelines are largely derived from atherosclerotic disease and do not adequately address the distinctive mechanisms, anatomy, and thrombosis risk associated with KD. Because the pathophysiology and management of KD-associated ACS differ in fundamental ways from those of atherosclerotic coronary artery disease, its management requires a coordinated team response, with collaboration between pediatric and adult cardiologists. Recent advances in coronary imaging, interventional techniques, and antithrombotic therapies provide an opportunity to establish a more disease-specific approach. This review synthesizes current evidence on the epidemiology and pathophysiology of coronary artery aneurysms, interventional coronary imaging, acute management, revascularization strategies, antithrombotic therapy, and post-ACS surveillance in patients with KD to guide clinical decision-making and treatment for patients with KD presenting with ACS.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.080727"
+ },
+ {
+  "idx": 107,
+  "journal": "Heart Rhythm",
+  "title": "U-shaped Catheter Strategy for Percutaneous Endocardial Septal Radiofrequency Ablation in Hypertrophic Obstructive Cardiomyopathy: A Retrospective Comparative Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Percutaneous endomyocardial septal radiofrequency ablation (PESA) has emerged as a promising septal reduction therapy for patients with hypertrophic obstructive cardiomyopathy (HOCM). OBJECTIVE: To compare the efficacy and safety of a novel U-shaped catheter strategy with the conventional retrograde catheter approach during PESA in patients with HOCM. METHODS: This single-center retrospective study included 27 patients with HOCM undergoing PESA: 15 treated with the U-shaped catheter strategy (U group) and 12 matched controls treated with the conventional catheter strategy (C group). Procedures were guided by three-dimensional electroanatomical mapping and intracardiac echocardiography, with 12-month follow-up. RESULTS: Both groups demonstrated significant improvements in symptoms, NYHA functional class, and echocardiographic parameters at 12-month follow-up. Compared with the C group, the U group achieved a significantly higher catheter-tissue contact force (20.39 ± 3.50 g vs. 17.17 ± 2.13 g, p < 0.01) and a shorter total radiofrequency delivery time (1217.17 ± 612.38 s vs. 1537.94 ± 302.88 s, p = 0.01). The resting left ventricular outflow tract (LVOT) gradient at 12 months was significantly lower in the U group than in C group (32 [29-45] mmHg vs. 48.5 [43.34-58.75] mmHg, p = 0.03). No major complications occurred in either group. Transient atrioventricular (AV) block and left bundle branch block (LBBB) were observed but required no further intervention. CONCLUSIONS: The U-shaped catheter strategy for PESA was associated with improved procedural efficiency and greater reduction in LVOT obstruction compared with the conventional catheter approach, while maintaining a favorable safety profile.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.09.043"
+ },
+ {
+  "idx": 112,
+  "journal": "Circulation",
+  "title": "Asb2-KIF11 Axis Protects Against Heart Failure by Restoring Lysosomal Distribution and Mitochondrial Homeostasis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Heart failure remains a leading cause of mortality globally, driven by persistent mitochondrial dysfunction and maladaptive cardiac hypertrophy. Although impaired autophagic flux contributes to cardiac deterioration, the precise molecular mechanisms are still unclear. The ubiquitin-proteasome system serves as a critical regulator linking protein ubiquitination to autophagic flux and mitochondrial homeostasis. Asb2 (ankyrin repeat-containing protein with suppressor of cytokine signaling box 2), a muscle-specific E3 ubiquitin ligase essential for embryonic cardiogenesis, is uncharacterized in adult cardiac homeostasis and disease pathogenesis. METHODS: Male mice with inducible cardiomyocyte-specific Asb2 knockout were generated to investigate Asb2's role in cardiac remodeling. Adeno-associated virus 9-mediated cardiomyocyte-specific Asb2 overexpression and KIF11 (kinesin family member 11) downregulation were used in transverse aortic constriction-induced hypertrophy and aging models. RNA sequencing, metabolite profiling, and mass spectrometry were used to assess the molecular mechanism by which Asb2 regulates cardiac metabolism and hypertrophy. RESULTS: Asb2β expression was significantly reduced in multiple forms of human cardiomyopathy and in hypertrophic murine hearts. Inducible Asb2 deletion in adult male mice led to the spontaneous development of cardiac hypertrophy and heart failure, accompanied by progressive accumulation of dysfunctional mitochondria and metabolic dysregulation. Mechanistically, Asb2 deficiency impaired ubiquitin-mediated degradation of KIF11, causing aberrant peripheral lysosomal redistribution and disrupting autophagosome-lysosome fusion, which resulted in impaired late-stage autophagic flux and metabolic disturbances. Notably, therapeutic restoration of Asb2 expression via adeno-associated virus 9-mediated delivery attenuated pressure overload-induced and age-related cardiac hypertrophy and heart failure. Moreover, both genetic and pharmacological inhibition of KIF11 effectively restored autophagic flux and mitochondrial homeostasis, thereby reversing pathological cardiac remodeling in Asb2-deficient hearts and transverse aortic constriction-induced cardiac dysfunction. CONCLUSIONS: Asb2 is a novel regulator of mitochondrial quality control in cardiomyocytes via KIF11-mediated lysosomal redistribution. Targeting the Asb2-KIF11 axis may be a promising strategy for improving mitochondrial homeostasis and cardiomyocyte function in chronic heart failure.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.080625"
+ },
+ {
+  "idx": 117,
+  "journal": "Heart Rhythm",
+  "title": "Electrocardiogram Abnormalities and the Risk of Out-of-Hospital Cardiac Arrest: A Nationwide Cohort Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Electrocardiograms (ECGs) potentially represent strong risk predictors, but their role in risk stratification for out-of-hospital cardiac arrest (OHCA) is unclear. OBJECTIVE: This study aimed to assess 5-year OHCA risk for different ECG abnormalities. METHODS: Data on patients and their respective first-recorded ECG, from hospital or ambulance setting, were retrieved from Danish Nationwide Electrocardiogram Cohort and Danish Cardiac Arrest Registry. Patients were followed from ECG recording until OHCA, death from other causes, emigration, or end-of-study. Cox proportional hazards models were used to estimate rates of OHCA and death from other causes, adjusted for comorbidities and medication use, and then utilized to estimate 5-year OHCA risk. RESULTS: This study included 2,155,155 patients. Five-year OHCA risk for patients with normal ECGs was 0.50% [95% CI: 0.49-0.51%]. Following ECG abnormalities were associated with significantly higher 5-year OHCA risk: atrial fibrillation (0.61% [95% CI: 0.58-0.64%]), left bundle branch block (0.73% [95% CI: 0.68-0.78%]), intraventricular conduction delay (0.68 [95% CI: 0.63-0.73]), left posterior fascicular block (0.87% [95% CI: 0.67-1.06%]), Q-wave (0.59% [95% CI: 0.57-0.61%]), ST-depression (0.67% [95% CI: 0.64-0.71%], left ventricular hypertrophy (0.74% [95% CI: 0.71-0.77%]) and QTc prolongation (0.84% [95% CI: 0.81-0.86%]). Corresponding results were observed regarding relative risk. CONCLUSIONS: This nationwide study of over two million patients, spanning almost 20 years, showed that several ECG abnormalities were associated with increased 5-year risk of OHCA.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.09.037"
+ },
+ {
+  "idx": 122,
+  "journal": "Heart Rhythm",
+  "title": "Anatomical Approach from Aortic Sinus of Valsalva for Para-Hisian Premature Ventricular Contractions: Safety and Outcomes.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The optimal ablation strategy for para-Hisian premature ventricular contractions (PVCs) remains uncertain because of the risk of conduction system injury. OBJECTIVE: To evaluate the safety and outcomes of catheter ablation for para-Hisian PVCs, with particular focus on the efficacy and safety of an anatomical approach from the coronary cusps. METHODS: We retrospectively analyzed 114 patients undergoing para-Hisian PVC ablation. Acute success, long-term clinical success (≥80% PVC reduction), conduction system injury, and ablation sites were assessed. RESULTS: Acute procedural success was achieved in 89 patients (78%). However, long-term clinical success was achieved in only 52% of patients with acute success. Coronary cusp ablation was attempted in total of 35 patients (31%) and was performed significantly more frequently in clinical success cases than in clinical failures (38% vs. 7%, P=0.005). Among the 35 patients undergoing cusp ablation, PVCs were terminated in 49% (17/35), while transient suppression or morphological change of PVCs was observed in an additional 31% (11/35). Predictors of successful cusp ablation included earlier activation at the cusp and close anatomical proximity between the cusp and the earliest activation site in the His bundle region. Conduction system injury occurred in 31 patients overall, predominantly during His bundle region ablation, with only one event occurring during cusp ablation. CONCLUSION: Coronary cusp ablation incorporated into a stepwise, multi-site ablation strategy may be associated with better procedural outcomes for para-Hisian PVC ablation without compromising safety. Earlier activation and close anatomical proximity between the para-Hisian site and the cusp region predict successful ablation using this approach.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.09.034"
+ }
+]

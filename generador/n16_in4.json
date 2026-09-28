@@ -1,0 +1,292 @@
+[
+ {
+  "idx": 4,
+  "journal": "JACC Adv",
+  "title": "Temporal Trends in Transcatheter Tricuspid Valve Interventions After FDA Approval in the United States.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Transcatheter tricuspid valve interventions (TTVIs) have recently received commercial approval; however, contemporary adoption trends in early postapproval phase are not well described. OBJECTIVES: The objectives of the study were to characterize trends in utilization of transcatheter tricuspid edge-to-edge repair (T-TEER) and transcatheter tricuspid valve replacement (TTVR) and to describe baseline patient characteristics and in-hospital outcomes. METHODS: We performed a retrospective cohort study using the Vizient Clinical Data Base including patients who underwent T-TEER or TTVR between October 2024 and December 2025. Monthly procedural trends, baseline characteristics, and in-hospital outcomes were evaluated. RESULTS: The study included 2,143 T-TEER procedures performed at 180 implanting hospitals; median annualized hospital volume 6.4 (IQR: 2.4-13.6) and 1,301 TTVR procedures performed at 113 implanting hospitals; median annualized hospital volume 6.4 (IQR: 3.2-11.2). Overall monthly volumes increased for both T-TEER (128 in October 2024 to 156 in December 2025; P for trend = 0.004) and TTVR (60 in October 2024 to 111 in December 2025; P for trend <0.001). The proportion of TTVR among all TTVI increased over time (from 31.9% to 41.6%; P for trend = 0.006). Baseline patient comorbidities of patients undergoing TTVI were similar to pivotal trial populations. In-hospital mortality was 0.5% following T-TEER and 2.0% following TTVR. The incidence of major bleeding was 6.0% and 12.4% after T-TEER and TTVR, respectively. Among TTVR patients, 11.3% required new pacemaker implantation. CONCLUSIONS: There is increased adoption of both T-TEER and TTVR in early commercial experience with clinical characteristics of treated patients similar to those enrolled in pivotal trials. In-hospital outcomes were overall favorable supporting the generalizability of the pivotal trial findings to contemporary practice.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103266"
+ },
+ {
+  "idx": 9,
+  "journal": "Nat Cardiovasc Res",
+  "title": "Vascular aging as a driver of organ dysfunction and systemic aging.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Centuries ago, Thomas Sydenham famously wrote, \"A man is as old as his arteries\", highlighting the importance of the vasculature for health and healthy aging. Here, we review recent developments in vascular aging research, focusing on how microvascular aging drives tissue dysfunction and the emerging therapeutic opportunities for vascular rejuvenation. Although macrovascular aging has long been studied, microvascular aging remains an emerging frontier. Recent single-cell and multiomic technologies now allow unprecedented resolution of vessel wall cellular and molecular heterogeneity across organs throughout life. Beyond angiogenesis, hemodynamics, barrier function, coagulation and inflammation, the vessel wall is increasingly recognized as an instructive gatekeeper of organ function: endothelial and mural cells actively control surrounding parenchyma via angiocrine and pericrine signaling mechanisms, controlling organ function in health and disease. Integrating these technological and conceptual advances has reshaped our understanding of vascular aging, revealing organotypic vulnerabilities and intercellular mechanisms that drive systemic decline.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s44161-026-00883-7"
+ },
+ {
+  "idx": 14,
+  "journal": "J Am Heart Assoc",
+  "title": "Social Determinants of Guideline-Directed Oral Anticoagulation Prescription in Patients With Atrial Fibrillation Without Contraindications: Findings From the American Heart Association Get With the Guidelines-Atrial Fibrillation Registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Oral anticoagulant (OAC) prescriptions recommended by atrial fibrillation guidelines to prevent stroke may be influenced by social determinants of health (SDOH). We aimed to uncover patient and institutional SDOH associated with failure to prescribe guideline-directed OAC and to develop an SDOH-based scoring system to predict failure to prescribe OAC. METHODS: We analyzed the nationwide, 249-hospital American Heart Association GWTG-AFib (Get With The Guidelines-Atrial Fibrillation) registry. We included adult patients hospitalized for atrial fibrillation with class I indication for OAC and no contraindications. Using a logistic regression model, we identified patient and institutional SDOH of failure to prescribe OAC, adjusting for the other SDOH. Next, we developed a machine learning-based prediction model in a training data set and examined the relative contribution of each SDOH. We then compared the risk of failure to prescribe OAC in an independent test data set for validation. RESULTS: Among 68 628 eligible patients, 1345 (2.0%) patients did not receive guideline-directed OAC prescription. The guideline-directed OAC prescription was influenced by both institutional SDOH (eg, hospital region, hospital size, the absence of a cardiology team) and patient SDOH (eg, sex, insurance). The absence of a cardiology team was the most important predictor (adjusted odds ratio [OR], 3.72 [95% CI, 3.20-4.32]). Patients with the higher-than-Youden-index-cutoff prediction score had higher risk of failure to prescribe OAC than those with the lower-than-cutoff prediction score (OR, 3.11 [95% CI, 2.67-3.63]). CONCLUSIONS: We identified both institutional and patient SDOH of guideline-directed OAC prescription failure. We further developed and validated a SDOH-based scoring system to predict failure to prescribe OAC.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050448"
+ },
+ {
+  "idx": 19,
+  "journal": "Eur Heart J",
+  "title": "Intracranial haemorrhage following tenecteplase fibrinolysis for acute myocardial infarction.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: Intracranial haemorrhage (ICH) is a significant complication of fibrinolytic therapy for ST-elevation myocardial infarction (STEMI). The risk factors for ICH following tenecteplase (TNK) administration were evaluated, and a clinical risk prediction tool was developed. METHODS: A pooled individual patient data analysis from STEMI patients who received weight-adjusted TNK with a consistent blood pressure exclusion criterion of >180/110 mmHg in six randomized controlled trials (ASSENT-2, ASSENT-3, ASSENT-3 PLUS, ASSENT-4 PCI, STREAM, STREAM-2) was undertaken. Logistic regression was used to model risk factors, and a nomogram was developed for individual risk prediction. RESULTS: Among 15 954 patients, 169 developed ICH. Above a systolic blood pressure (SBP) threshold of 110 mmHg, each 1 mmHg increase conferred a 2% relative increase in ICH risk [adjusted odds ratio (aOR) 1.02, 95% confidence interval (CI) 1.01-1.03; P < .0001]; risk accelerated sharply beyond 160 mmHg. With increasing dose, the likelihood of ICH increased with age, rising from 1% per year (30 mg TNK) to nearly 7% per year with 50 mg. The multivariable model incorporating age, sex, SBP, body weight, and TNK dose with the age-dose interaction demonstrated good discrimination (C index 0.718; 95% CI 0.68-0.76). Female sex conferred a 49% increased ICH risk (aOR 1.49, 95% CI 1.06-2.11; P = .023), and each 5 kg decrease in body weight was associated with 16% increased odds of ICH (aOR 1.16, 95% CI 1.03-1.30; P = .014). CONCLUSIONS: Dose reduction of TNK in older patients and SBP optimization before fibrinolytic administration represent modifiable strategies to potentially reduce ICH.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurheartj/ehag754"
+ },
+ {
+  "idx": 24,
+  "journal": "JACC Adv",
+  "title": "Mitral Regurgitation after TAVR: Sex Differences and Low-Flow Low-Gradient Aortic Stenosis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Moderate or severe mitral regurgitation (MR) is common in patients with severe aortic stenosis (AS) treated with transcatheter aortic valve replacement (TAVR). OBJECTIVES: The objectives of the study was to help define the prevalence and prognosis of persistent MR post-TAVR, particularly in women and in low-flow low-gradient (LFLG) AS. METHODS: In this single-center, observational study, 344 consecutive TAVR patients with severe AS and moderate or greater MR pre-TAVR were identified. Patients were stratified by AS subtype (classic vs LFLG). Factors associated with MR improvement to mild or less were evaluated using multivariable logistic regression. Survival was analyzed with Cox proportional hazards models adjusted for clinical and echocardiographic covariates. RESULTS: The mean age was 81.9 years, 48.5% were females, and 45.1% had LFLG AS. MR improved by ≥1 grade in 62.8% and to mild or less in 52.9% of patients, with similar rates in classic vs LFLG AS. On multivariable analysis, severe (vs moderate) baseline MR, hypertension, and female sex were independently associated with lower odds of MR improvement to mild or less. In LFLG AS, female sex and severe MR remained significant predictors of persistent MR, whereas a higher pre-TAVR aortic valve mean gradient was associated with improved MR. Residual severe MR was associated with increased mortality, driven by those with LFLG AS. CONCLUSIONS: More than half of TAVR patients with moderate or severe MR experience MR improvement post-TAVR. Women and those with severe MR are less likely to have a significant improvement in MR. Patients with LFLG AS and persistent moderate or severe MR have worse survival post-TAVR.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103140"
+ },
+ {
+  "idx": 29,
+  "journal": "Circ Cardiovasc Interv",
+  "title": "Contrasting Prognostic Value of Discordance Between Resting Distal-to-Aortic Coronary Pressure Ratio and Fractional Flow Reserve in Coronary Artery Disease.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Discordance between nonhyperemic pressure ratios and fractional flow reserve (FFR), observed in up to 20% of cases, complicates clinical decision-making for coronary revascularization and warrants further investigation of its clinical implications. This study aimed to evaluate the outcomes of medically managed discordant lesions between FFR and the resting whole-cycle distal-to-aortic coronary pressure ratio (Pd/Pa). METHODS: From the prospective IRIS-FFR registry (Interventional Cardiology Research In-Cooperation Society Fractional Flow Reserve), 9737 lesions in 7376 patients treated medically were analyzed. The lesions were grouped based on resting Pd/Pa (≤0.93) and FFR (≤0.80) values. The primary outcome was 5-year target-vessel failure, including target-vessel myocardial infarction and target-vessel revascularization, with death from any cause considered as a competing risk. The key secondary outcome was death from any cause. RESULTS: Discordance between resting Pd/Pa and FFR was present in 15.91% of lesions treated medically (n=1549). Lesions with resting Pd/Pa >0.93 and FFR ≤0.80 had a higher risk of target-vessel failure than those with resting Pd/Pa ≤0.93 and FFR >0.80 (adjusted hazard ratio, 1.67 [95% CI, 1.09-2.55]; P=0.020) but a lower risk of all-cause death (adjusted hazard ratio, 0.23 [95% CI, 0.11-0.52]; P<0.001). The reduction in target-vessel failure with revascularization was observed only in the group with resting Pd/Pa >0.93 and FFR ≤0.80. CONCLUSIONS: FFR predicts vessel-specific coronary events, whereas resting Pd/Pa is associated with overall survival. The contrasting prognostic value of discordant lesions underscores the clinical importance of a complementary assessment using both resting and hyperemic coronary physiological indices. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT01366404.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCINTERVENTIONS.126.016865"
+ },
+ {
+  "idx": 34,
+  "journal": "JACC Adv",
+  "title": "Peripartum Cardiomyopathy Genetic Screening Protocol and Registry: The PERCVD Trial in the Gulf South.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Peripartum cardiomyopathy (PPCM) is a pregnancy-associated form of systolic heart failure with high prevalence and mortality worldwide. It occurs in 1:1800 to 1:3500 births in the United States and disproportionately affects women in the Gulf South. Louisiana has the highest maternal mortality rate in the United States, yet no prospective registry exists to investigate the genetic basis of perinatal cardiovascular disorders, creating an urgent need for genetic assessment. OBJECTIVES: The objective of the study was to establish the first PPCM prospective whole-genome sequencing and registry with future expansion to other perinatal cardiovascular disorders. METHODS: The PERCVD (Perinatal-Related Cardiovascular Disorder) Trial is being conducted at Woman's Hospital, Louisiana, in collaboration with The Lundquist Institute at Harbor-UCLA Medical Center. Individuals meeting PPCM-ESC 2019 diagnostic criteria (left ventricular ejection fraction <45% or fractional shortening <30% with chamber dilation, onset between the last month of pregnancy and five months postpartum) are enrolled in the study. Electronic informed consent is obtained through secure REDCap. Patients complete a virtual medical history visit, receive a kit for self-collected DNA, and complete health surveys. Genomic DNA extraction, whole-genome sequencing, and bioinformatic analysis will identify and annotate variants using American College of Medical Genetics and Genomics criteria. A PPCM genetic registry will catalog variant patterns to support future risk stratification. RESULTS: The PERCVD Trial is enrolling patients, and clinical outcome data are not available. This protocol details eligibility criteria, study workflows, genetic testing algorithms, and follow-up design. CONCLUSIONS: This trial is the first structured PPCM genetic screening program in the Gulf that will support precision cardiovascular care in maternal populations.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103286"
+ },
+ {
+  "idx": 39,
+  "journal": "EuroIntervention",
+  "title": "Phenotypes of cardiogenic shock after out-of-hospital cardiac arrest: the SCAI-V classification.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Classifying cardiogenic shock (CS) after out-of-hospital cardiac arrest (OHCA) is challenging, with end-organ hypoperfusion arising from mechanisms distinct to non-arrested CS. AIMS: We sought to evaluate the performance of current CS classifications and to develop the Society for Cardiovascular Angiography and Interventions (SCAI)-V classification of CS after resuscitated OHCA. METHODS: We performed a retrospective analysis of an international derivation cohort (London, United Kingdom; GdaÅsk, Poland; n=627) and external validation of the 2x2 SCAI-V construct in the TTM-2 trial cohort (n=1,781). The primary outcome was mortality; the secondary outcome was non-neurological mortality at hospital discharge (derivation cohort) or at 180 days (TTM-2 cohort). RESULTS: In the derivation cohort, the median age was 63 years (interquartile range 53-74), and 76% were male. Applying the 2022 SCAI classification (SCAI-2022), 60% of patients had discordant haemodynamic parameters and lactate levels. We developed the SCAI-V classification, grouping patients according to their SCAI grade (shock absent or present) and lactate level (<5 mmol/L or ≥5 mmol/L) into four phenotypes - non-shock, systemic ischaemia, haemodynamic shock, and haemometabolic shock - using a 2x2 factorial framework. The SCAI-V classification was associated with all-cause and non-neurological mortality (p<0.001). Survival was highest in the non-shock group (78% and 68%, in the derivation and validation cohorts, respectively), followed by haemodynamic shock (60% and 51%), then systemic ischaemia (50% and 42%), and lowest in the haemometabolic group (20% and 27%). In the derivation cohort, the SCAI-V classification displayed superior model fit, discrimination, and calibration than the 2019 and 2022 SCAI classifications. In the TTM-2 cohort, external evaluation using SCAI-V showed consistent model fit advantages and discrimination comparable to SCAI-2022. CONCLUSIONS: The SCAI-V classification enhances phenotypic profiling of CS after resuscitated OHCA and may improve patient selection for early invasive therapies in this population.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.4244/EIJ-D-26-00092"
+ },
+ {
+  "idx": 44,
+  "journal": "JACC Adv",
+  "title": "Venous Thromboembolism in Severe Renal Insufficiency: 20 Years of Contemporary Management and Clinical Outcomes.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Patients with severe renal insufficiency have been systematically excluded from randomized trials of anticoagulation for venous thromboembolism (VTE), leaving uncertainty regarding their management in clinical practice. OBJECTIVES: The purpose of this study was to describe the clinical profile, temporal trends in management, and phase-specific outcomes of patients with acute VTE and severe renal insufficiency. METHODS: We analyzed 5,763 patients with acute VTE and creatinine clearance < 30 mL/min enrolled in Registro Informatizado de Enfermedad TromboEmbólica (2005-2024). Baseline characteristics, anticoagulant strategies, and 90-day outcomes were evaluated across 4 calendar periods and during the early (days 0-10) and late (days 11-90) treatment phases. RESULTS: Mean age was 81 years; 69% were women, 56% presented with pulmonary embolism (PE), 16% had creatinine clearance <15 mL/min, and 3.6% were receiving hemodialysis. Over time, severe renal dysfunction and hemodialysis became more frequent. Initial treatment remained predominantly low-molecular-weight heparin, whereas vitamin K antagonist use declined and direct oral anticoagulant use increased. At 90 days, recurrent VTE occurred in 1.3% of patients, major bleeding in 5.1%, and 20% died. During the first 10 days, fatal PE exceeded fatal bleeding (2.0% vs 0.3%), whereas during days 11 to 90 fatal bleeding exceeded fatal PE (0.7% vs 0.3%). CONCLUSIONS: Patients with VTE and severe renal insufficiency are elderly, medically complex, and experience high short-term mortality. The relative balance between fatal PE and fatal bleeding changes over time, with fatal PE predominating early and fatal bleeding thereafter, while real-world management frequently differs from product labels and guideline recommendations.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103268"
+ },
+ {
+  "idx": 49,
+  "journal": "J Am Heart Assoc",
+  "title": "Dexamethasone Nonsuppression in Primary Aldosteronism: Associations With Adrenal Imaging Findings.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The 1-mg dexamethasone suppression test (DST) nonsuppression is increasingly recognized beyond adrenal incidentaloma, but its prevalence and clinical significance in patients evaluated for primary aldosteronism (PA) remain unclear, particularly in those without adrenal nodules. METHODS: In this prospective observational study, consecutive patients with hypertension suspected of PA underwent standardized hormonal evaluation, including the 1-mg DST. DST nonsuppression was defined as post-DST serum cortisol >1.8 μg/dL in the absence of overt Cushing's syndrome. Patients were classified as non-PA or confirmed PA and further stratified by adrenal nodules status on computed tomography. Associations with DST nonsuppression were examined using multivariable logistic regression and propensity score-based analyses, with overlap weighting as the primary approach. RESULTS: Among 883 patients who completed the 1-mg DST, DST nonsuppression was observed in 12.2%. Its prevalence showed an increasing pattern across groups, being lowest in individuals without PA, intermediate in patients with PA without adrenal nodules, and highest in those with adrenal nodules. Adrenal nodules were independently associated with DST nonsuppression (odds ratio, 2.68 [95% CI, 1.01-7.12]), with consistent findings across propensity score-based analyses. Among patients with PA without adrenal nodules, DST nonsuppression was associated with lower estimated glomerular filtration rate and a higher prevalence of chronic kidney disease. CONCLUSIONS: In the high-risk population with PA, DST nonsuppression was not randomly distributed across predefined groups and was independently associated with adrenal nodules. Even in the absence of adrenal nodules, DST nonsuppression was associated by less favorable renal markers, supporting its consistent association with clinical characteristics in patients with PA, rather than implying a distinct biochemical characteristic.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049591"
+ },
+ {
+  "idx": 54,
+  "journal": "J Am Heart Assoc",
+  "title": "Variations in Single-Point Insulin Sensitivity Estimator Index and the Risk of Cardiovascular Disease in Individuals With Cardiovascular-Kidney-Metabolic Syndrome Stages 0 to 3: A National Longitudinal Cohort Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Prior studies have focused exclusively on baseline single-point insulin sensitivity estimator (SPISE) index levels, and the prognostic impact of longitudinal SPISE index trajectories on incident cardiovascular disease (CVD) remains unclear, particularly among individuals with cardiovascular-kidney-metabolic syndrome stages 0 to 3. This study investigated the prognostic value of dynamic SPISE index changes for CVD risk in this preclinical population. METHODS: This prospective cohort study used data from the CHARLS (China Health and Retirement Longitudinal Study). The SPISE index was calculated using body mass index, triglycerides, and high-density lipoprotein cholesterol. We assessed longitudinal SPISE trajectories and cumulative SPISE index exposure by comparing measurements from wave 1 (baseline) and wave 3. Multivariable Cox proportional hazards models were used to evaluate associations of baseline, cumulative, and dynamic SPISE index profiles with incident CVD risk among participants at cardiovascular-kidney-metabolic stages 0 to 3. RESULTS: The longitudinal cohort comprised 7982 participants, and the cumulative exposure subcohort included 5288 participants. Compared with those with persistently high SPISE index, participants with SPISE index deterioration from high to low had significantly elevated CVD risk (hazard ratio [HR], 1.28 [95% CI, 1.06-1.53]), similar to those with a persistently low SPISE index (HR, 1.36 [95% CI, 1.18-1.56]). Participants in the highest tertiles of baseline and cumulative SPISE index had 22% and 29% lower CVD risk, respectively, with significant effect modification by sex. CONCLUSIONS: Among individuals in cardiovascular-kidney-metabolic syndrome stages 0 to 3, both baseline and cumulative SPISE indices are independently and inversely associated with incident CVD risk, with this protective effect being particularly pronounced in men.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.051048"
+ },
+ {
+  "idx": 59,
+  "journal": "JACC Adv",
+  "title": "Shock Timing in STEMI-CS: Management and Outcomes in a Resource-Limited Setting.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cardiogenic shock complicating ST-segment elevation myocardial infarction (STEMI) carries high in-hospital mortality, but evidence from low- and middle-income countries remains limited. OBJECTIVES: The objective of the study was to compare clinical presentation, pharmacological treatment use, and in-hospital outcomes according to shock onset before vs after arrival at a reperfusion center (ARC). METHODS: We performed a retrospective cohort analysis with data from RECUIMA, a multicenter registry of patients with STEMI admitted to 4 Cuban hospitals. Patients with cardiogenic shock complicating STEMI were classified as having shock prior to arrival at a reperfusion center (PRC) or ARC. Multivariable logistic regression assessed the association between shock timing and in-hospital mortality. RESULTS: Among 4,113 patients with STEMI, 435 (10.6%) developed cardiogenic shock; 134 (30.8%) were PRC and 301 (69.2%) ARC. PRC patients had greater clinical severity, including lower systolic blood pressure and left ventricular ejection fraction, worse renal function, and higher Global Registry of Acute Coronary Events scores (all P < 0.01). Inpatient best available medical therapy was less frequent in PRC than ARC patients (32.8% vs 51.8%; relative risk: 0.63; 95% CI: 0.49-0.83; P < 0.001). Unadjusted mortality was higher in PRC patients (50.0% vs 38.2%; relative risk: 1.31; 95% CI: 1.05-1.63; P = 0.021). In the multivariable logistic regression model, shock timing was not statistically significantly associated with mortality (OR: 1.65; 95% CI: 0.86-3.18; P = 0.13). CONCLUSIONS: PRC patients presented with greater severity, received less inpatient best available medical therapy, and had higher unadjusted mortality. However, in the multivariable logistic regression model, shock timing was not statistically significantly associated with mortality.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103179"
+ },
+ {
+  "idx": 64,
+  "journal": "JACC Adv",
+  "title": "Left Atrial Appendage Occlusion vs Direct Oral Anticoagulants for Atrial Fibrillation: Network Meta-Analyses.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Left atrial appendage occlusion (LAAO) is a treatment option to prevent thromboembolic events in patients with atrial fibrillation. However, it remains unclear whether LAAO offers superior efficacy and safety compared with oral anticoagulation for these patients. OBJECTIVES: This study aimed to assess the efficacy and safety of LAAO vs direct oral anticoagulants (DOACs). METHODS: We reviewed randomized controlled trials comparing oral anticoagulation and LAAO, using MEDLINE and CENTRAL. The primary outcome was a composite of stroke, systemic embolism, and cardiovascular death, whereas the safety outcome was major bleeding. Two network meta-analyses were conducted to assess LAAO vs DOAC, incorporating indirect comparisons: 1 comparing LAAO, DOACs, and vitamin K antagonist (3 arms), and the other comparing Watchman, Amulet, DOACs, and vitamin K antagonist (4 arms). RESULTS: A total of 67,693 patients from 11 randomized controlled trials were included, of whom 5,735 underwent LAAO. In the three-arm network meta-analysis, LAAO and DOACs demonstrated statistically similar risks for both the primary efficacy outcome (HR: 1.02; 95% CI: 0.88-1.19; I2 = 0%) and the safety outcome (HR: 0.98; 95% CI: 0.78-1.23; I2 = 70.5%). In the 4-arm network meta-analysis, both Amulet and Watchman were associated with similar risks of the primary outcome, comparable to those of DOACs, as well as the risk of major bleeding. CONCLUSIONS: LAAO devices did not demonstrate statistical superiority over DOACs in reducing thromboembolic events and major bleeding. Further trials are warranted to define patients for whom LAAO may offer the most significant benefit, such as those with high bleeding risk (CRD420251237886).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103269"
+ },
+ {
+  "idx": 69,
+  "journal": "J Am Heart Assoc",
+  "title": "Associations of Plasma Metal Exposure With the Risk and Severity of Acute Coronary Syndrome: Evidence From Epidemiological and Adverse Outcome Pathway Analyses.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Evidence links environmental metal exposure to cardiovascular disease, but its association with acute coronary syndrome (ACS) risk and severity remains insufficiently characterized. METHODS: This case-control study included 413 newly diagnosed patients with ACS and 413 controls matched 1:1 by sex and age (within 5 years). Conditional logistic regression assessed associations between individual plasma metals and ACS risk, and ordinal logistic regression evaluated ACS severity. RESULTS: Higher plasma zinc and selenium levels were inversely associated with ACS risk, whereas arsenic and lead showed positive associations. The odds ratios for extreme quantiles were 0.44 (95% CI, 0.22-0.89) for zinc, 0.23 (95% CI, 0.11-0.48) for selenium, 1.70 (95% CI, 0.85-3.41) for arsenic, and 2.46 (95% CI, 1.24-4.87) for lead. Monocyte counts partially mediated the selenium-ACS association, whereas lymphocyte counts mediated the lead-ACS association. Regarding disease severity, selenium was inversely associated with Gensini score (odds ratio, 0.57 [95% CI, 0.32-1.02]) and the number of lesioned vessels (odds ratio, 0.51 [95% CI, 0.28-0.91]), whereas copper was positively associated with the number of lesioned vessels (odds ratio, 1.48 [95% CI, 0.81-2.71]). Bayesian kernel machine regression suggested an inverse association between metal mixtures and ACS risk, with no significant association with severity. Adverse outcome pathway analysis implicated inflammation, oxidative stress, and actin cytoskeleton dysregulation as potential mechanisms. CONCLUSIONS: Plasma metal profiles were associated with ACS occurrence and severity, highlighting potential inflammatory, oxidative, and cytoskeletal mechanisms.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050201"
+ },
+ {
+  "idx": 74,
+  "journal": "Hypertension",
+  "title": "Hypertensive Disorders of Pregnancy and Cardiovascular-Kidney-Metabolic Syndrome.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Hypertensive disorders of pregnancy (HDP) affect over 10% of pregnancies worldwide, but their association with cardiovascular-kidney-metabolic (CKM) syndrome remains unexplored. METHODS: The present study included parous UK Biobank participants. The primary exposure was HDP history. CKM syndrome was categorized from stage 0 (no risk factors) to 4 (cardiovascular disease). Logistic regression tested the association of HDP history with CKM stage, adjusted for age, age2, race, Townsend Deprivation Index, and smoking status. Cox models evaluated progression to stage 4, in addition, adjusting for baseline CKM stage. Replication analyses were performed in the Women Health Initiative, with CKM stage assessed at 2 study visits. RESULTS: Among 219 639 UK Biobank (mean age, 56.9 years) and 3591 Women Health Initiative participants (61.7 years at baseline, 78.1 years at the follow-up visit), 2836 (1.3%) and 304 (8.4%), respectively, had a history of HDP. In the UK Biobank, HDP history was significantly associated with higher CKM stage (adjusted odds ratio, 3.40 [95% CI, 3.12-3.71]; P<0.001) in ordinal logistic regression. Compared with CKM stage 0, HDP history was associated with higher odds of stages 2 to 4 (adjusted odds ratios, 6.34, 11.20, and 7.43, respectively; all P<0.001). Over a median follow-up of 13.6 years, prior HDP was associated with progression to stage 4 (adjusted hazard ratio, 1.24 [95% CI, 1.10-1.40]; P<0.001). Replication in the Women Health Initiative produced consistent results. CONCLUSIONS: HDP history was associated with greater CKM stage and progression to advanced CKM syndrome, supporting its use as an early life predictor of adverse CKM trajectories.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/HYPERTENSIONAHA.126.27750"
+ },
+ {
+  "idx": 79,
+  "journal": "J Am Heart Assoc",
+  "title": "Prognostic Implications of Left Ventricular Ejection Fraction Across the Flow-Gradient Patterns in Severe Aortic Stenosis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Current guidelines classify normal-flow low-gradient (LG) aortic stenosis (AS) with left ventricular ejection fraction (LVEF) ≥50% as \"moderate.\" However, the prognostic impact of LVEF remains incompletely understood across various hemodynamic subtypes of AS. METHODS: We analyzed 3363 consecutive patients with severe AS from the CURRENT AS Registry-2 (Contemporary Outcomes After Surgery and Medical Treatment in Patients With Severe Aortic Stenosis). Patients were classified into LG AS with normal flow (N=1005), and LG AS with low flow (N=372), and high-gradient AS (N=1986). Patients were further divided according to baseline LVEF: <50%, 50% to 59%, and ≥60%. The primary outcome measure was a composite of death or heart failure hospitalization. Within each hemodynamic subtype, clinical outcomes were compared across baseline LVEF categories of <50%, 50% to 59%, and ≥60% (reference), and unadjusted and adjusted hazard ratios (aHRs) were estimated using Cox proportional hazards models. The median follow-up period in the entire cohort was 763 days. RESULTS: LVEF <50% was associated with a greater hazard of death or heart failure hospitalization than LVEF ≥60% in all 3 subtypes of AS. LVEF 50% to 59% was associated with a greater hazard of death or heart failure hospitalization than LVEF ≥60% in LG AS with normal flow (aHR, 1.80 [95% CI, 1.35-2.40], P<0.001) and high-gradient AS (aHR, 1.42 [95% CI, 1.13-1.79], P=0.003) with hazards comparable to those with LVEF <50% but not in LG AS with low flow (aHR, 1.13 [95% CI, 0.72-1.79], P=0.59). CONCLUSIONS: These findings suggest that LVEF may provide additional prognostic stratification within severe AS phenotypes, particularly in normal-flow LG AS. REGISTRATION: URL: https://center6.umin.ac.jp; Unique Identifier: UMIN000034169.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050412"
+ },
+ {
+  "idx": 84,
+  "journal": "Circ Heart Fail",
+  "title": "Optimizing Screening Intervals for At-Risk Relatives of Dilated Cardiomyopathy Carrying a TTNtv.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cardiomyopathy guidelines recommend routine screening of at-risk relatives with dilated cardiomyopathy (DCM). Titin-truncating variants are the most prevalent cause. However, the diagnostic yield of screening is low. Risk-based stratification could optimize screening intervals and resource allocation. This study aims to develop a safe, evidence-based gene-specific longitudinal screening algorithm for DCM development. METHODS: We included likely pathogenic/pathogenic titin-truncating variant relatives from 7 centers who underwent cardiac screening. Relatives were stratified based on their baseline clinical phenotype: genotype-positive/phenotype-negative (no left ventricular dysfunction and dilatation) or partial DCM (ie, fulfilling only 1 criterion). DCM development predictors were identified based on follow-up data. Risk profiles were established and used to develop a multistate model to create a longitudinal screening algorithm to safely and effectively monitor titin-truncating variant relatives. RESULTS: Among 413 relatives, follow-up data were available in 301 relatives (median follow-up 5.7 years), of whom 24.6% developed left ventricular dysfunction or dilatation and 17.3% developed DCM. In total, 16 relatives (5.3%) experienced a major adverse cardiac event after DCM diagnosis. Based on the identified risk factors, age ≥30 years, male sex, and partial DCM, 3 distinct profiles were established: (1) relatives with partial DCM, (2) females ≥30 years and males, and (3) female relatives <30 years. A screening algorithm was developed, recommending intervals of 1, 3, and 5 years, optimizing the balance between safety and effectiveness. CONCLUSIONS: An evidence-based genotype-specific longitudinal screening algorithm that integrates age, sex, and echocardiographic measurements may improve patient care and improve efficiency of clinical resource allocation.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCHEARTFAILURE.125.013822"
+ },
+ {
+  "idx": 89,
+  "journal": "JACC Adv",
+  "title": "Temporal Trends in Mitral Valve Repair Procedures and Outcomes Among Older U.S. Adults.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Mitral valve (MV) transcatheter edge-to-edge repair (M-TEER) has reshaped the management of mitral regurgitation in high surgical risk patients. As M-TEER adoption expands, understanding concurrent changes in procedural utilization, patient characteristics, and clinical outcomes is important. OBJECTIVES: The objective of the study was to evaluate temporal trends in procedural utilization, comorbidity burden, and mortality among Medicare beneficiaries undergoing MV repair. METHODS: Medicare beneficiaries undergoing MV repair between 2017 and 2021 were analyzed. Procedure volumes, Elixhauser Comorbidity Index, and mortality at 30-days, 30-days postdischarge, 1-year, and 2-years were assessed. Temporal mortality trends were analyzed using adjusted Cox models with calendar year as a continuous variable. RESULTS: Among 81,215 beneficiaries, 39,097 underwent M-TEER and 42,118 surgical MV repair. M-TEER utilization increased from 15.0 to 27.6 per 100,000 beneficiaries (+84.0%), whereas surgical MV repair decreased from 29.1 to 20.7 per 100,000 (-28.9%), resulting in a 9.5% overall increase in MV repair use. The Elixhauser Comorbidity Index increased overall (+7.8%), remained stable among M-TEER patients (-0.2%), and decreased among surgical MV repair patients (-5.1%). Overall, adjusted mortality decreased at 30-days (adjusted HR [aHR]: 0.92; 95% CI: 0.89-0.94; P < 0.001), postdischarge 30-days (aHR: 0.93; 95% CI: 0.89-0.97; P < 0.001), 1-year (aHR: 0.98; 95% CI: 0.97-1.00; P = 0.013), and 2-years (aHR: 0.98; 95% CI: 0.97-0.99; P < 0.001). CONCLUSIONS: Between 2017 and 2021, M-TEER utilization increased substantially whereas surgical MV repair declined, resulting in increased overall MV repair utilization. Over the same period, adjusted short-term and midterm mortality improved despite a higher overall comorbidity index.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103283"
+ },
+ {
+  "idx": 94,
+  "journal": "BMJ",
+  "title": "QTc changes and early major adverse cardiovascular events associated with antidepressant treatment for major depressive disorder in adults: individual participant data network meta-regression of double blind randomised trials.",
+  "ptypes": [
+   "Journal Article",
+   "Network Meta-Analysis"
+  ],
+  "abstract": "OBJECTIVE: To compare the effect of specific antidepressants with placebo on heart rate corrected QT interval (QTc) during the first eight weeks of treatment for major depressive disorder in adults, and to investigate whether antidepressant use is associated with early major cardiovascular adverse events (MACE). DESIGN: Individual participant data (IPD) network meta-regression and aggregate pairwise meta-analysis. DATA SOURCES: Individual and aggregate level data from randomised controlled trials identified through Cochrane Central Register of Controlled Trials, CINAHL, Embase, LILACS, Medline, Medline In-Process, PsycINFO, the websites of regulatory agencies, and international registers. METHODS: IPD were harmonised to enhance comparability and analysed using network meta-regressions to explore the interplay with baseline QTc, age, sex assigned at birth, body mass index, serum potassium level, and estimated glomerular filtration rate. The primary outcome was changes in QTc Fridericia (QTcF) associated with specific antidepressants and placebo after taking into account modifiable and non-modifiable risk factors. Aggregate data on early MACE were analysed using pairwise meta-analysis comparing antidepressants with placebo. ELIGIBILITY CRITERIA FOR SELECTING STUDIES: Double blind randomised trials of adults (≥18 years) with major depressive disorder diagnosed according to standardised, operationalised criteria. RESULTS: Of 130 unique randomised controlled trials identified, 35 (27%) included individual level data (8679 participants) on QTc with placebo and 10 antidepressants (amitriptyline, bupropion, duloxetine, escitalopram, fluoxetine, mirtazapine, paroxetine, trazodone, venlafaxine, vortioxetine). Compared with placebo, escitalopram and amitriptyline were associated with increased QTc intervals (8.7 milliseconds (ms), 95% credibility interval (CrI) 1.6 to 15.8, and 5.3 ms, 0.8 to 9.8, respectively). When risk factors were considered, amitriptyline and escitalopram were also associated with the highest QTc prolongations (58.8% and 21.3%, respectively), whereas venlafaxine and vortioxetine were often associated with the lowest QTc intervals (24.1% and 9.7%, respectively). Important variability of effects was observed, especially for escitalopram, fluoxetine, and mirtazapine. An aggregate analysis of 139 trials (52 398 participants) did not identify an association between antidepressant use and increased rates of early MACE and non-suicidal death compared with placebo (risk difference 0.01%, 95% CrI -0.01% to 0.02%). CONCLUSIONS: The effect of specific antidepressants on QTc interval differed between adults with depression. No evidence associated antidepressant use with early MACE and non-suicidal sudden death. To support shared decision making and taking into account the trade-off between benefits and harms, individual modifiable and non-modifiable risk factors should be considered when choosing antidepressants. SYSTEMATIC REVIEW REGISTRATION: Open Science Framework https://osf.io/c8k65/.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1136/bmj-2026-100600"
+ },
+ {
+  "idx": 99,
+  "journal": "Heart Rhythm",
+  "title": "Complications After Permanent Pacemaker Implantation in Patients with Congenital Complete Atrioventricular Block: A Systematic Review and Meta-analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Congenital complete atrioventricular block (CCAVB) requires pacing from early life, yet the long-term burden of pacing-induced cardiomyopathy (PICM), mortality, and device-related complications has not been quantitatively synthesized. OBJECTIVE: To determine the incidence of PICM, mortality, and device-related complications after permanent pacemaker implantation in patients with CCAVB. METHODS: PubMed, Scopus, and Web of Science were searched from inception through February 2026. Longitudinal studies enrolling patients with isolated or predominantly isolated CCAVB undergoing permanent pacemaker implantation, reporting PICM or left ventricular (LV) dysfunction, and with ≥6 months' follow-up were included. PICM was defined as LV ejection fraction < 50% or study-specific LV dysfunction. Pooled event rates were estimated using random-effect meta-analysis. RESULTS: Eighteen studies including 1,233 paced patients were included. The pooled incidence of PICM was 13.3% (95% CI 9.9-17.7%; I2=68%). Sensitivity analyses across alternative definitions yielded similar estimates (12.1% to 13.4%). PICM onset occurred earlier in antibody-positive than non-immune populations (mean 1.9 vs. 17.4 years; p=0.009). All-cause mortality was 6.3% (95% CI 3.8-10.3%; I2=75%), lead failure 9.5% (95% CI 4.2-19.9%; I2=85%), and device infection 8.2% (95% CI 4.4-15.0%; I2=49%), including 4.2% deep/device-related infection (95% CI 2.1-8.2%; I2=20%). Longer follow-up showed a non-significant trend toward higher PICM incidence (β=+0.025 per year; p=0.080). CONCLUSION: In CCAVB, permanent pacing is associated with a clinically meaningful, lifelong burden of cardiomyopathy, mortality, and device-related complications. The wide variation in outcome definitions and the largely retrospective evidence base limit firm conclusions, underscoring the need for prospective multicentre studies with standardized definitions.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.09.042"
+ },
+ {
+  "idx": 104,
+  "journal": "Heart Rhythm",
+  "title": "Functional heterogeneity of arrhythmogenic KCNQ1 S1 mutants reveals dependence on the number of KCNE1 subunits in the IKs channel complex.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: A cluster of closely spaced residues located at the extracellular end of the S1 transmembrane domain in KCNQ1 (Q1, residues 140-147) harbors six mutations associated with both gain- and loss-of-function (GoF and LoF) arrhythmic diseases. Whether severity of the mutation phenotype is affected by the stoichiometric ratio of KCNE1 (E1) to Q1 is unknown. OBJECTIVE: This study aims to determine how the six mutations differentially alter the gating properties of Q1 alone and of IKs at different fixed E1:Q1 stoichiometries. METHODS: Concatemers were used to generate known stoichiometries of E1:Q1 (Q1 alone; E1QQ, fixed 2:4; and E1Q, fixed 4:4), while incorporating S1 mutations into Q1. Whole-cell voltage clamp protocols were applied to channels expressed in mammalian tsA201 cells and computational modeling was used to provide a physiological perspective. RESULTS: Q1 S1 mutants had wide-ranging effects on channel gating despite their proximity to one another, and these phenotypes were modulated by the E1:Q1 stoichiometry. Increasing the number of E1 in the channel complex generally exaggerated mutant phenotypes. Atrial and ventricular action potential clamp experiments and computational modeling generally supported the phenotype of mutation-associated diseases in more physiological systems, except for the long-QT-associated T144A and atrial-fibrillation-associated Q147R. CONCLUSION: The functional impact of S1 mutants in Q1 varies depending on the number of associated E1, suggesting that E1:Q1 stoichiometry may represent a previously underappreciated regulator of Q1 variant phenotype.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.09.040"
+ },
+ {
+  "idx": 109,
+  "journal": "J Am Heart Assoc",
+  "title": "Risk of Major Adverse Cardiovascular Events After Retinal Vascular Occlusions Versus Transient Ischemic Attack: A Propensity-Score Matched Cohort Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Retinal vascular occlusions (RVaO) are signs of systemic vascular disease and share risk factors with stroke and myocardial infarction. The cardiovascular risk of RVaO subtypes and their relationship to transient ischemic attack (TIA) remain unclear. METHODS: Using the TriNetX database, we compared the 1-year incidence of major adverse cardiovascular events (MACE), including ischemic and hemorrhagic stroke, acute myocardial infarction, and death, between patients with RVaO and those with TIA. Cox regression was used to analyze the association between risk factors and MACE risk. RESULTS: We identified 91 936 patients with RVaO and 392 069 patients with TIA. After propensity score matching, each cohort included 90 698 patients. The RVaO cohort had a significantly lower 1-year MACE risk than the TIA cohort (hazard ratio [HR], 0.77 [95% CI, 0.74-0.80]), with reduced risks of ischemic stroke (HR, 0.64 [95% CI, 0.60-0.67]), hemorrhagic stroke (HR, 0.82 [95% CI, 0.71-0.94]), and acute myocardial infarction (HR, 0.89 [95% CI, 0.83-0.96]). All-cause mortality was similar. Subtype-specific analysis showed that patients with central retinal artery occlusion had higher risks of MACE (HR, 1.13 [95% CI, 1.02-1.24]) and all-cause mortality (HR, 1.23 [95% CI, 1.02-1.49]) than patients with TIA. Within RVaO, age, male sex, retinal artery occlusion, ischemic heart disease, chronic kidney disease, heart failure, and nicotine dependence were important predictors of MACE risk. CONCLUSIONS: Patients with RVaO have a lower 1-year MACE risk than TIA, but this varies by subtype. central retinal artery occlusion has a prognosis similar to TIA, requiring urgent assessment and prevention. These findings highlight the importance of multidisciplinary care in RVaO management.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049229"
+ },
+ {
+  "idx": 114,
+  "journal": "Nat Cardiovasc Res",
+  "title": "Proteome-wide genetic analyses identify ASGR1 as a potential biomarker linking smoking with ischemic heart disease.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Tobacco smoking increases the risk of multiple diseases, but the biological mechanisms involved remain incompletely understood. Here we characterize smoking-related protein profiles to identify potentially causal biomarkers mediating smoking's effects. In European-ancestry populations, genetically predicted smoking exposures were significantly associated with levels of 93 (total: 2,922) proteins, including higher levels of asialoglycoprotein receptor 1 (ASGR1). The positive association of ASGR1 levels with ischemic heart disease (IHD) was supported by colocalization (posterior probability of hypothesis 4 = 0.91), and was estimated to explain 6.35% (95% confidence interval 2.61-10.09%, P = 8.77 × 10-4) of smoking's effects on IHD in two-step Mendelian randomization analyses. In network analyses, genetically predicted ASGR1 levels were inversely associated with plasma levels of more than 100 proteins, including growth arrest-specific 6, with all these proteins having rs55714927 (that is, a cis-protein quantitative trait locus for ASGR1) as a trans-protein quantitative trait locus. Sensitivity analyses in never-smokers identified a nonstatistically significant residual association between ASGR1 and IHD, which is consistent with possible horizontal pleiotropy, with body mass index implicated as a potential contributing pathway.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s44161-026-00871-x"
+ },
+ {
+  "idx": 119,
+  "journal": "Nat Cardiovasc Res",
+  "title": "Bioadaptive spatiotemporal nanomedicine promotes metabolic recovery after myocardial infarction through NAD+ and UCP2 regulation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Myocardial infarction causes persistent mitochondrial and metabolic dysfunction that drives adverse cardiac remodeling. Here we develop NAD+-genipin nanomedicine for metabolic balance (NGB), a physiologically adaptive nanomedicine with staged intracellular release. In a mouse myocardial infarction model, NGB preferentially accumulates in ischemic myocardium, rapidly replenishes nicotinamide adenine dinucleotide (NAD+) and subsequently provides mitochondria-associated sustained NAD+-genipin exposure. This phase-linked delivery limits early mitochondrial stress, apoptosis and inflammation and later restores coordination between oxidative phosphorylation, glycolysis and fatty-acid utilization. Mechanistically, NGB supports sirtuin-1-associated oxidative metabolism and suppresses sustained upregulation of the mitochondrial uncoupling protein 2 (UCP2). In hypoxic cardiomyocytes, UCP2 knockdown plus NAD+ supplementation partially reproduces the NGB metabolic phenotype, whereas UCP2 overexpression and sirtuin 1 inhibition reverse distinct components of NGB-mediated respiratory and glycolytic recovery. NGB thereby reduces fibrosis and ventricular remodeling and preserves cardiac function, supporting temporally coordinated metabolic intervention after myocardial infarction.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s44161-026-00874-8"
+ }
+]

@@ -1,0 +1,298 @@
+[
+ {
+  "idx": 3,
+  "journal": "J Am Heart Assoc",
+  "title": "Sex-Specific Gaps in Cardiovascular Psychosocial Research: An Analysis of Studies Cited in the American Heart Association's 2021 Statement on Psychological Health and Cardiovascular Disease.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The American Heart Association's 2021 Scientific Statement on Psychological Health, Well-Being, and the Mind-Heart-Body Connection affirms the critical role contributed by psychosocial factors in cardiovascular disease outcomes, yet the cited resource continues to lack the sex-specific rigor necessary for equitable clinical guidance. METHODS: We conducted a review of 206 research articles cited in the statement to assess whether studies reported participant sex, reported the percentage of women enrolled, tested for sex differences, and performed sex-disaggregated analyses. RESULTS: Although 71% of studies disclosed participant sex, only 29% examined results by sex, drew sex-inclusive conclusions (27%), or performed appropriate subgroup analyses (25%). These practices varied significantly by study design: randomized controlled trials, the gold standard of clinical evidence and most relied upon for clinical practice guidelines, had the lowest rates of female-majority (≥50%) enrollment, while cohort and cross-sectional designs were more inclusive. In pooled meta-analytic data comprising 899 studies, male-only trials exceeded female-only ones, and 16% failed to report sex. Temporal trends revealed no meaningful improvement in sex reporting from 1987 to 2021, despite decades of policy reforms intended to close these gaps. While slight gains in female enrollment and analytic rigor were observed, they remain insufficient to meet the needs of sex-responsive research. CONCLUSIONS: Our findings reveal a critical disconnect between the clinical importance of psychosocial factors and the sex representation in the evidence used to guide practice. Deliberate reforms in study design and analytic expectations are needed to ensure that future guidelines rest on an equitable foundation.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.046951"
+ },
+ {
+  "idx": 8,
+  "journal": "JACC Adv",
+  "title": "Programmed Cell Death-1/Programmed Cell Death-Ligand 1 Pathway in High-Risk Lymphocytic Acute Myocarditis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The programmed cell death-1 (PD-1)/programmed cell death-ligand-1 (PD-L1) pathway is affected in immune checkpoint inhibitor (ICI)-associated acute myocarditis (AM), while this pathway in non-ICI-associated lymphocytic AM (LAM) is unexplored. OBJECTIVES: This study aimed to assess cardiac levels of PD-L1/PD-1 in patients with high-risk LAM, compared with cardiac sarcoidosis (CS), non-inflammatory cardiomyopathy (non-Infl CMP), ICI-AM, and acute cellular rejection (ACR). METHODS: PD-L1 expression was measured with a visual semiquantitative scale from 0 (0%) to 5 (≥75% of cardiomyocytes), and PD-1 from 0 (0%) to 5 (≥75% of inflammatory cells) in 142 patients with cardiac histology. We compared patients with LAM (n = 39), CS (n = 26), non-InflCMP (n = 11). As an additional group, we included 8 patients with ICI-AM. Finally, the expression of PD-L1/PD-1 was also evaluated in heart transplant recipients with ACR of grade ≥2R (n = 28) or no ACR (n = 30). RESULTS: Patients with LAM had increased median levels of PD-L1 compared with CS or non-Infl-CMP: 2 (first to third quartile: 2-3) vs 1 (1-2) vs 0 (0-0), respectively; P < 0.0001. Likewise, PD-L1 expression was higher in those with ACR ≥2R vs no ACR. Conversely, PD-1 was blunted in LAM compared to ACR ≥2R. Patients with LAM had similar cardiac PD-L1 expression but reduced cardiac PD-1 expression compared with ICI-AM. CONCLUSIONS: PD-L1 is overexpressed in cardiomyocytes of patients with LAM compared with non-Infl-CMP or focal non-lymphocytic myocarditis, such as CS, suggesting that cardiac PD-L1 expression is likely a response to T-cell-mediated injury. PD-1 expression is blunted in infiltrating inflammatory cells in LAM compared with ACR, suggesting a disruption of the PD-L1/PD-1 axis in LAM.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103254"
+ },
+ {
+  "idx": 13,
+  "journal": "EuroIntervention",
+  "title": "Radial wall strain for residual risk stratification after percutaneous coronary intervention.",
+  "ptypes": [
+   "Journal Article",
+   "Randomized Controlled Trial"
+  ],
+  "abstract": "BACKGROUND: Percutaneous coronary intervention effectively treats flow-limiting stenoses; however, untreated non-target vessels with vulnerable plaques remain a major contributor to future adverse cardiovascular events. Plaque strain is a promising marker of plaque vulnerability but traditionally requires complex modelling and expensive intracoronary imaging. We developed a novel artificial intelligence algorithm for subpixel-level lumen delineation, enabling real-time automated assessment of radial wall strain (RWS) from routine angiography. AIMS: This post hoc study sought to determine the prognostic value of RWS for predicting future cardiac events in non-target vessels over 5 years, using the high-quality TARGET All Comers randomised trial. METHODS: This blinded analysis included all 1,551 enrolled patients. Angiographic image quality was independently assessed prior to blinded computation of RWS. A prespecified cutoff value of maximal RWS (RWSmax) ≥13% was used to define increased plaque vulnerability. The primary endpoint was a non-target vessel-oriented composite endpoint (NT-VOCE), a composite of cardiac death, non-target vessel myocardial infarction and non-target vessel revascularisation over 5 years, as prospectively adjudicated in the parent trial. Following blinded RWS analysis, the results were integrated into the trial database, and the outcomes were unblinded and linked to corresponding vessel-level outcomes. RESULTS: RWS was successfully evaluated in 1,384 non-target vessels from 802 patients. Baseline RWSmax independently predicted the NT-VOCE, with an adjusted hazard ratio (HR) of 4.82 (95% confidence interval [CI]: 3.14-7.40; p<0.0001) and an adjusted area under the curve (AUC) of 0.73 (95% CI: 0.69-0.78; p<0.0001). Predictive accuracy was highest for non-target vessel revascularisation (adjusted AUC 0.92, 95% CI: 0.88-0.95; p<0.0001). In the subgroup with high-quality angiographic images, RWS demonstrated even greater predictive performance for the NT-VOCE (adjusted HR 6.89, 95% CI: 3.15-15.07; p<0.0001). CONCLUSIONS: In this retrospective post hoc analysis, RWS was independently associated with long-term adverse events in deferred non-target vessels, with its prognostic value most evident for subsequent non-target vessel revascularisation. Elevated baseline RWSmax was strongly associated with the NT-VOCE, with the highest predictive accuracy in vessels with high-quality angiographic imaging. Ongoing and planned prospective, randomised trials are evaluating the role of RWS-guided risk stratification.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.4244/EIJ-D-26-00126"
+ },
+ {
+  "idx": 18,
+  "journal": "J Am Heart Assoc",
+  "title": "Adropin Reduces Early Brain Injury and Delayed Cerebral Ischemia After Severe Subarachnoid Hemorrhage in a Mouse Model.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Delayed cerebral ischemia remains a major cause of morbidity after aneurysmal subarachnoid hemorrhage (SAH), and effective therapies beyond nimodipine are lacking. Adropin, an endogenous peptide that regulates endothelial function and nitric oxide signaling, has shown neurovascular protective effects in experimental SAH. However, its efficacy when administered at clinically relevant delayed time points and in severe SAH remains unclear. METHODS: A severe double-injection SAH model was induced in male C57BL/6 mice. Synthetic adropin or vehicle was administered beginning 6 or 12 hours after SAH, with repeat dosing according to experimental end points. Outcomes included eNOS (endothelial nitric oxide synthase) signaling, blood-brain barrier integrity, cerebral vasospasm, microvascular thrombosis, neuronal apoptosis, and neurobehavioral performance. Additional studies were conducted in energy homeostasis-associated knockout mice and tamoxifen-induced brain endothelial-specific adropin deletion. Statistical analyses were performed using Prism 10. RESULTS: Endogenous adropin expression and eNOS signaling were reduced 24 hours after SAH. Adropin administration restored total eNOS expression. Adropin preserved tight junction integrity, selectively restoring occludin expression, and significantly reduced microvascular thrombosis. When administered 6 hours after SAH, adropin attenuated delayed cerebral vasospasm, reduced neuronal apoptosis, improved recognition memory and mitigated anxiety-like behavior at 1 month post SAH. In contrast, adropin administered 12 hours after SAH conferred partial and inconsistent behavioral benefit and did not significantly reverse vasospasm. Adropin attenuated vasospasm and improved behavioral outcomes in energy homeostasis-associated knockout mice. Endothelial-specific adropin deletion did not exacerbate vasospasm, and systemic adropin administration did not further improve vessel diameter in this model. CONCLUSIONS: Adropin confers robust neurovascular protection after severe SAH when administered within a clinically relevant early therapeutic window. These findings highlight adropin as a promising candidate for mitigating endothelial dysfunction, vasospasm, and long-term neurological deficits following SAH, with timing of intervention playing a critical role in therapeutic efficacy.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.049895"
+ },
+ {
+  "idx": 23,
+  "journal": "N Engl J Med",
+  "title": "Clinical Uses of Common Genetic Variants Associated with Common Diseases.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Twenty-five years after the draft of the human genome sequence, genomics has revolutionized many areas of biology, the diagnosis of familial and early-onset diseases, and the development of targeted therapies, particularly in oncology. Genomic knowledge has had little effect on the diagnosis and treatment of most common adult-onset conditions. Genomewide association studies have revealed that for these conditions, thousands of genetic variants of small effect underpin the polygenic nature of risk. When incorporated into polygenic risk scores, these variants predict risk; however, polygenic risk scores have had little effect in the clinic. In this article, we review the reasons for the slow pace of the diffusion of these methods in clinical practice. With the impending era of relatively inexpensive genome sequencing in mind, we review the ways in which polygenic risk scores, along with the related field of pharmacogenomics, may be useful in clinical practice for the prevention and treatment of common diseases.",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1056/NEJMra2413201"
+ },
+ {
+  "idx": 28,
+  "journal": "Heart Rhythm",
+  "title": "Likelihood ratio calibration aligns MAVE and automated patch-clamp functional evidence for KCNH2 variants in long QT syndrome.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Many people with long QT syndrome carry missense variants that are classified as variants of uncertain significance. Functional evidence from laboratory experiments can help improve genetic diagnosis, but it requires proper validation before use in a clinical interpretation framework. OBJECTIVE: To compare two functional datasets for KCNH2 variants: a high-throughput assay that measures how much KV11.1 channel reaches the cell surface, and automated patch clamp, which measures the level of potassium current in HEK293 cells. METHODS: Automated patch clamp results were converted into likelihood ratios using reference sets of pathogenic and benign KCNH2 variants. These values were then mapped to ACMG/AMP functional evidence categories and compared with previously calibrated MAVE evidence for 495 single-nucleotide KCNH2 variants found in individuals with long QT syndrome. RESULTS: Overall, 392 of 495 variants (79%) had concordant interpretations between MAVE and automated patch clamp. The remaining 103 variants differed between assays: 49 shifted between normal and abnormal functional evidence, and 54 shifted between a functional evidence category and an indeterminate result. Among variants assigned strong abnormal evidence by both assays, 54 were absent from ClinVar. Of 111 unresolved or conflicting ClinVar variants, 92 would meet evidence combinations sufficient for likely pathogenic classification when strong functional evidence was combined with supporting computational and population-frequency evidence. CONCLUSION: Likelihood ratio calibration allows MAVE and automated patch clamp data to be compared within the same clinical interpretation framework. Together, these functional datasets can support more transparent interpretation of KCNH2 variants in long QT syndrome.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.09.044"
+ },
+ {
+  "idx": 33,
+  "journal": "EuroIntervention",
+  "title": "Clinical outcomes of FFR-guided revascularisation of non-culprit lesions in NSTE-ACS.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The role of fractional flow reserve (FFR)-guided revascularisation in patients with non-ST-segment elevation acute coronary syndromes (NSTE-ACS) is unclear. AIMS: We sought to compare the outcomes of FFR-guided and angiography-guided revascularisation in patients with NSTE-ACS and chronic coronary syndrome (CCS). METHODS: Individual patient data from five randomised clinical trials comparing FFR- and angiography-guided percutaneous coronary intervention (PCI) were pooled and stratified according to the coronary syndrome subtype. The primary outcome was major adverse cardiovascular events (MACE) at 1 year. RESULTS: Overall, 2,493 patients were considered, including 1,316 (52.8%) with CCS and 1,177 (47.2%) with NSTE-ACS. The relationship between an FFR-guided strategy and the risk of MACE at 1 year was similar across the two groups (CCS: hazard ratio [HR] 0.78, 95% confidence interval [CI]: 0.58-1.05; NSTE-ACS: HR 0.86, 95% CI: 0.63-1.18; p-value for interaction [p-int]=0.792). Similar findings were found for all-cause death (p-int=0.459), myocardial infarction (p-int=0.996) and repeat revascularisation (p-int=0.290). These results were confirmed through an extended exploratory analysis at 5 years of follow-up. In patients with NSTE-ACS randomised to FFR-guided revascularisation, the number of deferred lesions was not associated with an increased risk of MACE. CONCLUSIONS: FFR-guided revascularisation is associated with a similar clinical benefit in NSTE-ACS and CCS settings. An FFR-guided strategy should be considered to safely reduce unnecessary PCI in patients with NSTE-ACS.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.4244/EIJ-D-26-00055"
+ },
+ {
+  "idx": 38,
+  "journal": "Circulation",
+  "title": "Sotatercept Improves Right Heart Mechanics Despite Reduced Myocardial Contractility in Pulmonary Arterial Hypertension: A Prospective Exercise Hemodynamic Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The right ventricular (RV) response to pressure overload is a crucial determinant of outcomes in pulmonary arterial (PA) hypertension. Sotatercept improves clinical outcomes, but its effects on the right ventricle have been inconsistent. We evaluated the effects of sotatercept on load-independent measures of RV contractility, RV-PA coupling, and right heart deformation at rest and exertion in patients with PA hypertension. METHODS: In this prospective trial among participants with PA hypertension recruited between July 2024 and May 2025, we performed simultaneous echocardiography and invasive pressure measurements during rest and exercise to evaluate changes in RV contractility (end-systolic elastance [Ees]), afterload (PA elastance [Ea]), RV-PA coupling (ratio of arterial Ea to Ees), and right heart deformation, including RV and right atrial strain, before and after 24 weeks of sotatercept using mixed models. RESULTS: Among 30 participants (n=21; 70% female; mean age, 49.3 years [SD 13.5]), sotatercept decreased PA Ea. These changes were associated with reduced RV contractility, PA pulsatility index, and the maximal rate of RV pressure increase over time (dP/dtmax; P<0.001 for all). The decrease in Ees was associated with a decrease in PA Ea (r=+0.70 [95% CI, +0.44 to +0.85]; P<0.0001) with preserved RV-PA coupling (mean difference, +0.08 [95% CI, -0.11 to +0.26]; P=0.42). Although systolic indices measured at the base of the right ventricle (tricuspid annular plane systolic excursion and systolic velocity of the lateral tricuspid annulus) decreased after sotatercept use, there was an increase in RV free wall-dependent systolic indices, including resting and exercise RV free wall strain (mean difference, +6.2% [95% CI, +4.5 to +7.8]; P<0.0001) and fractional area change (P=0.0001). Beyond the right ventricle, there was also improved right atrial filling and contractile performance across rest and exercise (P<0.0001 for all). CONCLUSIONS: Sotatercept decreases RV contractility in proportion to reduced afterload, while preserving the RV-PA coupling relationship. Despite decreased RV contractility, global measures of right heart performance, such as RV free wall strain and RA strain, improve, alongside redistribution of RV deformation from annular motion to free wall shortening. These data suggest that sotatercept causes an energetically favorable reduction in resting RV contractility to match the lower afterload, which does not appear physiologically detrimental when considering the concurrent improvement in RV free wall contractile mechanics and exertional right heart reserve. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT06409026.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.081334"
+ },
+ {
+  "idx": 43,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Balance of non-Lp(a) apoB and Lp(a) with Coronary Plaque Phenotypes and MACE: Insights from PROSPECT II and CASABLANCA.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Apolipoprotein B (apoB)-containing lipoproteins contribute heterogeneously to atherosclerosis. While apoB particles are major determinants of plaque burden, Lp(a) has been linked to plaque inflammation and instability. We investigated the associations of non-Lp(a) apoB, Lp(a), and their relative balance with coronary plaque burden and vulnerability. METHODS AND RESULTS: Among 854 patients with recent myocardial infarction enrolled in the PROSPECT II near-infrared spectroscopy-intravascular ultrasound (NIRS-IVUS) study, total apoB was converted to nmol/L and non-Lp(a) apoB calculated by subtracting Lp(a) in nmol/L. The non-Lp(a) apoB/Lp(a) ratio was used to characterize the relative predominance of these lipoprotein classes. Higher non-Lp(a) apoB was independently associated with greater plaque burden (plaque percentage volume; β = 0.19, 95% confidence interval [CI] 0.05-0.33; P = 0.009), but not with lipid core burden index. In contrast, lower non-Lp(a) apoB/Lp(a) ratio tertile were associated with higher odds of plaque burden ≥70% (odds ratio [OR] 1.47, 95% CI 1.04-2.07; P = 0.029) and the composite vulnerability endpoint of plaque burden ≥70% and maxLCBI4mm ≥324.7 (OR 1.62, 95% CI 1.12-2.33; P = 0.011). In an exploratory external cohort from the CASABLANCA study, lower ratios identified an Lp(a)- and oxidized phospholipid-enriched phenotype and were associated with higher unadjusted cardiovascular risk. CONCLUSIONS: Non-Lp(a) apoB and Lp(a) demonstrate distinct associations with coronary plaque burden and vulnerability. Differentiating Lp(a)-associated from non-Lp(a)-associated apoB particle pools provides complementary information on coronary plaque phenotype, and the non-Lp(a) apoB/Lp(a) ratio summarizes their relative predominance.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag512"
+ },
+ {
+  "idx": 48,
+  "journal": "Heart",
+  "title": "Post-heart transplantation immunosuppression and rejection: what the general cardiologist needs to know.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "While heart transplantation (HT) is the optimal therapy for end-stage heart failure patients, longevity of HT recipients continues to be limited by rejection and its sequelae. In this review, we provide an overview of current immunosuppressive principles and the prevention, diagnosis and treatment of rejection in HT. All HT recipients are maintained on immunosuppression to prevent rejection and undergo regular surveillance testing to identify rejection episodes that may require treatment. Risk of rejection is highest in the first year-post-HT and so during that period, immunosuppression is maintained at the highest levels and surveillance testing is done most frequently. The current standard triple-drug immunosuppressive regimen for HT consists of tacrolimus, a calcineurin inhibitor, mycophenolate mofetil, an antimetabolite agent and steroids. This regimen, with a calcineurin inhibitor as its cornerstone, has led to significantly decreased rates of rejection, particularly acute cellular rejection (ACR) in the current day compared with the early days of HT. The endomyocardial biopsy is currently the standard for rejection surveillance, but newer technologies such as donor-derived cell-free DNA measurements are changing surveillance practices in the field. While rates of ACR have decreased with current management strategies, antibody-mediated rejection (AMR) continues to pose a challenge. Newer immunosuppressive therapies that more effectively target the humoral and innate immune systems aim to better prevent and treat AMR in HT recipients. Furthermore, ongoing advancements in rejection surveillance strategy offer higher sensitivity and diagnostic accuracy for AMR compared with just histopathology on the endomyocardial biopsy. Ongoing advancements in immunosuppression and rejection surveillance will lead to continued improvement in longevity of HT recipients.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1136/heartjnl-2026-328009"
+ },
+ {
+  "idx": 53,
+  "journal": "J Am Heart Assoc",
+  "title": "Glycemic Status, Cardiac Structure, and Function by Magnetic Resonance Imaging: The Jackson Heart Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Type 2 diabetes is associated with a high risk of heart failure. Hence, precise cardiac imaging can help early detection of subclinical myocardial dysfunction. We investigated the associations of glycemic status and markers with left ventricular (LV) remodeling assessed by cardiac magnetic resonance imaging among Black adults. METHODS: Peak systolic circumferential strain (Eulerian circumferential systolic strain), LV mass, end-diastolic volume, end-systolic volume, LV ejection fraction, and LV remodeling index were measured by cardiac magnetic resonance imaging in JHS (Jackson Heart Study) participants between 2008 and 2012. We evaluated the associations of glycemic markers (fasting plasma glucose and hemoglobin A1C) and glycemic status (diabetes, prediabetes, and normoglycemia) with cardiac magnetic resonance imaging measures of LV structure and function. RESULTS: A total of 1609 Black participants (mean age, 59 years; 63% women; 27.4% with diabetes and 46.8% with prediabetes) were included. Participants with diabetes had higher LV mass (adjusted β, 4.94 [95% CI, 0.51-9.37]), higher LV remodeling index (β, 0.05 [95% CI: 0.01- 0.09]), impaired global circumferential systolic strain (β, 0.44 [95% CI, 0.04-0.84]), and a higher odds of abnormal strain compared with those with normoglycemia (adjusted odds ratio, 1.43 [95% CI, 1.01-2.04]). Each SD increase in hemoglobin A1C was associated with higher LV mass (β, 2.48 [95% CI, 0.76-4.21]), LV remodeling index (β, 0.02 [95% CI, 0.01-0.04]), and impaired global circumferential systolic strain (β, 0.21 [95% CI, 0.06-0.37]). CONCLUSIONS: In a large community-based cohort of Black individuals, diabetes was associated with differences in LV structure and myocardial strain measured by cardiac magnetic resonance imaging.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.048360"
+ },
+ {
+  "idx": 58,
+  "journal": "J Am Heart Assoc",
+  "title": "Achievement of the American Heart Association Life's Essential 8 Goals With Death Among American Indian People: The Strong Heart Family Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The American Heart Association's Life's Essential 8 is a metric used to assess cardiovascular health (CVH) that includes 4 health behaviors and 4 health factors. We examined the association of achievement of Life's Essential 8 with death among American Indian people who participated in the SHFS (Strong Heart Family Study), a study of cardiovascular disease risk factors in 12 rural American Indian communities in the United States. METHODS: A total of 2230 SHFS participants were included. A composite CVH score (0-100) was created on the basis of the achievement of Life's Essential 8 goals except sleep and categorized into low (0-49), moderate (50-69), and high (70-100) CVH. Cox proportional hazards models were used to examine the association of CVH with mortality risk (all-cause and cardiovascular disease death). RESULTS: There were 555 deaths over a median 19.3-year follow-up. The risk of death from any cause was lower among participants who achieved high CVH (hazard ratio [HR], 0.52 [95% CI, 0.38-0.70]) or moderate CVH (HR, 0.67 [95% CI, 0.56-0.78]) compared with those with low CVH. Similarly, the risk of death from cardiovascular disease was lower among participants with high CVH (HR, 0.30 [95% CI, 0.14-0.67]) or moderate CVH (HR, 0.56 [95% CI, 0.39-0.79]) compared with participants with low CVH. CONCLUSIONS: Higher achievement of Life's Essential 8 was associated with lower risk of all-cause and cardiovascular disease death. This work highlights the importance of promoting optimal CVH to minimize risk of death in American Indian communities.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.048758"
+ },
+ {
+  "idx": 63,
+  "journal": "EuroIntervention",
+  "title": "Clopidogrel monotherapy versus aspirin monotherapy in females and males after percutaneous coronary intervention: a sex-stratified analysis of the SMART-CHOICE 3 trial.",
+  "ptypes": [
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Multicenter Study",
+   "Comparative Study"
+  ],
+  "abstract": "BACKGROUND: Clopidogrel has emerged as a promising alternative to aspirin monotherapy for maintenance therapy after percutaneous coronary intervention (PCI); however, the optimal antiplatelet strategy according to sex remains controversial. AIMS: We aimed to investigate whether the treatment effect of antiplatelet therapy differs according to sex. METHODS: This study was a prespecified substudy of the SMART-CHOICE 3 trial. Patients at high risk of recurrent ischaemic events who had completed the standard duration of dual antiplatelet therapy after PCI were randomly assigned to receive clopidogrel or aspirin monotherapy. The primary endpoint was a composite of all-cause death, myocardial infarction, or stroke. RESULTS: A total of 5,506 patients, including 1,002 females and 4,504 males, were enrolled in South Korea. Females had a higher risk profile than males; however, the incidence of the primary endpoint did not differ significantly between females and males (6.7% vs 5.2%, adjusted hazard ratio [HR] 0.89, 95% confidence interval [CI]: 0.62-1.28; p=0.537). Clopidogrel, compared with aspirin, significantly reduced the primary endpoint in females (4.3% vs 9.4%, adjusted HR 0.45, 95% CI: 0.24-0.85; p=0.014) but not in males (4.4% vs 6.0%, adjusted HR 0.77, 95% CI: 0.56-1.07; p=0.116). There was no significant interaction between sex and the antiplatelet therapy (p for interaction=0.288). CONCLUSIONS: In patients with remote PCI and a high risk of recurrent ischaemic events, clopidogrel monotherapy showed a directionally consistent reduction in the composite endpoint of all-cause death, myocardial infarction, or stroke compared with aspirin in both females and males. No significant sex-by-treatment interaction was observed, supporting the consistency of the treatment effect across sexes.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.4244/EIJ-D-26-00332"
+ },
+ {
+  "idx": 68,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Microbiome-Targeted Interventions for Early Cardiometabolic Prevention: A Systematic Review and Meta-Analysis in Children and Adolescents.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cardiometabolic disease develops across the life course, making childhood critical for cardiovascular prevention. Although microbiome-targeted interventions improve some cardiometabolic outcomes in adults, whether similar interventions influence cardiometabolic risk during childhood remains uncertain. This systematic review and meta-analysis evaluated microbiome-targeted interventions for cardiometabolic outcomes in children and adolescents. METHODS: A systematic search of PubMed, MEDLINE, Embase, Cochrane CENTRAL, Web of Science, and CINAHL was conducted. Randomised controlled trials assessing dietary interventions, fecal microbiome transfer, prebiotics, probiotics, or synbiotics in participants aged 1 month-19 years were included. Cardiometabolic outcomes were grouped as: adiposity, lipids, liver function, inflammation, glycaemic regulation, and blood pressure. Inverse-variance weighted random-effects meta-analysis with restricted maximum likelihood produced pooled estimates. Sources of heterogeneity (age, sex, and intervention duration) were assessed by meta-regression (PROSPERO CRD42022321814). RESULTS: Twenty-one of 28 included studies were meta-analysed. Compared with placebo, body mass index z-score (Hedges' g=-0.36, 95% CI -0.64 to -0.08) and C-reactive protein (g=-0.68, -1.27 to -0.09) decreased following microbiome-targeted interventions, with a borderline reduction of alanine aminotransferase (g=-0.33, -0.66 to 0.00); body fat percentage, lipid outcomes, insulin resistance, and blood pressure did not change significantly. In a multivariate analysis across pre-specified cardiometabolic markers, a small overall reduction was observed (g=-0.21, -0.33 to -0.10). CONCLUSIONS: The pattern of responses to microbiome-targeted interventions was consistent with greater effects on early biological components of paediatric cardiometabolic disease, including adiposity, hepatic dysfunction and systemic inflammation. Evidence for downstream cardiometabolic risk factor modification was limited. Longer, targeted trials are needed to confirm clinical relevance.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag500"
+ },
+ {
+  "idx": 73,
+  "journal": "J Am Heart Assoc",
+  "title": "Comparison of Health Status Among Patients With Type 1 Myocardial Infarction and Type 2 Myocardial Infarction: The CHAMP-MI Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Improving health status is a fundamental goal after myocardial infarction (MI). Whether health status differs between type 1 and type 2 MI is unknown. METHODS: In this prospective study, 150 patients hospitalized with type 1 (n=75) and type 2 MI (n=75) were enrolled. Health status was assessed at baseline, 1, and 4 months using the EuroQol 5-Dimension 5-Level visual analogue scale, 7-item Seattle Angina Questionnaire, Patient-Reported Outcomes Measurement Information System Physical Function, Patient-Reported Outcomes Measurement Information System Fatigue, FRAIL Scale, and Patient Health Questionnaire-9. RESULTS: A total of 149 baseline, 92 one-month, and 92 four-month assessments were analyzed. Patients with type 2 MI were older, were more frequently women, and had more comorbidities. Baseline health status was similar between type 2 and type 1 MI (EuroQol 5-Dimension 5-Level visual analog scale, 66.20±22.17 versus 69.36±20.67; P=0.37). At 1 and 4 months, the EuroQol 5-Dimension 5-Level visual analog scale was lower for type 2 MI, and adjusted analyses demonstrated less improvement (difference, - 4.8 points; P=0.04). Patients with type 2 MI had lower physical function and greater frailty throughout follow-up. Baseline fatigue and depression were similar but modestly worse for type 2 MI at follow-up. Baseline 7-item Seattle Angina Questionnaire scores were higher for type 2 MI but were similar between groups at follow-up. CONCLUSIONS: Although baseline overall health status was similar, patients with type 2 MI experienced smaller improvements in health status and reported a greater burden of frailty and impaired physical function over 4 months. These findings highlight the need to address health status domains beyond angina after type 2 MI.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.050146"
+ },
+ {
+  "idx": 78,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Sport, exercise, and physical activity in children with cardiovascular disease. A Clinical Consensus Statement of the European Association of Preventive Cardiology (EAPC) of the ESC, the Association of Cardiovascular Nursing & Allied Professions (ACNAP) of the ESC, and the Association for European Paediatric and Congenital Cardiology (AEPC).",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Regular physical activity offers numerous benefits to children's health and well-being and is essential for reducing cardiovascular risk in children with cardiovascular disease. Despite increasing evidence supporting its benefits, many young patients remain insufficiently active because of concerns regarding exercise related risks, limited expertise. This clinical consensus statement provides practical guidance for the prescription of exercise and physical activity in children and adolescents aged 6 to 17 years with cardiovascular disease. The document aims to bridge the gap between evidence supporting the benefits of physical activity and its implementation in daily clinical practice, promoting safe participation in sport and exercise across a broad spectrum of cardiovascular conditions. This consensus statement outlines an individualised, patient-centred approach to exercise prescription based on clinical assessment, cardiovascular risk stratification, and the FITT principle: frequency, intensity, time, and type. Specific recommendations are provided for congenital and acquired heart disease, cardiomyopathies, arrhythmias, pulmonary hypertension, cardio-oncology patients, and children with physical disabilities or syndromes. The document emphasises the importance of multidisciplinary care, periodic follow up, exercise testing when indicated, and tailored programs adapted to the child's clinical condition, developmental stage, and personal preferences. The overarching goal is to encourage safe and enjoyable participation in physical activity, improve quality of life and functional capacity, and foster lifelong healthy behaviours in children with cardiovascular disease.",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag497"
+ },
+ {
+  "idx": 83,
+  "journal": "J Am Heart Assoc",
+  "title": "Stroke Burden Attributable to Risk Factors in the Americas, 1990 to 2021: A Temporal Trends Analysis From the GBD Study 2021.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Stroke burden varies across the Americas, yet data on modifiable risk factor contributions remain limited. METHODS: Using GBD (Global Burden of Disease) study 2021 data, we analyzed stroke mortality and disability-adjusted life-year (DALY) rates attributable to 23 modifiable risk factors across 39 countries and territories in the Americas. Age-standardized rates were compared by sex, stroke subtype, region, and Socio-Demographic Index; age-specific estimates used 5-year groups (25-95+ years). Trends were assessed using average annual percentage change (AAPC) from Joinpoint regression. RESULTS: In 2021, 78.8% (95% uncertainty interval, 70.1%-85.9%) of stroke deaths and 76.9% (68.2%-83.6%) of DALYs were attributable to the 23 risk factors combined. High systolic blood pressure was the leading contributor, accounting for 20.87 attributable deaths (95% uncertainty interval, 15.17-25.80) and 453.30 DALYs (333.16-556.41) per 100 000, representing 54.8% of deaths and 52.2% of DALYs. From 1990 to 2021, the largest reductions occurred for household air pollution from solid fuels (deaths AAPC, -5.09% [95% CI, -5.17 to -5.02]; DALYs AAPC, -4.92% [-4.98 to -4.86]) and secondhand smoke (deaths AAPC, -3.45% [-3.49 to -3.41]). Reductions were minimal for high body mass index (deaths AAPC, -0.54% [-0.59 to -0.49]; DALYs AAPC, -0.42% [-0.46 to -0.37]), high fasting plasma glucose (deaths AAPC, -1.10% [-1.14 to -1.06]), and dietary risks; high body mass index burden increased in the Caribbean, notably in Haiti and the Dominican Republic. Stroke deaths attributable to high temperature increased >3.5% annually (AAPC) in Panama, Jamaica, and the Dominican Republic. High systolic blood pressure burden remained highly unequal, with age-standardized death rates of 10.42 per 100 000 in high-Socio-Demographic Index versus 109.33 in low-Socio-Demographic Index countries. CONCLUSIONS: Stroke burden attributable to modifiable risk factors declined overall, but marked disparities persisted. High systolic blood pressure remained dominant, whereas stalled or increasing burden from obesity, metabolic, and dietary risks highlights the need for equity-focused prevention across the Americas.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.047114"
+ },
+ {
+  "idx": 88,
+  "journal": "J Am Heart Assoc",
+  "title": "15-Hydroxyeicosatetraenoic Acid and G-Protein Coupled Receptor 39 Together Orchestrate Coronary Autoregulation: A Comprehensive Metabolomic Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Coronary autoregulation is the ability of the normal heart to maintain constant coronary blood flow (CBF) over a wide range of coronary driving pressures (CDPs). Despite being vital for survival, the mechanism of coronary autoregulation is unknown. We hypothesized that G-protein coupled receptor 39 (GPR39), present in vascular smooth muscle cells, together with its endogenous agonist 15-hydroxyeicosatetraenoic acid orchestrate coronary autoregulation. METHODS: We created coronary stenoses of varying degrees in open-chest, anesthetized dogs, where we measured CBF and CDP. In a subset of animals, coronary venous blood was sampled for eicosanoid, adenosine, endothelin-1, polyunsaturated fatty acids, and prostaglandins levels. Stenoses were recreated during intravenous administration of VC108, a specific GPR39 antagonist, and systemic, pulmonary, and coronary hemodynamics measured. RESULTS: GPR39 was identified in coronary arterioles by immunohistochemistry and in heart tissue by western blot. In-vivo, 15-hydroxyeicosatetraenoic acid correlated the best (r2=0.56, P=0.0003) with CDP over the autoregulatory range using a linear mixed-effects model. Before administration of VC108, CBF did not change within the autoregulatory range. VC108 had no effect on systemic and pulmonary hemodynamics but increased CBF (P=0.02 versus vehicle) by decreasing coronary microvascular resistance (P=0.01 versus vehicle), indicating that GPR39 participates in control of normal coronary vascular tone. With VC108, coronary autoregulation was abolished, and CBF became CDP dependent (r2=0.9562, P=0.0039). CONCLUSIONS: GPR39 and its endogenous agonist 15-hydroxyeicosatetraenoic acid together orchestrate coronary autoregulation when CDP is reduced. These novel findings provide a mechanism for coronary autoregulation and could direct pharmacological treatment of various coronary syndromes in humans.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.048864"
+ },
+ {
+  "idx": 93,
+  "journal": "J Am Heart Assoc",
+  "title": "Effect of Continuous Positive Airway Pressure on Left Atrial Volume Index in Patients With Stroke and Obstructive Sleep Apnea: A Randomized Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Obstructive sleep apnea is associated with left atrial enlargement, a predictor of stroke. We hypothesized that continuous positive airway pressure (CPAP) would reduce the left atrial volume index (LAVI) and modify its longitudinal trajectory in patients with stroke and obstructive sleep apnea. METHODS: Patients with stroke and obstructive sleep apnea were randomized to standard care plus CPAP or standard care alone. Coprimary outcomes were absolute 12-month change and longitudinal trajectories of LAVI and N-terminal pro-B-type natriuretic peptide (NT-proBNP), assessed at baseline and 3, 6, and 12 months. Functional outcomes were assessed at 3, 6, and 12 months. RESULTS: Seventy-one participants were randomized (35 CPAP, 36 control). LAVI did not change significantly from baseline to 12 months in either group, and the between-group difference in 12-month LAVI change (control-CPAP) was nonsignificant (mean difference, 0.5 mL/m2 [95% CI, -3.2 to 4.1 mL/m2]; P=0.804). A linear mixed-effects model for LAVI revealed a significant group×time interaction (P=0.005). NT-proBNP declined in the CPAP group (P=0.029) without between-group differences. Among 63 participants who completed follow-up, a significant quadratic interaction was observed, with a downward LAVI trajectory in the CPAP group and an upward trajectory in controls after 6 months (P=0.020). A modified Rankin Scale of 0 at 12 months was more frequent with CPAP (46.9% versus 22.6%; P=0.043). CONCLUSIONS: In participants with stroke and obstructive sleep apnea, CPAP did not significantly reduce 12-month LAVI compared with control; however, LAVI trajectories diverged over time. Among those who completed follow-up, complete neurologic recovery was more frequent with CPAP. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique Identifier: NCT04458779.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050964"
+ },
+ {
+  "idx": 98,
+  "journal": "J Am Heart Assoc",
+  "title": "JAK2V617F Mutation in Ischemic Stroke: Bridging Hematology and Stroke Neurology.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Recent evidence suggests the JAK2V617F mutation may confer an elevated risk of ischemic stroke, likely mediated by systemic inflammation, abnormal cell activation, and endothelial dysfunction. The JAK2V617F mutation is an acquired driver mutation reported in up to 11.3% of patients with ischemic stroke in a recent Danish case-control study. It is the main driver mutation in Philadelphia-negative myeloproliferative neoplasms and even in the absence of overt myeloproliferative neoplasm, an increasingly recognized risk factor for cardiovascular disease. In this review, we summarize current knowledge on the biological role of the JAK2V617F mutation in thrombosis, its contribution to cerebrovascular risk, and the emerging relevance of JAK2V617F in stroke neurology. Current knowledge underscores the value of JAK2V617F testing in stroke patients for early detection of myeloproliferative neoplasms or pre-myeloproliferative neoplasm states and personalized secondary stroke prevention. Further studies are needed to refine risk stratification, evaluate targeted interventions, and determine the clinical utility of integrating JAK2V617F mutation profiling into stroke care.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050497"
+ },
+ {
+  "idx": 103,
+  "journal": "Europace",
+  "title": "Non-invasive assessment of left atrial activation using lead V8 during Bachmann bundle pacing.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: Bachmann bundle pacing (BBP) improves atrial synchrony by advancing LA activation, but quantifying inter-atrial synchronization remains challenging. This study evaluated whether lead V8 reflects posterolateral LA activation time and whether lead V8 can be used to assess the effect of BBP on LA activation. METHODS: Consecutive patients undergoing an electrophysiology study and ablation (Cohort 1) or BBP lead implantation (Cohort 2) were prospectively enrolled. Surface ECGs were recorded with the V5 electrode repositioned to the V8 location (2 cm below the inferior left scapula). LA activation was determined using the steepest negative downslope of the P-wave (NDAT-P-V8). Iso-V8 was defined as the time from P-wave onset to first positive deflection in lead V8. In Cohort 1, a coronary sinus (CS) catheter invasively determined activation timing at the posterolateral LA (mitral isthmus region). In Cohort 2, NDAT-P-V8 and iso-V8 were used to assess the effect of BBP on LA activation. RESULTS: In Cohort 1 (n=50), NDAT-P-V8 strongly correlated with the latest CS activation (r = 0.94, p<0.001). In Cohort 2 (n=50), lead V8 facilitated intra-procedural assessment of LA activation. IAB was corrected in 20/23 (87%), accompanied by shortening of NDAT-P-V8 (from 120±25ms to 82±17ms, p<0.001) and iso-V8 (from 51±22ms to 18±17ms, p<0.001), consistent with earlier LA activation. CONCLUSION: NDAT-P-V8 closely reflects the invasively determined timing of the posterolateral LA activation and provides a simple non-invasive marker to assess the effect of BBP on LA activation. Lead V8 may therefore help to assess and optimize atrial activation with BBP.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag276"
+ },
+ {
+  "idx": 108,
+  "journal": "Lancet",
+  "title": "Understanding peripheral arterial disease in the current era.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Atherosclerotic cardiovascular disease is the primary driver of premature death in global populations in recent decades. Mortality statistics, most publications, and guidelines in the atherosclerotic cardiovascular disease field have traditionally focused on cardiac and cerebrovascular adverse events and causes of death. However, given the increasing prevalence of lower extremity peripheral arterial disease and its expanding burden on global health systems, such an emphasis might represent a skewed perception of vascular risk within the broader atherosclerotic spectrum. Although common risk factors appear similar in all atherosclerotic cardiovascular disease subgroups, several crucial differences exist, including pathophysiological details and lesion patterns, as well as adherence to guideline-based recommendations. Individuals with peripheral arterial disease frequently remain asymptomatic for many years, often decades, and are typically diagnosed only at an advanced stage of the condition. By this time, however, the expected long-term outcomes are already extremely poor. When diagnosed at this point, the overall 5-year mortality is between 30% and 50%, thus even surpassing outcomes of severe cancer and acute myocardial infarction. Compared with cardiac and cerebrovascular disease, peripheral arterial disease receives lower priority in research and clinical practice, which is compounded by poor patient adherence to preventive care, lifestyle modification, and pharmacological therapy. This clinical Series of three papers aims to improve this distressing situation. For this purpose, it is important to recognise the underacknowledgment, underdiagnosis, and undertreatment of peripheral arterial disease and to understand the complex inter-relationships behind it before suitable interdisciplinary measures can be initiated. In this Series paper, we want to reach the broad interdisciplinary community, and above all, those who see these patients every day in general practice and internal medicine. The focus is primarily on the global importance of peripheral atherosclerosis and its drivers. In paper 2 of this Series, readers are introduced to modern complementary therapy, ranging from the optimisation of risk factors and optimal pharmacological therapies to innovative endovascular procedures and traditional surgical treatments. In the sense of integrated care and a stepwise approach, the described therapy alternatives can be combined individually for each patient. Paper 3 of this Series provides readers with a deep insight into the global significance and burden of peripheral arterial disease. Since this disease is primarily characterised by its long-term, chronically progressive course, improving long-term outcomes represents a central aspect of this paper. It aims to further illuminate striking disparities between geographical regions, sexes, and socioeconomic groups. With strong recommendations, this clinical Series can help to guide both clinicians and policy makers towards effective preventive measures.",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1016/S0140-6736(26)00846-9"
+ },
+ {
+  "idx": 113,
+  "journal": "Circ Res",
+  "title": "Neural Mechanisms of Heart-Lung Crosstalk in Chronic Heart Failure.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The cardiac sympathetic afferent reflex and pulmonary spinal afferent reflex amplify sympathetic activity and may contribute to chronic heart failure. We hypothesized that cardiac injury triggers a cardiac nerve-mediated cytokine uptake cascade that propagates neural inflammation in thoracic dorsal root ganglia (DRGs) and drives reciprocal cardiopulmonary afferent sensitization through suppression of voltage-gated potassium channels after myocardial infarction (MI). METHODS: MI was induced in rats by coronary ligation. Molecular profiling, immunofluorescence, tissue clearing, and functional assays were used to assess neuroinflammation and reflex responses. RESULTS: Post-MI, thoracic DRGs showed macrophage infiltration, glial activation, cytokine upregulation, and reduced voltage-gated potassium channel expression. Bulk RNA-sequencing identified enrichment of macrophage activation-related genes, and in vitro studies confirmed that proinflammatory cytokines and activated macrophages suppressed voltage-gated potassium channels and increased DRG neuron excitability. Epicardial injection of biotinylated TNF-α (tumor necrosis factor-α) demonstrated cardiac afferent-mediated cytokine transport to DRGs, inducing macrophage infiltration via a cytokine receptor-dependent mechanism. Anti-inflammatory interventions, including oral minocycline, systemic macrophage depletion, and local epidural delivery of thermo-responsive hydrogel-forming dexamethasone prodrug (ProGel-Dex), significantly reduced DRG neuroinflammation, restored voltage-gated potassium channel levels, and attenuated exaggerated cardiac sympathetic afferent reflex and pulmonary spinal afferent reflex responses. Minocycline and ProGel-Dex also improved cardiac chamber dilation in the post-MI rats. CONCLUSIONS: These findings identify a neural inflammatory cascade involving cytokine uptake, glial activation, and macrophage activation as a contributor to cardiopulmonary afferent sensitization after MI. Targeting DRG inflammation, particularly with sustained dexamethasone delivery using ProGel-Dex, offers a prospect of precision medicine to dampen pathological sympathetic activation and improve cardiac outcomes in chronic heart failure.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCRESAHA.126.328216"
+ },
+ {
+  "idx": 118,
+  "journal": "JACC Adv",
+  "title": "Impact of Downregulated Inflammation via the IL6R Asp358Ala Variant on Atrial Fibrillation Recurrence Following Ablation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Elevated interleukin (IL)-6 levels are associated with the development of atrial fibrillation (AF). Whether downregulation of IL-6 mediated inflammation reduces AF recurrence following ablation is uncertain. OBJECTIVES: Using a common variant in the IL-6 receptor gene, IL6R Asp358Ala, as a genetic proxy for IL-6 receptor blockade, we evaluated the effect of impaired IL-6 signaling on AF recurrence following ablation. METHODS: We identified patients undergoing AF ablation with genomic data in the All of Us Research database. Patients were stratified based on the presence of the IL6R Asp358Ala allele. The primary outcome was AF recurrence, defined as a composite of repeat AF ablation, cardioversion, or new class I/III antiarrhythmic drug, following a 3-month blanking period after ablation. RESULTS: Of the 1,540 patients undergoing AF ablation, 707 patients carried 1 copy of the Asp358Ala variant and 226 carried 2 copies. At a median follow-up of 1,317 days, the AF recurrence rate was 14.2 per 100 patient-years for carriers of Asp358Ala as compared to 15.9 for noncarriers (adjusted HR: 0.93, 95% CI: 0.79-1.10). No difference in recurrence was observed when using an additive model (2 vs 1 vs no variant allele), suggesting no dose-response with the variant. In subgroup analysis of patients with heart failure (n = 312), there was a potential beneficial effect of Asp358Ala on recurrence (adjusted HR: 0.72, 95% CI: 0.52-1.00; interaction P = 0.049). CONCLUSIONS: Targeted IL-6 inhibition may have little impact on long-term AF recurrence in the general AF population undergoing ablation, although there may be potential benefit in heart failure patients.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103285"
+ }
+]

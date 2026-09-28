@@ -1,0 +1,305 @@
+[
+ {
+  "idx": 0,
+  "journal": "Lancet",
+  "title": "Current advancements in the care of peripheral arterial disease: modern approaches to medical, endovascular, and surgical treatment.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "People with peripheral arterial disease (PAD) of the lower limbs are at very high risk of cardiovascular events and therefore the cornerstone of their management is medical therapy and behaviour modification to reduce that risk. The risk of limb loss (through major amputation) is low in people with asymptomatic PAD or intermittent claudication with only a few patients progressing to the most severe form of PAD: chronic limb threatening ischaemia. Supervised exercise therapy is effective in patients with intermittent claudication to improve their walking capacity and avoids the risks associated with revascularisation procedures to improve blood flow to the limb. Although some people with intermittent claudication might need revascularisation, it is overused in this group. Revascularisation of stenosed or occluded arteries can be done by open or endovascular surgery and is generally reserved for people with chronic limb threatening ischaemia who are at highest risk of limb loss because these interventions carry substantial peri-procedural risks and often have minimal durability. Innovative therapies to treat PAD focus on improving health-related quality of life, reducing limb loss, and improving survival but the disease remains challenging due to its impact on multiple arterial levels and in different organ systems (polyvascular disease).",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1016/S0140-6736(26)00845-7"
+ },
+ {
+  "idx": 5,
+  "journal": "J Am Heart Assoc",
+  "title": "Biventricular Pressure-Volume Loop Assessment of Impella 5.5 in an Acute ST-Segment-Elevation Myocardial Infarction Shock Model Unmasks Diminished Right Ventricular Reserve.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The Impella 5.5 is employed to provide left ventricular support in cardiogenic shock. Mechanistic understanding of biventricular relationships is essential in device optimization. Using a porcine model of acute myocardial infarction in tandem with pressure-volume loops, this study aimed to understand the impact of Impella 5.5 on biventricular hemodynamics. METHODS: Using Domestic Yorkshire pigs, an Impella 5.5 was inserted percutaneously under fluoroscopic guidance via carotid/aortic access and an acute myocardial infarction was created. Biventricular pressure-volume loops and derived parameters were generated for each level of support before (n=6) and after myocardial infarction (n=6). RESULTS: With increasing Impella 5.5 support, left ventricular pressure-volume loops shifted left, and right ventricular (RV) loops shifted right. In a healthy porcine heart, the RV adequately compensated for increased preload from the device, demonstrated by increased RV performance at higher P levels. After myocardial infarction, pigs were unable to tolerate speeds beyond P7 from diminished RV stroke volume reserve compared to healthy hearts. Median RV stroke volume percentage change from P1 to P9 before myocardial infarction was from 5.7% (interquartile range, -15.1% to 9.7%) to 50.6% (interquartile range, -11.6% to 60.2; P<0.05), and following acute myocardial infarction from P1 to P7 was from 3.9% (interquartile range, -2.7 to 78.4) to 13.4% (interquartile range, -8.9% to 147.2; P=0.94). CONCLUSIONS: Impella 5.5 speed modulation highlights significant interventricular interactions with opposing biventricular trends. While the heart can mount an improvement in RV stroke volume with increasing Impella 5.5 support, these data suggest an attenuated response following acute myocardial infarction, which may relate to inadequate response to increased preload needed by the device after infarction affecting the interventricular septum.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.047609"
+ },
+ {
+  "idx": 10,
+  "journal": "Lancet",
+  "title": "Peripheral arterial disease: adverse impacts, disparities in outcomes, and the path ahead.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "This is the third paper in the peripheral arterial disease (PAD) Series. The first and second papers in this Series outline that PAD affects over 300 million people worldwide and can be diagnosed by non-invasive tests, as well as that treatment requires medications to reduce modifiable risk factors and that exercise therapy and revascularisation are required in selected patients. In this paper, the devastating effects of PAD at the individual level are described, including chronic pain, functional limitation, loss of independence, impaired physical and mental quality of life, unemployment, and financial instability. Individuals with PAD are also at high risk of major adverse events, including major amputation, myocardial infarction, stroke, and death. The burden of PAD falls heavily on underserved groups, including women, First Nations Peoples globally, other non-White individuals, patients with financial insecurities, and those living in remote areas. Recommendations to advance PAD management are presented and include short-term changes, such as improving disease awareness and introducing multidisciplinary models of care that deliver more holistic medical and rehabilitation care, as well as long-term changes, such as testing whether screening and initiation of early medical management can reduce the burden of PAD. Furthermore, modification of health-care services is needed to provide better access for underserved, rural and remote, First Nations, and low-income populations.",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1016/S0140-6736(26)00847-0"
+ },
+ {
+  "idx": 15,
+  "journal": "J Am Heart Assoc",
+  "title": "Door-to-Cardiac Rehabilitation Time and Clinical Outcomes in Patients Hospitalized for Acute Heart Failure: A Nationwide Japanese Registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cardiac rehabilitation (CR) improves outcomes in heart failure, but optimal initiation timing during acute hospitalization remains undefined. We characterized the dose-response association between door-to-cardiac rehabilitation time and in-hospital outcomes, describing how this pattern appeared to differ between death and functional measures. METHODS: Using the Japanese Registry of All Cardiac and Vascular Diseases-Diagnosis Procedure database, we identified 564 830 patients hospitalized for acute heart failure (2012-2023), categorized into non-CR (n=275 454) and CR groups by door-to-cardiac rehabilitation quartiles: quartile 1 (≤1 day), quartile 2 (2-3 days), quartile 3 (4-5 days), and quartile 4 (≥6 days). Generalized propensity score-based weighting adjusted for 32 confounders. Restricted cubic splines evaluated dose-response patterns among CR recipients. The primary outcome was in-hospital death; secondary outcomes were Barthel Index at discharge and Barthel Index improvement. RESULTS: All door-to-cardiac rehabilitation quartiles showed lower in-hospital death versus non-CR (adjusted odds ratios, 0.39-0.49; all P<0.001). Barthel Index at discharge was higher in quartile 1 to quartile 3 (mean difference, +3.2 to +3.8 points), with a smaller difference in quartile 4. Spline analysis revealed nonlinear associations: The mortality nadir was observed at 6.1 days, whereas functional measures showed the most favorable associations at 3.3 days. Sensitivity analyses addressing immortal time bias yielded consistent mortality results. CONCLUSIONS: CR was associated with a lower in-hospital mortality rate across all timing quartiles. The association pattern appeared to differ by outcome domain: Functional measures showed more favorable associations with earlier initiation (within 2-3 days), whereas a lower mortality rate was observed across a broader window. These findings warrant prospective evaluation.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.051493"
+ },
+ {
+  "idx": 20,
+  "journal": "Circulation",
+  "title": "Real-World Experience With the Extravascular Implantable Cardioverter Defibrillator Through 1 Year: The Enlighten Post Approval Registry Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The extravascular implantable cardioverter defibrillator (EV-ICD) was developed to provide defibrillation and antitachycardia pacing therapy without the need for intravascular lead placement. Premarket clinical trials reported EV-ICD safety and efficacy through 3 years, but a real-world assessment of the Aurora EV-ICD system, which includes a novel sensing discriminator, is needed. The objective of this analysis was to assess real-world therapy efficacy and safety of the EV-ICD through 1 year. METHODS: Enlighten: The EV-ICD Post Approval Registry is a prospective, global, real-world registry that included patients who underwent an EV-ICD implantation attempt. The main safety analysis was freedom from all system- or procedure-related major complications through 1 year. Event rates at 1 year were calculated using the Kaplan-Meier method. RESULTS: EV-ICD system implantation was attempted by 168 implanters in 787 patients (49.1±15.2 years old; 28.7% women; 34.1% secondary prevention). Tunneling and lead placement in the substernal space were achieved in 781 of 787 patients (99.2%), with 758 patients (96.3%) remaining implanted following defibrillation and electrical testing. One-year freedom from major system- or procedure-related complications was 89.1% (95% CI, 86.3%-91.3%). The 1-year rate of first appropriate therapy (shock, antitachycardia pacing, or both) was 7.3% (95% CI, 5.5-9.6). Shock success for discrete spontaneous episodes was 100% (61 of 61), and the generalized estimating equations antitachycardia pacing success rate, to account for multiple episodes per patient, was 74.2% for monomorphic ventricular tachycardia. The 1-year rate of first inappropriate shock was 7.1% (95% CI, 5.4-9.4), with noncardiac oversensing as the main cause (40.5% of inappropriately shocked episodes). CONCLUSIONS: In the largest prospective worldwide cohort of patients with an EV-ICD to date, both antitachycardia pacing and shock therapy were effective, while the rate of major complications agreed with the premarket experience through 1 year. These data demonstrate that positive outcomes of the EV-ICD are retained in everyday clinical practice in a large, global cohort with an expanded number of implanters. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT06048731.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.080942"
+ },
+ {
+  "idx": 25,
+  "journal": "J Am Heart Assoc",
+  "title": "Regulators of Mineralization and Long-Term Progression of Aortic Valve and Mitral Annular Calcification: MESA.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Aortic valve calcification (AVC) and mitral annual calcification (MAC) may progress to aortic and mitral stenosis in older adults. The role of major mineralization regulators MGP (matrix Gla protein), FGF-23 (fibroblast growth factor-23), and fetuin-A in long-term progression of AVC and MAC remains unexamined. METHODS: We measured blood levels of dp-ucMGP (n=2663) at study baseline and evaluated these concurrently with prior baseline measures of FGF-23 (n=6547) and fetuin-A (n=2550) in relation to AVC and MAC quantified on ≤3 serial computed tomography scans over 9.4 (interquartile range, 9.0-9.8) years in MESA (Multi-Ethnic Study of Atherosclerosis). We used linear mixed-effects models to simultaneously assess the incidence and progression of AVC and MAC. RESULTS: Our objective was to investigate the association of circulating dephosphorylated-uncarboxylated (dp-uc) MGP, reflecting vitamin K deficiency/diminished MGP anticalcific capacity; FGF-23, a phosphaturic hormone; and fetuin-A, a calcium-phosphate solubilizer, with long-term incidence and progression of AVC and MAC. After adjustment for demographic and clinical characteristics, dp-ucMGP was associated with higher annual incidence/progression of AVC (0.94 [95% CI, 0.42, 1.46] Agatston units/y) and MAC (3.90 [95% CI, 1.06, 6.74] Agatston units/y); FGF-23 with higher annual incidence/progression of MAC (2.61 [95% CI, 0.50, 4.72] Agatston units/y); and fetuin-A with lower annual incidence/progression of AVC (-0.89 [95% CI, -1.55, -0.23] Agatston units/y (all per SD increment in regulator). CONCLUSIONS: In this multiethnic sample, dp-ucMGP and FGF-23 were associated with higher, and fetuin-A with lower, long-term incidence/progression of valvular or annular calcification. This has implications for therapeutic trials of calcific valvular disease, particularly targeting vitamin K supplementation to individuals with higher dp-ucMGP levels.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.042370"
+ },
+ {
+  "idx": 30,
+  "journal": "Heart Rhythm",
+  "title": "Acute Effects of Physical Exercise in Patients with Arrhythmogenic Cardiomyopathy Harbouring Plakophilin-2 Variants.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Despite the connection between physical exercise and arrhythmogenic right ventricular cardiomyopathy (ARVC), there is no data on the safety and suitability of exercise for patients. OBJECTIVE: To quantify the incidence and complexity of premature ventricular contractions (PVC) and cardiometabolic load during different exercises in ARVC patients with pathogenic plakophilin-2 variants. METHODS: Twenty-five participants with definite ARVC (9 female/16 male) performed different exercises while cardiorespiratory function was monitored. Resistance exercises included two-legged squats and unilateral biceps curls, while endurance exercise included walking and cycling at heart rate (HR) of 80, 100 and 120 bpm. Each activity was followed by 10 min of recovery. RESULTS: PVC burden more than doubled (p < 0.001) during the early recovery phase compared with the active exercise phases, as did the occurrence of ≥ 3 PVC morphologies (52 vs 84%, p = 0.03). Only unilateral biceps curls did not increase PVC burden compared with rest (p = 0.361). Resistance exercises combined lower cardiac load and arrhythmic burden for comparable effort levels. Exercise intensity classification showed large fluctuation, from \"light\" to \"high intensity\" for the same task, depending on the metric used. CONCLUSIONS: Early recovery monitoring is essential to properly assess the arrhythmic burden of exercise in PKP-2 ARVC. Small muscle mass exercises showed the lowest PVC burden and cardiac load - surrogate markers of arrhythmic risk and disease progression - and therefore offer a promising path for prescribing exercise in this population. Exercise intensity guidelines for ARVC are insufficiently clear and should be refined.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.09.032"
+ },
+ {
+  "idx": 35,
+  "journal": "J Am Heart Assoc",
+  "title": "Noninvasive Characterization of Myocardial Diseases With Hypertrophic Phenotypes Using Integrated ECG/Echocardiographic Indices.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Indices reflecting the discordance between QRS complex voltages on ECG and left ventricular (LV) wall thickness or LV mass index on echocardiogram (echo) have enabled identification of cardiac amyloidosis (CA) among patients with hypertrophic hearts. However, this evidence comes from studies that have excluded patients with established hypertrophic cardiomyopathy (HCM) and Anderson-Fabry disease (AFD). The aim of this study was to assess the performance of ECG/echo indices in characterizing adult patients with cardiomyopathies and hypertrophic phenotype. METHODS: This was an Italian retrospective, cross-sectional, multicenter study. Data from ECGs and echo of consecutive adult patients with confirmed CA, HCM, and AFD, and an LV wall thickness >12 mm were analyzed to calculate different ECG/echo indices. RESULTS: Of the 1181 patients included (median age, 65 years; 69% men), 35.5% (n=416) had CA, 46.5% (n=594) had HCM, and 14.5% (n=171) had AFD. All ECG/echo indices were able to distinguish CA from other HCM and AFD (P<0.001). The total QRS score/LV mass index was the best performing ECG/echo index for differentiating CA from other hypertrophic phenotypes (accuracy: 83%). The total QRS/maximum LV wall thickness was the best performing index in discriminating between the 3 cardiomyopathies (cutoff values of 6.21 versus 9.81 versus 11.47 in CA, HCM, AFD, respectively; P<0.001 for all comparisons). CONCLUSIONS: ECG/echo indices, particularly total QRS/maximum LV wall thickness, may serve as easily accessible first-line tools to differentiate CA from HCM and AFD. These findings may enable prompt recognition of patients with different cardiomyopathies in everyday clinical practice, both in community-based centers and tertiary care facilities, and to orient subsequent diagnostic workup.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.043647"
+ },
+ {
+  "idx": 40,
+  "journal": "Heart",
+  "title": "Sex differences in early ventricular fibrillation among patients with fulminant myocarditis in a nationwide registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Fulminant myocarditis is a rare but life-threatening condition frequently complicated by malignant ventricular arrhythmias. Data on sex differences in early ventricular fibrillation (VF) in fulminant presentation are limited. METHODS: We conducted a retrospective nationwide multicentre cohort study using the Japanese Registry of Fulminant Myocarditis between 2012 and 2017. Fulminant presentation was defined as prodromal symptoms within 4 weeks and the need for catecholamines and/or mechanical circulatory support within 14 days of admission. The primary endpoint was VF within 30 days after admission. We estimated the 30-day cumulative incidence of VF and used Fine-Gray competing-risk regression (death as the competing event) to evaluate the association with sex. RESULTS: Among 696 patients (40% female), VF within 30 days occurred in 120 (17%). Female patients had a higher 30-day incidence of VF than male patients (22% vs 14%; p=0.006). In multivariable complete-case analysis adjusting for age, left ventricular ejection fraction on admission, estimated glomerular filtration rate and peak creatine kinase, female sex was associated with 30-day VF (subdistribution HR, 1.58; 95% CI 1.09 to WHAT IS ALREADY KNOWN ON THIS TOPIC2.28; p=0.016). Ninety-day all-cause mortality was 36% in female patients and 34% in male patients (p=0.732). CONCLUSIONS: In a nationwide registry of fulminant myocarditis, female sex was associated with a higher risk of early VF, whereas there was no clear evidence of a sex difference in 90-day all-cause mortality. Incorporating sex into early risk assessment may help tailor acute monitoring and management strategies in this high-risk condition.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1136/heartjnl-2026-328039"
+ },
+ {
+  "idx": 45,
+  "journal": "J Am Heart Assoc",
+  "title": "Application of the Ischemic Stroke Phenotyping System 2025 in a Real-World Embolic Stroke of Undetermined Source Cohort: Advantages and Limitations.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The Ischemic Stroke Phenotyping System 2025 (ISPS25) expands the minimum diagnostic evaluation and introduces causality grading to improve stroke classification but lacks formal validation. We assessed its real-world applicability in a large embolic stroke of undetermined source (ESUS) cohort and explored additional potential embolic sources (PESs) not captured by the original framework. METHODS: We conducted a single-center study including consecutive patients with embolic stroke of undetermined source admitted to Niguarda Hospital (Milan, Italy). Two neurologists independently reviewed records, assigned ISPS25 categories (large-artery atherosclerosis, cardioembolism, small-vessel disease, other determined, undetermined) and the highest causality grade (definite/probable/possible); equal-grade categories were classified as multiple causes. Prespecified additional PESs (cardioembolic/large-artery atherosclerosis/other) not included in ISPS25 were collected. We quantified pathogenetic redistribution after ISPS25 application and compared second-pass testing and PES prevalence between ISPS25-reclassified and ISPS25-undetermined patients. RESULTS: Among 802 patients (median age, 69 years; 44.9% women; National Institutes of Health Stroke Scale score, 5), ISPS25 reassigned pathogenesis in 313 (39.0%): cardioembolic, 186 (23.2%); large-artery atherosclerosis, 68 (8.5%); other determined, 54 (6.7%); and multiple causes, 5 (0.6%). Causality was definite in 24 (7.7%), probable in 112 (35.8%), and possible in 177 (56.5%). Undetermined cases (489 [61.0%]) underwent less second-pass testing than reclassified patients (46.2% versus 70.3%, P<0.001) yet more frequently harbored additional PESs (62.0% versus 42.5%, P<0.001) and overlapping PESs (25.1% versus 10.5%, P<0.001). Considering additional PESs, predominantly cardioembolic, as candidate mechanisms reduced undetermined cases to 23.2%. CONCLUSIONS: ISPS25 is feasible and recategorizes many embolic stroke of undetermined source cases, but attribution is largely probabilistic and most patients remain undetermined. Limited extended diagnostics and frequent overlapping PESs reveal gaps in both diagnostic workup and the ISPS25 construct, supporting expansion and further refinement.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050581"
+ },
+ {
+  "idx": 50,
+  "journal": "J Am Heart Assoc",
+  "title": "Role of Inflammatory Markers in the Progression of Arterial Stiffness and Mortality: A Multicenter Longitudinal Cohort Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Inflammation is a well-known driver of cardiovascular disease, but its role in the progression of arterial stiffness remains incompletely defined. METHODS: Individuals undergoing brachial-ankle pulse wave velocity (baPWV) measurements as part of a generalized health examination were identified from a multicenter registry. Cross-sectional and longitudinal associations of white blood cell (WBC) counts and hsCRP (high-sensitivity C-reactive protein) with baPWV were evaluated using multivariable regression models. The association between WBC counts and all-cause mortality was assessed using multivariable Cox regression, and mediation analysis using a counterfactual framework quantified the indirect effect of WBC counts through baPWV. RESULTS: A total of 9517 individuals (median age 52 years, 74.5% men) were included. Both WBC counts and hsCRP were positively associated with higher baPWV (both P<0.001). Among 2347 participants with follow-up measurements (median interval 2.4 years), WBC counts were independently associated with faster baPWV progression (adjusted β-coefficient per 109/L, 2.59; 95% CI, 1.38-3.76; P<0.001), whereas hsCRP had a borderline association with baPWV progression (P=0.047) which was attenuated after adjustment for WBC counts (P=0.284). During a median follow-up of 3.7 years, higher WBC counts were significantly associated with increased all-cause mortality (adjusted hazard ratio, 1.180; 95% CI, 1.009-1.380; P=0.038). Mediation analysis indicated that 7.9% (95% CI, 0.2-15.7%; P=0.043) of this association was explained by higher baPWV. CONCLUSIONS: Higher WBC counts are associated with greater arterial stiffness measured by baPWV, and a modest proportion of the mortality risk related to elevated WBC counts appears to be mediated through increased arterial stiffness.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049194"
+ },
+ {
+  "idx": 55,
+  "journal": "Circ Res",
+  "title": "Pathogenic B-T Cell Axis Driven by BAFF Induces Endothelial Apoptosis in SLE-PAH.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Pulmonary arterial hypertension (PAH) is a fatal complication of systemic lupus erythematosus (SLE), yet the mechanisms linking autoimmune dysregulation to progressive pulmonary vascular remodeling are poorly defined, leading to inadequate therapies. This study investigated BAFF (B-cell activating factor), a key cytokine in SLE, as a potential driver of SLE-PAH pathogenesis. METHODS: BAFF expression was assessed in patients with SLE-PAH and animal models. Humanized BAFF-transgenic mice were generated to investigate the effects of BAFF elevation on serological, hemodynamic, and histological parameters of SLE and PAH. Single-cell RNA sequencing, flow cytometry, histological analyses, and cell-based experiments were performed to elucidate cellular and molecular mechanisms. The therapeutic efficacy of the BAFF-neutralizing antibody Belimumab was tested in 2 distinct SLE-PAH animal models. RESULTS: BAFF was significantly upregulated in both SLE-PAH patient cohorts and animal models. Humanized BAFF-transgenic mice exhibited systemic B-cell hyperactivation and pulmonary infiltration and spontaneously developed hallmark features of both SLE and PAH. Single-cell transcriptomic analysis of lung tissues revealed that BAFF overexpression drove the increase of a novel, disease-specific S100a6+ mature B-cell subset, which orchestrated a pathogenic immune cascade by activating a cytotoxic Gzmk+ CD8+ T-cell population via MHC-I (major histocompatibility complex class I)-mediated antigen presentation and CD80-CD28 costimulation. This B-T cell crosstalk triggered apoptosis of a susceptible endothelial cell subpopulation through Fas/Fas ligand signaling, ultimately culminating in pulmonary vascular remodeling. The BAFF-neutralizing antibody Belimumab effectively ameliorated both autoimmune and cardiopulmonary manifestations in 2 distinct SLE-PAH animal models, while improving survival. CONCLUSIONS: These findings establish BAFF as a key mediator in SLE-PAH, driving a previously unrecognized pathogenic immune axis connecting dysregulated B cells to T-cell-mediated endothelial injury. BAFF inhibition may represent a therapeutic strategy for SLE-PAH.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCRESAHA.126.328338"
+ },
+ {
+  "idx": 60,
+  "journal": "JACC Clin Electrophysiol",
+  "title": "Stellate Ganglion Block Reduces the Incidence of Postoperative Atrial Fibrillation After Coronary Artery Bypass Grafting.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Postoperative atrial fibrillation (POAF) is associated with sympathetic overactivity. Stellate ganglion is a potential target for intervention. OBJECTIVES: The aim of this study was to examine the efficacy of preemptive left stellate ganglion block (SGB) in reducing POAF in patients undergoing coronary artery bypass grafting with cardiopulmonary bypass. METHODS: Patients were randomized to the SGB group or the control group. The primary endpoint was the incidence of POAF within 5 days postoperatively. Secondary endpoints included POAF-associated characteristics and recovery indicators. RESULTS: A total of 124 patients underwent initial randomization, with 108 in modified intention-to-treat and 98 in per-protocol analysis. In modified intention-to-treat analysis, POAF occurred in 18.5% of the SGB group and 44.4% of the control group (OR: 0.288; 95% CI: 0.106-0.731; P = 0.007). Per-protocol analysis yielded consistent results. SGB group showed significantly lower POAF burden, shorter duration of first POAF episode, fewer POAF episodes and antiarrhythmic treatments, decreased C-reactive protein, interleukin-6, high-sensitivity cardiac troponin T, and creatine kinase-MB on certain postoperative time points, and decreased postoperative hospitalization than the control group (all P < 0.05). Exploratory subgroup analyses suggested that the association between SGB pretreatment and lower POAF incidence was more pronounced among patients without diabetes (OR: 0.10; 95% CI: 0.019-0.480; P = 0.004) and those at lower baseline risk of POAF (OR: 0.10; 95% CI: 0.005-0.642; P = 0.040). CONCLUSIONS: In patients undergoing coronary artery bypass grafting with cardiopulmonary bypass, preemptive left SGB was associated with a reduced incidence of POAF within 5 postoperative days. Exploratory subgroup analyses suggested a potentially greater association among patients without diabetes and those at lower risk of POAF.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacep.2026.07.006"
+ },
+ {
+  "idx": 65,
+  "journal": "Circ Res",
+  "title": "Multilaboratory, Blinded, Randomized Trial of Five Cerebroprotectants in Ischemic Stroke.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Negative clinical trials foster therapeutic nihilism and public skepticism, especially if they follow optimistic preclinical results. One way to increase the likelihood of successful clinical trials is to enhance the preclinical testing of new treatments. Recently, multicenter preclinical testing networks have gained attention as one tool to enhance rigor and reduce the likelihood of erroneously recommending a new candidate treatment for advancement to clinical trial testing. METHODS: The SPAN (Stroke Preclinical Assessment Network) consists of 6 research laboratories performing the experiments and 1 coordinating center at which treatments are prepared in a blinded manner, subjects are randomized, and statistical analysis is performed. We conducted a rigorous trial that included both sexes, multiple comorbidities, randomization, concealment of treatment status, blinded outcome assessments, prespecified sample sizes, and comprehensive data tracking. Five promising treatments were evaluated: BPN-27332, a lipoxygenase inhibitor; uric acid, a potent natural scavenger of free radicals; tatCN19o, a peptide inhibitor of activated CaMKII (Ca2+/CaM-dependent protein kinase II); GSK2256294, an inhibitor of sEH (soluble epoxide hydrolase); and NVX-058, an oxygen-carrying compound. A behavioral battery was selected as the end point for the primary analysis. The primary analysis used the modified intention-to-treat population. RESULTS: In total, 1768 rodents (882 females and 886 males) were enrolled: 441 young healthy mice, 444 aging mice, 450 mice with obesity-induced hyperglycemia and metabolic syndrome, and 433 spontaneously hypertensive rats. Data missing due to death before 30 days of follow-up were imputed from the same treatment group, animal model, sex, and stage. Although none of the candidates met the prespecified efficacy boundary, GSK2256294 showed an odds ratio for benefit of 1.28 (95% CI, 0.99-1.65), which was significant at P<0.05. CONCLUSIONS: The second SPAN study reaffirms the importance and feasibility of rigorous, multilaboratory preclinical testing networks to potentially reduce false positives in the development pipeline.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCRESAHA.126.329467"
+ },
+ {
+  "idx": 70,
+  "journal": "Heart Rhythm",
+  "title": "Sex differences in left bundle branch pacing for cardiac resynchronization therapy: novel procedural insights into pacing lead location.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Females have been reported to benefit more than males from biventricular pacing for cardiac resynchronization therapy (CRT). However, whether such sex differences also exist in left bundle branch pacing (LBBP) for CRT and the underlying mechanisms remain unclear. OBJECTIVE: This study aimed to investigate sex differences in LBBP-CRT, with a particular focus on procedural characteristics. METHODS: Patients with heart failure and left bundle branch block who had CRT indications and achieved successful LBBP were retrospectively analyzed. Sex differences in procedural performance and echocardiographic improvement were evaluated. RESULTS: Among 89 patients with successful LBBP, female patients required fewer screw-in attempts (2.0 ± 1.0 vs. 3.2 ± 2.0; P = 0.001), achieved higher rates of left bundle branch trunk pacing (LBTP) (33.3% vs. 9.4%; P = 0.013), and demonstrated shorter paced QRS duration (123.4 ± 14.4 ms vs. 134.3 ± 11.1 ms; P < 0.001) than male patients. At 12-month follow-up, female patients showed greater LVEF improvement (22.3 ± 7.5% vs. 16.5 ± 7.0%; P < 0.001) and a higher super-response rate (75.0% vs. 43.4%; P = 0.003). LBTP was associated with greater LVEF improvement than left fascicular pacing (LFP) in both sexes (P < 0.05). Multivariable logistic regression identified paced QRS duration (OR: 0.94, P = 0.014), LVEDD (OR: 0.87, P = 0.011) and pacing site (LBTP vs. LFP) (OR: 8.32, P = 0.028) as independent predictors of super-response, and mediation analyses suggested that these factors mediated the sex effect on super-response. CONCLUSION: Female patients had a better response to LBBP-CRT, potentially mediated by smaller baseline LVEDD, shorter paced QRS duration, and more frequent LBTP.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.09.045"
+ },
+ {
+  "idx": 75,
+  "journal": "Hypertension",
+  "title": "Research Priorities to Accelerate Global Uptake of Lower Sodium Salt Substitutes.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Excess sodium intake is a modifiable cause of elevated blood pressure and cardiovascular disease. Despite the World Health Organization's recommendation to limit sodium intake <2 g/d, average global consumption exceeds twice this amount. Replacing a portion of sodium chloride with potassium chloride in lower sodium salt substitutes lowers blood pressure and cardiovascular disease risk. Further research will support global scale up. METHODS: We convened 5 international webinars to identify and prioritize research needs to advance global adoption of lower sodium salt substitutes, focusing on 4 domains: safety/efficacy, industry/food technology, implementation, and public policy. Survey data and qualitative feedback were synthesized into a consolidated research agenda. RESULTS: The top identified research priorities were, safety/efficacy: assessing safety among at-risk individuals, defining clinical significance of modest hyperkalemia, and evaluating long-term effects on cardiovascular disease, kidney function, and age-related blood pressure rise; industry/food technology: testing consumer acceptability, assessing functional performance in processed foods, and determining optimal formulations; implementation: determining how to increase stakeholder engagement, improve labeling and messaging, and identify behavioral-economic approaches to encourage lower sodium salt substitutes adoption without increasing sodium intake; public policy: evaluating the potential cost-effectiveness of subsidies, tariff reductions, procurement mandates, and integration with iodization programs, as well as assessing which implementation contexts are best suited to mandatory versus voluntary approaches. CONCLUSIONS: The research priority agenda underscores the substantial opportunity for lower sodium salt substitutes to serve as a transformative, scalable intervention for global cardiovascular disease prevention. Targeted safety/efficacy studies, strategies to ensure consumer receptiveness, cost optimization, and enabling policy frameworks are next steps for widespread implementation.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/HYPERTENSIONAHA.126.27540"
+ },
+ {
+  "idx": 80,
+  "journal": "Heart",
+  "title": "Atrial fibrillation and coronary artery disease: interactions, outcomes and evolving management strategies.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Atrial fibrillation (AF) and coronary artery disease (CAD) are prevalent cardiovascular disorders that increasingly coexist as populations age and cardiometabolic comorbidities rise. Their intersection creates a high-risk phenotype, with substantially higher rates of stroke, acute coronary syndromes, heart failure and mortality than either condition alone. This excess risk reflects shared comorbidities and complex bidirectional interactions whereby AF exacerbates myocardial ischaemia and endothelial dysfunction and CAD promotes atrial remodelling and arrhythmogenesis.Despite advances in antithrombotic and rhythm management strategies, care for patients with coexisting AF and CAD remains challenging. Diagnostic evaluation is often obscured by overlapping symptoms and confounding biomarker and imaging findings. Therapeutic decisions require careful integration of ischaemic and arrhythmic risk, particularly when determining antithrombotic intensity, selecting rate or rhythm control and managing ischaemia in AF-related haemodynamics. The evidence base has evolved rapidly, with short- and long-term antithrombotic studies and rhythm-control trials reshaping practice, prompting re-evaluation of management strategies.This Review synthesises current knowledge on epidemiology, pathophysiology and diagnostic challenges of AF-CAD coexistence and provides an updated integrated framework for therapeutic decision-making. We discuss contemporary antithrombotic strategies, rate and rhythm control, ischaemia management and clinical outcomes as well as highlight emerging evidence and practical considerations.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1136/heartjnl-2026-328218"
+ },
+ {
+  "idx": 85,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Long-term Trends in Upper Gastrointestinal Bleeding and Ischemic Outcomes after Myocardial Infarction.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Invasive management and intensive antithrombotic regimens have decreased ischemic risk after myocardial infarction (MI) at the cost of more bleeding. Of particular concern is upper gastrointestinal bleeding (UGIB), which is both common and preventable, yet not well characterized over time. We aimed to describe trends of UGIB hospitalization in relation to other bleeding and ischemic outcomes as well as to explore associated clinical factors. METHODS: We included patients with acute MI enrolled in the SWEDEHEART registry discharged alive on antithrombotic treatment between 1999 and 2020. Patients were followed for hospitalization for adverse events at one year. Trends were analyzed in 2-year intervals for the overall cohort and subgroups. Standardized event rates for UGIB were calculated to assess the association of changes in demographics, comorbidities, in-hospital procedures and pharmacotherapy. RESULTS: Bleeding hospitalizations increased from 2.4% to 4.5%, peaking at 4.7% in 2013-14, while one-year MACCE decreased from 20.1% to 9.4%. The gastrointestinal tract was the most common bleeding site across all time intervals, with the majority of cases being UGIBs. Percutaneous coronary intervention, dual antiplatelet therapy, potent antiplatelet agents, and direct oral anticoagulants increased over time. Standardized event rates for UGIB suggest that changes in incidence were associated with evolving management strategies. CONCLUSION: Bleeding hospitalizations after MI increased until 2013-14, with UGIB the most common source, while ischemic outcomes declined. These opposing trends were associated with the adoption of invasive management and intensified antithrombotic therapy. Routine tailoring of antithrombotic intensity and systematic gastroprotective measures should be considered in post-MI care.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag508"
+ },
+ {
+  "idx": 90,
+  "journal": "JACC Adv",
+  "title": "Substance Use-Associated Infective Endocarditis Mortality in Young U.S. Adults, 2018 to 2024.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Substance use is a major driver of infective endocarditis (IE) in young U.S. adults, but recent national mortality trends remain unclear. OBJECTIVES: The objective of the study was to characterize trends in substance use-associated IE (SU-IE) mortality among U.S. adults aged 25 to 44 years, with expanded and sensitivity analyses. METHODS: We analyzed Centers for Disease Control and Prevention Wide-ranging Online Data for Epidemiologic Research Multiple Cause of Death data from 2018 to 2024. IE-associated deaths were identified using International Classification of Diseases-10th Revision codes I33.0, I33.9, and I38; SU-IE required concurrent F11, F12, F13, F14, F15, or F19 codes. Mortality rates, overlap proportions, subgroup trends, and joinpoint annual percent changes with 95% CIs were assessed. RESULTS: Among 9,745 IE-associated deaths in adults aged 25 to 44 years, 3,756/9,745 (38.5%) had substance-use overlap. Annual SU-IE deaths peaked at 655/1,604 (40.8%) in 2020 and 655/1,643 (39.9%) in 2021, then declined to 338/1,051 (32.2%) in 2024. The age-adjusted rate decreased from 0.75 per 100,000 (95% CI: 0.69-0.80) in 2021 to 0.41 (95% CI: 0.37-0.45) in 2024. Overlap decreased from 604/1,447 (41.7%) in 2018 to 338/1,051 (32.2%) in 2024. Significant post-2021 declines occurred among females (annual percent change, -23.59%), adults aged 25 to 34 years (-31.73%), adults aged 35 to 44 years (-12.55%), and White adults (-23.46%). American Indian or Alaska Native adults had the highest rates, and nonurban counties exceeded large central metropolitan counties. Among adults aged ≥25 years, 5,967/115,096 (5.2%) IE-associated deaths met the SU-IE criteria, including 2,211/5,967 (37.1%) among those aged ≥45 years. CONCLUSIONS: SU-IE mortality in young U.S. adults declined after 2021 but remained marked by demographic and geographic disparities.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103181"
+ },
+ {
+  "idx": 95,
+  "journal": "JACC Adv",
+  "title": "Ivabradine Use and Exercise Capacity Post-Atrial Switch Repair for Transposition of Great Arteries.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: There are few proven therapies for improving exercise capacity in patients with transposition of the great arteries who have undergone an atrial switch repair. OBJECTIVES: The objective of the study was to evaluate the effect of heart rate lowering using ivabradine on exercise capacity and quality of life in this cohort. METHODS: In this single-center, randomized, double-blind, crossover study, patients were randomized to ivabradine or placebo for 4 weeks then crossover treatment for 4 weeks. A cardiopulmonary stress test and quality of life assessment were performed at baseline then at weeks 4 and 8. Estimates of difference were described using a mixed effects model. RESULTS: A total of 19 patients were eligible and 10 patients completed the study. Compared to placebo, ivabradine treatment was associated with lower heart rate at baseline (65 ± 3 beats/min on ivabradine vs 79 ± 5 beats/min on placebo, difference -14.6 [-24, -5]; P = 0.008) and at peak exercise (131 ± 7 beats/min vs 146 ± 7 beats/min, difference -15.3 [-24, -6]; P = 0.003). Peak oxygen consumption was 20.4 ± 1.2 mL/kg/min on ivabradine vs 19.2 ± 1.2 mL/kg/min on placebo (difference +1.2 [-0.09, 2.6]; P = 0.06). Peak oxygen pulse was higher on ivabradine compared to placebo (12.5 ± 1.2 vs 10.7 ± 1.2 mL/beat, difference +1.7 [0.9, 2.6]; P = 0.002). Visual analog score was 73.5 ± 5.6 on ivabradine vs 62.5 ± 5.6 on placebo (mean difference 11.0 [-1.6, 23.6]; P = 0.08). One patient developed symptomatic bradycardia and one patient experienced phosphenes. CONCLUSIONS: Ivabradine use in patients with transposition of the great arteries and atrial switch repair lowered peak heart rate with exercise and was associated with a higher oxygen pulse. (Effect of Ivabradine use on exercise capacity in patients with transposition of the great arteries [TGA] post atrial switch repair; ACTRN12621000196842).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103276"
+ },
+ {
+  "idx": 100,
+  "journal": "Europace",
+  "title": "Sphingomyelin as a key negative mediator in atrial fibrillation via lipid proﬁling analysis and functional identiﬁcation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Atrial fibrillation (AF) has emerged as one of the most prevalent cardiac arrhythmias globally, with its incidence continuously rising, thereby elevating it to a major public health concern. The heart is known for its high lipid content, and disorders or abnormalities in lipid metabolism are frequently associated with cardiovascular diseases. This study aims to investigate the regulatory roles of lipids in AF. METHODS AND RESULTS: Using tree-based ensemble learning-assisted lipidomics, sphingomyelin was identified as a key differential metabolite and found to be significantly reduced in AF patients. Exogenous supplementation of sphingomyelin significantly attenuated Ach-CaCl2- and Ang II-induced AF, fibrosis, and inflammation in mice. Furthermore, decreased sphingomyelin levels were attributed to increased activity of sphingomyelin phosphodiesterases (SMPDs) under AF conditions. Mechanistically, RNA-Seq analysis demonstrated that sphingomyelin inhibits AF-induced activation of the Rap1 signaling pathway, a finding corroborated by overexpression and knockdown of RAP1 in vivo. CONCLUSION: Together, these findings highlight the therapeutic potential of sphingomyelin and SMPD inhibitors in mitigating AF through inhibition of the Rap1 signaling pathway, thereby establishing the targeting of sphingomyelin metabolism as a viable and novel treatment strategy for AF.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag270"
+ },
+ {
+  "idx": 105,
+  "journal": "Nat Cardiovasc Res",
+  "title": "Gut microbiome shifts in chronic systolic heart failure are associated with disease severity and clinical improvement.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "The contribution of the gut microbiome to chronic heart failure (HF) remains poorly defined. We performed integrated microbiome and host multi-omic profiling of adults with chronic systolic HF due to nonischemic cardiomyopathy (n = 59) and healthy participants (n = 50), including longitudinal sampling in some cases. Here we show that patients with HF have depletion of anti-inflammatory Bifidobacterium and reduced short-chain fatty acid biosynthetic potential, alongside altered microbiome-immune system interactions. Longitudinal analysis revealed that higher Bifidobacterium abundance was associated with clinical improvement. Multi-omic integration prioritized indole-3-propionic acid (IPA), a gut metabolite with cardioprotective properties, as a candidate mechanistic link. We confirmed that Bifidobacterium species can produce IPA in vitro and circulating IPA levels were associated with milder HF severity. Together, these findings define gut microbiome alterations in chronic systolic HF, identify candidate microbiome biomarkers of disease severity and trajectory, and suggest microbiome-derived metabolites as potential therapeutic targets.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s44161-026-00854-y"
+ },
+ {
+  "idx": 110,
+  "journal": "Heart Rhythm",
+  "title": "Peri-Procedural Ischemic Stroke in Patients Undergoing Ventricular Tachycardia Ablation: Incidence, Predictors, and Impact on Mortality.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Ventricular tachycardia (VT) ablation is an established treatment for recurrent VT; however, the prognostic significance of peri-procedural ischemic stroke (P-IS) in this population remains poorly characterized. OBJECTIVE: This study examined the incidence, predictors, and mortality impact of P-IS among patients undergoing VT ablation using a large nationwide database. METHODS: The Nationwide Readmission Database (NRD) 2016-2021 was queried to identify patients undergoing VT ablation. ICD-10-CM and ICD-10-PCS codes were used to define the study cohort. P-IS was defined as an ischemic stroke occurring during the index hospitalization. Predictors of P-IS and its associated mortality were subsequently analyzed. RESULTS: Of 57,624 patients who underwent VT ablation, 1,758 (3.05%) experienced P-IS. Compared to patients without stroke, those with P-IS were older and carried a significantly higher comorbidity burden (Elixhauser index >6: 50.5% vs. 32.7%, p<0.001). Peri-procedural stroke was associated with a threefold increase in in-hospital mortality. ICU admission (OR 8.76, 95% CI 5.07-15.13, p<0.001), cardiogenic shock (OR 2.25, 95% CI 1.22-4.16, p=0.009), and pulmonary embolism (OR 16.25, 95% CI 1.23-214.56, p=0.034) were independently associated with increased mortality following stroke. CONCLUSION: In this large real-world cohort, P-IS following VT ablation occurred in approximately 3% of patients and was associated with a marked increase in in-hospital mortality. Risk was further amplified by cardiovascular comorbidities and indicators of critical illness. These findings underscore the need for dedicated studies evaluating strategies to mitigate P-IS risk in patients undergoing VT ablation.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.09.025"
+ },
+ {
+  "idx": 115,
+  "journal": "Circ Heart Fail",
+  "title": "Health-Related Quality of Life in Older Patients With Advanced Heart Failure From Before to 2 Years After Heart Transplantation or Long-Term Mechanical Circulatory Support: Findings From the SUSTAIN-IT Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Health-related quality of life (HRQOL) is a key consideration among older patients with heart failure considering advanced therapies. We evaluated change in HRQOL from before to 24 months after heart transplantation (HT) or long-term mechanical circulatory support (MCS) among older (60-80 years) patients and identified factors associated with HRQOL changes. METHODS: Data for this observational study were collected from 13 US sites via patient self-reported measures (EuroQol-5-dimension-3L visual analog scale score: 0=worst-100=best imaginable health state and dimension scores; Kansas City Cardiomyopathy Questionnaire-12 overall summary score/domain scores: 0-100, higher=better health status; other measures) and a 6-minute walk test. Analyses included multivariable linear mixed-effects models. RESULTS: Of 393 enrollees, 305 underwent surgery: HT with pretransplant MCS (HT MCS)=69, HT without pretransplant MCS (HT non-MCS)=92, and long-term MCS=144. Cohort average age=66.9±4.7 years, 78% male, 83% White, 78% married/partnered, and 71% with >high school education. HT non-MCS and long-term MCS groups experienced significant improvement in average visual analog scale scores within 6 months after surgery, sustained through 24 months of follow-up; the HT MCS group EuroQol-5-dimension-3L baseline visual analog scale score was higher than those of the other 2 groups and did not improve significantly through 24 months of follow-up. The average Kansas City Cardiomyopathy Questionnaire-12 overall summary score improved in all 3 groups (baseline-6 months, sustained through 24 months). Compared with HT non-MCS, the main effect of long-term MCS showed decrements of -11.2 (-17.3 to -5.1; P<0.001) points in Kansas City Cardiomyopathy Questionnaire-12 overall summary score and of -9.9 (-16.1 to -3.8; P=0.002) points in EuroQol-5-dimension-3L visual analog scale. CONCLUSIONS: HT MCS improvement in HRQOL varied by measure; HT non-MCS and long-term MCS improvement occurred through 24 months, regardless of measure. Domains of HRQOL improved after these surgeries, varying by surgical strategy and postoperative time period. Long-term MCS was associated with a decrease in HRQOL across time. These findings provide important information for patients considering treatment options.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCHEARTFAILURE.125.013871"
+ },
+ {
+  "idx": 120,
+  "journal": "Heart",
+  "title": "Permanent pacemaker implantation after cardiac surgery and long-term outcome.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Patients undergoing cardiac surgery are at risk of perioperative conduction system damage leading to permanent placement of a cardiac electronic implantable device (CIED) which is a common complication following cardiac surgery. Studies evaluating the long-term outcomes following permanent pacemaker implantation in cardiac surgery patients are contradictory and inconsistent. The current study aimed to evaluate the long-term outcome across the spectrum of cardiac surgery in a nationwide contemporary setting. METHODS: All adult patients in Sweden, without previous CIED who had cardiac surgery between 2006 and 2020 were included. Data was obtained from nationwide registries. Cox proportional hazards models were used to account for comorbid conditions and perioperative characteristics and to evaluate the association between permanent pacemaker or implantable cardioverter defibrillator (ICD) implantation and the risk of all-cause mortality, cardiovascular mortality and heart failure hospitalisation. RESULTS: Among 76 223 patients (mean age 67.8 years, 25% female), 2150 (2.8%) received a permanent pacemaker and 348 (0.5%) received an ICD within 30 days after surgery. During a mean follow-up of 6.8 years (SD 10.7), pacemaker implantation was associated with a higher risk of all-cause mortality (adjusted HR (aHR) 1.09, 95% CI 1.01 to 1.19) and heart failure hospitalisation (aHR 1.36, 95% CI 1.22 to 1.52). Cardiovascular mortality showed a similar but statistically non-significant trend. ICD implantation was not associated with all-cause mortality but was associated with increased risks of heart failure hospitalisation and cardiovascular mortality. Subgroup analyses did not show any significant interactions between comorbid conditions and outcomes. CONCLUSION: Permanent pacemaker implantation after cardiac surgery was associated with a higher risk of all-cause mortality and heart failure hospitalisation. These findings were consistent across cardiac surgical subtypes and underscore the need for careful long-term surveillance for these patients.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1136/heartjnl-2026-328361"
+ }
+]
