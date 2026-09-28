@@ -348,5 +348,18 @@
    "revista": "Heart Rhythm",
    "url": "https://www.sciencedirect.com/science/article/pii/S1547527126028109"
   }
- ]
+ ],
+ "cerrado_mac": {
+  "fecha": "2026-09-28",
+  "revisados": 45,
+  "correctos": 41,
+  "rotos_jacc_org": [
+   "a14",
+   "a19",
+   "a22",
+   "a44"
+  ],
+  "solucion": "enlaces_directos.py 16 --pii a14 a19 a22 a44 -> ScienceDirect; los 4 verificados en Chrome real",
+  "lancet_a4_a5_a37": "sciencedirect aterriza en el artículo: OK, no hace falta rama de Lancet"
+ }
 }
