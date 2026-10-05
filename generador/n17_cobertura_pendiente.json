@@ -1,0 +1,60 @@
+{
+ "motivo": "nube: el egreso no alcanza sciencedirect.com, doi.org, jacc.org ni eurointervention.pcronline.com (HTTP 000)",
+ "articulos": [
+  {
+   "journal": "Atherosclerosis",
+   "doi": "10.1016/j.atherosclerosis.2026.121916",
+   "pii": "S0021915026012827",
+   "title": "Inflammation and Lipoprotein(a) as Predictors of Cardiovascular Events Across Baseline Risk Levels",
+   "estado": "elegible a priori (original, sección 3 Dislipemia) pero SIN abstract accesible: no indexado en PubMed y Crossref no deposita abstract. Recuperar en el Mac y, si procede, incorporarlo (la sección 3 salió vacía)."
+  },
+  {
+   "journal": "EuroIntervention",
+   "doi": "10.4244/eij-d-26-01027",
+   "title": "Drug-coated balloons in high bleeding risk PCI: can we safely drop the scaffold?",
+   "estado": "abstract pendiente de recuperar en el Mac (curl con User-Agent de navegador; el abstract está en el cuerpo del HTML tras '>Abstract<')"
+  },
+  {
+   "journal": "EuroIntervention",
+   "doi": "10.4244/eij-d-26-00382",
+   "title": "Longitudinal progression of coronary calcium density on serial computed tomography",
+   "estado": "abstract pendiente de recuperar en el Mac (curl con User-Agent de navegador; el abstract está en el cuerpo del HTML tras '>Abstract<')"
+  },
+  {
+   "journal": "EuroIntervention",
+   "doi": "10.4244/eij-d-26-00889",
+   "title": "Percutaneous coronary intervention using sirolimus-eluting balloons in patients at high bleeding risk: the SELUTION DeNovo HBR substudy",
+   "estado": "abstract pendiente de recuperar en el Mac (curl con User-Agent de navegador; el abstract está en el cuerpo del HTML tras '>Abstract<')"
+  },
+  {
+   "journal": "EuroIntervention",
+   "doi": "10.4244/eij-d-26-01084",
+   "title": "Cardiogenic shock with multivessel disease: should we leave non-culprit lesions unattended?",
+   "estado": "abstract pendiente de recuperar en el Mac (curl con User-Agent de navegador; el abstract está en el cuerpo del HTML tras '>Abstract<')"
+  },
+  {
+   "journal": "EuroIntervention",
+   "doi": "10.4244/eij-d-26-00413",
+   "title": "Standardised versus visual assessment of device success after percutaneous coronary intervention",
+   "estado": "abstract pendiente de recuperar en el Mac (curl con User-Agent de navegador; el abstract está en el cuerpo del HTML tras '>Abstract<')"
+  },
+  {
+   "journal": "EuroIntervention",
+   "doi": "10.4244/eij-d-26-00460",
+   "title": "Complexity of coronary artery disease in infarct-related cardiogenic shock and multivessel disease: a substudy of the DanGer Shock trial",
+   "estado": "abstract pendiente de recuperar en el Mac (curl con User-Agent de navegador; el abstract está en el cuerpo del HTML tras '>Abstract<')"
+  },
+  {
+   "journal": "EuroIntervention",
+   "doi": "10.4244/eij-d-26-00326",
+   "title": "Remodelling of distal coronary vessels in chronic total occlusions",
+   "estado": "abstract pendiente de recuperar en el Mac (curl con User-Agent de navegador; el abstract está en el cuerpo del HTML tras '>Abstract<')"
+  },
+  {
+   "journal": "EuroIntervention",
+   "doi": "10.4244/eij-d-26-01050",
+   "title": "Beyond the visual estimate: standardising device success after PCI",
+   "estado": "abstract pendiente de recuperar en el Mac (curl con User-Agent de navegador; el abstract está en el cuerpo del HTML tras '>Abstract<')"
+  }
+ ]
+}
