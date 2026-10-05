@@ -144,10 +144,14 @@ NOTA_TOP3 = ('<p class="intro" style="margin-top:10px;"><b>Nota sobre el bloque 
  'ocupa el Destacado. '
  'La auditoría de cobertura por Crossref (PASO 1b) recuperó el ensayo TRIUMPH-2 de <i>Lancet</i>, que PubMed no había '
  'indexado en el barrido por <i>edat</i>; las ausencias de <i>Lancet</i> y <i>JAMA</i> corresponden a material no '
- 'cardiovascular o de opinión. Quedan pendientes de recuperar en el Mac, por no ser accesibles desde la nube, los ocho '
- 'originales de <i>EuroIntervention</i> de la ventana y el artículo de <i>Atherosclerosis</i> sobre inflamación y '
- 'lipoproteína(a) (n17_cobertura_pendiente.json); este último es el motivo de que la sección de Dislipemia aparezca sin '
- 'novedades esta semana.</p>')
+ 'cardiovascular o de opinión. Los ocho artículos de <i>EuroIntervention</i> de la ventana, que PubMed no indexa a '
+ 'tiempo y la nube no pudo leer, se recuperaron en el Mac desde la web del editor: tres originales con resumen entran '
+ 'en el número (subestudio HBR de SELUTION DeNovo y análisis de éxito del dispositivo de Multivessel TALENT en '
+ 'Intervencionista; subestudio de DanGer Shock en Insuficiencia cardíaca) y desplazan por puntuación a tres '
+ 'Complementarios; los otros cinco son editoriales o cartas de investigación sin resumen. El artículo de '
+ '<i>Atherosclerosis</i> sobre inflamación y lipoproteína(a) sigue sin resumen accesible (no indexado en PubMed y '
+ 'bloqueado en ScienceDirect), por lo que se descarta por la regla del resumen; es el motivo de que la sección de '
+ 'Dislipemia aparezca sin novedades esta semana.</p>')
 head = re.sub(r'<p class="intro" style="margin-top:10px;"><b>Nota sobre el bloque.*?</p>', lambda _m: NOTA_TOP3, head, count=1, flags=re.S)
 head = re.sub(r'da <b>\d+ seleccionados</b> esta semana', f'da <b>{nsel} seleccionados</b> esta semana', head)
 head = re.sub(r'<div class="box">.*?</div>', lambda _m: '<div class="box">' + box_html + '</div>', head, count=1, flags=re.S)

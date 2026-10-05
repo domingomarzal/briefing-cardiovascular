@@ -123,5 +123,31 @@
    "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103295",
    "host": "www.jacc.org"
   }
- ]
+ ],
+ "resuelto": {
+  "fecha": "2026-10-05",
+  "por": "Mac (Chrome real)",
+  "revisados": 42,
+  "rotos_jacc_org": [
+   "a15",
+   "a22",
+   "a27",
+   "a40"
+  ],
+  "accion": "a15, a22, a27 y a40 (jacc.org «Page Not Found») pasan a ScienceDirect con enlaces_directos.py 17 --pii",
+  "cloudflare_interactivo": {
+   "claves": [
+    "a6",
+    "a8",
+    "a24",
+    "a39"
+   ],
+   "nota": "ScienceDirect se quedó en «Just a moment...» tras reabrir (no cuenta como fallo, PASO 7b). Los PII de Lancet (a6, a8) se confirmaron abriendo el mismo PII en thelancet.com; a24 y a39 (Rev Esp Cardiol) quedan sin confirmación visual."
+  },
+  "nuevos": {
+   "a43": "OK",
+   "a44": "OK",
+   "a45": "OK (eurointervention.pcronline.com)"
+  }
+ }
 }

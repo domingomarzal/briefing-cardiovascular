@@ -4,7 +4,7 @@ import json, os, glob
 B = os.path.dirname(os.path.abspath(__file__))
 SEL = {o['key']: o for o in json.load(open(B+'/n17_sel.json'))}
 TXT = {}
-for f in sorted(glob.glob(B+'/n17_data[0-4].json')):
+for f in sorted(glob.glob(B+'/n17_data[0-5].json')):
     TXT.update(json.load(open(f)))
 out, missing = {}, []
 for k, s in SEL.items():

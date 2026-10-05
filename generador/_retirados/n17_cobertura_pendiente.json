@@ -56,5 +56,27 @@
    "title": "Beyond the visual estimate: standardising device success after PCI",
    "estado": "abstract pendiente de recuperar en el Mac (curl con User-Agent de navegador; el abstract está en el cuerpo del HTML tras '>Abstract<')"
   }
- ]
+ ],
+ "resuelto": {
+  "fecha": "2026-10-05",
+  "por": "Mac (curl con User-Agent de navegador)",
+  "incorporados": {
+   "a43": "10.4244/eij-d-26-00889 SELUTION DeNovo HBR (sec 9, 5,25)",
+   "a44": "10.4244/eij-d-26-00413 Multivessel TALENT (sec 9, 4,68)",
+   "a45": "10.4244/eij-d-26-00460 DanGer Shock (sec 5, 4,80)"
+  },
+  "salen_por_top5": [
+   "a17",
+   "a36",
+   "a37"
+  ],
+  "descartados_tipo": [
+   "eij-d-26-01027",
+   "eij-d-26-01084",
+   "eij-d-26-01050 (editoriales/expert review sin abstract)",
+   "eij-d-26-00382",
+   "eij-d-26-00326 (cartas de investigación sin abstract)"
+  ],
+  "atherosclerosis": "10.1016/j.atherosclerosis.2026.121916 sigue sin abstract (no en PubMed; ScienceDirect 403/Cloudflare): descartado por la regla del abstract; Dislipemia queda sin novedades."
+ }
 }
