@@ -1,0 +1,176 @@
+[
+ {
+  "idx": 4,
+  "journal": "Eur Heart J Cardiovasc Imaging",
+  "title": "Peak apical rotation independently predicts left ventricular thrombus following anterior myocardial infarction.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIM: To evaluate the predictive and discriminatory value of peak apical rotation for LV thrombus formation following anterior MI. METHODS AND RESULTS: In a multicentre prospective observational study, peak apical rotation was quantified post-hoc in 270 patients presenting with anterior MI using speckle tracking echocardiography. LV thrombus was identified by echocardiography or CMR during index admission or follow-up. Associations were evaluated using multivariable regression models and discrimination assessed using receiver-operating characteristic analysis.LV thrombus was identified in 33% of the eligible patients. Peak apical rotation was significantly lower in patients with thrombus (5.0° vs 9.8°, p < 0.001). After multivariate adjustment, higher apical rotation was independently protective against thrombus (OR 0.45, p < 0.001), corresponding to an approximately 2-fold increase in thrombus odds for every 1° reduction in rotation. Admission apical rotation also independently predicted delayed thrombus development (0.46, p < 0.001). Apical rotation demonstrated superior discrimination for thrombus compared to LVEF (AUC: 0.91 vs 0.62, p < 0.001), maintaining accuracy within the LVEF ≤40% subgroup (AUC: 0.89 vs 0.48, p < 0.001). CONCLUSION: Impaired peak apical rotation independently predicts and discriminates LV thrombus following anterior MI, outperforming global systolic parameters. Prospective validation is required to establish apical rotation as a tool for risk stratification.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/ehjci/jeag272"
+ },
+ {
+  "idx": 9,
+  "journal": "J Am Heart Assoc",
+  "title": "Lower Cognitive Function in People Aged 60 to 69 Years Is Associated With Future Stroke.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The association between impairment across cognitive domains and incident stroke has not been thoroughly investigated. This study examined the risk of first-time stroke among older adults with lower cognitive function in different cognitive domains and how associations vary by age. METHODS: This longitudinal cohort study used baseline data from GÅS (Good Aging in Skåne) and registry data from the Swedish Board of Health and Welfare. Exclusion criteria were previous stroke or transient ischemic attack, baseline dementia, or no cognitive data. The participants (n=4912) were divided into tertiles on the basis of performance on cognitive tests representing multiple cognitive domains. Cox regression was used to estimate the risk of stroke for the low tertile of cognitive function compared with the high tertile. Age-stratified analysis was performed for participants aged 60 to 69, 70 to 79, and ≥80 years. RESULTS: The studied population consisted of 2203 men, 3094 aged 60 to 69 years, 494 aged 70 to 79 years, and 1184 aged ≥80 years. During the average follow-up time of 12.3 years, 572 of the 4912 participants had a stroke. In the fully adjusted models, participants in the low tertile of perceptual speed had higher risk of stroke (hazard ratio [HR], 1.40 [95% CI, 1.13-1.72]). In age-stratified analysis, higher risk of stroke was observed for participants aged 60 to 69 years in the low tertile of global cognition (HR, 1.86 [95% CI, 1.27-2.69]), episodic memory (HR, 1.68 [95% CI, 1.21-2.33]), and perceptual speed (HR, 1.66 [95% CI, 1.19-2.32]). CONCLUSIONS: Lower cognitive functioning in global cognition, episodic memory and perceptual speed in people aged 60 to 69 years are associated with an increased risk of future stroke.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.048423"
+ },
+ {
+  "idx": 14,
+  "journal": "Circ Res",
+  "title": "Oral KCl Supplementation Safely Reduces Body Na+ Surplus and Blood Pressure.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Potassium-enriched table salt lowers blood pressure (BP) and reduces cardiovascular mortality. Whether these beneficial effects stem from reduced Na+ intake, increased K+ intake, or both is unknown. We tested the hypothesis that oral potassium chloride (KCl) supplementation lowers body Na+ content and BP in patients with essential hypertension (EH) or hyperaldosteronism, independent of salt intake. METHODS: Between February 2024 and February 2025, we conducted a single-arm, prospective, longitudinal study with nonrandomized oral KCl intervention in 40 participants with hypertension. All received personalized (blood K+-adjusted) KCl supplementation (Span-K tablets) for 6 to 9 weeks. After the intervention, participants completed a routine diagnostic workup and were classified with EH or hyperaldosteronism. Primary end point: baseline muscle Na+ surplus in hyperaldosteronism. Secondary end point: interventional muscle Na+ mobilization and BP reduction. RESULTS: Seventeen participants were diagnosed with EH, and 23 with hyperaldosteronism. At baseline, patients with hyperaldosteronism showed higher muscle Na+ content (24.67±2.93 versus 22.48±3.37 mmol/L tissue volume, P=0.023; primary end point). Oral KCl increased 24-hour urine K+ excretion without altering 24-hour urine Na+. KCl supplementation successfully eliminated the muscle Na+ surplus in the hyperaldosteronism group (-1.90 mmol/L tissue volume [CI, -3.20 to -0.60]; P=0.005; secondary end point), lowered blood Na+/K+ ratios in both groups (EH, -5.34 [CI, -7.69 to -2.99]; P=4.6×10-5; hyperaldosteronism, -7.02 [CI, -9.04 to -5.01]; P=2.1×10-8), and reduced systolic BP (EH, -8.33 mm Hg [CI, -14.55 to -2.12]; P=0.010; hyperaldosteronism, -7.35 mm Hg [CI, -12.69 to -2.01]; P=0.008). To account for early study termination, a conservative significance threshold of α=0.025 was implemented, which all end points crossed. CONCLUSIONS: Oral KCl supplementation mobilizes intracellular Na+ stores, corrects pathological Na+/K+ distribution, and lowers BP across hypertension phenotypes. This safe, targeted approach warrants consideration as a scalable public health strategy for cardiovascular disease prevention. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT06569589.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCRESAHA.126.329131"
+ },
+ {
+  "idx": 19,
+  "journal": "Heart Rhythm",
+  "title": "Attenuating Cardiac Sympathetic Tone via Cryoneurolytic Stellate Ganglion Ablation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Stellate ganglion blockade provides temporary control of refractory ventricular arrhythmias by reducing sympathetic flow to the heart. However, current percutaneous approaches are limited by short duration of effect, creating a need for longer-lasting sympathetic modulation without more invasive permanent sympathectomy. OBJECTIVE: To determine the efficacy and durability of stellate ganglion cryoneurolytic ablation in attenuating evoked cardiac sympathetic responses. METHODS: We conducted acute cryoablation studies in 6 Yorkshire pigs and chronic studies in 10 Yucatan minipigs (7 cryoablation, 3 sham controls). Acute studies evaluated hemodynamic responses and myocardial norepinephrine release using fast-scanning cyclic voltammetry. Chronic studies assessed one-month physiological, electrophysiologic, neurochemical, and histologic effects following right stellate ganglion cryoneurolytic ablation. RESULTS: Cryoneurolytic stellate ganglion ablation attenuated evoked cardiac sympathetic responses in both acute and chronic phases. One month following ablation, sympathetic attenuation persisted and was accompanied by significant treatment effects on ventricular repolarization. Sympathetic attenuation remained anatomically restricted to the ablation site, and targeting the T1 component of the stellate ganglion alone was sufficient to eliminate the majority of evoked sympathetic cardiac effects. CONCLUSION: Cryoneurolytic stellate ganglion ablation effectively provides durable cardiac sympathetic modulation, offering a promising intermediate-duration treatment for refractory ventricular arrhythmias.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.09.026"
+ },
+ {
+  "idx": 24,
+  "journal": "Nat Med",
+  "title": "Small quantity lipid-based nutritional supplementation and measles vaccination coverage in children aged 6-23 months: a pragmatic cluster-randomized trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Undernutrition and infectious diseases pose a double threat to child survival, especially in areas with a high malnutrition burden and low vaccination coverage. In this study, we evaluated whether distributing preventive small-quantity lipid-based nutrient supplements (SQ-LNS) alongside routine immunization services may increase vaccine uptake in a pediatric, pragmatic, cluster-randomized controlled trial in northern Nigeria. Twenty geographically defined clusters across two Local Government Areas were randomized 1:1 to the NutriVax strategy (intervention) or standard National Program of Immunization (NPI) services (control). NutriVax provided a monthly ration of SQ-LNS to children aged 6-23 months after routine NPI delivery at primary healthcare centers. The primary outcome was coverage of the first dose of measles-containing vaccine (MCV1) verified by vaccination card among children aged 12-23 months, assessed in an endline population-based household cross-sectional survey 12 months after conducting a similar baseline survey. The endline survey included 1,604 children (801 control, 803 NutriVax); 48% of children surveyed in intervention clusters had ever received SQ-LNS. The odds of receiving card-verified MCV1 were two times higher in the NutriVax arm than in the control arm (odds ratio = 2.08, 95% confidence interval (CI): 1.30-3.35, P = 0.004). The difference-in-differences, cluster conditional analysis indicated a 20.1 percentage-point (pp) increase in MCV1 coverage from baseline (95% CI: 13.7-26.5 pp, P < 0.0001) relative to the control arm. Co-delivering SQ-LNS with routine immunization substantially improved card-verified MCV1 uptake, supporting a scalable strategy to make progress toward targets set by the World Health Organization's Immunization Agenda 2030 in similar settings. ClinicalTrials.gov identifier: NCT06387511 .",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s41591-026-04675-1"
+ },
+ {
+  "idx": 29,
+  "journal": "J Am Heart Assoc",
+  "title": "Clinical Outcomes and Valve Performance of Intra-Annular Self-Expanding Transcatheter Aortic Valve in Valve-in-Valve Procedures: Insights From the NAViV Registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Most evidence for transcatheter aortic valve replacement (TAVR) for valve-in-valve procedures comes from balloon-expandable and supra-annular self-expanding valves. However, data on intra-annular self-expanding valves remain limited. The objectives of this registry were to evaluate the short- and midterm outcomes of ViV-TAVR using the intra-annular self-expanding valve Navitor platform in a real-world setting. METHODS: The NAViV (Navitor Valve-in-Valve) registry is a retrospective, multicenter study that included 200 patients who underwent valve-in-valve TAVR with the Portico/Navitor systems. The primary end point was 30-day device success. Secondary outcomes included intraprocedural technical success, early safety, and all-cause death and major adverse events at 2 years. RESULTS: The cohort had a high-risk profile and a high prevalence of small surgical bioprostheses (internal diameter ≤21 mm in 86% of the patients). Technical success was achieved in 96%, with an in-hospital mortality rate of 2% and early safety at 30 days of 84%. Mean residual gradients after TAVR were low (14 [interquartile range, 10-20] mm Hg), and residual significant aortic regurgitation was rare (1%). Device success was 73.5%, with high residual gradients (≥20 mm Hg) being the main reason for device failure. Two-year survival and major adverse events were 85.6% and 69.8%, respectively; with low residual gradients and baseline significant AR being independently associated with higher survival. CONCLUSIONS: Valve-in-valve TAVR using the Portico/Navitor intra-annular self-expanding valve demonstrates a favorable procedural safety profile, sustained valve performance, and encouraging midterm survival in intermediate- and high-risk populations. Larger and comparative studies are warranted to confirm these findings.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.048519"
+ },
+ {
+  "idx": 34,
+  "journal": "J Am Heart Assoc",
+  "title": "Computed Tomography-Based Periaortic Adipose Tissue Imaging Phenotypes in Type B Aortic Dissection: A Retrospective Case-Control Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The periaortic microenvironment visible on routine computed tomography angiography remains incompletely characterized in type B aortic dissection (TBAD). We evaluated computed tomography angiography-based periaortic adipose tissue (PAAT) phenotypes associated with prevalent TBAD and explored a prespecified Tear Risk Index for post-thoracic endovascular aortic repair aortic dilation. METHODS: This retrospective case-control study included 100 patients with TBAD undergoing primary thoracic endovascular aortic repair and 50 normal controls frequency matched by age and sex. Deep learning-assisted, radiologist-reviewed segmentation quantified multilayer PAAT and aortic morphology. Interreader reproducibility was assessed using intraclass correlation coefficients and Bland-Altman analyses. Group comparisons, receiver operating characteristic analyses, and adjusted logistic regression were performed. RESULTS: Compared with controls, patients with TBAD had larger aortic volume and higher 3-mm PAAT volume, fat attenuation index, and fragmentation index. Aortic volume showed an area under the curve of 0.966 (95% CI, 0.941-0.991); corresponding values for 3-mm PAAT volume, fat attenuation index, and fragmentation index were 0.614, 0.819, and 0.716, respectively. Interreader intraclass correlation coefficients for selected 3-mm PAAT measures ranged from 0.822 to 0.907. Principal TBAD-control PAAT findings remained supported after false discovery rate correction, whereas post-thoracic endovascular aortic repair PAAT differences were not robust. Tear Risk Index showed limited exploratory discrimination for dilation status. CONCLUSIONS: Selected 3-mm PAAT measures characterize a reproducible computed tomography angiography-based imaging phenotype associated with prevalent TBAD and may complement conventional aortic morphology. These findings are hypothesis generating, and Tear Risk Index should not be used as a standalone clinical predictor.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.051823"
+ },
+ {
+  "idx": 39,
+  "journal": "JACC Cardiovasc Interv",
+  "title": "Stenting Technique and Clinical Outcome in True Bifurcation PCI: Insights From the OCTOBER Trial.",
+  "ptypes": [
+   "Journal Article",
+   "Multicenter Study",
+   "Randomized Controlled Trial",
+   "Comparative Study"
+  ],
+  "abstract": "BACKGROUND: Optimal stenting for true coronary bifurcation lesions is widely debated, with few studies using predefined intracoronary imaging. OBJECTIVES: The aim of this study was to assess predictors and outcomes associated with a 1 vs a 2-stent technique and whether optical coherence tomographic (OCT) guidance modified the association with clinical outcomes. METHODS: This OCTOBER (European Trial on Optical Coherence Tomography Optimized Bifurcation Event Reduction; NCT03171311) post hoc analysis included 1,201 patients with true coronary bifurcation treated with percutaneous coronary intervention (PCI). Clinical outcomes were analyzed using multivariable Cox regression. Multivariable logistic regression identified predictors of a 2-stent technique. RESULTS: Clinical indication, left main coronary artery (LMCA) bifurcation, and side branch (SB) lesion severity were the strongest predictors of 2-stent use (acute clinical presentation: adjusted OR: 1.73 [95% CI: 1.33-2.25]; LMCA: adjusted OR: 2.04 [95% CI: 1.38-3.03]; SB lesion length: adjusted OR: 1.06 per mm [95% CI: 1.03-1.09]; SB diameter stenosis: adjusted OR: 1.04 per 1% [95% CI: 1.03-1.05]). In as-treated analysis, a 1-stent technique was associated with a lower 2-year rate of major adverse cardiac events (MACE) than a 2-stent technique (9.0% vs 13.9%; adjusted HR: 1.53; 95% CI: 1.04-2.27), with no interaction with OCT (P for interaction = 0.24). Planned-strategy analyses showed no significant difference in MACE. Among patients treated with a double kissing (DK)-crush technique, angiography-guided DK crush was associated with higher MACE rates compared with OCT-guided DK-crush (HR: 2.42; 95% CI: 1.12-5.24). CONCLUSIONS: Clinical indication, LMCA bifurcation, and SB disease severity predicted 2-stent PCI. MACE did not differ according to planned strategy, whereas actual 2-stent PCI had higher MACE rates, likely reflecting a higher burden of complexity. The lowest event rates were observed with OCT-guided 1-stent PCI.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcin.2026.06.027"
+ },
+ {
+  "idx": 44,
+  "journal": "Circulation",
+  "title": "From Hippocrates to Biologics, The Evolving History of Pericarditis: A Review.",
+  "ptypes": [
+   "Journal Article",
+   "Review",
+   "Historical Article"
+  ],
+  "abstract": "Pericarditis remains a common and clinically relevant cardiovascular condition whose diagnosis and management have evolved substantially over time. Understanding this historical progression provides important context for contemporary practice and emerging therapeutic strategies. Early descriptions, dating back to Hippocrates, framed pericarditis as a clinical observation, with more precise diagnostic characterization emerging in the 19th century through the work of Laennec and later refined by clinicians such as Spodick and Hatle. Initial treatment approaches were largely symptomatic or surgical, including pericardiectomy for advanced constrictive disease. The mid-twentieth century marked a shift toward medical therapy with the introduction of nonsteroidal anti-inflammatory drugs and corticosteroids, which improved symptom control but were limited by high recurrence rates. The advent of echocardiography transformed pericardial disease evaluation by enabling noninvasive diagnosis, hemodynamic assessment, and safer pericardiocentesis. More recently, cardiac magnetic resonance imaging has further advanced care by allowing detailed tissue characterization and improved risk stratification. Randomized trials established colchicine as a cornerstone therapy for both acute and recurrent pericarditis. A major paradigm shift has occurred with the recognition of autoinflammatory mechanisms underlying recurrent disease and the introduction of targeted interleukin-1 inhibition, including anakinra and rilonacept, particularly for refractory cases. Together, these advances reflect a transition from empirical management toward mechanism-based, personalized care. Ongoing progress in imaging, biomarker integration, and targeted immunomodulation is expected to further refine diagnosis, treatment, and long-term outcomes for patients with pericardial disease.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.079230"
+ },
+ {
+  "idx": 49,
+  "journal": "Circ Res",
+  "title": "Acetyltransferase MOF Regulates Macrophage Inflammation in Abdominal Aortic Aneurysms.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Abdominal aortic aneurysms (AAAs) are a life-threatening cardiovascular disease for which there is a lack of therapy preventing aortic rupture. During AAA formation, pathological vascular remodeling is driven by an imbalance of proinflammatory and anti-inflammatory macrophage responses, and mechanisms regulating macrophage-mediated inflammation remain undefined. Recent evidence suggests that males absent on the first (MOF), a histone acetyltransferase, can play a critical role in establishing macrophage phenotype and modulating innate immune response. METHODS: Single-cell RNA sequencing analysis of human AAAs and control tissues was performed to analyze MOF expression in aortic monocyte/macrophages and the inflammatory immune response. Mice underwent 2 murine AAA models: either Ang II (angiotensin II) or topical porcine pancreatic elastase. To investigate the role of MOF in AAA development, targeted inhibition was performed with MG-149 administration or in mice genetically deficient in macrophage-specific MOF (Moff/fLyz2Cre+). Finally, flow cytometry and chromatin immunoprecipitation were conducted to analyze macrophage phenotype and levels of histone (H) lysine (K) acetylation (H4K16ac) in human and murine AAA macrophages. RESULTS: Using single-cell RNA sequencing of human AAA tissues and multiple murine AAA models, we identified that MOF is increased in aortic monocyte/macrophages associated with upregulation of inflammatory transcriptional programs. Mechanistically, TNF-α signaling promotes the induction of MOF, which in turn induces NF-κB-mediated inflammatory gene transcription by increasing the activating H4K16ac mark on gene promoters in infiltrating aortic macrophages. In vivo targeted inhibition of the MOF pathway, with myeloid-specific genetic depletion (Moff/fLyz2Cre+) or pharmacological inhibition in the elastase- and angiotensin II-induced AAA model, preserved macrophage function, decreased elastin fragmentation, attenuated aortic inflammation, and markedly reduced AAA development. CONCLUSIONS: Our study provides important evidence that MOF regulates macrophage phenotypic function and inflammation during human and murine AAA development. Targeting the MOF pathway affords the opportunity to prevent pathological macrophage infiltration within the aortic wall and potentially limit AAA development.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCRESAHA.126.329212"
+ },
+ {
+  "idx": 54,
+  "journal": "J Am Heart Assoc",
+  "title": "S100A9 Inhibition Mediates Aerobic Exercise Benefits in Pulmonary Hypertension.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Previous research has highlighted aerobic exercise as beneficial for patients with pulmonary hypertension (PH) and it is often recommended as a key therapeutic approach. However, the specific mechanisms behind these benefits are not yet fully understood. METHODS: A murine model of hypoxia-induced PH was developed, and the mice underwent 4 weeks of exercise training. The underlying mechanisms were elucidated by utilizing transcriptomic sequencing, in situ immunofluorescence, flow cytometry, cell culture, in vivo mouse experiments, and clinical cohort. RESULTS: Aerobic exercise effectively improved hypoxia-induced pulmonary vascular and right ventricular remodeling. Transcriptomic profiling revealed a marked suppression of inflammatory pathways, with S100A9 identified as the most significantly regulated factor. Under physiological conditions, S100A9 expression is minimal and largely restricted to lung neutrophils; however, hypoxia induces its robust upregulation and widespread distribution, while remaining predominantly neutrophil-associated. Elevated S100A9 promoted immune cell recruitment and impaired pulmonary artery smooth muscle cell function via activation of the TLR4-MyD88-ERK signaling pathway, whereas pharmacological inhibition of S100A9 reduced immune infiltration and restored pulmonary artery smooth muscle cell function. Furthermore, increased S100A9 expression was validated in pulmonary fibrosis-induced PH and in patients with chronic obstructive pulmonary disease associated with PH. The benefits of aerobic exercise in chronic obstructive pulmonary disease associated with PH may be mediated by S100A9 downregulation. CONCLUSIONS: These findings suggest that aerobic exercise alleviates PH by suppressing S100A9-mediated inflammation and vascular remodeling, identifying S100A9 as a biomarker and therapeutic target, and supporting combined exercise rehabilitation and S100A9-targeted therapy for group 3 PH.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.049578"
+ },
+ {
+  "idx": 59,
+  "journal": "JACC Cardiovasc Interv",
+  "title": "Residual Mitral Regurgitation as a Long-Term Predictor of Mortality After Mitral TEER.",
+  "ptypes": [
+   "Journal Article",
+   "Multicenter Study"
+  ],
+  "abstract": "BACKGROUND: The MITRA-PRO registry revealed residual mitral regurgitation (MR) as an important predictor of 1-year and 3-year mortality following mitral transcatheter edge-to-edge repair (M-TEER). OBJECTIVES: The 5-year follow-up of the MITRA-PRO registry (N = 1,491) aimed to assess the impact of residual MR on 5-year mortality. Furthermore, time-dependent predictors of mortality after M-TEER should be assessed. METHODS: Patients with a MitraScore of ≤3 were classified as patients with mild residual MR after M-TEER, while a MitraScore of ≥4 was defined as relevant residual MR. Adjusted HRs were calculated for multivariate analysis of time-dependent predictors. RESULTS: Five-year mortality was significantly lower in patients with mild or less residual MR compared with patients with more than mild residual MR (MitraScore ≤3 group: 55.1% vs MitraScore ≥4 group: 67.7%). The relationship between intraprocedural MitraScore after M-TEER and mortality was almost linear. In patients with degenerative MR, 5-year mortality was 53.1% in the MitraScore ≤3 group and 73.2% in the MitraScore ≥4 group. Regarding functional MR, the corresponding 5-year mortality rates were 55.0% and 64.6%. Mortality predictors after M-TEER were time dependent: Early risk was driven by advanced disease and procedural factors, whereas residual MR became prognostic after 30 days and remained associated with excess long-term mortality. CONCLUSIONS: Residual MR assessed by intraprocedural MitraScore after M-TEER independently predicts 5-year mortality. This finding underscores the importance of achieving optimal MR reduction during M-TEER and supports quantitative multimodal intraprocedural assessment to guide strategy and improve long-term outcomes.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcin.2026.06.034"
+ },
+ {
+  "idx": 64,
+  "journal": "JACC Cardiovasc Interv",
+  "title": "Transcatheter Patent Ductus Arteriosus Closure in Extremely Premature Infants: Transition to the Bedside.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Extremely premature infants (<28 weeks' gestation) with hemodynamically significant patent ductus arteriosus (PDA) may require transcatheter PDA closure (TCPC) when medical therapy fails. Although TCPC is associated with improved respiratory outcomes over surgical ligation, its availability is limited because of the need to transport these critically ill infants to cardiac catheterization laboratories, delaying care and increasing risk. OBJECTIVES: The authors describe the successful transition of TCPC from the catheterization laboratory to the neonatal intensive care unit (NICU) bedside, emphasizing feasibility, safety, and early outcomes. METHODS: The authors conducted a retrospective review of infants at <28 weeks' gestation weighing <2 kg who underwent TCPC between July 2012 and December 2024. The program evolved in 3 phases: traditional laboratory-based TCPC (2012-2021), laboratory-based TCPC using transthoracic echocardiographic guidance only (July to December 2021), and bedside TCPC in the NICU (2022-2024). RESULTS: Of 500 infants, 176 underwent bedside TCPC. These infants were younger (median 20 days vs 29 days) and smaller (820 g vs 1,010 g) than laboratory-treated infants. Bedside procedures were shorter (18 minutes vs 32 minutes) and had reduced radiation exposure (0.019 Gy × cm2 vs 0.068 Gy × cm2; P < 0.001). Procedural success was 100% across all settings. Major complication rates were low (1.7%) and similar across settings. Follow-up (median 6.8 years) showed an 89% survival rate, no residual PDAs, and minimal late complications. CONCLUSIONS: Bedside TCPC is a feasible, safe, and effective approach for managing PDA in extremely premature infants. It eliminates the need for interhospital transport, supports earlier intervention, and may improve outcomes. With appropriate training and experience, bedside TCPC has the potential to become the standard of care across NICUs.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcin.2026.05.040"
+ },
+ {
+  "idx": 69,
+  "journal": "N Engl J Med",
+  "title": "Survodutide Once Weekly in Adults with Obesity and Type 2 Diabetes.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: For persons living with both type 2 diabetes and obesity, weight management may be the most effective therapy for type 2 diabetes. Glucagon-like peptide-1 (GLP-1) receptor agonists have potent weight-reducing effects, and other mechanisms may confer additional benefits. Survodutide is an investigational glucagon receptor-GLP-1 receptor dual agonist with potential weight-reducing and metabolic benefits. METHODS: In this multinational, double-blind, phase 3 trial involving adults with type 2 diabetes and a body-mass index (BMI; the weight in kilograms divided by the square of the height in meters) of 27 or more, we randomly assigned participants in a 1:1:1 ratio to receive once-weekly subcutaneous survodutide (3.6 mg or 6.0 mg) or placebo. The two primary end points were the percent change in body weight and a reduction in body weight of at least 5% from baseline to week 76. RESULTS: Among 752 participants (250 in the 3.6-mg survodutide group, 251 in the 6.0-mg survodutide group, and 251 in the placebo group), the mean age at baseline was 55.7 years, and the mean BMI was 36.5; 49.3% were men. The mean weight change at week 76 according to the treatment-regimen estimand (which assessed effects regardless of whether the trial regimen was discontinued or interrupted or whether other antiobesity therapies were used) was -8.2% (95% confidence interval [CI], -9.2 to -7.2) in the 3.6-mg group, -9.8% (95% CI, -10.8 to -8.8) in the 6.0-mg group, and -3.9% (95% CI, -4.9 to -2.9) in the placebo group; weight reduction of at least 5% occurred in 57.6%, 64.5%, and 35.1% of the participants, respectively (P<0.001 for all comparisons with placebo). The mean change in the glycated hemoglobin level (from a baseline level of 7.4%) was -0.9 percentage points in the 3.6-mg group, -0.8 percentage points in the 6.0-mg group, and -0.2 percentage points in the placebo group. The most common adverse events were gastrointestinal (generally mild to moderate and transient), which occurred in 182 participants (72.8%) in the 3.6-mg group, 195 (77.7%) in the 6.0-mg group, and 97 (38.6%) in the placebo group. CONCLUSIONS: In adults with obesity and type 2 diabetes, survodutide at a weekly dose of 3.6 mg or 6.0 mg resulted in significantly greater weight reduction than placebo. (Funded by Boehringer Ingelheim; SYNCHRONIZE-2 ClinicalTrials.gov number, NCT06066528.).",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1056/NEJMoa2607219"
+ }
+]

@@ -1,0 +1,186 @@
+[
+ {
+  "idx": 0,
+  "journal": "J Am Heart Assoc",
+  "title": "Carotid Plaque-Reporting and Data System for Predicting In-Hospital Ischemic Stroke After Coronary Artery Bypass Graft-Containing Cardiac Surgery: Complementary Value Beyond Stenosis Severity.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Although carotid atherosclerosis is a recognized risk factor, the relationship between plaque characteristics and clinical outcomes after cardiac surgery remains unclear. METHODS: We retrospectively studied 1087 patients undergoing coronary artery bypass graft-containing cardiac surgery between January 2023 and January 2024. Preoperative carotid ultrasound was used to assign Carotid Plaque-Reporting and Data System (Plaque-RADS) grades 1 to 4. The primary outcome was in-hospital ischemic stroke. Given the low number of events, associations were evaluated using Firth penalized logistic regression with limited covariate adjustment. RESULTS: In-hospital ischemic stroke occurred in 14 patients (1.3%). Stroke incidence increased across Plaque-RADS grades from 0% in grade 1 to 0.6%, 2.0%, and 6.3% in grades 2, 3, and 4, respectively (P=0.011). Higher Plaque-RADS grade was associated with greater odds of in-hospital ischemic stroke after adjustment for age, sex, surgical procedure, operative time, and aortic atherosclerotic burden (odds ratio per 1-grade increase, 4.31 [95% CI, 1.72-11.43]; P=0.002). The association was directionally similar among patients with carotid stenosis <50%. In exploratory discrimination analyses, the model including both stenosis and Plaque-RADS had the highest numerical area under the receiver operating characteristic curve, although the incremental gain over either individual parameter was modest. CONCLUSIONS: Higher ultrasound-based Plaque-RADS grade was associated with in-hospital ischemic stroke after coronary artery bypass graft-containing cardiac surgery. Plaque-RADS may provide complementary risk information. These findings should be considered hypothesis generating and require validation in larger prospective cohorts.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.051562"
+ },
+ {
+  "idx": 5,
+  "journal": "J Am Heart Assoc",
+  "title": "Blood Pressure Dipping Status in Chronic Kidney Disease and Association With Adverse Outcomes: A Systematic Review and Meta-Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Nondipping, <10% nighttime blood pressure reduction, is common in chronic kidney disease (CKD). We conducted a systematic review to determine CKD nondipper prevalence, nondipper risk between patients with and without CKD and adverse events associated with nondippers in CKD. METHODS: CKD population studies undergoing an automated blood pressure monitor were searched for on MEDLINE, Embase, and CENTRAL (December 2023), included if they had nondipper information and excluded if they examined only a specific population. Random-effects analysis was conducted to determine prevalence and relative risk (RR) with 95% CI. Risk of bias was assessed with the Joanna Briggs Institute score for prevalence studies and Newcastle-Ottawa Scale for observational studies. A sensitivity analysis excluded studied with a high risk of bias. Heterogeneity was examined using I2 and SD. RESULTS: We included 63 articles with 54 515 patients; 33 825 with CKD and 20 690 without CKD. CKD nondipper prevalence was 0.53 (95% CI, 0.52-0.53, SD=13.5%). Compared with patients with CKD, those without CKD had a lower risk of nondipping status (RR, 0.69 [95% CI, 0.63-0.75], SD=14.1%, P<0.001). Similar findings were seen in the sensitivity analysis. CKD, dippers compared with nondippers, was associated with a lower mortality (RR, 0.60 [95% CI, 0.49-0.72], SD=3.2%, P<0.001), cardiovascular events (RR, 0.63 [95% CI, 0.47-0.85], SD=28.3%, P<0.001), and CKD progression (RR, 0.64 [95% CI 0.55-0.75], SD=14.1%, P<0.001). CONCLUSIONS: Nondipping is prevalent in CKD, with CKD itself a risk factor. Nondipping was associated with mortality, cardiovascular event, and CKD progression. Almost all included studies were retrospective cohorts, with a high heterogeneity found.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.048285"
+ },
+ {
+  "idx": 10,
+  "journal": "JAMA Cardiol",
+  "title": "Global, Regional, and National Burden of Heart Failure, 1990-2023: A Systematic Analysis for the Global Burden of Disease Study 2023.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: Heart failure (HF) is a common condition with substantial geographical variation in its prevalence and underlying etiologies. Consistent and comparable data on the burden of HF within populations are needed to inform health system priorities. OBJECTIVE: To estimate the global burden of HF. DESIGN, SETTING, AND PARTICIPANTS: This cross-sectional study estimates disease burden using Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) methodologies to integrate multiple information sources. Data come from 204 countries and territories from 1990 to 2023 representing the global population with prevalent HF. EXPOSURE: HF and underlying etiologies. MAIN OUTCOMES AND MEASURES: Estimates with 95% uncertainty intervals (UIs) for the prevalence and years lived with disability (YLDs) for HF by age, sex, location, year, and underlying etiology. RESULTS: Globally, there were 56.0 million (95% UI, 49.9-62.2 million) estimated cases of HF in 2023. The estimated prevalence of HF generally increased with age for all locations. While ischemic heart disease and hypertensive heart disease were the 2 most common etiologies globally among older adults, there was substantial variation in etiological pattern by location and age. Congenital heart anomalies and rheumatic heart disease (RHD) were common etiologies in children and young adults, while the proportion of HF due to alcohol use peaked in middle adulthood. Location-specific estimates highlighted regions with higher burden of HF due to specific etiologies, including RHD (south Asia, east Asia, Oceania, southeast Asia, central sub-Saharan Africa, eastern sub-Saharan Africa, southern sub-Saharan Africa, and western sub-Saharan Africa), alcohol use (eastern Europe, Australasia, the Caribbean, and central Europe), and Chagas disease (southern, Andean, tropical, and central Latin America). CONCLUSIONS AND RELEVANCE: Heart failure is a significant global public health burden, and the impact is likely to increase as populations age. However, most HF etiologies can be prevented by interventions that reduce exposure to modifiable risk factors, such as elevated blood pressure, excessive alcohol consumption, and tobacco use. Etiology- and location-specific estimates can provide necessary information for public health officials to determine how best to prioritize interventions to reduce HF disease burden.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1001/jamacardio.2026.4068"
+ },
+ {
+  "idx": 15,
+  "journal": "JACC Cardiovasc Imaging",
+  "title": "Interaction Between Genotype, Phenotype, and Prognosis in Patients With Dilated Cardiomyopathy.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Dilated cardiomyopathy (DCM) is a heterogeneous myocardial disease with variable clinical outcomes. Although both genetic variants and cardiac magnetic resonance (CMR)-derived fibrosis markers are associated with prognosis, their interactions and relative contributions to disease progression remain incompletely understood. OBJECTIVES: This study aims to explore the associations among genetic variants, CMR characteristics, and long-term prognosis in DCM. METHODS: The authors prospectively enrolled patients diagnosed with DCM who underwent whole-genome sequencing and CMR examination. DCM-associated genetic status was classified as TTN variant, non-TTN variant, and genotype-negative. CMR evaluation included cardiac structure and function, late gadolinium enhancement (LGE), and T1 mapping. Clinical outcomes included cardiovascular death/heart transplantation, sudden cardiac death, and arrhythmic events. RESULTS: Of the 837 enrolled patients, 163 (19.5%) carried pathogenic/likely pathogenic variants, including 78 (9.3%) non-TTN and 85 (10.2%) TTN variants. Patients with non-TTN variants demonstrated the greatest fibrosis burden, with higher LGE prevalence (69.2% vs 24.7% in patients with TTN variants and 46.6% in genotype-negative patients, P < 0.001), greater LGE extent, more frequent ring-like and subepicardial patterns, and higher native T1 and extracellular volume fraction (ECV) values. In multivariable Cox regression analysis, non-TTN variants independently predicted cardiovascular death/heart transplantation (adjusted HR: 2.39; 95% CI: 1.46-3.92; P < 0.001) and sudden cardiac death (adjusted HR: 3.26; 95% CI: 1.59-6.65; P = 0.001), together with left ventricular end-diastolic volume index, LGE, and ECV. Patients with non-TTN variants consistently had worse outcomes among patients with LGE presence, greater LGE extent, elevated ECV, and in both left ventricular ejection fraction strata (≤35% and >35%) (log-rank P < 0.05). Mediation analysis showed LGE (indirect HR: 1.26; 95% CI: 1.11-1.47; P = 0.008) and ECV (indirect HR: 1.29; 95% CI: 1.12-1.53; P = 0.006) partly mediated the association between non-TTN variants and adverse outcomes, whereas left ventricular end-diastolic volume index and left ventricular ejection fraction did not show significant mediating effects. CONCLUSIONS: Genetic background was associated with distinct myocardial fibrosis phenotypes and provided prognostic information beyond conventional CMR-derived fibrosis and functional phenotypes in DCM. Myocardial fibrosis partly mediates the association between non-TTN variants and adverse outcomes.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcmg.2026.08.007"
+ },
+ {
+  "idx": 20,
+  "journal": "J Am Heart Assoc",
+  "title": "Coronary Artery Bypass Grafting Versus Percutaneous Coronary Intervention in Isolated Chronic Total Occlusion of the Left Anterior Descending Artery: The RITUAL Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The optimal revascularization strategy for isolated left anterior descending artery chronic total occlusion (CTO) remains uncertain, with limited comparative data between CTO percutaneous coronary intervention (CTO-PCI) and coronary artery bypass grafting (CABG). METHODS: The RITUAL (Revascularization of Isolated Chronic Total Occlusion of the Left Anterior Descending Artery) study was a retrospective, multicenter analysis conducted at 4 centers including patients who underwent revascularization for isolated left anterior descending artery CTO between January 2017 and January 2023. Lesion complexity was assessed using the Japanese Chronic Total Occlusion score. The primary end point was technical and procedural success. Secondary end points included 3-year major adverse cardiac and cerebrovascular events and a periprocedural composite safety outcome. Multivariable Cox regression and restricted cubic spline analyses were performed. RESULTS: Among 2382 patients treated with CTO-PCI and 5850 surgical patients screened, 297 eligible patients (184 CTO-PCI, 113 CABG) were analyzed. Baseline characteristics were comparable. Adjusted procedural success favored CTO-PCI (88.6% versus 83.2%; adjusted hazard ratio [HR], 1.33 [95% CI, 1.01-1.75]; P=0.043), while technical success was similar. CABG was associated with higher rates of acute kidney injury and blood transfusion. At 3 years, all-cause death and major adverse cardiac and cerebrovascular events were comparable. However, adjusted periprocedural composite safety outcomes were lower with CTO-PCI (20.7% versus 35.4%; adjusted HR, 0.63 [95% CI, 0.40-0.99]; P=0.047). Increasing Japanese Chronic Total Occlusion score was linearly associated with higher major adverse cardiac and cerebrovascular event risk (P=0.007), and among patients with a Japanese Chronic Total Occlusion score <3, periprocedural composite safety outcomes favored CTO-PCI. CONCLUSIONS: In isolated left anterior descending artery CTO, no significant differences in 3-year clinical outcomes were observed between CABG and CTO-PCI, although CABG was associated with higher in-hospital complications and CTO-PCI with more favorable periprocedural composite safety outcomes, particularly in less complex lesions. REGISTRATION: URL: https://clinicaltrials.gov; Unique identifier: NCT07373678.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.051162"
+ },
+ {
+  "idx": 25,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Chronic Hypertension and Cardiovascular Disease After Preeclampsia: A Danish Nationwide Register-Based Cohort Study Identifying Women at High Risk.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Preeclampsia is associated with future cardiovascular disease (CVD), yet systematic approaches to identify those requiring intensified prevention are lacking. We aimed to characterise these women and identify subgroups at particularly high risk of later chronic hypertension or CVD. METHODS: Using Danish nationwide registries, we followed primiparous women with preeclampsia who gave birth during 2004-2018 until December 2022. Using Poisson regression models we estimated incidence rate ratios (IRR) of later chronic hypertension or CVD. RESULTS: Of 17,434 women with preeclampsia, 2,372 developed chronic hypertension and 373 developed CVD. Early-onset preeclampsia was more common among those who later developed chronic hypertension (13.3% vs. 7.4%) or CVD (12.1% vs. 8.1%). Higher IRs of both outcomes (IRRs [95% CI] for chronic hypertension and CVD, respectively) were found for smoking in pregnancy (1.20 [1.05-1.36]; 1.24 [0.86-1.80]), gestational diabetes (1.36 [1.19-1.56]; 1.25 [0.80-1.94]), pre-existing type 1 diabetes (2.09 [1.57-2.78]; 1.89 [0.77-4.59]) and type 2 diabetes (1.47 [0.93-2.33]; 1.47 [0.36-6.01]), and low education (1.50 [1.31-1.72]; 2.77 [1.92-3.98]). The regions with the highest IRR differed between outcomes, and IRs were higher than among Danish-born women for some regions and lower for others. IRs also increased with higher BMI and age, more steeply above 25 kg/m2 and 40 years. CONCLUSION: Early-onset preeclampsia, smoking, co-existing diabetes, certain ethnic origins, lower educational level, higher maternal age at delivery, and pre-pregnancy BMI ≥ 25 kg/m2 were identified as risk factors for later chronic hypertension or CVD among women with preeclampsia.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag507"
+ },
+ {
+  "idx": 30,
+  "journal": "Rev Esp Cardiol (Engl Ed)",
+  "title": "Effect of low-flow, very low-gradient aortic stenosis on survival and objective functional recovery after TAVI.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "INTRODUCTION AND OBJECTIVES: It is unclear how the magnitude of reductions in baseline mean aortic gradient and flow affects clinical outcomes after TAVI. This study aimed to assess the prognostic impact of low-flow very low-gradient (LF-VLG) aortic stenosis on survival and objective functional recovery after TAVI. METHODS: Data from the Spanish TAVI Registry were analyzed. Three groups were included: high-gradient (≥ 40 mmHg), low-flow low-gradient (LF-LG) (20-39 mmHg) and LF-VLG (≤ 20 mmHg). A prospective single-center substudy was conducted to evaluate objective functional recovery after TAVI. RESULTS: A total of 17 836 patients were included. Two-year survival was 82% in the high-gradient group (n = 12 800), 79% in the LF-LG group (n = 4126), and 73.2% in the LF-VLG group (n = 495) (P < .0001). In patients with LF-VLG, coronary artery disease and atrial fibrillation, but not ejection fraction, independently predicted mortality. In a cohort of 465 patients, objective improvement was observed in 88% of patients in the high-gradient group, 70% in the LF-LG group, and 57% in the LF-VLG group (P < .0001). CONCLUSIONS: Patients with LF-VLG aortic stenosis show reduced but acceptable 2-year survival regardless of ejection fraction and limited functional recovery at 6 months after TAVI. Coronary artery disease and atrial fibrillation were independent predictors of mortality.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.rec.2026.09.002"
+ },
+ {
+  "idx": 35,
+  "journal": "Heart",
+  "title": "From task-specific AI to cardiovascular foundation models: a new era of multimodal interpretation.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Artificial intelligence (AI) is reshaping cardiovascular medicine, evolving from task-specific supervised models towards multitask and foundation models capable of broader, more scalable interpretation. Early AI systems achieved high performance in electrocardiographic interpretation, echocardiographic measurement and disease diagnosis but their dependence on predefined outputs and labelled datasets limits flexibility and confines them to individual tasks. Foundation models address these limitations by learning reusable representations from large-scale data, often through self-supervised or contrastive pretraining, and adapting them to multiple downstream tasks. Emerging models in electrocardiography, echocardiography, chest radiography, cardiac MR and cardiac CT demonstrate capabilities including disease classification, quantitative measurement, segmentation, image-text retrieval, report generation and risk prediction. Generalist and multimodal biomedical foundation models further suggest a future in which cardiovascular AI integrates signals, imaging, clinical text, laboratory data and medical history to support patient-level diagnosis and decision-making. This review synthesises the transition from task-specific AI to cardiovascular foundation models and outlines opportunities for multimodal human-centred implementation.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1136/heartjnl-2026-328835"
+ },
+ {
+  "idx": 40,
+  "journal": "N Engl J Med",
+  "title": "Retatrutide, a Triple Hormone Receptor Agonist, for Treatment of Obesity.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Retatrutide is a triple-receptor agonist of glucose-dependent insulinotropic polypeptide, glucagon-like peptide-1, and glucagon receptors. METHODS: In this phase 3, randomized, double-blind trial, we assigned adults with obesity without diabetes to receive a once-weekly subcutaneous injection of retatrutide (at a dose of 4 mg, 9 mg, or 12 mg) or placebo for 80 weeks. Primary outcomes (evaluated in the 9-mg and 12-mg groups each vs. placebo) were the percent change in body weight and the change in the WOMAC pain score (ranging from 1 to 10, with higher scores indicating worse pain) in the subgroup of 574 participants with knee osteoarthritis and the change in the apnea-hypopnea index in the 243 participants with obstructive sleep apnea. For weight-related end points, intercurrent events were handled by a treatment-regimen estimand (intention-to-treat [ITT]). For end points in participants with knee osteoarthritis or obstructive sleep apnea, a hybrid-treatment estimand was applied, with a hypothetical strategy for intercurrent events suggesting treatment failure; ITT results are also reported. RESULTS: A total of 2339 participants underwent randomization. The mean percent change in body weight in the retatrutide groups was -17.6% (4-mg dose), -23.7% (9-mg dose), and -25.0% (12-mg dose) versus -3.9% in the placebo group (differences, -19.8 and -21.0 percentage points, respectively; P<0.001 for both comparisons). Among the participants with knee osteoarthritis, the corresponding changes in the pain score in the retatrutide groups for the hybrid estimand were -3.2, -3.5, and -3.6 versus -1.9 with placebo (differences, -1.6 and -1.8 points; both P<0.001); the corresponding changes for the ITT estimand were -3.4, -3.9, and -4.1 versus -2.5 with placebo (differences, -1.4 and -1.6 points; both P<0.001). Among the participants with obstructive sleep apnea, the corresponding changes in events per hour in the retatrutide groups for the hybrid-treatment estimand were -22.9, -34.3, and 31.7 versus -9.9 (differences, -24.4 and -21.9; both P<0.001); the corresponding changes for the ITT estimand were -22.8, -34.3, and -32.1 versus -9.6 (differences, -24.7 and -22.5; both P<0.001). The most common adverse events were gastrointestinal. CONCLUSIONS: In adults with obesity, retatrutide resulted in significant weight reduction, reduced pain in participants with knee osteoarthritis, and reduced apnea-hypopnea events in participants with obstructive sleep apnea. (Funded by Eli Lilly; TRIUMPH-1 ClinicalTrials.gov number, NCT05929066.).",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1056/NEJMoa2604169"
+ },
+ {
+  "idx": 45,
+  "journal": "Hypertension",
+  "title": "American Heart Association's Strategic Approach to Promoting Blood Pressure Control: A Science Advisory From the American Heart Association.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Hypertension, which affects ≈122.4 million American adults and contributes substantially to preventable deaths and economic burden, represents a major public health challenge. Despite the availability of effective therapeutic interventions, only 20.7% of individuals diagnosed with hypertension achieve optimal blood pressure control, defined as readings <130/80 mm Hg. Disparities persist across racial, ethnic, socioeconomic, and geographic groups, prompting urgent calls to improve hypertension management strategies. In response to these challenges, the American Heart Association has established equitable blood pressure control as a cornerstone priority and adopted a comprehensive socioecologic framework to address barriers to care. This science advisory presents the American Heart Association Blood Pressure Control Logic Model, a visual framework that maps how program resources and activities can lead to desired outcomes and effects through collaborative multisector strategies across health care and community settings. The model delineates how organizational inputs-including staff expertise, data systems, funding resources, and strategic partnerships-are channeled through 4 fundamental intervention strategies to achieve measurable outcomes and population-level effects. These strategies encompass transforming health care environments through research initiatives and policy reform, delivering culturally appropriate educational programs, implementing improvements in clinical care quality, and actively engaging community organizations and workplace environments in health promotion activities. The simultaneous implementation of these strategies aims to achieve equitable health outcomes with reduced risk of cardiovascular events, advancing the American Heart Association's mission to promote longer, healthier lives. This adaptable model provides a framework that can be implemented by other organizations. This science advisory emphasizes the importance of rigorous evaluation and sustained multisector collaboration to effectively manage hypertension and promote cardiovascular health.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/HYP.0000000000000266"
+ },
+ {
+  "idx": 50,
+  "journal": "Nat Cardiovasc Res",
+  "title": "Therapeutic upregulation of gene expression in inherited cardiomyopathies from current approaches to future directions.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "A substantial proportion of inherited cardiomyopathy cases are driven by mechanisms of haploinsufficiency, where a loss-of-function variant in one allele leads to insufficient protein expression, resulting in loss of normal cardiac function. Current therapies treat symptoms or mitigate risk of complications and do not prevent disease onset or progression. Recently, substantial advances have been made in gene therapies for cardiomyopathies in both preclinical and clinical settings, particularly using viral delivery of whole genes and gene-editing approaches. Alongside these is an emerging area of therapies that aim to upregulate endogenous gene expression. This encompasses a broad array of strategies that may act by removing gene repression or directly enhancing expression, can enhance transcription or translation and may use a variety of modalities such as gene editing or oligonucleotides. Here, we review the mechanisms and current uses of gene upregulation strategies and critically evaluate their advantages and limitations as therapies for inherited cardiomyopathies.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s44161-026-00884-6"
+ },
+ {
+  "idx": 55,
+  "journal": "JACC Adv",
+  "title": "Association of Predicted Surgical Risk With 3-Year Outcomes After Isolated Tricuspid Valve Surgery: An Analysis of Medicare Beneficiaries.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: With recent approval of transcatheter tricuspid valve (TV) interventions for high/prohibitive surgical risk patients, understanding the long-term outcomes of isolated TV surgery has become increasingly relevant. OBJECTIVES: The objective of the study was to evaluate longitudinal outcomes and health care costs of isolated surgical TV surgery to provide a potential benchmark for emerging transcatheter therapies. METHODS: Using the U.S. fee-for-service Medicare database, we evaluated longitudinal outcomes of all beneficiaries undergoing isolated TV repair or replacement (TVR) from 2018 to 2022. Patients with endocarditis were excluded. A claims-based, frailty-inclusive multivariable logistic regression model of predicted in-hospital mortality was developed (optimism-corrected area under the receiver-operating characteristic curve = 0.870). Patients were stratified by low (<4%), intermediate (4% to 8%), or high (>8%) predicated risk of surgical mortality. Kaplan-Meier and Fine Gray methods were used for time to event analysis. RESULTS: A total of 3,437 patients underwent isolated TVR (n = 1,285) or TV repair (n = 2,152). In-hospital mortality was higher for TVR (8.1% vs 5.3%; P = 0.001). Most patients (71.0%) were low risk, 9.0% intermediate, and 20.0% high risk. Three-year survival was significantly higher in the low (84.9%) and intermediate (66.5%) risk groups compared to high risk (49.6%), P < 0.001. Heart failure readmission-free survival correlated with predicted risk whereas valve reintervention was low in all groups (2.5% at 3 years). Index hospitalization costs increased with predicted risk. CONCLUSIONS: In Medicare beneficiaries undergoing isolated TV surgery, predicted operative mortality was associated with 3-year survival, heart failure readmission, and health care costs. These contemporary real-world data may inform heart team discussions and future trial designs for emerging transcatheter therapies.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103297"
+ },
+ {
+  "idx": 60,
+  "journal": "JACC Cardiovasc Interv",
+  "title": "Clinical Performance and Reproducibility of the LIRA Method for TAVR in Bicuspid Anatomy: The SUBLIME Study.",
+  "ptypes": [
+   "Journal Article",
+   "Multicenter Study"
+  ],
+  "abstract": "BACKGROUND: Transcatheter aortic valve replacement (TAVR) in bicuspid aortic valve (BAV) anatomy remains challenging, with heterogeneous outcomes and no standardized sizing strategy. The LIRA (level of implantation at the raphe) method is a bicuspid-dedicated approach that complements standard annular sizing with a single perimeter measurement at the raphe level. A previous single-center experience suggested favorable results. OBJECTIVES: The aim of this study was to evaluate clinical performance and reproducibility of the LIRA method for TAVR sizing in a large BAV multicenter cohort. METHODS: A total of 215 BAV patients undergoing TAVR with the LIRA method at 6 centers were retrospectively analyzed. Procedural and clinical outcomes were adjudicated according to Valve Academic Research Consortium 3 criteria and assessed at 30 days and 1 year. Available full-cycle computed tomographic data sets from external centers were reanalyzed in a blinded centralized core laboratory to assess reproducibility of the LIRA method. RESULTS: The application of the LIRA method led to prosthesis downsizing in 74.4% of cases. At 30 days, device success was 93%, and moderate or greater paravalvular leak had occurred in 4.6% of patients, new permanent pacemaker implantation in 10.7%, and stroke in 1.9%. At 1 year, all-cause mortality was 5.7%, and clinical efficacy was observed in 92.8% of patients. Clinical outcomes were consistent across centers. Prosthesis sizing agreement was excellent (κ = 0.85; 95% CI: 0.74-0.96), and perimeter concordance was good (intraclass correlation coefficient = 0.76; 95% CI: 0.63-0.85). CONCLUSIONS: In this large multicenter cohort, the LIRA method demonstrated good reproducibility across centers and was associated with favorable procedural and clinical outcomes in BAV patients undergoing TAVR. These findings support its clinical applicability as a bicuspid-dedicated sizing strategy.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcin.2026.06.018"
+ },
+ {
+  "idx": 65,
+  "journal": "Eur Heart J Cardiovasc Imaging",
+  "title": "Radiation burden of contemporary diagnostic pathways for chronic coronary syndromes: an ancillary analysis of the international EURECA Imaging Registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: To evaluate cumulative radiation exposure associated with contemporary diagnostic pathways in patients with suspected chronic coronary syndromes (CCS), and to assess the impact of first-line imaging strategies, downstream testing, geographic variability, and adoption of guideline-recommendations on radiation burden. METHODS AND RESULTS: This sub-analysis of the prospective, multicentre EURECA Imaging registry included 2058 patients (out of 2306 with available radiation data) undergoing at least one ionizing imaging test across 24 countries. Effective dose (ED) was calculated for each modality and cumulatively across diagnostic pathways. Median cumulative ED differed significantly according to initial testing strategy (p < 0.001). Single-photon emission computed tomography (SPECT)-first and computed tomography coronary angiography (CTCA)-first approaches were associated with a significantly lower radiation exposure (median ED 6.68 mSv, IQR 5.12-9.05 and 6.86 mSv, IQR 5.32-10.64, respectively), than an invasive coronary angiography (ICA)-first strategy (12.60 mSv, IQR 3.86-35.68). Marked inter-regional variability was observed across all modalities, with the highest doses generally reported in Eastern and Southern European countries. Guideline-adopting diagnostic pathways were associated with significantly lower cumulative ED in several regions. At multivariable analysis, hypertension, obesity, former smoking, and family history of coronary artery disease were independently associated with higher radiation exposure, while female sex, non-anginal symptoms, and guideline adoption predicted lower ED (all p < 0.01). CONCLUSIONS: Cumulative radiation exposure in CCS varies substantially according to diagnostic strategy and practice patterns. Non-invasive, guideline-adopting pathways are associated with lower radiation burden, whereas ICA-first approaches lead to higher exposure. Optimizing test selection and promoting guidelines adoption may improve radiation safety in cardiovascular imaging.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/ehjci/jeag274"
+ },
+ {
+  "idx": 70,
+  "journal": "J Am Heart Assoc",
+  "title": "Artificial Intelligence-Derived Electrocardiographic Age Enhances Stroke Risk Stratification in Patients With Atrial Fibrillation With a CHA2DS2-VA Score of 1.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: To evaluate whether artificial intelligence-derived electrocardiographic-age enhances the predictive utility of the CHA2DS2-VA (congestive heart failure/left ventricular dysfunction, hypertension, age ≥75 years [doubled], diabetes, stroke/transient ischemic attack [doubled], vascular disease, age 65-74 years) score in patients with atrial fibrillation representing a borderline indication for anticoagulation with a score of 1. METHODS: From a multicenter atrial fibrillation and atrial flutter registry, we identified 832 anticoagulation-naïve patients with a CHA2DS2-VA score of 1 and at least one 12-lead ECG within 90 days of diagnosis. ECG-age was estimated using a previously validated deep learning (convolutional neural network) model. Chronological age was replaced with ECG-age (1 point for 65-74 years, 2 points for ≥75 years), leaving all other score components unchanged, to form the EA-CHA2DS2-VA score. Patients were grouped as EA-CHA2DS2-VA ≥2 (n=315) or <2 (n=517). RESULTS: Compared with patients with an EA-CHA2DS2-VA score <2, those with an EA-CHA2DS2-VA score ≥2 had a significantly higher risk of ischemic stroke or transient ischemic attack (hazard ratio [HR], 1.82 [95% CI, 1.06-3.13]; P=0.028). All-cause mortality was also significantly elevated in the EA-CHA2DS2-VA ≥2 group (HR, 2.22 [95% CI, 1.43-3.45]; P<0.001). Major bleeding did not differ significantly between groups (P=0.386). CONCLUSIONS: Substituting chronological age with artificial intelligence-derived ECG-age in the CHA2DS2-VA score was associated with improved risk stratification in patients with atrial fibrillation with intermediate stroke risk. This refined risk stratification facilitates timely initiation of anticoagulation therapy, potentially reducing stroke and mortality. Future prospective studies are essential to integrate this artificial intelligence-enhanced strategy into clinical practice. REGISTRATION: This study was registered on the Open Science Framework (URL: https://doi.org/10.17605/OSF.IO/39BND; unique identifier: 10.17605/OSF.IO/39BND).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050723"
+ }
+]

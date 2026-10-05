@@ -1,0 +1,171 @@
+[
+ {
+  "idx": 2,
+  "journal": "Eur J Heart Fail",
+  "title": "Determinants and associations of health-related quality of life with mortality in acute and chronic heart failure: findings from the ESC HF III Registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: To assess the demographic, clinical, behavioural, and treatment factors associated with health-related quality of life (HRQoL) in heart failure (HF), examine the association between HRQoL and mortality, and evaluate changes in HRQoL over 1-year. METHODS: We analysed the ESC EORP Heart Failure III Registry, including patients hospitalized with acute HF or outpatient HF visits. HRQoL was assessed using the EuroQoL 5-Dimension 5-Level (EQ-5D-5L) questionnaire. Generalized linear models examined associations between demographic, clinical, behavioural, and treatment characteristics with baseline HRQoL. Cox proportional hazards models assessed the relationship between baseline HRQoL and 1-year mortality. Changes in HRQoL were classified as improvement, deterioration, or mixed change across EQ-5D dimensions, and determinants of change were assessed using fixed-effects models. RESULTS: Among 10 130 patients (acute HF: 38.6%; outpatient HF: 61.4%), those with acute HF had worse baseline HRQoL than outpatients. Older age, female sex, eGFR ≤29, NYHA class III/IV, and dyspnoea at rest were strongly associated with lower HRQoL in both acute and outpatient HF. Lower baseline HRQoL was associated with a higher risk of death at 1 year, with a 0.1-unit decrease in HRQoL on a scale of -0.59 to 1.00 (equivalent to 37 days of full health lost annually) associated with a 9% higher risk of death; a finding consistent across ejection fraction categories and sex. At 1-year, 45% of patients reported improved HRQoL, and improvements were more common in those with acute HF, mildly reduced ejection fraction, and women. Use of ACEi/ARBs/ARNIs was associated with a modest improvement in HRQoL at 1 year. CONCLUSIONS: HRQoL provides important clinical information and may provide additional insight into patients' health status and disease progression beyond conventional clinical measures.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/ejhf/xuag236"
+ },
+ {
+  "idx": 7,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Non-Occupational Physical Activity and All-Cause Mortality in Patients with Coronary Heart Disease: A Dose-Response Meta-Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIM: Higher physical activity (PA) has been associated with lower all-cause mortality in patients with coronary heart disease (CHD), but the dose-response relationship remains uncertain. We conducted a systematic review and dose-response meta-analysis to quantify the association between non-occupational PA and all-cause mortality in CHD patients. METHODS: We systematically searched six databases in November 2025 for prospective cohort studies reporting non-occupational PA and all-cause mortality in CHD patients. PA data were harmonised to marginal metabolic equivalent of task hours/week (mMET-h/week). We performed two-stage random-effects dose-response meta-analysis using restricted cubic splines. Risk of bias was assessed using the JBI checklist. RESULTS: Seventeen studies included 176,862 patients; 16 reported 31,783 study-level deaths. The primary dose-response curve was modelled over 0-40 mMET-h/week, and showed a non-linear inverse association (P for non-linearity <0.001; I2 = 84.7%). Relative to 0 mMET-h/week, estimated mortality risk was 38% lower at 8.75 mMET-h/week (RR = 0.62, 95% CI: 0.54-0.73) and 39% lower at 17.5 mMET-h/week (RR = 0.61, 95% CI: 0.47-0.79). At 30 mMET-h/week, the estimate was imprecise (RR = 0.92, 95% CI: 0.51-1.67), only 8 of 17 studies had data extending to this knot, and alternative harmonisation assumptions produced a different high-dose shape. CONCLUSION: Higher non-occupational PA was associated with lower all-cause mortality in CHD, particularly at low-to-moderate levels. These activity levels were consistent with the range recommended in current ESC guidelines.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag510"
+ },
+ {
+  "idx": 12,
+  "journal": "J Am Heart Assoc",
+  "title": "Temporal Association Between Exercise and Arrhythmia Episodes in Endurance Athletes With Paroxysmal Atrial Fibrillation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Atrial fibrillation (AF) is a prevalent arrhythmia in endurance athletes, and many athletes report exercise as a trigger for AF episodes. We aimed to investigate the association between exercise sessions and arrhythmia episodes in endurance athletes with paroxysmal AF. METHODS: In endurance athletes diagnosed with paroxysmal AF, we continuously monitored arrhythmia episodes using insertable cardiac monitors and report event rates per 24 hours and temporal relation of arrhythmias with exercise sessions. Sports watches and chest straps were used for exercise monitoring. Exercise with a heart rate of 76% to 84% and ≥ 85% of the individual maximum heart rate was classified as high and very high intensity, respectively. RESULTS: Forty-seven athletes (age 57±10, range 33-75 years, 3 women) were monitored with insertable cardiac monitors for a total of 55 994 hours (median 1008 [840-1344] equaling 42 days [35-56]) and performed a total of 1722 hours of exercise, of which 592 hours at high or very high intensity. Thirty-one athletes (66%) had a total of 1445 (median 17 [3-33]) AF episodes during monitoring. Thirteen athletes (27%) had AF during exercise of whom 2 had AF during high-intensity sessions. The event rate of AF was not higher during (0.34 per 24 hours [95% CI, 0.13-0.65]) or subsequently following an exercise session (0.37 [95% CI, 0.10-0.71]), compared with unrelated to exercise (>3 hours after, 0.61 [95% CI, 0.26-1.13]). There were no episodes of exercise-related ventricular tachycardia. CONCLUSIONS: In this study on endurance athletes with paroxysmal AF, the rate of AF episodes was not increased during or subsequently following exercise sessions. REGISTRATION: URL: Study Details: NCT04991337. Effects of Detraining in Endurance Athletes With Atrial Fibrillation. ClinicalTrials.gov (NEXAF Detraining).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050198"
+ },
+ {
+  "idx": 17,
+  "journal": "J Am Coll Cardiol",
+  "title": "2026 AHA/ACC/ACS/ASNC/HRS/SCA/SCCT/SCMR/SVM Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.",
+  "ptypes": [
+   "Journal Article",
+   "Practice Guideline"
+  ],
+  "abstract": "AIM: The \"2026 AHA/ACC/ACS/ASNC/HRS/SCA/SCCT/SCMR/SVM Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery\" provides recommendations to guide clinicians in the perioperative cardiovascular evaluation and management of adult patients undergoing noncardiac surgery. METHODS: A comprehensive literature search was conducted from August 2022 to March 2023 to identify clinical studies, reviews, and other evidence conducted on human subjects that were published in English from MEDLINE (through PubMed), EMBASE, the Cochrane Library, the Agency for Healthcare Research and Quality, and other selected databases relevant to this guideline. STRUCTURE: Recommendations from the \"2014 ACC/AHA Guideline on Perioperative Cardiovascular Evaluation and Management of Patients Undergoing Noncardiac Surgery\" have been updated with new evidence consolidated to guide clinicians; clinicians should be advised this guideline supersedes the previously published 2014 guideline. In addition, evidence-based management strategies, including pharmacological therapies, perioperative monitoring, and devices, for cardiovascular disease and associated medical conditions, have been developed.",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1016/j.jacc.2026.06.017"
+ },
+ {
+  "idx": 22,
+  "journal": "Heart",
+  "title": "Plasma heart-type fatty acid-binding protein, omega-3 fatty acids and adverse cardiac events in the general population.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Heart-type fatty acid-binding protein (H-FABP), a principal intracellular transporter of long-chain fatty acids (FAs), has been investigated as an early diagnostic biomarker for acute myocardial infarction (MI) and acute coronary syndrome. However, evidence regarding its associations with long-term risk of cardiac events and potential interaction with omega-3 FAs remains scarce. Therefore, we aimed to investigate these associations in the general population. METHODS: This study included 42 392 participants from the UK Biobank who were free of coronary heart disease (CHD) and heart failure (HF) at baseline. Plasma levels of H-FABP were quantified using the Olink platform. Multivariable Cox regression was used to evaluate the associations of H-FABP with incident CHD and HF, considering potential interaction with omega-3 FAs. RESULTS: Elevated H-FABP levels were consistently associated with a higher risk of CHD (HR T3 vs T1=1.29), MI (HR T3 vs T1=1.54), CHD-related mortality (HR T3 vs T1=2.04) and HF (HR T3 vs T1=1.95) (all P-trend values <0.001). These associations appeared to be modified by plasma levels of omega-3 FAs, especially so for CHD (P-interaction=0.014) and MI (P-interaction=0.003). Comparing the extreme tertiles of H-FABP, HRs (95% CI) of CHD and MI were 1.41 (1.15 to 1.74) and 2.23 (1.57 to 3.15), respectively, among participants with lower omega-3 FAs, and 1.15 (0.96 to 1.38) and 1.11 (0.83 to 1.50), respectively, among those with higher omega-3 FAs. CONCLUSIONS: Higher plasma levels of H-FABP were associated with a higher risk of CHD and HF in the general population, predominantly among individuals with low levels of omega-3 FAs.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1136/heartjnl-2026-327893"
+ },
+ {
+  "idx": 27,
+  "journal": "Eur J Heart Fail",
+  "title": "Pharmacological treatment strategies to prevent heart failure across the cardiovascular-kidney-metabolic spectrum: an EJHF Expert Consensus Statement.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Heart failure (HF) remains a major cause of morbidity, mortality, and increased healthcare costs worldwide, and is recognized as the result of progressive cardiovascular-kidney-metabolic (CKM) syndrome. Obesity, type 2 diabetes, chronic kidney disease, hypertension, and atherosclerotic cardiovascular disease frequently coexist and interact through shared pathophysiological mechanisms that promote HF onset, especially with preserved ejection fraction (HFpEF). This European Journal of Heart Failure (EJHF) Expert Consensus Statement synthesizes contemporary evidence supporting pharmacological strategies to prevent HF across the CKM spectrum. Foundational therapies, including renin-angiotensin system inhibitors, sodium-glucose cotransporter 2 inhibitors, non-steroidal mineralocorticoid receptor antagonists, and incretin-based agents, demonstrate complementary benefits in reducing HF events, cardiovascular death, and chronic kidney disease (CKD) progression in high-risk populations. Early, parallel initiation of these therapies may modify disease trajectory and attenuate progression from at-risk and pre-HF stages to overt clinical HF. This document further emphasizes the need for an up-front, accelerated implementation strategy supported by structured monitoring, multidisciplinary CKM care pathways, and proactive management of laboratory abnormalities. Overcoming barriers such as clinical inertia, safety misperceptions, polypharmacy, cost constraints, and inequities in access is essential to translate evidence into population-level impact. Harmonization of prevention frameworks across cardiology, nephrology, endocrinology, and primary care societies is urgently required. Integrated, cross-disciplinary implementation of evidence-based CKM management offers a realistic opportunity to reduce incident HF and mitigate its growing global burden.",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1093/ejhf/xuag301"
+ },
+ {
+  "idx": 32,
+  "journal": "Nat Med",
+  "title": "Effects of semaglutide on kidney disease in type 2 diabetes: a randomized placebo-controlled trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "The GLP-1 receptor agonist semaglutide preserves kidney function in people with type 2 diabetes and chronic kidney disease, but the underlying mechanisms are unclear. Here we report a 52-week randomized trial of subcutaneous semaglutide 1 mg once weekly versus placebo (n = 106 (n = 25 women, n = 81 men)) in participants with type 2 diabetes and chronic kidney disease. To identify kidney-specific mechanisms of action for semaglutide, we performed integrated multiparametric magnetic resonance imaging of the kidney and biopsy for histology (n = 33), alongside single-nucleus (n = 22) and spatial transcriptomics (n = 13) on paired samples with before- and after-treatment measurements. Coprimary magnetic resonance imaging outcomes (oxygenation by R2*, global perfusion and tissue inflammation by T1 mapping) were not significantly altered by semaglutide versus placebo treatment. Secondary outcomes revealed that semaglutide treatment, as compared to placebo, was associated with a significantly reduced renal artery resistive index and stabilization of the apparent diffusion coefficient, indicating prevention of fibrosis progression. Moreover, secondary transcriptomic outcomes revealed pronounced effects of semaglutide on glomerular endothelial cells, consistent with the results of spatial analyses indicating reduced numbers of immune cells in the proximity of these endothelial cells. The results from this trial indicate that mechanisms of kidney protection by semaglutide may include reduced vascular resistance, prevention of fibrosis and improved underlying molecular programs promoting endothelial cell health. ClinicalTrials.gov identifier: NCT04865770 .",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s41591-026-04674-2"
+ },
+ {
+  "idx": 37,
+  "journal": "Nat Cardiovasc Res",
+  "title": "A metabolic-epigenetic switch governs multicellular cardiac repair following succinate dehydrogenase inhibition.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Cardiac regeneration is limited in the adult mammalian heart because of restricted cardiomyocyte proliferation and persistent fibrosis. We previously demonstrated that transient pharmacological inhibition of succinate dehydrogenase (SDH) with malonate promotes regeneration after myocardial infarction. Here, we integrate single-nucleus RNA sequencing and ATAC-seq to reveal multicellular transcriptional and epigenetic reprogramming underlying this response. Cell-specific Sdhb deletion dissected contributions of SDH inhibition; cardiomyocyte-specific Sdhb deletion transiently increased cardiomyocyte proliferation but did not improve post-myocardial infarction function, whereas myofibroblast-specific Sdhb deletion suppressed myofibroblast activation and fibrosis and improved cardiac function. SDH inhibition promoted reductive mitochondrial metabolism and remodeled H3K4me3-marked and H3K27me3-marked chromatin states in cardiomyocytes and fibroblasts. Integration of CUT&RUN, chromatin accessibility and transcriptional profiling identified regulatory targets linking metabolic and epigenetic remodeling to regenerative responses. Together, these findings establish SDH as a multicellular regulator of cardiac regeneration and define distinct cell-specific mechanisms contributing to the regenerative effects of transient pharmacological SDH inhibition.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s44161-026-00881-9"
+ },
+ {
+  "idx": 42,
+  "journal": "J Am Heart Assoc",
+  "title": "Incidence and Predictors of Complications After Transcatheter Aortic Valve Implantation According to VARC-3 Criteria: A Systematic Review and Meta-Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Despite continuous advancements in devices and techniques, transcatheter aortic valve implantation remains associated with complications impacting outcomes. In 2021, the Valve Academic Research Consortium (VARC) introduced the VARC-3 criteria to better classify procedural complications. METHODS: We conducted a systematic review and meta-analysis of studies reporting transcatheter aortic valve implantation-related complications using VARC-3 definitions between 2021 and 2025. The primary end point was all-cause mortality at latest follow-up. Secondary end points included major VARC-3 complications and predictors of adverse events. RESULTS: A total of 57 studies with 73 588 patients were included. The cohort had a mean age of 81.7 years, 51.7% were women, and most had preserved ejection fraction (55.5%) and low-to-moderate surgical risk (Society of Thoracic Surgeons [STS] predicted risk of mortality [PROM] 4.1%). Technical and 30-day device success rates were 95% and 90%, respectively; early safety rate at 30 days was 66%. At average 12 months follow-up, all-cause mortality was 10.2%. The most common complication was permanent pacemaker implantation (13%), followed by type 2 or greater bleeding (9.7%), acute kidney injury stage 3-4 (4.7%), major vascular events (4.3%), and stroke (3.0%). Moderate/severe paravalvular regurgitation and patient-prosthesis mismatch occurred in 4% and 8%, respectively. Study-level pooled predictor analyses showed that acute kidney injury, type 2 or greater bleeding, paravalvular regurgitation, non-structural valve dysfunction, and higher STS score were associated with higher mortality, while eccentric/severe aortic valve calcification was associated with significant paravalvular regurgitation. CONCLUSIONS: Transcatheter aortic valve implantation shows high procedural success but non-negligible complication rates under VARC-3 criteria. acute kidney injury, type 2 or greater bleeding, NSVD, periprocedural stroke and myocardial infarction after transcatheter aortic valve implantation were associated with higher mortality.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.045455"
+ },
+ {
+  "idx": 47,
+  "journal": "Eur Heart J",
+  "title": "Implementation of cardiac magnetic resonance imaging in everyday cardiology practice.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Cardiac magnetic resonance (CMR) plays an established role in the assessment of cardiac patients. In this document, the aim is to demonstrate and clarify the role of CMR in the clinical management of heart disease for general cardiologists in everyday clinical practice. This document will cover the clinical indications, prognostic values, and limitations of CMR in the diagnosis and follow-up of heart disease, including ischaemic heart disease, heart failure, cardiomyopathies, valvular heart disease, aortopathies, cardiac masses, pericardial conditions, and adult congenital heart disease. This document also provides a basic understanding of the use of different CMR sequences and how cardiac function is assessed. With the increasing number of patients with cardiac implantable electronic devices, a brief understanding and advice on the use of CMR in this growing patient population who may need a scan during their lifetime is discussed. This document outlines the clinical applications of CMR and its use in everyday clinical practice for cardiologists who are not experts in CMR.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurheartj/ehag678"
+ },
+ {
+  "idx": 52,
+  "journal": "Eur J Heart Fail",
+  "title": "Effectiveness of Finerenone in Slowing Chronic Kidney Disease Progression After Hospitalization for Heart Failure: A FIDELITY Subgroup Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Finerenone, a nonsteroidal mineralocorticoid receptor antagonist, reduces risk of heart and kidney outcomes in people with chronic kidney disease (CKD) and type 2 diabetes (T2D). Heart failure is the leading cause of hospitalization in patients with CKD. Here we evaluated whether the reduction in estimated glomerular filtration rate (eGFR) decline (CKD progression) with finerenone persists after hospitalization for heart failure (HHF). METHODS AND RESULTS: This post hoc analysis utilized the FIDELITY dataset pooled from the phase 3 FIDELIO-DKD (NCT02540993) and FIGARO-DKD (NCT02545049) trials, comprising adults with CKD and T2D on optimized renin-angiotensin system inhibitor treatment, randomized 1:1 to finerenone or placebo. Participants included experienced HHF between 4 months post randomization and study end. The key outcome was change in chronic eGFR slope (eGFR estimated from serum creatinine) before and after HHF. To avoid confounding from serum creatinine changes preceding and following HHF, eGFR values ±90 (primary analysis), ±120, and ±150 days from HHF were excluded. Baseline characteristics, medications, and mean hospital stay length were generally balanced between treatment groups. For the primary analysis, both the pre-HHF and post-HHF mean change in eGFR declined slower with finerenone versus placebo (between-group difference 2.68 mL/min/1.73 m2/year [95% confidence interval [CI], 0.87 to 4.49] pre-HHF and 0.96 mL/min/1.73 m2/year [95% CI, -0.99 to 2.91] post-HHF). CONCLUSION: Treatment with finerenone is associated with clinically meaningful attenuation of CKD progression in people with CKD and T2D before HHF, and persists post-HHF, suggesting that maintaining finerenone after HHF may continue to confer benefits in attenuating CKD progression.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/ejhf/xuag299"
+ },
+ {
+  "idx": 57,
+  "journal": "JACC Adv",
+  "title": "Absence of Fibrosis Influences Prognosis of Cardiac Resynchronization in Nonischemic Cardiomyopathy: Systematic Review and Meta-Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: In patients with nonischemic cardiomyopathy (NICM) undergoing cardiac resynchronization therapy (CRT), there are no clear recommendations on selecting CRT with defibrillator (CRT-D) vs pacemaker (CRT-P). Patients with high probability of response to CRT and low arrhythmic risk may be ideal candidates to CRT-P. OBJECTIVES: The objectives of the study was to evaluate if the absence of late gadolinium enhancement (LGE) is associated with CRT response and ventricular arrhythmia (VA) in NICM treated with CRT. METHODS: A systematic review and meta-analysis was conducted. Search of PubMed, Web of Science, and Scopus identified observational studies of NICM patients who underwent cardiac magnetic resonance before CRT implantation. Studies assessing echocardiographic response to CRT or VA stratified by LGE status were included. The VA endpoint comprised sustained ventricular tachycardia, appropriate implantable cardioverter-defibrillator therapy, resuscitated cardiac arrest, and sudden death. RESULTS: Ten studies were included: 9 (n = 831) for CRT response and 6 (745 patients) for arrhythmic risk. CRT response was significantly higher in patients without LGE than in patients with LGE (78.7% vs 50.7%; P < 0.001). The cumulative incidence of VA was extremely low in LGE cases, significantly lower than that of LGE+ ones (0.8% vs 21.1%, P < 0.001). The absence of LGE was strongly associated with higher CRT response (OR: 3.52; 95% CI: 2.54-4.88; P < 0.001) and much lower arrhythmic risk (OR: 0.06; 95% CI: 0.02-0.15; P < 0.001). CONCLUSIONS: In NICM patients undergoing CRT, the absence of LGE is strongly associated with greater echocardiographic response and very low arrhythmic risk. In this subgroup the incremental benefit of CRT with defibrillator over CRT-P may be limited.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103295"
+ },
+ {
+  "idx": 62,
+  "journal": "JACC Adv",
+  "title": "A Knowledge Graph Framework for Longitudinal Congenital Heart Disease Modeling: Methodology Corner.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Congenital heart disease (CHD) is characterized by evolving clinical trajectories; staged interventions; and complex relationships among diagnoses, procedures, and encounters. Conventional machine learning applied to electronic health record (EHR) data often rely on static feature representations that do not preserve the natural longitudinal disease progression or clinical context. OBJECTIVES: The purpose of this study was to develop a knowledge graph-based framework for trajectory-aware representation and analysis of longitudinal CHD EHR data. METHODS: We constructed a longitudinal knowledge graph that integrates patients, encounters, diagnoses, and procedures while preserving temporal ordering across the care continuum. Term frequency-inverse document frequency and Word2Vec approaches were applied to encounter contexts extracted from the graph to generate longitudinal patient representations that supported phenotyping, patient similarity analysis, and retrospective classification. RESULTS: Using accumulated longitudinal EHR from a cardiovascular magnetic resonance cohort, we demonstrate that the framework captured clinically meaningful patterns and supported retrospective identification of single ventricle physiology as a representative use case. CONCLUSIONS: This knowledge graph framework provides a scalable approach for preserving temporal and relational clinical context and enable trajectory-aware modeling of longitudinal cardiovascular EHR data in patients with CHD.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103291"
+ },
+ {
+  "idx": 67,
+  "journal": "J Am Heart Assoc",
+  "title": "Dual Antiplatelet Therapy in Acute Ischemic Stroke: A 2-Time-Window Study of CYP2C19 Genotypes and Functional Outcomes.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Carriers of CYP2C19 loss-of-function alleles (LoFA) exhibit reduced metabolism of clopidogrel, potentially compromising the efficacy of dual antiplatelet therapy (DAPT) in acute ischemic stroke. We aimed to distinguish the impact of initial antiplatelet regimens from the discharge deescalation on functional outcomes. METHODS: The retrospective cohort study linked the prospective stroke registry with the Taiwan Precision Medicine Initiative biobank. Patients with mild to moderate acute ischemic stroke (National Institutes of Health Stroke Scale score ≤10) were included. Favorable outcomes (modified Rankin Scale score ≤1) of 2 windows were analyzed: (1) the acute window (≤48 hours), assessing outcomes at discharge, and (2) the deescalation window (discharge), assessing outcomes at 90 days. RESULTS: Among 741 patients, 463 (62.5%) were LoFA carriers. In the acute window, genotype was not associated with favorable outcomes; clinical severity (age, initial National Institutes of Health Stroke Scale score) was the dominant predictor. However, in the deescalation window, in the overall cohort, DAPT with aspirin and clopidogrel at discharge was independently associated with favorable outcomes at 90 days (odds ratio [OR], 2.34 [95% CI, 1.16-4.74]; P=0.018). Stratified analysis revealed that this benefit was driven primarily by LoFA carriers, in whom DAPT with aspirin and clopidogrel at discharge was independently associated with favorable outcomes (OR, 2.74 [95% CI, 1.17-6.38]; P=0.020). However, this association was attenuated in propensity score-matched analyses, and there was no interaction between CYP2C19 LoFA carrier status and DAPT with aspirin and clopidogrel on favorable outcomes at 90 days. CONCLUSIONS: CYP2C19 genotype did not predict early neurological deterioration. The potential long-term clinical benefit of maintaining DAPT with aspirin and clopidogrel at discharge for LoFA carriers requires confirmation in adequately powered randomized trials.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049319"
+ }
+]

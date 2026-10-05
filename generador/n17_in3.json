@@ -1,0 +1,173 @@
+[
+ {
+  "idx": 3,
+  "journal": "Eur Heart J Cardiovasc Imaging",
+  "title": "Optimization Process After Angiography-Guided Stent Implantation: Pre-specified Analysis of the OCCUPI Randomized Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Despite its benefits, the detailed process by which optical coherence tomography (OCT) improves stent optimization, and the role of pre-stenting OCT assessment, have not been fully investigated. We aimed (1) to assess the achievement of OCT-defined optimization criteria after angiography-guided stent implantation, and (2) to assess the role of pre-stenting OCT assessment. METHODS AND RESULTS: The first consecutive 200 patients in the OCT-guided arm of the OCCUPI trial were randomly assigned to the full OCT-guided or angiography-first-guided group. In the angiography-first-guided group, after achieving angiographically optimal stenting, OCT was performed to compare the achievement of OCT-defined optimization criteria between full OCT-guided PCI and angiography-first-guided PCI. After additional procedures in the angiography-first-guided group, the stent optimization rates and 1-year clinical outcomes were compared between the full OCT-guided and angiography-first-guided groups, both of which underwent stent optimization using OCT. The optimization rate was higher in the full OCT-guided group than in the angiography-first-guided group (63.3% vs. 44.4%; P = 0.012). After optimization with OCT, the optimization rate in the angiography-first-guided group increased to 60.6% with decrease of maximal malapposition distance and resolution of major edge dissections. Although the minimal stent area (MSA) increased after optimization with OCT in the angiography-first-guided group (MSA of OCT guidance without pre-stenting OCT), it remained smaller than that of the full OCT-guided group (MSA of OCT guidance with pre-stenting OCT). The clinical outcomes did not differ between groups. CONCLUSION: Angiography guidance achieved a lower optimization rate than OCT guidance. Furthermore, pre-stenting OCT may facilitate more robust stent expansion. STUDY REGISTRATION: ClinicalTrials.gov (ID: NCT03625908).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/ehjci/jeag276"
+ },
+ {
+  "idx": 8,
+  "journal": "JACC Heart Fail",
+  "title": "Neurological Dysfunction During Contemporary Magnetically Levitated Left Ventricular Assist Device Support for Advanced Heart Failure: An STS-INTERMACS Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The burden of neurological dysfunction during contemporary magnetically levitated (Mag-Lev) left ventricular assist device (LVAD) support for advanced heart failure is uncertain. OBJECTIVES: The objectives were to determine the incidence, prognosis, and risk factors of stroke and nonstroke neurological adverse events (NAEs) during Mag-Lev LVAD support. METHODS: A retrospective cohort study using the multicenter U.S.-based Society of Thoracic Surgeons INTERMACS database was performed from January 1, 2017, to March 31, 2023. The study population comprised patients with heart failure on Mag-Lev LVAD support. The primary outcome was survival on Mag-Lev LVAD support. Multivariable Cox regression was used, with stroke and nonstroke NAE status as a time-varying covariate to determine the risk of death in comparison to no NAE. Separate multivariable Cox regression models were built to determine factors associated with death after stroke and nonstroke NAEs and to determine baseline clinical variables associated with the occurrence of stroke and nonstroke NAE. RESULTS: Within 11,739 patients, 879 (8%) had a stroke, 972 (8%) experienced a nonstroke NAE, and 9,888 (84%) did not have a NAE over a median of 1.4 years (Q1-Q3: 0.5-2.7 years). At 2 years, survival on Mag-Lev LVAD support after stroke and nonstroke NAE was 45% and 56%, respectively (P < 0.001). In comparison to no NAE, the risk of death was elevated after stroke (HR: 7.3) and nonstroke NAE (HR: 5.1). Older age (HR: 1.02 per year), pre-LVAD implantable cardioverter-defibrillator (HR: 1.32), higher pre-LVAD blood urea nitrogen level (HR: 1.01 per 1 mg/dL), and pre-LVAD dialysis (HR: 1.91) were significantly associated with death after stroke, whereas higher pre-LVAD body mass index (HR: 1.02 per 1 unit), pre-LVAD serum creatinine (HR: 1.36 per 1 mg/dL), pre-LVAD international normalized ratio (HR: 1.14 per 1 unit), and lower pre-LVAD lower albumin (HR: 0.98 per 1 g/dL) were significantly related to mortality after nonstroke NAE. Pre-LVAD extracorporeal membrane oxygenation (stroke HR: 1.70; nonstroke HR: 1.45) and concomitant surgery (stroke HR: 1.23; nonstroke HR: 1.17) were associated with the occurrence of NAEs. CONCLUSIONS: Stroke and nonstroke NAEs are incurred by a similar proportion of patients, and both are associated with substantially reduced survival. Consequently, stroke and nonstroke NAEs should be given comparable weight with universal nomenclature when evaluating the safety of durable LVADs. Pre-LVAD extracorporeal membrane oxygenation and concomitant surgery are potentially modifiable targets to reduce neurological dysfunction during Mag-Lev LVAD therapy.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jchf.2026.103377"
+ },
+ {
+  "idx": 13,
+  "journal": "JACC Adv",
+  "title": "Cardio-Oncological Sequelae of Autologous Stem Cell Transplantation: Role of Clonal Hematopoiesis in Cardiovascular Risk.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Autologous hematopoietic stem cell transplantation is a major milestone in modern oncohematological therapies; however, both in the peritransplant and post-transplant phase, the incidence of cardiovascular (CV) events is markedly higher than in the general population. The pathomechanism of CV complications is multifactorial, determined by complex interactions between patient-specific, transplant-related, and oncological risk factors. In recent years, clonal hematopoiesis has emerged as a clinically relevant determinant of adverse CV outcomes. Patients undergoing autologous hematopoietic stem cell transplantation represent a high-risk CV population due to cumulative cytotoxic exposure, treatment-driven clonal selection, and increasing long-term survival. These factors highlight the need for future development of clonal hematopoiesis-based risk stratification models that combine gene-specific alterations, clonal expansion magnitude, and mutational burden with conventional CV risk factors. Novel risk stratification approaches may enable tailored patient follow-up, individualized preventive interventions, and the early detection and prevention of CV complications in this sensitive patient population.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103279"
+ },
+ {
+  "idx": 18,
+  "journal": "J Am Heart Assoc",
+  "title": "Intereye Retinal Asymmetry, Incident Cardiovascular Disease, and Circulating Proteomic Signatures.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Retinal imaging provides a noninvasive window into systemic microvascular health. Many optical coherence tomography studies of cardiovascular disease have focused on mean retinal thickness, which may be influenced by demographic and ocular factors. Whether intereye retinal asymmetry provides additional prognostic information beyond mean retinal thickness remains unclear. METHODS: We conducted a prospective cohort study in the UK Biobank including 46 836 participants with bilateral optical coherence tomography imaging. Across the 4 end point-specific analyses, the maximum follow-up was 12.86 years, and median follow-up ranged from 9.22 to 9.38 years. Intereye absolute difference and intereye percentage difference were calculated for multiple retinal layers. Associations with incident coronary heart disease, myocardial infarction, atrial fibrillation, and heart failure were evaluated using multivariable Cox models. Dose-response analyses and predictive performance comparisons were performed. Proteomic data were integrated to explore circulating molecular signatures associated with retinal asymmetry and cardiovascular outcomes. RESULTS: Greater retinal asymmetry was consistently observed in participants who developed cardiovascular disease. Retinal nerve fiber layer asymmetry showed the most consistent associations with incident outcomes, with hazard ratios ranging from ∼1.07 for atrial fibrillation to 1.15 for heart failure per SD increase. Models including retinal nerve fiber layer asymmetry modestly improved cardiovascular risk prediction compared with mean retinal thickness alone. Exploratory proteomic analyses suggested associations between retinal nerve fiber layer asymmetry and circulating signatures related to extracellular matrix remodeling, inflammation, and insulin-like growth factor signaling. CONCLUSIONS: Intereye retinal asymmetry, particularly retinal nerve fiber layer asymmetry, is associated with incident cardiovascular disease and may represent a candidate optical coherence tomography-derived marker for cardiovascular risk stratification.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050850"
+ },
+ {
+  "idx": 23,
+  "journal": "J Am Heart Assoc",
+  "title": "Changing Comorbidity Clusters in Patients With Congenital Heart Disease Across the Lifespan.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Benefiting from advances in medical care, patients with congenital heart disease (CHD) now survive to adulthood but face elevated risks of cardiac and noncardiac complications. Understanding how comorbidity evolves across the lifespan is the cornerstone to improving long-term outcomes. We hypothesized that comorbidity occurs in clusters that change over time in patients with CHD. METHODS: Using the Quebec CHD database with 35 years of follow-up (1983-2017), we designed a longitudinal cohort study evaluating 38 International Classification of Diseases, Ninth Revision/Tenth Revision (ICD-9/10) coded comorbidities. Observed sequences of comorbidities were mapped using median ages of onset. Associations between disease pairs were quantified using hazard ratios from Cox proportional hazard models adjusting for age, sex, genetic syndrome, competing risks of death, and time-varying predictor diseases. RESULTS: The cohort comprised 9764 individuals with severe CHD and 127 728 with nonsevere CHD. Patients with severe CHD demonstrated higher cumulative probabilities of developing comorbidities than those with nonsevere CHD from birth to older adulthood. By age 40 years, cumulative probabilities for developing cardiac, vascular, endocrine/metabolic, digestive, infectious, renal, and neurological disease were ≥2-fold higher in severe versus nonsevere CHD. Median ages of onset for most comorbidities occurred below age 40 in severe CHD, 2 to 3 decades earlier than patients with nonsevere CHD where peak comorbidity onsets occurred between their 60s and 80s. Disease progression in severe CHD began with childhood cardiovascular diseases, progressing to early-adulthood metabolic, hepatic, renal diseases, and later heart failure and dementia. CONCLUSIONS: Distinct multimorbidity clusters were observed by CHD severity, with earlier clustering in severe CHD, highlighting the need for early risk characterization and preventive strategies.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.048813"
+ },
+ {
+  "idx": 28,
+  "journal": "Europace",
+  "title": "Subcutaneous and Extravascular Implantable Cardioverter-Defibrillators: A Clinical Framework for Breast Surgery, Pregnancy, Lactation, Radiation Therapy, and Breast Imaging.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "The subcutaneous implantable cardioverter-defibrillator and extravascular implantable cardioverter-defibrillator do not require intravascular, intracardiac, or epicardial leads, making them attractive alternatives to transvenous implantable cardioverter defibrillators in patients without bradycardia pacing or cardiac resynchronization therapy indications. These systems are especially useful for patients with venous access challenges and those at risk for endovascular infections, including patients with renal failure or those who are immunocompromised. Women with prior or anticipated breast surgery, such as mastectomy or breast reconstruction surgery, or those who are lactating present unique anatomic, procedural, and post-operative quality-of-life considerations. This commentary provides a practical, scenario-based framework for managing this unique patient group. Key considerations include individualized incision and pulse generator planning, proactive multidisciplinary coordination, procedure-specific management, and shared decision-making in patients with prior or anticipated breast augmentation or reduction, pregnancy, lactation, mastectomy, radiation therapy, and breast imaging.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag274"
+ },
+ {
+  "idx": 33,
+  "journal": "Lancet",
+  "title": "Cardiovascular safety of orforglipron versus insulin glargine in adults with type 2 diabetes at increased cardiovascular risk (ACHIEVE-4): a phase 3, event-driven, randomised, open-label, non-inferiority, active comparator trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Orforglipron is an oral, non-peptide GLP-1 receptor agonist. While some peptide GLP-1 receptor agonists have established cardiovascular benefit, the cardiovascular safety of non-peptide GLP-1 receptor agonists has not been studied. This study aimed to compare the effect of orforglipron with insulin glargine on the incidence of major adverse cardiovascular events in individuals with type 2 diabetes and obesity or overweight who are at increased risk for cardiovascular events. METHODS: This event-driven, phase 3, multicentre, randomised, open-label, active comparator, parallel-group study was conducted in 317 sites across 16 countries and territories. Adults with type 2 diabetes at increased cardiovascular risk with glycated haemoglobin (HbA1c) concentrations between 7·0% and 10·5% (53-91 mmol/mol) and a BMI of 25 kg/m2 or more, treated with up to three glucose-lowering medications (metformin, a sulfonylurea, and/or an SGLT2 inhibitor), were randomly assigned (1:1) to oral orforglipron maximum tolerated dose (up to 36 mg capsule [equivalent to 17·2 mg tablet]) or injectable titrated insulin glargine, each administered once daily. All participants had established cardiovascular or chronic kidney disease. The primary outcome was time to occurrence of four-component major adverse cardiovascular events (MACE-4), including cardiovascular death, non-fatal myocardial infarction, non-fatal stroke, or hospitalisation for unstable angina. Non-inferiority of orforglipron to insulin glargine was declared if the upper limit of the two-sided 95% CI for the hazard ratio (HR; orforglipron vs insulin glargine) was less than 1·8. The primary endpoint and other safety endpoints were assessed in all participants who took at least one dose of assigned treatment using all datapoints from baseline until withdrawal or study completion, regardless of treatment adherence. This trial was registered on ClinicalTrials.gov (NCT05803421) and is completed. FINDINGS: Between May 1, 2023, and Sept 5, 2024, 2749 participants were randomly assigned (1371 to orforglipron and 1378 to insulin glargine). 1032 (38%) participants were female and 1717 (62·5%) male. 2362 (85·9%) participants had established cardiovascular disease and 1033 (37·6%) had chronic kidney disease. Mean baseline age, HbA1c, and BMI were 63·1 years (SD 9·9), 8·2% (1·0), and 33 kg/m2 (6·2), respectively. Over a median follow-up of 2 years, the primary outcome occurred in 57 (4·2%) of 1358 orforglipron participants and 67 (5·0%) of 1343 insulin glargine participants, showing non-inferiority to insulin glargine for MACE-4 (HR 0·84; 95% CI 0·59-1·20; p<0·0001 for non-inferiority). Gastrointestinal adverse events were reported in 851 (62·1%) of 1371 orforglipron participants and 193 (14·2%) of 1355 insulin glargine participants; clinically significant or severe hypoglycaemia (glucose <3 mmol/L [54 mg/dL]) occurred in 93 (6·8%) of 1371 orforglipron participants and 260 (19·2%) of 1355 insulin glargine participants. 62 deaths were reported during the study: 19 (1·4%) of 1371 participants receiving orforglipron and 43 (3·2%) of 1355 participants receiving insulin glargine; all deaths except one (in the insulin glargine group) were deemed unrelated to treatment. INTERPRETATION: In people with type 2 diabetes at increased cardiovascular risk, the cardiovascular safety of orforglipron was confirmed by demonstrating non-inferiority to insulin glargine for MACE-4. Gastrointestinal adverse events were the most frequent adverse event and most common reason for orforglipron treatment discontinuation with orforglipron, while clinically significant hypoglycaemia occurred less frequently with orforglipron than with insulin glargine. These findings support orforglipron as a potential once-daily, oral treatment option with established cardiovascular safety in people with type 2 diabetes and increased cardiovascular risk. FUNDING: Eli Lilly and Company.",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1016/S0140-6736(26)01865-9"
+ },
+ {
+  "idx": 38,
+  "journal": "Circulation",
+  "title": "Impact of Undertreated Antithrombotic Therapy on Adverse Patient Outcomes: A Scientific Statement From the American Heart Association.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Antithrombotic therapy undertreatment includes omission, nonadherence, underdosing, and clinical circumstances that result in subtherapeutic antithrombotic levels. Antithrombotic undertreatment has profound implications for patient safety, public health, and healthcare costs. Due to deviation from evidence-based clinical practice, misperceptions of bleeding versus thrombotic risk, and inequities in healthcare access, many patients with atrial fibrillation, venous thromboembolism, or peripheral artery disease remain untreated or receive suboptimal anticoagulant dosing. Antithrombotic undertreatment has been shown to increase rates of ischemic stroke, systemic embolism, recurrent thrombosis, and mortality. Real-world data continue to highlight substantial gaps in care, which appear to be magnified in patients with inequity in social determinants of health. The emergence of antithrombotic stewardship, in concert with growing bodies of literature on antithrombotic agent underdosing, represents a transformative opportunity to address these gaps through structured, interprofessional, and evidence-based approaches. Through interdisciplinary collaboration, healthcare professionals are well positioned to enhance patient health and safety by recognizing and recommitting to reducing antithrombotic undertreatment.",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1161/CIR.0000000000001474"
+ },
+ {
+  "idx": 43,
+  "journal": "Circ Res",
+  "title": "FGFR1/KLB-MFG-E8 Maintains Microvascular Integrity and Adaptive Cardiac Remodeling.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Endothelial defects in the heart are a contributor to cardiac pathological remodeling and dysfunction, which can be influenced by cardiomyocytes. Here, we explore cardioprotective crosstalk between cardiomyocytes and endothelial cells under diabetic conditions. METHODS: Type 2 diabetes was induced in male and female mice using a high-fat, high-sucrose diet in conjunction with low-dose streptozotocin. Cardiomyocyte-specific deletion of FGFR1 (fibroblast growth factor receptor 1) or KLB (beta-Klotho) was achieved by crossing floxed mice with αMHC (alpha-myosin heavy chain)-Cre transgenic mice, while the treatment potential was assessed by recombinant adeno-associated virus 9 delivery systems or administration of recombinant protein. Various in vitro models were used to investigate the mechanisms under a diabetes-like condition. The molecular mechanisms were explored through transcriptomics, proteomics, cytokine arrays, angiogenesis assays, histology, and luciferase reporter assays. RESULTS: Human diabetic hearts exhibited impaired angiogenic pathways with a marked reduction in myocardial capillary density. Multiomics profiling also revealed alterations in the FGFR1 (fibroblast growth factor receptor 1) pathway in mouse diabetic hearts. Both cardiomyocyte-specific FGFR1- and KLB- knockout mice exhibited reduced capillary abundance and developed decompensated cardiac remodeling. Mechanistic studies identified CEBPβ (CCAAT/enhancer binding protein beta) as a downstream transcription factor of the FGFR1/KLB pathway regulating MFG-E8 (milk fat globule-EGF factor 8) expression in cardiomyocytes. Cardiomyocyte-secreted MFG-E8 enhanced endothelial viability and branching. Importantly, the detrimental effects on the heart were rescued by corestoration of cardiac FGFR1 and KLB, whereas neither alone was sufficient, underscoring their synergistic action against diabetic stress. Finally, genetic or pharmacological enhancement of MFG-E8 reversed myocardial capillary rarefaction and led to an improvement in cardiac function, albeit with more pronounced therapeutic effects in males. CONCLUSIONS: Our findings demonstrate FGFR1/KLB-mediated cardioprotective mechanisms through cardiomyocyte-endothelial cell crosstalk and provide evidence that preserving adaptive remodeling represents a promising strategy to alleviate heart failure in both sexes.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCRESAHA.125.327950"
+ },
+ {
+  "idx": 48,
+  "journal": "J Am Coll Cardiol",
+  "title": "Food and Health: Nutrition for Prevention and Management of Cardiovascular Disease: 2026 ACC Scientific Statement: A Report of the American College of Cardiology.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Nutrition is a foundational determinant of cardiovascular health and a central component of the prevention and management of cardiovascular disease, type 2 diabetes, obesity, chronic kidney disease, and cardiovascular-kidney-metabolic syndrome. Suboptimal dietary patterns remain among the leading modifiable causes of morbidity and mortality worldwide. Contemporary evidence supports a shift in nutrition guidance from isolated nutrients toward whole foods and dietary patterns that emphasize overall dietary quality, food choice, and degree of processing. This American College of Cardiology Scientific Statement reviews current evidence regarding nutrition and cardiovascular health, including macronutrients, micronutrients, dietary patterns, ultra-processed foods, and emerging nutrition-based interventions. Evidence from randomized controlled trials, prospective cohort studies, and mechanistic investigations consistently supports replacing saturated fats with unsaturated fats, increasing consumption of dietary fiber and whole grains, reducing consumption of sodium and ultra-processed foods (particularly sugar-sweetened beverages and processed meats), and greater adherence to healthy dietary patterns to lower cardiovascular risk. Mediterranean, DASH (Dietary Approaches to Stop Hypertension), vegetarian, and other plant-rich dietary patterns demonstrate favorable effects on blood pressure, lipids, glycemic control, and body weight, and are consistently associated with lower rates of cardiovascular disease and mortality. Translation of nutrition science into clinical practice requires integration of dietary counseling, medical nutrition therapy, Food Is Medicine programs, public policy initiatives, and clinician education. Collectively, current evidence supports dietary patterns centered on minimally processed plant foods while limiting ultra-processed foods, particularly those high in refined starches, added sugars, sodium, or unhealthy fats, and emphasizing healthy sources of fats and proteins to reduce cardiovascular risk and improve population health.",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1016/j.jacc.2026.08.025"
+ },
+ {
+  "idx": 53,
+  "journal": "Eur Heart J Cardiovasc Imaging",
+  "title": "TAPSE/sPAP Ratio Associated with Increased Mortality in Subjects With and Without Cardiovascular Comorbidities- Insights from a Tertiary Center Database.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Tricuspid-annular-plane-systolic-excursion (TAPSE)- systolic pulmonary artery pressure (sPAP) ratio is an emerging parameter of right-ventricle and pulmonary circulation coupling. OBJECTIVES: To elucidate a TAPSE/sPAP threshold associated with increased mortality in consecutive subjects, with and without cardiovascular comorbidities, undergoing echocardiography in a tertiary referral center. METHODS: We performed a retrospective analysis of consecutive subjects undergoing echocardiography in a single tertiary center between 2011-2021. TAPSE was measured using M-mode and sPAP was calculated by summing tricuspid valve pressure gradient and right atrium pressure. Cut-off values associated with excess mortality were assessed using spline curves in univariate, and multivariate Cox analyses. RESULTS: A total of 17951 subjects were included in the current analysis (47% females; median age: 71 y/o; interquartile range [IQR]: 58-81). Median TAPSE and sPAP were 21 mm (IQR: 18-25) and 31 mmHg (IQR: 26-41), respectively. A TAPSE/sPAP ratio of <0.68 mm/mmHg was associated with excess mortality. In sub-group analysis, among subjects with and without cardiovascular comorbidities, a ratio of <0.53 and <0.79 mm/mmHg, respectively, was associated with excess mortality. In a multivariate model adjusted for baseline and echocardiographic parameters a TAPSE/sPAP ratio <0.68 mm/mmHg was independently associated with increased mortality (adjusted hazard ratio 1.52, 95% confidence interval 1.42-1.63; p < 0.001). CONCLUSION: Excess mortality in consecutive subjects performing echocardiography in a tertiary center is seen at higher TAPSE/sPAP values than previously described. The TAPSE/sPAP cutoff associated with excess mortality is influenced by comorbidities and hospitalization status.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/ehjci/jeag275"
+ },
+ {
+  "idx": 58,
+  "journal": "Circ Res",
+  "title": "Arterial Resident But Not Monocyte-Derived Macrophages Require Endothelial CSF1.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Tissue-resident macrophages (T-RMøs) accumulate at sites predisposed to atherosclerosis in the healthy aortic intima. T-RMøs require local cues for their maintenance, but the niche signals governing their persistence in arterial tissue remain poorly defined. Here, we identify distinct, spatially compartmentalized sources of CSF1 (colony-stimulating factor 1) that regulate T-RMø populations in the healthy aorta and during atherosclerosis, a chronic inflammatory disease. METHODS: Conditional Csf1 gene deletion (global, endothelial, arterial endothelial, and mesenchymal cell) or systemic antibody blockade was performed in normal or hypercholesterolemic Ldlr-/- mice. Cx3cr1 lineage tracing of T-RMøs initiated before hypercholesterolemia distinguished these cells from monocyte-derived macrophages in atherosclerotic lesions. Bone marrow transplantation enabled lineage tracing of T-RMøs and Csf1 deletion in endothelial cells. Ccr2 lineage tracing directly assessed monocyte-derived macrophages. A novel en face immunoconfocal microscopy approach accurately enumerated macrophages in aortic lesions. RESULTS: Conditional Csf1 deletion revealed that arterial endothelial cell-derived CSF1 is essential for T-RMø steady-state maintenance. In contrast, adventitial macrophages rely on CSF1 produced by PDGFRβ-expressing mesenchymal, but not endothelial, cells. CSF1 primarily supports intimal macrophage proliferation and retention rather than survival. Postnatal parabiosis revealed only occasional clusters of parabiont blood monocyte-derived macrophages in the normal intima. During hypercholesterolemia-initiated atherogenesis, the abundance of T-RMøs increases then gradually declines, while an inflammatory response consisting of monocyte recruitment progressively expands the total number of lesion macrophages. Endothelial, but not mesenchymal, CSF1 is required for optimal macrophage accumulation in 4-week foam cell lesions. Lineage tracing showed that CSF1, specifically endothelial-derived CSF1, is required for the maintenance of T-RMøs, but not monocyte-derived macrophages, in atherosclerotic lesions. CONCLUSIONS: Our study uncovers a unique role of local endothelial cell CSF1 in maintaining the intimal, but not adventitial, T-RMø niche during homeostasis and early stages of atherosclerosis and reveals that maintenance of monocyte-derived macrophages in lesions is distinct.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCRESAHA.126.328541"
+ },
+ {
+  "idx": 63,
+  "journal": "Heart Rhythm",
+  "title": "Atrial Standstill: From Molecular Genetics to Clinical Management - A Narrative Review.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Atrial standstill (AS) is the complete absence of atrial electrical and mechanical activity caused by diffuse atrial myocardial disease, distinct from sinus node dysfunction. First documented in 1897 and often misdiagnosed as atrial fibrillation, it arises from SCN5A loss-of-function, NPPA, or EMD/LMNA mutations, muscular dystrophies, and infiltrative or idiopathic fibrotic processes. Diagnosis requires absent P waves, absent atrial electrograms, and failure of atrial capture at maximal pacing output, with late gadolinium enhancement MRI and electroanatomic mapping demonstrating diffuse fibrosis. Thromboembolism complicates 30-54% of cases. Management comprises permanent pacing, anticoagulation, and gene-specific risk stratification for defibrillator eligibility. AS is best understood as the end-stage of fibrotic atrial cardiomyopathy (EHRAS Class II-III); absence of trials, unvalidated risk tools, and incomplete genotype-phenotype correlation warrant a multicenter registry.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.09.030"
+ },
+ {
+  "idx": 68,
+  "journal": "Nat Cardiovasc Res",
+  "title": "All-fiber wireless auscultation garment for cardiopulmonary diagnostics.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Daily apparel could enable continuous, noninvasive monitoring of cardiopulmonary health for the early detection and treatment of cardiopulmonary diseases, the leading causes of death and disability worldwide. Here we develop an all-fiber wireless auscultation system seamlessly integrated into garments. An ~150-μm-diameter fiber contact microphone is sewn, knitted or woven into clothing to capture deep-body acoustic signals while overcoming acoustic impedance mismatch and electromagnetic noise. An ~500-μm knitted fiber computer enables real-time signal processing and Bluetooth transmission to a mobile device. A clinical study in 10 patients with heart failure and 20 neonates demonstrated cardiopulmonary sound capture, including qualitative examples of pathological acoustic features such as cardiac murmurs, S3 gallops and crackles. Comparative validation against a digital stethoscope confirms the garment's ability to suppress environmental noise for high-fidelity cardiopulmonary sound capture. In addition, the fiber integrated within the garment array enables spatial sound mapping of cardiac and pulmonary abnormalities for localized diagnostics.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s44161-026-00882-8"
+ }
+]
