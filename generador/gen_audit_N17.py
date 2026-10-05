@@ -24,7 +24,7 @@ for s in _selraw:
     if not s.get("pmid"):
         s["pmid"] = _recuperados.get(s["title"], "CR:" + s["key"])
 sel = {s["pmid"]: s for s in _selraw}
-DEST = "a1"; TOP3 = ("a6", "a7", "a8")
+DEST = "a1"; TOP3 = ("a7", "a6", "a9")
 SECN = {1: "Cardiología preventiva", 2: "Cardiometabolismo", 3: "Dislipemia", 4: "Cardiopatía isquémica",
         5: "Insuficiencia cardíaca", 6: "Miocardiopatías", 7: "Valvulopatías", 8: "Imagen cardíaca",
         9: "Cardiología intervencionista", 10: "Arritmias y electrofisiología"}
@@ -136,12 +136,12 @@ head = re.sub(r'\d+\s*[–-]\s*\d+ (?:ene|feb|mar|abr|may|jun|jul|ago|sep|oct|no
               '28 sep – 4 oct 2026', head)
 head = head.replace("Reglas de selección (N16).", "Reglas de selección (N17).")
 NOTA_TOP3 = ('<p class="intro" style="margin-top:10px;"><b>Nota sobre el bloque «No te los puedes perder» (N17).</b> '
- 'El <span class="star">★</span> <b>Destacado</b> y los tres titulares salen <b>directamente del ranking</b> de la rúbrica '
- 'de 6 ejes, sin ninguna corrección editorial: a1 (8,72), a6 (8,56), a7 (8,51) y a8 (8,41). La semana está dominada por el '
- 'programa de incretinas —retatrutida en obesidad con diabetes (TRIUMPH-2, <i>Lancet</i>) y sin diabetes (TRIUMPH-1, '
- '<i>N Engl J Med</i>), orforglipron frente a glargina (ACHIEVE-4, <i>Lancet</i>) y survodutida (SYNCHRONIZE-2, '
- '<i>N Engl J Med</i>)— y por la nueva <b>guía perioperatoria 2026 AHA/ACC</b>, que sustituye por completo a la de 2014 y '
- 'ocupa el Destacado. '
+ 'El <span class="star">★</span> <b>Destacado</b> sale directamente del ranking de la rúbrica de 6 ejes: a1 (8,72), la nueva '
+ '<b>guía perioperatoria 2026 AHA/ACC</b>, que sustituye por completo a la de 2014. Los tres titulares son una '
+ '<b>decisión editorial del Dr. Marzal</b> (05-oct-2026) y no el orden estricto de la rúbrica: retatrutida en obesidad '
+ '(TRIUMPH-1, <i>N Engl J Med</i>, a7, 8,51), retatrutida en obesidad con diabetes tipo 2 (TRIUMPH-2, <i>Lancet</i>, a6, '
+ '8,56) y survodutida en obesidad con diabetes tipo 2 (SYNCHRONIZE-2, <i>N Engl J Med</i>, a9, 8,04), en ese orden; '
+ 'orforglipron frente a glargina (ACHIEVE-4, <i>Lancet</i>, a8, 8,41) sigue como ficha Imprescindible en Cardiometabolismo. '
  'La auditoría de cobertura por Crossref (PASO 1b) recuperó el ensayo TRIUMPH-2 de <i>Lancet</i>, que PubMed no había '
  'indexado en el barrido por <i>edat</i>; las ausencias de <i>Lancet</i> y <i>JAMA</i> corresponden a material no '
  'cardiovascular o de opinión. Los ocho artículos de <i>EuroIntervention</i> de la ventana, que PubMed no indexa a '
@@ -149,9 +149,9 @@ NOTA_TOP3 = ('<p class="intro" style="margin-top:10px;"><b>Nota sobre el bloque 
  'en el número (subestudio HBR de SELUTION DeNovo y análisis de éxito del dispositivo de Multivessel TALENT en '
  'Intervencionista; subestudio de DanGer Shock en Insuficiencia cardíaca) y desplazan por puntuación a tres '
  'Complementarios; los otros cinco son editoriales o cartas de investigación sin resumen. El artículo de '
- '<i>Atherosclerosis</i> sobre inflamación y lipoproteína(a) sigue sin resumen accesible (no indexado en PubMed y '
- 'bloqueado en ScienceDirect), por lo que se descarta por la regla del resumen; es el motivo de que la sección de '
- 'Dislipemia aparezca sin novedades esta semana.</p>')
+ '<i>Atherosclerosis</i> sobre inflamación y lipoproteína(a) en el UK Biobank (online el 2 de octubre) no está en '
+ 'PubMed ni trae resumen en Crossref; su resumen se leyó en la web de la revista (acceso abierto) y entra como único '
+ 'artículo de la sección de Dislipemia, a petición del Dr. Marzal.</p>')
 head = re.sub(r'<p class="intro" style="margin-top:10px;"><b>Nota sobre el bloque.*?</p>', lambda _m: NOTA_TOP3, head, count=1, flags=re.S)
 head = re.sub(r'da <b>\d+ seleccionados</b> esta semana', f'da <b>{nsel} seleccionados</b> esta semana', head)
 head = re.sub(r'<div class="box">.*?</div>', lambda _m: '<div class="box">' + box_html + '</div>', head, count=1, flags=re.S)

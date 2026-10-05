@@ -1053,5 +1053,30 @@
   "rec": "crossref",
   "title": "Complexity of coronary artery disease in infarct-related cardiogenic shock and multivessel disease: a substudy of the DanGer Shock trial",
   "abstract": "Background: The prognostic impact of multivessel coronary anatomy and complexity in infarct-related cardiogenic shock (CS) is insufficiently characterised. Aims: We sought to investigate the prognostic value of baseline and residual SYNTAX scores and their influence on the effect of microaxial flow pump (mAFP) support in multivessel disease (MVD) and infarct-related CS. Methods: In this secondary analysis of the DanGer Shock trial, MVD was defined as ≥1 non-culprit stenosis ≥70% or an isolated left main (LM) culprit lesion. Baseline SYNTAX scores were categorised as low (≤22), intermediate (23-32), or high (>32). Patients with an isolated LM culprit lesion were analysed separately. The primary outcome was 180-day all-cause mortality. Results: Of 355 patients included in DanGer Shock, 256 patients had MVD; 211 had an available baseline SYNTAX score, with 26% of these in the low, 47% in the intermediate, and 27% in the high baseline SYNTAX groups. In all, 35 patients had an isolated LM culprit lesion. A high baseline SYNTAX score was associated with higher odds of 180-day all-cause mortality compared with low and intermediate baseline SYNTAX scores (adjusted odds ratio [OR] 3.12, 95% confidence interval [CI]: 1.17-8.69). A higher baseline SYNTAX score was associated with a higher residual SYNTAX score (p<0.001). The residual SYNTAX score independently predicted 180-day all-cause mortality. The mAFP effect was not modified by the baseline SYNTAX group (p for interaction=0.31). In patients with an isolated LM culprit lesion, mAFP use was associated with lower odds of 180-day all-cause mortality compared with standard care alone (adjusted OR 0.17, 95% CI: 0.03-0.99). Conclusions: Baseline and residual SYNTAX scores independently predicted 180-day mortality. The mAFP effect was not modified by SYNTAX measures. In the isolated left main subgroup, a hypothesis-generating signal towards a clinical benefit with mAFP use was observed."
+ },
+ {
+  "key": "a46",
+  "idx": null,
+  "pmid": "CR:10.1016/j.atherosclerosis.2026.121916",
+  "doi": "10.1016/j.atherosclerosis.2026.121916",
+  "pii": "S0021915026012827",
+  "journal": "Atherosclerosis",
+  "sec": 3,
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "rel": 7,
+  "cambio": 4,
+  "evid": 5,
+  "efecto": 4,
+  "rep": 4,
+  "fi": 4,
+  "total": 4.8,
+  "prio": "Complementario",
+  "oblig": false,
+  "noabs": false,
+  "alt": null,
+  "rec": "crossref",
+  "title": "Inflammation and Lipoprotein(a) as Predictors of Cardiovascular Events Across Baseline Risk Levels – Results from the UK Biobank",
+  "abstract": "AIMS: To determine how high-sensitivity C-reactive protein (hsCRP) and lipoprotein(a) [Lp(a)] predict major adverse cardiovascular events (MACE) across the spectrum of baseline cardiovascular risk. METHODS: UK Biobank participants were grouped according to baseline cardiovascular risk. The primary endpoint was first MACE (myocardial infarction, ischaemic stroke, cardiovascular death). Cox models estimated sex-specific hazard ratios (HR) based on standardised (per standard deviation [SD]) and categorised (quartile) biomarker levels, adjusted for components of the Systematic COronary Risk Evaluation (SCORE) 2 model and the other biomarker. RESULTS: Median follow-up duration was 15.2 years. There were 241010 low-risk, 74179 high-risk, 25512 very high-risk, 60177 treated (lipid-lowering therapy) and 15720 secondary prevention participants included. Median calculated 10-year cardiovascular risk in the low-, high- and very high-risk subgroups was 1.8%, 6.3% and 10.4% respectively. Continuous hsCRP levels were directly associated with MACE in both sexes across all subgroups (p<0.001). The strongest quartile effect was in the secondary prevention cohorts (Q4 vs Q1: HR +79% men, +81% women; p<0.001). HsCRP associated with each MACE component. Lp(a) predicted MACE independently but heterogeneously: in women associations were consistent across subgroups (per-SD HR 1.06-1.11; p≤0.005), whereas in men Lp(a) predicted MACE only in primary prevention subgroups (per-SD HR 1.11-1.15; p<0.001) but not in secondary prevention (p=0.65). In primary prevention subgroups, Lp(a) associations were driven largely by myocardial infarction (p<0.001). CONCLUSION: HsCRP and Lp(a) provide prognostic information beyond traditional risk factors used in SCORE2. These findings endorse selective measurement of hsCRP and Lp(a) to refine risk stratification, though randomised trials are needed to validate biomarker-directed interventions."
  }
 ]
