@@ -1,0 +1,127 @@
+{
+ "numero": "n17",
+ "motivo": "nube",
+ "explicacion": "La verificación de enlaces uno por uno (PASO 7b) NO se puede completar desde la nube: el egreso del entorno deniega la salida a doi.org, jacc.org, sciencedirect.com, ahajournals.org, nejm.org y eurointervention.pcronline.com (curl devuelve HTTP 000), y hace falta un navegador real para distinguir un 'Page Not Found' del muro de Cloudflare. check_links.py sí se ejecutó: sus avisos de 'DOI NO REGISTRADO' se comprobaron DOI a DOI con api.crossref.org y todos devuelven HTTP 200, es decir eran los falsos positivos por rate-limiting descritos en la SKILL. No hay ningún linkfix.",
+ "instrucciones": "En el Mac: python3 generador/revisar_enlaces.py 17 y abrir las tandas de 4 en Chrome real. Los que den 'Page Not Found' se redirigen con python3 generador/enlaces_directos.py 17 --pii <clave> ... y después se regenera con gen_bilingue.py n17 y gen_audit_N17.py.",
+ "pendientes": [
+  {
+   "key": "a1",
+   "journal": "J Am Coll Cardiol",
+   "doi": "10.1016/j.jacc.2026.06.017",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.06.017",
+   "host": "www.jacc.org"
+  },
+  {
+   "key": "a2",
+   "journal": "J Am Coll Cardiol",
+   "doi": "10.1016/j.jacc.2026.08.025",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.08.025",
+   "host": "www.jacc.org"
+  },
+  {
+   "key": "a6",
+   "journal": "Lancet",
+   "doi": "10.1016/S0140-6736(26)01861-1",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0140673626018611",
+   "host": "www.sciencedirect.com"
+  },
+  {
+   "key": "a7",
+   "journal": "N Engl J Med",
+   "doi": "10.1056/NEJMoa2604169",
+   "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2604169",
+   "host": "www.nejm.org"
+  },
+  {
+   "key": "a8",
+   "journal": "Lancet",
+   "doi": "10.1016/S0140-6736(26)01865-9",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0140673626018659",
+   "host": "www.sciencedirect.com"
+  },
+  {
+   "key": "a9",
+   "journal": "N Engl J Med",
+   "doi": "10.1056/NEJMoa2607219",
+   "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2607219",
+   "host": "www.nejm.org"
+  },
+  {
+   "key": "a15",
+   "journal": "JACC Heart Fail",
+   "doi": "10.1016/j.jchf.2026.103377",
+   "url": "https://www.jacc.org/doi/10.1016/j.jchf.2026.103377",
+   "host": "www.jacc.org"
+  },
+  {
+   "key": "a18",
+   "journal": "JACC Cardiovasc Imaging",
+   "doi": "10.1016/j.jcmg.2026.08.007",
+   "url": "https://www.jacc.org/doi/10.1016/j.jcmg.2026.08.007",
+   "host": "www.jacc.org"
+  },
+  {
+   "key": "a21",
+   "journal": "JACC Cardiovasc Interv",
+   "doi": "10.1016/j.jcin.2026.05.040",
+   "url": "https://www.jacc.org/doi/10.1016/j.jcin.2026.05.040",
+   "host": "www.jacc.org"
+  },
+  {
+   "key": "a22",
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103291",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103291",
+   "host": "www.jacc.org"
+  },
+  {
+   "key": "a23",
+   "journal": "JACC Cardiovasc Interv",
+   "doi": "10.1016/j.jcin.2026.06.034",
+   "url": "https://www.jacc.org/doi/10.1016/j.jcin.2026.06.034",
+   "host": "www.jacc.org"
+  },
+  {
+   "key": "a24",
+   "journal": "Rev Esp Cardiol (Engl Ed)",
+   "doi": "10.1016/j.rec.2026.09.002",
+   "url": "https://www.sciencedirect.com/science/article/pii/S1885585726002161",
+   "host": "www.sciencedirect.com"
+  },
+  {
+   "key": "a27",
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103297",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103297",
+   "host": "www.jacc.org"
+  },
+  {
+   "key": "a33",
+   "journal": "JACC Cardiovasc Interv",
+   "doi": "10.1016/j.jcin.2026.06.027",
+   "url": "https://www.jacc.org/doi/10.1016/j.jcin.2026.06.027",
+   "host": "www.jacc.org"
+  },
+  {
+   "key": "a36",
+   "journal": "JACC Cardiovasc Interv",
+   "doi": "10.1016/j.jcin.2026.06.018",
+   "url": "https://www.jacc.org/doi/10.1016/j.jcin.2026.06.018",
+   "host": "www.jacc.org"
+  },
+  {
+   "key": "a39",
+   "journal": "Rev Esp Cardiol (Engl Ed)",
+   "doi": "10.1016/j.rec.2026.09.001",
+   "url": "https://www.sciencedirect.com/science/article/pii/S1885585726002136",
+   "host": "www.sciencedirect.com"
+  },
+  {
+   "key": "a40",
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103295",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103295",
+   "host": "www.jacc.org"
+  }
+ ]
+}
