@@ -37,9 +37,6 @@ def sha(p):
 def main():
     args = sys.argv[1:]
     nums = [a for a in args if a.isdigit()]
-    if not nums:
-        raise SystemExit("Uso: python3 generador/recolocar_mac.py <n> [--pull] [--escritorio] [--dry-run]")
-    n = nums[0]
     pull  = "--pull" in args
     force_desk = "--escritorio" in args
     dry   = "--dry-run" in args
@@ -55,6 +52,26 @@ def main():
     if pull and not dry:
         print(subprocess.run(["git", "-C", repo, "pull", "--ff-only"], capture_output=True, text=True).stdout.strip())
 
+    # Sin numeros explicitos: los ULTIMOS que haya publicados en el repo (por defecto 2).
+    if not nums:
+        k = 2
+        if "--ultimos" in args:
+            i = args.index("--ultimos")
+            if i + 1 < len(args) and args[i + 1].isdigit(): k = int(args[i + 1])
+        pub = sorted((int(d[1:]) for d in os.listdir(repo)
+                      if d.startswith("n") and d[1:].isdigit()
+                      and os.path.exists(os.path.join(repo, d, "index.html"))), reverse=True)
+        nums = [str(x) for x in pub[:k]]
+        print(f"Sin numero explicito: recoloco los {len(nums)} ultimos publicados -> N{', N'.join(nums)}\n")
+    if not nums:
+        raise SystemExit("No hay ningun numero publicado en " + repo)
+
+    for n in nums:
+        recoloca(n, repo, work, uicar, desk, force_desk, dry)
+
+def recoloca(n, repo, work, uicar, desk, force_desk, dry):
+
+    print(f"--- N{n} ---")
     sub = os.path.join(work, f"Briefing Cardiovascular_N{n}")
     plan = [
         (os.path.join(repo, f"n{n}", "index.html"),
