@@ -24,7 +24,7 @@ for s in _selraw:
     if not s.get("pmid"):
         s["pmid"] = _recuperados.get(s["title"], "CR:" + s["key"])
 sel = {s["pmid"]: s for s in _selraw}
-DEST = "a2"; TOP3 = ("a1", "a40", "a35")  # decisión editorial del usuario, 12-oct-2026
+DEST = "a2"; TOP3 = ("a1", "a40", "a35")
 SECN = {1: "Cardiología preventiva", 2: "Cardiometabolismo", 3: "Dislipemia", 4: "Cardiopatía isquémica",
         5: "Insuficiencia cardíaca", 6: "Miocardiopatías", 7: "Valvulopatías", 8: "Imagen cardíaca",
         9: "Cardiología intervencionista", 10: "Arritmias y electrofisiología"}
@@ -140,25 +140,38 @@ head = head.replace("Reglas de selección (N17).", "Reglas de selección (N18)."
 NOTA_TOP3 = ('<p class="intro" style="margin-top:10px;"><b>Nota sobre el bloque «No te los puedes perder» (N18).</b> '
  'Semana sin congreso, sin guías ni documentos mayores de la ESC/ACC/AHA/SEC y sin ningún artículo cardiovascular '
  'original en <i>N Engl J Med</i> ni en <i>Lancet</i>: ningún artículo alcanza el umbral de <b>Imprescindible</b> '
- '(CAMBIO ≥ 8 o TOTAL ≥ 8). Por <b>decisión editorial</b> (12-oct-2026), el <span class="star">★</span> <b>Destacado</b> es a2 (6,32), '
- 'el metaanálisis en red de 30 ensayos y 8.187 pacientes sobre tratamientos para la hipertensión resistente o no controlada '
- '(<i>JACC Adv</i>). Los tres titulares son: el metaanálisis de 27 ensayos y 88.830 participantes sobre descenso intensivo de la '
- 'presión arterial con y sin enfermedad renal crónica (<i>JAMA Cardiol</i>, a1, 7,68), que ocupa el lugar de PARTNER 3 '
- '(a26, 7,08; sigue como ficha en Valvulopatías); el ensayo de flecainida frente a amiodarona para la cardioversión de la '
- 'fibrilación auricular paroxística en pacientes con enfermedad coronaria (FLECA-ED, <i>Heart Rhythm</i>, a40, 6,87) y el '
- 'análisis post hoc de PREVENT sobre carga lipídica por espectroscopia de infrarrojo cercano e ICP preventiva '
- '(<i>Circulation</i>, a35, 6,43). '
+ '(CAMBIO ≥ 8 o TOTAL ≥ 8). El <span class="star">★</span> <b>Destacado</b> y el orden de los titulares son una '
+ '<b>decisión editorial del Dr. Marzal</b> (12-oct-2026) y no el orden estricto de la rúbrica de 6 ejes. '
+ 'Destacado: a2 (6,32), el <b>metaanálisis en red de los tratamientos añadidos en hipertensión resistente o no '
+ 'controlada</b> (<i>JACC Adv</i>), que sitúa la espironolactona (−12,43 mmHg) y la denervación renal por '
+ 'radiofrecuencia (−8,74 mmHg) como las únicas opciones consistentemente superiores al tratamiento de base. '
+ 'Titulares, en este orden: el metaanálisis de descenso intensivo de la presión arterial con y sin enfermedad renal '
+ 'crónica (<i>JAMA Cardiol</i>, a1, 7,68 — el mejor puntuado de la semana, que el Dr. Marzal pasa de Destacado a '
+ 'primer titular), el ensayo de flecainida frente a amiodarona para la cardioversión de la fibrilación auricular '
+ 'paroxística en enfermedad coronaria (FLECA-ED, <i>Heart Rhythm</i>, a40, 6,87) y el análisis post hoc de PREVENT '
+ 'sobre carga lipídica por espectroscopia de infrarrojo cercano e ICP preventiva (<i>Circulation</i>, a35, 6,43). '
+ 'Los resultados de estado de salud a 7 años de PARTNER 3 (<i>J Am Coll Cardiol</i>, a26, 7,08), que por puntuación '
+ 'ocupaban el primer titular, salen del bloque por esa misma decisión y se mantienen como ficha completa en '
+ 'Valvulopatías. '
+ 'Tres artículos de <i>EuroIntervention</i> que la nube había seleccionado (a17, a37 y a39: EIJ-D-26-00460, '
+ 'EIJ-D-26-00889 y EIJ-D-26-00413) se retiraron en el Mac porque <b>ya se habían publicado en N17</b> —el Mac los '
+ 'había recuperado por Crossref con fecha de depósito del 28 de septiembre, y PubMed les asignó después un '
+ '<i>ArticleDate</i> del 5 de octubre, que es lo que los volvió a meter en la ventana de este número—; figuran en '
+ 'el listado con el motivo «ya publicado en N17» y sus plazas las ocupan los tres siguientes de su sección por '
+ 'puntuación: la clasificación de la insuficiencia cardiaca más allá de la FEVI (JROADHF, <i>J Am Heart Assoc</i>), '
+ 'la revisión de imagen intravascular de herramienta de investigación a las guías (<i>Eur Heart J</i>) y la '
+ 'comparación de imagen entre procedimientos de stent en bifurcación (<i>JACC Adv</i>). '
  'La <b>auditoría de cobertura por Crossref</b> (PASO 1b) recuperó dos artículos que la búsqueda por <i>edat</i> no '
- 'vio: el análisis de estado de salud a 7 años de PARTNER 3, del fascículo de <i>J Am Coll Cardiol</i> (vol. 88, '
- 'n.º 14), que es justamente el primero de los tres titulares, y el documento de posición de la Heart Rhythm Society '
- 'sobre la autorización previa en electrofisiología (indexado con <i>edat</i> de 17 de septiembre pero publicado '
- 'online el 6 de octubre). Las ausencias de <i>Lancet</i> (29), <i>JAMA</i> (33) y <i>N Engl J Med</i> (3) se '
- 'revisaron una a una: son material de opinión, correspondencia o no cardiovascular. Quedan <b>pendientes para el '
- 'Mac</b> seis originales de <i>Atherosclerosis</i>, uno de <i>JACC Heart Fail</i> y un análisis secundario de '
- '<i>J Am Coll Cardiol</i> que el editor publicó en la ventana pero que no están en PubMed ni traen resumen en '
- 'Crossref: la red de la nube no alcanza a ScienceDirect, así que por la regla del resumen quedan descartados en este '
- 'número y se anotan en <i>n18_pendiente_mac.json</i>. Secciones con menos de cinco fichas (Dislipemia 2, Cardiopatía '
- 'isquémica 3, Imagen cardíaca 4) por no reunir más artículos elegibles esa semana: no se rellenan.</p>')
+ 'vio: ese mismo análisis de PARTNER 3, del fascículo de <i>J Am Coll Cardiol</i> (vol. 88, n.º 14), y el documento '
+ 'de posición de la Heart Rhythm Society sobre la autorización previa en electrofisiología (indexado con <i>edat</i> '
+ 'de 17 de septiembre pero publicado online el 6 de octubre). Las ausencias de <i>Lancet</i> (29), <i>JAMA</i> (33) y '
+ '<i>N Engl J Med</i> (3) se revisaron una a una: son material de opinión, correspondencia o no cardiovascular. '
+ 'Quedan <b>pendientes para el Mac</b> seis originales de <i>Atherosclerosis</i>, uno de <i>JACC Heart Fail</i> y un '
+ 'análisis secundario de <i>J Am Coll Cardiol</i> que el editor publicó en la ventana pero que no están en PubMed ni '
+ 'traen resumen en Crossref: la red de la nube no alcanza a ScienceDirect, así que por la regla del resumen quedan '
+ 'descartados en este número y se anotan en <i>n18_pendiente_mac.json</i>. Secciones con menos de cinco fichas '
+ '(Dislipemia 2, Cardiopatía isquémica 3, Imagen cardíaca 4) por no reunir más artículos elegibles esa semana: no se '
+ 'rellenan.</p>')
 head = re.sub(r'<p class="intro" style="margin-top:10px;"><b>Nota sobre el bloque.*?</p>', lambda _m: NOTA_TOP3, head, count=1, flags=re.S)
 head = re.sub(r'da <b>\d+ seleccionados</b> esta semana', f'da <b>{nsel} seleccionados</b> esta semana', head)
 head = re.sub(r'<div class="box">.*?</div>', lambda _m: '<div class="box">' + box_html + '</div>', head, count=1, flags=re.S)
