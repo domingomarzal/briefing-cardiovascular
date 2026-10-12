@@ -56,6 +56,8 @@ for f in sorted(glob.glob(GEN + "/n18_out[0-9].json")):
         elif "no cardiovascular" in m: NOCV.add(p)
         elif "básica" in m: BASICA.add(p)
         else: NOELIG.add(p)
+# Ya publicados en N17 (EuroIntervention recuperados por Crossref en el Mac): fuera de N18 (Mac, 12-oct-2026).
+DUPN |= {"42837204", "42837205", "42837202"}
 # Excluidos por DECISIÓN EDITORIAL (ámbito). En N18 no hay ninguno.
 FUERA_AMBITO = set()
 rows = []
@@ -151,6 +153,14 @@ NOTA_TOP3 = ('<p class="intro" style="margin-top:10px;"><b>Nota sobre el bloque 
  'Los resultados de estado de salud a 7 años de PARTNER 3 (<i>J Am Coll Cardiol</i>, a26, 7,08), que por puntuación '
  'ocupaban el primer titular, salen del bloque por esa misma decisión y se mantienen como ficha completa en '
  'Valvulopatías. '
+ 'Tres artículos de <i>EuroIntervention</i> que la nube había seleccionado (a17, a37 y a39: EIJ-D-26-00460, '
+ 'EIJ-D-26-00889 y EIJ-D-26-00413) se retiraron en el Mac porque <b>ya se habían publicado en N17</b> —el Mac los '
+ 'había recuperado por Crossref con fecha de depósito del 28 de septiembre, y PubMed les asignó después un '
+ '<i>ArticleDate</i> del 5 de octubre, que es lo que los volvió a meter en la ventana de este número—; figuran en '
+ 'el listado con el motivo «ya publicado en N17» y sus plazas las ocupan los tres siguientes de su sección por '
+ 'puntuación: la clasificación de la insuficiencia cardiaca más allá de la FEVI (JROADHF, <i>J Am Heart Assoc</i>), '
+ 'la revisión de imagen intravascular de herramienta de investigación a las guías (<i>Eur Heart J</i>) y la '
+ 'comparación de imagen entre procedimientos de stent en bifurcación (<i>JACC Adv</i>). '
  'La <b>auditoría de cobertura por Crossref</b> (PASO 1b) recuperó dos artículos que la búsqueda por <i>edat</i> no '
  'vio: ese mismo análisis de PARTNER 3, del fascículo de <i>J Am Coll Cardiol</i> (vol. 88, n.º 14), y el documento '
  'de posición de la Heart Rhythm Society sobre la autorización previa en electrofisiología (indexado con <i>edat</i> '

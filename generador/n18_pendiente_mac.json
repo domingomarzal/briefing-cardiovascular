@@ -3,14 +3,47 @@
  "ventana": "2026-10-05 a 2026-10-11",
  "detectados_por": "generador/cobertura.py 18 (PASO 1b)",
  "pendientes": [
-  {"journal": "Atherosclerosis", "doi": "10.1016/j.atherosclerosis.2026.121926", "title": "Beyond a single measurement: the role of cumulative LDL-C exposure after percutaneous coronary intervention"},
-  {"journal": "Atherosclerosis", "doi": "10.1016/j.atherosclerosis.2026.121923", "title": "Blood Proteome-Wide Mendelian Randomization Reveals Molecular Pleiotropy in Coronary Artery Disease"},
-  {"journal": "Atherosclerosis", "doi": "10.1016/j.atherosclerosis.2026.121920", "title": "Development and external validation of a non-laboratory model to predict early-onset cardiovascular disease"},
-  {"journal": "Atherosclerosis", "doi": "10.1016/j.atherosclerosis.2026.121919", "title": "Association of Beta-blocker Therapy with Outcomes after ST-segment Elevation Myocardial Infarction"},
-  {"journal": "Atherosclerosis", "doi": "10.1016/j.atherosclerosis.2026.121921", "title": "Functional data for LDLR variant classification: comparative insights from high-content microscopy"},
-  {"journal": "Atherosclerosis", "doi": "10.1016/j.atherosclerosis.2026.121928", "title": "Lp(a) reduction with PCSK9 Inhibitors: How does Real-World Data stack up?"},
-  {"journal": "JACC Heart Fail", "doi": "10.1016/j.jchf.2026.103493", "title": "Implications of Serum Transthyretin to NT-proBNP Ratio in Transthyretin Amyloid Cardiomyopathy"},
-  {"journal": "J Am Coll Cardiol", "doi": "10.1016/j.jacc.2026.09.037", "title": "Sirolimus-coated Balloon Angioplasty for Femoropopliteal Artery Disease Without Tissue Loss: A Secondary Analysis of the SirPAD Trial"}
+  {
+   "journal": "Atherosclerosis",
+   "doi": "10.1016/j.atherosclerosis.2026.121926",
+   "title": "Beyond a single measurement: the role of cumulative LDL-C exposure after percutaneous coronary intervention"
+  },
+  {
+   "journal": "Atherosclerosis",
+   "doi": "10.1016/j.atherosclerosis.2026.121923",
+   "title": "Blood Proteome-Wide Mendelian Randomization Reveals Molecular Pleiotropy in Coronary Artery Disease"
+  },
+  {
+   "journal": "Atherosclerosis",
+   "doi": "10.1016/j.atherosclerosis.2026.121920",
+   "title": "Development and external validation of a non-laboratory model to predict early-onset cardiovascular disease"
+  },
+  {
+   "journal": "Atherosclerosis",
+   "doi": "10.1016/j.atherosclerosis.2026.121919",
+   "title": "Association of Beta-blocker Therapy with Outcomes after ST-segment Elevation Myocardial Infarction"
+  },
+  {
+   "journal": "Atherosclerosis",
+   "doi": "10.1016/j.atherosclerosis.2026.121921",
+   "title": "Functional data for LDLR variant classification: comparative insights from high-content microscopy"
+  },
+  {
+   "journal": "Atherosclerosis",
+   "doi": "10.1016/j.atherosclerosis.2026.121928",
+   "title": "Lp(a) reduction with PCSK9 Inhibitors: How does Real-World Data stack up?"
+  },
+  {
+   "journal": "JACC Heart Fail",
+   "doi": "10.1016/j.jchf.2026.103493",
+   "title": "Implications of Serum Transthyretin to NT-proBNP Ratio in Transthyretin Amyloid Cardiomyopathy"
+  },
+  {
+   "journal": "J Am Coll Cardiol",
+   "doi": "10.1016/j.jacc.2026.09.037",
+   "title": "Sirolimus-coated Balloon Angioplasty for Femoropopliteal Artery Disease Without Tissue Loss: A Secondary Analysis of the SirPAD Trial"
+  }
  ],
- "descartados_sin_pendiente": "Los faltantes de Lancet (29), JAMA (33) y NEJM (3) se revisaron uno a uno: son opinión, comentarios, correspondencia o artículos no cardiovasculares (NordICC, migraña, IA diagnóstica, cáncer de mama, optogenética). El resto de faltantes son 'Editorial Board', 'Contents', 'Full issue PDF' y una corrección."
+ "descartados_sin_pendiente": "Los faltantes de Lancet (29), JAMA (33) y NEJM (3) se revisaron uno a uno: son opinión, comentarios, correspondencia o artículos no cardiovasculares (NordICC, migraña, IA diagnóstica, cáncer de mama, optogenética). El resto de faltantes son 'Editorial Board', 'Contents', 'Full issue PDF' y una corrección.",
+ "intento_mac_12oct": "Mac 12-oct-2026: curl a sciencedirect.com -> HTTP 403; Chrome real -> página genérica 'ScienceDirect' (reto anti-bot); no están en PubMed (esearch por DOI vacío) ni en Semantic Scholar; OpenAlex solo trae resumen de 121921 (variantes LDLR, funcional/laboratorio). Siguen DESCARTADOS por la regla del abstract; reintentar la semana próxima si PubMed los indexa."
 }
