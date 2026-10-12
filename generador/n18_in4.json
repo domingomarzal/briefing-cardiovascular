@@ -1,0 +1,268 @@
+[
+ {
+  "idx": 4,
+  "journal": "Eur J Heart Fail",
+  "title": "GDMT is Associated with Reduced Loop Diuretic Requirements, Whereas Diuretic Dose Does Not Modify GDMT Benefit in Heart Failure: STRONG-HF.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Loop diuretics (LD) are the cornerstone of congestion management in heart failure (HF), but whether their requirement can be reduced by optimizing disease-modifying therapy is unknown. METHODS: In this post-hoc analysis of STRONG-HF (n=1,075 with post-randomization LD data), we assessed whether up-titration of guideline-directed medical therapy (GDMT) lowers LD demand, and whether LD dose reflects HF severity, predicts outcome, or modifies the benefit of high-intensity care. Patients were grouped by furosemide-equivalent dose; change at day 90 was compared by achievement of 100% target GDMT doses. RESULTS: Higher LD doses marked more severe HF. Achieving 100% of target doses of all GDMT classes (RASi, beta-blocker, MRA) translated into a substantially lower diuretic requirement: furosemide-equivalent dose at day 90 fell by -21.94 (SD 52.46) mg versus -1.55 (SD 49.886) mg in those not reaching targets (p<0.001); beta-blockers showed the largest effect of any single class -18.42 (SD 49.61) mg, (p<0.001). LD dose category was not independently associated with the primary endpoint (all-cause death or HF rehospitalization at 180 days) or its components; only LD dose doubling was associated with higher all-cause mortality (adjusted HR 1.47, 95% CI 1.04-2.09), without association with the primary endpoint or rehospitalization (both p>0.05). The benefit of high-intensity care was consistent across LD dose groups (no treatment-by-dose interaction). CONCLUSIONS: GDMT optimization acted as diuretic-sparing therapy: reaching target doses, particularly of all three classes, was associated with markedly lower LD requirement. LD dose mirrored HF severity but neither consistently predicted outcome nor modified the benefit of up-titration.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/ejhf/xuag309"
+ },
+ {
+  "idx": 9,
+  "journal": "Eur Heart J",
+  "title": "Intravascular imaging from research tool to guidelines: a 35-year long journey.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Initially developed to overcome the limitations of angiography in visualizing plaque morphology, intravascular ultrasound and optical coherence tomography have advanced dramatically in resolution, acquisition speed, and analytical automation. These techniques now provide detailed, real-time assessment of coronary artery structure, enabling precise stent sizing, calcium characterization, and optimization of percutaneous coronary interventions. Clinical trials and meta-analyses demonstrated that intravascular imaging-guided PCI significantly reduces restenosis, thrombosis, target lesion failure, and cardiac mortality compared with angiography-guided approaches. These achievements underpin the current Class I, Level A recommendations for intravascular imaging-guidance of complex PCI in the most recent ESC and ACC/AHA/SCAI guidelines. Intravascular imaging has also become instrumental in studying atherosclerosis regression, plaque vulnerability, and the effects of lipid-lowering therapies such as statins and PCSK9 inhibitors, allowing the implementation of personalized prevention and intervention strategies. Intravascular imaging remains grossly underused in clinical practice but better reimbursement, improved and mandatory training and the integration of artificial intelligence for image interpretation may facilitate a wider application.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurheartj/ehag237"
+ },
+ {
+  "idx": 14,
+  "journal": "J Am Heart Assoc",
+  "title": "Genetic Variants in Intracranial Atherosclerotic Disease: A Systematic Review and Targeted Meta-Analysis Highlighting the RNF213 rs112735431.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Intracranial atherosclerotic disease (ICAD) is a leading cause of ischemic stroke and premature mortality, with higher prevalence in specific ethnic groups. Multiple studies have evaluated the association of ICAD and genetic variants. This study aims to systematically review and summarize the current genetic contributors of ICAD. METHODS: Systematic review was performed following Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Embase, MEDLINE, and Cochrane Library databases were searched from inception to September 2025 for human studies examining single-nucleotide variants (SNVs) associations and ICAD. Three independent reviewers extracted data on study characteristics, SNVs, alleles and P values. SNVs reported in >1 study were pooled using a fixed-effects model. Expression quantitative trait loci analysis evaluated the regulatory effects of identified SNVs across brain and arterial tissue. Functional enrichment analysis was conducted to identify relevant biological pathways. RESULTS: Fourteen studies met inclusion criteria, comprising a total of 15 535 individuals, of whom 3638 had ICAD. Across these studies, 35 SNVs were identified, mapping to 26 unique genes. In the pooled analysis, ICAD was associated with RNF213 rs112735431 (odds ratio, 18.61 [95% CI, 11.84-29.25]). Other SNVs were found in genes including ADIPOQ, INSR, and NTNG1. Functional enrichment highlighted lipid metabolism and triglyceride homeostasis pathways as key contributors to ICAD risk. CONCLUSIONS: This review consolidates current evidence on SNVs associated with ICAD, highlighting RNF213 rs112735431 as a major genetic contributor, particularly in East Asian populations. Further research is needed to clarify the functional roles of these variants and their potential as therapeutic targets.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.048672"
+ },
+ {
+  "idx": 19,
+  "journal": "J Am Heart Assoc",
+  "title": "Plasma Glutamine and Glutamate in Relation to Clinical Outcomes After Ischemic Stroke: A Multicenter Prospective Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Glutamine (Gln) and glutamate (Glu) have been suggested to play a pivotal role in neuronal homeostasis and metabolic regulation, showing potential as prognostic biomarkers for stroke. This study aimed to evaluate the associations of plasma Gln, Glu, and glutamine-to-glutamate ratio (GGR) with adverse clinical outcomes in patients with ischemic stroke. METHODS: This secondary analysis of the multicenter CATIS (China Antihypertensive Trial in Acute Ischemic Stroke) included 3499 participants with ischemic stroke. Plasma Gln and Glu levels were measured within 24 hours of hospital admission using ultraperformance liquid chromatography-tandem mass spectrometry. The primary outcome was unfavorable functional outcome (death or major disability) at 3 months after ischemic stroke. Secondary outcomes included major disability, all-cause mortality, and cardiovascular events. Risk discrimination and reclassification of Glu metabolites were assessed. RESULTS: Compared with the lowest quartiles, multivariable-adjusted odds ratios of the primary outcome in the highest quartiles were 0.37 (95% CI, 0.28-0.47) for Gln, 2.05 (95% CI, 1.60-2.62) for Glu, and 0.37 (95% CI, 0.29-0.48) for GGR (all P for trend <0.001). Approximately 9% of the associations of Glu metabolites and unfavorable functional outcome were mediated by the composite marker of inflammation and insulin resistance. Incorporating Gln, Glu, and GGR into conventional risk factor models improved risk discrimination and stratification for unfavorable functional outcome, with increases in C statistics (from 0.831 to 0.842-0.848), net reclassification indices (22.9%-31.0%), and integrated discrimination improvements (1.1%-1.6%) (all P<0.05). CONCLUSIONS: Plasma Gln, Glu, and GGR were associated with adverse clinical outcomes, providing prognostic significance in patients with ischemic stroke. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT01840072.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049903"
+ },
+ {
+  "idx": 24,
+  "journal": "Heart Rhythm",
+  "title": "Clinical Characteristics and Transplacental Treatment of Fetal Ventricular Tachycardia: A Nationwide Survey in Japan.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Fetal ventricular tachycardia (VT) is an ultra-rare form of tachyarrhythmia, and no established management strategy currently exists. OBJECTIVES: This study aimed to clarify the current diagnostic and management approaches for fetal VT. METHODS: A nationwide survey of suspected fetal VT was conducted across 77 tertiary referral facilities in Japan between 2014 and 2023. RESULTS: In total, 24 fetal VT cases from 18 facilities were analyzed. Twenty cases were diagnosed based on atrioventricular dissociation. Four were initially diagnosed as supraventricular tachycardia. VT occurred by 32 6/7 weeks of gestation in all nine long QT syndrome (LQTS) cases (LQT 2 in six, LQT 3 in two, and other in one), whereas 8/15 non-LQTS cases occurred at term. Eight of 20 cases managed as fetal VT, and three of four cases managed as fetal supraventricular tachycardia received fetal treatment. Fetal treatments were effective in 9/11 cases overall and in 8/9 LQTS cases. Side effects were observed in 6/11 cases; however, no serious adverse events occurred, except one case of lidocaine toxicity. After birth, LQTS cases were more likely to be refractory to treatment than non-LQT cases (8/9 vs. 6/14), requiring multidisciplinary management. Neurodevelopmental delay was more frequent in LQTS cases than in non-LQTS cases (6/9 vs. 2/14). CONCLUSIONS: Transplacental treatment is highly recommended for preterm fetal VT. In particular, in cases of fetal VT diagnosed before 33 weeks of gestation, aggressive fetal treatment including magnesium sulfate and β-blockers should be considered with the possibility of LQT 2 or 3.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.005"
+ },
+ {
+  "idx": 29,
+  "journal": "J Am Heart Assoc",
+  "title": "Rising Obesity-Driven Cardiac Mortality Among Young Adults in the United States: A 25-Year Retrospective Analysis (1999-2023).",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Obesity is a growing risk factor for cardiovascular disease and mortality in the United States, particularly among younger adults. METHODS: Using the Centers for Disease Control and Prevention Wide-Ranging Online Data for Epidemiologic Research Multiple Cause of Death database, we retrospectively analyzed trends and disparities in obesity-related cardiac mortality among US individuals aged 15 to 44 years from 1999 to 2023, stratified by sex, race, urbanization, and census region. Deaths were identified using International Classification of Diseases, Tenth Revision (ICD-10) codes for obesity and cardiac conditions, including ischemic heart disease, sudden cardiac death, arrhythmias, and heart failure. Age-adjusted mortality rates were calculated using joinpoint regression and expressed as annual percentage change with 95% CIs. RESULTS: Between 1999 and 2023, 51 860 obesity-related cardiac deaths were recorded. The age-adjusted mortality rates increased from 0.9 (95% CI, 0.8-0.9) to 2.5 (95% CI, 2.4-2.6) per 100 000. Mortality was highest during the COVID-19 pandemic (2019-2021). Men consistently had higher age-adjusted mortality rates than women. Black or African American and American Indian/Alaska Native individuals showed the highest racial disparities. The South and nonmetropolitan areas had the highest regional mortality, with Alaska recording the highest state-level age-adjusted mortality rate in 2023 (6.0 per 100 000). Mortality largely returned to baseline across most groups from 2021 to 2023. CONCLUSIONS: Obesity-related cardiac mortality has risen in the United States over the past 2 decades with notable disparities across sex, race, region, and urbanization. These findings underscore the need for targeted public health interventions in high-risk populations to reduce premature cardiovascular deaths and reverse this trend.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049462"
+ },
+ {
+  "idx": 34,
+  "journal": "EuroIntervention",
+  "title": "Standardised versus visual assessment of device success after percutaneous coronary intervention.",
+  "ptypes": [
+   "Journal Article",
+   "Randomized Controlled Trial"
+  ],
+  "abstract": "BACKGROUND: The European Association of Percutaneous Cardiovascular Interventions (EAPCI)-endorsed algorithm for defining device success has not yet been prospectively tested against standardised quantitative coronary angiography (QCA) by a core lab. AIMS: We sought to assess whether visually evaluated device success by the operator at the end of percutaneous coronary intervention (PCI) aligns with the EAPCI-endorsed standardised definition adjudicated by the core lab and to evaluate its association with clinical outcomes. METHODS: This prespecified analysis of the Multivessel TALENT trial included 1,548 patients with three-vessel disease randomised to treatment with either Supraflex Cruz or SYNERGY stents. PCI was attempted in 4,052 lesions. The core lab assessed post-PCI residual in-stent percentage diameter stenosis (%DS) by QCA (target <20%) and exploratory delta (Δ) angiography-derived fractional flow reserve (angio-FFR) across the stent(s) (target <0.05). Device success was evaluated using the site-reported data (visual evaluation of in-stent %DS), core lab QCA, core lab angio-FFR, and combined core lab QCA+angio-FFR. The lesion-oriented composite endpoint (LOCE; comprising cardiovascular death, target vessel myocardial infarction, or target lesion revascularisation) was assessed at 1 year. RESULTS: Site-reported device success was 97.4%. Core lab definitions yielded lower rates: 93.8% for Δangio-FFR <0.05, 88.0% for residual %DS <20%, and 83.2% for QCA+angio-FFR (all p<0.001 vs site report after Bonferroni correction). Lesions not meeting QCA-based device success had a higher incidence of LOCE than those meeting the definition (12.0% vs 9.1%; log-rank p=0.041). Device success and LOCE rates did not differ between the two stents for any definition. CONCLUSIONS: In this prespecified lesion-level substudy, standardised assessment using the EAPCI device success algorithm with core lab QCA reclassified a substantial proportion of operator-adjudicated successes and identified lesions at higher 1-year LOCE risk. (ClinicalTrials.gov: NCT04390672).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.4244/EIJ-D-26-00413"
+ },
+ {
+  "idx": 39,
+  "journal": "Ann Intern Med",
+  "title": "In adults with in-hospital cardiac arrest, sodium bicarbonate vs. placebo did not increase sustained ROSC rates.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "GIM/FP/GP: [Formula: see text] Cardiology: [Formula: see text] Critical Care: [Formula: see text].",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.7326/ANNALS-26-03498-JC"
+ },
+ {
+  "idx": 44,
+  "journal": "Circulation",
+  "title": "Anticancer Drugs and Cancer-Associated Thrombosis.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "The rapid development of novel cancer therapies has considerably improved the care of cancer patients and cancer-related survival; however, these therapies are associated with a broad range of adverse events that have become a major burden in this population. Alongside other cancer-related factors, vascular toxicity from anticancer therapies contributes to an increased risk of venous thromboembolism. Among anticancer drugs, chemotherapeutic agents (eg, anthracyclines, platinum-based drugs, antimetabolites), hormonal therapies (eg, selective estrogen receptor modulators), agents used for multiple myeloma (including immunomodulatory drugs and proteasome inhibitors), asparaginase, as well as targeted inhibitors to immune checkpoints, vascular endothelial growth factor, epidermal growth factor receptor, tyrosine kinases, cyclin-dependent kinases, and poly(ADP-ribose) polymerase are primarily associated with increased risk of venous thromboembolism. Vascular adverse events associated with anticancer drugs are frequently underestimated, and significant gaps remain in the risk stratification, prevention, and management of thromboembolic events in patients receiving systemic anticancer therapies. This review examines the evidence linking anticancer drug exposure to the incidence of venous thromboembolism, summarizes the key underlying pathobiological mechanisms, and highlights current guideline recommendations for the prevention and treatment of cancer-associated thrombosis. Arterial thrombotic events are also discussed where clinically or mechanistically relevant. This review also offers advanced cardio-oncology perspectives on the identification, risk stratification, and therapeutic targeting of drug-induced vascular toxicity.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.125.079141"
+ },
+ {
+  "idx": 49,
+  "journal": "J Am Heart Assoc",
+  "title": "Restricting Placental Transfer of Angiotensin Receptor Blockers to Mitigate Fetal Toxicity: A Potential Therapeutic Strategy for Preeclampsia.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Enhanced AT1R (angiotensin II type 1 receptor) signaling contributes to preeclampsia development; however, angiotensin receptor blockers are contraindicated during pregnancy because of associated fetal toxicity. We aimed to determine whether chemical modification of an angiotensin receptor blocker restricts placental transfer while preserving maternal pharmacological activity. METHODS: Polyethylene glycol-modified olmesartan derivatives were synthesized to increase molecular size and hydrophilicity and evaluated in vitro for AT1R inhibitory activity. Placental transfer was assessed using an angiotensin II-induced pregnant mouse model and an ex vivo human placental perfusion model to identify a derivative with reduced placental permeability. The selected compound was evaluated in vivo for pharmacological activity and fetal toxicity in pregnant mice. RESULTS: A series of polyethylene glycol-modified olmesartan derivatives maintained pharmacologically relevant AT1R inhibitory activity in vitro. Evaluation in angiotensin II-treated pregnant mice revealed compound #6, a polyethylene glycol-modified dimer containing an ionizable tertiary amine, which exhibited reduced placental transfer (∼7% relative to olmesartan). Consistently, compound #6 exhibited minimal transplacental transfer in the human placental perfusion model, comparable to insulin, a negative control. Regarding fetal toxicity, olmesartan induced neonatal renal developmental toxicity at doses as low as one tenth of its minimum effective dose, whereas compound #6 exhibited clear renal toxicity only above its effective dose, indicating a discernible safety margin. CONCLUSIONS: Restricting placental transfer through rational chemical modification enables decoupling of maternal efficacy from fetal toxicity of angiotensin receptor blockers. Although further optimization is required, these findings provide proof of concept that AT1R inhibition may represent a therapeutic strategy for preeclampsia during pregnancy.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050607"
+ },
+ {
+  "idx": 54,
+  "journal": "Ann Intern Med",
+  "title": "After PCI in patients with ACS, short-duration DAPT followed by P2Y12 inhibitor monotherapy vs. standard DAPT reduces NACE.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "GIM/FP/GP: [Formula: see text] Cardiology: [Formula: see text] Hematology: [Formula: see text].",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.7326/ANNALS-26-03606-JC"
+ },
+ {
+  "idx": 59,
+  "journal": "J Am Heart Assoc",
+  "title": "Assisted Reproductive Technology and Risk of Congenital Heart Defects in the Offspring: A Systematic Review and Meta-Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: To date, >10 million children have been conceived via assisted reproductive technology (ART) globally. However, there are some concerns about potential adverse outcomes associated with ART-conceived pregnancies, including the risk of congenital heart defects (CHDs). This meta-analysis aimed to evaluate the association between ART and the risk of major CHDs as well as their specific subtypes. METHODS: Major electronic databases were screened for studies comparing the incidence of CHD following ART-conceived pregnancies versus spontaneous conception. The primary end point was study-defined incidence of CHDs. Secondary end points included incidence of tetralogy of Fallot, transposition of the great arteries, aortic coarctation, ventricular septal defect, atrial septal defect, pulmonary valve atresia, tricuspid valve atresia, and hypoplastic left heart. Pairwise meta-analyses were performed using frequentist random-effect models to calculate risk ratios and 95% CIs. RESULTS: Thirteen studies, encompassing a total of 45 916 925 subjects (4986 conceived via ART), were included in the quantitative synthesis. ART was significantly associated with a higher risk of major CHD compared with natural pregnancy (risk ratio, 2.35 [95% CI, 1.68-3.28]), with significant heterogeneity across the studies. An increased risk of tetralogy of Fallot, ventricular septal defect, and atrial septal defect following ART-conceived pregnancies was found, while no difference was found on other CHDs. Prespecified sensitivity analyses were in line with the primary findings of the meta-analysis. CONCLUSIONS: Our meta-analysis shows a potential link between ART and increased risk of major CHDs, particularly on tetralogy of Fallot, ventricular septal defect, and atrial septal defect.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.047875"
+ },
+ {
+  "idx": 64,
+  "journal": "Eur Heart J",
+  "title": "Biventricular vs conduction system pacing after atrioventricular node ablation for heart failure with atrial fibrillation: the CONDUCT-AF trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: Randomized evidence comparing conduction system pacing (CSP) and biventricular pacing (BVP) following atrioventricular node ablation in patients with refractory atrial fibrillation (AF) and heart failure (HF) remains limited. This study evaluated whether CSP with left bundle branch area pacing is non-inferior to BVP in patients undergoing atrioventricular node ablation. METHODS: CONDUCT-AF was an investigator-initiated, multicentre, randomized trial conducted across 10 European centres. Patients with refractory AF, HF with left ventricular ejection fraction (LVEF) < 50%, narrow QRS duration (≤120 ms), and N-terminal pro-B-type natriuretic peptide > 600 ng/L were randomized 1:1 to CSP or BVP. The primary endpoint was the change in LVEF after 6 months, assessed by an independent core laboratory. Secondary endpoints included echocardiographic, clinical, and procedural outcomes. Analyses followed the intention-to-treat principle. RESULTS: Eighty-two patients were randomized (mean age 72 ± 7 years, 46% male). At 6 months, LVEF improved similarly in CSP {from 36% [95% confidence interval (CI) 33-39] to 46% [95% CI 44-49]; P < .001} and BVP group [from 34% (95% CI 31-36) to 46% (95% CI 43-49); P < .001]. The between-group difference was .4% (95% CI -3.1-3.8; P = .002 for non-inferiority). Changes in left ventricular volumes, clinical parameters, and composite endpoint of worsening HF or cardiovascular death were comparable between groups. Paced QRS [mean difference -14 ms (95% CI -19 to -9; P < .001)] and procedural and fluoroscopy times were significantly shorter with CSP compared with BVP. CONCLUSIONS: In HF patients with refractory AF undergoing atrioventricular node ablation, CSP with left bundle branch area pacing was non-inferior to BVP for LVEF improvement at 6 months, providing comparable clinical outcomes and a favourable procedural profile.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurheartj/ehag699"
+ },
+ {
+  "idx": 69,
+  "journal": "Eur J Heart Fail",
+  "title": "Kidney function decline, heart failure hospitalization, and the effect of empagliflozin in heart failure: an EMPEROR-pooled analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Kidney function decline in heart failure (HF) may accelerate during periods surrounding HF-related events, while sodium-glucose cotransporter 2 inhibitors slow kidney function decline. However, the temporal relationship between kidney function changes, HF-related events, and treatment effects has not been well characterized. AIMS: We aimed to explore kidney function trajectories around HF-related events and to assess whether empagliflozin modifies these changes. METHODS AND RESULTS: In a pooled analysis of the EMPEROR-Reduced and EMPEROR-Preserved trials, we examined longitudinal changes in estimated glomerular filtration rate (eGFR) before and after HF-related events, defined as HF hospitalization or HF-related death. In the EMPEROR-Pooled analysis, HF-related events occurred in 12.7% of 9554 patients during a median follow-up of 20.9 months (14.7-28.6). Patients who experienced HF-related events had a steeper eGFR decline during the 12 months before the event than those without HF-related events: average -5.01 ml/min/1.73 m2/year vs -1.93 ml/min/1.73 m2/year; P < .001. During the 12 months after HF-related events, eGFR decline persisted at an average rate of -4.73 ml/min/1.73 m2/year. These trajectories were not materially altered after adjustment for concurrent NYHA class or natriuretic peptide levels. Compared with placebo, empagliflozin slowed eGFR decline in patients without events (between-group difference, 0.94 ml/min/1.73 m2/year) and before events (1.09 ml/min/1.73 m2/year). The post-event difference was smaller (0.29 ml/min/1.73 m2/year), without significant heterogeneity across periods (P > .10). Findings were consistent across trials and irrespective of prior HF hospitalization. CONCLUSION: Across the LVEF spectrum, kidney function decline accelerated before HF-related events and remained rapid thereafter. Empagliflozin attenuated eGFR decline without evidence of heterogeneity across periods.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/ejhf/xuag295"
+ },
+ {
+  "idx": 74,
+  "journal": "J Am Heart Assoc",
+  "title": "Pilot Randomized Trial of 2 Food Purchasing Interventions in Individuals With Hypertension in New Orleans: An American Heart Association Food Is Medicine Initiative.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Consuming fruits and vegetables daily is linked to improved health in individuals with hypertension. Voucher incentives have been shown to improve healthy food purchasing. The objective of this study was to compare the effects of an online versus in-store voucher intervention on food purchasing and health outcomes in hypertensive individuals. METHODS: In this randomized pilot trial, 98 participants with uncontrolled hypertension received a $100 monthly food voucher to either an online grocery platform or an in-store local grocery. Both groups received educational materials. The primary outcome was change in self-reported fruit and vegetable consumption. Secondary outcomes were voucher use, engagement with educational materials, and changes in blood pressure, weight, and body mass index. Generalized estimating equations for repeated measures were used to assess changes in food-group consumption over 5 months. RESULTS: The mean age of participants was 57 years, and 65% were women. No difference was detected between arms for self-reported fruit and vegetable consumption. There was an overall 20% (interquartile range, -17% to 93%) increase in fruit and vegetable consumption within both arms. Voucher use was significantly higher in the in-store arm (>90%) than the online arm (<64%). Engagement with educational materials was greater in the in-store arm. No significant changes in weight, body mass index, or blood pressure were observed. CONCLUSIONS: No difference was detected between in-store and online vouchers for fruit and vegetable consumption. Higher engagement and voucher use were observed in the in-store arm than the online arm. Future interventions should be conducted in larger populations and address technological barriers to enhance program effectiveness and assess long-term health impacts. REGISTRATION: URL: https://clinicaltrials.gov/; Unique identifier: NCT06214806.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.044984"
+ },
+ {
+  "idx": 79,
+  "journal": "Circulation",
+  "title": "Prominent V Waves Augment Right Ventricular Afterload Independent of the Lung Vessels in Heart Failure: Implications for Clinical Assessment of Pulmonary Vascular Disease.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Left atrial (LA) stiffening augments the LA V wave, pressurizing the pulmonary artery (PA) out of proportion to left ventricular end-diastolic pressure. We characterized the pathophysiologic, diagnostic, and clinical implications of LA stiffening, as defined by prominent V waves, in heart failure with preserved ejection fraction. METHODS: In this retrospective cohort study, patients with heart failure with preserved ejection fraction and less than moderate mitral regurgitation at rest underwent invasive hemodynamic exercise testing. Patients with heightened operant LA stiffening were defined by the PA wedge pressure (PAWP) V wave exceeding mean PAWP by ≥10 mm Hg. A previously used formula for V wave-corrected PAWP was validated against the PAWP waveform pressure-time-area to explore impact of the V wave on transpulmonary pressure gradients. Clinical, echocardiographic, hemodynamic, and outcome data were compared for patients with and without prominent V waves. RESULTS: Compared with patients without prominent V waves (n=844, 79%), those with prominent V waves (n=225, 21%) were older and more likely to be women, with more severe LA myopathy, evidenced by greater LA volume index (42.2±15.0 versus 32.5±13.0 mL/m2, P<0.001), lower LA reservoir strain (16.4±7.5% versus 23.2±8.3%, P<0.001), more atrial fibrillation (61.3% versus 22.9%, P<0.001), and increased operant LA reservoir stiffness (0.59±0.25 versus 0.23±0.24 mm Hg/mL, P<0.001). Patients with prominent V waves had markedly higher PA systolic pressure than those without (54±16 versus 38±12 mm Hg, P<0.001) despite no difference in end-diastolic PAWP-PA pressure gradient (3±5 versus 3±4 mm Hg, P=0.950). Incorporating the V wave into PAWP improved correlation between directly measured PAWP pressure-time integral compared with mid-A wave PAWP (R2=0.96 versus R2=0.86, P<0.001 for comparison). In patients with prominent V waves, the prevalence of combined pre- and postcapillary pulmonary hypertension decreased from 60.2% to 29.3% after V wave correction for the transpulmonary pressure gradients. Despite similar corrected pulmonary vascular resistances in patients with and without prominent V waves, apparent PA compliance was much lower in patients with prominent V waves (3.03±1.56 versus 4.90±2.27 mL/mm Hg, P<0.001), augmenting right ventricular afterload, and these changes were coupled with more severe right ventricular dysfunction, tricuspid regurgitation, blunted cardiopulmonary exercise reserve, and increased risk of hospitalization for heart failure or death in patients with versus without prominent V waves (adjusted hazard ratio, 2.09 [95% CI, 1.53-2.86]; P<0.001). CONCLUSIONS: More than 1 in 5 patients with heart failure with preserved ejection fraction display prominent V waves in excess of end-diastolic PAWP. This augments right ventricular afterload due to backward transmission of the V wave, contributing to right heart failure that is independent of the pulmonary vasculature. Failure to account for the V wave during hemodynamic assessment overestimates the severity of pulmonary vascular disease present.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.081799"
+ },
+ {
+  "idx": 84,
+  "journal": "Eur Heart J Cardiovasc Imaging",
+  "title": "Cardiovascular magnetic resonance derived myocardial strain: applications, acquisition techniques, analysis, and reporting.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Myocardial strain imaging enables quantification of cardiac deformation. Cardiovascular magnetic resonance imaging (CMR) is well suited for strain assessment due to the ability to image in any given plane with high spatial and contrast resolution. CMR strain measures have incremental diagnostic and prognostic utility over conventional clinical imaging parameters across disease states. Routine integration of CMR strain assessment in clinical practice has been hindered by the lack of agreement on imaging protocols and analysis methods, variability due to noise sensitivity, and a paucity of robust normative age-, sex- and ethnicity-specific reference ranges. In recognition of the expanding applications of strain techniques in clinical and research CMR, this joint SCMR/RSNA/EACVI scientific statement integrates data from original research studies, guidelines, and opinions from experts across the field to guide responsible and evidence-based utilization of CMR strain.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/ehjci/jeag228"
+ },
+ {
+  "idx": 89,
+  "journal": "Circ Res",
+  "title": "RUNX3-ERG Cooperation Orchestrates Endothelial Gene Regulation and Vascular Homeostasis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Transcriptional regulation is fundamental to vascular homeostasis, ensuring vessel stability and function. Disruption of this regulation underlies pathological angiogenesis in cancer and vascular malformations. While RUNX3 (Runt-related transcription factor 3), a Runt-domain transcription factor, is established as a tumor suppressor and regulator of lymphocyte development, its role in endothelial cells has remained unknown. METHODS: To define the vascular function of RUNX3, we generated endothelial-specific RUNX3 knockout mice and analyzed postnatal retinal angiogenesis and oxygen-induced retinopathy. Mechanistic insights were obtained through ATAC-sequencing data analysis, coimmunoprecipitation, proximity ligation assay, electrophoretic mobility shift assay, and ChIP-qPCR. RESULTS: Loss of endothelial RUNX3 induced hypersprouting angiogenesis with excessive tip cell formation and reduced DLL4 (delta-like ligand 4) expression. RUNX3 deficiency disrupted vascular integrity by lowering VE-cadherin (vascular endothelial cadherin) and claudin-5 levels, while increasing ICAM1 (intercellular adhesion molecule 1) expression, retinal hemorrhage, and leukocyte infiltration. In the oxygen-induced retinopathy model, endothelial RUNX3 deletion aggravated pathological neovascularization. Mechanistically, RUNX3 cooperated with ERG (ETS-related gene) at ETS:RUNX motifs to regulate genes controlling sprouting (DLL4), junctional stability (CDH5, CLDN5), and leukocyte adhesion (ICAM1). RUNX3 formed complexes with ERG, p300, and HDAC3 (histone deacetylase 3), and proximity ligation assays showed that these interactions were enriched in the nucleus upon VEGF-A (vascular endothelial growth factor-A) stimulation. ChIP-qPCR further demonstrated that RUNX3 was required for the recruitment of these coregulators to target loci. Through differential coregulator engagement, RUNX3 functioned bidirectionally, acting as a transcriptional activator of CDH5, CLDN5, and DLL4 while serving as a repressor of ICAM1. Consistently, single-cell transcriptome analysis of human arteriovenous malformations revealed dysregulated RUNX3 and target gene expression, underscoring translational relevance. CONCLUSIONS: This study provides the first evidence that RUNX3 is a pivotal transcriptional coordinator in endothelial cells. By integrating ERG and chromatin regulators at ETS:RUNX motifs, RUNX3 safeguards the balance between angiogenic activation and vascular stability. These findings establish RUNX3 as a gatekeeper of endothelial transcriptional identity and highlight its potential as a therapeutic target in pathological angiogenesis.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCRESAHA.125.327641"
+ },
+ {
+  "idx": 94,
+  "journal": "J Am Heart Assoc",
+  "title": "Left Atrial Enlargement Identifies Risk of Stroke Independent of Atrial Fibrillation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Left atrial (LA) enlargement has been proposed to increase stroke risk independent of atrial fibrillation (AF), but evidence accounting for AF over time is limited. We tested whether the association between LA enlargement and stroke persist independent of new-onset AF. METHODS: In this observational study, participants from the Copenhagen General Population Study underwent cardiac computed tomography from 2010 through 2018 and were followed until December 2022. LA volume was indexed to body surface area. LA enlargement was defined using sex-specific cutoffs. The primary outcome was incident stroke. Secondary outcomes were incident AF, heart failure, dementia, and all-cause mortality. Individuals with baseline AF were excluded. Hazard ratios (HRs) were estimated using cause-specific Cox models with AF modeled as a time-varying covariate. RESULTS: Among 10 024 individuals (mean age 60 years, 57% women), 684 (6.8%) had LA enlargement. Over a median follow-up of 7.3 years stroke occurred in 356 individuals (3.6%). LA enlargement was associated with a higher absolute risk of stroke (11.1% versus 4.6%, risk difference 6.5% [95% CI, 2.4-10.6]) and an increased hazard (adjusted HR, 1.49 [95% CI, 1.09-2.05]; P=0.013), which remained similar after adjustment for incident AF, and in separate models using the CHA2DS2-VA score and P-wave terminal force in lead V1. LA enlargement was also associated with higher risk of AF (HR, 3.77 [95% CI, 3.00-4.73]) and heart failure (HR, 3.59 [95% CI, 2.54-5.06]) but not with dementia or all-cause mortality. CONCLUSIONS: LA enlargement was associated with incident stroke independent of incident AF, supporting LA enlargement as a marker of thromboembolic risk.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.053248"
+ },
+ {
+  "idx": 99,
+  "journal": "J Am Heart Assoc",
+  "title": "Combined Effect of Obstructive Sleep Apnea and Preserved Ratio Impaired Spirometry on Cardiovascular Outcomes.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Obstructive sleep apnea (OSA)-chronic obstructive pulmonary disease overlap syndrome has been linked to worse cardiovascular outcomes. Preserved ratio impaired spirometry (PRISm) is recognized as an early stage of chronic obstructive pulmonary diseas. However, whether the coexistence of OSA and PRISm confers increased cardiovascular risk remains unknown. METHODS: Using data from the Sleep Heart Health Study, participants were categorized into 4 groups according to OSA and PRISm status. The primary outcome was major adverse cardiovascular and cerebrovascular events. The secondary outcome was cardiovascular disease mortality. Multivariable Cox regression models were used to evaluate the association of these groups with the risk of cardiovascular outcomes. RESULTS: During a median follow-up of 11.45 years, the incidence of major adverse cardiovascular and cerebrovascular events was 17.00% in non-OSA with normal lung function, 27.52% in non-OSA with PRISm, 25.28% in OSA with normal lung function, and 49.40% in OSA with PRISm. After multivariable adjustment, compared with non-OSA with normal lung function, the adjusted hazard ratios (HRs) for major adverse cardiovascular and cerebrovascular events were 1.20 (95% CI, 0.82-1.75) in non-OSA with PRISm, 1.04 (95% CI, 0.89-1.21) in OSA with normal lung function, and 1.52 (95% CI, 1.08-2.12) in OSA with PRISm. Corresponding HRs for CVD mortality were 2.02 (95% CI, 1.26-3.24), 1.05 (95% CI, 0.81-1.35), and 2.17 (95% CI, 1.41-3.34), respectively. A significant sex interaction was observed (P for interaction=0.009), with the association present only in women. CONCLUSIONS: The coexistence of OSA and PRISm is independently associated with increased risk of adverse cardiovascular outcomes. This association is observed predominantly in women.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.052921"
+ },
+ {
+  "idx": 104,
+  "journal": "J Am Heart Assoc",
+  "title": "Whole-Genome Sequencing and Single-Cell Transcriptomics Identify Human Leukocyte Antigen Loci and a COG5 Variant in Aortic Dissection.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Aortic dissection (AD) is a lethal cardiovascular emergency with a complex and underexplored genetic basis. METHODS: We performed whole-genome sequencing on 151 patients with sporadic Stanford type B AD and 965 healthy controls in a Chinese population as a discovery phase analysis to assess both common and rare variants. Cross-ancestry meta-analyses incorporating 4 external genome-wide association data sets were used to identify population-specific risk loci. To pinpoint functional candidates, we integrated epigenomic profiles and single-cell transcriptomes from human aortic tissues. RESULTS: Whole-genome sequencing analysis identified 21 candidate common loci and 2 low-frequency variants associated with AD in this discovery cohort. Two candidate common variants in the human leukocyte antigen region (rs9260945 near HLA-A and rs9276409 within HLA-DQA2) showed strong associations and colocalized with regulatory elements in aortic and immune cells, indicating immune-mediated vascular pathology. A low-frequency missense variant in the COG5 gene (rs1203229795, effect allele frequency=0.019) emerged as an independent AD risk factor, likely affecting extracellular matrix glycosylation. Single-cell transcriptomic analysis of AD-associated variants in human aortic tissues demonstrated enhanced interactions among fibroblasts, vascular smooth muscle cells, and macrophages, supporting their roles in AD pathogenesis. Integrated gene-based and expression analyses further highlighted TPM4, a marker of vascular smooth muscle cell dedifferentiation, as a putative susceptibility gene in AD. CONCLUSIONS: This multiomics investigation expands the genetic landscape of sporadic AD in Chinese individuals, revealing immune-related human leukocyte antigen loci and a functionally supported candidate COG5 variant. Our findings offer new insights into AD pathogenesis and identify candidate targets for future diagnostic and therapeutic strategies.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050327"
+ },
+ {
+  "idx": 109,
+  "journal": "Europace",
+  "title": "Percutaneous Left Atrial Appendage Closure: The CHAMPION-like vs CLOSURE-like Patient Phenotype Framework.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: The near-simultaneous publication of CHAMPION-AF and CLOSURE-AF produced apparently discordant evidence regarding percutaneous left atrial appendage closure (LAAC) for stroke prevention in atrial fibrillation. We aimed to reconcile these findings through a phenotype-based framework and identify the determinants of net clinical benefit. METHODS AND RESULTS: This narrative review integrates randomized trials, registries, consensus documents, and guidelines, focusing on patient selection, procedural risk, post-implant antithrombotic therapy, endpoint construction, competing mortality, and time to benefit. CHAMPION-AF evaluated LAAC against direct oral anticoagulation in an elective, anticoagulation-eligible population with lower bleeding risk, demonstrating non-inferior thromboembolic protection and less non-procedural bleeding. Conversely, CLOSURE-AF enrolled an older, multimorbid population with substantial renal dysfunction, previous bleeding, and high competing mortality. Although implantation success and stroke rates were comparable between treatment groups, early procedural and antithrombotic-related bleeding, a composite endpoint incorporating procedural events, and limited survival reduced the opportunity for delayed benefit. The highly selective recruitment pathway further limits generalisability. These findings define a continuum from the \"CHAMPION-like\" patient, with sufficient physiological reserve and life expectancy to realise long-term benefit, to the \"CLOSURE-like\" patient, in whom frailty and competing risk may outweigh the advantage of appendage exclusion. CONCLUSION: LAAC efficacy is not determined by device performance alone but by matching the intervention to patient phenotype and time horizon. Selection should integrate thromboembolic and bleeding risk, frailty, renal function, post-implant treatment tolerance, and expected survival. Future trials require transparent screening data, time-sensitive endpoints, landmark analyses, and competing-risk methods.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag286"
+ }
+]

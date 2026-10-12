@@ -1,0 +1,268 @@
+[
+ {
+  "idx": 2,
+  "journal": "Eur J Prev Cardiol",
+  "title": "One-Year Systolic Blood Pressure and Subsequent Cardiovascular Outcomes After Acute Coronary Syndrome: Insights from a Swiss Prospective Cohort.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Current guidelines recommend targeting systolic blood pressure (SBP) below 130 mmHg in patients at high cardiovascular risk, including after acute coronary syndrome (ACS), although evidence specific to the post-ACS setting remains limited. We evaluated the prognostic value of SBP measured 1 year after ACS on subsequent cardiovascular outcomes. METHODS: The ELIPS cohort prospectively enrolled ACS patients across four Swiss tertiary-care centers (2009-2017). Patients alive at 1 year with available SBP measurements were included. The association between SBP at 1 year and 3-point major adverse cardiovascular events (MACE; cardiovascular death, non-fatal stroke/transient ischemic attack, or non-fatal myocardial infarction) was modeled using restricted cubic splines, adjusted for age, sex, renal function, cardiovascular risk factors, index-event type, coronary revascularization, cardiac rehabilitation, heart-failure history, and antihypertensive medication classes. RESULTS: Among 2,074 patients (age 63±12 years; 82% male; 53% STEMI), 229 MACE events occurred over a median follow-up of 4.0 years (2.7 per 100 patient-years). The SBP-MACE relationship was nonlinear and J-shaped (P-non-linearity=0.007), with lowest risk between ∼130 and 140 mmHg (formally estimated nadir 138 mmHg [95%CI 116-152]). Above 140 mmHg, each 5-mmHg increase was associated with a borderline increase in MACE risk (adjusted HR 1.08; 95%CI 1.00-1.17). The pattern was broadly consistent across sex, age and hypertension status, with a possible interaction with diabetes that could not be excluded (P-interaction=0.08). CONCLUSIONS: In this large, predominantly male, well-characterized post-ACS cohort, SBP measured 1 year after ACS showed a J-shaped association with cardiovascular risk, with lowest risk at 130-140 mmHg.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag531"
+ },
+ {
+  "idx": 7,
+  "journal": "JACC Adv",
+  "title": "Imaging Comparisons Between Bifurcation Stenting Procedures Performed in Human Patients and Those Within Reanimated Swine Hearts.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Reanimated swine hearts have been used for over a decade to study bifurcation percutaneous coronary intervention, on the assumption that their results resemble those in patients, which has rarely been tested directly. OBJECTIVES: The objective of the study was to test how closely provisional bifurcation procedures performed in reanimated swine hearts agree with the human stent-geometry result of a given technique. METHODS: We pooled individual-case data from 2 randomized (1:1) trials sharing 1 protocol, comparing proximal optimization technique (POT)/kissing/POT and POT/side/POT (PSP) in 30 percutaneous coronary interventions in 17 reanimated swine hearts and 60 patients. Stent geometry was assessed across ten endpoints in 4 subsegments by human-optical coherence tomography (OCT), swine-OCT, and micro-computed tomography (CT) of the explanted swine stents. RESULTS: Swine-OCT agreed with micro-CT at the distal main vessel (concordance correlation coefficient 0.83). The technique effect agreed in direction at 8 of 10 endpoints; the descriptive calibration slope was 1.04 (indistinguishable from unity), although the case-level bootstrap was imprecise (slope 0.88; 95% CI: 0.47-1.54). Distal main-vessel expansion was lowest with PSP (mean 91% vs 98% in swine; 84% vs 99% in patients); major malappositions were rare after POT/kissing/POT but affected about half of PSP cases in both species. OCT matched micro-CT for expansion but not eccentricity; underexpansions extended farther along the larger human vessel. CONCLUSIONS: A reanimated swine-heart model showed close concordance with the human geometric result of bifurcation techniques, matching the direction at 8 of 10 endpoints and, approximately, the magnitude. This is descriptive concordance, not proven predictive equivalence, and supports the model as a preclinical screening tool pending prospective validation.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103292"
+ },
+ {
+  "idx": 12,
+  "journal": "J Am Heart Assoc",
+  "title": "Associations of Mild or Trace Valvular Abnormalities With Cardiac Remodeling in Older Adults: The ARIC Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The impact of mild/trace valvular abnormalities on cardiac remodeling is not well understood, despite their association with poor cardiovascular outcomes. METHODS: Using data from 4684 participants in the ARIC (Atherosclerosis Risk in Communities) Study (2011-2013), aged 66 to 90 years, we examined cross-sectional associations of mild/trace valvular abnormalities (aortic stenosis, aortic regurgitation, and mitral regurgitation) with cardiac parameters using multivariable linear regression models. Cardiac parameters included cardiac structure (eg, left ventricular mass index), systolic function (eg, ejection fraction), diastolic function, and biomarkers (eg, high-sensitivity cardiac troponin T). RESULTS: The prevalence was 4.3% for mild aortic stenosis, 10.9% for mild/trace aortic regurgitation, and 44.7% for mild/trace mitral regurgitation. Mitral regurgitation showed the most consistent associations with cardiac measures (left ventricular mass index 5.48 g/m2 [95% CI, 4.38-6.57 g/m2]; ejection fraction -1.92% [95% CI, -2.29% to -1.54%]; high-sensitivity cardiac troponin T 0.08 log ng/L [95% CI, 0.05-0.12 log ng/L]). Aortic stenosis was associated with impaired ventricular filling (Ratio of early transmitral flow velocity to early diastolic mitral annular velocity (E/e') lateral ratio 2.00 [95% CI, 1.48-2.53]) and elevated biomarkers (high-sensitivity cardiac troponin T 0.17 ng/L [95% CI, 0.09-0.25 ng/L]), whereas aortic regurgitation was associated with worsened cardiac structure (left ventricular mass index 3.52 [95% CI, 1.76-5.28] g/m2) and systolic dysfunction (ejection fraction -1.54% [95% CI, -2.14% to -0.94%]). A dose-response relationship was also observed between the number of total abnormalities and all cardiac parameters examined. CONCLUSIONS: Mild/trace mitral regurgitation was most consistently associated with all cardiac parameters examined. Aortic stenosis was associated with elevated E/e' lateral ratio and high-sensitivity cardiac troponin T, whereas aortic regurgitation was associated with worsening in cardiac structure and ejection fraction. Our study supports the possibility of pathophysiological contributions of these mild/trace valvular abnormalities.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049301"
+ },
+ {
+  "idx": 17,
+  "journal": "J Am Heart Assoc",
+  "title": "Role of Telemedicine in Congenital Heart Disease Care Models in Low- and Middle-Income Countries: A Scientific Statement From the American Heart Association.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Telemedicine is increasingly recognized as a transformative strategy to address critical challenges in low- and middle-income countries, which comprise 63% of all nations, 84% of the global population, and 90% of children <15 years of age. These regions experience multiple barriers, including geographic remoteness, economic constraints, limited healthcare infrastructure, and a shortage of trained healthcare professionals. Congenital heart disease, a highly specialized field often centralized in urban centers, is particularly affected, leaving many children without timely or equitable access to life-saving care. In this context, telecardiology has emerged as a valuable tool across the congenital heart disease care continuum, supporting prehospital assessment, inpatient management, postdischarge follow-up, and multidisciplinary collaboration. Beyond video consultations, telemedicine enables secure transmission of electrocardiograms, echocardiograms, advanced imaging, and digital auscultation data. Artificial intelligence-based tools further enhance education, diagnostic support, and quality assurance in image acquisition. Together, these capabilities reduce unnecessary travel, expedite specialist input, strengthen local decision-making, and contribute to improved outcomes. Telemedicine also facilitates collaboration among pediatric cardiologists, neonatologists, intensivists, imaging specialists, and nurses, fostering more integrated and resilient care networks that link peripheral facilities with tertiary centers. By optimizing limited resources and expanding specialist reach, telemedicine holds significant promise for improving access, equity, and outcomes in congenital heart disease care across low- and middle-income countries. Continued investment, strategic planning, and collaborative capacity-building will be essential to ensure its sustainable and effective implementation worldwide.",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.054084"
+ },
+ {
+  "idx": 22,
+  "journal": "EuroIntervention",
+  "title": "Complexity of coronary artery disease in infarct-related cardiogenic shock and multivessel disease: a substudy of the DanGer Shock trial.",
+  "ptypes": [
+   "Journal Article",
+   "Randomized Controlled Trial"
+  ],
+  "abstract": "BACKGROUND: The prognostic impact of multivessel coronary anatomy and complexity in infarct-related cardiogenic shock (CS) is insufficiently characterised. AIMS: We sought to investigate the prognostic value of baseline and residual SYNTAX scores and their influence on the effect of microaxial flow pump (mAFP) support in multivessel disease (MVD) and infarct-related CS. METHODS: In this secondary analysis of the DanGer Shock trial, MVD was defined as ≥1 non-culprit stenosis ≥70% or an isolated left main (LM) culprit lesion. Baseline SYNTAX scores were categorised as low (≤22), intermediate (23-32), or high (>32). Patients with an isolated LM culprit lesion were analysed separately. The primary outcome was 180-day all-cause mortality. RESULTS: Of 355 patients included in DanGer Shock, 256 patients had MVD; 211 had an available baseline SYNTAX score, with 26% of these in the low, 47% in the intermediate, and 27% in the high baseline SYNTAX groups. In all, 35 patients had an isolated LM culprit lesion. A high baseline SYNTAX score was associated with higher odds of 180-day all-cause mortality compared with low and intermediate baseline SYNTAX scores (adjusted odds ratio [OR] 3.12, 95% confidence interval [CI]: 1.17-8.69). A higher baseline SYNTAX score was associated with a higher residual SYNTAX score (p<0.001). The residual SYNTAX score independently predicted 180-day all-cause mortality. The mAFP effect was not modified by the baseline SYNTAX group (p for interaction=0.31). In patients with an isolated LM culprit lesion, mAFP use was associated with lower odds of 180-day all-cause mortality compared with standard care alone (adjusted OR 0.17, 95% CI: 0.03-0.99). CONCLUSIONS: Baseline and residual SYNTAX scores independently predicted 180-day mortality. The mAFP effect was not modified by SYNTAX measures. In the isolated left main subgroup, a hypothesis-generating signal towards a clinical benefit with mAFP use was observed.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.4244/EIJ-D-26-00460"
+ },
+ {
+  "idx": 27,
+  "journal": "J Am Heart Assoc",
+  "title": "Polygenic Determinants of Arterial Stiffness: Implications for Hypertension.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Components of arterial stiffness (structural stiffness from aging and load-dependent stiffness from high blood pressure [BP]) are markers for cardiovascular disease risk. We evaluated relationships between polygenic risk scores (PRSs) for BP and arterial stiffness. METHODS: Participants (n=5804) are from MESA (Multi-Ethnic Study of Atherosclerosis) with measures of carotid ultrasound and genomic DNA. Carotid pulse wave velocity (PWV) was calculated from carotid ultrasound. Structural stiffness was calculated by adjusting carotid PWV to a 120/80 mm Hg BP with participant-specific models. Load-dependent stiffness was the difference of total and structural stiffness. BP PRSs were derived from genome-wide associations. Associations were assessed with multivariable-adjusted regression models. Mendelian randomization was performed with 2-stage least squares. RESULTS: Participants were aged 62.8±10.3 years. Systolic BP (SBP) was 133.5±20.5 mm Hg, diastolic BP (DBP) was 74.27±10.28 mm Hg, and pulse pressure was 59.22±16.17 mm Hg. Total carotid PWV was associated with the SBP PRS (β=0.10±0.02, P=5.25E-08) and the DBP PRS (β: 0.08±0.02, P=7.26E-07) but not pulse pressure PRS (P=0.05). Load-dependent carotid PWV was associated with the SBP PRS (β=0.09±0.01, P=7.93×10-30), the DBP PRS (β=0.09±0.01, P=4.92×10-34) and the pulse pressure PRS (β=0.03±0.01, P=8.18×10-5). Structural carotid PWV was not associated with any BP PRSs. With Mendelian randomization, SBP and DBP showed significant independent positive effects on load-dependent stiffness (P<0.001); only SBP was significant for total carotid PWV after accounting for DBP. CONCLUSIONS: There are key differences in the genetic underpinnings of the mechanistic components of arterial stiffness.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.047424"
+ },
+ {
+  "idx": 32,
+  "journal": "Nat Cardiovasc Res",
+  "title": "Human adult and pediatric multimodal transcriptomic atlas of progression from pressure-loaded to failing right ventricle.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Right ventricular failure (RVF) independently predicts mortality in heart failure, yet its pathophysiology is poorly understood. Here we present a multi-modal atlas of human right ventricular pressure loading and failure, including bulk (n = 142), single-nucleus (n = 11) and Xenium spatial (n = 9) transcriptomics in adults, plus pediatric (n = 14) and mouse pulmonary artery banding cohorts. Subclustering resolved 34 cell subtypes across 12 lineages along a two-phase trajectory. Phase 1 (non-failing to pressure-loaded) accounts for most of the transcriptional change detectable by bulk and single-nucleus RNA sequencing and is marked by loss of resident macrophage identity, fibroblast activation, endothelial expansion and erosion of tissue-protective programs. Phase 2 (pressure-loaded to RVF) produces little change in bulk RNA sequencing but is resolved by spatial transcriptomics, engaging multi-lineage fibrotic, endothelial-activation and cardiomyocyte-reactivation programs, with a gain of extracellular matrix (collagen, laminin, thrombospondin) signaling over a stable cell contact adhesion baseline. Mitochondrial respirometry revealed respiratory dysfunction in adult and mouse RVF but not pediatric RVF. Multi-lineage remodeling of the cardiac microenvironment emerges as the central molecular program of RVF, meriting further study as possible disease-modifying targets.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s44161-026-00885-5"
+ },
+ {
+  "idx": 37,
+  "journal": "Heart Rhythm",
+  "title": "Performance and Limitations of Multipolar Electrogram Mapping in Scar-Related Ventricular Tachycardia.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Multipolar electrogram is designed to improve near-field (NF) signal clarity by subtracting far-field (FF) components using adjacent electrodes. OBJECTIVE: To assess the performance of multipolar electrogram mapping in identifying critical activation pathways and substrates in ventricular tachycardia (VT). METHODS: Scar-related VT maps created using the CARTO™3 system and Optrell™ catheter were analyzed. Bipolar VT activation maps were created using wavefront algorithm (annotating unipolar maximum -dV/dt), while substrate maps employed late annotation mapping (LAM). Bipolar maps were converted into multipolar maps offline using the CARTOREPLAY TM module. Electrograms with both NF and FF components-including local abnormal ventricular activities (LAVA), late potentials (LP), and diastolic signals-were compared between bipolar and multipolar maps. Auto-annotation accuracy was evaluated. RESULTS: A total of 3,636 electrograms from 53 maps (45 patients, age 64±9 years, 87% male, 57% ischemic) were analyzed. Multipolar signals showed higher NF/FF amplitude ratio than bipolar signals (1.50 [0.61-3.08] vs. 1.19 [0.52-2.60], p<0.0001). Multipolar activation mapping more accurately identified diastolic potentials than bipolar wavefront mapping (76% vs. 46%, p<0.0001). However, multipolar substrate mapping was less sensitive in detecting LAVA/LP than bipolar LAM (80% vs. 92%, p<0.0001). Of 30 maps with LPs, 87% had LPs missed by the multipolar algorithm but captured by LAM. Smaller NF / larger FF amplitudes and perimeter electrodes predicted multipolar annotation errors. CONCLUSIONS: Multipolar activation mapping enhances diastolic potential detection but reduces sensitivity for VT substrate identification compared to bipolar LAM. These findings inform optimal electrogram annotation approaches for VT activation and substrate mapping.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.09.052"
+ },
+ {
+  "idx": 42,
+  "journal": "J Am Heart Assoc",
+  "title": "Anthocyanin and Blueberry Intake, Lipids, C-Reactive Protein, and the Risk of Cardiovascular Disease in Women.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Anthocyanins and anthocyanin-rich berries have demonstrated lipid-lowering and anti-inflammatory effects; however, associations with cardiovascular disease remain mixed. We therefore examined anthocyanin and blueberry intake for prospective associations with cardiovascular disease risk and cross-sectional associations with lipids and hs-CRP (high-sensitivity C-reactive protein) in the WHS (Women's Health Study). METHODS: Among 38 088 women who completed a baseline semiquantitative food frequency questionnaire in 1992 to 1995, we estimated intake of total anthocyanins, 6 anthocyanin subclasses, and blueberries. Multivariable hazard ratios (HRs) were calculated for confirmed major adverse cardiovascular events, including nonfatal myocardial infarction, nonfatal stroke, and cardiovascular disease death. In a subset of 26 912 women with baseline blood samples, multivariable odds ratios were calculated for adverse lipid and hs-CRP levels. RESULTS: During a median 28.0-year follow-up, 2752 major adverse cardiovascular event cases occurred. Age-, energy-, and WHS treatment-adjusted HRs across quintiles of total anthocyanin intake were 1.00 (reference), 0.87 (95% CI, 0.78-0.98), 0.79 (95% CI, 0.70-0.89), 0.81 (95% CI, 0.72-0.91), and 0.88 (95% CI, 0.79-0.99) (P-trend=0.23). Further adjustment for clinical, lifestyle, and dietary factors showed no significant associations with major adverse cardiovascular events or their components, with similar null findings observed for anthocyanin subclasses and blueberries. In cross-sectional analyses, higher total anthocyanins and anthocyanin subclasses, except pelargonidin, were significantly associated with lower multivariable-adjusted odds of adverse high-density lipoprotein cholesterol and triglycerides (all other P-trend<0.05). CONCLUSIONS: In the WHS, anthocyanin and blueberry intake were not significantly associated with cardiovascular disease risk. However, higher anthocyanin intake was cross-sectionally associated with lower odds of adverse high-density lipoprotein cholesterol and triglycerides.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049770"
+ },
+ {
+  "idx": 47,
+  "journal": "J Am Heart Assoc",
+  "title": "Long-COVID Associated With Incident Hypertension: A Population-Based Cohort Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Long COVID has been linked to persistent autonomic and vascular abnormalities, but its impact on hypertension among non-hospitalized COVID-19 convalescents remains unclear. Given the link between blood pressure and cardiovascular morbidity, understanding how long COVID modifies the risk of incident hypertension is clinically important. METHODS: We conducted a longitudinal population-based study using MIRACLE-S (Multimorbidity Integrated Registry Across Care Levels in Stockholm). Adults aged 18 to 65 years without prior hypertension or hospitalization for acute COVID-19 were followed from October 2020 to January 2025. Long COVID was defined by a physician-assigned U09.9 diagnosis. The outcome was new-onset hypertension (International Classification of Diseases, Tenth Revision [ICD-10] I10). Cox proportional hazards models estimated hazard ratios (HRs), adjusted for age, socioeconomic status, comorbidities, mental health, and pre-pandemic health care utilization. Analyses were stratified by sex. RESULTS: Among 1 221 570 adults, 8365 (0.7%) were diagnosed with long COVID, and 18% developed incident hypertension during follow-up. Individuals with long COVID (women: n=5578, 16%; men: n=2787, 24%) showed an early and consistently higher cumulative incidence than unexposed individuals (P<0.0001). Long COVID was associated with increased hypertension risk overall (HR 1.14, 95% CI 1.09-1.20; P<0.001), and in women (HR 1.13, 95% CI 1.05-1.22; P=0.001) and men (HR 1.15, 95% CI 1.05-1.27; P=0.002), with stable estimates across models. CONCLUSION: Long COVID was associated with elevated risk of incident hypertension in non-hospitalized COVID-19 convalescents. These findings suggest SARS-CoV-2 infection may contribute to vascular and autonomic dysregulation affecting blood pressure, supporting structured monitoring and risk management in individuals with persistent post-COVID symptoms.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049721"
+ },
+ {
+  "idx": 52,
+  "journal": "Eur Heart J",
+  "title": "Semaglutide, independent of weight loss, attenuates cardiac and hepatic remodelling in experimental heart failure with preserved ejection fraction.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: Heart failure with preserved ejection fraction (HFpEF) remains a significant therapeutic challenge. While GLP-1 receptor agonists (GLP-1RAs) show clinical promise, it remains unknown if their benefits are driven solely by weight loss or involve weight loss-independent mechanisms. We investigated the weight loss-independent effects of semaglutide in two preclinical models of cardiometabolic HFpEF: the ZSF1 Obese rat and the Göttingen HFpEF minipig. METHODS: Male ZSF1 Obese rats (n = 12/group) and female Göttingen minipigs with 'two-hit' induced HFpEF (early intervention: n = 5/group; delayed intervention: n = 4/group) were treated with semaglutide at doses empirically determined to be non-weight-loss inducing. Comprehensive assessments included invasive hemodynamic (LVEDP, PCWP), echocardiography, and histological quantification of fibrosis and lipid burden. Delayed intervention utilized Cardiac MRI to quantify subcutaneous and ectopic fat depots. In rats, advanced multi-omics (NULISA plasma proteomics, single-cell RNA sequencing and tissue proteomics) were utilized to explore molecular mechanisms. RESULTS: In ZSF1 Obese rats, semaglutide significantly improved diastolic function (reducing LVEDP by ∼60%) and attenuated cardiac hypertrophy (by ∼30%), interstitial fibrosis, and cardiac lipid deposition in the absence of a significant weight loss. These functional benefits were conserved in the minipig HFpEF model, where treatment attenuated cardiac hypertrophy, left ventricular E/e', normalized pulmonary capillary wedge pressure (PCWP) and reversed advanced hepatic bridging fibrosis. Delayed intervention in established HFpEF minipigs reversed diastolic dysfunction and significantly reduced ectopic lipid depots (intramyocardial, epicardial, and hepatic fat) without affecting subcutaneous fat or total body weight. Mechanistically, multi-omics analyses in the rat heart revealed that these benefits were driven by suppression of pro-fibrotic and hypertrophic signals and up-regulation of branched-chain amino acid (BCAA) catabolism and fatty acid oxidation pathways in cardiomyocytes. CONCLUSIONS: Semaglutide attenuates cardiac and hepatic remodelling in preclinical models of obesity-associated cardiometabolic HFpEF in the absence of profound weight loss. The conservation of these effects across male rodents and female swine supports their translational relevance, while future studies are needed to define dose equivalence and confirm GLP-1 receptor engagement in cardiac and hepatic tissues. These findings support further mechanistic investigation of weight loss-independent GLP-1 receptor agonist signalling in this HFpEF phenotype.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurheartj/ehag732"
+ },
+ {
+  "idx": 57,
+  "journal": "Eur Heart J",
+  "title": "Congenital heart disease in adults: evolving health systems and lifelong outcomes.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Over the past decades, advances in the diagnosis and treatment of congenital heart disease have reshaped its epidemiology. Congenital heart disease is now increasingly a chronic, lifelong disorder, with adult survivors outnumbering affected children in many countries. This demographic transition has shifted the focus from preventing early mortality towards optimizing long-term health and managing comorbidities. Adult congenital heart disease (ACHD) experience acquired cardiovascular and systemic complications that challenge traditional models of care. As the lifelong burden of disease in ACHD patients continues to rise globally, advanced training pathways in ACHD have spearheaded the content expertise required to deliver high quality of care. The well-established hub-and-scope model has been recommended in the last two decades to improve ACHD care by expanding the number of specialized centres that allow ACHD specialists to reach underserved regions more effectively. However, the advent of technology, digital health, and artificial intelligence-enhanced decision-making provides an opportunity to imagine a different approach, to coordinate advances in research, clinical care, and health system design, with particular emphasis on scalable models that align expertise, data, and delivery across the life course. Networked care structures, workforce redesign, and digitally enabled learning health systems offer a pathway to close persistent gaps in care access and quality. Ultimately, the future of ACHD care will depend on our ability to integrate these innovations into routine practice, ensuring that extended survival is matched by preserved function, quality of life, and equitable outcomes at the population scale.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurheartj/ehag616"
+ },
+ {
+  "idx": 62,
+  "journal": "J Am Heart Assoc",
+  "title": "Omega-6 Polyunsaturated Fatty Acids and Peripheral Artery Disease: An Individual Participant-Level Analysis of 9 International Prospective Studies.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Omega-6 polyunsaturated fatty acids (PUFAs) have previously been associated with several peripheral artery disease (PAD) risk factors. We studied the association between individual omega-6 PUFAs and incident PAD in a multicohort analysis. METHODS: This study was conducted among participants from 9 cohorts (N=137 704; PAD cases=2014) in the FORCE (Fatty Acids and Outcomes Research Consortium) who were free of clinical PAD at baseline. Omega-6 PUFAs were measured at baseline and with a median follow-up of 14 years. Cox proportional hazards regression analyses were conducted in individual cohorts to evaluate associations of omega-6 PUFAs (continuous cohort-standardized interquintile ranges [difference between the medians of the 10th and 90th omega-6 PUFAs percentiles] and cohort-specific quintiles) with incident clinical PAD adjusting for prespecified covariates. Inverse-variance weighted meta-analysis was used to calculate the combined hazard ratios (HRs) and 95% CIs. RESULTS: Linoleic acid (LA) was measured in all 9 cohorts, arachidonic acid in 8 (N=33 541; PAD cases=1766), dihomo-γ-LA and γ-LA in 7 (N=29 861; PAD cases=1686), and eicosadienoic acid in 6 (N=27 538; PAD cases=1435). Only LA was associated with a lower risk of incident PAD (quintile 5 versus quintile 1: HR, 0.75 [95% CI, 0.64-0.89]; P=0.0009). Results did not differ in a statistically significant manner by age, sex, diabetes status, or smoking status. CONCLUSIONS: Results suggest that the omega-6 PUFA LA may be protective against PAD, and other omega-6 PUFAs are not associated with PAD incidence. This is further evidence that omega-6 PUFA-disease relationships should be evaluated by individual fatty acids rather than grouped as total omega-6 PUFAs.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049223"
+ },
+ {
+  "idx": 67,
+  "journal": "Heart",
+  "title": "Sudden cardiac death due to aortic stenosis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Characteristics of subjects with sudden cardiac death (SCD) due to aortic stenosis (AS) are not well defined. Aim of this study was to present clinical and autopsy findings of SCD subjects in whom AS was determined to be the cause of death. METHODS: Study population was based on the Finnish Genetic Study of Arrhythmic Events (Fingesture), a large registry which included 5869 consecutive subjects of autopsy-verified SCD between 1998 and 2017. The cause of death was determined based on medicolegal investigation combining data from medical records, police reports and autopsy. Clinical history, ECGs and echocardiographic data were reviewed when available. RESULTS: Valvular heart disease (VHD) was determined to be the cause of SCD in 64 subjects (1.1%), where AS was the most frequent cause of SCD due to VHD (68.8%). The average age in victims of SCD due to AS was 67.5±12.1 years and 79.5% were male. Documented angina or dyspnoea prior to SCD due to AS was rare (6.8% and 4.5%, respectively), and over half of the SCD subjects (54.5%) did not have a previously established diagnosis of AS. Almost all subjects (93.2%) with SCD due to AS had cardiac hypertrophy and myocardial fibrosis at autopsy. CONCLUSIONS: VHD is a rare cause of SCD, where AS is the dominant underlying pathology. SCD due to AS occurs often without previous diagnosis. Near-universal presence of cardiac hypertrophy and myocardial fibrosis at autopsy supports the role of advanced myocardial disease in the pathogenesis of SCD due to AS.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1136/heartjnl-2026-328438"
+ },
+ {
+  "idx": 72,
+  "journal": "J Am Heart Assoc",
+  "title": "Body Mass Index, Valsartan, and Myocardial Remodeling in Early-Stage Hypertrophic Cardiomyopathy: A Secondary Analysis of the Randomized VANISH Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Obesity is associated with adverse outcomes in overt hypertrophic cardiomyopathy, but the prevalence and impact of elevated body mass index (BMI) in early-stage hypertrophic cardiomyopathy is uncertain. METHODS: In this post hoc analysis of the randomized VANISH (Valsartan for Attenuating Disease Evolution in Early Sarcomeric Hypertrophic Cardiomyopathy) trial, participants were categorized according to baseline BMI (nonelevated or elevated [≥85th percentile if age <18 years; ≥25 kg/m2 if age ≥18 years]). Exercise capacity (peak oxygen uptake [milliliters per kilogram per minute]) and cardiac imaging parameters were evaluated by baseline BMI and 2-year change in BMI. RESULTS: Among 171 (96%) participants (mean age, 23±10 years; 39% female sex; 97% White), 82 (48%) had nonelevated BMI and 89 (52%) had an elevated BMI. After covariate adjustment, higher baseline BMI was associated with lower peak oxygen uptake; lower left ventricular systolic and diastolic function; higher left ventricular mass; and higher atrial, ventricular, and extracellular volumes. Similarly, greater 2-year increases in BMI were associated with greater declines in peak oxygen uptake and greater increases in left ventricular mass. Participants with elevated BMI were more likely to develop late gadolinium enhancement over 2 years (adjusted odds ratio, 3.6 [95% CI, 1.1-11.9]; P=0.033). Valsartan appeared to modestly attenuate 2-year increases in body weight versus placebo (adjusted mean difference, -3.1% [95% CI, -6.2 to -0.1%]; P=0.042). Baseline BMI did not appear to modify the effect of valsartan on cardiac remodeling (Pinteraction=0.96). CONCLUSIONS: Elevated BMI was common and associated with greater hypertrophic, eccentric, and fibrotic remodeling in early-stage hypertrophic cardiomyopathy. Two-year increases in BMI were associated with greater phenotypic progression. These findings suggest prevention and treatment of elevated BMI may attenuate hypertrophic cardiomyopathy progression. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT01912534.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050131"
+ },
+ {
+  "idx": 77,
+  "journal": "JAMA",
+  "title": "Smoking Cessation Among Underserved Patients Referred for Lung Cancer Screening: A Randomized Clinical Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: The Centers for Medicare & Medicaid Services requires that health systems offer smoking cessation services to patients undergoing lung cancer screening. However, the most effective methods to achieve smoking cessation among medically underserved patients undergoing lung cancer screening are unknown. OBJECTIVE: To compare the effectiveness of 4 strategies for promoting smoking cessation among medically underserved persons referred for lung cancer screening. DESIGN, SETTING, AND PARTICIPANTS: This randomized clinical trial included currently smoking individuals referred for lung cancer screening at 4 US health systems (5 centers) who identified as Black, Hispanic, living in a rural area, or being of low socioeconomic status. The first participant was enrolled on May 17, 2021, and the date of last follow-up was April 29, 2025. INTERVENTION: Patients were randomized to 1 of 4 groups. Participants received either an ask-advise-refer strategy to smoking cessation services (usual care); usual care plus free pharmacotherapy (ie, nicotine replacement and reimbursement for varenicline or bupropion); usual care, free pharmacotherapy, and financial incentives up to $600 contingent on biochemically confirmed smoking cessation; or usual care, free pharmacotherapy, and financial incentives plus a mobile health tool motivating patients to think about their future health. MAIN OUTCOMES AND MEASURES: The primary end point was biochemically confirmed, sustained tobacco abstinence through 6 months, measured with cotinine, anabasine, or carboxyhemoglobin. RESULTS: Of the 9963 patients assessed for eligibility, 3259 patients were randomized and 3220 were included in the primary analysis. The median (IQR) age was 61.1 (56.6-66.0) years, 1948 (60.3%) were female, 823 (25.5%) were Black, 287 (8.9%) were Hispanic, 1251 (38.8%) lived in rural areas, 1519 (74.9%) had low socioeconomic status, and 1792 (55.5%) reported smoking more than 10 cigarettes per day at enrollment. Sustained tobacco abstinence rates through 6 months were 4.3% with usual care, 5.1% with the addition of pharmacotherapy, 8.8% with the addition of financial incentives, and 7.2% with the addition of mobile health tool. Adding financial incentives increased the adjusted rate of sustained tobacco abstinence compared with usual care (difference, 4.6% [95% CI, 2.1%-7.0%]; P < .001) and usual care plus free pharmacotherapy (difference, 4.1% [95% CI, 1.7%-6.4%]; P < .001). Adding free pharmacotherapy to ask-advise-refer was not superior to ask-advise-refer alone (difference, 0.5% [95% CI, -1.7% to 2.6%]; P = .66). CONCLUSIONS AND RELEVANCE: Among medically underserved adults who currently smoked cigarettes and were referred for lung cancer screening, rates of sustained tobacco abstinence were higher through 6 months with addition of financial incentives compared with ask-advise-refer alone or with addition of free pharmacotherapy. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT04798664.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1001/jama.2026.17192"
+ },
+ {
+  "idx": 82,
+  "journal": "JACC Cardiovasc Imaging",
+  "title": "Comprehensive Aortic Stenosis Characterization Using Multiview Deep Learning.",
+  "ptypes": [
+   "Journal Article",
+   "Validation Study"
+  ],
+  "abstract": "BACKGROUND: Accurate assessment of aortic stenosis (AS) requires integration of both structural and functional information characterized by visual traits as well as quantitation of gradients. Existing artificial intelligence models use solely either structural or functional information. OBJECTIVES: The authors aimed to develop and validate an automated multiview deep learning framework to assess AS severity. METHODS: The authors developed EchoNet-AS, an open-source end-to-end integrated approach combining video-based convolutional neural networks to assess valve motion with segmentation models to automate measurement of aortic valve peak velocity and classify AS severity. RESULTS: EchoNet-AS was trained on 210,193 images from 16,076 studies from KPNC (Kaiser Permanente Northern California) and validated on 1,588 held-out test studies and a temporally distinct cohort of 19,202 studies. The final model was also externally validated on 2,415 studies from SHC (Stanford Healthcare) and 9,038 studies from CSMC (Cedars-Sinai Medical Center). Combining assessments from multiple echocardiographic videos and Doppler measurements, EchoNet-AS achieved excellent discrimination of severe AS with an area under the receiver-operating characteristic curve of 0.964 (95% CI: 0.952-0.973) in the KPNC held-out cohort and 0.986 (0.983-0.989) in the temporally distinct cohort, which was superior to models using single views or only Doppler measurements. The performance was consistently robust in distinct external cohorts with an area under the receiver-operating characteristic curve of 0.985 (0.975-0.992) at SHC and 0.989 (0.986-0.992) at CSMC. CONCLUSIONS: EchoNet-AS synthesizes information from both B-mode videos and Doppler images to accurately assess AS severity. Its strong performance generalizes robustly to external validation cohorts and shows potential as an automated clinical decision support tool.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcmg.2026.07.013"
+ },
+ {
+  "idx": 87,
+  "journal": "Heart",
+  "title": "Long-term cortisol exposure and echocardiographic measures of cardiac structure and function.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Chronic activation of the hypothalamic-pituitary-adrenal axis due to long-term stress, reflected by elevated hair cortisol concentration (HCC), has been associated with increased cardiovascular disease risk. However, whether prolonged cortisol exposure is linked to alterations in cardiac structure and function remains unclear. METHODS: In a population-based cohort of 3005 individuals aged 50-64 years in Sweden, HCC was measured and analysed in relation to 19 echocardiographic parameters reflecting cardiac morphology and function. Through linear regression models the association between HCC and echocardiographic parameters was analysed, adjusting for relevant confounders and complemented by sensitivity analyses to assess influence of extreme values and to evaluate potential non-linearity. RESULTS: No significant association between HCC and three broad principal component analysis-derived cardiac phenotypes was observed. Across 19 individual echocardiographic measures, effect estimates were generally small and CIs largely included the null. Left Atrial End-Systolic Volume Index (LAESVI) was the only measure showing a false discovery rate-adjusted significant association with HCC; however the magnitude of this association was modest, with β=0.178 SD per one-unit increase in log10-HCC, corresponding to approximately 0.734 mL/m² higher LAESVI across the IQR of HCC (~2.9% of the cohort median). CONCLUSIONS: Taken together, in this population-based study, these findings provide little evidence that HCC is associated with clinically meaningful differences in cardiac structure or function in generally healthy middle-aged adults.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1136/heartjnl-2026-328566"
+ },
+ {
+  "idx": 92,
+  "journal": "Eur J Heart Fail",
+  "title": "Clinical trajectory and disease progression in patients with cardio-renal-metabolic syndrome: the CaReMap observational study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cardio-renal-metabolic (CRM) syndrome describes the pathophysiological interconnection among diabetes mellitus (DM), atherosclerotic cardiovascular disease (ASCVD) and heart failure (HF), and chronic kidney disease (CKD). Limited studies simultaneously examine progression trajectories across all three conditions at the population level. We aimed to quantify the coexistence of CRM components, with a specific focus on patients with HF, and analyse survival and disease progression in a real-world setting. METHODS: CaReMap, an observational cohort study, analysed data from an Italian Regional Epidemiological Repository. The selection period spanned from 2017 to 2022. Incident patients had a first diagnosis of DM, HF, or CKD after January 1, 2017. Prevalent patients were classified based on their baseline morbidity status on January 1, 2017. Descriptive statistics, Kaplan-Meier survival estimates, and cumulative incidence curves for cause-specific events were reported. The CRM stage was further defined according to disease coexistence and severity. RESULTS: CaReMap included 71,694 adults with established CRM-related conditions (31.8% incident; 68.2% prevalent). Among incident patients, HF was associated with the highest probability of developing an additional diagnosis (60.4% at 6 years), while CKD showed the highest probability of death before a new diagnosis (43.3% at 6 years). In prevalent patients, the DM&HF group showed the highest cumulative incidence of further diagnoses (47.1% at 6 years). Across both incident and prevalent cohorts, HF and CKD patients experienced the steepest decline in overall survival. CONCLUSION: In this population-based Italian cohort, DM, HF, and CKD define distinct diagnostic trajectories with substantial competing risk of death. These findings provide real-world estimates of transition patterns and absolute risks that may inform risk stratification and integrated care pathways.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/ejhf/xuag308"
+ },
+ {
+  "idx": 97,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Cardiovascular health in transgender and gender diverse individuals: an expert opinion on gender-affirming hormone therapy, risk assessment and clinical management.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Transgender and gender diverse (TGD) individuals represent a growing population with specific cardiovascular health needs. Current cardiovascular prevention strategies are largely derived from cisgender populations and may not adequately account for the combined effects of gender-affirming hormone therapy (GAHT) and other determinants. This expert opinion summarizes current evidence regarding cardiovascular health in TGD individuals, focusing on the cardiovascular effects of GAHT, population-specific cardiovascular risk factors, practical approaches to cardiovascular risk assessment, and future research priorities. Available evidence indicates that GAHT is associated with changes in cardiometabolic risk factors, haemostasis, vascular function, and cardiac physiology. Feminizing GAHT is associated with an increased risk of venous thromboembolism, whereas masculinizing GAHT is associated with adverse lipid changes, erythrocytosis, and a potentially increased risk of major cardiovascular events. However, causal inference is limited by the predominance of observational studies, relatively young study populations, heterogeneous GAHT regimens, short follow-up, and the absence of randomized study evidence. Population-level cardiovascular disparities in TGD should not be attributed to GAHT alone and smoking, obesity, physical inactivity, minority stress, socioeconomic disadvantage, and unequal access to healthcare may independently or interactively influence cardiovascular risk. Current cardiovascular risk prediction tools have not been validated or calibrated in TGD populations and do not account for GAHT exposure or TGD-specific psychosocial and structural determinants. Cardiovascular risk assessment in TGD individuals should integrate conventional risk factors, transgender-related cardiovascular risk factors, and patient involvement regarding individual goals. A coordinated multidisciplinary approach may facilitate personalized cardiovascular prevention while supporting access to gender-affirming care. Future research should prioritize long-term prospective studies and development of risk prediction models tailored to TGD populations.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag528"
+ },
+ {
+  "idx": 102,
+  "journal": "J Am Heart Assoc",
+  "title": "Cardiac Reverse Remodeling and Clinical Outcomes Following Angiotensin Receptor-Neprilysin Inhibitor Therapy in Heart Failure With Reduced Ejection Fraction.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cardiac reverse remodeling and associated clinical outcomes following angiotensin receptor-neprilysin inhibitor (ARNI) therapy in patients with heart failure (HF) with reduced ejection fraction (EF) remain unclear. We investigated differences in 1-year echocardiographic response after ARNI therapy and predictors of clinical outcomes. METHODS: This study involved patients with HF with reduced EF and ARNI therapy for more than 6 months, using data from a 2-center registry. Echocardiographic data were analyzed at baseline and 1 year after ARNI initiation. Responders were defined as patients with a ≥30% reduction in left ventricular end-systolic volume at 1 year; all others were nonresponders. The primary outcome was cardiovascular death, and secondary outcomes were hospitalization for HF and all-cause death. Time-by-group interactions in echocardiographic parameters were evaluated using linear mixed-effects models. RESULTS: Among 1002 patients (mean age: 64.2±13.7 years; 70.8% men), 451 (45.0%) were responders and 551 (55.0%) were nonresponders. Responders had a lower baseline left ventricular EF but higher left ventricular EF at 1 year (27.0% [95% CI, 22.0-33.0] and 48.0% [95% CI, 42.0-55.0]). Both groups showed improvements in diastolic parameters, with more pronounced changes in responders. In multivariable analysis, nonresponders had a significantly higher risk of cardiovascular death, hospitalization for HF, and all-cause death (all P<0.001). Male sex and a higher baseline left ventricular EF were independent predictors of nonresponse, whereas systolic blood pressure ≥110 mm Hg and atrial fibrillation were associated with better outcomes. CONCLUSIONS: Cardiac reverse remodeling after ARNI therapy varies among patients with HF with reduced EF. Positive responders to ARNI therapy at 1 year experienced more favorable clinical outcomes.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.051306"
+ },
+ {
+  "idx": 107,
+  "journal": "J Am Heart Assoc",
+  "title": "Impact of Continuous Baseline and Discharge Blood Pressure on Outcomes After Transcatheter Aortic Valve Implantation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "INTRODUCTION: Evidence linking pre- and post-transcatheter aortic valve implantation (TAVI) blood pressure (BP) with cardiovascular outcomes is scarce. This study investigated the associations of pre- and post-TAVI BP and their changes as a continuous variable with cardiovascular outcomes. METHODS: Patients undergoing TAVI at a tertiary university hospital between 2011 and 2025 with office BP available before and after TAVI were included. The primary outcome was a composite of major adverse cardiac events (MACE) at 1 year. Multivariable Cox proportional hazards models incorporating restricted cubic splines for continuous variables were fitted. RESULTS: Among 1191 patients, BP remained relatively stable from pre-TAVI to 1-year follow-up. Both discharge systolic BP and absolute changes therein from pre- to post-TAVI were significantly associated with MACE at 1 year (P<0.001 for both), whereas baseline systolic BP showed no significant association. BP values <115 mm Hg or >143 mm Hg were associated with a higher risk of MACE 1 year after TAVI. A decrease in systolic BP of -5 to -25 mm Hg was also associated with a lower risk of MACE compared with no change. CONCLUSIONS: While BP remains generally stable in the year following TAVI, both very low and high systolic BP at discharge were associated with higher 1-year MACE. Furthermore, moderate decreases in systolic BP from baseline to discharge appear to be protective. These findings highlight the potential prognostic value of BP optimization during TAVI follow-up and support the role of BP measurements as a clinically translatable, independently associated with long-term outcomes after TAVI.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050999"
+ }
+]

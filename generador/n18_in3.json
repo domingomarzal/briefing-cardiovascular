@@ -1,0 +1,270 @@
+[
+ {
+  "idx": 3,
+  "journal": "Circulation",
+  "title": "Incidence, Process of Care, and Outcomes of In-Hospital Cardiac Arrest in China: A Multicenter Prospective Registry Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: In-hospital cardiac arrest (IHCA) is an acute event associated with high mortality. Although survival has improved in high-income countries, contemporary multicenter data from low- and middle-income countries remain scarce, limiting global benchmarking and the identification of system-level opportunities for improvement. METHODS: This cohort study used data from the BASIC-IHCA (Baseline Investigation of In-Hospital Cardiac Arrest) registry. Adult patients (≥18 years) who experienced IHCA and received cardiopulmonary resuscitation between July 1, 2019, and December 31, 2020, at 37 hospitals across 29 provinces in China were included. The primary outcome was survival to 30 days or hospital discharge. Secondary outcomes included return of spontaneous circulation, 6- and 12-month survival, and favorable neurological outcome (Cerebral Performance Category score 1-2). Process measures focused on the timeliness of resuscitation response and the implementation of postresuscitation interventions. RESULTS: Among 17 602 patients (median age, 66 years; 65.5% male), the annual incidence of adult IHCA was 4.1 per 1000 admissions. Cardiac etiology was identified in 6569 (37.3%) patients, and 2380 (13.5%) presented with initial shockable rhythm. Among all patients, 16 872 (95.9%) received cardiopulmonary resuscitation within 1 minute; timely defibrillation or epinephrine was achieved in 71.4% and 84.4% of patients with initial shockable and nonshockable rhythms, respectively. Sustained return of spontaneous circulation was achieved in 6200 (35.2%) patients, of whom 222 (3.6%) received temperature control therapy and 320 (5.2%) underwent coronary angiography. Overall, 1610 (9.1%) patients survived to 30 days or discharge, with 1241 (7.1%) having a favorable neurological outcome. At 12 months, 1075 (6.1%) patients remained alive, and 986 (5.6%) had a favorable neurological outcome. CONCLUSIONS: This multicenter registry highlights a substantial burden of IHCA in China, with markedly low survival rates. Despite prompt initial resuscitation, critical gaps persist in postresuscitation care. Systemic and cultural factors, including the infrequent use of do not attempt cardiopulmonary resuscitation orders, may further contribute to survival disparities. These findings suggest several system-level opportunities to improve IHCA outcomes, including structured response systems, optimized critical care resource allocation, and greater integration of advanced care planning.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.080404"
+ },
+ {
+  "idx": 8,
+  "journal": "J Am Heart Assoc",
+  "title": "Thoracic Intermuscular Adiposity, Coronary Microvascular Dysfunction, and Prognosis After Cardiac Surgery.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Body mass index is a widely-used yet imprecise measure of adiposity. Thoracic intermuscular adiposity is reported to be related with coronary microvascular dysfunction (CMD), but their prognostic implications after cardiac surgery are not clear. This study aimed to investigate whether computed tomography-derived thoracic intermuscular adiposity and CMD provide better prognostic information than body mass index in patients undergoing cardiac surgery. METHODS: This study consecutively enrolled 666 patients undergoing elective surgery from 3 centers. Using computed tomography at the T12 vertebral level, we quantified the cross-sectional areas (cm2) of skeletal muscle, subcutaneous adipose tissue, and intermuscular adipose tissue. Intermuscular fat fraction was calculated as intermuscular adipose tissue/(intermuscular adipose tissue+skeletal muscle)×100%. CMD was defined by a coronary angiography-derived index of microcirculatory resistance >25. The primary end point was major adverse cardiovascular events (MACE), a composite of all-cause mortality, myocardial infarction, and rehospitalization for heart failure. RESULTS: A total of 63 MACEs (9.5%) occurred during a median 17-month follow-up. Obesity defined by body mass index (10.7% of patients) was not associated with MACE (P=0.187). Each 1% increase in intermuscular fat fraction was significantly associated with CMD (adjusted odds ratio, 1.22 [95% CI, 1.14-1.31]; P<0.001), whereas body mass index showed no such correlation (P=0.964). CMD independently predicted MACE (adjusted hazard ratio, 2.03; [95% CI: 1.15-3.61]; P = 0.015), whereas intermuscular fat fraction did not (P=0.516). The annualized MACE rate was significantly higher in patients with CMD (11.0% versus 5.2%, P=0.004). CONCLUSIONS: Computed tomography-derived intermuscular adiposity correlated strongly with CMD, and preprocedural CMD was associated with a higher risk of MACE after cardiac surgery. External validation and prospective studies are warranted.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.053125"
+ },
+ {
+  "idx": 13,
+  "journal": "J Am Heart Assoc",
+  "title": "Patient Characteristics and Outcomes Associated With Home-Based Cardiac Rehabilitation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Referrals to and participation in cardiac rehabilitation programs remain suboptimal. We examined factors associated with home-based cardiac rehabilitation (HBCR) referral and participation and associations of referral and participation with outcomes. METHODS: In this retrospective cohort study, we included adults ≥18 years of age from Kaiser Permanente Southern California with a HBCR-qualifying event or procedure between January 2021 and September 2024. HBCR referral and, separately, participation was identified within 90 days. Outcomes included 30-, 180-, and 365-day hospitalizations and all-cause mortality. RESULTS: Among 44 468 adults, 13 164 (29.6%) received a referral within 90 days. Those receiving versus not receiving a referral were younger (mean age 65.6 versus 70.6 years) and more often male (71.4% versus 59.5%). Referral was associated with a lower likelihood of 180-day all-cause and cardiovascular disease hospitalization (prevalence ratio [PR], 0.86 [95% CI, 0.82-0.91] and PR, 0.76 [95% CI, 0.66-0.82]), and 365-day all-cause and cardiovascular disease hospitalization (PR, 0.83 [95% CI, 0.79-0.86] and PR, 0.70 [95% CI, 0.66-0.75]). Participation was associated with a lower likelihood of 30-day all-cause hospitalization (PR, 0.78 [95% CI, 0.66-0.92]), 180-day all-cause and cardiovascular disease hospitalization (PR, 0.83 [95% CI, 0.75-0.91] and PR, 0.85 [95% CI, 0.74-0.98]), and 365-day all-cause and cardiovascular disease hospitalization (PR, 0.89 [95% CI, 0.82-0.96] and PR, 0.87 [95% CI, 0.78-0.98]). CONCLUSIONS: Older adults and women had lower HBCR referral highlighting persistent gaps. Lower hospitalization risk associated with timely HBCR referral and participation underscores the importance of appropriate patient screening to improve outcomes.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050248"
+ },
+ {
+  "idx": 18,
+  "journal": "Ann Intern Med",
+  "title": "In adults unresponsive after cardiac arrest, conservative vs. liberal oxygen therapy did not improve outcomes at 180 d.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "GIM/FP/GP: [Formula: see text] Cardiology: [Formula: see text] Critical Care: [Formula: see text] Pulmonology: [Formula: see text].",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.7326/ANNALS-26-03500-JC"
+ },
+ {
+  "idx": 23,
+  "journal": "J Am Heart Assoc",
+  "title": "Regional Adipose Distribution Reveals Differential Genetic Risk Patterns for Cardiometabolic Diseases.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cardiometabolic risk associated with obesity is increasingly recognized to be strongly influenced by the anatomical distribution and ectopic deposition of adipose tissue, yet the genetic mechanisms linking adipose depots to cardiometabolic diseases remain incompletely understood. METHODS: Using large-scale genome-wide association summary statistics, we systematically characterized shared genetic architecture between 7 magnetic resonance imaging-derived regional and ectopic adipose traits and 20 cardiometabolic diseases, including major cardiovascular outcomes and type 2 diabetes. Genetic overlap was assessed at genome-wide, regional, and variant levels, followed by functional annotation, cell-type enrichment, and phenotype enrichment analyses. Protein-protein interaction networks and molecular docking analyses were further applied to prioritize disease-relevant genes and potential therapeutic compounds. RESULTS: We identified widespread yet heterogeneous genetic overlap, including 109 adipose-cardiometabolic diseases pairs with genome-wide overlap, 92 pairs showing regional concordance across 423 genomic regions, and 146 pleiotropic loci supported by colocalization. Shared variants were enriched in regulatory elements and connected to pleiotropic genes involved in metabolic and inflammatory pathways, including insulin signaling, ion homeostasis, and cellular stress responses. Cell type enrichment analyses highlighted immune, endothelial, and metabolically active parenchymal cells as key contributing cell types. Network and docking analyses further prioritized cardiometabolic disease-related genes such as MMP9, PPARG, and TM6SF2, along with candidate compounds exhibiting favorable binding properties. CONCLUSIONS: This study delineates differential genetic risk patterns linking adipose distribution to multiple cardiometabolic diseases and reveals interconnected metabolic, immune, and vascular mechanisms, providing a genetic framework for cardiometabolic and cardiovascular risk assessment and the prioritization of potential therapeutic targets.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049987"
+ },
+ {
+  "idx": 28,
+  "journal": "J Am Heart Assoc",
+  "title": "Left Ventricular End-Diastolic Diameter Predicts Clinical Outcomes in Patients Supported With Surgically Implanted Microaxial Flow Pump.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: This study sought to determine the impact of left ventricular size on clinical outcomes after a microaxial flow pump was surgically implanted. METHODS: In this retrospective cohort study, we included patients who received a surgical microaxial left ventricular assist device from May 2020 to February 2024 at 2 high-volume centers in the United States. Patients were categorized into 2 groups based on their preimplant left ventricular end-diastolic diameter (LVEDD): \"small LVEDD,\" defined as LVEDD ≤5.5 cm, and \"large LVEDD,\" defined as LVEDD >5.5 cm, respectively. End points were all-cause death at 30 days after device implantation, in-hospital death, death 30-days after discharge, and survival at 30-month follow-up. RESULTS: Two-hundred sixty-two patients received an Impella 5.5. Preimplant LVEDD was documented in 194 (74%) patients, where 50 patients had LVEDD ≤5.5 cm and 144 patients had LVEDD >5.5 cm. Patients with a small LVEDD had a higher rate of all-cause death at 30 days after device implantation (32% versus 11.8%, P=0.002), in-hospital death (42% versus 20.1%, P=0.004), and death 30 days after discharge (44% versus 20.8%, P=0.003). In adjusted analyses, patients with a greater LVEDD had 62% decreased risk of long-term death (hazard ratio, 0.39 [95% CI, 0.19-0.76]; P=0.001), compared with patients with a smaller LVEDD. CONCLUSIONS: In this real-world, all-comer study, we found that patients with reduced left ventricular dimension who required an Impella 5.5 had worse outcomes. Further research is warranted to recapitulate our observations across more centers.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.051803"
+ },
+ {
+  "idx": 33,
+  "journal": "JACC Adv",
+  "title": "Ticagrelor Monotherapy or Aspirin Plus Prasugrel After Percutaneous Coronary Intervention: A Network Meta-Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The 2025 American College of Cardiology/American Heart Association guidelines endorse de-escalation to ticagrelor monotherapy after percutaneous coronary intervention (PCI) for acute coronary syndromes (ACSs), whereas the 2023 European Society of Cardiology guidelines recommend 12-month dual antiplatelet therapy (DAPT) with aspirin plus prasugrel as the default strategy. OBJECTIVES: The objective of the study was to compare ischemic and bleeding outcomes between these strategies and to evaluate whether diabetes modifies their relative effects. METHODS: Randomized controlled trials enrolling patients after PCI and evaluating de-escalation to ticagrelor monotherapy or 12-month DAPT (ticagrelor or prasugrel-based) were included. The primary efficacy and safety outcomes were major adverse cardiovascular or cerebrovascular events (MACCE) and major bleeding. Incidence rate ratios (IRRs) with 95% CIs were pooled using a frequentist random-effects network meta-analysis. Subgroup analyses were performed according to diabetes status. RESULTS: Seven randomized controlled trials including 27,225 patients were included (mean age, 62 years; 23.2% women; 31.7% diabetes; 98.6% ACS). Ticagrelor monotherapy and aspirin plus prasugrel were compared indirectly through ticagrelor-based DAPT. Ticagrelor monotherapy showed similar MACCE compared with aspirin plus prasugrel (IRR: 1.09; 95% CI: 0.86-1.38), although a clinically meaningful increase in risk cannot be excluded (P for noninferiority = 0.33); major bleeding was lower with ticagrelor monotherapy (IRR: 0.54; 95% CI: 0.37-0.80). An interaction between P2Y12 inhibitor strategy and diabetes status was observed for MACCE (Pint = 0.04). CONCLUSIONS: In this network meta-analysis of predominantly ACS patients undergoing PCI, ticagrelor monotherapy reduced major bleeding compared with 12 months of aspirin plus prasugrel, whereas it did not meet noninferiority for MACCE. Direct randomized comparisons are warranted. (Ticagrelor Monotherapy or Aspirin Plus Prasugrel After Percutaneous Coronary Intervention: A Network Meta-Analysis; CRD420261322968).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103298"
+ },
+ {
+  "idx": 38,
+  "journal": "Rev Esp Cardiol (Engl Ed)",
+  "title": "Impact of different conduction disturbance management strategies after TAVI on 1-year clinical outcomes: the GLAM-TAVI registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "INTRODUCTION AND OBJECTIVES: New-onset conduction disturbances (CDs) occur in up to 50% of patients undergoing transcatheter aortic valve implantation (TAVI). However, thresholds for permanent pacemaker implantation (PPI) vary widely among centers, resulting in 30-day implantation rates ranging from 0% to 36%. The aim of this study was to compare 1-year clinical outcomes between a standardized guideline-directed strategy and an individualized management strategy for post-TAVI CD management. METHODS: The GLAM-TAVI was an investigator-initiated, ambispective study including patients who developed CDs after TAVI at 6 centers in Europe and the United States. Centers were prespecified as adopting either a standardized guideline-directed or an individualized strategy, based on the use of a watchful waiting approach during the index hospitalization for nonadvanced CDs. The primary endpoint was a composite of all-cause death or unplanned rehospitalization for CD-related events at 1 year. Time-to-event analyses used Cox models with cluster-robust standard errors and inverse probability of treatment weighting. RESULTS: Among 1573 patients undergoing TAVI during the study period, 345 (21.9%) developed postprocedural CDs and constituted the study population. These patients were managed with either an individualized (n = 160) or standardized strategy (n = 185). At 1 year, the incidence of the primary endpoint was similar with the individualized and standardized strategies (13.6% vs 7.1%; aHR, 1.23; 95%CI, 0.56-2.69). Individualized management was associated with higher cardiovascular mortality (8.4% vs 1.2%; aHR, 9.10; 95%CI, 1.59-52.18) and a lower PPI rate (49.4% vs 80.2%; aHR, 0.61; 95%CI, 0.43-0.86). CONCLUSIONS: In GLAM-TAVI, an individualized CD management strategy was associated with a lower PPI rate and higher cardiovascular mortality, although these findings should be interpreted with caution. These results highlight the need for structured, guideline-aligned risk stratification and rhythm surveillance when pacemaker-sparing approaches are adopted.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.rec.2026.10.001"
+ },
+ {
+  "idx": 43,
+  "journal": "J Am Heart Assoc",
+  "title": "TRPC1 Promotes Thoracic Aortic Dissection Through Inducing Proinflammatory Phenotype of Vascular Smooth Muscle Cells.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Thoracic aortic dissection (TAD) is a life-threatening vascular disease that lacks effective pharmacological treatment. Canonical transient receptor potential (TRPC) channels are involved in regulating various cardiovascular functions, yet their roles in TAD have not been elucidated. METHODS: Three-week-old male mice were administered β-aminopropionitrile dissolved in drinking water for 28 days to induce TAD formation. The effects of TRPCs on TAD were explored in vitro and in vivo. RNA sequencing of thoracic aortas was performed to investigate the mechanism by which TRPCs regulate TAD progression. RESULTS: Among the TRPC family members, TRPC1 expression was markedly increased in aortas from β-aminopropionitrile-induced TAD mice along with the downregulation of the vascular smooth muscle cell (SMC) contractile markers smooth muscle α-actin and smooth muscle 22. Compared with control littermates, SMC-specific TRPC1 deficiency in mice alleviated β-aminopropionitrile-induced TAD formation characterized by decreased aortic rupture, reduced maximal thoracic aortic diameters, and less elastin degradation. Conversely, SMC-specific knock-in of TRPC1 exacerbated TAD development in mice. Unbiased RNA sequencing showed that TRPC1 knockout in vascular SMCs inhibited the expression of inflammatory factors and chemokines in thoracic aortas during the early stage of β-aminopropionitrile administration. Mechanistically, TRPC1 induced the proinflammatory phenotypic transition of vascular SMCs by activating the calcineurin/nuclear factor-κB pathway, thereby contributing to vascular inflammation and TAD development. CONCLUSIONS: Our study identified TRPC1 as a novel endogenous pathogenic factor for vascular SMC inflammatory phenotypic transition and TAD formation and provided new insights for a comprehensive understanding of the mechanisms during TAD. Blocking the TRPC1/calcineurin/nuclear factor-κB signaling suppressed TAD progression, which may be a promising strategy to address TAD.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.048571"
+ },
+ {
+  "idx": 48,
+  "journal": "J Am Heart Assoc",
+  "title": "Lipoprotein(a) and Coronary Artery Disease Polygenic Risk Scores Do Not Improve Secondary Manifestations of Arterial Disease Score Prediction of Coronary Events After Ischemic Stroke.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Survivors of ischemic stroke are at high risk for coronary artery disease (CAD), but individual risk varies. Lipoprotein(a) [Lp(a)] and CAD polygenic risk scores (CAD-PRS) improve risk prediction in primary prevention; however, their prognostic value after stroke remains uncertain. We assessed whether Lp(a) and CAD-PRS add predictive value to the Secondary Manifestations of Arterial Disease (SMART) secondary prevention score. METHODS: We analyzed 1202 UK Biobank participants of European ancestry with prior ischemic stroke and no CAD at baseline (2006-2022). Baseline clinical characteristics, Lp(a), and CAD-PRS were recorded. The primary outcome was incident CAD, identified from hospital, primary care, and death records. Competing-risk models compared SMART alone with SMART plus Lp(a), CAD-PRS, or both. Ten-year model performance was assessed using the area under the receiver operating characteristic curve and Brier score. Prespecified subgroup analyses examined age, sex, diabetes, and low-density lipoprotein cholesterol. RESULTS: During a median follow-up of 13.4 years, 155 participants (12.9%) developed CAD. SMART alone provided moderate discrimination (area under the receiver operating characteristic curve, 0.69 [95% CI, 0.64-0.75]) and a Brier score of 0.08. Adding Lp(a), CAD-PRS, or both did not improve prediction (change in area under the receiver operating characteristic curve, ≤0.002; all P>0.6; continuous net reclassification improvement, ≤0.03; all P>0.20). Results were consistent across subgroups, with no significant interactions after correction for multiple comparisons. CONCLUSIONS: Among survivors of ischemic stroke without CAD, neither Lp(a) nor CAD-PRS improved prediction of incident CAD beyond the SMART score. These findings do not support their incremental use for coronary risk stratification in this population.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.048213"
+ },
+ {
+  "idx": 53,
+  "journal": "JACC Adv",
+  "title": "Feasibility and Safety of Transthoracic Echocardiography-Guided Transvenous Permanent Pacemaker Implantation Without Fluoroscopy.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Fluoroscopy is routinely used for transvenous permanent pacemaker implantation, but a standardized transthoracic echocardiography (TTE)-only workflow has not been prospectively evaluated. OBJECTIVES: The objective of the study was to evaluate the feasibility, acute safety, and procedural performance of fluoroscopy-free transvenous pacemaker implantation guided exclusively by TTE. METHODS: In this prospective, single-center feasibility study (RADIANCE [Radiation-free Anatomical Direct Imaging Approach for No-fluoroscopy Cardiac Electrode Implantation]; NCT07458724), 52 consecutive patients referred to the Department of Structural Heart Disease were screened. Thirty-one selected patients (59.6%) with guideline-based pacing indications and adequate prespecified supine TTE acoustic windows underwent attempted TTE-only implantation. Acute procedural success required completion without fluoroscopic conversion and fulfillment of prespecified TTE-defined anatomical, electrical, and safety criteria. RESULTS: TTE-only implantation was successful in 30/31 patients (96.8%; 95% CI: 83.3-99.9), with fluoroscopic conversion in 1/31 (3.2%). The mean procedure time was 55.4 ± 5.6 minutes. No major acute procedural complications occurred. During a median follow-up of 8.8 months (IQR: 6-12 months), atrial lead dislodgement requiring revision occurred in 1/21 dual-chamber recipients (4.8%; 95% CI: 0.1-23.8). Procedure time decreased with chronological case order (-0.59 minutes/case; Newey-West 95% CI: -0.68 to -0.49), an exploratory team-level association. CONCLUSIONS: In selected patients with adequate supine acoustic windows, TTE-guided fluoroscopy-free pacemaker implantation was feasible with acceptable acute outcomes. The lead-position findings and exploratory case-order association require further validation in larger and more diverse populations.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103301"
+ },
+ {
+  "idx": 58,
+  "journal": "Europace",
+  "title": "Potassium-Increasing Regimens in Patients at High Risk of Ventricular Arrhythmias: A Prespecified Observational Analysis of the Randomized POTCAST Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: The POTCAST trial (n=1,200) showed that targeting high-normal plasma potassium levels reduced ventricular arrhythmias in patients with Implantable Cardioverter-Defibrillators (ICDs). We compared changes in plasma potassium and described outcomes across the three regimens used to increase plasma potassium. METHODS: We studied 600 control participants and 572 intervention participants who completed potassium up-titration in POTCAST. Participants in the intervention arm were categorized according to treatment after plasma-potassium up-titration into: a) mineralocorticoid-receptor antagonists (MRAs) monotherapy, b) potassium-supplement monotherapy, or c) combination-therapy with both. The primary endpoint was a composite of sustained ventricular arrhythmia, appropriate ICD-therapy, hospitalization for arrhythmia or heart-failure or all-cause mortality. Safety outcomes included death and electrolyte/renal disturbances. RESULTS: After six months, plasma potassium increased from 4.12 to 4.27 mmol/L (p=0.004) with MRA, from 3.99 to 4.24 mmol/L (p<0.001) with potassium-supplements, and from 3.98 to 4.34 mmol/L (p<0.001) with combination-therapy. The primary endpoint occurred in 29% (n=175) of controls, 22% (n=16) in the MRA group, 21% (n=31) in the potassium-supplements group and in 22% (n=72) in the combination-therapy group (p=0.8 between regimens). Hypokalemia occurred in 13% of controls and in 3%, 9%, and 5% of participants receiving MRA, potassium-supplements and combination-therapy, respectively. Hyperkalemia occurred in 0.2% of controls and in 0%, 3%, and 4% of participants receiving MRA, potassium-supplements, and combination-therapy (p>0.1 between regimens). CONCLUSIONS: Treatment with MRA, potassium-supplements or both increased potassium levels. All regimens were associated with numerically lower endpoint rates than controls. We detected no statistically significant differences in endpoints or safety between regimens.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag272"
+ },
+ {
+  "idx": 63,
+  "journal": "Eur Heart J Cardiovasc Imaging",
+  "title": "Sex Differences in Detection of Acute Coronary Syndrome Culprit Lesion Using Conventional and AI-Enhanced Coronary CT Angiography.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Acute coronary syndrome (ACS) exhibits marked sex-related differences in clinical presentation and underlying pathophysiology. However, whether these differences translate into variations in culprit lesion prediction remains unclear. We investigated the sex-specific performance of conventional coronary computed tomography angiography (CCTA) and artificial intelligence-enabled quantitative coronary plaque and hemodynamic assessment (AI-QCPHA) for ACS culprit detection. METHODS AND RESULTS: In this sub-study of the EMERALD II trial (NCT03591328), patients with ACS who underwent CCTA 1 month to 3 years prior to the event were analyzed. Culprit and non-culprit lesions were defined by invasive coronary angiography at the time of ACS. Diagnostic performance of obstructive stenosis (CAD-RADS ≥3) and high-risk plaque (HRP) criteria was compared between women and men. Information gain-based feature selection identified sex-specific AI-QCPHA best predictors across five feature clusters, and their incremental predictive value was evaluated using receiver operating characteristics reported as area under the curve (AUC). A total of 351 patients (90 women, 261 men) with 2,451 lesions were included. Conventional CCTA performed similarly across sexes for obstructive stenosis, whereas HRP differed by sex. AI-QCPHA identified the same best features for ACS culprit prediction in both sexes, and integration of these features improved discriminatory performance beyond conventional CCTA (women AUC 0.84 vs. 0.78, p = 0.002; men 0.82 vs. 0.75, p < 0.001). Among individual predictors, delta FFRCT yielded the highest discriminatory performance in both women and men. CONCLUSION: AI-QCPHA enhances culprit lesion prediction in obstructive ACS beyond conventional CCTA in both sexes, supporting its potential role for improved culprit-lesion discrimination.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/ehjci/jeag270"
+ },
+ {
+  "idx": 68,
+  "journal": "JACC Adv",
+  "title": "Comparative Efficacy of Treatments for Resistant or Uncontrolled Hypertension: A Network Meta-Analysis of Randomized Trials.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Many patients with hypertension fail to achieve recommended blood pressure targets despite treatment with 2 or more antihypertensive drugs. OBJECTIVES: We aimed to compare the efficacy of add-on treatments for the management of resistant or uncontrolled hypertension. METHODS: We searched Embase and MEDLINE through November 2025. We included randomized trials comparing add-on treatments for resistant or uncontrolled hypertension. The certainty of evidence was assessed using the Confidence In Network Meta-Analysis (CINeMA) framework. The primary outcome was the change in office systolic blood pressure from baseline. Summary mean differences were estimated using random-effects network meta-analysis within a Bayesian framework in patients with resistant hypertension and in the broader population with uncontrolled hypertension. RESULTS: We included 35 trials (8,648 patients and 12 individual treatments) in the systematic review and 30 trials (8,187 patients and 10 individual treatments) in the network meta-analysis. In patients with resistant hypertension, spironolactone (mean difference: -12.43 mm Hg; 95% credible interval: -17.68 to -7.18; CINeMA moderate) and radiofrequency renal denervation (mean difference: -8.74 mm Hg; 95% credible interval: -12.96 to -4.52; CINeMA moderate) were more effective than baseline treatment in reducing office systolic blood pressure. Similar findings were observed in patients with uncontrolled hypertension. No intervention demonstrated clear superiority over another because most head-to-head comparisons included the possibility of no effect. CONCLUSIONS: In head-to-head comparisons, no significant differences were observed between add-on treatments in reducing blood pressure among patients with resistant or uncontrolled hypertension. Treatment selection should prioritize treatments with demonstrated superiority over baseline treatment, including spironolactone, baxdrostat, and radiofrequency renal denervation.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103306"
+ },
+ {
+  "idx": 73,
+  "journal": "Eur Heart J",
+  "title": "Deep vein thrombosis exacerbated by syndecan-4 shedding and piezo1-dependent endothelial-mesenchymal transition.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: Deep vein thrombosis (DVT) remains a major health burden with incompletely understood mechanisms and limited therapeutic options. This study aims to investigate the role of key molecules in DVT and to explore the feasibility of treatment strategies based on this mechanism. METHODS: Plasma proteomic profiling (LC-MS/MS) was performed on DVT patients and healthy controls, identifying syndecan-4 (SDC4) as a differentially expressed protein. Functional investigations utilized SDC4 knockout mice, endothelial cell (EC)-specific lineage tracing models, and single-cell RNA sequencing to assess endothelial-to-mesenchymal transition (EndMT) during DVT progression. In vitro EndMT models were established in human umbilical vein endothelial cells. Protein interactions were confirmed by co-immunoprecipitation. Piezo1 was pharmacologically inhibited in vivo, and network pharmacology was used to seek a potential therapeutic agent. RESULTS: SDC4 levels were elevated in DVT patients. SDC4 deficiency exacerbated thrombus formation and promoted EndMT, as evidenced by reduced EC markers and increased mesenchymal markers. Single-cell sequencing revealed a specific EC subpopulation (C1) driving EndMT, with Piezo1 identified as a downstream mediator of SDC4. Co-IP confirmed direct SDC4-Piezo1 interaction. Piezo1 upregulation activated the PI3K/Akt pathway, Piezo1 knockdown attenuated EndMT and reduced thrombus burden. Quercetin directly bound Piezo1, reduced its expression in a dose-dependent manner, and significantly decreased thrombus size in DVT mice. CONCLUSIONS: SDC4 shedding exacerbates DVT by promoting Piezo1-dependent EndMT via PI3K/Akt signalling. Quercetin shows therapeutic potential as a Piezo1 inhibitor.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurheartj/ehag775"
+ },
+ {
+  "idx": 78,
+  "journal": "J Am Heart Assoc",
+  "title": "Altered Intersubject Variability of Morphological Connectivity in Cerebral Small Vessel Disease and Its Associations With Gene Expression and Cell Types.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cerebral small vessel disease (CSVD) is a heterogeneous disorder; however, interindividual variability in morphometric brain connectivity remains unclear, as does its association with gene expression. METHODS: We enrolled 65 patients with CSVD and 35 healthy controls. Individual-level morphometric brain networks were constructed from T1-weighted magnetic resonance imaging, and intersubject variability of morphometric connectivity (IVMC) was quantified using a Kullback-Leibler divergence-based gray matter similarity measure. Group differences in IVMC and its associations with cognitive and clinical measures were examined. Partial least squares regression was applied to Allen Human Brain Atlas data to relate IVMC to gene expression, cell-type specificity, and biological functions. RESULTS: Compared with healthy controls, patients with CSVD showed globally increased IVMC (P<0.001) and significant differences across multiple functional networks (all PFalse Discovery Rate<0.05). IVMC in the sensorimotor and ventral attention networks was associated with poorer Auditory-Verbal Learning Test performance. Partial least squares regression analysis revealed that IVMC-related genes were enriched in neurodevelopmental and metabolic processes, whereas negatively weighted genes were associated with synaptic structure and glutamatergic signaling. Cell-type analyses linked IVMC alterations primarily to neuronal and glial transcriptional signatures. CONCLUSIONS: CSVD is associated with elevated IVMC across multiple functional networks, with changes in specific networks linked to memory impairment. These alterations may be associated with genes involved in neurodevelopment, synaptic function, and diverse neuronal and glial cell types, providing new insights into the interindividual variability of brain networks and the neurophysiological mechanisms underlying CSVD.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049778"
+ },
+ {
+  "idx": 83,
+  "journal": "EuroIntervention",
+  "title": "Percutaneous coronary intervention using sirolimus-eluting balloons in patients at high bleeding risk: the SELUTION DeNovo HBR substudy.",
+  "ptypes": [
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Multicenter Study"
+  ],
+  "abstract": "BACKGROUND: Drug-eluting stents (DES) are the current mainstay of percutaneous coronary intervention (PCI) in high bleeding risk (HBR) patients. However, drug-coated balloons may be an alternative that reduces reliance on prolonged courses of antiplatelet therapy. AIMS: The SELUTION DeNovo trial randomised 3,323 PCI candidates 1:1 to treatment with either sirolimus-eluting balloons (SEBs) and provisional stenting or systematic DES implantation. We report on a prespecified subgroup of HBR patients. METHODS: A total of 522 enrolled patients met the Academic Research Consortium-HBR criteria. At 1 year, we assessed target vessel failure (TVF; a composite of cardiac death, target vessel myocardial infarction and clinically driven target vessel revascularisation), major bleeding (Bleeding Academic Research Consortium [BARC] 3-5) and net adverse clinical events (NACE; a composite of TVF and BARC 3-5 bleeding). Antithrombotic treatment was prescribed according to current guidelines and local practice. RESULTS: Altogether, 269 and 253 patients were identified as HBR in the SEB strategy and DES strategy arms, respectively. In the SEB arm, 17.1% of patients had bailout stenting. Overall, 67% of patients were discharged on oral anticoagulants. At 1 year, TVF occurred in 4.9% of the SEB arm vs 7.9% of the DES arm (absolute risk difference [RD] -3.05%, 95% confidence interval [CI]: -7.27 to 1.17). BARC 3-5 bleeding occurred in 2.3% vs 3.2% (absolute RD -0.91%, 95% CI: -3.71 to 1.89) and NACE in 6.8% vs 10.7% (absolute RD -3.94%, 95% CI: -8.80 to 0.92) in the SEB and DES arms, respectively. While the proportion of patients on dual antiplatelet therapy and single antiplatelet therapy did not differ significantly between the two groups during follow-up, all antiplatelet medication was stopped in 7.7% vs 2.5% at 30 days (p=0.005) and in 27.8% vs 14.9% of patients at 6 months (p<0.001) in the SEB and DES arms, respectively. CONCLUSIONS: Although this subset analysis is not powered for definitive conclusions, our data suggest that an SEB strategy with minimal stenting appears to be a safe and effective alternative to systematic DES implantation for HBR patients.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.4244/EIJ-D-26-00889"
+ },
+ {
+  "idx": 88,
+  "journal": "J Am Heart Assoc",
+  "title": "Self-Monitoring of Blood Pressure: A Qualitative Study From Iraqi and Syrian Refugees.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Self-measured blood pressure (SMBP) monitoring improves long-term blood pressure (BP) outcomes, but evidence on the acceptability and feasibility of SMBP in refugee populations is limited. Refugees face high cardiovascular risk due to poorly controlled BP. METHODS: We recruited Iraqi and Syrian refugees living in San Diego, California, through the Family Health Centers of San Diego and enrolled them in a 6-week single-arm pilot acceptability and feasibility trial of SMBP with telemonitoring protocol modeled after the TASMIN (Telemonitoring and Self-Management in Hypertension) SMBP trial in the United Kingdom. Postintervention interviews assessed barriers and facilitators of the intervention. Inductive thematic analysis was performed, and results were organized using the Theoretical Framework of Acceptability. Quantitative participant data were analyzed descriptively. RESULTS: A total of 101 refugees participated (80% Iraqi individuals; mean age, 64±9.7; 49% men). Participants generally favored having their BP readings telemonitored and transmitted to their BP providers' office over completing the physical diary. Facilitators of SMBP included increased self-autonomy, device user friendliness, increased participant confidence, and family support. Barriers included device malfunction, old age, comorbidities, everyday life obligations, diary complexity, and forgetfulness. Participants emphasized for future interventions to promote autonomy, family engagement, and include a streamlined BP tracking method while also integrating provider-patient decision making. CONCLUSIONS: This is the first study of SMBP among refugees. The intervention was found to be acceptable and feasible. Participants felt valued, self-autonomous, and confident in SMBP. Future interventions that use technology, family support, team-based care, and user-friendly devices may improve BP control in this population.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.045472"
+ },
+ {
+  "idx": 93,
+  "journal": "Heart Rhythm",
+  "title": "Nuclear magnetic resonance-derived lipoprotein profile and risk of atrial tachyarrhythmia recurrence after catheter ablation: a case-cohort design within the PREDIMAR trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Lipoproteins could be potential biomarkers of atrial tachyarrhythmia recurrence (TAR) after catheter ablation; however, their association remains inconclusive and based exclusively on routine lipid measurements. Nuclear magnetic resonance (NMR) enables detailed lipoprotein characterization beyond conventional assays. OBJECTIVE: To identify a baseline NMR-derived lipoprotein profile associated with the risk of TAR after catheter ablation. METHODS: We conducted a case-cohort study (212 cases and 238 participants in a random sub-cohort, with 93 overlapping cases) nested in the PREDIMAR (PRevención con DIeta Mediterránea de Arritmias Recurrentes) trial. Conventional lipoprotein profiles were measured using the Pentra C-200 and advanced lipoprotein profiles were assessed by NMR. Lipoprotein values were normalized and scaled to one standard deviation using Blom's inverse normal transformation. Cox models were used to assess the associations between baseline lipoproteins and TAR. Additionally, a cholesteryl ester transfer (CETP)-mediated lipoprotein exchange score was constructed and evaluated. RESULTS: After 18-month follow-up, higher baseline remnant cholesterol (hazard ratio = 1.26, 95% confidence interval= 1.06-1.51, per SD), higher cholesterol and triglyceride content in very-low-density lipoproteins (VLDL) (hazard ratioperSD = 1.22, 95% confidence interval= 1.03-1.46) or in intermediate-density lipoproteins (IDL) (hazard ratioperSD = 1.29, 95% confidence interval= 1.09-1.52), showed increased risks of TAR. Higher triglyceride-to-HDL cholesterol ratio was directly associated, and higher triglyceride-to-VLDL cholesterol and triglyceride-to-IDL cholesterol ratios were inversely associated with recurrence. A CETP-mediated lipoprotein exchange score was directly associated with recurrence. CONCLUSION: An atherogenic lipoprotein profile characterized by elevated remnant cholesterol is associated with a higher risk of TAR after catheter ablation.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.002"
+ },
+ {
+  "idx": 98,
+  "journal": "Circ Res",
+  "title": "Endothelial Piezo1 Hyperactivity Drives Neurovascular Dysfunction in Hypertension.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Hypertension is a major driver of neurovascular dysfunction and cognitive decline, yet the molecular mechanisms linking elevated arterial pressure to impaired cerebral blood flow remain poorly defined. Piezo1, a mechanosensitive cation channel enriched in the brain endothelium, is a candidate mediator of cerebral blood flow deficits during hypertension. METHODS: Using 2 distinct mouse models of hypertension-BPH/2J mice (genetically hypertensive strain) and angiotensin II-infused C57BL/6J mice-we assessed brain endothelial Piezo1 activity using patch-clamp electrophysiology. Endothelial-specific Piezo1 deletion models were used to evaluate the role of the channel in hypertension-associated cerebrovascular impairment. Cerebral blood flow responses were measured in vivo by laser speckle contrast imaging, and super-resolution nanoscopy was used to quantify Piezo1 nanoscale organization. Behavioral testing was used to assess cognition. RESULTS: Genetic manipulation of endothelial Piezo1 had minimal impact on baseline blood pressure. However, cerebral endothelial Piezo1 activity was markedly elevated in different hypertension models. Deletion of endothelial Piezo1 protected against hypertension-induced cerebrovascular deficits, including impaired vasomotion, reduced functional hyperemia, and blunted CO2-evoked hyperemia. Super-resolution imaging revealed that hypertension increased Piezo1 clustering, consistent with electrophysiological findings of enhanced channel coupling and open probability. Mechanistically, Piezo1 hyperactivity was PKC (protein kinase C)-dependent, and the PKC-Piezo1 spatial association was enhanced during hypertension. Importantly, PKC inhibition normalized brain endothelial Piezo1 activity, restored cerebral blood flow responses, and rescued cognitive performance. CONCLUSIONS: Hypertension increased the gain of Piezo1 function in brain endothelial cells, promoting dysfunctional neurovascular signaling and cognitive impairment. Targeting Piezo1 or PKC signaling selectively restored cerebrovascular regulation. This work identifies a mechanosensitive pathway that could be leveraged to protect the hypertensive brain.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCRESAHA.126.328577"
+ },
+ {
+  "idx": 103,
+  "journal": "J Am Heart Assoc",
+  "title": "Minimally Invasive Versus Sternotomy in Redo Mitral Valve Surgery: Short- and Long-Term Outcomes with Meta-Regression and Time-to-Event Analysis.",
+  "ptypes": [
+   "Journal Article",
+   "Meta-Analysis",
+   "Review"
+  ],
+  "abstract": "BACKGROUND: Redo mitral valve surgery carries substantial risk, and the relative benefits of minimally invasive (MI-MVS) versus sternotomy MVS, particularly regarding long-term survival, remain uncertain. METHODS: Electronic databases were searched for studies comparing MI-MVS with sternotomy MVS in adult redo MVS. Kaplan-Meier curves were digitized to reconstruct individual patient data for time-to-event analysis, with study-level hazard ratios (HR) generated using a Cox frailty model. Perioperative outcomes were pooled using random-effects models. Subgroup analyses evaluated propensity-matched cohorts, endoscopic/video-assisted minithoracotomy, and direct-vision minithoracotomy. Meta-regression explored the impact of study-level covariates on mortality. RESULTS: Fifteen studies including 3457 patients were analyzed. MI-MVS was associated with lower perioperative mortality compared with sternotomy MVS (odds ratio [OR], 0.33 [95% CI, 0.23-0.48]; P<0.001), reduced incidence of reoperation (OR, 0.65 [95% CI, 0.44-0.98]; P=0.04), and acute kidney injury (OR, 0.58 [95% CI, 0.39-0.87]; P=0.008); rates of stroke and arrhythmia were similar. The direction and magnitude of the mortality effect consistently favored MI-MVS in the subgroup analyses. Time-to-event analysis demonstrated improved survival with MI-MVS (HR, 0.74 [95% CI, 0.62-0.89]; P=0.001), but this was attenuated in the propensity-matched analysis. Meta-regression showed that sex distribution, mean age, and baseline left ventricular ejection fraction did not significantly moderate mortality effects. CONCLUSIONS: In redo MVS, MI-MVS is associated with improved perioperative outcomes without compromising long-term survival; however, attenuation of the survival difference after propensity matching suggests that this long-term advantage may reflect baseline risk rather than procedural effect.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050284"
+ },
+ {
+  "idx": 108,
+  "journal": "Circulation",
+  "title": "The Oxidized Phospholipid PGPC Impairs Angiogenesis by Inhibiting Endothelial Autophagosomal-Lysosomal Fusion Through NPC1-Induced Syntaxin 17 Acetylation and Ubiquitination.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Angiogenesis is essential for the recovery of ischemic hearts with coronary artery disease (CAD). PGPC (1-palmitoyl-2-glutamyl-sn-glycero-3-phosphocholine) is a major phospholipid oxidation product in atherosclerotic lesions. Autophagy participates in angiogenesis. However, whether PGPC affects angiogenesis in ischemic hearts by regulating autophagy remains unclear. METHODS: Plasma PGPC concentrations were quantified and the effects of PGPC on angiogenesis were evaluated in cultured endothelial cells and in vivo using a subcutaneous Matrigel plug assay, as well as in hindlimb ischemia and myocardial infarction models in C57BL/6J mice. Autophagic flux and the expression and modification of proteins associated with autophagy and angiogenesis were also assessed. RESULTS: Plasma PGPC levels were increased in patients with CAD, and they were positively correlated with the severity of CAD and negatively correlated with coronary collateral artery formation. PGPC inhibited endothelial cell migration and tube formation. PGPC suppressed neovascularization in Matrigel plugs and reduced blood flow recovery in hindlimb ischemia. In a mouse model of myocardial infarction, PGPC attenuated angiogenesis in the ischemic myocardium. These proangiogenic effects induced by VEGFA (vascular endothelial growth factor A) in ischemic hearts were significantly inhibited by PGPC. Mechanistically, PGPC inhibited the expression of STX17 (syntaxin 17), a crucial molecule that controls autophagosomal-lysosomal fusion by promoting the acetylation and subsequent ubiquitination and degradation of STX17. PGPC upregulated the expression of NPC1 (NPC intracellular cholesterol transporter 1) through CD36 (cluster of differentiation 36). NPC1 not only promoted the acetylation and subsequent ubiquitination and degradation of STX17 through the recruitment of ACAT1 (acetyl-CoA acetyltransferase 1), but also competed with STX17 to bind VAMP8 (vesicle-associated membrane protein 8), leading to inhibition of the expression of eNOS (endothelial nitric oxide synthase), ERK1/2 (extracellular signal-regulated kinase 1/2), and nitric oxide production. Oxidized phospholipid-neutralizing antibody E06, STX17 overexpression, or silencing of NPC1 reversed the inhibitory effect of PGPC on angiogenesis by restoring autophagic flux. CONCLUSIONS: PGPC promotes the acetylation and subsequent ubiquitin-mediated degradation of STX17 by increasing NPC1, leading to a reduction in the level of STX17 associated with VAMP8, which inhibits autophagosomal-lysosomal fusion and angiogenesis. Targeting PGPC, NPC1, or STX17 may represent novel therapeutic approaches to promote angiogenesis in patients with CAD.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.079506"
+ }
+]

@@ -1,0 +1,281 @@
+[
+ {
+  "idx": 0,
+  "journal": "Circ Res",
+  "title": "Cell Village Captures Populational Heterogeneity of Sunitinib Cardiotoxicity.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: TKIs (tyrosine kinase inhibitors) have transformed cancer therapy; however, cardiotoxicity remains a frequent adverse effect with variable susceptibility among patients. For sunitinib, a commonly prescribed TKI, the molecular programs and functional features underlying this variability are not well defined, and clinically actionable predictors of cardiotoxicity risk remain lacking. METHODS: To investigate interindividual variability in sunitinib-induced cardiotoxic responses, we implemented the Cell Village platform consisting of human induced pluripotent stem cell (iPSC)-derived cardiomyocytes from 20 healthy donors. Pooled iPSCs were differentiated into cardiomyocytes, treated with sunitinib for 72 hours, followed by harvesting for single-nucleus RNA sequencing. Donor identity was determined using single nucleotide polymorphism-based demultiplexing. Additionally, individual line-specific transcriptomic responses to sunitinib were integrated with quantitative functional phenotyping (including contractility, electrophysiology, and recovery efficacy following tocotrienol treatment) in iPSC-derived cardiomyocytes differentiated from a subset of 10 lines. RESULTS: Sunitinib induced a robust global transcriptional response characterized by dysregulation of tyrosine kinase signaling, cytoskeletal organization, ion channels, and calcium-handling pathways. Although the pathway-level changes were shared, individual donor lines displayed heterogeneity in both gene expression patterns and functional impairment. Across functional parameters, relaxation velocity was the most consistently correlated with toxicity severity. Integration of each iPSC line's functional data with the corresponding transcriptomic signatures identified gene modules related to calcium handling and structural organization strongly correlated with donor-specific toxicity and recovery indices. Pharmacological validation using tocotrienol demonstrated partial, donor-dependent improvement of sunitinib-related iPSC-derived cardiomyocyte impairments. CONCLUSIONS: This proof-of-concept study establishes a scalable, donor-resolved platform that links pooled transcriptomic profiling with functional toxicity and recovery phenotypes in human cardiomyocytes. By linking molecular perturbations to functional outcomes across genetically diverse backgrounds, this approach provides a framework for dissecting interindividual variability in TKI-associated cardiotoxicity. More broadly, it provides a foundation for extending population-scale cardiotoxicity assessment to additional drugs and protective interventions.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCRESAHA.126.328704"
+ },
+ {
+  "idx": 5,
+  "journal": "JACC Heart Fail",
+  "title": "Artificial Intelligence-Enabled Detection and Management of Physiological Instability in Heart Failure: Results of the Randomized LINK-HF2 Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Artificial intelligence (AI)-enabled wearable monitoring can detect individualized physiological deviations preceding heart failure (HF) decompensation, but whether these signals can be translated into improved outcomes remains uncertain. OBJECTIVES: This study aims to evaluate the feasibility of integrating AI-generated notifications with a structured clinician response algorithm into postdischarge HF care and to explore their association with HF events following hospitalization. METHODS: LINK-HF2 (Detection of Physiological Anomaly Using Artificial Intelligence and Prevention of Heart Failure Hospitalization) was a prospective, randomized, open-label, blinded-endpoint study conducted at 5 Veterans Affairs medical centers. Adults hospitalized for acute HF were enrolled at discharge and assigned to AI-guided monitoring with clinician notification or to standard care. All participants wore a continuous multisensor patch for up to 90 days. A personalized similarity-based model detected deviations in cardiorespiratory and activity signals and generated notifications. Implementation outcomes included feasibility, acceptability, and usability. The main exploratory clinical endpoint was HF rehospitalization. Secondary exploratory clinical endpoints included the composite outcome of all-cause unplanned rehospitalizations, emergency department visits, and all-cause mortality. All clinical endpoints were compared through Cox proportional hazards models over the follow-up period. RESULTS: Among 171 analyzed participants, 80 (46.8%) were assigned to intervention and 91 (53.2%) to control. Median monitoring adherence was 72.4% of follow-up days; clinicians responded to communicated notifications within a median of 1 day (range: 1-5 days), and qualitative analysis demonstrated high patient acceptance and clinician engagement, whereas identifying workflow integration and response uncertainty as the primary barriers to implementation. In exploratory analyses, HF rehospitalization occurred in 13 (16.3%) patients in the intervention group and 17 (18.7%) in the control group (HR: 0.90, 95% CI: 0.43-1.84; P = 0.76). The composite clinical endpoint also did not differ between groups (HR 1.03; 95% CI: 0.63-1.70; P = 0.89). The intervention group had a lower rate of AI-detected physiological instability than controls (HR: 0.76; 95% CI: 0.60-0.97; P = 0.025). CONCLUSIONS: AI-enabled continuous physiological monitoring was feasible and reduced AI-detected physiological instability. Although this feasibility study did not demonstrate a reduction in exploratory clinical events, these findings highlight that accurate physiological risk detection alone may be insufficient to modify clinical risk without mechanistically aligned and trusted therapeutic responses. (Detection of Physiological Anomaly Using Artificial Intelligence and Prevention of Heart Failure Hospitalization [LINK-HF2]; NCT04502563).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jchf.2026.103422"
+ },
+ {
+  "idx": 10,
+  "journal": "Eur Heart J",
+  "title": "Palmitic acid promotes hypertrophic memory in cardiomyocytes via KDM5A/H3K4me3.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: Palmitic acid (PA), the most abundant saturated fatty acid (SFA), is positively associated with heart failure (HF) risk. However, its role and mechanism underlying HF remain unclear. This study aimed to investigate the effects of a PA-enriched diet and potential therapeutic targets in HF. METHODS: The association between plasma SFAs and HF was investigated in a cohort of 232 592 UK Biobank participants. Mice were randomly categorized into three groups, where they were fed a PA-enriched, olive oil-enriched, or control diet for 4 weeks, followed by a 4-week dietary adaptation period on the control diet. A pressure overload model was established by transverse aortic constriction in these mice and cardiac-specific lysine demethylase 5A (Kdm5A)-knockout mice. RESULTS: The UK Biobank database revealed an association between high plasma SFA levels and increased HF risk. Our in vitro and in vivo results demonstrated that short-term PA treatment promoted cardiac hypertrophy and HF without further exposure to high levels of PA, indicating a pro-hypertrophic memory in cardiomyocytes. Mechanistically, PA promoted palmitoylation-driven KDM5A degradation via the ubiquitination pathway, thereby up-regulating histone 3 lysine 4 tri-methylation (H3K4me3). KDM5A/H3K4me3 promoted a pro-hypertrophic memory in cardiomyocytes, thus causing cardiac hypertrophy via a monocarboxylate transporter 4 (MCT4)-induced metabolic imbalance. Furthermore, KDM5A agonist D18 ameliorated this PA-mediated cardiac hypertrophy and HF. CONCLUSIONS: A PA-enriched diet promotes pro-hypertrophic memory in cardiomyocytes, cardiac hypertrophy, and HF via KDM5A/H3K4me3/MCT4. The application of D18 may represent a promising therapeutic approach for PA-mediated cardiac hypertrophy and HF.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurheartj/ehag761"
+ },
+ {
+  "idx": 15,
+  "journal": "JAMA Cardiol",
+  "title": "Intensive vs Standard Blood Pressure Lowering in People With and Without Chronic Kidney Disease: A Systematic Review and Meta-Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: There is uncertainty about the effects of intensive blood pressure (BP) lowering on risks of cardiovascular disease and kidney failure in patients with chronic kidney disease (CKD). OBJECTIVE: To assess the standardized effects of intensive BP lowering on cardiovascular and kidney outcomes overall, and then to assess for effect modification by CKD status. DATA SOURCES: MEDLINE and Embase databases were searched from inception to January 16, 2026. STUDY SELECTION: Randomized clinical trials comparing intensive vs standard BP lowering in adults with and without CKD, with at least 1 year of follow-up, were eligible for inclusion. DATA EXTRACTION AND SYNTHESIS: Meta-analyses were performed using inverse variance weighting after standardizing trial results according to the between-group difference in achieved systolic BP (SBP). Differences in relative effects between CKD and non-CKD populations were assessed using χ2 tests for heterogeneity. MAIN OUTCOMES AND MEASURES: The primary outcome was major cardiovascular events; secondary outcomes included kidney failure and estimated glomerular filtration rate (eGFR)-based surrogate outcomes for kidney failure. RESULTS: We identified 27 studies including 88 830 participants. Intensive BP lowering reduced the risk of cardiovascular events by 15% per 10-mm Hg lower SBP (relative risk [RR], 0.85; 95% CI, 0.81-0.89), without heterogeneity by CKD status. This corresponded to an estimated (SE) absolute reduction of 4.3 (1.2) cardiovascular events per 1000 person-years in individuals with CKD and 2.7 (0.4) events per 1000 person-years in those without CKD. Intensive BP lowering did not affect risk of kidney failure (RR per 10-mm Hg reduction, 0.97; 95% CI, 0.84-1.11) nor risk of 57% or 50% sustained eGFR declines (RR, 0.97; 95% CI, 0.83-1.14; and RR, 1.29; 95% CI, 0.94-1.76, respectively), without heterogeneity by CKD subgroup. Intensive BP lowering increased risk of 30% or greater and 40% or greater declines by 42% (RR, 1.42; 95% CI, 1.28-1.58) and 47% (RR, 1.47; 95% CI, 1.30-1.66). CONCLUSIONS AND RELEVANCE: Results of this systematic review and meta-analysis indicate that in adults with or without CKD, intensive BP lowering reduced the risk of cardiovascular events by 15% per 10-mm Hg lower SBP and increased the risk of sustained declines in eGFR, without an increase in risk of kidney failure. However, since baseline cardiovascular risk is higher in CKD, the absolute reduction in cardiovascular events was at least as large in this population; therefore, intensive BP lowering should be recommended in people with and without CKD.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1001/jamacardio.2026.4445"
+ },
+ {
+  "idx": 20,
+  "journal": "Heart Rhythm",
+  "title": "Clinical Implications of Hemolysis after Pulsed Field Ablation - What Can We Learn from Benchtop Models and Preclinical Experiments.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Pulsed field ablation (PFA) has emerged as a transformative technology for cardiac ablation due to its efficiency and favorable safety profile. However, intravascular hemolysis has been increasingly recognized adverse effect across preclinical and clinical studies, infrequently progressing to acute kidney injury (AKI). The mechanisms, determinants, and clinical relevance of PFA-related hemolysis remain incompletely understood. Herein, we review the pathophysiology of PFA-related hemolysis and measures to mitigate its occurrence, discuss the biomarker-related changes and perform a comprehensive review of preclinical hemolysis models. Continued development of physiological benchtop models including numerical models to better understand PFA-related hemolysis and translation to bedside is needed. Furthermore, transparent cross-platform evaluation of hemolysis will be critical in the light of rapidly evolving PFA technologies.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.09.054"
+ },
+ {
+  "idx": 25,
+  "journal": "JACC Adv",
+  "title": "Projected Impact of LDL-C and HbA1c Control on Cardiovascular Outcomes in ASCVD and Diabetes.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: U.S. population estimates of atherosclerotic cardiovascular disease (ASCVD) risk reduction from comprehensive cardiometabolic risk factor control remain limited among patients with ASCVD and diabetes mellitus (DM). OBJECTIVES: The objective of the study was to predict 3-year reduction in composite ASCVD event risk and number of preventable events associated with achieving guideline-based targets for low-density lipoprotein cholesterol (LDL-C) and/or hemoglobin A1c (HbA1c) in adults with ASCVD and DM. Among those with body mass index (BMI) ≥27 kg/m2, we additionally examined the impact of reducing BMI to 25 kg/m2. METHODS: Using National Health and Nutrition Examination Survey 2011 to 2020 data weighted to the U.S. population, we identified adults with ASCVD and DM with uncontrolled LDL-C (≥70 mg/dL) and HbA1c (≥7.0%). Three-year ASCVD risk was calculated using the TIMI risk score. Absolute risk was first estimated with patients' baseline LDL-C, HbA1c, and BMI values, then recalculated under scenarios achieving guideline-recommended targets (70 or 55 mg/dL, 7%, and 25 kg/m2, respectively). Predicted relative risk reductions and predicted preventable events over 3 years were calculated. RESULTS: We included 131 participants, representing 1.73 million U.S. adults. Predicted 3-year relative risk reductions were 18.0% and 23.7%, corresponding to 38,200 and 50,100 predicted preventable events, with LDL-C lowering to 70 mg/dL or 55 mg/dL, respectively; 29.3%, corresponding to 62,100 events, with additional control of HbA1c; and 37.0%, corresponding to 66,500 events, with additional BMI reductions. CONCLUSIONS: In U.S. adults with ASCVD and DM, LDL-C control provides the greatest projected reduction in ASCVD risk among individual risk factors, whereas comprehensive control of LDL-C, glycemia, and weight produces the greatest overall projected benefit.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103308"
+ },
+ {
+  "idx": 30,
+  "journal": "Nat Med",
+  "title": "AI-assisted scoping review of code sharing in clinical prediction model research.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Clinical prediction models are increasingly deployed to support diagnostic and prognostic decisions, making reproducibility essential for assessing their reliability and generalizability. Analytical code supports independent assessment of these processes, yet its availability in the literature remains limited. This scoping review quantifies current practices in sharing analytical code to inform the development of TRIPOD-Code, a reporting guideline for code availability and reproducibility. Here a large-language-model-assisted pipeline was developed to screen articles citing TRIPOD or TRIPOD+AI, extract repository links and assess retrieved repositories against 14 predefined reproducibility-related features. Among 3,967 articles, 482 (12.2%) included code-sharing statements. Sharing prevalence varied widely by journal and country. Repository assessment showed substantial heterogeneity in reproducibility features. These findings underscore the need for clearer expectations beyond code availability, including documentation, dependency specification and executable structure. Strengthening these practices may improve the usability of clinical prediction model studies and support their deployment in real-world clinical settings.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s41591-026-04691-1"
+ },
+ {
+  "idx": 35,
+  "journal": "J Am Heart Assoc",
+  "title": "Retinal Microvascular Abnormalities, White Matter Injury, and Cognitive Impairment in Carotid Stenosis or Occlusion.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Severe carotid artery stenosis or occlusion (CASO) is associated with white matter injury and cognitive impairment, but markers of accompanying microvascular dysfunction remain incompletely characterized. We investigated the relationships among retinal microvascular abnormalities on optical coherence tomography angiography, white matter hyperintensities (WMH), and cognitive impairment in severe unilateral CASO. METHODS: In this multicenter cross-sectional study, 860 participants were included: 566 patients with severe unilateral CASO without acute cerebral infarction and 294 control participants with similar age and sex distributions. All participants underwent multimodal imaging, including automated WMH segmentation on brain magnetic resonance imaging and macular optical coherence tomography angiography. Cognitive function was assessed using the Montreal Cognitive Assessment. RESULTS: Compared with controls, patients with CASO showed lower vessel length density across retinal layers and greater WMH burden. Within the group with CASO, the retina ipsilateral to the stenosis showed lower vessel length density and greater vessel dilation, paralleling the greater burden of deep WMH in the ipsilateral hemisphere (all adjusted P<0.05). Retinal microvascular abnormalities and greater WMH burden were both associated with worse concurrent cognitive performance. Adding optical coherence tomography angiography metrics to clinical and WMH-based models provided modest additional discrimination for identifying concurrent cognitive impairment in internal cross-validation, increasing the area under the curve from 0.652 to 0.695 (Δarea under the curve, 0.043 [95% CI, 0.021-0.064]). CONCLUSIONS: In severe unilateral CASO, retinal microvascular abnormalities were associated with ipsilateral white matter injury and lower cognitive performance. Optical coherence tomography angiographymetrics provided modest complementary discriminatory information beyond conventional clinical variables and WMH for identifying concurrent cognitive impairment, although external validation is required. REGISTRATION: URL: https://www.chictr.org.cn/. Unique identifier: ChiCTR2300074640.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.051820"
+ },
+ {
+  "idx": 40,
+  "journal": "Heart Rhythm",
+  "title": "Efficacy and Safety of Flecainide Versus Amiodarone for the Cardioversion of paroxysmal Atrial Fibrillation in Patients with Coronary Artery Disease without evidence of residual ischemia: The FLECA-ED Randomized Clinical Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Flecainide has been contraindicated in patients with coronary artery disease (CAD) since the Cardiac Arrhythmia Suppression Trial. OBJECTIVE: We compared intravenous flecainide with intravenous amiodarone for cardioversion of recent-onset paroxysmal atrial fibrillation (AF) in patients with documented CAD without residual or active ischemia presenting to the emergency department. METHODS: In this investigator-initiated, multicenter, open-label, randomized trial, adults with paroxysmal AF and CAD without residual or active ischemia were assigned 1:1 to intravenous flecainide or amiodarone. All patients underwent 24-hour ambulatory ECG monitoring. The primary efficacy end point was conversion to sinus rhythm within 6 hours. The primary safety end point was the composite of nonsustained ventricular tachycardia, ventricular tachycardia, premature ventricular complexes, significant hypotension, and bradycardia below 50 bpm within 6 hours. RESULTS: Eighty-seven patients underwent randomization (42 flecainide, 45 amiodarone). Conversion to sinus rhythm within 6 hours occurred in 85.7% of patients in the flecainide group and 40.0% in the amiodarone group (P<0.001). Median time to conversion was 20 minutes versus 244 minutes (P<0.001), and hospital admission occurred in 14.3% versus 60.0%, respectively (P<0.001). No ventricular proarrhythmic events occurred within 24 hours in either group and no deaths were recorded through 30 days. CONCLUSION: In patients with paroxysmal AF and CAD without evidence of residual and active ischemia, intravenous flecainide was superior to amiodarone for acute cardioversion, with faster conversion to sinus rhythm and fewer hospital admissions. No serious ventricular proarrhythmia through 24 hours was observed, a hypothesis-generating finding.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.09.051"
+ },
+ {
+  "idx": 45,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Pathway-Guided and Patient-Centered Therapeutic Strategies in Atherosclerotic Cardiovascular Disease.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Atherosclerotic cardiovascular disease (ASCVD), encompassing coronary artery disease (CAD), cerebrovascular disease (ischemic stroke, IS; and transient ischemic attack, TIA), and peripheral artery disease (PAD) of atherosclerotic origin, remains a leading cause of morbidity and mortality worldwide despite major advances in prevention and treatment. Although atherosclerosis arises from the convergence of endothelial injury, lipid accumulation, inflammation, and thrombosis, the relative contribution of these pathogenic processes varies markedly among individuals, due to the effects of genetics, demographic, and racial factors, lifestyle behaviors and comorbidities, several of which are modifiable. The variability in the atherosclerosis underlying mechanisms results in substantial heterogeneity in clinical presentation, disease progression, and therapeutic response. Recently, ASCVD management has expanded beyond single-pathway intensification toward pathway-guided, patient-centered, multi-targeted therapeutic strategies. Over the past decade, we have witnessed the development of highly specific therapeutics, including small-molecule inhibitors, monoclonal antibodies, and RNA-based therapies, while genome-editing approaches remain at an investigational stage. Contemporary Phase 3 randomized controlled trials (RCTs) have demonstrated that several novel agents reduce cardiovascular (CV) risk, whereas others produce biological effects without improving outcomes, underscoring the need for outcome-based validation. Despite improved safety profiles and enhanced treatment adherence, the optimal integration of these therapies into clinical practice continues to evolve. In this narrative review, we evaluate evidence from established, emerging, and investigational therapeutic strategies for ASCVD prevention and treatment. We also describe the impact of endothelial-protective, lipid-lowering, anti-inflammatory, and antithrombotic, strategies on CV outcomes, with particular emphasis on differential efficacy across patient subgroups, vascular territories, and clinical settings. In addition to synthesizing evidence from contemporary clinical trials, this review proposes a novel pathway- and phenotype-based conceptual framework for individualized ASCVD management and secondary prevention. The framework integrates residual-risk phenotypes with clinical characteristics, comorbidities, vascular territory, and treatment-related considerations to support residual-risk-guided selection of complementary evidence-based therapies while balancing anticipated benefit, safety, treatment burden, and adherence.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag523"
+ },
+ {
+  "idx": 50,
+  "journal": "J Am Heart Assoc",
+  "title": "Machine-Learning Prediction of Tumor Comorbidity and Cancer-Associated Mortality in Patients With Coronary Heart Disease: A 2-Stage Modeling Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Coronary heart disease (CHD) with concomitant tumors is increasingly prevalent and is associated with a higher mortality. We aimed to develop 2 predictive models to enable early identification of tumor risk in patients with CHD and mortality risk in those with CHD and cancer. METHODS: We analyzed 134 141 patients with CHD treated at Tongji Hospital (Huazhong University of Science and Technology, Wuhan, Hubei, China) during 2001 to 2023. Data collected from the First Hospital of Peking University (Beijing, China) were used for external validation. We developed and evaluated 6 machine learning models (extreme gradient boosting, light gradient boosting machine, random forest, neural network, decision tree, and logistic regression). Model explainability was improved using Shapley additive explanation, and an online prediction platform was subsequently implemented. RESULTS: For the model of predicting tumor risk in patients with CHD, extreme gradient boosting showed the best performance in the test set (area under the receiver operating characteristic curve =0.935), achieving the lowest Brier score (0.080). Its sensitivity, accuracy, and F1 score were 0.740, 0.882, and 0.751, respectively. Meanwhile, light gradient boosting machine performed well for in-hospital mortality prediction in the test set (area under the receiver operating characteristic curve =0.965), achieving the lowest Brier score (0.019), and the highest sensitivity (0.677), and F1 score (0.599). The 2 models also showed good performance in the external validation, suggesting a degree of generalizability. CONCLUSIONS: We constructed 2 predictive models to assess the risk of tumor and cancer-associated mortality in patients with CHD. The web platform assists clinicians in decision-making and patient management.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.051025"
+ },
+ {
+  "idx": 55,
+  "journal": "J Am Heart Assoc",
+  "title": "Guideline-Directed Treatment Eligibility and Burden of Untreated Stage-1 Hypertension Under the 2025 American College of Cardiology/American Heart Association Hypertension Guideline: Insights From NHANES 2015 to 2020.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Hypertension is a major risk factor for cardiovascular disease. Adoption of the Predicting Risk of Cardiovascular Disease Events risk model in the 2025 American College of Cardiology/American Heart Association guideline may substantially alter the number and characteristics of adults with untreated stage 1 hypertension who are recommended for treatment. We aimed to quantify treatment-recommendation reclassification among adults with untreated stage 1 hypertension under the 2025 Predicting Risk of Cardiovascular Disease Events-based guideline compared with the 2017 pooled cohort equations-based guideline. METHODS: This cross-sectional, nationally representative study used data from NHANES (National Health and Nutrition Examination Survey) 2015 to March 2020. The study population included adults aged 30 to 79 years with stage 1 hypertension, focusing on untreated participants. The exposure was the guideline-endorse cardiovascular risk assessment framework, pooled cohort equations, and Predicting Risk of Cardiovascular Disease Events, respectively. The primary outcome was recommendation for antihypertensive pharmacotherapy. RESULTS: Among 1926 adults with stage 1 hypertension (weighted 32.57 million), 59.59% (19.41 million) were untreated. Under the 2025 guideline, 13.84% (95% CI, 7.06%-20.63%) of untreated adults eligible under the Predicting Risk of Cardiovascular Disease Events threshold (0.42 million) became newly eligible for pharmacotherapy compared with the 2017 guideline. Newly eligible adults were older (mean±SE, 60.48 [0.77] years) and had higher diabetes prevalence (37.74% [95% CI, 15.45%-60.04%]) than those below the treatment threshold. CONCLUSIONS: The 2025 American College of Cardiology/American Heart Association hypertension guideline recommendations were largely concordant with the prior guideline among adults with untreated stage 1 hypertension, while still newly identifying a subset of individuals with elevated cardiometabolic risk who may benefit from earlier intervention.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.049525"
+ },
+ {
+  "idx": 60,
+  "journal": "Atherosclerosis",
+  "title": "Immune-inflammatory profiles, coronary artery disease, and peripheral artery disease in people with HIV.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: People with HIV (PWH) have high risk of coronary (CAD) and peripheral (PAD) artery disease independent of traditional risk factors. Single immune-inflammatory biomarkers provide limited insight into disease risk and phenotypes, whereas integrative profiling may reveal novel mechanisms. Here we investigated associations between immune-inflammatory profiles, CAD, and PAD in PWH. METHODS: We included PWH from the Copenhagen Comorbidity in HIV Infection (COCOMO) Study with undetectable HIV RNA and measurements of 25 immune-inflammatory biomarkers. Participants underwent coronary computed tomography angiography and ankle-brachial index (ABI) measurements to assess for CAD and PAD. Unsupervised hierarchical clustering on principal components grouped participants by immune-inflammatory clusters, and we assessed their associations with CAD and PAD. RESULTS: Among 651 PWH, we identified three immune-inflammatory clusters: one with low senescent T cell proportions; one with low concentrations of inflammation, innate activation, and endothelial dysfunction markers (reference cluster); and one with high senescent T cell proportions and concentrations of inflammation, innate activation, and endothelial dysfunction markers (high inflammation cluster). The high inflammation cluster was associated with obstructive CAD (adjusted OR 2.42 [95% CI: 1.06; 5.33]), higher lipid-rich plaque volumes (adjusted β = 8.47 [95% 0.84; 16.1] μL), and lower ABI (adjusted β = -0.07 [95% CI: -0.13;-0.01]) among those with PAD compared to the reference cluster, after adjustment for age, sex, smoking, hypertension, diabetes, and dyslipidaemia. CONCLUSIONS: An immune-inflammatory profile characterised by T cell senescence, inflammation, innate activation, and endothelial dysfunction was associated with high-risk CAD severity, highlighting immunopathogenic pathways associated with atherosclerosis in PWH.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.atherosclerosis.2026.121917"
+ },
+ {
+  "idx": 65,
+  "journal": "JACC Adv",
+  "title": "Cardiovascular Risk in SELECT-Eligible MI Patients With Overweight or Obesity: The Western Denmark Heart Registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: In the SELECT (Semaglutide Effects on Cardiovascular Outcomes in People with Overweight or Obesity) trial, treatment with semaglutide reduced the risk of major adverse cardiovascular events (MACE) in patients with cardiovascular disease, overweight or obesity, and no diabetes. OBJECTIVES: The purpose of this study was to estimate cardiovascular risk in first-time myocardial infarction (MI) patients meeting the SELECT-eligibility criteria and the preventive potential for treatment with semaglutide. METHODS: We conducted an observational cohort study applying the SELECT trial's inclusion and exclusion criteria to patients with first-time MI recorded between 2010 and 2021 in the Western Denmark Heart Registry. Five-year incidence of second MI, MACE, and all-cause death was estimated for SELECT-eligible patients with a body mass index (BMI) ≥27 kg/m2. In an assumption-dependent scenario analysis the preventive potential for semaglutide was estimated as the postponement of MACE incidence. RESULTS: In 21,777 first-time MI patients without diabetes, 10,768 patients were SELECT-eligible with BMI ≥27 kg/m2. Median age at first-time MI was 65 years for the SELECT-eligible MI patients and 69 years for normal-weight (BMI 20-26 kg/m2) comparisons. Five-year incidence of second MI (n = 544), MACE (n = 975), and all-cause death (n = 914) was 5.9% (95% CI: 5.4%-6.4%), 10.7% (95% CI: 10.1%-11.4%), and 10.3% (95% CI: 9.7%-11.0%) in SELECT-eligible MI patients, respectively. Among these, treatment with semaglutide was estimated to postpone a 5% MACE incidence by 12 months. CONCLUSIONS: In SELECT-eligible first-time MI patients with overweight or obesity and no diabetes, the cardiovascular risk was substantial with 1 in 10 having a MACE event within 5 years after first-time MI. Based on the SELECT trial results, semaglutide may markedly postpone MACE incidence in these patients.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103311"
+ },
+ {
+  "idx": 70,
+  "journal": "J Am Heart Assoc",
+  "title": "Cardiac Myosin-Binding Protein C for Diagnosis of Myocardial Infarction in Patients With Prior Coronary Artery Bypass Grafting.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Diagnosing myocardial infarction in patients with prior coronary artery bypass grafting (CABG) remains challenging, primarily because of lower diagnostic accuracy of high-sensitivity cardiac troponin (hs-cTn). cMyC (cardiac myosin-binding protein C), because of its faster release kinetics and greater abundance, may offer improved diagnostic performance in this population. METHODS: The diagnostic accuracy of cMyC was directly compared with that of hs-cTnT and hs-cTnI in a prospective, international, multicenter, diagnostic study enrolling adult patients presenting to the emergency department with acute chest discomfort. Final diagnoses were centrally adjudicated by 2 independent cardiologists using all available clinical and study-specific data, including imaging and serial hs-cTnT measurements. Patients were stratified according to the presence or absence of prior CABG. RESULTS: Among 4752 patients, 387 (8%) had prior CABG (median age, 75 years; 86% men). The incidence of myocardial infarction was significantly higher in patients with prior CABG (38% versus 16%; P<0.001). In the CABG group, the diagnostic accuracy of cMyC as quantified by the area under the curve was 0.88 (95% CI, 0.85-0.92), which was comparable but not superior to that of hs-cTnT (0.89 [95% CI, 0.86-0.92]) and hs-cTnI (0.88 [95% CI, 0.84-0.91]). These findings were consistent across alternative high-sensitivity cMyC assays. CONCLUSIONS: In patients with prior CABG, cMyC demonstrated high diagnostic accuracy for myocardial infarction, but not superior to established hs-cTnT and hs-cTnI assays. REGISTRATION: URL: clinicaltrials.gov; Unique Identifier: NCT00470587.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049244"
+ },
+ {
+  "idx": 75,
+  "journal": "JACC Cardiovasc Interv",
+  "title": "Mechanical Thrombectomy Versus Anticoagulation Alone in Intermediate-High Risk PE: Improved Functional 90-Day Outcomes in STORM-PE RCT.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Up to 50% of pulmonary embolism (PE) survivors experience long-term functional limitations and reduced quality of life (QoL). Reperfusion strategies can rapidly relieve right-ventricular (RV) dysfunction and prevent clinical deterioration or hemodynamic collapse; however, these approaches have never been evaluated in a randomized trial against anticoagulation alone using patient-centered outcomes. OBJECTIVES: This study sought to evaluate whether mechanical thrombectomy with anticoagulation improves functional, QoL, and safety outcomes compared with anticoagulation alone in patients with acute intermediate-high risk PE over 90 days. METHODS: STORM-PE enrolled 100 PE patients randomized 1:1 to computer-assisted vacuum thrombectomy (CAVT) with anticoagulation or anticoagulation alone across 22 international sites, with RV-to-left-ventricular (RV/LV) ratio change at 48 hours as the primary endpoint. Secondary endpoints included major adverse events within 7 days, functional and QoL outcomes, mortality, and symptomatic PE recurrence through 90 days. RESULTS: For all patients, median time from randomization to last follow-up visit was 91.0 days [Q1-Q3: 80.5-100.0]. At 90 days, 66.0% (31/47) of CAVT and 64.2% (34/53) of anticoagulation patients completed the 6-min walk test. The CAVT arm exhibited a longer 6-min walk distance compared with anticoagulation alone (478.7 ± 159.5 m vs 368.0 ± 127.8 m, P = 0.003). More CAVT than anticoagulation patients were NYHA Functional Class I (97.4% [37/38] vs 75.6% [34/45], P = 0.005) at 90 days. Dyspnea and QoL scores were comparable between groups, with no differences between arms for all-cause mortality, PE-related mortality, and symptomatic PE recurrence within 90 days. CONCLUSIONS: In STORM-PE, CAVT with anticoagulation resulted in improved functional outcomes at 90 days compared with anticoagulation alone, with equivalent safety rates. This trial supports CAVT as an effective and safe reperfusion strategy for intermediate-high risk PE. CLINICAL TRIAL REGISTRATION: https://clinicaltrials.gov Unique Identifier: NCT05684796.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcin.2026.07.042"
+ },
+ {
+  "idx": 80,
+  "journal": "J Am Heart Assoc",
+  "title": "USP11 Drives Cerebral Ischemia-Reperfusion Injury Via Promoting Ferroptosis by Deubiquitinating and Stabilizing ASK1.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cerebral ischemia-reperfusion injury (CIRI) represents a pivotal pathological mechanism underlying ischemic cerebrovascular disorders including cerebral stroke. Currently, there are lack of effective preventive or therapeutic methods. Ubiquitin-specific protease 11 (USP11) is a member of the most prevalent ubiquitination-specific protease (USP) family. It has been shown that USP11 plays diverse and significant roles in a variety of diseases, such as hepatocellular carcinoma, prostate cancer, and intervertebral disc degeneration. However, its precise function and molecular mechanisms involvement in CIRI remain unknown. METHODS: USP11 knockout (USP11-KO) and adeno-associated virus 9-mediated USP11 over-expression (USP11-OE) mice were established as a mouse model of CIRI, and USP11 knockdown and overexpression adenovirus were used to establish a cell model, to investigate the effect of USP11 on CIRI in vivo and in vitro. Molecular biological studies were used to clarify the mechanism of USP11 mediated ferroptosis during CIRI. RESULTS: The expression of USP11 is increased during CIRI. Functionally, USP11 deficiency attenuated neurological deficits, cerebral infarction, neuroinflammation, and ferroptosis during CIRI, whereas specific overexpression of USP11 exacerbated these pathological processes. Furthermore, USP11 knockdown inhibited neuronal injury, inflammatory response and ferroptosis, while USP11 overexpression promoted these processes. Mechanistically, USP11 bind to ASK1 and inhibit its K48-linked ubiquitination, thereby enhancing the activity of the ASK1-JNK/p38 signaling pathway. More importantly, the regulation of USP11 on neuronal ferroptosis and CIRI relied on its regulation of the ASK1-JNK/p38 signaling axis. CONCLUSIONS: Our study clarified the new functions and mechanisms of USP11 during CIRI. Targeting USP11-ASK1-JNK/p38-ferroptosis may be a new promising strategy for the prevention and treatment of CIRI.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.046371"
+ },
+ {
+  "idx": 85,
+  "journal": "JACC Heart Fail",
+  "title": "Sex Differences in the Prevalence, Medical Therapy, and Outcomes in Heart Failure With Improved Ejection Fraction.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Heart failure with improved ejection fraction (HFimpEF) is a rapidly growing clinical entity. There is little understanding of how sex relates to the epidemiology, predictors, and trajectory of HFimpEF. OBJECTIVES: The authors aimed to describe sex-based differences in the epidemiology, guideline-directed medical therapy (GDMT) use, and clinical outcomes among patients with HFimpEF within a large, diverse health care system. METHODS: The authors identified adults with incident heart failure with reduced ejection fraction (HFrEF) (ejection fraction ≤40%) between 2013 and 2022. HFimpEF was defined as a subsequent ejection fraction measurement >40% within the following 12 months. Sex was based on self-report. Among patients with HFimpEF, the authors examined GDMT use at the time of incident HFrEF, HFimpEF, and 1 year following HFimpEF, stratified by sex. They examined the incidence of worsening heart failure (WHF) events and all-cause death 1 year postincident HFrEF. We compared event rates between patients with HFimpEF and persistent HFrEF, adjusted for demographic and clinical characteristics. RESULTS: Among 28,292 patients with incident HFrEF (females: 34.8%), 35.2% experienced HFimpEF. Females were more likely to experience HFimpEF in the 12 months following HFrEF than males (36.5% vs 34.5%, P < 0.0001). Among patients with HFimpEF, GDMT use was similar among females and males and declined after incident HFimpEF in both sexes. Compared with patients with persistent HFrEF, patients with HFimpEF had better WHF outcomes and all-cause death outcomes, which was consistent by sex. However, females with HFimpEF had higher rates of WHF compared with males with HFimpEF, even when adjusted for clinical covariates. CONCLUSIONS: HFimpEF is associated with improved outcomes for both females and males. However, females with HFimpEF have higher rates of WHF events compared with males.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jchf.2026.103372"
+ },
+ {
+  "idx": 90,
+  "journal": "J Am Heart Assoc",
+  "title": "Low Parental Income During Childhood Is Associated With Coronary Atherosclerosis in Midlife.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Socioeconomic status (SES) is a major risk factor for coronary heart disease, but the life-course mechanisms and causal pathways remain poorly understood. Therefore, we investigated whether low childhood SES was associated with midlife coronary atherosclerosis and if any association could be explained by established risk factors in adulthood. METHODS: This observational cohort study included 15 640 participants, aged 50 to 64 years, from the population-based SCAPIS (Swedish Cardiopulmonary Bioimage Study) who underwent coronary computed tomography angiography. Coronary atherosclerosis was assessed by segment involvement score and coronary artery calcification score. Childhood SES was defined by parental disposable income at participant age 10 to 12 years retrieved from national registers. Associations between moderate-severe coronary atherosclerosis (segment involvement score ≥4 or coronary artery calcification >100) and childhood SES were estimated using multivariable logistic regression adjusting for adult lifestyle habits, adult SES, and traditional cardiovascular risk factors. RESULTS: Participants in the lowest versus highest parental income quintile were more likely to have moderate-severe coronary atherosclerosis (segment involvement score ≥4; odds ratio [OR], 1.43 [95% CI, 1.20-1.71], P<0.001). The association persisted after adjustment for adult lifestyle habits (OR, 1.42 [95% CI, 1.17-1.73], P<0.001), adult SES (OR, 1.31 [95% CI, 1.09-1.57], P=0.004), traditional cardiovascular risk factors (OR, 1.28 [95% CI, 1.06-1.53], P=0.008), and full adjustment (OR, 1.31 [95% CI, 1.07-1.61], P=0.010). Similar associations were observed for coronary artery calcification >100. CONCLUSIONS: Low childhood SES was associated with moderate-severe coronary atherosclerosis in midlife only partially explained by established risk factors in adulthood. Our findings suggest that childhood SES is a social determinant of long-term cardiovascular health that cannot be fully explained by established adult risk factors.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050332"
+ },
+ {
+  "idx": 95,
+  "journal": "J Am Heart Assoc",
+  "title": "Persistent Hypoperfusion on Post-Recanalization Digital Subtraction Angiography Perfusion Maps in Anterior Circulation Large Vessel Occlusion.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Despite high recanalization rates with endovascular thrombectomy for large vessel occlusion stroke, a large proportion of patients remain disabled. This study aims to investigate the clinical impact of persistent hypoperfusion that was detected immediately after recanalization. METHODS: In this multicenter retrospective study of patients with large vessel occlusion with near-complete or complete recanalization, perfusion maps were generated from post-recanalization digital subtraction angiography. Focal hypoperfusion within the ischemic territory was detected and categorized as regional or cortical according to spatial distribution. The primary outcome was 90-day functional independence (modified Rankin Scale 0 to 2). The associations of no-reflow and outcomes were examined by multivariable logistic regression. RESULTS: Among 375 patients (median age 69 [interquartile range 57-77] years; 67.5% men), persistent hypoperfusion was detected in 29.6% of patients. Patients with hypoperfusion had higher baseline National Institutes of Health Stroke Scale (median 14 versus 12, P=0.076) and more thrombectomy passes (P=0.021). The presence of persistent hypoperfusion was strongly associated with reduced functional independence (adjusted odds ratio [aOR]=0.23, 95% CI 0.13-0.39, P<0.001), higher rates of hemorrhagic transformation (aOR=1.88, 95% CI 1.14-3.11; P=0.013) and symptomatic intracranial hemorrhage (aOR=2.95, 95% CI 1.20-7.23; P=0.018). Quantitative analysis revealed minimum regional cerebral blood flow as a key factor of functional outcome (aOR=1.67, 95% CI 1.07-2.60; P=0.023). There is no significant agreement with 24-hour computed tomography perfusion-defined hypoperfusion (κ=0.106, P=0.524). CONCLUSIONS: Persistent hypoperfusion could be detected immediately post-recanalization in one-third of successfully treated large vessel occlusion strokes. The adverse impact to functional outcome highlights its potential as an intraprocedural biomarker for future adjunctive therapies.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.048868"
+ },
+ {
+  "idx": 100,
+  "journal": "JACC Adv",
+  "title": "Real-World Comparison of Cardiac MRI and Nuclear Perfusion Imaging for Myocardial Scar Detection.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cardiovascular magnetic resonance late gadolinium enhancement (CMR-LGE) is the reference standard for scar detection, but data comparing LGE with fixed perfusion defects (FPD) on nuclear myocardial perfusion imaging (MPI) are limited. OBJECTIVES: This study aimed to evaluate concordance between myocardial scar detection by CMR-LGE and nuclear MPI. METHODS: In this retrospective single-center study, patients undergoing contrast CMR and nuclear MPI within 1 year were included: single-photon emission computed tomography (SPECT) with CT attenuation correction (SPECTAC, n = 328), SPECT without attenuation correction (SPECTNoAC, n = 246), or 82-rubidium-positron emission tomography (PET) (n = 240). Scar was assessed by CMR-LGE and FPD on MPI. Minimal resting myocardial blood flow (MBFMin) was determined for PET. Patients with myocardial infarction or revascularization between studies were excluded. Associations of LGE and FPD with major adverse cardiovascular events (MACE) were analyzed. RESULTS: LGE was present in 354 patients (43%), predominantly nonischemic, whereas nuclear MPI detected scar less frequently (30%, P < 0.01). Nuclear scar was associated with ischemic LGE (OR: 5.86; 95% CI: 3.64-9.43; P < 0.001), but not nonischemic LGE. PET demonstrated higher specificity than SPECT for detecting ischemic and ≥50% transmural LGE (P < 0.01). Patients with ≥50% transmural LGE had lower MBFMin (0.61 [0.53-0.68] vs 0.80 [0.74-0.85] mL/min/g; P < 0.001). Patients with both LGE and FPD had higher MACE risk than patients without these features (HR: 4.95 [95% CI: 3.01-8.11]; P < 0.001). CONCLUSIONS: MPI detected myocardial scar less frequently than CMR-LGE, with PET providing greater specificity than SPECT for ischemic and transmural scar. Combined LGE and FPD identified patients at highest risk of adverse outcomes, supporting PET MPI for myocardial scar characterization.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103303"
+ },
+ {
+  "idx": 105,
+  "journal": "Eur Heart J",
+  "title": "Transcription factor TBX2 is a key regulator of vascular calcification.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: Vascular calcification predicts cardiovascular mortality more strongly than traditional risk factors, yet its molecular basis remains poorly understood. The burden is greatest in chronic kidney disease (CKD), where disordered mineral metabolism accelerates arterial mineral deposition. METHODS: Cross-trait genome-wide and phenome-wide association analyses were combined with single-cell RNA-seq and ATAC-seq from human kidneys and coronary arteries to identify upstream regulators. Chromatin immunoprecipitation sequencing and expression profiling were used to assess direct transcriptional control. Functional relevance was evaluated in multiple gene-edited mouse lines and in primary vascular smooth muscle cells (VSMCs) targeting T-box transcription factor 2 (TBX2), Runt-related transcription factor 2 (RUNX2), NLRP3, CASP1, and GSDMD. RESULTS: GWAS followed by expression quantitative trait loci (eQTL) and Bayesian colocalization analysis prioritized TBX2 as a shared genetic locus associated with kidney function and calcification-related cardiometabolic traits. TBX2-deficient mice exhibited increased susceptibility to vascular calcification, hypercalciuria, kidney injury, bone demineralization, and systemic phosphate dysregulation under CKD-like phosphate stress conditions. TBX2 deficiency promoted VSMC calcification and osteochondrogenic differentiation in vitro. Mechanistically, TBX2 acted as a transcriptional repressor by binding the promoter of RUNX2, a key osteogenic transcription factor, and suppressing its expression. Deletion of RUNX2 in TBX2-deficient VSMCs abolished TBX2 loss-induced calcification. TBX2-deficient VSMCs were also more sensitive to activation of the NLRP3 inflammasome by microcrystals generated from osteogenic VSMCs. Genetic deletion of NLRP3, CASP1, or GSDMD in TBX2-deficient mice attenuated vascular calcification and renal injury. In human samples, TBX2 expression inversely correlated with the severity of kidney fibrosis and was reduced in calcified vascular lesions. CONCLUSIONS: Integrative genetic, cellular, and animal studies identify TBX2 as a central transcriptional repressor linking mineral dysregulation, osteogenic signalling, and sterile inflammation in CKD-associated vascular calcification. Therapeutic strategies that restore TBX2 function or target its RUNX2-NLRP3 axis may reduce cardiovascular risk in patients with CKD.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurheartj/ehag756"
+ },
+ {
+  "idx": 110,
+  "journal": "J Am Coll Cardiol",
+  "title": "Health Status Outcomes 7 Years After Transcatheter or Surgical Aortic Valve Replacement in Low-Surgical Risk Patients With Aortic Stenosis.",
+  "ptypes": [
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Multicenter Study"
+  ],
+  "abstract": "BACKGROUND: Transcatheter aortic valve replacement (TAVR) results in early improvements in health status outcomes relative to surgical aortic valve replacement (SAVR) in low-surgical risk patients with symptomatic severe aortic stenosis. However, long-term data comparing the detailed health status outcomes of these 2 treatments are lacking. OBJECTIVE: The purpose of this study was to compare long-term health status outcomes between TAVR and SAVR in low-risk patients and explore heterogeneity of treatment effect. METHODS: The PARTNER 3 (Placement of Aortic Transcatheter Valves) trial randomized patients with severe aortic stenosis and low surgical risk 1:1 to TAVR with a balloon-expandable valve vs SAVR. Health status was evaluated with the Kansas City Cardiomyopathy Questionnaire (KCCQ) and Short Form-36 Heath Survey at baseline and 1 month, 6 months, and annually from years 1 to 7. Between treatment group differences in health status scores over time were examined with mixed effects models for repeated measures adjusted for baseline. RESULTS: The analytic cohort included 943 patients enrolled in the PARTNER 3 trial who had baseline KCCQ assessments and underwent their assigned procedure (494 TAVR, 449 SAVR; mean age: 73.5 ± 5.9 years; 69.2% men; mean Society of Thoracic Surgeons-Predicted Risk of Mortality: 1.9% ± 0.6%; mean KCCQ-overall summary [KCCQ-OS] score: 70.9 ± 20.5). TAVR and SAVR both resulted in significant improvements in KCCQ and Short Form-36 Heath Survey summary scores relative to baseline through 7-year follow-up. KCCQ-OS scores were substantially higher at 1 month after TAVR vs SAVR (mean treatment difference: +16.2 points; 95% CI: 14.3-18.1) and remained modestly higher through 2 years of follow-up (mean difference at 2 years: +1.9 points; 95% CI: 0.2-3.7), but there were no significant between-group differences in years 3-7. At 7 years, ∼60% of patients in both treatment groups had an excellent outcome (alive, KCCQ-OS ≥75; no KCCQ-OS decline ≥10 from baseline). CONCLUSIONS: Patients with severe aortic stenosis at low surgical risk had substantial improvement in patient-reported health status with either TAVR or SAVR that was sustained through 7 years. Patients had earlier recovery with TAVR, but health status outcomes after 2 years were similar between treatment groups. (PARTNER 3 Trial: Safety and Effectiveness of the SAPIEN 3 Transcatheter Heart Valve in Low Risk Patients With Aortic Stenosis; NCT02675114).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacc.2026.06.022"
+ }
+]
