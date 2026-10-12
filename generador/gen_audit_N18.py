@@ -56,6 +56,8 @@ for f in sorted(glob.glob(GEN + "/n18_out[0-9].json")):
         elif "no cardiovascular" in m: NOCV.add(p)
         elif "básica" in m: BASICA.add(p)
         else: NOELIG.add(p)
+# Ya publicados en N17 (EuroIntervention recuperados por Crossref en el Mac): fuera de N18 (Mac, 12-oct-2026).
+DUPN |= {"42837204", "42837205", "42837202"}
 # Excluidos por DECISIÓN EDITORIAL (ámbito). En N18 no hay ninguno.
 FUERA_AMBITO = set()
 rows = []

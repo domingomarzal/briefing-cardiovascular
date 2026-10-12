@@ -1,7 +1,7 @@
 {
  "numero": "N18",
  "ventana": "2026-10-05 a 2026-10-11",
- "motivo": "nube",
+ "motivo": "nube + Mac (12-oct-2026)",
  "detalle": "PASO 7b incompleto: en este entorno NO hay navegador real y el egreso de red no alcanza a doi.org, jacc.org, sciencedirect.com, ahajournals.org, nejm.org ni eurointervention.pcronline.com (HTTP 000), asi que la revision de los enlaces UNO POR UNO en un navegador que atraviese Cloudflare NO se ha podido hacer. El numero se publica igualmente, como manda la SKILL, dejando constancia aqui. El Mac debe cerrarlo con: python3 generador/revisar_enlaces.py 18 y abrir las tandas de 4 con mcp__Control_Chrome__open_url; los rotos (<title> = 'Page Not Found') se redirigen con python3 generador/enlaces_directos.py 18 --pii <clave> ... y despues se regenera (gen_bilingue.py n18 y gen_audit_N18.py) y se republica.",
  "hecho_en_la_nube": {
   "enlaces_directos.py": "ejecutado: n18_jlinks.json con 29 enlaces directos de editor (13 ahajournals, 11 jacc.org, 3 eurointervention, 2 sciencedirect). NINGUN enlace del numero pasa por linkinghub.",
@@ -92,8 +92,8 @@
    "url": "https://doi.org/10.1093/ejhf/xuag309"
   },
   "a17": {
-   "journal": "EuroIntervention",
-   "url": "https://eurointervention.pcronline.com/doi/10.4244/EIJ-D-26-00460"
+   "journal": "J Am Heart Assoc",
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.126.050615"
   },
   "a18": {
    "journal": "Eur J Heart Fail",
@@ -152,7 +152,7 @@
    "url": "https://www.jacc.org/doi/10.1016/j.jcmg.2026.07.013"
   },
   "a32": {
-   "journal": "Eur Heart J Cardiovasc Ima",
+   "journal": "Eur Heart J Cardiovasc Imaging",
    "url": "https://doi.org/10.1093/ehjci/jeag228"
   },
   "a33": {
@@ -160,7 +160,7 @@
    "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103303"
   },
   "a34": {
-   "journal": "Eur Heart J Cardiovasc Ima",
+   "journal": "Eur Heart J Cardiovasc Imaging",
    "url": "https://doi.org/10.1093/ehjci/jeag270"
   },
   "a35": {
@@ -172,16 +172,16 @@
    "url": "https://www.jacc.org/doi/10.1016/j.jcin.2026.07.042"
   },
   "a37": {
-   "journal": "EuroIntervention",
-   "url": "https://eurointervention.pcronline.com/doi/10.4244/EIJ-D-26-00889"
+   "journal": "Eur Heart J",
+   "url": "https://doi.org/10.1093/eurheartj/ehag237"
   },
   "a38": {
    "journal": "J Am Heart Assoc",
    "url": "https://www.ahajournals.org/doi/10.1161/JAHA.126.050577"
   },
   "a39": {
-   "journal": "EuroIntervention",
-   "url": "https://eurointervention.pcronline.com/doi/10.4244/EIJ-D-26-00413"
+   "journal": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103292"
   },
   "a40": {
    "journal": "Heart Rhythm",
@@ -203,5 +203,6 @@
    "journal": "Europace",
    "url": "https://doi.org/10.1093/europace/euag286"
   }
- }
+ },
+ "intento_mac_12oct": "Revisión intentada en el Mac el 12-oct-2026 con el Chrome real (tandas de 4, esperas de 24-60 s, Chrome al frente): los 44 enlaces se quedaron en el reto de Cloudflare ('Just a moment...', y 'Attention Required!' en heart.bmj.com), que exige verificación humana; ScienceDirect (a40, a43) devolvió el título genérico 'ScienceDirect'. Ninguno dio 'Page Not Found', pero tampoco se pudo confirmar ninguno: la revisión sigue PENDIENTE para cuando el usuario esté delante."
 }
