@@ -19,7 +19,7 @@ def prio(t,c):
     return "Complementario"
 
 cand, descartes = {}, {}
-for f in sorted(glob.glob(B+'/n18_out?.json')):
+for f in sorted(glob.glob(B+'/n18_out[0-9].json')):
     for o in json.load(open(f)):
         i = o['idx']
         if not o.get('elegible'):

@@ -1,0 +1,101 @@
+[
+ {
+  "key": "a3",
+  "journal": "Eur Heart J",
+  "doi": "10.1093/eurheartj/ehag657",
+  "seccion": "Cardiología preventiva",
+  "ptype": "Documento de consenso",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Reducing the burden of heat-related impacts on cardiovascular health",
+  "abstract": "Heat extremes significantly increase morbidity and mortality, particularly among older adults and people with cardiovascular disease (CVD). The year 2024 was the warmest year on record and the first calendar year in which the annual global mean temperature exceeded 1.5°C above pre-industrial levels-exposing people with CVD to a record number of extreme heat days. With the frequency and intensity of heat extremes expected to rise, the health risks for people with CVD will continue to escalate. There is an urgent need to provide scientific evidence to advise patients and healthcare professionals to manage cardiovascular health under these circumstances. This statement builds on a prior European Society of Cardiology document that explored the pathophysiological mechanisms underlying increased risk of cardiovascular events during heat extremes. Here, evidence informed advice guided by experts in thermal physiology and CVD is provided for clinicians and healthcare professionals to help advise their patients and reduce the negative impacts of heat on CVD health. The advice, while novel, relates to best practice for multidisciplinary care before, during, and after heat extremes, ensuring a proactive and comprehensive approach to patient safety. By integrating current evidence with practical strategies, this statement aims to bridge the evidence-to-practice gap and enhance preparedness for the increasing burden of climate-change driven health risks."
+ },
+ {
+  "key": "a8",
+  "journal": "JACC Adv",
+  "doi": "10.1016/j.jacadv.2026.103308",
+  "seccion": "Cardiometabolismo",
+  "ptype": "Investigación original",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Projected Impact of LDL-C and HbA1c Control on Cardiovascular Outcomes in ASCVD and Diabetes",
+  "abstract": "BACKGROUND: U.S. population estimates of atherosclerotic cardiovascular disease (ASCVD) risk reduction from comprehensive cardiometabolic risk factor control remain limited among patients with ASCVD and diabetes mellitus (DM). OBJECTIVES: The objective of the study was to predict 3-year reduction in composite ASCVD event risk and number of preventable events associated with achieving guideline-based targets for low-density lipoprotein cholesterol (LDL-C) and/or hemoglobin A1c (HbA1c) in adults with ASCVD and DM. Among those with body mass index (BMI) ≥27 kg/m2, we additionally examined the impact of reducing BMI to 25 kg/m2. METHODS: Using National Health and Nutrition Examination Survey 2011 to 2020 data weighted to the U.S. population, we identified adults with ASCVD and DM with uncontrolled LDL-C (≥70 mg/dL) and HbA1c (≥7.0%). Three-year ASCVD risk was calculated using the TIMI risk score. Absolute risk was first estimated with patients' baseline LDL-C, HbA1c, and BMI values, then recalculated under scenarios achieving guideline-recommended targets (70 or 55 mg/dL, 7%, and 25 kg/m2, respectively). Predicted relative risk reductions and predicted preventable events over 3 years were calculated. RESULTS: We included 131 participants, representing 1.73 million U.S. adults. Predicted 3-year relative risk reductions were 18.0% and 23.7%, corresponding to 38,200 and 50,100 predicted preventable events, with LDL-C lowering to 70 mg/dL or 55 mg/dL, respectively; 29.3%, corresponding to 62,100 events, with additional control of HbA1c; and 37.0%, corresponding to 66,500 events, with additional BMI reductions. CONCLUSIONS: In U.S. adults with ASCVD and DM, LDL-C control provides the greatest projected reduction in ASCVD risk among individual risk factors, whereas comprehensive control of LDL-C, glycemia, and weight produces the greatest overall projected benefit."
+ },
+ {
+  "key": "a13",
+  "journal": "JACC Adv",
+  "doi": "10.1016/j.jacadv.2026.103298",
+  "seccion": "Cardiopatía isquémica",
+  "ptype": "Metaanálisis",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Ticagrelor Monotherapy or Aspirin Plus Prasugrel After Percutaneous Coronary Intervention: A Network Meta-Analysis",
+  "abstract": "BACKGROUND: The 2025 American College of Cardiology/American Heart Association guidelines endorse de-escalation to ticagrelor monotherapy after percutaneous coronary intervention (PCI) for acute coronary syndromes (ACSs), whereas the 2023 European Society of Cardiology guidelines recommend 12-month dual antiplatelet therapy (DAPT) with aspirin plus prasugrel as the default strategy. OBJECTIVES: The objective of the study was to compare ischemic and bleeding outcomes between these strategies and to evaluate whether diabetes modifies their relative effects. METHODS: Randomized controlled trials enrolling patients after PCI and evaluating de-escalation to ticagrelor monotherapy or 12-month DAPT (ticagrelor or prasugrel-based) were included. The primary efficacy and safety outcomes were major adverse cardiovascular or cerebrovascular events (MACCE) and major bleeding. Incidence rate ratios (IRRs) with 95% CIs were pooled using a frequentist random-effects network meta-analysis. Subgroup analyses were performed according to diabetes status. RESULTS: Seven randomized controlled trials including 27,225 patients were included (mean age, 62 years; 23.2% women; 31.7% diabetes; 98.6% ACS). Ticagrelor monotherapy and aspirin plus prasugrel were compared indirectly through ticagrelor-based DAPT. Ticagrelor monotherapy showed similar MACCE compared with aspirin plus prasugrel (IRR: 1.09; 95% CI: 0.86-1.38), although a clinically meaningful increase in risk cannot be excluded (P for noninferiority = 0.33); major bleeding was lower with ticagrelor monotherapy (IRR: 0.54; 95% CI: 0.37-0.80). An interaction between P2Y12 inhibitor strategy and diabetes status was observed for MACCE (Pint = 0.04). CONCLUSIONS: In this network meta-analysis of predominantly ACS patients undergoing PCI, ticagrelor monotherapy reduced major bleeding compared with 12 months of aspirin plus prasugrel, whereas it did not meet noninferiority for MACCE. Direct randomized comparisons are warranted. (Ticagrelor Monotherapy or Aspirin Plus Prasugrel After Percutaneous Coronary Intervention: A Network Meta-Analysis; CRD420261322968)."
+ },
+ {
+  "key": "a18",
+  "journal": "Eur J Heart Fail",
+  "doi": "10.1093/ejhf/xuag295",
+  "seccion": "Insuficiencia cardíaca",
+  "ptype": "Análisis secundario de ensayo clínico",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Kidney function decline, heart failure hospitalization, and the effect of empagliflozin in heart failure: an EMPEROR-pooled analysis",
+  "abstract": "BACKGROUND: Kidney function decline in heart failure (HF) may accelerate during periods surrounding HF-related events, while sodium-glucose cotransporter 2 inhibitors slow kidney function decline. However, the temporal relationship between kidney function changes, HF-related events, and treatment effects has not been well characterized. AIMS: We aimed to explore kidney function trajectories around HF-related events and to assess whether empagliflozin modifies these changes. METHODS AND RESULTS: In a pooled analysis of the EMPEROR-Reduced and EMPEROR-Preserved trials, we examined longitudinal changes in estimated glomerular filtration rate (eGFR) before and after HF-related events, defined as HF hospitalization or HF-related death. In the EMPEROR-Pooled analysis, HF-related events occurred in 12.7% of 9554 patients during a median follow-up of 20.9 months (14.7-28.6). Patients who experienced HF-related events had a steeper eGFR decline during the 12 months before the event than those without HF-related events: average -5.01 ml/min/1.73 m2/year vs -1.93 ml/min/1.73 m2/year; P < .001. During the 12 months after HF-related events, eGFR decline persisted at an average rate of -4.73 ml/min/1.73 m2/year. These trajectories were not materially altered after adjustment for concurrent NYHA class or natriuretic peptide levels. Compared with placebo, empagliflozin slowed eGFR decline in patients without events (between-group difference, 0.94 ml/min/1.73 m2/year) and before events (1.09 ml/min/1.73 m2/year). The post-event difference was smaller (0.29 ml/min/1.73 m2/year), without significant heterogeneity across periods (P > .10). Findings were consistent across trials and irrespective of prior HF hospitalization. CONCLUSION: Across the LVEF spectrum, kidney function decline accelerated before HF-related events and remained rapid thereafter. Empagliflozin attenuated eGFR decline without evidence of heterogeneity across periods."
+ },
+ {
+  "key": "a23",
+  "journal": "Eur Heart J",
+  "doi": "10.1093/eurheartj/ehag616",
+  "seccion": "Miocardiopatías",
+  "ptype": "Artículo de revisión",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Congenital heart disease in adults: evolving health systems and lifelong outcomes",
+  "abstract": "Over the past decades, advances in the diagnosis and treatment of congenital heart disease have reshaped its epidemiology. Congenital heart disease is now increasingly a chronic, lifelong disorder, with adult survivors outnumbering affected children in many countries. This demographic transition has shifted the focus from preventing early mortality towards optimizing long-term health and managing comorbidities. Adult congenital heart disease (ACHD) experience acquired cardiovascular and systemic complications that challenge traditional models of care. As the lifelong burden of disease in ACHD patients continues to rise globally, advanced training pathways in ACHD have spearheaded the content expertise required to deliver high quality of care. The well-established hub-and-scope model has been recommended in the last two decades to improve ACHD care by expanding the number of specialized centres that allow ACHD specialists to reach underserved regions more effectively. However, the advent of technology, digital health, and artificial intelligence-enhanced decision-making provides an opportunity to imagine a different approach, to coordinate advances in research, clinical care, and health system design, with particular emphasis on scalable models that align expertise, data, and delivery across the life course. Networked care structures, workforce redesign, and digitally enabled learning health systems offer a pathway to close persistent gaps in care access and quality. Ultimately, the future of ACHD care will depend on our ability to integrate these innovations into routine practice, ensuring that extended survival is matched by preserved function, quality of life, and equitable outcomes at the population scale."
+ },
+ {
+  "key": "a28",
+  "journal": "Heart",
+  "doi": "10.1136/heartjnl-2026-328438",
+  "seccion": "Valvulopatías",
+  "ptype": "Registro",
+  "acr": "Fingesture",
+  "prio": "Complementario",
+  "title": "Sudden cardiac death due to aortic stenosis",
+  "abstract": "BACKGROUND: Characteristics of subjects with sudden cardiac death (SCD) due to aortic stenosis (AS) are not well defined. Aim of this study was to present clinical and autopsy findings of SCD subjects in whom AS was determined to be the cause of death. METHODS: Study population was based on the Finnish Genetic Study of Arrhythmic Events (Fingesture), a large registry which included 5869 consecutive subjects of autopsy-verified SCD between 1998 and 2017. The cause of death was determined based on medicolegal investigation combining data from medical records, police reports and autopsy. Clinical history, ECGs and echocardiographic data were reviewed when available. RESULTS: Valvular heart disease (VHD) was determined to be the cause of SCD in 64 subjects (1.1%), where AS was the most frequent cause of SCD due to VHD (68.8%). The average age in victims of SCD due to AS was 67.5±12.1 years and 79.5% were male. Documented angina or dyspnoea prior to SCD due to AS was rare (6.8% and 4.5%, respectively), and over half of the SCD subjects (54.5%) did not have a previously established diagnosis of AS. Almost all subjects (93.2%) with SCD due to AS had cardiac hypertrophy and myocardial fibrosis at autopsy. CONCLUSIONS: VHD is a rare cause of SCD, where AS is the dominant underlying pathology. SCD due to AS occurs often without previous diagnosis. Near-universal presence of cardiac hypertrophy and myocardial fibrosis at autopsy supports the role of advanced myocardial disease in the pathogenesis of SCD due to AS."
+ },
+ {
+  "key": "a33",
+  "journal": "JACC Adv",
+  "doi": "10.1016/j.jacadv.2026.103303",
+  "seccion": "Imagen cardíaca",
+  "ptype": "Estudio diagnóstico",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Real-World Comparison of Cardiac MRI and Nuclear Perfusion Imaging for Myocardial Scar Detection",
+  "abstract": "BACKGROUND: Cardiovascular magnetic resonance late gadolinium enhancement (CMR-LGE) is the reference standard for scar detection, but data comparing LGE with fixed perfusion defects (FPD) on nuclear myocardial perfusion imaging (MPI) are limited. OBJECTIVES: This study aimed to evaluate concordance between myocardial scar detection by CMR-LGE and nuclear MPI. METHODS: In this retrospective single-center study, patients undergoing contrast CMR and nuclear MPI within 1 year were included: single-photon emission computed tomography (SPECT) with CT attenuation correction (SPECTAC, n = 328), SPECT without attenuation correction (SPECTNoAC, n = 246), or 82-rubidium-positron emission tomography (PET) (n = 240). Scar was assessed by CMR-LGE and FPD on MPI. Minimal resting myocardial blood flow (MBFMin) was determined for PET. Patients with myocardial infarction or revascularization between studies were excluded. Associations of LGE and FPD with major adverse cardiovascular events (MACE) were analyzed. RESULTS: LGE was present in 354 patients (43%), predominantly nonischemic, whereas nuclear MPI detected scar less frequently (30%, P < 0.01). Nuclear scar was associated with ischemic LGE (OR: 5.86; 95% CI: 3.64-9.43; P < 0.001), but not nonischemic LGE. PET demonstrated higher specificity than SPECT for detecting ischemic and ≥50% transmural LGE (P < 0.01). Patients with ≥50% transmural LGE had lower MBFMin (0.61 [0.53-0.68] vs 0.80 [0.74-0.85] mL/min/g; P < 0.001). Patients with both LGE and FPD had higher MACE risk than patients without these features (HR: 4.95 [95% CI: 3.01-8.11]; P < 0.001). CONCLUSIONS: MPI detected myocardial scar less frequently than CMR-LGE, with PET providing greater specificity than SPECT for ischemic and transmural scar. Combined LGE and FPD identified patients at highest risk of adverse outcomes, supporting PET MPI for myocardial scar characterization."
+ },
+ {
+  "key": "a38",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.126.050577",
+  "seccion": "Cardiología intervencionista",
+  "ptype": "Investigación original",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Evaluating Standard Shielding Versus Novel Enhanced Radiation Protection Devices in the Cardiac Catheterization Laboratory",
+  "abstract": "BACKGROUND: Enhanced radiation protection devices (ERPDs) have the potential to reduce occupational risks in the cardiac catheterization laboratory. We aimed to investigate scatter radiation exposure to various cardiac catheterization laboratory members using 2 ERPDs. METHODS: We prospectively allocated cases to 3 different shielding conditions: standard shielding (group 1), EggNest Protect ERPD (group 2), and EggNest Complete ERPD (group 3). Real-time dosimetry was used to measure radiation exposure at 3 positions: primary operator (position 1), assistant (position 2), and circulating nurse (position 3). Effective dose equivalent was estimated (annualized to 300 cases/y). RESULTS: A total of 135 patients were included in the study (mean age, 68±11 years; 73% men). For position 1, annualized effective dose equivalent -1 doses were 51.4 (19.1-101.3), 7.0 (2.3-21.5), and 2.4 (0.9-6.2) mRem for groups 1, 2, and 3, respectively (P<0.001) standard shielding versus Protect ERPD: 33.1 (95% CI, 11.1-62.9), standard shielding versus Complete ERPD: 41.4 (20.5-71.9). For position 2, annualized effective dose equivalent -1 doses were 2.8 (2.0-6.3), 1.1 (0.6-6.4), and 0.8 (0.3-2.7) mRem for groups 1, 2, and 3, respectively (P<0.001) standard shielding versus Protect ERPD: 33.1 (95% CI, 11.1-62.9), standard shielding versus Complete ERPD: 41.4 (20.5-71.9). For position 3, annualized effective dose equivalent -1 doses were 1.5 (0.6-4.0), 1.5 (0.3-2.4), and 0.8 (0.2-2.5) mRem for groups 1, 2, and 3, respectively (P=0.003) standard shielding versus Protect ERPD: 0.3 (-0.4 to 1.2), standard shielding versus Complete ERPD: 0.4 (-0.1 to 1.4). With the use of the EggNest Complete ERPD without a lead apron, annualized total effective doses are ≤1% of the recommended annual maximum for all positions. CONCLUSIONS: Compared with standard shielding, ERPDs significantly lowered scatter radiation exposure to all members of the cardiac catheterization laboratory."
+ },
+ {
+  "key": "a43",
+  "journal": "Rev Esp Cardiol (Engl Ed)",
+  "doi": "10.1016/j.rec.2026.10.001",
+  "seccion": "Arritmias y electrofisiología",
+  "ptype": "Registro",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Impact of different conduction disturbance management strategies after TAVI on 1-year clinical outcomes: the GLAM-TAVI registry",
+  "abstract": "INTRODUCTION AND OBJECTIVES: New-onset conduction disturbances (CDs) occur in up to 50% of patients undergoing transcatheter aortic valve implantation (TAVI). However, thresholds for permanent pacemaker implantation (PPI) vary widely among centers, resulting in 30-day implantation rates ranging from 0% to 36%. The aim of this study was to compare 1-year clinical outcomes between a standardized guideline-directed strategy and an individualized management strategy for post-TAVI CD management. METHODS: The GLAM-TAVI was an investigator-initiated, ambispective study including patients who developed CDs after TAVI at 6 centers in Europe and the United States. Centers were prespecified as adopting either a standardized guideline-directed or an individualized strategy, based on the use of a watchful waiting approach during the index hospitalization for nonadvanced CDs. The primary endpoint was a composite of all-cause death or unplanned rehospitalization for CD-related events at 1 year. Time-to-event analyses used Cox models with cluster-robust standard errors and inverse probability of treatment weighting. RESULTS: Among 1573 patients undergoing TAVI during the study period, 345 (21.9%) developed postprocedural CDs and constituted the study population. These patients were managed with either an individualized (n = 160) or standardized strategy (n = 185). At 1 year, the incidence of the primary endpoint was similar with the individualized and standardized strategies (13.6% vs 7.1%; aHR, 1.23; 95%CI, 0.56-2.69). Individualized management was associated with higher cardiovascular mortality (8.4% vs 1.2%; aHR, 9.10; 95%CI, 1.59-52.18) and a lower PPI rate (49.4% vs 80.2%; aHR, 0.61; 95%CI, 0.43-0.86). CONCLUSIONS: In GLAM-TAVI, an individualized CD management strategy was associated with a lower PPI rate and higher cardiovascular mortality, although these findings should be interpreted with caution. These results highlight the need for structured, guideline-aligned risk stratification and rhythm surveillance when pacemaker-sparing approaches are adopted."
+ }
+]

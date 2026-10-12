@@ -15,5 +15,21 @@
   "_oblig": false,
   "_noabs": false,
   "_rec": "recuperado del fascículo de JACC (vol 88, nº 14) vía Crossref; PubMed no lo indexó en la ventana"
+ },
+ {
+  "pmid": "42754239",
+  "journal": "Heart Rhythm",
+  "title": "Heart Rhythm Society and Heart Rhythm Advocates position statement: Prior authorization in cardiac electrophysiology: Evidence, policy, and reform.",
+  "ptypes": [
+   "Journal Article",
+   "Practice Guideline"
+  ],
+  "abstract": "Prior authorization (PA) requirements imposed by Medicare Advantage (MA) and commercial insurers have evolved into a systematic barrier to guideline-indicated cardiac electrophysiology (EP) care, producing measurable patient harm, substantial administrative burden on physicians and allied professionals, and widening health care disparities. This paper examines the financial architecture of the MA capitation model and the structural incentives it creates for denial, characterizes the root causes of the denial system, including third-party denial organizations, artificial intelligence-based algorithms, and opaque coverage criteria; reviews federal oversight findings from the Office of Inspector General and the Senate Permanent Subcommittee on Investigations, and analyzes procedure-specific denial patterns for catheter ablation of atrial fibrillation, implantable cardioverter-defibrillator therapy, left atrial appendage occlusion, and cardiac resynchronization therapy with defibrillation. Federal audit data establish that a substantial proportion of denied PA requests meet Medicare's own coverage criteria and that the majority of appealed denials are overturned, yet most wrongful denials go uncontested. Clinical outcome data confirm that PA delays have direct clinical consequences across EP procedure categories. The regulatory and legislative landscape-spanning Centers for Medicare & Medicaid Services rulemaking from 2023 to 2026 and pending congressional action-is reviewed, and the paper concludes with a structured framework for appeals strategy, institutional advocacy, and physician-level engagement.",
+  "doi": "10.1016/j.hrthm.2026.08.046",
+  "pii": "S1547-5271(26)02749-9",
+  "adate": "2026/10/06",
+  "_oblig": false,
+  "_noabs": false,
+  "_rec": "recuperado por la auditoría de cobertura (Crossref); PubMed lo indexó con edat 17-sep, fuera de la red amplia, pero su fecha de publicación online es 6-oct, dentro de la ventana"
  }
 ]

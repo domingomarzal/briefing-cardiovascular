@@ -1,0 +1,101 @@
+[
+ {
+  "key": "a2",
+  "journal": "JACC Adv",
+  "doi": "10.1016/j.jacadv.2026.103306",
+  "seccion": "Cardiología preventiva",
+  "ptype": "Metaanálisis",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Comparative Efficacy of Treatments for Resistant or Uncontrolled Hypertension: A Network Meta-Analysis of Randomized Trials",
+  "abstract": "BACKGROUND: Many patients with hypertension fail to achieve recommended blood pressure targets despite treatment with 2 or more antihypertensive drugs. OBJECTIVES: We aimed to compare the efficacy of add-on treatments for the management of resistant or uncontrolled hypertension. METHODS: We searched Embase and MEDLINE through November 2025. We included randomized trials comparing add-on treatments for resistant or uncontrolled hypertension. The certainty of evidence was assessed using the Confidence In Network Meta-Analysis (CINeMA) framework. The primary outcome was the change in office systolic blood pressure from baseline. Summary mean differences were estimated using random-effects network meta-analysis within a Bayesian framework in patients with resistant hypertension and in the broader population with uncontrolled hypertension. RESULTS: We included 35 trials (8,648 patients and 12 individual treatments) in the systematic review and 30 trials (8,187 patients and 10 individual treatments) in the network meta-analysis. In patients with resistant hypertension, spironolactone (mean difference: -12.43 mm Hg; 95% credible interval: -17.68 to -7.18; CINeMA moderate) and radiofrequency renal denervation (mean difference: -8.74 mm Hg; 95% credible interval: -12.96 to -4.52; CINeMA moderate) were more effective than baseline treatment in reducing office systolic blood pressure. Similar findings were observed in patients with uncontrolled hypertension. No intervention demonstrated clear superiority over another because most head-to-head comparisons included the possibility of no effect. CONCLUSIONS: In head-to-head comparisons, no significant differences were observed between add-on treatments in reducing blood pressure among patients with resistant or uncontrolled hypertension. Treatment selection should prioritize treatments with demonstrated superiority over baseline treatment, including spironolactone, baxdrostat, and radiofrequency renal denervation."
+ },
+ {
+  "key": "a7",
+  "journal": "Eur J Heart Fail",
+  "doi": "10.1093/ejhf/xuag308",
+  "seccion": "Cardiometabolismo",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Clinical trajectory and disease progression in patients with cardio-renal-metabolic syndrome: the CaReMap observational study",
+  "abstract": "BACKGROUND: Cardio-renal-metabolic (CRM) syndrome describes the pathophysiological interconnection among diabetes mellitus (DM), atherosclerotic cardiovascular disease (ASCVD) and heart failure (HF), and chronic kidney disease (CKD). Limited studies simultaneously examine progression trajectories across all three conditions at the population level. We aimed to quantify the coexistence of CRM components, with a specific focus on patients with HF, and analyse survival and disease progression in a real-world setting. METHODS: CaReMap, an observational cohort study, analysed data from an Italian Regional Epidemiological Repository. The selection period spanned from 2017 to 2022. Incident patients had a first diagnosis of DM, HF, or CKD after January 1, 2017. Prevalent patients were classified based on their baseline morbidity status on January 1, 2017. Descriptive statistics, Kaplan-Meier survival estimates, and cumulative incidence curves for cause-specific events were reported. The CRM stage was further defined according to disease coexistence and severity. RESULTS: CaReMap included 71,694 adults with established CRM-related conditions (31.8% incident; 68.2% prevalent). Among incident patients, HF was associated with the highest probability of developing an additional diagnosis (60.4% at 6 years), while CKD showed the highest probability of death before a new diagnosis (43.3% at 6 years). In prevalent patients, the DM&HF group showed the highest cumulative incidence of further diagnoses (47.1% at 6 years). Across both incident and prevalent cohorts, HF and CKD patients experienced the steepest decline in overall survival. CONCLUSION: In this population-based Italian cohort, DM, HF, and CKD define distinct diagnostic trajectories with substantial competing risk of death. These findings provide real-world estimates of transition patterns and absolute risks that may inform risk stratification and integrated care pathways."
+ },
+ {
+  "key": "a12",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.125.048213",
+  "seccion": "Dislipemia",
+  "ptype": "Estudio pronóstico",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Lipoprotein(a) and Coronary Artery Disease Polygenic Risk Scores Do Not Improve Secondary Manifestations of Arterial Disease Score Prediction of Coronary Events After Ischemic Stroke",
+  "abstract": "BACKGROUND: Survivors of ischemic stroke are at high risk for coronary artery disease (CAD), but individual risk varies. Lipoprotein(a) [Lp(a)] and CAD polygenic risk scores (CAD-PRS) improve risk prediction in primary prevention; however, their prognostic value after stroke remains uncertain. We assessed whether Lp(a) and CAD-PRS add predictive value to the Secondary Manifestations of Arterial Disease (SMART) secondary prevention score. METHODS: We analyzed 1202 UK Biobank participants of European ancestry with prior ischemic stroke and no CAD at baseline (2006-2022). Baseline clinical characteristics, Lp(a), and CAD-PRS were recorded. The primary outcome was incident CAD, identified from hospital, primary care, and death records. Competing-risk models compared SMART alone with SMART plus Lp(a), CAD-PRS, or both. Ten-year model performance was assessed using the area under the receiver operating characteristic curve and Brier score. Prespecified subgroup analyses examined age, sex, diabetes, and low-density lipoprotein cholesterol. RESULTS: During a median follow-up of 13.4 years, 155 participants (12.9%) developed CAD. SMART alone provided moderate discrimination (area under the receiver operating characteristic curve, 0.69 [95% CI, 0.64-0.75]) and a Brier score of 0.08. Adding Lp(a), CAD-PRS, or both did not improve prediction (change in area under the receiver operating characteristic curve, ≤0.002; all P>0.6; continuous net reclassification improvement, ≤0.03; all P>0.20). Results were consistent across subgroups, with no significant interactions after correction for multiple comparisons. CONCLUSIONS: Among survivors of ischemic stroke without CAD, neither Lp(a) nor CAD-PRS improved prediction of incident CAD beyond the SMART score. These findings do not support their incremental use for coronary risk stratification in this population."
+ },
+ {
+  "key": "a17",
+  "journal": "EuroIntervention",
+  "doi": "10.4244/EIJ-D-26-00460",
+  "seccion": "Insuficiencia cardíaca",
+  "ptype": "Análisis secundario de ensayo clínico",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Complexity of coronary artery disease in infarct-related cardiogenic shock and multivessel disease: a substudy of the DanGer Shock trial",
+  "abstract": "BACKGROUND: The prognostic impact of multivessel coronary anatomy and complexity in infarct-related cardiogenic shock (CS) is insufficiently characterised. AIMS: We sought to investigate the prognostic value of baseline and residual SYNTAX scores and their influence on the effect of microaxial flow pump (mAFP) support in multivessel disease (MVD) and infarct-related CS. METHODS: In this secondary analysis of the DanGer Shock trial, MVD was defined as ≥1 non-culprit stenosis ≥70% or an isolated left main (LM) culprit lesion. Baseline SYNTAX scores were categorised as low (≤22), intermediate (23-32), or high (>32). Patients with an isolated LM culprit lesion were analysed separately. The primary outcome was 180-day all-cause mortality. RESULTS: Of 355 patients included in DanGer Shock, 256 patients had MVD; 211 had an available baseline SYNTAX score, with 26% of these in the low, 47% in the intermediate, and 27% in the high baseline SYNTAX groups. In all, 35 patients had an isolated LM culprit lesion. A high baseline SYNTAX score was associated with higher odds of 180-day all-cause mortality compared with low and intermediate baseline SYNTAX scores (adjusted odds ratio [OR] 3.12, 95% confidence interval [CI]: 1.17-8.69). A higher baseline SYNTAX score was associated with a higher residual SYNTAX score (p<0.001). The residual SYNTAX score independently predicted 180-day all-cause mortality. The mAFP effect was not modified by the baseline SYNTAX group (p for interaction=0.31). In patients with an isolated LM culprit lesion, mAFP use was associated with lower odds of 180-day all-cause mortality compared with standard care alone (adjusted OR 0.17, 95% CI: 0.03-0.99). CONCLUSIONS: Baseline and residual SYNTAX scores independently predicted 180-day mortality. The mAFP effect was not modified by SYNTAX measures. In the isolated left main subgroup, a hypothesis-generating signal towards a clinical benefit with mAFP use was observed."
+ },
+ {
+  "key": "a22",
+  "journal": "Eur Heart J",
+  "doi": "10.1093/eurheartj/ehag787",
+  "seccion": "Miocardiopatías",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Adults with congenital heart disease: the growing impact of acquired cardiovascular risk factors on late mortality",
+  "abstract": "BACKGROUND AND AIMS: With improved survival, adults with congenital heart disease (ACHD) increasingly face acquired cardiovascular risk factors; however, their impact on late mortality remains incompletely defined. This study aimed to evaluate the contribution of acquired cardiovascular risk factors to mortality in ACHD. METHODS: A total of 9826 ACHD patients (mean age 39.0 ± 16.4 years; 50.3% male) who attended our tertiary centre between 2000 and 2024 were retrospectively analysed. Clinical and demographic data were obtained from a prospectively maintained database. Cox proportional hazards models were used to assess associations between risk factors and all-cause mortality. RESULTS: During a median follow-up of 10.0 years (98 764 patient-years), 1371 patients died (mortality rate 1.39% per patient-year). In multivariable analysis, older age (hazard ratio [HR] 1.07 per year; P < .001), male sex (HR 1.30; P = .026), greater lesion complexity (HR 2.12; P < .001), coronary artery disease (HR 1.78; P = .005), sleep apnoea (HR 2.22; P < .001), depression (HR 1.45; P = .010), and current smoking (HR 1.67; P < .001) were independently associated with higher mortality, while higher income was associated with lower mortality risk. CONCLUSIONS: Both congenital lesion complexity and acquired comorbidities are associated with late mortality in ACHD. These data support the need for comprehensive, multidisciplinary management that incorporates timely modification of general cardiovascular and other risk factors alongside congenital heart disease-specific care."
+ },
+ {
+  "key": "a27",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.126.050284",
+  "seccion": "Valvulopatías",
+  "ptype": "Metaanálisis",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Minimally Invasive Versus Sternotomy in Redo Mitral Valve Surgery: Short- and Long-Term Outcomes with Meta-Regression and Time-to-Event Analysis",
+  "abstract": "BACKGROUND: Redo mitral valve surgery carries substantial risk, and the relative benefits of minimally invasive (MI-MVS) versus sternotomy MVS, particularly regarding long-term survival, remain uncertain. METHODS: Electronic databases were searched for studies comparing MI-MVS with sternotomy MVS in adult redo MVS. Kaplan-Meier curves were digitized to reconstruct individual patient data for time-to-event analysis, with study-level hazard ratios (HR) generated using a Cox frailty model. Perioperative outcomes were pooled using random-effects models. Subgroup analyses evaluated propensity-matched cohorts, endoscopic/video-assisted minithoracotomy, and direct-vision minithoracotomy. Meta-regression explored the impact of study-level covariates on mortality. RESULTS: Fifteen studies including 3457 patients were analyzed. MI-MVS was associated with lower perioperative mortality compared with sternotomy MVS (odds ratio [OR], 0.33 [95% CI, 0.23-0.48]; P<0.001), reduced incidence of reoperation (OR, 0.65 [95% CI, 0.44-0.98]; P=0.04), and acute kidney injury (OR, 0.58 [95% CI, 0.39-0.87]; P=0.008); rates of stroke and arrhythmia were similar. The direction and magnitude of the mortality effect consistently favored MI-MVS in the subgroup analyses. Time-to-event analysis demonstrated improved survival with MI-MVS (HR, 0.74 [95% CI, 0.62-0.89]; P=0.001), but this was attenuated in the propensity-matched analysis. Meta-regression showed that sex distribution, mean age, and baseline left ventricular ejection fraction did not significantly moderate mortality effects. CONCLUSIONS: In redo MVS, MI-MVS is associated with improved perioperative outcomes without compromising long-term survival; however, attenuation of the survival difference after propensity matching suggests that this long-term advantage may reflect baseline risk rather than procedural effect."
+ },
+ {
+  "key": "a32",
+  "journal": "Eur Heart J Cardiovasc Imaging",
+  "doi": "10.1093/ehjci/jeag228",
+  "seccion": "Imagen cardíaca",
+  "ptype": "Scientific Statement",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Cardiovascular magnetic resonance derived myocardial strain: applications, acquisition techniques, analysis, and reporting",
+  "abstract": "Myocardial strain imaging enables quantification of cardiac deformation. Cardiovascular magnetic resonance imaging (CMR) is well suited for strain assessment due to the ability to image in any given plane with high spatial and contrast resolution. CMR strain measures have incremental diagnostic and prognostic utility over conventional clinical imaging parameters across disease states. Routine integration of CMR strain assessment in clinical practice has been hindered by the lack of agreement on imaging protocols and analysis methods, variability due to noise sensitivity, and a paucity of robust normative age-, sex- and ethnicity-specific reference ranges. In recognition of the expanding applications of strain techniques in clinical and research CMR, this joint SCMR/RSNA/EACVI scientific statement integrates data from original research studies, guidelines, and opinions from experts across the field to guide responsible and evidence-based utilization of CMR strain."
+ },
+ {
+  "key": "a37",
+  "journal": "EuroIntervention",
+  "doi": "10.4244/EIJ-D-26-00889",
+  "seccion": "Cardiología intervencionista",
+  "ptype": "Análisis secundario de ensayo clínico",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Percutaneous coronary intervention using sirolimus-eluting balloons in patients at high bleeding risk: the SELUTION DeNovo HBR substudy",
+  "abstract": "BACKGROUND: Drug-eluting stents (DES) are the current mainstay of percutaneous coronary intervention (PCI) in high bleeding risk (HBR) patients. However, drug-coated balloons may be an alternative that reduces reliance on prolonged courses of antiplatelet therapy. AIMS: The SELUTION DeNovo trial randomised 3,323 PCI candidates 1:1 to treatment with either sirolimus-eluting balloons (SEBs) and provisional stenting or systematic DES implantation. We report on a prespecified subgroup of HBR patients. METHODS: A total of 522 enrolled patients met the Academic Research Consortium-HBR criteria. At 1 year, we assessed target vessel failure (TVF; a composite of cardiac death, target vessel myocardial infarction and clinically driven target vessel revascularisation), major bleeding (Bleeding Academic Research Consortium [BARC] 3-5) and net adverse clinical events (NACE; a composite of TVF and BARC 3-5 bleeding). Antithrombotic treatment was prescribed according to current guidelines and local practice. RESULTS: Altogether, 269 and 253 patients were identified as HBR in the SEB strategy and DES strategy arms, respectively. In the SEB arm, 17.1% of patients had bailout stenting. Overall, 67% of patients were discharged on oral anticoagulants. At 1 year, TVF occurred in 4.9% of the SEB arm vs 7.9% of the DES arm (absolute risk difference [RD] -3.05%, 95% confidence interval [CI]: -7.27 to 1.17). BARC 3-5 bleeding occurred in 2.3% vs 3.2% (absolute RD -0.91%, 95% CI: -3.71 to 1.89) and NACE in 6.8% vs 10.7% (absolute RD -3.94%, 95% CI: -8.80 to 0.92) in the SEB and DES arms, respectively. While the proportion of patients on dual antiplatelet therapy and single antiplatelet therapy did not differ significantly between the two groups during follow-up, all antiplatelet medication was stopped in 7.7% vs 2.5% at 30 days (p=0.005) and in 27.8% vs 14.9% of patients at 6 months (p<0.001) in the SEB and DES arms, respectively. CONCLUSIONS: Although this subset analysis is not powered for definitive conclusions, our data suggest that an SEB strategy with minimal stenting appears to be a safe and effective alternative to systematic DES implantation for HBR patients."
+ },
+ {
+  "key": "a42",
+  "journal": "Europace",
+  "doi": "10.1093/europace/euag272",
+  "seccion": "Arritmias y electrofisiología",
+  "ptype": "Análisis secundario de ensayo clínico",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Potassium-Increasing Regimens in Patients at High Risk of Ventricular Arrhythmias: A Prespecified Observational Analysis of the Randomized POTCAST Trial",
+  "abstract": "BACKGROUND AND AIMS: The POTCAST trial (n=1,200) showed that targeting high-normal plasma potassium levels reduced ventricular arrhythmias in patients with Implantable Cardioverter-Defibrillators (ICDs). We compared changes in plasma potassium and described outcomes across the three regimens used to increase plasma potassium. METHODS: We studied 600 control participants and 572 intervention participants who completed potassium up-titration in POTCAST. Participants in the intervention arm were categorized according to treatment after plasma-potassium up-titration into: a) mineralocorticoid-receptor antagonists (MRAs) monotherapy, b) potassium-supplement monotherapy, or c) combination-therapy with both. The primary endpoint was a composite of sustained ventricular arrhythmia, appropriate ICD-therapy, hospitalization for arrhythmia or heart-failure or all-cause mortality. Safety outcomes included death and electrolyte/renal disturbances. RESULTS: After six months, plasma potassium increased from 4.12 to 4.27 mmol/L (p=0.004) with MRA, from 3.99 to 4.24 mmol/L (p<0.001) with potassium-supplements, and from 3.98 to 4.34 mmol/L (p<0.001) with combination-therapy. The primary endpoint occurred in 29% (n=175) of controls, 22% (n=16) in the MRA group, 21% (n=31) in the potassium-supplements group and in 22% (n=72) in the combination-therapy group (p=0.8 between regimens). Hypokalemia occurred in 13% of controls and in 3%, 9%, and 5% of participants receiving MRA, potassium-supplements and combination-therapy, respectively. Hyperkalemia occurred in 0.2% of controls and in 0%, 3%, and 4% of participants receiving MRA, potassium-supplements, and combination-therapy (p>0.1 between regimens). CONCLUSIONS: Treatment with MRA, potassium-supplements or both increased potassium levels. All regimens were associated with numerically lower endpoint rates than controls. We detected no statistically significant differences in endpoints or safety between regimens."
+ }
+]
