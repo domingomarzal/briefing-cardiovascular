@@ -61,5 +61,18 @@
    "abstract": "",
    "url": "https://eurointervention.pcronline.com/doi/10.4244/EIJ-D-26-00454"
   }
- ]
+ ],
+ "resuelto_en_el_mac": {
+  "fecha": "2026-10-19",
+  "script": "generador/n19_eij_mac.py",
+  "entra": "a49 · EIJ-D-26-00602 metaanálisis de ECA sobre EC en TAVI (sec 9, 6,20, Relevante); sale a43 (4,35) por «fuera del top 5»",
+  "elegibles_fuera_top5": [
+   "EIJ-D-26-00454 SPIRARE II (4,43)",
+   "EIJ-D-26-00347 registro TVME (3,36)"
+  ],
+  "no_elegibles": [
+   "EIJ-D-26-01199, 01011, 01104: Editorial",
+   "EIJ-D-26-00334: Research Correspondence (carta)"
+  ]
+ }
 }
