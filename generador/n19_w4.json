@@ -1,0 +1,101 @@
+[
+ {
+  "key": "a5",
+  "journal": "Eur J Prev Cardiol",
+  "doi": "10.1093/eurjpc/zwag527",
+  "seccion": "Cardiología preventiva",
+  "ptype": "Ensayo clínico aleatorizado",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Effect of Colchicine on Arterial Stiffness in Patients With Hypertension: The COlchicine HypERtENsion Trial (COHERENT)",
+  "abstract": "AIM: This trial investigated whether colchicine, an anti-inflammatory treatment, affects cardiovascular structure and function, assessed by arterial stiffness, blood pressure and biochemistry, compared with placebo. METHODS: COHERENT was a randomized, double-blind, placebo-controlled trial of the effects of colchicine on arterial stiffness in adults with pharmacologically treated hypertension without cardiovascular disease. Eligible patients were randomized 1:1 to colchicine 0.5mg daily or placebo for six months. Assessment of arterial stiffness, echocardiography, and biomarker measurement were performed at baseline and six months. The primary endpoint was change in carotid-femoral pulse wave velocity (cfPWV). Secondary endpoints included change in blood pressure (BP), left ventricular mass index, as well as change in cardiac and inflammatory biomarkers. RESULTS: Of 183 screened, 150 were randomized (75 per group). Mean age was 64.5 (±8.0) years, 53 (35.3%) were female, and mean systolic blood pressure was 137.6 (±15.6) mmHg. At six months, cfPWV did not differ between groups (between-group difference in ΔcfPWV -0.1m/s, 95% CI: -0.5 to 0.3m/s, p=0.53). Office systolic BP decreased significantly more in the placebo group than in the colchicine group (between-group difference in Δoffice systolic BP 5.7 mmHg, 95% CI: 1.0 to 10.5 mmHg, p=0.018. hsCRP decreased significantly in the colchicine group compared with the placebo group (between-group difference in % change in hsCRP -39.8%, 95% CI: -59.1 to -11.4%, p=0.010). Left ventricular mass index or cardiac biomarkers did not differ between groups. CONCLUSIONS: Six months of colchicine did not affect arterial stiffness in pharmacologically treated hypertension without cardiovascular disease. Colchicine significantly decreased hsCRP."
+ },
+ {
+  "key": "a10",
+  "journal": "Eur J Heart Fail",
+  "doi": "10.1093/ejhf/xuag313",
+  "seccion": "Cardiometabolismo",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "GLP-1 receptor agonist treatment and cardiovascular outcomes following aortic valve replacement: a nationwide observational study",
+  "abstract": "BACKGROUND: GLP-1 receptor agonists reduce major adverse cardiovascular events among patients with diabetes, overweight, and obesity. Whether these benefits extend to patients undergoing aortic valve replacement (AVR) for severe aortic stenosis (AS) remains unknown. Thus, we investigated the association between GLP-1 receptor agonist treatment and cardiovascular outcomes after AVR. METHODS: Nationwide population-based cohort study including consecutive patients with severe AS undergoing TAVI or SAVR in Western Denmark between January, 2016 and April, 2022. Patients were followed until death, emigration, crossover, or end of follow up on May 12, 2026. Propensity score-matching was performed to balance confounding. The primary outcome was a composite of all-cause mortality, heart failure hospitalization, or aortic valve reoperation. Secondary outcomes included all-cause mortality, heart failure hospitalization, aortic valve reoperation, with analyses accounting for the competing risk of death. RESULTS: Among 5259 eligible patients undergoing AVR, 292 propensity score-matched patients were included in the final analyses. During a mean follow up of 4.8±2.4 years, GLP-1 receptor agonist treatment was associated with a lower risk of the primary composite outcome compared with controls (HR 0.69, 95%CI 0.50-0.96, p=0.029). GLP-1 receptor agonist treatment was also associated with lower risk of all-cause mortality (HR 0.66, 95%CI 0.46-0.95, p=0.025). In competing risk analyses accounting for death, lower risks were observed for heart failure hospitalization (HR 0.67, 95%CI 0.48-0.93, p=0.018), and aortic valve reoperation (HR 0.69, 95%CI 0.49-0.98, p=0.037). CONCLUSION: Treatment with GLP-1 receptor agonists was associated with lower risk of cardiovascular outcomes including mortality following AVR among patients with severe AS."
+ },
+ {
+  "key": "a15",
+  "journal": "Atherosclerosis",
+  "doi": "10.1016/j.atherosclerosis.2026.121922",
+  "seccion": "Dislipemia",
+  "ptype": "Metaanálisis",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Association between elevated lipoprotein (a) and venous thromboembolism: A systematic review and meta-analysis",
+  "abstract": "BACKGROUND: Elevated lipoprotein(a) [Lp(a)] is an established cardiovascular risk factor linked to atherogenesis, inflammation, and thrombosis; however, its association with venous thromboembolism (VTE) remains uncertain, with inconsistent findings across observational studies. AIMS: To systematically evaluate the association between elevated Lp(a) levels and VTE risk and to examine differences by study design. METHODS: PubMed/MEDLINE, Embase, Scopus, Web of Science, and Cochrane Library were searched from inception through January 2026 for observational studies assessing Lp(a) and VTE. Effect estimates (odds ratios [ORs] or hazard ratios [HRs]) were pooled using DerSimonian-Laird random-effects models with Hartung-Knapp adjustment. Heterogeneity was assessed using I2 and τ2. Risk of bias was evaluated with ROBINS-E, publication bias with funnel plots, Egger's and Begg's tests, and certainty of evidence using GRADE. The primary outcome was VTE; secondary outcomes included deep vein thrombosis (DVT), pulmonary embolism (PE), and recurrent VTE. RESULTS: Eleven studies (6 case-control, 5 cohort; 63,325 participants; 3581 VTE events) were included. Elevated Lp(a) was associated with a borderline increased VTE risk (pooled OR/HR 1.34 [95% CI 1.00-1.80]; P = 0.049), with high heterogeneity (I2 = 77.8%) and a wide prediction interval (0.56-3.21). In stratified analyses, case-control studies showed a significant association (OR 1.88 [1.25-2.81]; I2 = 57.2%), whereas cohort studies showed no association (HR 0.99 [0.85-1.15]; I2 = 0%), with significant between-group differences (p < 0.0001). CONCLUSIONS: The association between elevated Lp(a) and VTE appears limited to case-control studies and is not supported by prospective cohort data, suggesting potential bias or residual confounding. Further large-scale and genetic studies are warranted to clarify this relationship."
+ },
+ {
+  "key": "a20",
+  "journal": "JACC Cardiovasc Interv",
+  "doi": "10.1016/j.jcin.2026.08.007",
+  "seccion": "Cardiopatía isquémica",
+  "ptype": "Análisis secundario de ensayo clínico",
+  "acr": "MATRIX",
+  "prio": "Relevante",
+  "title": "Frequency and Prognosis of Alternative Definitions of Occlusion Myocardial Infarction Across the Whole Spectrum of Acute Coronary Syndromes",
+  "abstract": "BACKGROUND: Occlusion myocardial infarction (OMI) refers to a myocardial infarction caused by a persistent or transient, complete or near-complete coronary artery occlusion. Multiple definitions have been proposed, yet their frequency and comparative prognostic relevance remain unclear. OBJECTIVES: This study sought to evaluate the frequency and prognosis of previously proposed OMI definitions across the whole spectrum of acute coronary syndromes (ACS) from the MATRIX trial. METHODS: Five alternative OMI definitions were assessed: 1) culprit artery (CA) TIMI flow grade 0; 2) CA-TIMI flow grade 0-1; 3) CA-TIMI flow grade 0-2; 4) CA-TIMI flow grade 0-2 or TIMI flow grade 3 with cardiac troponin >30× upper reference limit; and 5) CA-TIMI flow grade 0-2 or CA-TIMI flow grade 3 with cardiac troponin >100× upper reference limit. The endpoint of interest was 1-year all-cause mortality. RESULTS: Among 6,558 patients with ACS, OMI frequency ranged from 37.8% for definition 1 to 76.1% for definition 4. OMI was independently associated with higher 1-year mortality according to definitions 1-4 (adjusted HR: 2.08 [95% CI: 1.56-2.78], 1.97[1.47-2.63], 1.70 [1.25-2.32], 1.47 [1.01-2.12], respectively) but not according to definition 5 (adjusted HR: 1.26 [0.90-1.75]). OMI definitions exclusively based on impaired CA flow (ie, definitions 1-3) improved discrimination, reclassification, and model fit when added to the conventional STE/NSTE-ACS classification. One-year mortality did not differ among patients with NSTE-ACS with OMI definition 1 or 2 compared with ST-segment elevation MI (STEMI) patients. CONCLUSIONS: OMI defined by impaired CA flow confers prognostic implications beyond the presence or absence of ST-segment elevation in a broad ACS population and identifies patients without ST-segment elevation with 1-year mortality similar to that of STEMI."
+ },
+ {
+  "key": "a25",
+  "journal": "JACC Heart Fail",
+  "doi": "10.1016/j.jchf.2026.103375",
+  "seccion": "Insuficiencia cardíaca",
+  "ptype": "Análisis secundario de ensayo clínico",
+  "acr": "RELIEVE-HF",
+  "prio": "Relevante",
+  "title": "Long-Term Safety and Procedural Performance of an Interatrial Shunt for Heart Failure According to Ejection Fraction",
+  "abstract": "BACKGROUND: Long-term device durability and phenotype-specific safety outcomes after interatrial shunting require further characterization. OBJECTIVES: This study aimed to evaluate the procedural success, device durability, and heart failure (HF) phenotype-specific safety outcomes of an interatrial shunt in the RELIEVE-HF trial. METHODS: Randomized patients were assigned 1:1 to shunt or sham control with prespecified stratification by left ventricular ejection fraction (LVEF) into heart failure with reduced ejection fraction (HFrEF) (LVEF ≤40%) and heart failure with preserved ejection fraction (HFpEF) (LVEF >40%). Procedural performance, device durability, serious adverse events (SAEs), major adverse cardiovascular or neurological events (MACNE), major bleeding, and renal outcomes were assessed through 2 years. RESULTS: Among 605 enrolled patients (508 randomized; 97 roll-in), shunt implantation was attempted in 370 and was successful in 369 (99.7%). Among implanted patients with follow-up (n = 348), no device- or procedure-related MACNE occurred through 2 years (0%; 95% CI: 0%-0.9%), and shunt patency was 99.4% (95% CI: 97.9%-99.9%). Prespecified LVEF-stratified analyses demonstrated divergent safety profiles. In HFrEF, shunt therapy was not associated with excess all-cause MACNE, major bleeding, or renal decline and was associated with lower SAE burden. In HFpEF, shunt therapy was associated with higher all-cause MACNE, greater SAE burden, increased major bleeding, and greater renal decline. CONCLUSIONS: Interatrial shunt implantation was mechanically reliable and durable through 2 years. Safety outcomes differed by HF phenotype, with no evidence of excess clinical safety events in HFrEF but increased adverse events in HFpEF. These findings support phenotype-specific evaluation of interatrial shunt therapy. (REducing Lung congestion symptoms using the v-wavE shunt in adVancEd Heart Failure [RELIEVE-HF]; NCT03499236)."
+ },
+ {
+  "key": "a30",
+  "journal": "Eur Heart J Cardiovasc Imaging",
+  "doi": "10.1093/ehjci/jeag238",
+  "seccion": "Miocardiopatías",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Cardiovascular effects of continued vs. discontinued anabolic-androgenic steroid use: a longitudinal follow-up study",
+  "abstract": "AIMS: Anabolic-androgenic steroid (AAS) use is prevalent among men engaged in strength training and is associated with adverse structural and functional cardiac changes, but longitudinal data are lacking. This follow-up study examined myocardial effects of AAS with continued use and reversibility following discontinuation. METHODS AND RESULTS: Participants of a previously published cohort (2017-19) of 101 AAS users and 71 non-using weightlifting controls (WLCs) were invited for a follow-up study and underwent interviews, hormonal profiling, and transthoracic echocardiography. Current AAS users at baseline were continued or discontinued users at follow-up, while former users at baseline were those with continued abstinence and those who relapsed.Among those re-enrolled, 70 were AAS users, of whom 35 continued, 15 discontinued, 14 maintained abstinence, and 6 relapsed, and 35 were WLCs. Continued AAS users had persistent indexed left ventricular mass (LVMI 119 ± 30 g/m2), reduced LV ejection fraction (LVEF 48 ± 10%), and worsened diastolic function. Continued AAS users receiving antihypertensive therapy showed improved LVEF compared with untreated users (Δ = 5 ± 8 vs. -4 ± 8%, P = 0.005). Discontinued AAS users showed reduction in LVMI (Δ = -21 g/m2, P = 0.01) and improved LVEF (Δ = 6%, P < 0.001). At follow-up, these changes were comparable with WLCs, which showed statistically but clinically insignificant differences. CONCLUSION: Continued AAS use was associated with sustained LV hypertrophy, LV systolic dysfunction, and worsening diastolic function. Antihypertensive therapy among ongoing AAS users was associated with improved LV systolic function. Discontinuation of AAS use was associated with improvement in cardiac structure and function towards values observed in WLCs."
+ },
+ {
+  "key": "a35",
+  "journal": "Nat Cardiovasc Res",
+  "doi": "10.1038/s44161-026-00886-4",
+  "seccion": "Imagen cardíaca",
+  "ptype": "Inteligencia artificial / modelo predictivo",
+  "acr": "DROID-RV",
+  "prio": "Relevante",
+  "title": "Deep learning-enabled assessment of right ventricular size and function is associated with cardiovascular outcomes",
+  "abstract": "Right ventricular (RV) size and function inform prognosis in many cardiovascular diseases, but assessment by two-dimensional transthoracic echocardiography is challenging. Here we show that a deep learning model, Dimensional Reconstruction of Imaging Data-Right Ventricle (DROID-RV), can estimate RV end-diastolic diameter and identify RV systolic dysfunction from transthoracic echocardiography videos. We trained DROID-RV in 17,141 ambulatory cardiology patients (51,188 studies and 383,881 video clips) and validated model predictions in 9,112 primary care patients and 831 patients with RV ejection fraction assessed by three-dimensional transthoracic echocardiography. Across multiple test samples, DROID-RV accurately estimates RV end-diastolic diameter and identifies RV dysfunction, although model prediction error increases at extremes of RV size and function. We additionally show that RV size and function predictions are associated with incident mortality, atrial fibrillation and heart failure. Our work demonstrates how deep learning can automate RV assessment and risk stratification at scale using two-dimensional echocardiography."
+ },
+ {
+  "key": "a40",
+  "journal": "JACC Cardiovasc Interv",
+  "doi": "10.1016/j.jcin.2026.07.034",
+  "seccion": "Cardiología intervencionista",
+  "ptype": "Análisis secundario de ensayo clínico",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Impact of Extent of Coronary Artery Disease in Transcatheter Aortic Valve Replacement: A PRO-TAVI Substudy",
+  "abstract": "BACKGROUND: Coronary artery disease is present in one-half of patients undergoing transcatheter aortic valve replacement (TAVR). The recent randomized controlled PRO-TAVI (Percutaneous Coronary Intervention Before Transcatheter Aortic Valve Implantation) trial indicated that deferral of percutaneous coronary intervention (PCI) is safe in patients with concomitant coronary artery disease at 1-year follow-up. The SYNTAX (Synergy between Percutaneous Coronary Intervention with TAXUS and Cardiac Surgery) score quantifies the extent of coronary artery disease, which may guide individualized revascularization strategies. OBJECTIVES: The aim of this study was to evaluate the association between SYNTAX score (SS) and clinical outcomes in patients undergoing TAVR. METHODS: This study was a substudy of the PRO-TAVI trial, including 466 patients with significant coronary artery disease undergoing TAVR randomized to deferral of PCI or PCI before TAVR. SS was calculated from preprocedural coronary angiograms, and patients were stratified by SS quartiles. The primary outcome was a composite of all-cause mortality, myocardial infarction, stroke, and major bleeding at 1 year. An ischemic composite outcome of all-cause mortality, myocardial infarction, and stroke was also assessed. RESULTS: The primary composite outcome did not differ across SS categories between the deferral and PCI groups at 1-year follow-up, which was completed by all but 1 patient. In patients with SS >17, the ischemic composite outcome occurred more often in the deferral group (30.9% vs 14.8%; adjusted HR: 2.43; 95% CI: 1.04-5.64; P = 0.04), driven primarily by all-cause mortality and stroke. Bleeding events were less frequent in the deferral group across all SS subgroups. CONCLUSIONS: In patients with concomitant coronary artery disease undergoing TAVR, deferral of PCI reduced bleeding risk and appeared safe across all SS categories. Deferral of PCI in patients with more complex coronary artery disease (SS >17) was associated with higher risk for the ischemic composite outcome. These post hoc findings require confirmation in randomized trials. (Percutaneous Coronary Intervention Before Transcatheter Aortic Valve Implantation [PRO-TAVI]; NCT05078619)."
+ },
+ {
+  "key": "a45",
+  "journal": "Heart Rhythm",
+  "doi": "10.1016/j.hrthm.2026.10.009",
+  "seccion": "Arritmias y electrofisiología",
+  "ptype": "Análisis secundario de ensayo clínico",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Stroke Risk-Based Anticoagulation After Atrial Fibrillation Ablation: ALONE-AF Post-Hoc Analysis",
+  "abstract": "BACKGROUND: Discontinuation of oral anticoagulant (OAC) in patients without recurrent atrial arrhythmia after ablation for atrial fibrillation (AF) has been demonstrated to reduce composite outcomes of stroke, systemic embolism, and major bleeding compared with continued OAC. OBJECTIVE: This study aimed to evaluate the optimal OAC strategy according to baseline stroke risk and AF recurrence. METHODS: In this post-hoc analysis of the Long-Term Anticoagulation Discontinuation after Catheter Ablation for Atrial Fibrillation (ALONE-AF) trial, patients were stratified according to CHA2DS2-VASc score ≤2 and ≥3. Within each stratum, outcomes were compared between the OAC discontinuation and continuation subgroups. The cumulative incidence of stroke, systemic embolism, and major bleeding at 2 years was estimated using the Kaplan-Meier method, with competing risk analysis accounting for AF recurrence. RESULTS: Among 840 patients, 584 and 256 had a CHA2DS2-VASc score ≤2 (mean age 62.0±7.5 years, 15.9% female) and ≥3 (mean age 68.9±7.3 years, 45.3% female), respectively. In the CHA2DS2-VASc ≤2 stratum, the primary outcome occurred in one patient (0.4%) in discontinuation subgroup vs. six (2.4%) in continuation subgroup (absolute difference -1.9 percentage points, P=0.066). In the CHA2DS2-VASc ≥3 stratum, two events (1.8%) occurred in the continuation subgroup only (absolute difference -1.8 percentage points, P=0.172). All major bleeding events (n=5) occurred in the continuation subgroups. Competing risk analysis yielded consistent results. CONCLUSIONS: In this exploratory post-hoc analysis, no statistically significant differences in outcomes were observed between OAC strategies when stratified by CHA2DS2-VASc score, though event numbers were limited. Larger prospective trials are needed to confirm these observations. TRIAL REGISTRATIONS: ClinicalTrials.gov Identifier: NCT04432220."
+ }
+]
