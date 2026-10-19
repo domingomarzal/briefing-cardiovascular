@@ -1,0 +1,246 @@
+[
+ {
+  "idx": 3,
+  "journal": "JACC Heart Fail",
+  "title": "Long-Term Safety and Procedural Performance of an Interatrial Shunt for Heart Failure According to Ejection Fraction.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Long-term device durability and phenotype-specific safety outcomes after interatrial shunting require further characterization. OBJECTIVES: This study aimed to evaluate the procedural success, device durability, and heart failure (HF) phenotype-specific safety outcomes of an interatrial shunt in the RELIEVE-HF trial. METHODS: Randomized patients were assigned 1:1 to shunt or sham control with prespecified stratification by left ventricular ejection fraction (LVEF) into heart failure with reduced ejection fraction (HFrEF) (LVEF ≤40%) and heart failure with preserved ejection fraction (HFpEF) (LVEF >40%). Procedural performance, device durability, serious adverse events (SAEs), major adverse cardiovascular or neurological events (MACNE), major bleeding, and renal outcomes were assessed through 2 years. RESULTS: Among 605 enrolled patients (508 randomized; 97 roll-in), shunt implantation was attempted in 370 and was successful in 369 (99.7%). Among implanted patients with follow-up (n = 348), no device- or procedure-related MACNE occurred through 2 years (0%; 95% CI: 0%-0.9%), and shunt patency was 99.4% (95% CI: 97.9%-99.9%). Prespecified LVEF-stratified analyses demonstrated divergent safety profiles. In HFrEF, shunt therapy was not associated with excess all-cause MACNE, major bleeding, or renal decline and was associated with lower SAE burden. In HFpEF, shunt therapy was associated with higher all-cause MACNE, greater SAE burden, increased major bleeding, and greater renal decline. CONCLUSIONS: Interatrial shunt implantation was mechanically reliable and durable through 2 years. Safety outcomes differed by HF phenotype, with no evidence of excess clinical safety events in HFrEF but increased adverse events in HFpEF. These findings support phenotype-specific evaluation of interatrial shunt therapy. (REducing Lung congestion symptoms using the v-wavE shunt in adVancEd Heart Failure [RELIEVE-HF]; NCT03499236).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jchf.2026.103375"
+ },
+ {
+  "idx": 8,
+  "journal": "J Am Heart Assoc",
+  "title": "Nonlinear 24-Hour Blood Pressure Dynamics in Cognitive Impairment and Dementia.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: In cognitive impairment and dementia, where biological functions are disrupted, nonlinear dynamics may reflect dysregulation of blood pressure (BP) that might not be captured by linear variability. We investigated whether nonlinear dynamics of 24-hour BP variability are associated with cognitive impairment and dementia. METHODS: We conducted a cross-sectional analysis of 4854 participants from 3 population-based studies. Raw 24-hour ambulatory BP recordings were structured as time series to quantify nonlinear variability using sample entropy, detrended fluctuation analysis, and Poincaré measures. High entropy and Poincaré values with low detrended fluctuation analysis suggest irregular dynamics, whereas the opposite pattern indicates a predictable BP system. Neurological outcomes included Mini-Mental State Examination, mild cognitive impairment (n=212), and dementia (n=111). RESULTS: The mean age was 67.6±7.89 years (61.0% women). Higher 24-hour systolic BP entropy and Poincaré measures were associated with lower Mini-Mental State Examination; adjusted-mean Mini-Mental State Examination estimates ranged from -0.119 (95% CI, -0.184 to -0.053) to -0.035 (95% CI, -0.060 to -0.010). These measures were also associated with higher odds for prevalent mild cognitive impairment (odds ratios [OR] ≥1.41) and dementia (ORs ranged from 1.32 [95% CI, 1.08-1.60] to 2.36 [95% CI, 1.49-3.74]). Lower detrended fluctuation analysis was related to dementia (OR, 1.64 [95% CI, 1.01-2.68]). Sex, antihypertensive medication, and measures of linear variability did not modify the association between nonlinear variability and cognitive outcomes. CONCLUSIONS: Nonlinear 24-hour BP dynamics were associated with cognitive impairment and dementia. Nonlinear patterns of irregular 24-hour variability may represent a form of BP dysregulation relevant to dementia.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.051805"
+ },
+ {
+  "idx": 13,
+  "journal": "J Am Heart Assoc",
+  "title": "Trends in Use of Coronary Angiography, Percutaneous Coronary Intervention, and Coronary Artery Bypass Graft Over a Decade in France: A Nationwide Cohort Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Coronary angiography, percutaneous coronary intervention (PCI), and coronary artery bypass graft are among the most commonly performed procedures globally. The influence of recent scientific evidence on national-level temporal trends remains poorly explored. METHODS: The frequency, characteristics, and outcomes of elective and nonelective coronary angiography, PCI, and coronary artery bypass graft were described using the French National Hospitalization Database from 2014 to 2023 (covering a population of 67.0 million inhabitants), totaling 6 290 951 coronary interventions among 2 985 822 patients (mean age, 67.8±12.2 years; 69.9% men). RESULTS: Over 10 years, the annual number of coronary interventions increased by 33%, driven by a rise in coronary angiography (+32%) and PCI (+40%), while coronary artery bypass graft decreased (-8%). The growth in PCI was predominantly related to an increase in elective procedures (from 53.5% to 56.9%, P<0.001), particularly among older patients (+73%), and in multivessel disease (from 16.7% in 2014-2015 to 19.0% in 2022-2023, P<0.001). Attempts to recanalize chronic total coronary occlusion doubled (from 1.9% to 3.3%, P<0.001). In-hospital death after PCI decreased (from 2.05% in 2014 to 1.58% in 2023, P for trend<0.001), with the most notable improvements observed in nonelective PCI. Similarly, in-hospital death after coronary artery bypass graft declined (from 3.5% to 2.9%, P<0.001). CONCLUSIONS: These findings underscore a significant increase in both coronary angiography and PCI over the past decade in France, particularly in procedures classified as elective among older patients. This trend raises questions about the influence of recent scientific evidence and guidelines on clinical practice in this country.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.047221"
+ },
+ {
+  "idx": 18,
+  "journal": "Circ Cardiovasc Interv",
+  "title": "Clinical Impact of Physiology-Guided PCI: 1-year Results of the Post-Revascularization Optimization and Physiological Evaluation of Intermediate Lesions using Fractional Flow Reserve (PROPHET-FFR) Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Background: The clinical value of physiological assessment after percutaneous coronary intervention (PCI) remains uncertain. We evaluated clinical outcomes associated with post-PCI physiology and temporal trends in its adoption. Methods: PROPHET-FFR (NCT05056662) is an ambispective observational study of patients undergoing invasive physiological assessment of intermediate coronary stenoses. Patients were categorized into three strategies: deferred revascularization based on non-ischemic physiology (deferred PCI), PCI for ischemic lesions without post-PCI physiological assessment (conventional PCI), and physiology-guided PCI with post-PCI assessment and optimization when indicated (post-PCI physiology). Temporal trends in the use of post-PCI physiology and physiology-guided optimization were evaluated, together with the incidence of 12-month major adverse cardiovascular events (MACE), comprising cardiovascular death, spontaneous myocardial infarction, and target-vessel revascularization (TVR). Propensity score matching between conventional PCI and post-PCI physiology was performed to confirm the primary findings. Results: Among 1,986 patients, 1,307 underwent deferred PCI, 331 conventional PCI, and 348 post-PCI physiology. At 12 months, MACE occurred in 4.1%, 7.6%, and 3.4%, respectively (p=0.011). Compared with conventional-PCI, post-PCI physiology had lower MACE (3.4% vs 7.6%; p=0.019), primarily driven by reduced TVR (2.6% vs 5.4%; p=0.057), with consistent findings after propensity score matching (226 patients/group; 2.7% vs 8.0%; p=0.0114). Post-PCI physiology increased from 11.8% to 22.8% across registry phases (p<0.001), with a numerical increase in physiology-guided optimization (11.6% vs 18.1%; p=0.08). Conclusions: In this observational study, post-PCI physiology appears to be associated with lower 12-month MACE compared with conventional PCI, with consistent findings after propensity score matching.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCINTERVENTIONS.126.017446"
+ },
+ {
+  "idx": 23,
+  "journal": "J Am Heart Assoc",
+  "title": "Echocardiographic Assessment and Clinical Applications of the Left Atrial Stiffness Index in Cardiovascular Disease.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "The left atrial stiffness index is an emerging echocardiographic marker that integrates pressure-related burden and atrial reservoir deformation to provide a composite measure of left atrial pressure-deformation coupling. This review summarizes the pathophysiological basis of left atrial stiffness, the methodological principles underlying echocardiographic left atrial stiffness index assessment, and the current evidence supporting its clinical applications across cardiovascular diseases. The strongest evidence is available in heart failure and atrial fibrillation, in which increased left atrial stiffness index has been associated with adverse hemodynamics, exercise intolerance, rhythm recurrence, and adverse clinical outcomes. In hypertension, cardiomyopathies, valvular heart disease, and congenital or aortic disorders, available data suggest potential clinical relevance, although the evidence remains more heterogeneous and less mature; by contrast, evidence in ischemic, inflammatory, and stroke-related settings is still preliminary. Despite its physiological appeal, broader clinical adoption remains limited by methodological heterogeneity, variable thresholds, limited invasive validation, and uncertain incremental value beyond its component measures. At present, left atrial stiffness index is best positioned as an adjunctive marker for phenotyping, hemodynamic assessment, and risk stratification, particularly in heart failure and atrial fibrillation, pending further methodological harmonization and prospective disease-specific validation.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.051787"
+ },
+ {
+  "idx": 28,
+  "journal": "Nat Rev Cardiol",
+  "title": "Heart-specific T cell responses: from antigens to disease mechanisms.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "The field of immunology has transformed our understanding of myocardial cell biology and paved the way for new pathophysiological concepts in cardiology. Researchers have sought to elucidate the contributions of nonspecific inflammatory mechanisms to cardiac diseases, and an increasing number of clinical trials have explored anti-inflammatory approaches in cardiovascular disease. Moreover, adaptive immune mechanisms directed to cardiac proteins released by dying cardiomyocytes have been reported across a broad spectrum of conditions, including acute myocarditis, myocardial infarction and heart failure, and have gained increasing attention. This concept of antigen-specific cardio-immune crosstalk could pave the way for a deeper understanding of tissue-specific disease mechanisms and facilitate the development of targeted interventions. However, only a small number of cardiac antigens have been identified so far, and an immunological definition of heart specificity remains elusive. This Review revisits the molecular composition of the heart from the perspective of T cells to describe the most relevant cardiac antigens identified to date, thus defining a framework for identifying novel T cell reactivities in the injured heart. Going forward, these insights might pave the way for the development of new tools to track specific T cells across various cardiac diseases, in contexts ranging from model organisms to patients.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s41569-026-01356-x"
+ },
+ {
+  "idx": 33,
+  "journal": "J Am Heart Assoc",
+  "title": "Paradoxical Association of Body Mass Index With Occurrence and Mortality of Venous Thromboembolism in Hospitalized Patients: A National Hospital-Based Cohort Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The association between body mass index (BMI) and venous thromboembolism (VTE) occurrence and mortality is controversial. This study aimed to investigate the association of BMI with VTE occurrence and mortality and explore the consistency across age, sex, and medical specialty. METHODS: This study included 3 199 526 inpatients at potential risk for VTE from a nationwide hospital-based cohort. Participants were categorized as lean weight (BMI <18.5 kg/m2), normal weight (18.5 ≤BMI<24.0 kg/m2), overweight (24.0 ≤BMI <28.0 kg/m2), and obesity (BMI ≥28.0 kg/m2). Odds ratios (ORs) were calculated by logistic regression models. RESULTS: In all participants, 59 002 (1.8%) developed VTE during hospitalization. After adjusting for the confounding factors, compared with normal weight, the risk of VTE occurrence reduced by 18% (odds ratio [OR], 0.82 [95% CI, 0.80-0.83]) in participants with overweight and 22% (OR, 0.78,[95% CI, 0.75-0.81]) in participants with obesity. The protective association of overweight/obesity was more pronounced in age ≥65 years, female patients, and surgery participants (Pfor interaction <0.05), whereas in internal medical participants, obesity was associated with a higher risk of VTE occurrence (OR, 1.11 [95% CI, 1.01-1.21]). A total of 636 (1.1%) patients with VTE died before discharge. No significant association was observed between overweight/obesity and post-VTE mortality. However, in the surgical subgroup, obesity was associated with a lower risk of post-VTE mortality (OR, 0.37 [95% CI, 0.17-0.80], Pfor interaction <0.05). CONCLUSION: An inverse association between BMI and VTE occurrence was observed among at-risk inpatients, most pronounced in older, female, and surgical subgroups. Notably, obesity remained a risk factor in medical patients, whereas among surgical patients who developed VTE, it was paradoxically associated with lower mortality.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.045575"
+ },
+ {
+  "idx": 38,
+  "journal": "JACC Cardiovasc Interv",
+  "title": "Impact of Extent of Coronary Artery Disease in Transcatheter Aortic Valve Replacement: A PRO-TAVI Substudy.",
+  "ptypes": [
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Multicenter Study"
+  ],
+  "abstract": "BACKGROUND: Coronary artery disease is present in one-half of patients undergoing transcatheter aortic valve replacement (TAVR). The recent randomized controlled PRO-TAVI (Percutaneous Coronary Intervention Before Transcatheter Aortic Valve Implantation) trial indicated that deferral of percutaneous coronary intervention (PCI) is safe in patients with concomitant coronary artery disease at 1-year follow-up. The SYNTAX (Synergy between Percutaneous Coronary Intervention with TAXUS and Cardiac Surgery) score quantifies the extent of coronary artery disease, which may guide individualized revascularization strategies. OBJECTIVES: The aim of this study was to evaluate the association between SYNTAX score (SS) and clinical outcomes in patients undergoing TAVR. METHODS: This study was a substudy of the PRO-TAVI trial, including 466 patients with significant coronary artery disease undergoing TAVR randomized to deferral of PCI or PCI before TAVR. SS was calculated from preprocedural coronary angiograms, and patients were stratified by SS quartiles. The primary outcome was a composite of all-cause mortality, myocardial infarction, stroke, and major bleeding at 1 year. An ischemic composite outcome of all-cause mortality, myocardial infarction, and stroke was also assessed. RESULTS: The primary composite outcome did not differ across SS categories between the deferral and PCI groups at 1-year follow-up, which was completed by all but 1 patient. In patients with SS >17, the ischemic composite outcome occurred more often in the deferral group (30.9% vs 14.8%; adjusted HR: 2.43; 95% CI: 1.04-5.64; P = 0.04), driven primarily by all-cause mortality and stroke. Bleeding events were less frequent in the deferral group across all SS subgroups. CONCLUSIONS: In patients with concomitant coronary artery disease undergoing TAVR, deferral of PCI reduced bleeding risk and appeared safe across all SS categories. Deferral of PCI in patients with more complex coronary artery disease (SS >17) was associated with higher risk for the ischemic composite outcome. These post hoc findings require confirmation in randomized trials. (Percutaneous Coronary Intervention Before Transcatheter Aortic Valve Implantation [PRO-TAVI]; NCT05078619).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcin.2026.07.034"
+ },
+ {
+  "idx": 43,
+  "journal": "J Am Heart Assoc",
+  "title": "Psychological Stress and the Diurnal Patterns of Sodium Excretion and Blood Pressure: Results From the SABRE Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Psychological stress is associated with reduced blood pressure (BP) dipping, but the underlying mechanisms are unclear. This study examined the associations among stress-induced sodium excretion, diurnal sodium excretion, and BP dipping. METHODS: Apparently healthy adult participants underwent a laboratory session during which urinary sodium excretion was measured before and after mental stress tasks. Participants then completed 24-hour ambulatory BP monitoring and separate awake and asleep urine collections. The change in urinary sodium excretion rate with stress was defined as the difference in urinary sodium excretion rate before and after stress. The awake-to-asleep ratio of the urinary sodium excretion rate and systolic BP dipping were calculated from the 24-hour urine and BP measurements. RESULTS: In an adjusted model including age, sex, race, ethnicity, body mass index, mean systolic BP, mean diastolic BP, parental history of hypertension, fasting glucose, and 24-hour creatinine clearance, a smaller stress-induced urinary sodium excretion rate was associated with a lower awake-to-asleep ratio of urinary sodium excretion rate (n=180, B=0.2253 [95% CI, 0.0490-0.4016]). In an adjusted model including age, sex, race, ethnicity, body mass index, current smoking, alcohol use, fasting glucose, 24-hour sodium excretion, 24-hour potassium excretion, 24-hour creatinine clearance, and fractional excretion of sodium, a lower awake-to-asleep ratio of the urinary sodium excretion rate was associated with lower systolic BP dipping (n=175, B=1.0127 [95% CI, 0.0599-1.9656]). CONCLUSIONS: A lower stress-induced urinary sodium excretion rate was associated with a worse diurnal pattern of urinary sodium excretion, which was associated with lower systolic BP dipping. REGISTRATION INFORMATION: clinicaltrials.gov. Identifier: NCT03636490.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050471"
+ },
+ {
+  "idx": 48,
+  "journal": "J Am Heart Assoc",
+  "title": "Glucagon-Like Peptide-1 Receptor Agonists and Incident Cardiovascular Events and Death in Treated Serious Mental Illness, Type 2 Diabetes, and Obesity.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Adults with serious mental illness (SMI), type 2 diabetes, and obesity have elevated cardiovascular risk. Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have established cardiometabolic benefits in the general population, but their effects in SMI are unclear. We evaluated whether GLP-1RA use was associated with lower risks of incident myocardial infarction (MI), heart failure (HF), and all-cause death. METHODS: This was a retrospective propensity score-matched cohort study of 218 043 adults with SMI, type 2 diabetes, obesity, and active antipsychotic or antidepressant medications in the TriNetX database (73 health care organizations). Outcomes were incident MI, HF, and all-cause death at 1 and 3 years. The primary exposure was GLP-1RA use versus nonuse; secondary analyses examined semaglutide or tirzepatide. Exploratory analyses evaluated sex, race, and sodium-glucose cotransporter-2 inhibitor and dipeptidyl peptidase-4 inhibitor use. RESULTS: GLP-1RA use was associated with lower risks of incident MI, HF, and all-cause death. Risk differences at 1 and 3 years were -0.007 and -0.010 for MI, -0.011 and -0.018 for HF, and -0.039 and -0.065 for death (all P<0.001). Semaglutide or tirzepatide use was also associated with lower risks of MI, HF, and death (all P<0.001). Findings were directionally consistent after accounting for sodium-glucose cotransporter-2 inhibitor and dipeptidyl peptidase-4 inhibitor use. CONCLUSIONS: Adults with treated SMI, type 2 diabetes, and obesity using GLP-1RAs, particularly semaglutide or tirzepatide, had significantly reduced 1- and 3-year risks of incident MI, HF, and all-cause death versus nonusers. These pooled associations should be interpreted in the context of SMI's clinical heterogeneity and the limitations of administrative case ascertainment.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.051982"
+ },
+ {
+  "idx": 53,
+  "journal": "Nat Cardiovasc Res",
+  "title": "A multiview video-text model detects obstructive coronary stenosis and predicts 1-year cardiovascular events from angiography.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Invasive coronary angiography is the reference standard for diagnosing coronary artery disease, yet assessment is subjective, and existing artificial-intelligence tools typically assess stenosis in individual frames or videos and do not integrate the full multiview angiographic study. Here we show that DeepCORO-CLIP, trained on 203,808 angiographic videos and reports from 28,117 patients, interprets whole multiple-video angiograms at once. It detects obstructive stenoses (≥70%), with an area under the receiver operating characteristic curve (AUROC) of 0.89 internally and externally, and identifies chronic total occlusion (AUROC = 0.90 to 0.95), intra-coronary thrombus and calcification (AUROC = 0.90 to 0.91). It also predicts 1-year cardiovascular events (AUROC = 0.79, 95% CI of 0.74 to 0.84, versus 0.65 for a model derived using clinical variables) and left ventricular ejection fraction (mean absolute error 7.3% versus 8.8% for a previous model), both achieved using coronary angiography alone. In a blinded review of 365 evaluations across 288 angiograms, its reports were clinically usable in 76% of evaluations versus 88% for cardiologists, with comparable false positives (17% versus 14%, P = 0.38); residual missed stenoses reflected an adjustable threshold rather than an absent signal.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s44161-026-00890-8"
+ },
+ {
+  "idx": 58,
+  "journal": "Eur J Prev Cardiol",
+  "title": "The Impact of Statin Therapy on Postoperative Short- and Long-term Mortality and Morbidity After Non-Cardiac Surgery.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Statins' anti-inflammatory and endothelial-stabilising effects suggest perioperative value, but trials of de novo initiation were discredited following research misconduct. Whether established preoperative statin therapy lowers postoperative mortality dose-dependently remains unclear. METHODS: We studied 56,362 patients aged ≥45 years undergoing non-cardiac surgery at two university hospitals (2016-2023). Preoperative statin exposure was assessed as status (any vs none), intensity (high vs low/intermediate), and regimen (high vs low/intermediate vs none). Primary outcomes were 30- and 365-day mortality. Inverse probability of treatment weighting, using random forest-estimated propensity scores targeting the average treatment effect in the treated, was applied to balance measured confounders. Associations were estimated with weighted Cox regression. RESULTS: Overall, 372 patients (0.6%) died within 30 days and 3,735 (6.6%) within 365 days. After weighting, all covariates were balanced. Statin therapy showed a directionally consistent but non-significant association with lower 30-day mortality (HR 0.78; 95% CI 0.57-1.07), and was associated with lower 365-day mortality (HR 0.81; 95% CI 0.73-0.90; ARD -1.2 percentage points; number needed to treat 83). A dose-response relationship was evident: versus no statin, high-intensity therapy showed a 29% lower hazard (HR 0.71; 95% CI 0.60-0.83; ARD -2.3 points) and low/intermediate-intensity a 16% lower hazard (HR 0.84; 95% CI 0.74-0.96). Findings were consistent across sensitivity analyses. CONCLUSIONS: Among adults undergoing non-cardiac surgery, established preoperative statin therapy was associated with dose-dependent lower 365-day mortality. These findings suggest perioperative statin continuation as a preventive strategy and warrant confirmation in a randomised trial.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag532"
+ },
+ {
+  "idx": 63,
+  "journal": "JACC Cardiovasc Imaging",
+  "title": "Optimizing Echocardiographic Evaluation of Chronic Mitral Regurgitation: Comparison With Cardiac Magnetic Resonance Imaging and Implications for Guideline Recommendations.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The ASE (American Society of Echocardiography) guidelines recommend the presence of at least 4 specific criteria to confirm a diagnosis of definite severe mitral regurgitation (MR). However, the performance of these criteria, particularly when <4 are present, remains unclear. OBJECTIVES: This study aims to evaluate and optimize the ASE native MR guidelines by comparing them with quantitative cardiac magnetic resonance (CMR), considered the reference standard for MR assessment. METHODS: In this prospective study, 177 patients underwent near-simultaneous CMR and transthoracic echocardiography for the assessment of MR. MR severity was classified using a 4-grade scale based on CMR-derived regurgitant volume, which was calculated as the difference between total left ventricular (LV) stroke volume and aortic forward flow. MR severity was similarly graded using the ASE algorithm, with quantification performed when necessary, by averaging the regurgitant volume from 3 methods: 1) the proximal isovelocity surface area method; 2) the biplane LV volumetric method; and 3) the mitral valve volumetric method. RESULTS: The study cohort had a median age of 61.7 years, with 55% being men. Primary MR was the predominant pathology (73% of patients), with 42% having mitral valve prolapse and 25% presenting with flail leaflets. There was exact agreement between transthoracic echocardiography and CMR MR grading in 51% of cases, whereas agreement within 1 grade was observed in 89%. Patients who met any of the ASE severe MR criteria were predominantly classified as having grades 3 to 4 MR by CMR. The following ASE parameters demonstrated high specificity for identifying grade 4 MR by CMR: pulmonary vein systolic flow reversal (specificity 88%), enlarged LV with normal systolic function (specificity 85%), proximal isovelocity surface area radius ≥1.0 cm (specificity 83%), and vena contracta width ≥0.7 cm (specificity 80%). Combining color Doppler with either pulmonary vein systolic reversal or enlarged LV with normal function resulted in 91%-95% specificity for severe MR. Importantly, reliance on fewer ASE criteria reduced the need for quantification from 86% (4 criteria) to 73% (3 criteria) and 59% (2 criteria), thereby enhancing diagnostic efficiency. CONCLUSIONS: Certain ASE criteria, especially when used in combination, are highly specific for diagnosing severe MR, even when <4 criteria are present. This study suggests that in many cases, the reliance on extensive quantification may be reduced, streamlining the diagnostic process and improving clinical workflow.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcmg.2026.07.025"
+ },
+ {
+  "idx": 68,
+  "journal": "J Am Heart Assoc",
+  "title": "Comparison of Unfractionated Heparin and Low-Molecular-Weight Heparin in Acute Cerebral Venous Thrombosis: A Subanalysis of the CLOT-VENUS Registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Optimal anticoagulation in acute cerebral vein thrombosis remains uncertain. We compared unfractionated heparin (UFH) and enoxaparin, and identified predictors of functional recovery and UFH responsiveness. METHODS: This retrospective 2-center study from the multicenter international CLOT-VENUS (Collaboration on Cerebral Venous Thrombosis) registry included adults with acute cerebral vein thrombosis treated with UFH or enoxaparin (2004-2024). Baseline clinical, laboratory, and imaging data were collected. UFH response was measured via a composite responsiveness index (Unfractionated Heparin Composite Response Index) based on partial thromboplastin time. The primary outcome was 6-month functional status (modified Rankin Scale [mRS]), and secondary outcomes included discharge mRS and death. RESULTS: Among 359 patients (median age, 40 [interquartile range, 28-54] years; 68.5% women), 220 (61.3%) received UFH and 139 (38.7%) enoxaparin. Only 64% of partial thromboplastin time values fell within the therapeutic range. UFH was associated with worse outcomes at discharge (mRS score, 3-6: adjusted odds ratio, 2.89; mRS score, 2-6: adjusted odds ratio, 1.90; ordinal mRS score, adjusted odds ratio, 1.56) and at 6 months (mRS score, 3-6: adjusted odds ratio, 2.63). Poor recovery was independently linked to the UFH composite responsiveness index and frequent infusion adjustments. Notably, in the sensitivity analysis limited to patients on UFH with ≥50%, ≥67%, and ≥79% therapeutic partial thromboplastin time values, the outcome differences diminished. Age was independently associated with UFH responsiveness, and female sex, body mass index, and NLR with the number of UFH infusion-rate adjustments. CONCLUSIONS: Treatment with UFH was associated with worse clinical outcomes compared with enoxaparin, largely attributable to suboptimal and inconsistent anticoagulation. However, when UFH achieves consistent therapeutic levels, the outcomes are comparable. Early predictors may help guide individualized anticoagulation strategies.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.046001"
+ },
+ {
+  "idx": 73,
+  "journal": "JACC Cardiovasc Imaging",
+  "title": "Left Ventricular Filling Pressure Classification by Electrocardiogram, Echocardiography, and Catheterization: Prognostic Implications.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Left ventricular diastolic filling pressure (LVFP) is a hallmark of heart failure. Although pulmonary artery wedge pressure (PAWP) measured during right heart catheterization (RHC) is the reference standard, echocardiography is more commonly used in practice. OBJECTIVES: The authors previously developed an artificial intelligence-enabled electrocardiographic (AI-ECG) algorithm, trained on echocardiographic assessment, to classify LVFP. The aim of this study was to evaluate the prognostic implications of LVFP classification by AI-ECG, echocardiography, and PAWP among patients undergoing temporally proximate testing. METHODS: Adults who underwent echocardiography with electrocardiography within 14 days and RHC within 30 days were included. Elevated LVFP was defined as PAWP ≥15 mm Hg, grade 2 or 3 diastolic dysfunction by echocardiography, or elevated LVFP as classified by AI-ECG. Associations with all-cause mortality and major adverse cardiovascular events were assessed. RESULTS: Among 4,168 patients (median age: 64 years; 47.7% women), elevated LVFP was classified by AI-ECG in 2,383 patients, by echocardiography in 1,643, and by PAWP in 1,841. AI-ECG showed good discrimination for echocardiographic LVFP (AUC: 0.879; 95% CI: 0.867-0.891) and moderate discrimination for PAWP (AUC: 0.711; 95% CI: 0.695-0.727). Over 7.7 years, 1,433 deaths occurred. Elevated LVFP classification by AI-ECG (adjusted HR [aHR]: 1.80; 95% CI: 1.55-2.09) and echocardiography (aHR: 1.74; 95% CI: 1.51-2.02) showed stronger associations with mortality than PAWP (aHR: 1.18; 95% CI: 1.05-1.31); in discordant cases, AI-ECG better predicted survival. Similar associations were observed for major adverse cardiovascular events. CONCLUSIONS: Despite moderate agreement with PAWP, echocardiography and AI-ECG showed stronger associations with clinical outcomes, suggesting they capture prognostically relevant myocardial information beyond resting hemodynamic status.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcmg.2026.08.016"
+ },
+ {
+  "idx": 78,
+  "journal": "J Am Heart Assoc",
+  "title": "Temporal Dynamics of Complement Activation and Outcome in Patients With Acute Ischemic Stroke.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Immune-mediated inflammatory responses exacerbate brain injury and affect the prognosis in acute ischemic stroke. METHODS: We characterized longitudinal complement activation after acute ischemic stroke using serial plasma samples from 10 patients and 8 controls. Initial markers of classical (C1q), lectin (mannose-binding lectin), and alternative (complement factor Bb) pathways, as well as regulatory (complement factor H) and downstream markers (C3a, C5a, and C5b-9) were measured by ELISA at 9 time points. RESULTS: Patients with stroke showed broad complement activation, with increased C1q, mannose-binding lectin, complement factor Bb, C3a, C5a, and C5b-9, and reduced complement factor H compared with controls. Complement components showed distinct temporal patterns during follow-up. Complement factor Bb levels were lower in patients with unfavorable functional outcome and in those with moderate-to-severe stroke. C1q and C3a trajectories differed according to functional outcome, whereas C3a trajectories also differed according to stroke severity. C1q trajectories differed according to age group and infarct volume. CONCLUSIONS: These findings suggest dynamic, pathway-specific complement activation after acute ischemic stroke and highlight the need for larger studies to clarify its prognostic and therapeutic relevance.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.048042"
+ },
+ {
+  "idx": 83,
+  "journal": "J Am Heart Assoc",
+  "title": "Joint Impacts of Ambient Air Pollution and Temperature on Cardiovascular Disease in West Florida.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Ambient temperature and fine particulate matter with an aerodynamic diameter ≤2.5 μm (PM2.5) are well-established contributors of acute cardiovascular events, but their joint short-term effects in subtropical coastal regions have not been well characterized. We evaluated their joint associations with major cardiovascular outcomes in West Florida. METHODS: We analyzed daily hospital admissions for myocardial infarction, heart failure, and stroke within the BayCare Health System from 2017 to 2024. Daily mean temperature and PM2.5 were obtained from national monitoring networks. Joint exposure-response relationships were estimated using distributed-lag generalized additive models with tensor-product interactions across lags 0 to 7 days, adjusting for temporal trends, day of week, and copollutants. Effect modification by age, sex, and race was examined. RESULTS: Temperature showed stronger short-term associations with cardiovascular risk than local PM2.5. Among adults aged ≥65 years, myocardial infarction risk was higher at lower temperatures, compared with higher temperatures (relative risk comparing the 75th versus the 25th percentile of the exposure distribution [RR75/25], 0.92 [95% CI, 0.89-0.95]). Heart failure exhibited a U-shaped temperature-risk relationship, with greater heat-related risk observed among younger adults (RR75/25, 1.05 [95% CI, 1.02-1.09]) and Black patients (RR75/25, 1.05 [95% CI, 1.02-1.09]). In contrast, PM2.5 showed weaker overall associations, with only a modest elevation in stroke risk among Black patients (RR75/25, 1.02 [95% CI, 0.96-1.08]). Joint exposure surfaces revealed outcome-specific nonlinear patterns, particularly for heart failure at higher temperature and PM2.5. CONCLUSIONS: Temperature and PM2.5 jointly influence short-term cardiovascular risk through nonlinear and subgroup-specific pathways, highlighting the need for integrated climate and air-quality strategies to reduce cardiovascular disparities.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049988"
+ },
+ {
+  "idx": 88,
+  "journal": "J Am Heart Assoc",
+  "title": "Global Prevalence of Adherence to Antihypertensives and Associated Moderating Factors Among Adults With Hypertension: A Meta-Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Hypertension is a significant public health issue affecting over a billion adults worldwide with adherence to antihypertensives being crucial for achieving sustained blood pressure control and reducing cardiovascular morbidity and mortality. To extend previous evidence, we conducted a meta-analysis on global prevalence of adherence to antihypertensives among adults. METHODS: A systematic search was conducted in Scopus, PubMed, Web of Science, Embase, and CINAHL. Pooled prevalence of antihypertensive medication adherence was estimated using generalized linear mixed-effects model in R software version 4.4.3. Cochran's Q, τ2, and I2$$ {I}^2 $$ statistics examined statistical heterogeneity with moderator analysis exploring sources of heterogeneity. Sensitivity analysis was analyzed using exact fixed-effects model. RESULTS: A total of 123 studies with 1 052 445 adults with hypertension were included. Pooled global prevalence of adherence to antihypertensives was estimated at 58% (95% CI, 52%-63%), with 39% for high adherence, 29% for moderate adherence, and 35% for low adherence. Results for sensitivity analysis were 57.91% (95% CI, 57.81%-58.01%) with δ̂ being 24.3%. Prevalence across continents was 67% for Europe, 65% for South America, 60% for Africa, 56% for Asia, and 45% for North America. Adherence to antihypertensives was similar across low-income countries (61%), high-income countries (58), upper-middle-income countries (57%), and lower-middle-income countries (56%). In multivariate model, age and assessment tool only were significantly associated with medication adherence. CONCLUSIONS: Globally, a large proportion of adults with hypertension exhibit moderate to low adherence to antihypertensive medications. Future studies should prioritize establishing consensus-based operational definitions and cutoff values to enhance adherence.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.047824"
+ },
+ {
+  "idx": 93,
+  "journal": "Heart Rhythm",
+  "title": "Stroke Risk-Based Anticoagulation After Atrial Fibrillation Ablation: ALONE-AF Post-Hoc Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Discontinuation of oral anticoagulant (OAC) in patients without recurrent atrial arrhythmia after ablation for atrial fibrillation (AF) has been demonstrated to reduce composite outcomes of stroke, systemic embolism, and major bleeding compared with continued OAC. OBJECTIVE: This study aimed to evaluate the optimal OAC strategy according to baseline stroke risk and AF recurrence. METHODS: In this post-hoc analysis of the Long-Term Anticoagulation Discontinuation after Catheter Ablation for Atrial Fibrillation (ALONE-AF) trial, patients were stratified according to CHA2DS2-VASc score ≤2 and ≥3. Within each stratum, outcomes were compared between the OAC discontinuation and continuation subgroups. The cumulative incidence of stroke, systemic embolism, and major bleeding at 2 years was estimated using the Kaplan-Meier method, with competing risk analysis accounting for AF recurrence. RESULTS: Among 840 patients, 584 and 256 had a CHA2DS2-VASc score ≤2 (mean age 62.0±7.5 years, 15.9% female) and ≥3 (mean age 68.9±7.3 years, 45.3% female), respectively. In the CHA2DS2-VASc ≤2 stratum, the primary outcome occurred in one patient (0.4%) in discontinuation subgroup vs. six (2.4%) in continuation subgroup (absolute difference -1.9 percentage points, P=0.066). In the CHA2DS2-VASc ≥3 stratum, two events (1.8%) occurred in the continuation subgroup only (absolute difference -1.8 percentage points, P=0.172). All major bleeding events (n=5) occurred in the continuation subgroups. Competing risk analysis yielded consistent results. CONCLUSIONS: In this exploratory post-hoc analysis, no statistically significant differences in outcomes were observed between OAC strategies when stratified by CHA2DS2-VASc score, though event numbers were limited. Larger prospective trials are needed to confirm these observations. TRIAL REGISTRATIONS: ClinicalTrials.gov Identifier: NCT04432220.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.009"
+ },
+ {
+  "idx": 98,
+  "journal": "Heart Rhythm",
+  "title": "Latent class analysis-derived patterns of comorbidities in patients with atrial fibrillation, adherence to integrated care and impact on long-term outcomes: an analysis from a prospective cohort.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Atrial fibrillation (AF) commonly coexists with multiple cardiovascular (CV) and non-CV comorbidities, which may cluster in distinct clinical phenotypes with different outcome implications. OBJECTIVE: We aim to identify comorbidity-based phenotypes in AF using latent class analysis (LCA), characterize their clinical course and assess the association of integrated care adherence with outcomes across phenotypes. METHODS: A LCA based on 11 conditions (CV and non-CV) was performed. The primary outcome was a composite of all-cause death, thromboembolic (TE) events, and acute coronary syndrome (ACS). Secondary outcomes were all-cause death and ACS/TE events. RESULTS: We included 1233 AF patients (median age 75 [66-82] years, females 37.5%). Four clinical LCA-derived phenotypes were identified: \"Low comorbidity\" (31.5%); \"Cardio-metabolic\" (33.9%); \"Elderly comorbid\" (22.9%); and \"Atherosclerotic-HF\" (11.8%). During a median follow-up of 542 days, 234 patients (22.7%) experienced the primary outcome. Compared to \"Low comorbidity\", \"Cardio-metabolic\" (aHR 1.64, 95% CI 1.13-2.39), \"Elderly comorbid\" (aHR 1.62, 95% CI 1.09-2.42) and \"Atherosclerotic-HF\" (aHR 2.81, 95%CI 1.83-4.34) phenotypes were independently associated with a higher risk of the primary outcome. Adherence to integrated care varied across phenotypes and was associated with a lower risk of adverse events, with no evidence of significant heterogeneity across phenotypes (p int=0.157). CONCLUSIONS: Latent class analysis identified distinct AF clinical phenotypes characterized by specific patterns of comorbidities and associated with different risk of adverse outcomes. The absence of significant heterogeneity in the association between integrated care and outcomes across phenotypes supports its potential value across different levels of clinical complexity in AF patients.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.011"
+ }
+]

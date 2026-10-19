@@ -1,0 +1,261 @@
+[
+ {
+  "idx": 1,
+  "journal": "Circulation",
+  "title": "Cardiovascular Complications of Chronic Liver Disease.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Chronic liver disease is an increasingly prevalent and heterogeneous syndrome with important consequences for cardiovascular function. As the global burdens of chronic liver disease and cirrhosis continue to rise, cardiovascular disease has emerged as a major driver of overall morbidity and mortality in affected patients. Despite the growing recognition of the intersectionality between hepatology and cardiology care clinically, cardiovascular disease risk among patients with liver disease is underrecognized. This state-of-the-art review summarizes the current understanding of the bidirectional interactions between the liver and the cardiovascular system. Shared mechanisms-including inflammation, endothelial injury, and neurohormonal overactivation-that contribute to the development of adverse myocardial remodeling, atherosclerotic cardiovascular disease, heart failure, arrhythmias, pulmonary vascular syndromes, and cirrhosis-associated cardiovascular syndromes are reviewed. A specific focus is placed on metabolic dysfunction-associated steatotic liver disease, the most common form of chronic liver disease, while highlighting the distinct cardiovascular manifestations associated with other types of chronic liver disease. These include alcohol-associated liver disease and infiltrative diseases that affect the liver and heart with cardiovascular implications across the spectrum from early stages of liver disease through cirrhosis. We discuss practical approaches to detecting liver disease, including the assessment of liver fibrosis noninvasively in individuals at risk. We discuss the approach to assessing cardiovascular risk through cardiac imaging, biomarkers, and cardiac functional testing once chronic liver disease is detected. Management considerations for commonly encountered cardiovascular conditions and a critical appraisal of the evolving evidence supporting cardiometabolic therapies in patients with chronic liver disease are discussed to underscore potential cardiovascular and liver benefits. Critical evidence gaps and future research priorities are identified, including the development and evaluation of liver-informed cardiovascular risk models, incorporation of cardiovascular end points into liver disease trials, and implementation of integrated cardiohepatometabolic care pathways. Improved recognition of chronic liver disease and related cardiovascular disease risk represents a major opportunity to facilitate earlier disease detection, enhance risk stratification, and improve outcomes across the spectrum of chronic liver disease.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.079443"
+ },
+ {
+  "idx": 6,
+  "journal": "JAMA",
+  "title": "Development and Validation of an Adult Medical Urgency Score for US Donor Heart Allocation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: One in 5 heart transplant candidates in the US die or are delisted without transplant. Donor hearts are currently allocated by a 6-status therapy-based system criticized for limited risk stratification and susceptibility to gaming. OBJECTIVE: To develop a new heart allocation policy based on an objective medical urgency score that ranks candidates based on the interaction between physiology and mechanical circulatory support. DESIGN, SETTING, AND PARTICIPANTS: Registry-based observational study using data from the US organ transplant system. All adult (aged ≥18 years) heart transplant candidates from January 2019 to August 2025 were included, split into training (2019-2023), validation (2023-2024), and test (2024-2025) datasets. MAIN OUTCOMES AND MEASURES: A marginal structural model of 6-week mortality without transplant was estimated (the US Candidate Risk Score [US-CRS]). Eight models were compared in held-out data by weighted time-dependent area under the curve (AUC) and calibration by status. Finally, US-CRS was converted into an allocation policy and a match-run simulation of waitlist reordering was performed compared with the current 6-status system. RESULTS: Adult heart transplant candidates were partitioned into consecutive training (n = 21 859), validation (n = 7897), and test (n = 8256) datasets (mean [SD] age, 53 [13] years; 74% male). The chosen US-CRS model included 5 laboratory values and 4 therapeutic devices (durable left ventricular assist device, intra-aortic balloon pump, microaxial flow pump, and advanced mechanical circulatory support). In test-set cross-sections of candidates actively waiting on the same calendar date, US-CRS had similar or significantly higher time-dependent AUC than the current 6-status system (mean AUC, 0.807 vs 0.693, respectively) and acceptable calibration by status, especially for candidates who received their status by exception. In match-run analysis (n = 45 530 donor hearts), a US-CRS-based system led to 67% of transplant recipients moving down in rank order and increased observed 6-week transplant-censored mortality for the first candidate on the match run from 11.2% (95% CI, 10.1%-12.5%) under the current system to 15.7% (95% CI, 13.9%-17.6%) under the US-CRS-based system. CONCLUSIONS AND RELEVANCE: In this registry-based study of US heart transplant candidates, a US-CRS-based allocation system prioritized sicker candidates with higher mortality without transplant compared with the current medical urgency statuses.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1001/jama.2026.17403"
+ },
+ {
+  "idx": 11,
+  "journal": "J Am Heart Assoc",
+  "title": "Exercise and Thoracic Aortic Aneurysms: A Paradigm Shift Toward Informed, Personalized Activity Guidelines.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Exercise is widely recognized for its cardiovascular benefits; however, its safety and role in patients with thoracic aortic aneurysms (TAAs) remains complex due to its distinctive biomechanical vulnerabilities. Fundamentally different from abdominal aortic aneurysms, TAAs develop from distinct pathophysiological processes that affect their hemodynamic responses to stressors and influence their risk of adverse aortic events. Exercise induces acute hemodynamic changes, including increased stroke volume, systolic and pulse pressures, and transient aortic stiffening. These changes impose mechanical stress on the aortic wall, potentially accelerating aneurysm progression or triggering adverse aortic events. Although moderate aerobic exercise generally appears safe with potential cardiovascular benefits, evidence supporting safe practices in TAAs is limited. Current guidelines frequently extrapolate from abdominal aortic aneurysm data, which overlook the specificities of the thoracic aorta. This review underscores the urgent need for comprehensive research, using advanced imaging, biomarker profiling, and real-time hemodynamic monitoring to understand how different exercise modalities and intensities affect TAAs. Well-designed prospective studies are crucial to improve risk stratification, optimize antihypertensive strategies, develop personalized exercise prescriptions, and provide evidence-informed guidance to patients. Perioperative strategies like prehabilitation and structured postoperative rehabilitation show promise but lack rigorous evaluation. Ultimately, this work advocates a paradigm shift from conservative inactivity toward informed, individualized physical activity regimens tailored to each patient's risk profile. This approach aims to maximize cardiovascular benefits while minimizing adverse aortic events, thereby improving overall health and quality of life in patients with TAAs.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.046671"
+ },
+ {
+  "idx": 16,
+  "journal": "JACC Cardiovasc Interv",
+  "title": "Immediate Versus Staged Complete Revascularization in Multivessel Disease and STEMI: A Meta-Analysis of Randomized Trials.",
+  "ptypes": [
+   "Journal Article",
+   "Meta-Analysis"
+  ],
+  "abstract": "BACKGROUND: For patients with ST-segment elevation myocardial infarction (STEMI) and multivessel disease, complete revascularization is recommended. The timing of nonculprit lesion intervention, either immediately during the index procedure or staged at a later time, has been investigated in randomized controlled trials (RCTs). OBJECTIVES: This study sought to perform a meta-analysis of RCTs comparing immediate vs staged complete revascularization in patients with multivessel disease presenting with STEMI. METHODS: We conducted a frequentist, pairwise meta-analysis. Studies were selected based on the following inclusion criteria: multicenter RCTs comparing immediate vs staged nonculprit revascularization in patients presenting with STEMI; exclusive use of second-generation (or newer) drug-eluting stents; a follow-up duration of ≥1 year; and publication in a peer-reviewed journal. The primary outcome of interest was all-cause mortality, whereas secondary outcomes included myocardial infarction (MI), cardiac death, and unplanned revascularization. Summary estimates were computed using random-effects models with inverse-variance weighting based on trial-level HRs and 95% CIs. The study protocol was registered on PROSPERO (CRD420251124207). RESULTS: After a systematic search, 4 randomized trials comprising 2,651 patients were included in the meta-analysis. The risk of all-cause death at 1-year was higher with immediate complete revascularization (HR: 1.50; 95% CI: 1.02-2.21; P = 0.04; prediction interval [PI]: 0.80-2.81; I2 = 0%; t2 = 0). Immediate complete revascularization reduced the risk of recurrent MI when using the protocol specified definitions which included procedural MI (HR: 0.58; 95% CI: 0.36-0.94; P = 0.02; PI: 0.22-1.54; I2 = 0%; t2 = 0.034) but did not reduce risk of spontaneous MI (HR: 0.91; 95% CI: 0.55-1.48; P = 0.90; PI: 0.41-2.00; I2 = 0%; τ2 = 0.00). The risk of cardiac death and unplanned revascularization was comparable between the treatment groups. CONCLUSIONS: In STEMI and multivessel disease, immediate complete revascularization may be associated with an increased risk of all-cause death at 1-year when compared with staged complete revascularization. The treatment effect on mortality should be interpreted cautiously because of the relatively low number of deaths across the 4 trials and the statistical fragility of the findings. The findings from this analysis do not support an immediate complete revascularization strategy in these patients.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcin.2026.07.033"
+ },
+ {
+  "idx": 21,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Temporal trends of heart failure epidemic in the Rotterdam Study over three decades.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIM: There is limited information on the heart failure (HF) epidemic and its temporal changes. Current research aimed to report the HF epidemic over the past three decades in the Rotterdam Study, covering the prevalence and incidence of HF, comorbidities and risk determinants. METHODS: Using data from the population-based Rotterdam cohort, three Epoch groups [Epoch 1990s (1989-1993, N=7,983), Epoch 2000s (1997-2001, N=7,738), and Epoch 2010s (2009-2014, N=6,170)] were identified, with a mean age of nearly 70 years. For each Epoch group, point prevalence at baseline and 5-year HF incidence rate, comorbidities at baseline, and HF risk determinants (using Cox proportional hazards models) were calculated. RESULTS: Point prevalence of HF was 3.3% in Epoch 1990s, 6.0% in Epoch 2000s, and 4.8% in Epoch 2010s, with an increase from the 1990s to 2000s followed by a decline in the 2010s, yielding an overall statistically significant upward trend (p<0.001). 5-year incidence of HF per 1,000 person-years was 16.3 (95%CI: 15.0 to 17.8), 10.3 (95%CI: 9.2 to 11.4) and 7.9 (95%CI: 6.9 to 9.0) in respective epochs, with a downward trend. Hypertension was the most common comorbidity in HF patients, followed by dyslipidemia and kidney dysfunction. The association of hypertension and diabetes with risk of incident HF decreased over time. Coronary heart disease (CHD), atrial fibrillation (AF) and stroke all showed increasing hazard ratios across groups. CONCLUSIONS: The prevalence of HF increased during the past decades in a population-based setting, while HF incidence declined. Hypertension and diabetes tended to become less critical risk factors for new-onset HF nowadays, while CHD, AF, and stroke showed trends toward stronger associations with HF risk over time.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag516"
+ },
+ {
+  "idx": 26,
+  "journal": "JACC Adv",
+  "title": "Atrial Septostomy and Left Ventricular Venting During Peripheral VA-ECMO.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Peripheral venoarterial (VA)-extracorporeal membrane oxygenation (ECMO) increases left ventricular (LV) afterload, and therefore the risk of LV distension, pulmonary edema, and cardiac stasis. Balloon atrial septostomy (BAS) provides atrial-level unloading, but the durability of LV venting remains uncertain. OBJECTIVES: This study aimed to evaluate the clinical effectiveness of BAS for LV venting in patients requiring peripheral VA-ECMO for cardiogenic shock (CS). METHODS: The authors conducted a retrospective study of consecutive adults with CS supported with peripheral VA-ECMO who underwent BAS for LV unloading at an academic center (2019-2024). The primary endpoint was LV venting failure, a composite of pulmonary edema, LV distension, spontaneous echocardiographic contrast, LV or aortic root thrombus, stroke due to ECMO, or escalation to additional mechanical support. RESULTS: A total of 28 patients were included in the study. BAS resulted in a significant reduction in mean left atrial pressure (20.5-13.5 mm Hg; P < 0.001). Durable LV venting was achieved in a subset of patients; however, LV venting failure occurred in 53.6%, driven primarily by pulmonary edema. Pulse-pressure trajectories differed according to eventual LV venting-failure status (interaction P = 0.018). Model-estimated pulse pressure was higher at 48 hours (P = 0.010) and 72 hours (P = 0.031) among patients who ultimately did not experience venting failure. CONCLUSIONS: Among patients receiving peripheral VA-ECMO for CS, BAS achieves atrial-level decompression and may provide durable LV venting in select patients, although venting failure remains common. Observed arterial pulse-pressure trajectories differed according to eventual LV venting failure status.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103344"
+ },
+ {
+  "idx": 31,
+  "journal": "J Am Coll Cardiol",
+  "title": "Early Discharge Strategy Including Subcutaneous Furosemide in Hospitalized Heart Failure.",
+  "ptypes": [
+   "Clinical Trial, Phase II",
+   "Journal Article",
+   "Multicenter Study",
+   "Randomized Controlled Trial"
+  ],
+  "abstract": "BACKGROUND: Patients hospitalized for heart failure often require prolonged intravenous diuretic therapy, contributing to costs and risks associated with inpatient care. OBJECTIVES: We evaluated whether an early discharge strategy using subcutaneous furosemide delivered via a wearable minipump could increase days alive and out of hospital (DAOH). METHODS: In this multicenter, open-label, randomized, active-controlled trial in the United Kingdom, 172 patients hospitalized for heart failure requiring ongoing parenteral diuretics were randomly assigned to an early discharge strategy or usual care. Patients in the early discharge group received pH-neutral subcutaneous furosemide via a wearable, patient-operated minipump; postdischarge care included a review every 3 days while receiving subcutaneous furosemide. Both groups had a 2-week clinic review. The primary outcome was DAOH at 30 days after randomization. RESULTS: A total of 92 patients were assigned to early discharge and 80 to usual care. The early discharge strategy resulted in 4.0 more DAOH at 30 days (95% CI: 2.1-5.8 days; P < 0.001). Index hospitalization was shorter by a mean of 5.5 days (95% CI: 7.4-3.6 days; P < 0.001). The benefit in DAOH was sustained at 60 days (difference 4.2 days; 95% CI: 0.9-7.6 days), despite more heart failure readmissions in the early discharge group (13 [14%] patients vs 5 [6%] patients; OR: 2.45; 95% CI: 0.81-7.43). Serious adverse events occurred in 25% and 23% of patients, respectively. Device-related problems occurred with 3% of minipump placements, but none were serious. CONCLUSIONS: An early discharge strategy using a subcutaneous furosemide minipump increased DAOH compared with usual care. (Use of a Novel SUBCUTaneous Preparation of Furosemide to Facilitate Early Supported Discharge of Patients With Heart Failure [SUBCUT-HF II]; NCT05419115).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacc.2026.07.047"
+ },
+ {
+  "idx": 36,
+  "journal": "JACC Adv",
+  "title": "Electrophysiologic Phenotype Outperforms Left Ventricular Ejection Fraction for Mortality Prediction in Immune Checkpoint Inhibitor Myocarditis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Immune checkpoint inhibitor (ICI)-associated myocarditis carries mortality rates approaching 50%. Risk stratification relies heavily on left ventricular ejection fraction (LVEF), yet many fatal cases occur despite preserved systolic function. OBJECTIVES: The study aims to compare the prognostic value of electrophysiologic involvement vs LVEF in ICI-associated myocarditis. METHODS: We systematically searched PubMed for ICI-associated myocarditis cases with extractable patient-level data. Electrophysiologic phenotype (EP) was defined by clinically significant conduction disease or ventricular arrhythmia, including high-grade atrioventricular block, ventricular tachycardia, ventricular fibrillation, or cardiac arrest. LVEF was dichotomized at ≤35%. Cluster-robust logistic regression was used to assess associations with mortality. RESULTS: From 242 publications, 319 cases were extracted; 180 with complete data comprised the analytical cohort (77 deaths; 42.8% mortality). EP involvement (66.7% of cases) was associated with significantly higher mortality vs EP-negative cases (55.0% vs 18.3%; risk ratio: 3.00; 95% CI: 1.72-5.24; P < 0.001). LVEF ≤35% was not significantly associated with mortality (50.7% vs 38.1%; P = 0.125). Among patients with an LVEF >35%, EP involvement was associated with markedly higher mortality (55.1% vs 11.4%; P < 0.001). In adjusted models, EP remained associated with mortality on both the odds-ratio scale (OR: 5.27; 95% CI: 2.29-12.13; P < 0.001) and risk-ratio scale (RR: 2.94; 95% CI: 1.54-5.59; P < 0.001), whereas LVEF ≤35% was not independently associated with mortality. CONCLUSIONS: Electrophysiologic involvement is a dominant prognostic marker in ICI-associated myocarditis, particularly for risk stratification among patients with an LVEF >35%. Risk stratification should prioritize cardiac rhythm monitoring and identification of conduction abnormalities over reliance on LVEF alone.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103337"
+ },
+ {
+  "idx": 41,
+  "journal": "J Am Heart Assoc",
+  "title": "Real-Life Psychological Experiences and Cardiac Autonomic Physiology Among Survivors of a Myocardial Infarction in Midlife.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Young and middle-aged women with ischemic heart disease have a higher burden of psychosocial factors compared with male counterparts. They also have worse morbidity and mortality, despite less atherosclerotic burden. Data on daily life stress and autonomic physiology could help guide targeted interventions. METHODS: We studied 302 individuals ≤61 years of age recently hospitalized for a myocardial infarction. All underwent a 7-day home monitoring of mood and stress using ecological momentary assessments, with concomitant Holter monitoring for autonomic physiology. Deceleration capacity, a prognostic marker of parasympathetic activity, was the primary autonomic outcome; heart rate variability was also examined. RESULTS: The sample was 43% women with mean age of 51 years (SD, 7 years). Across the week of monitoring, women reported higher levels of negative mood and stress than men. Women also exhibited significantly lower parasympathetic activity (daily average of deceleration capacity) than men; heart rate variability was also lower. Among women, daily negative mood was inversely associated with lower deceleration capacity: for each 1-log unit higher daily negative mood score, deceleration capacity declined 4.5% in women, but among men, the difference was close to zero: 0.5% (P=0.02 for interaction). Adjustment for other risk factors did not materially affect the associations. A similar pattern of results was observed for heart rate variability metrics. CONCLUSIONS: Young and middle-aged women who recently survived a myocardial infarction have more parasympathetic withdrawal than men in daily life, especially during moments of negative mood. These results underscore the need for greater attention to psychosocial management in women after myocardial infarction.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.052187"
+ },
+ {
+  "idx": 46,
+  "journal": "J Am Heart Assoc",
+  "title": "Early Introduction and Prolonged Full-Dose Anakinra Reduce Recurrence Risk After Discontinuation in Recurrent Pericarditis: An International Multicenter Cohort.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Anakinra is effective in recurrent pericarditis, yet optimal treatment duration and strategies for safe drug discontinuation remain uncertain. Identifying predictors of sustained remission after discontinuation is important for clinical management. METHODS: We retrospectively analyzed 185 consecutive adult patients with corticosteroid-dependent and colchicine-resistant refractory recurrent pericarditis across 16 international referral centers, who permanently discontinued therapy after clinical remission. The primary end point was pericarditis recurrence after drug discontinuation. Univariate and multivariable Cox proportional hazards regression and Kaplan-Meier analyses were performed to identify demographic, clinical, and therapeutic predictors of postdiscontinuation relapse. RESULTS: Among 185 patients who discontinued anakinra (58.4% women, mean age 50.4±17.8 years, 77% idiopathic cause), treatment was initiated a median of 10 months (interquartile range [IQR], 4.0-19.5) after the first episode and continued at 100 mg/d for a median of 6 months (IQR, 4-12). Over a median follow-up of 7.2 months (IQR, 1.5-23.3) after discontinuation, 68 patients (36.8%) experienced recurrence, with a median time to recurrence of 2.1 months (IQR, 0.7-8.5). Initiation within 12 months from the first pericarditis episode and maintenance of full-dose therapy (100 mg/d) for ≥6 months were independently associated with lower recurrence risk (hazard ratio [HR], 0.33 [95% CI, 0.18-0.66]; P=0.001 and HR, 0.48 [95% CI, 0.23-0.86]; P=0.017; respectively). CONCLUSIONS: Early initiation of anakinra and maintenance of full-dose therapy for at least 6 months are associated with a significantly lower risk of relapse after discontinuation and may inform treatment duration and discontinuation strategies in recurrent pericarditis.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050181"
+ },
+ {
+  "idx": 51,
+  "journal": "Circulation",
+  "title": "Bleeding With Asundexian Versus Placebo in Patients With Noncardioembolic Ischemic Stroke or High-Risk TIA: OCEANIC-STROKE Randomized Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: OCEANIC-STROKE (XXX) showed that asundexian added to antiplatelet therapy reduced ischemic stroke without significantly increasing bleeding in patients with noncardioembolic ischemic stroke or high-risk transient ischemic attack. We characterized bleeding categories, sites, and key subgroups. METHODS: In the safety population, 12 254 participants received at least 1 dose of asundexian (n=6124) or placebo (n=6130). Bleeding was categorized by International Society on Thrombosis and Haemostasis criteria as major, clinically relevant nonmajor (CRNM), or minor. While-on-treatment analyses included events through 2 days after the last dose, with death and permanent discontinuation as competing risks. RESULTS: Major bleeding occurred in 117 (1.9%) participants with asundexian and 107 (1.7%) with placebo (cause-specific hazard ratio [csHR], 1.10 [95% CI, 0.85-1.44]; P=0.46). Major or CRNM bleeding occurred in 339 (5.5%) and 307 (5.0%), respectively (csHR, 1.12 [95% CI, 0.96-1.30]; P=0.16), and any bleeding in 763 (12.5%) and 752 (12.3%) (csHR, 1.02 [95% CI, 0.93-1.13]; P=0.65). Treatment effects for major and major or CRNM bleeding were consistent across prespecified subgroups, including planned dual antiplatelet therapy. Symptomatic intracranial hemorrhage occurred in 41 (0.7%) and 36 (0.6%) participants. Any gastrointestinal bleeding occurred in 186 (3.0%) and 147 (2.4%) (csHR, 1.28 [95% CI, 1.03-1.59]), and lower gastrointestinal bleeding in 102 (1.7%) and 59 (1.0%) (csHR, 1.75 [95% CI, 1.27-2.41]), primarily rectal bleeding. Any procedure-related bleeding and any mucosal bleeding did not differ significantly. CONCLUSIONS: Asundexian added to antiplatelet therapy reduced ischemic stroke without significantly increasing major, major or CRNM, or any bleeding. Lower gastrointestinal bleeding was more frequent with asundexian, whereas treatment effects on major and major or CRNM bleeding were consistent across prespecified subgroups. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique Identifier: NCT05686070.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.081836"
+ },
+ {
+  "idx": 56,
+  "journal": "J Am Heart Assoc",
+  "title": "Residual Cardiovascular Risk Beyond Coronary Physiology: Complementary Prognostic Value of Trimethylamine N-Oxide in Patients Undergoing Coronary Computed Tomography Angiography With Computed Tomography-Derived Fractional Flow Reserve.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Coronary computed tomography (CT) angiography with CT-derived fractional flow reserve (CT-FFR) enables noninvasive identification of flow-limiting coronary stenosis and is widely used for risk assessment. However, adverse cardiovascular events still occur in a subset of patients without functionally significant ischemia, suggesting that physiological assessment alone may not fully capture patient-level risk. We aimed to evaluate whether circulating trimethylamine N-oxide (TMAO), a gut microbiota-derived biomarker, provides complementary prognostic information. METHODS: In this biobank-linked retrospective cohort study, 3978 patients undergoing clinically indicated coronary CT angiography with CT-FFR assessment were included. Serum TMAO concentrations were measured from cryopreserved samples obtained within ±30 days of imaging. Patients were stratified into high and low TMAO groups according to the receiver operating characteristic-derived threshold. The primary end point was major adverse cardiac and cerebrovascular events during a median follow-up of ∼3 years. Multivariable Cox models evaluated associations between TMAO and outcomes, and incremental prognostic value beyond clinical variables and CT-FFR was assessed. RESULTS: Event rates were similar across physiological strata (10.6% for CT-FFR ≤0.80 versus 10.0% for CT-FFR >0.80), indicating outcome heterogeneity beyond ischemia status. Higher TMAO levels were independently associated with major adverse cardiac and cerebrovascular events after adjustment for clinical covariates and CT-FFR (hazard ratio, 1.82 [95% CI, 1.44-2.31]; P<0.001). Addition of TMAO improved discrimination after bootstrap optimism correction (C-index 0.552-0.591). Among patients with preserved CT-FFR, elevated TMAO identified a subgroup with higher event rates, whereas patients with preserved CT-FFR and low TMAO had the most favorable prognosis. CONCLUSIONS: Physiological assessment and clinical outcomes are not synonymous in patients undergoing coronary CT angiography. Circulating TMAO provides complementary prognostic information and refines risk stratification, particularly among individuals without functionally significant ischemia. Integrating systemic biomarkers with coronary physiological assessment may improve individualized risk evaluation beyond imaging alone.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050221"
+ },
+ {
+  "idx": 61,
+  "journal": "Hypertension",
+  "title": "Aldosterone-Producing Lesions Harboring ATP1A1 and ATP2B3 Mutations: An International Multicenter Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Somatic aldosterone-driver mutations are identified in >90% of patients with primary aldosteronism undergoing adrenalectomy, and they display distinct demographic clustering. ATP1A1 and ATP2B3 mutations, encoding the Na+/K+ ATPase α1 subunit and the Ca2+ ATPase 3, respectively, are relatively rare and are often grouped as ATPase mutations. Differences in their clinical and biochemical phenotypes remain understudied. METHODS: This international collaboration of 16 centers included patients with primary aldosteronism harboring pathogenic variants in ATP1A1 and ATP2B3. Clinical data were collected from medical records. Where available, we compared histopathologic features and steroid profiles (from peripheral and adrenal vein samples) by liquid chromatography-tandem mass spectrometry. RESULTS: We included 300 patients (mean age, 57±11 years; 85% men) with aldosterone-producing lesions harboring ATP1A1 (204) and ATP2B3 (96) mutations. Age and sex distributions were similar. ATP2B3 mutations were associated with lower serum potassium, higher lateralization indices, and stronger contralateral suppression. Postoperative biochemical cure was achieved in 96% of patients with ATP2B3 mutations versus 83% of those with ATP1A1 mutations (P=0.02). Multiple CYP11B2-positive lesions were observed in 47% of ATP1A1 versus 27% of ATP2B3 cases (P=0.03). Baseline peripheral steroid profiling was available in 126 patients (84 with ATP1A1 and 42 with ATP2B3) and showed higher aldosterone concentrations in the ATP2B3 group (median [interquartile range], 31 ng/dL [20-43] versus 23 ng/dL [11-38]; P=0.03). CONCLUSIONS: ATPase mutations are most common in middle-aged men with lateralized primary aldosteronism. Compared with ATP1A1, ATP2B3 mutations are associated with a more severe primary aldosteronism phenotype, stronger lateralization, and higher rates of single aldosterone-producing lesions and postoperative biochemical cure.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/HYPERTENSIONAHA.126.27798"
+ },
+ {
+  "idx": 66,
+  "journal": "J Am Heart Assoc",
+  "title": "Multivariate Genomic Analysis Reveals Shared Genetic Architecture and Potential Therapeutic Targets for Atherosclerotic Cardiovascular Disease.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Atherosclerotic cardiovascular disease (ASCVD) is a leading cause of mortality worldwide and comprises multiple clinical phenotypes, but their shared genetic architecture remains incompletely defined. METHODS: We integrated genome-wide association study summary statistics for coronary artery disease, peripheral artery disease, large-artery atherosclerotic stroke, and carotid plaque using genomic structural equation modeling to derive a multivariable ASCVD common factor. We applied fine-mapping, multi-marker analysis of genomic annotation, transcriptome-wide association studies, Mendelian randomization, colocalization, mediation analysis, and virtual screening. RESULTS: We identified 289 linkage disequilibrium-independent lead single-nucleotide polymorphisms mapping to 177 genomic risk loci; 13 lacked corresponding genome-wide significant signals in the input genome-wide association studies. Eleven had prior genome-wide association study catalog association records, whereas no relevant records were identified for the loci represented by rs2294777 near SASH1 and rs4843053 near AKAP13. Fine-mapping prioritized 26 putative causal variants. Integrated functional summary-based imputation, multi-tissue transcriptome-wide association study, and multi-marker analysis of genomic annotation analyses implicated 123 genes. Enrichment analyses highlighted endothelial cells and H3K27ac-marked regulatory regions. Lipidomic analyses linked higher triacylglycerols and sterol esters to increased multivariable ASCVD common factor risk. Protein Mendelian randomization analyses in deCODE and Fenland prioritized aldehyde dehydrogenase 2 (ALDH2), phosphodiesterase 5A (PDE5A), HtrAserinepeptidase 1 (HTRA1), and transcription elongation factor A2 (TCEA2) as candidate targets. Colocalization supported a shared causal variant between TCEA2 and multivariable ASCVD common factor. Mediation analyses suggested partial mediation by diastolic blood pressure for ALDH2, PDE5A, and TCEA2 and by triglycerides for TCEA2. Virtual screening identified candidate compounds with favorable predicted binding to PDE5A and ALDH2. CONCLUSIONS: Integrating multivariate genome-wide association study with multi-omics and causal inference analyses identified shared genetic signals associated with ASCVD susceptibility and prioritized candidate protein targets, informing future functional studies and target validation.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050689"
+ },
+ {
+  "idx": 71,
+  "journal": "JACC Adv",
+  "title": "Algorithmic Guardrails for Echocardiography AI: Deep Feature Representations for Error Slicing and Selective LVEF Estimation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Automated echocardiography analysis using artificial intelligence (AI) currently lacks effective guardrails or oversight mechanisms to ensure its safe and reliable deployment. OBJECTIVES: This study investigated whether deep feature representations can identify echocardiograms at risk of misinterpretation by echocardiography AI-based left ventricular ejection fraction (LVEF) estimation models. METHODS: We retrospectively validated 2 state-of-the-art models for LVEF estimation, EchoNet (single-task model) and PanEcho (multitask foundation model), on 4,010 apical-4-chamber videos from 1,353 studies (n = 1,208) with biplane LVEF measurements in the MIMIC-IV-ECHO database (2017-2019). We extracted 4 deep feature representations from a view classifier, a left ventricle segmentation model, and the 2 validated LVEF estimation models. These features were evaluated for their ability to identify systematic misinterpretations (error slicing) and automatically exclude AI estimates for high-risk inputs (selective estimation). RESULTS: While PanEcho performed better relative to EchoNet (EchoNet minus PanEcho [Δ], Δmean absolute error: 0.31 [0.07, 0.55]; ΔR2: -0.07 [-0.11, -0.03]), both models systematically overestimated LVEF at lower values (proportional bias slope, EchoNet: -0.33 [-0.39, -0.28], P < 0.001, PanEcho: -0.31 [-0.36, -0.26], P < 0.001). All investigated deep feature representations identified error slices for both models. Shared error slices between the models revealed 2 common failure modes: contrast-enhanced echocardiograms and poor-quality apical-4-chamber views. Selective estimation using intermediate features from EchoNet achieved the best performance across both estimation models (area under risk-coverage curve, EchoNet: 5.04 [4.45, 5.66]; PanEcho: 5.21 [4.54, 5.92]). CONCLUSIONS: Deep feature representations can be leveraged to identify and automatically flag misinterpretation-prone echocardiograms, enabling promising guardrail mechanisms for the reliable deployment of echocardiography AI.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103333"
+ },
+ {
+  "idx": 76,
+  "journal": "JAMA",
+  "title": "Intraoperative Dobutamine Plus Norepinephrine to Prevent Postoperative Acute Kidney Injury in Septic Shock: A Randomized Clinical Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: International guidelines recommend dobutamine for management of septic shock and cardiac dysfunction with persistent hypoperfusion in adults based on very low-certainty evidence. Randomized trials are lacking on the effect of intraoperative dobutamine combined with norepinephrine vs norepinephrine on postoperative outcomes in patients with septic shock undergoing surgical source control. OBJECTIVE: To determine whether intraoperative dobutamine combined with norepinephrine reduces acute kidney injury (AKI) within 7 postoperative days in patients with septic shock undergoing surgical source control. DESIGN, SETTING, AND PARTICIPANTS: This randomized, open-label clinical trial in 39 tertiary hospitals in China enrolled adults with septic shock who were undergoing surgical source control between June 2024 and August 2025. Follow-up ended on November 15, 2025. INTERVENTION: Intraoperative, intravenous infusion of dobutamine (up to 5 µg/kg/min) combined with norepinephrine vs norepinephrine alone. MAIN OUTCOMES AND MEASURES: The primary outcome was new-onset AKI or worsening of preoperative AKI within 7 days after surgery, defined using Kidney Disease: Improving Global Outcomes (KDIGO) criteria. The 11 secondary outcomes included Sequential Organ Failure Assessment (SOFA) score on postoperative day 1 and urine output 1 hour post intervention. RESULTS: Among 584 patients (median [IQR] age, 67.5 [55.0-76.0] years; 192 [32.9%] females), new-onset or worsening AKI within 7 postoperative days occurred in 22.8% (66/290) randomized to receive dobutamine plus norepinephrine vs 34.7% (102/294) randomized to receive norepinephrine alone (adjusted risk ratio [ARR], 0.64 [95% CI, 0.49-0.83]). No significant differences were observed in 9 of the 11 secondary outcomes. SOFA scores on postoperative day 1 (adjusted difference, -0.53 [95% CI, -0.98 to -0.07]) were lower and urine output 1 hour post intervention (adjusted difference, 0.55 [95% CI, 0.03 to 1.07] mL/kg/h) was higher in the dobutamine plus norepinephrine group. Stage 2 and 3 AKI were lower in the dobutamine plus norepinephrine group compared with the norepinephrine alone group (stage 2: 4.8% vs 9.9%; ARR, 0.48 [95% CI, 0.26-0.88]; stage 3: 7.9% vs 13.6%; ARR, 0.56 [95% CI, 0.35-0.91]). Tachycardia (heart rate >100/min) occurred more frequently in patients receiving dobutamine and norepinephrine than norepinephrine alone. CONCLUSIONS AND RELEVANCE: Among adult patients with septic shock undergoing surgical source control, intraoperative dobutamine combined with norepinephrine reduced the incidence of new-onset or worsening AKI within 7 postoperative days compared with norepinephrine. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT06462313.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1001/jama.2026.21322"
+ },
+ {
+  "idx": 81,
+  "journal": "N Engl J Med",
+  "title": "Adult Attention Deficit-Hyperactivity Disorder.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Attention deficit-hyperactivity disorder (ADHD) is a medical condition that is present in approximately 2.5% of adults worldwide and manifests in a variety of different ways across the lifespan. Adults with ADHD often have coexisting psychiatric disorders such as anxiety, mood, sleep, substance use, and personality disorders and are at increased risk for coexisting somatic conditions such as obesity, cardiovascular and cerebrovascular disease, type 1 and type 2 diabetes, and immune and inflammatory conditions. Hence, such adults may be seen by clinicians providing care for a wide range of psychiatric and somatic conditions. Nevertheless, ADHD remains unrecognized and undiagnosed in many persons. Assessment requires interviewing of the patient for core ADHD symptoms, coexisting conditions, and their functional effects, which can be facilitated by using standardized rating scales. Key components of treatment are psychoeducation and psychostimulant or nonstimulant medication, mostly in combination with psychosocial interventions and lifestyle guidance.",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1056/NEJMcp2516040"
+ },
+ {
+  "idx": 86,
+  "journal": "J Am Heart Assoc",
+  "title": "Effectiveness of Discrete Strategies and Implementation Bundles for Improving Clinician Prescription of Clinical Practice Guideline-Recommended Medications for Atherosclerotic Occlusive Disease: A Systematic Review and Meta-Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: We sought to determine the effectiveness of discrete strategies and implementation bundles for improving clinical practice guideline (CPG) strongly recommended medication prescription to adults with atherosclerotic occlusive disease. METHODS: We searched MEDLINE, Embase, Cochrane Central Register of Controlled Trials, PsycINFO, and Cumulative Index to Nursing and Allied Health Literature (inception to December 9, 2025) for randomized controlled trials evaluating discrete strategies or implementation bundles for improving CPG strongly recommended medication prescription to adults with atherosclerotic occlusive disease. Two investigators screened titles/abstracts and full texts, extracted data, assessed risk of bias, and classified discrete strategies and implementation bundles. Random-effects models were used for meta-analysis. Grading of Recommendations Assessment, Development and Evaluation was used to assess certainty. RESULTS: We included 31 randomized controlled trials studying 29 unique discrete strategies and implementation bundles. The implementation bundle with the largest effect size for improving CPG strongly recommended medication prescription combined case management, team changes, continuous quality improvement, audit/feedback, and clinician and patient education (relative risk, 2.62 [95% CI, 2.08-3.29]; moderate certainty). Meta-regression analyses suggested that discrete strategies and implementation bundles using patient education were more effective at improving statin (P=0.037) and all CPG strongly recommended medication (P=0.006) prescription. Combining case management, team changes, facilitated relay of information, and audit/feedback reduced all-cause death and new vascular event risk. Team changes improved prescription of all CPG strongly recommended medications (relative risk, 1.23 [95% CI, 1.11-1.36]; moderate certainty) and reduced major adverse cardiac event risk. CONCLUSIONS: Combining case management, team changes, continuous quality improvement, audit/feedback, and clinician and patient education had the largest effect size for improving CPG strongly recommended medication prescription and improved patient outcomes. Team changes improved CPG strongly recommended medication prescription and reduced major adverse cardiac event risk.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.052304"
+ },
+ {
+  "idx": 91,
+  "journal": "JACC Adv",
+  "title": "Associations of Physical Activity and Diet Quality With Mortality and Cardiovascular Disease in Cardiovascular-Kidney-Metabolic Syndrome.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Physical activity (PA) and diet are cornerstones for cardiovascular disease (CVD) prevention, yet their associations with CVD within the cardiovascular-kidney-metabolic (CKM) framework remain unexplored. OBJECTIVES: This study aims to evaluate the independent and joint associations of PA and/or diet quality with mortality and incident CVD across CKM stages. METHODS: Our study included 339,074 UK Biobank participants (51.3% women, mean age 56.4 years) with CKM syndrome stage 0 to 4. PA was categorized as high (≥150 min/wk of walking or moderate-to-vigorous activity) or low using self-reported and accelerometer-measured data. Diet quality was classified as low/median/high. Cox proportional hazards models assessed associations with incident CVD, cause-specific CVD mortality, and all-cause mortality across CKM stages. RESULTS: High PA was associated with lower risks of all-cause mortality (HR: 0.76 [95% CI: 0.74-0.79]), composite CVD mortality (0.74 [0.70-0.77]), and incident composite CVD (0.90 [0.88-0.92]); for high diet quality, corresponding HRs (95% CIs) were 0.81 (0.77-0.85), 0.81 (0.75-0.88), and 0.87 (0.84-0.90). PA showed nonlinear associations with these outcomes, plateauing at approximately 2,500 metabolic equivalent min/wk. High PA combined with high diet quality showed stronger inverse associations with all-cause mortality (0.64 [0.60-0.68]), composite CVD mortality (0.61 [0.54-0.68]), and incident composite CVD (0.83 [0.79-0.88]). Significant multiplicative interactions between PA and diet quality were observed for stroke mortality, composite CVD, and heart failure. The joint associations with these outcomes were stronger at more advanced CKM syndrome stages. CONCLUSIONS: Beyond individual benefits, joint PA-diet modification was associated with lower risk of mortality and CVD across CKM stages, highlighting the value of integrated behavioral strategies.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103338"
+ },
+ {
+  "idx": 96,
+  "journal": "J Am Heart Assoc",
+  "title": "Association of Non-Cytochrome P450 3A4-Metabolized Statins Versus Atorvastatin With Major Adverse Cardiovascular Events in Patients With Cancer Receiving Tyrosine Kinase Inhibitors: A Propensity Score-Matched Target Trial Emulation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Tyrosine kinase inhibitors (TKIs) often undergo CYP3A4 (cytochrome P450 3A4) metabolism. Atorvastatin is a CYP3A4 substrate, whereas rosuvastatin and pitavastatin largely bypass this pathway. We evaluated whether statin choice was associated with major adverse cardiovascular events in TKI-treated patients with cancer. METHODS: Using TriNetX, we conducted an active-comparator, new-user target trial emulation among adults with cancer receiving their first TKI. The index date was the first statin dispensation; outcome ascertainment began on Day 30 and continued up to 3 years. Separate 1:1 propensity score-matched comparisons included rosuvastatin versus atorvastatin (primary; 2215 per group), pitavastatin comparisons, and a pooled non-CYP3A4 statin comparison. RESULTS: Among 10 843 eligible patients (mean age, 66.7 years; 60.7% male), rosuvastatin was associated with a lower major adverse cardiovascular events rate than atorvastatin (624 versus 769 events; hazard ratio [HR], 0.84 [95% CI, 0.76-0.93]). The proportional-hazards assumption was violated (P=0.042), so the HR was interpreted as a time-averaged association. The pooled comparison was concordant (HR, 0.87 [95% CI, 0.78-0.96]). The early-persistence Day-180 estimate was imprecise (HR, 0.90 [95% CI, 0.73-1.09]). CONCLUSIONS: Rosuvastatin use was associated with lower major adverse cardiovascular events than atorvastatin in TKI-treated patients with cancer. This observational finding is compatible with, but does not establish, a CYP3A4-mediated interaction. Residual confounding, nonaligned TKI and statin timing in part of the primary cohort, and lack of individual-level event-time data require prospective confirmation.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.053141"
+ },
+ {
+  "idx": 101,
+  "journal": "N Engl J Med",
+  "title": "Continuous Glucose Monitoring in Non-Insulin-Treated Type 2 Diabetes.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Continuous glucose monitoring (CGM) has been shown to be beneficial in persons with type 1 diabetes and others with insulin-treated type 2 diabetes, but its role in the treatment of persons with type 2 diabetes not being treated with insulin has needed further study. METHODS: In a 26-week trial conducted at 22 primary care practices in the United States, we randomly assigned adults with type 2 diabetes who were not using insulin to either CGM or routine care (control). The primary outcome was the glycated hemoglobin level at 26 weeks. Key CGM-measured secondary outcomes were tested hierarchically to control the type I error rate. RESULTS: A total of 145 participants were assigned to the CGM group, and 138 to the routine-care group. Participants ranged in age from 21 to 84 years. The mean (±SD) glycated hemoglobin level decreased from 8.8±1.3% at baseline to 7.2±1.1% at 26 weeks in the CGM group and from 8.7±1.2% to 8.0±1.4% in the routine-care group (adjusted mean difference, -0.9 percentage points; 95% confidence interval [CI], -1.1 to -0.6; P<0.001). The mean percentage of time that the CGM-measured glucose level was in the glucose-level range of 70 to 180 mg per deciliter was 21 percentage points higher (95% CI, 16 to 26) with CGM than with routine care (P<0.001). The between-group difference in the percentage of time that the glucose level was below 54 mg per deciliter was -0.17 percentage points (95% CI, -0.27 to -0.11; P<0.001 for noninferiority); the difference in the percentage of time that the glucose level was below 70 mg per deciliter was -0.20 percentage points (95% CI, -0.43 to -0.09; P<0.001 for noninferiority; P = 0.004 for superiority). No severe hypoglycemia events were reported. CONCLUSIONS: Among adults with type 2 diabetes that was not being treated with insulin and was being managed in a primary care setting, the use of CGM led to a greater reduction in the glycated hemoglobin level and to a lower risk of hyperglycemia than routine care. (Funded by Dexcom; CONNECT ClinicalTrials.gov number, NCT06601166.).",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1056/NEJMoa2608571"
+ }
+]

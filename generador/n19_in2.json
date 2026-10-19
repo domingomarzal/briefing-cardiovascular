@@ -1,0 +1,247 @@
+[
+ {
+  "idx": 2,
+  "journal": "Circ Cardiovasc Interv",
+  "title": "High-Potency P2Y12 Inhibitors Among Patients With Chronic Coronary Syndrome Undergoing PCI: An Analysis From the NCDR CathPCI Registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Clinical practice guidelines recommend the use of clopidogrel among patients with chronic coronary syndrome undergoing percutaneous coronary intervention. The frequency of high-potency P2Y12 inhibitors, such as ticagrelor or prasugrel, in this setting is not well known. METHODS: Using the National Cardiovascular Data Registry CathPCI registry, we analyzed patients with chronic coronary syndrome undergoing percutaneous coronary intervention from April 2018 to June 2024, excluding those discharged on oral anticoagulants. Temporal trends in high-potency P2Y12 inhibitor prescription were examined. A mixed-effects multivariable logistic regression model with a random intercept for hospital was used to identify patient-, procedural-, and institutional-level factors associated with high-potency P2Y12 inhibitor prescription while accounting for within-hospital clustering. Between-hospital variation was quantified using the median odds ratio. RESULTS: Among 783 977 patients across 1815 hospitals, 35% were prescribed a high-potency P2Y12 inhibitor at discharge. The use of high-potency P2Y12 inhibitors declined from 35% in 2018 to 31% in 2024 (P-trend=0.019), driven by a reduction in ticagrelor (from 29% to 23%, P-trend <0.001) despite a modest increase in prasugrel use (from 6.2% to 8%, P-trend=0.10). Male sex, prior myocardial infarction, and markers of procedural complexity (high-complexity/type C lesions, left main coronary artery, proximal left anterior descending artery, or use of mechanical circulatory support) were associated with higher odds of high-potency P2Y12 inhibitor prescription. In contrast, older age (≥75 years), prior stroke/transient ischemic attack, prior coronary artery bypass graft, severe renal dysfunction, and chronic total occlusion were associated with lower odds. University hospitals had lower odds of prescribing high-potency P2Y12 inhibitors, with considerable variability in prescription patterns among institutions (median odds ratio, 2.59). CONCLUSIONS: Nearly one-third of chronic coronary syndrome patients undergoing percutaneous coronary intervention were discharged on high-potency P2Y12 inhibitors, with decreasing trends over time. Practice patterns reflected perceived ischemic versus bleeding risk and significant institutional variation, underscoring opportunities for quality improvement and guideline alignment.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCINTERVENTIONS.126.016658"
+ },
+ {
+  "idx": 7,
+  "journal": "Eur J Heart Fail",
+  "title": "Sex-Based Differences in Chronic Heart Failure: a Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Sex-based disparities in patient enrollment and treatment effects in heart failure (HF) randomized controlled trials (RCTs) have been reported. We aim to systematically analyze sex-based enrollment and treatment effect differences in HF RCTs over time. METHODS: RCTs enrolling patients with chronic HF were systematically searched on PubMed-MEDLINE. Eligible trials included pharmacological or device-based interventions with a hard primary endpoint (mortality and hospitalization) and reporting enrollment of women. Sex-specific treatment effects (HR or RR) were extracted. Meta-analyses were performed using random-effects models, and pre-specified subgroup analyses were performed. RESULTS: A total of 56 RCTs (39 drug, 17 device) were included. The pooled proportion of women enrollment was 27.0% (95%CI: 22.0% to 32.4%) in drug trials and 25.3% (95%CI: 21.0% to 29.9%) in device trials. Women were more underrepresented in HF with reduced ejection fraction (HFrEF) than in HF with preserved EF (HFpEF) trials (21.0% vs 49.6%, p < 0.001). Among drug trials reporting sex-specific effects, the pooled sex interaction for RCTs reporting HR was 0.94 (95%CI 0.89-1.01) and RR was 0.81 (95%CI 0.68-0.96), suggesting potentially greater benefit for women. No interaction was observed between HFrEF and HFpEF trials (HR: p = 0.44; RR: p = 0.95). The pooled interaction estimate on event counts was 0.90 (95%CI 0.84-0.96). For devices, the pooled sex interaction for RCTs reporting HR was 1.05 (95%CI 0.90-1.22) and RR was 0.68 (95%CI 0.50-0.93). CONCLUSION: Women remain underrepresented in HF RCTs. Sex-stratified analyses suggest a potentially greater relative benefit of drug intervention in women, which might inform future RCTs. Further studies are required to investigate the mechanisms of these differences.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/ejhf/xuag318"
+ },
+ {
+  "idx": 12,
+  "journal": "JACC Cardiovasc Interv",
+  "title": "Frequency and Prognosis of Alternative Definitions of Occlusion Myocardial Infarction Across the Whole Spectrum of Acute Coronary Syndromes.",
+  "ptypes": [
+   "Journal Article",
+   "Comparative Study",
+   "Multicenter Study"
+  ],
+  "abstract": "BACKGROUND: Occlusion myocardial infarction (OMI) refers to a myocardial infarction caused by a persistent or transient, complete or near-complete coronary artery occlusion. Multiple definitions have been proposed, yet their frequency and comparative prognostic relevance remain unclear. OBJECTIVES: This study sought to evaluate the frequency and prognosis of previously proposed OMI definitions across the whole spectrum of acute coronary syndromes (ACS) from the MATRIX trial. METHODS: Five alternative OMI definitions were assessed: 1) culprit artery (CA) TIMI flow grade 0; 2) CA-TIMI flow grade 0-1; 3) CA-TIMI flow grade 0-2; 4) CA-TIMI flow grade 0-2 or TIMI flow grade 3 with cardiac troponin >30× upper reference limit; and 5) CA-TIMI flow grade 0-2 or CA-TIMI flow grade 3 with cardiac troponin >100× upper reference limit. The endpoint of interest was 1-year all-cause mortality. RESULTS: Among 6,558 patients with ACS, OMI frequency ranged from 37.8% for definition 1 to 76.1% for definition 4. OMI was independently associated with higher 1-year mortality according to definitions 1-4 (adjusted HR: 2.08 [95% CI: 1.56-2.78], 1.97[1.47-2.63], 1.70 [1.25-2.32], 1.47 [1.01-2.12], respectively) but not according to definition 5 (adjusted HR: 1.26 [0.90-1.75]). OMI definitions exclusively based on impaired CA flow (ie, definitions 1-3) improved discrimination, reclassification, and model fit when added to the conventional STE/NSTE-ACS classification. One-year mortality did not differ among patients with NSTE-ACS with OMI definition 1 or 2 compared with ST-segment elevation MI (STEMI) patients. CONCLUSIONS: OMI defined by impaired CA flow confers prognostic implications beyond the presence or absence of ST-segment elevation in a broad ACS population and identifies patients without ST-segment elevation with 1-year mortality similar to that of STEMI.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcin.2026.08.007"
+ },
+ {
+  "idx": 17,
+  "journal": "Circ Cardiovasc Interv",
+  "title": "Classification and Outcomes of Coronary Microvascular Disease in Myocardial Infarction and Angina With Nonobstructive Coronary Arteries.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Myocardial infarction with nonobstructive coronary arteries (MINOCAs) and angina with nonobstructive coronary arteries (ANOCAs) present diagnostic and therapeutic challenges. We assessed the frequency of coronary microvascular disease (CMD) and its subtypes in MINOCA compared with ANOCA and evaluated long-term cardiovascular outcomes. METHODS: Patients with nonobstructive coronary arteries undergoing invasive coronary function testing from 2012 to 2022 were prospectively enrolled and retrospectively classified as MINOCA or ANOCA (reference group). Myocardial infarction due to atherothrombosis, myocarditis, and Takotsubo syndrome were excluded. Invasive provocation testing was performed. CMD was classified as endothelium-independent (coronary flow reserve <2.5 with adenosine) and endothelium-dependent (<50% increase in coronary blood flow with acetylcholine). Major adverse cardiovascular events (cardiac death, nonfatal myocardial infarction, heart failure hospitalization, urgent revascularization, stroke) were recorded over 8 years. RESULTS: Of 622 patients, 73 (12%) had MINOCA (69% female, median age 56 years) and 549 (88%) ANOCA (72% female, median age 53 years). CMD was common in both groups (71% versus 64%; P=0.271), while endothelium-independent CMD was more frequent in MINOCA (41% versus 21%; P<0.001). Over a median follow-up of 4.5 years, major adverse cardiovascular events occurred more often in MINOCA (40% versus 11%; adjusted hazard ratio, 2.4; P=0.001). CMD predicted higher major adverse cardiovascular events in both MINOCA (hazard ratio, 3.6 [95% CI, 1.1-12.0]; P=0.038) and ANOCA (hazard ratio, 7.9 [95% CI, 2.9-21.8]; P<0.001). CONCLUSIONS: CMD is common in both MINOCA and ANOCA. The higher prevalence of endothelium-independent CMD in MINOCA suggests a potential mechanistic role in infarction. Patients with MINOCA have a worse prognosis than ANOCA, particularly when CMD is present.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCINTERVENTIONS.126.016552"
+ },
+ {
+  "idx": 22,
+  "journal": "J Am Heart Assoc",
+  "title": "Dapagliflozin After Transcatheter Aortic Valve Implantation According to Frailty in DapaTAVI Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Frailty is common in patients with severe aortic stenosis undergoing transcatheter aortic valve implantation and portends worse outcomes. Whether the benefit of posttranscatheter aortic valve implantation dapagliflozin differs by frailty is uncertain. METHODS: In this post hoc analysis, we investigated the efficacy of dapagliflozin according to frailty status in the DapaTAVI (Dapagliflozin in Patients Undergoing Transcatheter Aortic Valve Implantation) trial. Frailty was assessed through the Fatigue, Resistance, Ambulation, Illnesses, and Loss of Weight scale (robust=0, prefrail=1-2, frail=3-5). The primary outcome was the composite of all-cause death or worsening heart failure at 1 year. RESULTS: Among 1222 patients with baseline frailty assessment, 47.2% were frail, 40.3% prefrail, and 12.4% robust. Over 12 months, 215 patients (17.6%) experienced the primary end point. Patients who were prefrail and frail had higher risk than robust patients (adjusted hazard ratios [HRs], 1.88 [95% CI, 1.05-3.38] and 2.29 [1.29-4.07], respectively; P=0.004). Dapagliflozin was associated with a lower risk of the primary end point in patients who were frail (HR, 0.53 [95% CI, 0.36-0.77]) but not in those who were prefrail (HR, 1.01 [95% CI, 0.66-1.55]) or robust patients (HR, 1.26 [95% CI, 0.42-3.75]); P for interaction=0.021. There was no evidence that frailty modified the safety profile of dapagliflozin. CONCLUSIONS: Frailty was common and independently associated with worse outcomes after transcatheter aortic valve implantation. Dapagliflozin appeared to confer greater relative benefit in patients with frailty.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.051379"
+ },
+ {
+  "idx": 27,
+  "journal": "Nat Med",
+  "title": "Population-scale reconstruction of menopause dynamics reveals a physiological cliff at the final menstrual period.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Menopause reshapes female physiology, yet current understanding is limited by small longitudinal cohorts that characterize it as a gradual transition. Large-scale biomedical datasets remain underutilized because the final menstrual period (FMP) age is rarely recorded. Here we present a computational framework, inspired by astronomy, that reconstructs FMP-anchored trajectories from cross-sectional data by removing the blurring caused by variation in FMP age across individuals. Applying this to two independent cohorts totaling 300 million laboratory tests revealed a step-like physiological cliff at the FMP including endocrine, skeletal, hepatic, renal and lipid systems. These discontinuities are absent in male individuals, are concordant across populations and appear markedly attenuated by menopausal hormone therapy. Dysregulation began more than a decade before FMP. These findings support a systemic, quantifiable view of menopause and provide a generalizable strategy for recovering hidden biological trajectories applicable to other transitions such as puberty or disease progression.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s41591-026-04614-0"
+ },
+ {
+  "idx": 32,
+  "journal": "JACC Cardiovasc Interv",
+  "title": "Conduction System Versus Right Ventricular Pacing in Patients Undergoing TAVR: A Multicenter Propensity-Matched Study.",
+  "ptypes": [
+   "Comparative Study",
+   "Journal Article",
+   "Multicenter Study",
+   "Observational Study"
+  ],
+  "abstract": "BACKGROUND: Pacemaker implantation after transcatheter aortic valve replacement (TAVR) is common and has been associated with adverse clinical outcomes. Cardiac physiological pacing (CPP) may preserve ventricular synchrony and reduce heart failure (HF) events compared with right ventricular pacing (RVP). OBJECTIVES: This study sought to compare long-term clinical outcomes of CPP vs RVP in patients requiring permanent pacing after TAVR. METHODS: Registro de Estimulación Fisiológica-TAVR is a retrospective, multicenter nationwide registry including patients undergoing TAVR and pacemaker implantation within 30 days. Propensity score matching (1:1) was performed using baseline clinical and echocardiographic variables, yielding 466 matched pairs. The primary endpoint was the composite of cardiovascular death or HF hospitalization. Cox proportional hazards models were used for time-to-event analyses. Median follow-up was 24 months. RESULTS: In the propensity score-matched cohort, CPP was associated with a lower incidence of the primary endpoint than RVP (9.7% vs 17.6%; HR: 0.57; 95% CI: 0.39-0.83; P = 0.003). This difference was driven by fewer HF hospitalizations (7.9% vs 13.9%; HR: 0.57; 95% CI: 0.37-0.86; P = 0.008). No significant differences were observed in cardiovascular death or all-cause mortality between groups. CONCLUSIONS: In this multicenter propensity score-matched study, CPP after TAVR was associated with a lower risk of the primary endpoint, driven by fewer HF hospitalizations. These findings support the need for further randomized clinical trials to evaluate the role of CPP in post-TAVR patients requiring ventricular pacing.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcin.2026.08.008"
+ },
+ {
+  "idx": 37,
+  "journal": "J Am Heart Assoc",
+  "title": "Contemporary Analysis of the Volume-Outcome Relationship for Patients With Nontraumatic Subarachnoid Hemorrhage.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Nontraumatic subarachnoid hemorrhage (SAH) carries a substantial mortality burden and risk of long-term morbidity. Although prior investigations have demonstrated an inverse association between SAH admission volume and in-hospital mortality, reported thresholds remain broad. Importantly, the relative importance of both admission and procedural volume has yet to be evaluated on a national scale. We examined the association of volume metrics with outcomes in an SAH cohort. METHODS: All adult (≥18 years) hospitalizations with a primary diagnosis of nontraumatic SAH were identified from the 2016 to 2022 Nationwide Readmissions Database. Multivariable regression models were developed to evaluate the independent and joint associations of SAH admission and clipping and coiling procedural volume with in-hospital outcomes. RESULTS: Of an estimated 142 271 hospitalizations, index mortality was 20.2%. Following risk adjustment, both increasing SAH admission volume and clipping and coiling procedural volume were independently associated with reduced mortality. When modeled jointly, however, clipping and coiling procedural volume remained an independent predictor of mortality (adjusted odds ratio, 0.981 per 10 procedures, P<0.001) whereas SAH admission volume was no longer significant (P=0.40). CONCLUSIONS: Joint examination of SAH and clipping and coiling procedural volume revealed procedural caseload to be the dominant predictor of in-hospital mortality, suggesting that survival benefits historically attributed to admission volume may be more precisely explained by procedural expertise. These findings support reexamination of volume-based benchmarks in contemporary cerebrovascular care frameworks.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050933"
+ },
+ {
+  "idx": 42,
+  "journal": "Europace",
+  "title": "Cellular consequences of non-ablative radiotherapy, a novel approach to ventricular tachycardias.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: Radiotherapy (RT) with a single application of ionizing radiation (STAR) has been suggested as a non-invasive alternative to radiofrequency in ablating ventricular tachycardia (VT). Emerging data reveal that STAR may suppress VT without substrate destruction, by enhancing impulse conduction instead, through increased expression of NaV1.5 channels and connexin 43. The study aims to investigate electrophysiology and intracellular Ca2+ dynamics in cardiomyocytes (CMs) from mice subjected to in-vivo RT. The emerging data led us to evaluate biochemical changes potentially linking electrophysiological response to ionizing irradiation. METHODS: CMs isolated 2 weeks after RT with low-dose (15 Gy) or high-dose (25 Gy) were compared to those of sham-treated mice (CTRL). We evaluated: i) the properties of the transient (INaT) and sustained (INasus) components of INa; ii) AP parameters, including the prevalence of Early After-Depolarizations (EADs); iii) intracellular Ca2+ dynamics; iv) CaMKII phosphorylation and v) ROS content. RESULTS: 25 Gy RT i) increased INaT and, to a larger extent, INasus (increased INasus/INaT ratio); ii) increased AP amplitude, +dV/dtMAX and duration (APD) and facilitated EADs; iii) depressed intracellular Ca2+ dynamics. 15 Gy RT had similar but smaller effects (dose-dependency). 25 Gy RT reduced CaMKII phosphorylation but increased cell ROS content, thus providing a mechanism for the late component of INa (INaL) enhancement. CONCLUSIONS: The results support the view that STAR may supress VT by increasing conduction velocity, with APD prolongation providing an additional mechanism. On the other hand, INasus enhancement and Ca2+ handling depression may impair electrical stability and contractility in the irradiated region.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag282"
+ },
+ {
+  "idx": 47,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Lipoprotein(a) and long-term revascularization burden: a recurrent-event analysis of the UK Biobank.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: To investigate whether elevated Lp(a) is independently associated with cumulative coronary, peripheral, and carotid revascularization burden in a primary prevention cohort. METHODS AND RESULTS: We analysed 237 729 UK Biobank participants of European ancestry free of ASCVD at baseline, followed for a median of 14.1 years. Lp(a) was analysed using the ESC/EAS 2025 threshold of 105 nmol/L and continuously (per 50 nmol/L increment). The primary outcome was the total number of coronary, peripheral, and carotid revascularization procedures per person. Given the genetically determined, lifelong nature of Lp(a) exposure, to capture the full sequence of procedures over time, rather than time-to-first-event alone, we applied recurrent-event statistical models, including the Andersen-Gill model, negative binomial regression, and the Prentice-Williams-Peterson gap-time model. Overall, 10 731 revascularization procedures occurred in 237 729 participants. The proportion undergoing ≥1 procedure was higher with Lp(a) ≥ 105 vs. <105 nmol/L (4.36% vs. 2.96%), with larger differences for ≥2 (1.53% vs. 0.95%) and ≥3 procedures (0.36% vs. 0.18%). In Andersen-Gill analysis, Lp(a) ≥ 105 nmol/L was associated with a higher revascularization rate (HR 1.50, 1.42-1.60), with a 55% higher rate of revascularization procedures during follow-up by negative binomial regression (IRR 1.55, 1.45-1.65). The association was strongest for the first procedure (HR 1.48, 1.40-1.56), attenuated for the second (HR 1.28, 1.09-1.50), and non-significant for the third (HR 1.23, 0.94-1.62). Findings were consistent across coronary and peripheral territories. CONCLUSION: In this large primary prevention cohort, elevated Lp(a) was independently associated with a higher long-term revascularization burden across multiple vascular territories. The association was robust for coronary, supportive for peripheral, and inconclusive for carotid revascularization owing to limited statistical power. These findings, derived from recurrent-event methodology, provide a more complete quantification of Lp(a)-associated cardiovascular procedural risk than time-to-first-event analyses alone.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag499"
+ },
+ {
+  "idx": 52,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Event-Weighted Desaturation Burden and Cardiovascular Mortality in Sleep Apnoea: Findings from a Large Community-Based Prospective Cohort.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: Obstructive sleep apnoea's prognostic value is limited by reliance on the apnoea-hypopnoea index (AHI), which fails to capture physiological heterogeneity of respiratory events. We developed a composite metric, event-weighted desaturation burden (EWDB), integrating weighted respiratory event load, regularity of consecutive inter-event intervals, and cumulative desaturation area. We evaluated its association with cardiovascular mortality and its incremental prognostic value compared with AHI and established hypoxic metrics. METHODS: We analysed 4,904 adults from the Sleep Heart Health Study with baseline polysomnography and adjudicated follow-up. EWDB was derived by combining a respiratory weighted index, a distribution factor based on inter-event interval regularity, and event-linked hypoxic burden (HB). RESULTS: The primary outcome was cardiovascular mortality. Over a median follow-up of approximately 11 years, 341 cardiovascular deaths occurred. In fully adjusted multivariable Cox models, higher EWDB was independently associated with cardiovascular mortality. However, AHI and HB associations were attenuated and lost statistical significance after full adjustment. EWDB (per 1-SD increase) remained robustly associated with cardiovascular mortality, whereas AHI did not. Incorporating EWDB into a comprehensive clinical model provided incremental risk stratification. Similar robust associations were observed for fatal coronary heart disease and incident heart failure. CONCLUSIONS: EWDB was independently associated with cardiovascular mortality and provided incremental prognostic information beyond established clinical and sleep-related factors in this cohort. By integrating respiratory event intensity, cumulative burden, and inter-event interval regularity, EWDB may better characterize cardiovascular stress related to sleep-disordered breathing.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag521"
+ },
+ {
+  "idx": 57,
+  "journal": "Circ Res",
+  "title": "Calprotectin Accelerates Pathogenic Calciprotein Particle Maturation to Promote Vascular Calcification in Chronic Kidney Disease.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Vascular calcification is a hallmark of chronic kidney disease (CKD)-mineral and bone disorder and a major determinant of cardiovascular mortality. Secondary calciprotein particles (CPP2) are key mediators of vascular calcification; however, the mechanisms regulating their maturation and pathogenic properties remain incompletely understood. CPT (Calprotectin, S100A8/A9), a myeloid-derived inflammatory mediator, is elevated in CKD and predicts cardiovascular events and mortality, particularly under high-phosphate conditions, but the underlying mechanisms remain unclear. METHODS: We investigated the role of CPT in vascular calcification using CKD-mineral and bone disorder mice with myeloid-specific CPT deletion. Aortic calcification was assessed by ex vivo imaging, histology, and calcium quantification. Serum calciprotein particle (CPP) fractions were determined by flow cytometry. Mechanistic studies were performed in vascular smooth muscle cells exposed to CPP2 in the presence or absence of macrophage-derived CPT. Calcification propensity was evaluated using the T50 assay, and CPP2 elemental composition was analyzed by high-angle annular dark-field scanning transmission electron microscopy-energy-dispersive X-ray spectroscopy. RESULTS: Myeloid-specific CPT deletion significantly attenuated aortic calcification and osteogenic gene expression in CKD-mineral and bone disorder mice without altering renal function or systemic mineral parameters. These changes were accompanied by an increased circulating immature CPP fraction. Macrophage-derived CPT markedly enhanced CPP2-induced vascular smooth muscle cell calcification by accelerating CPP maturation, reflected by a shortened T50, and by altering CPP2 composition to be enriched in calcium and phosphate. Although no direct interaction between CPT and CPPs was detected, CPT modified the physicochemical milieu, including ionized calcium and pH. Consistently, CPP2 from CPT-deficient serum exhibited substantially reduced calcification potency, indicating that CPT shapes CPP pathogenicity by modulating particle quality rather than quantity. Importantly, CPT-mediated CPP maturation occurred in a cell-free milieu, indicating a TLR4-independent mechanism distinct from its known receptor-mediated actions. CONCLUSIONS: CPT is a previously unrecognized regulator of pathogenic CPP maturation and composition, thereby promoting vascular calcification in CKD-mineral and bone disorder. Targeting CPT may represent a novel therapeutic strategy to attenuate vascular calcification in CKD.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCRESAHA.126.328252"
+ },
+ {
+  "idx": 62,
+  "journal": "Nat Med",
+  "title": "Real-world, digital-first delivery of GLP-1 receptor agonist therapy in women.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have demonstrated substantial weight reduction and cardiometabolic benefit in randomized trials; however, prospective implementation evidence from digital care models and female sex community populations remains limited. Here we report outcomes from an observational study of 8,127 women initiating GLP-1RA therapy (99.8% tirzepatide) through a structured digital program incorporating mandatory biochemical monitoring, weekly video-supported follow-up and clinician-guided dose titration in the UK. Mean weight reduction was 16.1 kg (95% confidence interval 15.9 to 16.2; P < 0.001), representing 15.5% of baseline weight; 83.1% achieved ≥10% and 22.4% achieved ≥20% weight loss, with consistent responses across age, baseline weight and socioeconomic strata. Among participants with paired biomarker data, mean glycated hemoglobin decreased by 3.3 mmol mol-1 (95% confidence interval 3.1 to 3.4; P < 0.001), normalizing in 84.5% of those with baseline diabetes-range values and 96.3% with prediabetes, and lipid parameters improved significantly (reductions in total cholesterol of 0.77 mmol l-1, low-density lipoprotein cholesterol of 0.61 mmol l-1 and triglycerides of 0.47 mmol l-1). Retention was 91.4% at 6 months, with no serious treatment-related adverse events. These findings support the feasibility of delivering structured, digitally enabled obesity pharmacotherapy at scale and provide prospective real-world implementation evidence for this care model. Interpretation is limited by the observational design, absence of a comparator group, self-pay population and 6-month follow-up.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s41591-026-04687-x"
+ },
+ {
+  "idx": 67,
+  "journal": "JAMA",
+  "title": "Effect of Vasopressin Initiation Threshold on Septic Shock Mortality: The VASSPR Cluster Crossover Randomized Strategy Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: The optimal vasopressor dose at which to initiate a second vasopressor in patients with septic shock is uncertain. OBJECTIVE: To compare the effects of hospital-level strategies initiating vasopressin infusion at a lower threshold vs a higher threshold on outcomes in patients with septic shock. DESIGN, SETTING, AND PARTICIPANTS: Cluster-randomized, cluster-crossover, pragmatic clinical strategy trial including adult patients receiving vasopressors for septic shock at 13 hospitals in Idaho and Utah from February 1, 2024, to July 31, 2025. The last day of follow-up for the primary outcome was February 17, 2026. INTERVENTION: Hospital-level implementation of septic shock management strategies recommending fixed-dose vasopressin initiation when the total dose of other vasopressors reached 0.1 µg/kg/min of norepinephrine or equivalent (lower-threshold strategy) or when the total dose of other vasopressors reached 0.4 µg/kg/min of norepinephrine or equivalent (higher-threshold strategy). Hospitals were randomized for the first month to an initial strategy (6 hospitals to the lower threshold vs 7 hospitals to the higher threshold) and then crossed over to the alternate strategy monthly thereafter. MAIN OUTCOMES AND MEASURES: The primary outcome of 28-day mortality and the key secondary outcome of kidney replacement therapy-free days through day 28 were analyzed using multivariable generalized linear mixed-effects models, accounting for trial site and baseline patient characteristics. RESULTS: There were 3959 unique patients with septic shock (median age, 68 [IQR, 57 to 77] years; 1903 [48%] were female). Of the patients more likely to experience differential management under the tested hospital-level vasopressin dose strategies (maximum vasopressor dose ≥0.07 µg/kg/min of norepinephrine or equivalent), 1034 of 1521 (68.0%) cared for under the lower-threshold strategy received vasopressin compared with 651 of 1526 (42.7%) cared for under the higher-threshold strategy. In the hospital-level strategy recommending a lower-dose threshold for vasopressin initiation, the maximum vasopressor dose received prior to vasopressin initiation was a median of 0.14 (IQR, 0.10 to 0.22) µg/kg/min of norepinephrine or equivalent vs 0.34 (IQR, 0.16 to 0.42) µg/kg/min of norepinephrine or equivalent in the hospital-level strategy recommending a higher-dose threshold for vasopressin initiation. Mortality at 28 days occurred in 628 of 1975 patients (31.8%) treated with the hospital-level strategy recommending initiation of vasopressin at a lower-dose threshold of other vasopressors vs 655 of 1984 patients (33.0%) treated with the higher-threshold strategy (adjusted marginal odds ratio, 0.98 [95% CI, 0.87 to 1.06], P = .62; adjusted risk difference, -0.4 [95% CI, -2.7 to 1.3] percentage points). Patients in both strategies for vasopressin initiation had a median of 29 (IQR, -1 to 29) kidney replacement therapy-free days (adjusted marginal odds ratio, 1.01 [95% CI, 0.91 to 1.14]). CONCLUSIONS AND RELEVANCE: In this large, pragmatic clinical trial comparing the effectiveness of 2 hospital-level strategies for second-line vasopressor management in septic shock, a strategy recommending initiation of vasopressin at a lower dose of other vasopressors did not reduce 28-day mortality compared with a strategy recommending vasopressin initiation at a higher dose of other vasopressors. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT06217562.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1001/jama.2026.21333"
+ },
+ {
+  "idx": 72,
+  "journal": "JACC Adv",
+  "title": "Intravascular Imaging-Guided Drug-Eluting Stenting for Complex Coronary Lesions: A Meta-Analysis of Randomized Controlled Trials.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Intravascular imaging (IVI) guidance improves percutaneous coronary intervention (PCI) outcomes, yet recent randomized controlled trials (RCTs) challenged these findings. OBJECTIVES: This study aimed to evaluate the efficacy and safety of IVI-guided vs angiography-guided PCI in complex coronary lesions, incorporating recent large-scale trials with divergent findings. METHODS: The authors conducted a meta-analysis of RCTs evaluating IVI-guided vs angiography-guided PCI among patients with complex coronary lesions. The primary outcomes were major adverse cardiovascular events (MACE) and cardiac death. Pooled risk ratios (RRs) with 95% CIs were calculated using frequentist random-effects models and complementary Bayesian analyses. The analysis was complemented by several sensitivity and subgroup analyses. RESULTS: Eighteen RCTs enrolling 18,975 patients were included. IVI guidance was associated with significant reductions in MACE (RR: 0.67; 95% CI: 0.55-0.83), cardiac death (RR: 0.72; 95% CI: 0.53-0.97), myocardial infarction (RR: 0.87; 95% CI: 0.76-0.998), clinically driven target lesion revascularization (RR: 0.72; 95% CI: 0.51-0.999), and stent thrombosis (RR: 0.52; 95% CI: 0.35-0.78). A significant geographic interaction was identified for MACE, with benefit predominantly driven by Asian trial populations (Pinteraction < 0.01). In subgroup analysis, patients achieving imaging-defined stent optimization were associated with lower event rates than those who did not (RR: 0.41; 95% CI: 0.26-0.62). CONCLUSIONS: IVI guidance reduces the risk of adverse events for complex lesions. The benefit was in part driven by achieving imaging-defined stent optimization.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103340"
+ },
+ {
+  "idx": 77,
+  "journal": "Europace",
+  "title": "Coexistance of Carotid Sinus Hypersensitivity and Orthostatic Hypotension in Patients with Unexplained Syncope.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Carotid sinus hypersensitivity (CSH) and orthostatic hypotension (OH) are established causes of syncope but are often considered separate entities. However, evidence suggests that CSH and OH may coexist and jointly contribute to syncope. This study investigates the relationship between CSH and OH in patients with unexplained syncope. METHODS: A total of 1,908 patients aged ≥40 years (age, 63.7 ± 13.0 years; men, 45.3%) with unexplained syncope underwent carotid sinus massage (CSM) and head-up tilt testing (HUT). Occurrence of CSH in classical and delayed OH, including asystolic CSM responses was analysed. RESULTS: Six-hundred-and-eighteen patients (32.4%, 68.9 ± 11.3 years) had OH, while CSH was present in 320 patients (16.8%, 72.2 ± 9.9 years), and was more common in patients with OH than without OH (24.1% vs. 13.3%, p < 0.001). Among patients with CSH, 46.6% also had OH. CSH occurred equally in both classical OH (62/275, 22.5%) and delayed OH (87/345, 25.2%). Among OH patients, CSH was associated with older age, male sex, lower supine diastolic blood pressure, hypertension, and syncope-related hospital admission. An asystolic CSM response was observed more often in OH patients (n = 42; 6.8%) compared with non-OH patients (n = 44, 3.4%, p < 0.001) and was associated with older age and lower resting heart rate. CONCLUSIONS: CSH and OH frequently coexist in adults over 40 years evaluated for syncope. CSM may reveal a clinically relevant cardioinhibitory reflex in a subgroup of OH patients, supporting comprehensive cardiovascular autonomic testing in unexplained syncope.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag295"
+ },
+ {
+  "idx": 82,
+  "journal": "Eur J Heart Fail",
+  "title": "Diagnostic Accuracy of NT-proBNP thresholds in Dyspneic Patients in the Emergency Department according to patients' characteristics: A Systematic Review and Meta-Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Concentrations of N-terminal pro-B type natriuretic peptide (NT-proBNP) is central to acute heart failure (AHF) diagnosis in dyspneic emergency departments (ED) patients, but optimal thresholds remain uncertain. This study aimed to evaluate the diagnostic accuracy of various NT-proBNP thresholds for AHF, across the general population and these key subgroups. METHODS: A systematic review and meta-analysis were conducted, including studies published up to August 28, 2025, that reported the diagnostic performance of NT-proBNP thresholds for AHF in dyspneic ED patients. RESULTS: The analysis included 31 studies comprising 26,948 patients. To exclude AHF, a fixed threshold of ≤300 ng/L yielded an area under the receiver operator characteristic curve (AUC) of 0.73 (0.69-0.77), with high sensitivity of 97.9% (96.9-98.5) and lower specificity of 46.2% (36.4-56.2); the negative predictive value of this threshold was 97.0% (96.5-97.4). Age-dependent thresholds (≥450 ng/L for patients aged <50 years, ≥900 ng/L for those aged 50-75 years, and ≥1,800 ng/L for those aged ≥75 years), evaluated in 14,410 patients, achieved an AUC of 0.84 (0.83-0.85) with a more favorable balance between sensitivity of 85.9% (85.0-86.7) and specificity of 82.0% (81.2-82.9). In patients with CKD (N=2,271), all fixed thresholds yielded AUC <0.80; age-dependent thresholds showed an AUC of 0.77 (0.75-0.78) with specificity of 62.6% (59.4-65.7). In patients with obesity (body mass index ≥30), only age-dependent thresholds were assessed, in 3,562 patients; AUC was 0.82 (0.81-0.84) and sensitivity was 81.2% (79.2-83.1), broadly comparable to the overall population. CONCLUSION: A threshold ≤300 ng/L provides excellent rule-out performance for AHF, while age-dependent NT-proBNP thresholds offer superior diagnostic performance for ruling in AHF in the ED compared to fixed thresholds, and demonstrate consistent accuracy across subgroups. However, evidence in patients with CKD and obesity remains limited, both in terms of sample size and the range of thresholds evaluated.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/ejhf/xuag314"
+ },
+ {
+  "idx": 87,
+  "journal": "Heart Rhythm",
+  "title": "Steatotic liver disease phenotypes and stroke risk in patients with atrial fibrillation: A nationwide population-based cohort study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The updated nomenclature of steatotic liver disease (SLD) recognizes distinct phenotypes, including Metabolic dysfunction-associated steatotic liver disease (MASLD), MASLD with increased alcohol intake (MetALD), and alcohol-related liver disease (ALD). Although cardiovascular risk may differ across SLD phenotypes, their association with stroke risk in patients with atrial fibrillation (AF) remains unclear. OBJECTIVE: This study aimed to investigate the association between SLD phenotypes and ischemic stroke risk in AF patients. METHODS: AF patients diagnosed between 2010 and 2018 were identified from the Korean health insurance database. According to SLD phenotype, patients were categorized into No-SLD, MASLD, MetALD, and ALD. The primary outcome was ischemic stroke. Subgroup analyses were conducted by CHA2DS2-VA score. RESULTS: Among 196,242 patients (No-SLD: 101,308; MASLD: 77,715; MetALD: 8,678; ALD: 8,541), median follow-up was 5.9 years. Compared with No-SLD, MASLD was not associated with stroke risk (adjusted hazard ratio and 95% confidence interval; 1.00, 0.97-1.04), whereas MetALD and ALD were associated with higher risk (1.09, 1.00-1.18 and 1.16, 1.08-1.26, respectively). In exploratory subgroup analyses, the higher risk associated with alcohol-related phenotypes appeared more apparent at lower CHA2DS2-VA scores; however, the 6-year absolute risk differences were approximately 1% or less, and these findings are regarded as hypothesis-generating. CONCLUSION: In patients with AF, stroke risk was significantly higher in the alcohol-related SLD phenotypes, MetALD and ALD, whereas MASLD was not associated with stroke risk. These findings are consistent with the current recommendations for comprehensive risk-factor management in AF, with particular attention to alcohol intake in patients with alcohol-related SLD phenotypes.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.016"
+ },
+ {
+  "idx": 92,
+  "journal": "Eur J Heart Fail",
+  "title": "Evaluating the Role of Lower Extremity Elastic Bandage in Patients with Acute Decompensated Heart Failure.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Lower extremity compression therapy has been proposed as an adjunct to mitigate diuretic resistance during acute decompensation of heart failure (ADHF). We evaluated the effect of lower leg compression with elastic bandages on diuretic efficiency in patients with diuretic-resistant ADHF. METHODS: Historical cohort study enrolling adult cardiac ICU admissions with ADHF who used elastic bandages (EB) at Mayo Clinic in Minnesota from 2007 to 2017. The diuretic efficiency before and after applying EB was the primary outcome. RESULTS: A total of 176 patients with heart failure who received elastic bandages were included. The in-hospital mortality rate, the median hospital length of stay, and 30-day hospital readmission were 9.7%, 11.4 days (IQR 7.1-19.0), and 11%, respectively. When EB was applied, the average daily loop diuretic dosage was decreased by a mean difference of 1.19 mg per 40 mg furosemide equivalent (95% CI: 0.22 to 2.2; p = 0.016). The average post-EB diuretic efficiency was 1,355 mL (IQR 1,119, 1,590) per 40-mg furosemide, which was significantly higher than before EB application, with a mean difference of 340 mL per 40-mg furosemide equivalent (95% CI: -554, -125; p = 0.002). A higher diuretic efficiency led to lower diuretic doses. Average daily urine output before and after EB application was not different (2,642 pre-EB vs. 2,792 post-EB mL/day; 95% CI: -455 to 154; p = 0.33). CONCLUSION: EB use enhances diuretic efficacy during ADHF. Further studies are needed to determine the potential clinical benefits and risks of applying EB compression treatment in ADHF.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/ejhf/xuag322"
+ },
+ {
+  "idx": 97,
+  "journal": "JACC Cardiovasc Interv",
+  "title": "Intraprocedural Cardiac Arrest in Patients Undergoing Percutaneous Coronary Interventions in the United States: An Analysis of the NCDR CathPCI Registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cardiac arrest (CA) during percutaneous coronary interventions (PCI) is a catastrophic procedural complication. Contemporary rates of CA during PCI are unknown. OBJECTIVES: This study sought to understand contemporary rates of CA, associated mortality, and identify predictors of CA during PCI. METHODS: Patients with CA during PCI from 2018 to 2023 were identified from the National Cardiovascular Data Registry CathPCI Registry. Trends in intraprocedural CA (IPCA) incidence and in-hospital death were evaluated. Predictors of IPCA and risk-adjusted mortality were identified. RESULTS: A total of 36,755 IPCA occurred during 3,956,840 PCIs (0.93%), including in 0.24% of elective PCIs, 0.32% of PCIs for stable coronary artery disease, and 1.28% of acute coronary syndrome interventions. The incidence of IPCA increased over time (0.62% in 2018 to 1.07% in 2023; P < 0.0001). In-hospital death occurred in 40.5% of patients with IPCA, 45.4% of whom died in the cardiac catheterization laboratory. Notably, although risk-adjusted IPCA increased (0.79% to 0.95%; P = 0.042), slight declines in risk-adjusted mortality (45.1% to 43.6%; P = 0.027) were observed over time. PCI for ST-segment elevation myocardial infarction, non-ST-segment acute coronary syndromes, increasing age, ventricular arrhythmias, severe aortic stenosis, vasopressors or inotrope use, mechanical circulatory support, coronary perforation, coronary dissection, cardiac tamponade, intraprocedural heart failure or myocardial infarction, and temporary cardiac pacemaker implantation were associated with increased adjusted odds of IPCA. CONCLUSIONS: IPCA complicates 0.93% of contemporary PCI. Despite an increasing incidence of risk-adjusted IPCA, there were slight declines in risk-adjusted in-hospital mortality in the study period. Several patient and procedural characteristics were independently associated with intraprocedural CA.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcin.2026.07.035"
+ }
+]
