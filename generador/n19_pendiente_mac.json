@@ -1,0 +1,65 @@
+{
+ "motivo": "nube: el egreso de este entorno no alcanza a eurointervention.pcronline.com (ENOTFOUND/HTTP 000) y estos artículos NO están indexados en PubMed ni traen abstract en Crossref (esta revista no lo deposita). Por la REGLA DEL ABSTRACT quedan DESCARTADOS en N19. El Mac puede recuperar el abstract con curl y User-Agent de navegador (buscar el literal '>Abstract<' en el cuerpo del HTML: el editor ya NO publica citation_abstract) y, si procede, incorporarlos y regenerar el número.",
+ "ventana": "2026-10-12 a 2026-10-18",
+ "detectados_por": "generador/cobertura.py 19 + generador/fetch_crossref_n19.py (PASO 1b)",
+ "aviso": "OJO: varios de estos títulos parecen EDITORIALES de acompañamiento por su redacción retórica («Prolonged inflation instead of a double tap: …», «Reproducible haemodynamics, unresolved indication: …», «Coronary artery disease management in patients with severe aortic stenosis undergoing…»). El rótulo de cabecera de la propia página declara el tipo (ORIGINAL RESEARCH / EDITORIAL / CONSENSUS DOCUMENT): crIbalos por ahí antes de incorporarlos.",
+ "revision_enlaces": "pendiente aparte en generador/n19_linkcheck_pendiente.json (los 48 enlaces del número)",
+ "pendientes": [
+  {
+   "journal": "EuroIntervention",
+   "doi": "10.4244/eij-d-26-01199",
+   "title": "Coronary revascularisation in patients undergoing transcatheter aortic valve implantation: from anatomy to physiology guidance?",
+   "online": "2026-10",
+   "abstract": "",
+   "url": "https://eurointervention.pcronline.com/doi/10.4244/EIJ-D-26-01199"
+  },
+  {
+   "journal": "EuroIntervention",
+   "doi": "10.4244/eij-d-26-01011",
+   "title": "Prolonged inflation instead of a double tap: pursuing the optimal deployment strategy for the SAPIEN 3 Ultra RESILIA",
+   "online": "2026-10",
+   "abstract": "",
+   "url": "https://eurointervention.pcronline.com/doi/10.4244/EIJ-D-26-01011"
+  },
+  {
+   "journal": "EuroIntervention",
+   "doi": "10.4244/eij-d-26-00602",
+   "title": "Coronary artery disease management in patients with severe aortic stenosis undergoing transcatheter aortic valve implantation: a systematic review and meta-analysis of randomised controlled trials",
+   "online": "2026-10",
+   "abstract": "",
+   "url": "https://eurointervention.pcronline.com/doi/10.4244/EIJ-D-26-00602"
+  },
+  {
+   "journal": "EuroIntervention",
+   "doi": "10.4244/eij-d-26-01104",
+   "title": "Reproducible haemodynamics, unresolved indication: where does thrombectomy for acute pulmonary embolism stand?",
+   "online": "2026-10",
+   "abstract": "",
+   "url": "https://eurointervention.pcronline.com/doi/10.4244/EIJ-D-26-01104"
+  },
+  {
+   "journal": "EuroIntervention",
+   "doi": "10.4244/eij-d-26-00347",
+   "title": "Early outcomes of transcatheter vacuum-assisted mass extraction in the left heart and the aortic arch",
+   "online": "2026-10",
+   "abstract": "",
+   "url": "https://eurointervention.pcronline.com/doi/10.4244/EIJ-D-26-00347"
+  },
+  {
+   "journal": "EuroIntervention",
+   "doi": "10.4244/eij-d-26-00334",
+   "title": "Life expectancy after aortic valve replacement: a nationwide analysis",
+   "online": "2026-10",
+   "abstract": "",
+   "url": "https://eurointervention.pcronline.com/doi/10.4244/EIJ-D-26-00334"
+  },
+  {
+   "journal": "EuroIntervention",
+   "doi": "10.4244/eij-d-26-00454",
+   "title": "Safety and effectiveness of the Vertex Pulmonary Embolectomy System in acute intermediate-risk pulmonary embolism: the SPIRARE II pivotal trial",
+   "online": "2026-10",
+   "abstract": "",
+   "url": "https://eurointervention.pcronline.com/doi/10.4244/EIJ-D-26-00454"
+  }
+ ]
+}

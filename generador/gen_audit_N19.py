@@ -133,46 +133,37 @@ head = head.replace('<span class="num">N17</span>', '<span class="num">N19</span
 # El periodo de la plantilla se sustituye por REGEX (no por cadena literal): así el generador
 # sigue funcionando aunque se corrija el periodo del número que sirve de plantilla.
 head = re.sub(r'Artículos revisados · \d+[^<]*?de \d{4}',
-              'Artículos revisados · 5 al 11 de octubre de 2026', head)
-head = re.sub(r'2026/\d\d/\d\d–2026/\d\d/\d\d', '2026/10/05–2026/10/11', head)
+              'Artículos revisados · 12 al 18 de octubre de 2026', head)
+head = re.sub(r'2026/\d\d/\d\d–2026/\d\d/\d\d', '2026/10/12–2026/10/18', head)
 head = re.sub(r'\d+\s*[–-]\s*\d+ (?:ene|feb|mar|abr|may|jun|jul|ago|sep|oct|nov|dic) 2026',
-              '5 – 11 oct 2026', head)
+              '12 – 18 oct 2026', head)
 head = head.replace("Reglas de selección (N17).", "Reglas de selección (N19).")
-NOTA_TOP3 = ('<p class="intro" style="margin-top:10px;"><b>Nota sobre el bloque «No te los puedes perder» (N19).</b> '
- 'Semana sin congreso, sin guías ni documentos mayores de la ESC/ACC/AHA/SEC y sin ningún artículo cardiovascular '
- 'original en <i>N Engl J Med</i> ni en <i>Lancet</i>: ningún artículo alcanza el umbral de <b>Imprescindible</b> '
- '(CAMBIO ≥ 8 o TOTAL ≥ 8). El <span class="star">★</span> <b>Destacado</b> y el orden de los titulares son una '
- '<b>decisión editorial del Dr. Marzal</b> (12-oct-2026) y no el orden estricto de la rúbrica de 6 ejes. '
- 'Destacado: a2 (6,32), el <b>metaanálisis en red de los tratamientos añadidos en hipertensión resistente o no '
- 'controlada</b> (<i>JACC Adv</i>), que sitúa la espironolactona (−12,43 mmHg) y la denervación renal por '
- 'radiofrecuencia (−8,74 mmHg) como las únicas opciones consistentemente superiores al tratamiento de base. '
- 'Titulares, en este orden: el metaanálisis de descenso intensivo de la presión arterial con y sin enfermedad renal '
- 'crónica (<i>JAMA Cardiol</i>, a1, 7,68 — el mejor puntuado de la semana, que el Dr. Marzal pasa de Destacado a '
- 'primer titular), el ensayo de flecainida frente a amiodarona para la cardioversión de la fibrilación auricular '
- 'paroxística en enfermedad coronaria (FLECA-ED, <i>Heart Rhythm</i>, a40, 6,87) y el análisis post hoc de PREVENT '
- 'sobre carga lipídica por espectroscopia de infrarrojo cercano e ICP preventiva (<i>Circulation</i>, a35, 6,43). '
- 'Los resultados de estado de salud a 7 años de PARTNER 3 (<i>J Am Coll Cardiol</i>, a26, 7,08), que por puntuación '
- 'ocupaban el primer titular, salen del bloque por esa misma decisión y se mantienen como ficha completa en '
- 'Valvulopatías. '
- 'Tres artículos de <i>EuroIntervention</i> que la nube había seleccionado (a17, a37 y a39: EIJ-D-26-00460, '
- 'EIJ-D-26-00889 y EIJ-D-26-00413) se retiraron en el Mac porque <b>ya se habían publicado en N17</b> —el Mac los '
- 'había recuperado por Crossref con fecha de depósito del 28 de septiembre, y PubMed les asignó después un '
- '<i>ArticleDate</i> del 5 de octubre, que es lo que los volvió a meter en la ventana de este número—; figuran en '
- 'el listado con el motivo «ya publicado en N17» y sus plazas las ocupan los tres siguientes de su sección por '
- 'puntuación: la clasificación de la insuficiencia cardiaca más allá de la FEVI (JROADHF, <i>J Am Heart Assoc</i>), '
- 'la revisión de imagen intravascular de herramienta de investigación a las guías (<i>Eur Heart J</i>) y la '
- 'comparación de imagen entre procedimientos de stent en bifurcación (<i>JACC Adv</i>). '
- 'La <b>auditoría de cobertura por Crossref</b> (PASO 1b) recuperó dos artículos que la búsqueda por <i>edat</i> no '
- 'vio: ese mismo análisis de PARTNER 3, del fascículo de <i>J Am Coll Cardiol</i> (vol. 88, n.º 14), y el documento '
- 'de posición de la Heart Rhythm Society sobre la autorización previa en electrofisiología (indexado con <i>edat</i> '
- 'de 17 de septiembre pero publicado online el 6 de octubre). Las ausencias de <i>Lancet</i> (29), <i>JAMA</i> (33) y '
- '<i>N Engl J Med</i> (3) se revisaron una a una: son material de opinión, correspondencia o no cardiovascular. '
- 'Quedan <b>pendientes para el Mac</b> seis originales de <i>Atherosclerosis</i>, uno de <i>JACC Heart Fail</i> y un '
- 'análisis secundario de <i>J Am Coll Cardiol</i> que el editor publicó en la ventana pero que no están en PubMed ni '
- 'traen resumen en Crossref: la red de la nube no alcanza a ScienceDirect, así que por la regla del resumen quedan '
- 'descartados en este número y se anotan en <i>n19_pendiente_mac.json</i>. Secciones con menos de cinco fichas '
- '(Dislipemia 2, Cardiopatía isquémica 3, Imagen cardíaca 4) por no reunir más artículos elegibles esa semana: no se '
- 'rellenan.</p>')
+NOTA_TOP3 = ('<p class="intro" style="margin-top:10px;"><b>Nota sobre la selección de N19.</b> '
+ 'Semana sin congreso y sin guías mayores: <b>ningún artículo alcanza el umbral de Imprescindible</b> '
+ '(CAMBIO ≥ 8 o TOTAL ≥ 8), igual que ocurrió en N18. El ★ <b>Destacado</b> y los tres titulares de '
+ '«No te los puedes perder» son, esta semana, <b>exactamente los cuatro primeros de la rúbrica de 6 ejes</b>, '
+ 'sin ninguna corrección editorial: a16 (7,48), el <i>Scientific Statement</i> de la AHA sobre el abordaje '
+ 'multidisciplinar de la antiagregación en los síndromes coronarios (<i>Circulation</i>), seguido del documento '
+ 'de consenso EAPCI/ACVC sobre soporte circulatorio mecánico temporal en el shock cardiogénico '
+ '(<i>Eur Heart J</i>, a21, 7,00), el <i>Scientific Statement</i> 2026 del ACC sobre prescripción de ejercicio '
+ '(<i>J Am Coll Cardiol</i>, a1, 6,95) y la comparación de revascularización completa inmediata frente a '
+ 'diferida en el IAMCEST con enfermedad multivaso (<i>JACC Cardiovasc Interv</i>, a17, 6,92). '
+ '<b>Decisión editorial de ámbito:</b> el ensayo ICRAKI de <i>N Engl J Med</i> (hemodiálisis intermitente '
+ 'frente a terapia continua de reemplazo renal en el fracaso renal agudo del paciente crítico, '
+ 'NEJMoa2608397) se descartó con el motivo «no cardiovascular»: la inclusión obligatoria de <i>NEJM</i> y '
+ '<i>Lancet</i> cubre los artículos <i>de medicina cardiovascular</i>, y este es un ensayo de nefrología y '
+ 'cuidados críticos con objetivo primario renal. Por el mismo criterio salió la revisión de <i>NEJM</i> sobre '
+ 'el trastorno por déficit de atención del adulto. '
+ 'La <b>auditoría de cobertura por Crossref</b> (PASO 1b) recuperó un artículo que la búsqueda por <i>edat</i> '
+ 'no vio porque el filtro temático generalista no lo capturó: el ensayo de <i>N Engl J Med</i> de '
+ 'monitorización continua de glucosa en la diabetes tipo 2 no tratada con insulina (CONNECT, a6). '
+ 'Las ausencias de <i>Lancet</i> (28), <i>JAMA</i> (40) y <i>N Engl J Med</i> (4) se revisaron una a una: son '
+ 'correspondencia, editoriales, obituarios, resúmenes de investigación o material no cardiovascular. '
+ 'Quedan <b>pendientes para el Mac</b> siete artículos de <i>EuroIntervention</i> que el editor depositó en la '
+ 'ventana y que no están en PubMed ni traen resumen en Crossref: el egreso de red de la nube no alcanza a '
+ 'eurointervention.pcronline.com, así que por la regla del resumen quedan fuera de este número y se anotan en '
+ '<i>n19_euro.json</i> y <i>n19_pendiente_mac.json</i>. '
+ 'Valvulopatías se queda con <b>3 fichas</b> por no reunir más artículos elegibles esa semana: no se rellena.</p>')
 head = re.sub(r'<p class="intro" style="margin-top:10px;"><b>Nota sobre el bloque.*?</p>', lambda _m: NOTA_TOP3, head, count=1, flags=re.S)
 head = re.sub(r'da <b>\d+ seleccionados</b> esta semana', f'da <b>{nsel} seleccionados</b> esta semana', head)
 head = re.sub(r'<div class="box">.*?</div>', lambda _m: '<div class="box">' + box_html + '</div>', head, count=1, flags=re.S)
