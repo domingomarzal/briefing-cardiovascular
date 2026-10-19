@@ -200,10 +200,6 @@
    "journal": "Circ Cardiovasc Interv",
    "url": "https://www.ahajournals.org/doi/10.1161/CIRCINTERVENTIONS.126.017446"
   },
-  "a43": {
-   "journal": "J Am Heart Assoc",
-   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.125.047221"
-  },
   "a44": {
    "journal": "Eur J Prev Cardiol",
    "url": "https://doi.org/10.1093/eurjpc/zwag535"
@@ -223,6 +219,12 @@
   "a48": {
    "journal": "Heart Rhythm",
    "url": "https://www.sciencedirect.com/science/article/pii/S1547527126028729"
-  }
+  },
+  "a49": "https://eurointervention.pcronline.com/doi/10.4244/EIJ-D-26-00602"
+ },
+ "intento_mac": {
+  "fecha": "2026-10-19 08:55",
+  "resultado": "bloqueado: en el Chrome real del usuario las 4 primeras URL (jacc.org y ahajournals.org) se quedan en «Just a moment...» (reto de Cloudflare sin resolver) tras más de 50 s; no se puede distinguir bueno de roto. Igual que en N18. Queda pendiente de revisión con el usuario delante.",
+  "cambio": "a43 sale del número; entra a49 (EuroIntervention, eurointervention.pcronline.com)"
  }
 }
