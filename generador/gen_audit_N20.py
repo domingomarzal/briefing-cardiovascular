@@ -141,13 +141,17 @@ head = re.sub(r'\d+\s*[–-]\s*\d+ (?:ene|feb|mar|abr|may|jun|jul|ago|sep|oct|no
 head = head.replace("Reglas de selección (N19).", "Reglas de selección (N20).")
 NOTA_TOP3 = ('<p class="intro" style="margin-top:10px;"><b>Nota sobre la selección de N20.</b> '
  'Semana sin congreso y sin guías mayores: <b>ningún artículo alcanza el umbral de Imprescindible</b> '
- '(CAMBIO ≥ 8 o TOTAL ≥ 8), como ya ocurrió en N18 y N19. El ★ <b>Destacado</b> y los tres titulares de '
- '«No te los puedes perder» son <b>los cuatro primeros de la rúbrica de 6 ejes</b>: a6 (7,79), los ensayos '
- 'TRIUMPH-1/TRIUMPH-2 de retatrutida semanal en la apnea obstructiva del sueño (<i>N Engl J Med</i>), seguidos '
- 'del documento de consenso sobre insuficiencia cardiaca aguda en urgencias (<i>Eur Heart J</i>, a17, 7,43), '
- 'del ensayo ICare-FASTER de troponina ultrasensible a pie de cama en urgencias (<i>Circulation</i>, a13, 7,13) '
- 'y del análisis de la variante CD36 Y325* en la miocardiopatía dilatada de ascendencia africana '
- '(<i>JAMA</i>, a22, 6,59). '
+ '(CAMBIO ≥ 8 o TOTAL ≥ 8), como ya ocurrió en N18 y N19. <b>El ★ Destacado y los tres titulares de '
+ '«No te los puedes perder» son elección editorial del Dr. Marzal</b> (26-oct-2026), no los cuatro primeros de la '
+ 'rúbrica: ★ Destacado = el <b>Registro Español de Ablación con Catéter, XXV informe oficial de la Asociación del '
+ 'Ritmo Cardiaco de la SEC (2025)</b> (<i>Rev Esp Cardiol (Engl Ed)</i>, a37, 5,94); titulares = el documento de '
+ 'consenso sobre insuficiencia cardiaca aguda en urgencias (<i>Eur Heart J</i>, a17, 7,43), los ensayos '
+ 'TRIUMPH-1/TRIUMPH-2 de retatrutida semanal en la apnea obstructiva del sueño (<i>N Engl J Med</i>, a6, 7,79) y '
+ 'el análisis agrupado de BROADWAY/BROOKLYN con metaanálisis de los inhibidores de la CETP sobre obicetrapib, '
+ 'glucemia y diabetes de nueva aparición (<i>Eur J Prev Cardiol</i>, a8, 4,95). Por puntuación, los cuatro primeros '
+ 'eran a6, a17, el ensayo ICare-FASTER (<i>Circulation</i>, a13, 7,13) y la variante CD36 Y325* en la miocardiopatía '
+ 'dilatada (<i>JAMA</i>, a22, 6,59), que siguen en el número como fichas de su sección. La ponderación y el orden '
+ 'dentro de cada sección no cambian. '
  '<b>Corrección editorial de la ponderación:</b> el documento de <i>Eur Heart J</i> sobre insuficiencia cardiaca '
  'aguda en urgencias se reponderó como <b>documento de consenso</b> (EVID 9) y se marcó de inclusión obligatoria, '
  'porque su propio resumen lo declara «consensus document»; el patrón de títulos no lo había detectado. '
@@ -168,14 +172,14 @@ NOTA_TOP3 = ('<p class="intro" style="margin-top:10px;"><b>Nota sobre la selecci
  'y son correspondencia, editoriales, obituarios o material no cardiovascular (oncología, nefrología, ictus). '
  'Queda <b>pendiente para el Mac</b> un original de <i>Atherosclerosis</i> sobre NOX2 circulante y riesgo '
  'cardiovascular (10.1016/j.atherosclerosis.2026.121918) que no está en PubMed y cuyo resumen no está en '
- 'Crossref: el egreso de red de la nube no alcanza a sciencedirect.com, así que por la regla del resumen queda '
- 'fuera de este número. '
+ 'Crossref: ni la nube ni el Mac acceden a sciencedirect.com (el Mac recibe HTTP 403), así que por la regla '
+ 'del resumen queda fuera de este número. '
  '<b>Secciones cortas, sin relleno:</b> Imagen cardíaca se queda con <b>1 ficha</b> porque todo lo que las '
  'revistas de imagen publicaron esa semana fue errata, editorial o material sin resumen; Dislipemia con 2, '
  'Valvulopatías con 3 y Cardiopatía isquémica con 4. '
  '<b>Deduplicación:</b> el meta-análisis de <i>EuroIntervention</i> sobre revascularización coronaria antes del '
  'TAVI, que PubMed ha indexado esta semana, ya se publicó en N19 y sale del número.</p>')
-head = re.sub(r'<p class="intro" style="margin-top:10px;"><b>Nota sobre el bloque.*?</p>', lambda _m: NOTA_TOP3, head, count=1, flags=re.S)
+head = re.sub(r'<p class="intro" style="margin-top:10px;"><b>Nota sobre (?:el bloque|la selección).*?</p>', lambda _m: NOTA_TOP3, head, count=1, flags=re.S)
 head = re.sub(r'da <b>\d+ seleccionados</b> esta semana', f'da <b>{nsel} seleccionados</b> esta semana', head)
 head = re.sub(r'<div class="box">.*?</div>', lambda _m: '<div class="box">' + box_html + '</div>', head, count=1, flags=re.S)
 head = re.sub(r'Listado completo de artículos revisados \(\d+\); puntuados los \d+ seleccionados',
