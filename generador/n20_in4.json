@@ -1,0 +1,273 @@
+[
+ {
+  "idx": 100,
+  "journal": "Europace",
+  "title": "The future of PFA in cardiac ablation procedures.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Pulsed field ablation (PFA) has rapidly emerged as a major development in catheter ablation, with increasing clinical adoption driven by procedural efficiency and a favorable safety profile compared with thermal energies. This article summarizes the future directions of PFA in electrophysiology, focusing on technological innovation, and how these advances are expected to expand PFA clinical indications. Additionally, this article provides a perspective on current gaps and future challenges of PFA. A perspective on future developments in new waveforms, catheter architectures, and integration with electroanatomical mapping systems for PFA is summarized. The document discusses novel waveform configurations and catheter design concepts that may improve lesion quality, procedural versatility, and safety. Additionally, this article also reviews how parallel advances in electroanatomical mapping integration, artificial intelligence, and robotic navigation are expected to enhance procedural guidance and enable individualized therapy. This manuscript summarizes the potential applications of PFA beyond pulmonary vein isolation and how emerging evidence supports its feasibility for linear atrial lesions, substrate modification, treatment of complex atrial tachycardias, and ventricular arrhythmia ablation. In addition, this article provides insights on how PFA may facilitate catheter ablation in new patient populations including elderly patients and those with higher procedural risks. Finally, this manuscript provides an outlook at major remaining challenges and knowledge gaps for PFA. The lack of homogenous procedural endpoints definitions and lesion durability assessment are discussed. Furthermore, this article highlights the need for standardized terminology and reporting in an environment where the high heterogeneity between available commercial systems complicates comparison across technologies.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag210"
+ },
+ {
+  "idx": 101,
+  "journal": "J Am Heart Assoc",
+  "title": "Greater Neighborhood Resources Predict Reduced In-Hospital Death for Children With Heart Failure and Cardiomyopathy.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Patients with pediatric heart failure (HF) face significant morbidity and death. However, there are limited data describing neighborhood characteristics in pediatric patients with HF or exploring the relationship of these factors to resource use and clinical outcomes. We used the Child Opportunity Index 3.0 (COI), a composite index of community resources pertinent to child health, to describe neighborhood characteristics for children with HF and identify its associations with in-hospital death. METHODS: This retrospective cohort study used the Pediatric Health Information System, a national administrative database of tertiary care pediatric hospitals. Inpatient encounters between January 2014 and December 2024 for pediatric patients (aged <18 years) with HF and cardiomyopathy were identified using International Classification of Diseases (ICD) codes. The primary exposure of interest was the COI, and the primary outcome of interest was in-hospital death. Mixed logistic regression models were estimated, unadjusted and adjusted for administrative sex, age, race, and primary payor. RESULTS: Our cohort consisted of index HF admissions in 7060 patients. Half of the cohort was in either the very low (n=2034 [29%]) or low (n=1521 [22%]) COI quintile. After adjustment, patients with a very high COI were less likely to experience in-hospital death than those living in very low COI neighborhoods (odds ratio, 0.73 [95% CI, 0.54-0.99]; P=0.048). CONCLUSIONS: A substantial proportion of children admitted with HF have limited neighborhood resources. Those with higher neighborhood resources are more likely to survive to discharge, emphasizing the relationship between environmental factors and clinical outcomes in pediatric HF.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.051324"
+ },
+ {
+  "idx": 102,
+  "journal": "Rev Esp Cardiol (Engl Ed)",
+  "title": "Spanish catheter ablation registry. 25th official report of the Heart Rhythm Association of the Spanish Society of Cardiology (2025).",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "INTRODUCTION AND OBJECTIVES: We report the results of the 2025 Spanish catheter ablation registry. METHODS: This retrospective registry included catheter ablation procedures performed at participating hospitals in Spain and recorded in the REDCap database using a dedicated data collection form. RESULTS: A total of 109 centers participated, reporting 33 435 ablations. Atrial fibrillation was the most commonly treated arrhythmia (14 452 cases), with single-shot techniques being the most frequently used approach (63%) and a marked increase in pulsed field ablation (37% vs 21% in 2024). The remaining arrhythmia substrates remained at similar levels. The overall acute success rate was 95%, the complication rate was 1.6%, and the mortality rate was 0.04%. There was a marked increase in outpatient procedures (33% vs 18% in 2024), particularly atrioventricular nodal re-entrant tachycardia ablation (50%) and cavotricuspid isthmus ablation (45%). A total of 467 pediatric ablations were performed in 38 centers. Accessory pathway ablation was the most common procedure (65.3%), with a 97% success rate. CONCLUSIONS: A similar number of centers participated, with a slight increase in the number of procedures compared with 2024. Atrial fibrillation remained the most frequently treated arrhythmia. Acute success, complication, and mortality rates remained stable. The accreditation process for centers and professionals is well-established, with a stable number of annual accreditations. Full English text available from: www.revespcardiol.org/en.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.rec.2026.07.012"
+ },
+ {
+  "idx": 103,
+  "journal": "J Am Heart Assoc",
+  "title": "Not All Strokes Are Equal: Phenotype-Dependent Surgical Timing in Infective Endocarditis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: We evaluated postoperative neurologic and mortality outcomes by stroke-to-surgery timing and stroke phenotype in patients with left-sided infective endocarditis. METHODS: Adult patients undergoing surgery for infective endocarditis complicated by preoperative stroke between 2004 and 2024 at 2 institutions were stratified by stroke-to-surgery interval (<1 week, 1-4 weeks, 4-6 weeks). The primary outcome was a composite postoperative cerebrovascular event: new stroke, enlarging stroke, or hemorrhagic conversion. Secondary outcomes were operative death and major morbidity events. RESULTS: Among 2265 patients with left-sided infective endocarditis, 322 met inclusion criteria, of whom 122 (38%) underwent surgery within 1 week, 168 (52%) between 1 and 4 weeks, and 32 (10%) between 4 and 6 weeks. Operative death was similar across groups (P=0.09). Postoperative cerebrovascular events declined with time (<1 week, 21.3%; 1-4 weeks, 11.9%; 4-6 weeks, 9.4%; P=0.015). On multivariable analysis, longer stroke-to-surgery interval was associated with reduced odds of postoperative cerebrovascular events (odds ratio, 0.92/d [95% CI, 0.85-0.98]; P=0.015), driven by early events among patients with intraparenchymal hemorrhage, subarachnoid hemorrhage, and septic emboli. Among ischemic strokes, operative death was lowest with surgery within 1 week (5.8% versus 11.2% at 1-4 weeks; P=0.24). Interval embolization occurred in 10.6% of patients awaiting surgery, most commonly affecting the spleen and kidneys. CONCLUSIONS: Excess postoperative neurologic risk was concentrated within the first 7 to 10 days and driven by intraparenchymal hemorrhage, subarachnoid hemorrhage, and septic emboli; ischemic stroke showed no appreciable temporal association. Routine delay after ischemic stroke may not be necessary, while a short delay (≈7 days) for hemorrhagic and septic embolic subtypes may be reasonable when hemodynamically feasible.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.052918"
+ },
+ {
+  "idx": 104,
+  "journal": "J Am Heart Assoc",
+  "title": "Assessment of Persistent Postpartum Hypertension Following Hypertensive Disorders of Pregnancy: A Scoping Review.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Identifying individuals with persistent postpartum hypertension (ppHTN) after hypertensive disorders of pregnancy is an important strategy to mitigate associated long-term cardiovascular risks. Accordingly, we aimed to review the literature surrounding the assessment of ppHTN after hypertensive disorders of pregnancy. METHODS: We conducted a scoping review using Arksey and O'Malley's methodological framework. We developed and pilot-tested a data extraction tool to collect information on ppHTN assessment methods, including timing and setting, blood pressure (BP) thresholds used, and inclusion of patient preferences. Data were synthesized into tables and narrative summaries. Barriers and facilitators to BP assessment protocols, remote BP monitoring, and follow-up attendance were mapped using the Capability, Opportunity, and Motivation - Behavior (COM-B) framework. RESULTS: Of 14 593 records, 96 papers met inclusion criteria. BP measured in the hospital alone was most common (n=41), followed by the hospital/home combination (n=18), and the outpatient/home combination (n=9). Monitoring typically began within 0 to 7 days postpartum (n=28), ending at 1 to 6 weeks (n=20) or 6 to 12 months (n=20) postpartum. ppHTN was defined using elevated BP thresholds (n=28), most commonly ≥140/90 mm Hg (n=18), medication initiation (n=8), lack of BP normalization over time (n=4), or referral to a specialist (n=2). Only 7 studies assessed patient preferences. Facilitators to home BP assessment included the use of educational material, while barriers involved digital access limitations. CONCLUSIONS: ppHTN assessment methods varied in timing, setting, and BP thresholds. Findings underscore the need for standardized, patient-centered guidelines that account for BP assessment methods across settings.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049749"
+ },
+ {
+  "idx": 105,
+  "journal": "Europace",
+  "title": "Sedation and anaesthesia in pulsed-field ablation for atrial fibrillation: mechanisms, procedural requirements, and real-world practice.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Pulsed-field ablation (PFA) has rapidly emerged as an important energy source for atrial fibrillation ablation, offering tissue selectivity and procedural efficiency while introducing specific anaesthetic and sedation requirements. This narrative review examines the rationale for anaesthesia and sedation during PFA, the mechanisms underlying pain, involuntary movement, and neuromuscular stimulation, and the implications of catheter design, waveform characteristics, and patient-related factors for peri-procedural management. Available evidence indicates that both deep sedation and general anaesthesia can provide safe and effective procedural conditions when supported by appropriate monitoring, airway rescue capability, and experienced multidisciplinary teams. Deep sedation may offer advantages in workflow, recovery, and patient-centred care, particularly for standard pulmonary vein isolation procedures using contemporary biphasic systems with reduced muscle activation, whereas general anaesthesia remains appropriate for complex procedures, patients with substantial comorbidity, or settings in which complete immobility and airway control are essential. Current real-world practice is highly heterogeneous across regions and institutions, reflecting differences in regulations, staffing models, procedural complexity, and local expertise rather than a universally accepted standard. Overall, anaesthetic strategy in PFA should be individualised according to patient risk profile, expected procedural demands, and device-specific stimulation burden. Further prospective comparative studies are needed to define optimal sedation depth, standardise monitoring and outcome measures, and clarify how emerging technologies may enable lighter yet still effective sedation pathways.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag127"
+ },
+ {
+  "idx": 106,
+  "journal": "Eur J Heart Fail",
+  "title": "Management of Heart transplant recipients for the non Heart Transplant health care provider. A Clinical Consensus Statement of the Heart Failure Association (HFA) and the Association of Cardiovascular Nursing & Allied Professions (ACNAP) of the ESC.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Heart transplantation (HTx) remains the gold standard treatment for selected patients with advanced heart failure and survival after transplantation has substantially improved over recent decades. As a consequence, the number of long-term HTx recipients continues to increase, and these patients are now frequently encountered in routine practice outside specialized transplant centers. Their management remains complex due to the use of chronic immunosuppression, transplant-specific complications, and a growing burden of comorbidities in the perspective of increasing longevity. Non-transplant cardiologists, general practitioners, and other healthcare professionals are therefore increasingly involved in their care but often have limited experience of post-transplant management. This clinical consensus statement from the Heart Failure Association (HFA) and the Association of Cardiovascular Nursing & Allied Professions (ACNAP) of the ESC provides practical support and a structured framework for healthcare providers involved in the care of HTx recipients outside dedicated transplant centers. The document reviews key aspects of post-transplant management, including outlining principles of care according to time from transplantation, essential knowledge around immunosuppressive therapy and drug monitoring, recognition and initial management of rejection, infection prophylaxis and treatment, and surveillance of long-term complications such as cardiac allograft vasculopathy, malignancy, chronic kidney disease, and metabolic disorders. In addition, specific clinical situations frequently encountered in practice-including fertility and pregnancy, non-cardiac surgery, rehabilitation, and palliative care-are discussed. Particular emphasis is placed on the organization of shared-care models between transplant centers and community providers and on identifying clinical scenarios requiring early referral. Through providing practical recommendations and a structured framework for follow-up, this document aims to support non-specialist clinicians in the safe management of HTx recipients and to facilitate timely collaboration with transplant centers.",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1093/ejhf/xuag326"
+ },
+ {
+  "idx": 107,
+  "journal": "JACC Clin Electrophysiol",
+  "title": "Cardiac Resynchronization Therapy Using a Conduction System Pacing Defibrillation Lead in Patients Meeting CRT-D Indications: Six-Month Clinical Outcomes Results From the ASCEND CSP Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Conduction system pacing (CSP) via left bundle branch area pacing (LBBAP) is a physiologic alternative to conventional biventricular (BiV) pacing for cardiac resynchronization therapy (CRT), but prospective data using purpose-built implantable cardioverter-defibrillator (ICD) leads are limited. OBJECTIVES: The purpose of this study was to evaluate procedural success, defibrillation efficacy, safety, and 6-month clinical outcomes of left bundle branch-optimized cardiac resynchronization therapy (LOT-CRT) delivered with a purpose-built CSP ICD lead and compare outcomes to conventional BiV-CRT. METHODS: A total of 52 CRT defibrillator patients (age 66 ± 10 years, 31.4% female, left ventricular ejection fraction (LVEF) 29.5 ± 6.7%, left bundle branch block [LBBB] 66.7%, QRSd 164.6 ± 25.3 milliseconds, 29.4% ischemic) in the ASCEND CSP IDE (A Stylet-Driven ICD Lead Intended for Conduction System Pacing IDE Study) study underwent attempted implantation of a CSP ICD lead and a coronary sinus lead (LOT-CRT). Implant success, safety and efficacy outcomes, electrocardiographic characteristics, echocardiographic remodeling, heart failure status, patient-reported quality of life, and CRT response were assessed through 6 months. Outcomes were compared with a propensity-matched conventional CRT cohort (BiV-CRT). RESULTS: Implantation succeeded in 98.1% (51 of 52), with LBBAP capture achieved in all (51 of 51). Freedom from CSP lead-related serious adverse device effects through 6 months was 98.1% (95% CI: 87.1%-99.7%). Defibrillation was successful in all tested patients (100%). Compared with baseline, QRS narrowed by 30.4 ms and LVEF increased by 10.4 points (both P < 0.0001), with a CRT response (≥5%) in 71.1% and super-response (≥14.5%) in 34.2%. Compared with matched BiV-CRT patients from the MORE-CRT MPP (MORE response on Cardiac Resynchronization Therapy with MultiPoint Pacing) study, lead-related events were similar (2.0% vs 2.5%; P = 1.0), LVEF increase was greater (10.4 points vs 4.6 points; P = 0.0005) with more responders (≥5%) and super-responders (≥14.5%) (71.1% vs 48.5%; P = 0.0107 and 34.2% vs 7.8%; P < 0.0001, respectively), and more patients improved by clinical composite score (76.5% vs 52.0%; P = 0.0016). Significant improvements were seen with LOT-CRT in both LBBB and non-LBBB patients. CONCLUSIONS: LOT-CRT with a dedicated CSP ICD lead achieved high implant success, preserved defibrillation efficacy, and had favorable safety, with greater left ventricular systolic function and clinical improvement than matched conventional CRT, supporting CSP-based CRT defibrillator therapy.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacep.2026.10.003"
+ },
+ {
+  "idx": 108,
+  "journal": "EuroIntervention",
+  "title": "Coronary artery disease management in patients with severe aortic stenosis undergoing transcatheter aortic valve implantation: a systematic review and meta-analysis of randomised controlled trials.",
+  "ptypes": [
+   "Journal Article",
+   "Systematic Review",
+   "Network Meta-Analysis"
+  ],
+  "abstract": "BACKGROUND: The optimal management of coronary artery disease in patients with severe aortic stenosis undergoing transcatheter aortic valve implantation (TAVI) remains uncertain. AIMS: We aimed to compare clinical outcomes between routine coronary revascularisation and conservative management in patients undergoing TAVI and to assess the relative effectiveness of individual revascularisation strategies by performing a meta-analysis of randomised trials. METHODS: We conducted a pairwise meta-analysis comparing percutaneous coronary intervention (PCI) with conservative treatment and a network meta-analysis comparing the relative effectiveness of individual strategies, including angiography-guided and physiology-guided PCI. The primary outcome was a study-defined composite endpoint of major adverse cardiovascular events (MACE). Secondary endpoints included the individual outcomes of all-cause death, cardiovascular death, myocardial infarction, stroke, unplanned revascularisation, and major bleeding. RESULTS: Five trials (N=1,644 patients) were included in the systematic review, and four were included in the primary quantitative synthesis (N=1,476). Compared with conservative treatment, routine PCI was associated with lower risks of MACE (risk ratio [RR] 0.80, 95% confidence interval [CI]: 0.65-0.98) and unplanned revascularisation (RR 0.30, 95% CI: 0.11-0.83) and an increased risk of major bleeding (RR 1.57, 95% CI: 1.07-2.32). In the network meta-analysis, physiology-guided PCI significantly reduced MACE, stroke, and unplanned revascularisation compared with conservative treatment and ranked highest for all ischaemic outcomes among revascularisation strategies. CONCLUSIONS: Among patients referred for TAVI, routine revascularisation reduces the risk of ischaemic outcomes compared with conservative treatment. In this setting, physiology-guided PCI may be associated with the most favourable efficacy profile across available strategies. (PROSPERO: CRD420261330194).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.4244/EIJ-D-26-00602"
+ },
+ {
+  "idx": 109,
+  "journal": "Eur Heart J",
+  "title": "Acute heart failure in emergency settings.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Acute heart failure (AHF) represents a major cause of emergency medical care worldwide and continues to carry a substantial burden of morbidity and mortality despite advances in chronic heart failure management. Most patients with AHF present to emergency departments (EDs), where the first hours of care are critical to determine prognosis. Of these, some have been previously evaluated and treated by prehospital emergency medical services before ED arrival. This consensus document summarizes the current evidence and provides practical advice to emergency physicians for the diagnosis, treatment, and disposition of patients with AHF in these emergency settings (emergency medical services and ED). It emphasizes the importance of a rapid phenotypic classification into acute decompensated heart failure, acute pulmonary oedema, isolated right ventricular failure, or cardiogenic shock, as a key tool to guide early management and triage decisions. It reviews evidence on prehospital and ED management, including the use of biomarkers, imaging, ventilatory support, diuretic and vasodilator strategies, and early initiation or continuation of guideline-directed medical therapy. It also discusses risk stratification and disposition decisions supported by validated tools. Finally, it identifies major knowledge gaps and future research priorities, including pragmatic trials to assess prehospital interventions, biomarker-guided therapy, and early initiation of disease-modifying treatments. Ultimately, this consensus document is aimed to contribute to the improvement of outcomes in AHF.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurheartj/ehag744"
+ },
+ {
+  "idx": 110,
+  "journal": "Circulation",
+  "title": "Multimodal KCNQ1 Variant-Effect Maps Define Ion Channel Mechanisms and Disease Risk.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Variants in the ion channel gene KCNQ1 are the leading cause of congenital long QT syndrome (LQTS), a disorder characterized by QT prolongation and risk of fatal arrhythmias. The expanding use of genetic testing has led to the identification of numerous variants of uncertain significance, complicating clinical interpretation and risk stratification. Functional characterization of KCNQ1 variants is essential to define their role in long QT syndrome and advance precision medicine in cardiovascular care. METHODS: We generated a nearly comprehensive variant library of 13 403 protein-coding variants in KCNQ1. Using 4 pooled assays followed by high-throughput sequencing, we characterized the variants' effects on cell surface abundance and channel function in both the variant-only and heterozygous states. Case-control analyses and data from large-scale biobanks were used to assess the clinical impact of loss-of-function variants on QT prolongation and long QT syndrome. Heterozygous assay results were used to determine dominant-negative effects, which were also evaluated for association with arrhythmia risk. Protein structural clustering of distinct classes of deleterious variants was analyzed. RESULTS: Across the 4 assays, we generated 49 305 functional measurements of KCNQ1 variants. Of the 13 403 KCNQ1 studied variants, 1757 demonstrated strong pathogenic evidence, and 6660 showed moderate benign evidence. Loss-of-function variants were significantly associated with QT prolongation and long QT syndrome in case-control and biobank analyses. Deleterious variants clustered within distinct structural domains based on their functional classification. A majority of pathogenic variants exhibited dominant-negative effects; these variants were linked to a higher risk of arrhythmia diagnoses than were haploinsufficient variants. CONCLUSIONS: This comprehensive KCNQ1 functional atlas provides novel functional evidence for most KCNQ1 variants of uncertain significance. It also reveals mechanistic principles linking genetic variation to ion channel biology and arrhythmia susceptibility, advancing cardiovascular precision medicine.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.080900"
+ },
+ {
+  "idx": 111,
+  "journal": "JACC Adv",
+  "title": "Trends in Oral Anticoagulant Prescribing for Atrial Fibrillation and Active Cancer in UK Primary Care.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Anticoagulation is essential in patients with atrial fibrillation (AF) and cancer, but recent real-world evidence on oral anticoagulant (OAC) use remains limited. OBJECTIVES: This study aims to describe recent OAC-prescribing trends and identify factors associated with OAC initiation in patients with AF and active cancer in UK primary care. METHODS: Using the Clinical Practice Research Datalink, we identified patients aged ≥50 years with incident AF (cohort entry) between 2010 and 2023 and active cancer diagnosed in the year before cohort entry. We calculated OAC initiation rates in the year following AF diagnosis among eligible patients (CHA2DS2-VASc ≥2) using Poisson regression, overall and stratified by OAC type, age, sex, and cancer characteristics. Cox proportional hazards regression was used to identify factors associated with OAC initiation. RESULTS: Among 12,254 eligible patients, 6,940 (56.6%) initiated an OAC. OAC initiation rates rose from 89 per 100 person-years in 2010 to 385 per 100 person-years in 2023 (adjusted rate ratio: 4.32; 95% CI: 3.78-4.93), driven by increased direct oral anticoagulant prescribing. By 2023, apixaban and edoxaban predominated. OAC initiation did not differ by age and sex but was less common in patients with lung cancer (HR: 0.74; 95% CI: 0.67-0.82), metastatic cancer (HR: 0.66; 95% CI: 0.51-0.87), and dementia (HR: 0.75; 95% CI: 0.64-0.88). CONCLUSIONS: In the last decade, OAC initiation has substantially increased among eligible patients with AF and active cancer, driven by direct oral anticoagulant uptake. However, OAC initiation remained lower among patients with lung cancer, metastatic cancer, or specific comorbidities.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103372"
+ },
+ {
+  "idx": 112,
+  "journal": "JACC Heart Fail",
+  "title": "Cardiac Structure and Function in Women After Preeclampsia: A Systematic Review and Meta-Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Preeclampsia increases the risk of long-term heart failure (HF) by 4-fold. Unfortunately, however, universal guidelines for postpartum HF surveillance are lacking. Stage B/subclinical HF has been shown to predict risk of major adverse cardiac outcomes. Some suggest that initiating cardioprotective therapy at this early stage can reduce progression to symptomatic HF. OBJECTIVES: The aim of this review was to explore cardiac structure and function in women with a history of preeclampsia and to identify when subclinical HF develops in this group. METHODS: A systematic search of MEDLINE, EMBASE and CINAHL was conducted according to Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines to identify all studies assessing left ventricular function on transthoracic echocardiography in women with a history of preeclampsia. RESULTS: A total of 45 case-control studies comprising 8,991 women, including 2,288 women with a history of preeclampsia, were included in the final analysis. During pregnancy, women with preeclampsia had a higher left ventricular mass index (LVMI) (standard mean difference: 10.85 [95% CI: 6.30-15.39]), relative wall thickness (0.05 [95% CI: 0.03-0.08]), E/e' (1.58 [95% CI: 1.02-2.13]), isovolumetric relaxation time (8.74 [95% CI: 3.14-14.34]), lower E/A ratio (-0.27 [95% CI: -0.51 to -0.04]) and reduced absolute global longitudinal strain (GLS) values (2.27 [95% CI: 0.43-4.11]), indicating reduced myocardial function compared with normotensive controls. Postpartum, GLS remained reduced, and LVMI remained elevated in women with a history of preeclampsia. This difference persisted out to 10 years postpartum. There was no significant difference in all other variables >6 months postpartum. Evidence for persistent LVMI elevation >6 months postpartum was not robust in sensitivity analyses excluding overlapping cohorts. Left ventricular ejection fraction and right ventricular function remained similar in the preeclampsia and control groups throughout. CONCLUSIONS: Preeclampsia is associated with subclinical myocardial dysfunction, characterized by impaired GLS and increased LVMI. Persistent impairment in GLS was observed up to 10 years postpartum, whereas the association with elevated LVMI beyond 6 months postpartum should be interpreted with caution. Further studies are required to assess when subclinical myocardial dysfunction progresses to symptomatic clinical HF.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jchf.2026.103421"
+ },
+ {
+  "idx": 113,
+  "journal": "Europace",
+  "title": "Specific effects of Pulsed Field Ablation on the cardiac tissue, the nervous system and the conduction system in experimental and clinical studies.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "AIMS: Pulsed field ablation (PFA) has emerged as a novel ablation modality for the treatment of cardiac arrhythmias and has rapidly reshaped contemporary electrophysiology practice. This article provides a comprehensive analysis on the mechanisms underlying the specific effects of PFA on myocardial, neural tissue structures, and the cardiac conduction system, integrating biophysical principles with preclinical and clinical evidence relevant to contemporary electrophysiology practice. METHODS AND RESULTS: This document provides an exhaustive mechanistic explanation for the preferential effects of PFA on myocardium and the limits of the 'tissue-selectivity' concept. The complex interplay between cellular and tissue-level biophysics, biological responses, and tissue regenerative capacity that determines differential susceptibility to electroporation across tissues is analysed. Distinct patterns of lesion formation and maturation following PFA are also reviewed, highlighting the temporal and histopathological differences compared with radiofrequency ablation. Additionally, lesion formation in heterogeneous substrates is analysed, including fibrotic and adipose-rich myocardium, where local electric field distribution critically influences lesion durability. CONCLUSION: The article further examines the interaction between pulsed electric fields and neural tissue, with emphasis on the phrenic nerve and intrinsic cardiac autonomic nervous system. While nerve stimulation and transient reversible conduction disturbances produced by reversible electroporation can occur during ablation, permanent neural injury appears extremely rare in current clinical experience. Finally, this manuscript examines current understanding regarding the specific effects of PFA on the cardiac conduction system, which according to the limited available evidence appear strongly dependent on electric field dose and anatomical proximity.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag208"
+ },
+ {
+  "idx": 114,
+  "journal": "J Am Heart Assoc",
+  "title": "Anthracycline Cardiotoxicity as Multicellular Network Failure: Cardiac Niche Reprogramming and Pathological Cell-Cell Communication.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Anthracyclines are essential anticancer agents, yet a cardiomyocyte-centered model incompletely explains why cardiac injury can be delayed, progressive, and poorly captured by resting ejection fraction. We frame anthracycline cardiotoxicity as a multicellular network failure within the cardiac niche: the spatially organized interactions among cardiomyocytes, fibroblasts, endothelial and immune cells, extracellular matrix, and circulating signals. Cardiomyocyte stress initiates injury, whereas pathological communication may propagate it. We distinguish a fibroblast-CD8+ T-cell adhesion circuit, supported by loss-of-function evidence in mice and correlative human data, from an emerging therapy-conditioned tumor-heart extracellular vesicle axis supported mainly by breast cancer models. These pathways may converge on fibrotic stiffness, microvascular dysfunction, and electrical uncoupling; however, direct cross-circuit interaction and drug-independent sufficiency remain unproven. We integrate established clinical risk modifiers with this framework, specify causal criteria, and propose spatial multiomics, living myocardial slices, tumor-bearing systems, and longitudinal phenotyping to test circuit persistence. This evidence-calibrated model shifts the goal from cataloging cell-intrinsic pathways to identifying mechanism-resolved biomarkers and therapeutically targetable communication nodes while preserving antitumor efficacy.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.053190"
+ },
+ {
+  "idx": 115,
+  "journal": "J Am Heart Assoc",
+  "title": "Lipoprotein(a) and Risk Stratification for Atherosclerotic Cardiovascular Disease Across the Cardiovascular-Kidney-Metabolic Continuum.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Lp(a) (lipoprotein(a)) is an established risk factor for atherosclerotic cardiovascular disease (ASCVD), but its prognostic relevance across the cardiovascular-kidney-metabolic (CKM) continuum remains uncertain. We examined whether Lp(a) was associated with incident ASCVD across CKM stages and whether it provided complementary risk stratification beyond CKM staging. METHODS: We included 333 321 UK Biobank participants free of clinical cardiovascular disease at baseline and classified them into CKM stages 0 to 3. Elevated Lp(a) was defined as ≥125 nmol/L. The primary outcome was incident ASCVD, defined as coronary artery disease or ischemic stroke. Cox proportional hazards models were used to estimate hazard ratios (HRs), and 10-year absolute risks were estimated using Kaplan-Meier methods. RESULTS: During a median follow-up of 15.3 years, 17 581 incident ASCVD events occurred. After adjustment for demographic characteristics, socioeconomic factors, lifestyle factors, low-density lipoprotein cholesterol, medications, and CKM stage, elevated Lp(a) was associated with higher ASCVD risk (HR, 1.31 [95% CI, 1.25-1.36]). In joint analyses, risk increased progressively across combined CKM-Lp(a) categories, with the highest risk observed in participants with CKM stage 3 and elevated Lp(a) versus CKM stage 0 and lower Lp(a) (HR, 3.43 [95% CI, 2.74-4.31]). Ten-year ASCVD risk ranged from 0.64% to 16.30%, and the absolute risk difference associated with elevated Lp(a) increased from 0.23% in stage 0 to 2.20% in stage 3. CONCLUSIONS: Elevated Lp(a) was associated with higher incident ASCVD risk across the CKM continuum. Although relative associations were broadly consistent across CKM stages, absolute risk increments associated with elevated Lp(a) were greater at more advanced CKM stages, supporting the integration of Lp(a) into CKM-based risk stratification for primary prevention.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.051179"
+ },
+ {
+  "idx": 116,
+  "journal": "Heart Rhythm",
+  "title": "Pulmonary vein narrowing after voltage-guided adjunctive pulmonary vein sleeve pulsed field ablation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Pulsed field ablation (PFA) for pulmonary vein (PV) isolation (PVI) has been associated with a low risk of PV stenosis when performed using the standard ostial workflow. However, the risk of PV narrowing after adjunctive PV sleeve PFA remains insufficiently evaluated. OBJECTIVE: To assess PV narrowing after voltage-guided adjunctive PV sleeve PFA. METHODS: We retrospectively studied 147 patients who underwent an initial pentaspline PFA-based PVI for atrial fibrillation. In addition to standard ostial PVI, voltage-guided PFA applications were delivered to target PV sleeve potentials identified on pre-ablation voltage mapping. Contrast-enhanced computed tomography was performed before and approximately six months after ablation. PV cross-sectional areas (PVAs) were measured at predefined levels, and the maximum PVA reduction rate was defined as ΔPVA. Significant PV narrowing was defined as ΔPVA ≥25%. RESULTS: Post-ablation PVA was significantly smaller than pre-ablation PVA at all PV sites. The median ΔPVA was 5.4%, 6.4%, 4.6%, and 4.0% in the left superior, left inferior, right superior, and right inferior PVs, respectively, and differed significantly among the four PV sites (P = 0.012). No significant PV narrowing was observed in this cohort. CONCLUSIONS: In patients undergoing an initial PFA-based PVI, no significant PV narrowing was observed approximately six months after voltage-guided adjunctive PV sleeve PFA using a pentaspline catheter. Further controlled studies with larger populations and longer follow-up are needed to better characterize the safety and clinical utility of this strategy.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.028"
+ },
+ {
+  "idx": 117,
+  "journal": "Hypertension",
+  "title": "Feedback Control of Arterial Pressure Using Deep Brain Stimulation: Transfer Function Analysis and Simulation Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Deep brain stimulation (DBS) is an established treatment for Parkinson disease. Emerging evidence suggests that DBS of the subthalamic nuclei may be a target for neuromodulation therapy for orthostatic hypotension due to efferent baroreflex failure. To develop a central algorithm for an artificial baroreflex system, we first estimated the dynamic responses of arterial pressure to DBS, and then determined the feedback correction factors for DBS. METHODS: A total of 14 Parkinson disease patients treated with DBS participated in submaximal stimulation screening tests for 20 s to identify responders exhibiting a pressor reaction of ≥10 mm Hg in systolic arterial pressure. In the responders, we randomly performed stimulation while tonometrically measuring the systolic arterial pressure. The transfer function from stimulation-to-systolic arterial pressure was computed using a fast Fourier transform algorithm. Finally, the feedback correction factors were determined via numerical simulations. RESULTS: The transfer function was identifiable in all 3 responders. The average stimulation-to-systolic arterial pressure transfer function exhibited low-pass characteristics, with a steady-state gain of 8.24 mm Hg/stimulation, corner frequency of 0.02 Hz, and pure delay of 2.5 s. Based on these results, the proportional and integral correction factors were set to 0.12 and 0.018, respectively, for the feedback control of the stimulation. Computer simulations revealed that the system could quickly and effectively attenuate a sudden drop in systolic arterial pressure induced by external disturbances, such as head-up tilt. CONCLUSIONS: An artificial baroreflex system with the feedback correction of stimulation of DBS may be a novel therapeutic approach for efferent baroreflex failure.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/HYPERTENSIONAHA.126.27225"
+ },
+ {
+  "idx": 118,
+  "journal": "Heart Rhythm",
+  "title": "Epicardial Closure for Peridevice Leaks from Endocardial Left Atrial Appendage Closure - Early LARIAT-4-PDL Registry Results.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Closure of clinically significant peri-device leaks (PDLs) after left atrial appendage (LAA) occlusion remains crucial to prevent thromboembolism. A variety of techniques exist to close PDLs, each with its own advantages and disadvantages. The LARIAT (Atricure, Mason, OH) suture device may provide an alternative for closing PDLs. OBJECTIVE: We report the initial feasibility of LARIAT for endocardial LAA closure PDLs. METHODS: In a multicenter, retrospective study, we reviewed consecutive patients who underwent LARIAT for closure of device-related LAA leaks. All patients had PDLs ≥3 mm after either a Watchman FLX Pro (Boston Scientific, Marlborough, MA) or an Amplatzer Amulet (Abbott, Chicago, IL) endocardial LAA occluder, as seen on postoperative imaging. Acute PDL closure - pericardial access with device deployment and elimination of the PDL on intraprocedural imaging - was evaluated with either transesophageal or intracardiac echocardiogram, along with 45-day safety. RESULTS: We report 10 cases in patients aged 67.2±10.7years, 30.0% female, and with a body mass index 32.4±6.4 kg/m2. Baseline comorbidities included a CHADSVASC of 4.4±0.7 and HASBLED of 3.7±0.7. Initially, patients underwent Watchman (80.0%) or Amulet (20.0%) with an average PDL of 5.4±0.8 mm. Few cases had attempted PDL closure with radiofrequency ablation (10.0%), coiling (20.0%), or a previous device (10.0%). After procedural and fluoroscopy times of 48.7±10.8 min and 7.0±3.7 min, respectively, LARIAT PDL closure was successful in all cases, and no difference when stratified by initial endocardial LAA closure type. CONCLUSION: These initial results suggest that a LARIAT may be an alternative strategy in patients with clinically significant PDLs after endocardial LAA closure. Future studies are needed to corroborate our initial findings and long-term closure results.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.031"
+ },
+ {
+  "idx": 119,
+  "journal": "Heart Rhythm",
+  "title": "Three ablation strategies using very high-power short-duration catheter in paroxysmal atrial fibrillation: The Q-INDEX randomized trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Very high-power short-duration (vHPSD; 90 W/4 sec) ablation shortens pulmonary vein isolation (PVI) but produces shallower lesions that may be inadequate in the thick anterior left atrium. OBJECTIVE: To compare vHPSD, ablation index (AI)-guided, and hybrid strategies for PVI in paroxysmal atrial fibrillation. METHODS: In this multicenter, randomized, open-label trial, 150 patients with paroxysmal atrial fibrillation were assigned 1:1:1 with the QDOT MICRO catheter to (1) AI-guided (AI 500 anterior, 400 elsewhere), (2) hybrid (AI-guided anterior [AI 500], vHPSD elsewhere), or (3) vHPSD (90 W/4 sec, all segments). The primary endpoint was total ablation time; secondary endpoints included acute PV reconnection, safety, and 1-year freedom from atrial arrhythmia. RESULTS: Acute PVI was achieved in all patients. Total ablation time was longest with AI-guided and shortest with vHPSD ablation (median 2220 vs 1450 vs 794 sec; P < .001). Acute reconnection across the 14 PV segments was lowest with AI-guided and highest with vHPSD (7.7% vs 9.4% vs 10.6%; P = .40). One-year freedom from atrial arrhythmia was 92.0%, 85.4%, and 77.6%, respectively (log-rank P = .13; for AI-guided vs vHPSD; P = .049). No tamponade occurred; steam pops occurred only in the 90 W groups. Two minor periprocedural strokes occurred (both vHPSD; full recovery), and silent cerebral lesions on magnetic resonance imaging did not differ among the groups (5%, 10%, 0%; P = .35). CONCLUSION: Uniform vHPSD more than halved PVI ablation time but was associated with the lowest 1-year efficacy, whereas the hybrid strategy preserved efficiency without significant loss of durability. These exploratory findings-from a trial powered for ablation time-support region-tailored lesion depth in point-by-point ablation and warrant confirmation.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.09.038"
+ },
+ {
+  "idx": 120,
+  "journal": "J Am Coll Cardiol",
+  "title": "Long-Term Outcome of Myectomy Associated With Secondary Mitral Valve Chordal Cutting in Obstructive Hypertrophic Cardiomyopathy.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The recent introduction of cardiac myosin inhibitors has modified the therapy of left ventricular outflow obstruction in patients with hypertrophic cardiomyopathy (HCM) and is raising uncertainties regarding the future role of surgery in the management of obstructive HCM. However, it is likely that a proportion of patients will continue to present with advanced, highly symptomatic HCM, despite medical therapy, and require surgical intervention. We previously reported the short-term results of cutting anterior mitral leaflet secondary chordae in combination with septal myectomy in patients with obstructive HCM. This operative approach has shown excellent results in several short-term studies from our and other centers. However, no data are currently available regarding the long-term outcome of this novel surgical procedure. OBJECTIVES: The study sought to investigate the long-term results of myectomy associated with chordal cutting. METHODS: Long-term results were assessed in 350 consecutive patients with obstructive HCM who underwent this operation at our center over a 5-year period. Median follow-up was 5.6 years (Q1-Q3: 4.2-6.3 years). RESULTS: Including 2 in-hospital deaths (surgical mortality 0.6%), 6-year overall survival after surgery was 96% and did not differ from that of the general Italian population matched for age and sex (P = 0.331). Follow-up information was available in 344 (99%) patients. At the most recent evaluation, 271 (79%) patients were asymptomatic in NYHA functional class I, 65 (19%) were in NYHA functional class II, and 8 (2%) were in NYHA functional class III. During follow-up, there were 14 deaths, 6 of which were unrelated to HCM. At most recent echocardiographic evaluation, ≥95% of patients had no residual left ventricular outflow gradient, clinically significant mitral regurgitation, or impaired systolic function. CONCLUSIONS: Our results show that cutting thickened and/or retracted secondary chordae of the anterior mitral leaflet in association with septal myectomy has excellent long-term clinical and hemodynamic results in patients with obstructive HCM. These findings may further increase the number of myectomy referral centers and the availability of the surgical option for severely symptomatic HCM patients unresponsive to medical treatment.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacc.2026.04.049"
+ },
+ {
+  "idx": 121,
+  "journal": "J Am Coll Cardiol",
+  "title": "Physiological Left Atrial Staging and the Risk of New-Onset Atrial Fibrillation in Hypertrophic Cardiomyopathy.",
+  "ptypes": [
+   "Journal Article",
+   "Multicenter Study"
+  ],
+  "abstract": "BACKGROUND: Atrial fibrillation (AF) is pervasive and an independent driver of stroke and death in hypertrophic cardiomyopathy (HCM). Despite guideline recommendations for AF surveillance, effective risk stratification remains elusive, and the hemodynamic and functional states of the left atrium (LA) preceding AF onset remain poorly characterized. OBJECTIVES: We aimed to delineate the hemodynamic and functional states of the LA in HCM, derive a novel LA staging system, and evaluate its prognostic performance for new-onset atrial fibrillation (NOAF). METHODS: This multicenter retrospective study included consecutive HCM patients with normal left ventricular systolic function from January 2007 to February 2024 at 2 academic referral centers. Patients with valvular heart disease or prior AF were excluded. Patients were categorized by combining the presence of elevated LA pressure (hemodynamic load) and LA contractile strain (intrinsic LA function): stage 1 (normal LA pressure and function), stage 2 (relative contractile augmentation for a given LA pressure), stage 3 (loss of relative contractile augmentation despite elevated LA pressure), stage 4 (elevated LA pressure with decreased LA contractile strain), and isolated LA contractile dysfunction. The primary outcome was NOAF. External validation was conducted in an independent HCM cohort. RESULTS: Of 1,856 patients screened, 705 were eligible (mean age 57.6 ± 13.0 years, 30.1% female). During a median follow-up of 7.5 years (Q1-Q3: 3.6-11.0 years), NOAF occurred in 101. The staging system was independently associated with a significant, stepwise increase in the risk of NOAF (adjusted HR: 1.83 per increment; 95% CI: 1.42-2.37; P < 0.001) and conferred incremental predictive value beyond established risk models (CHARGE-AF and HCM-AF). Consistent results were demonstrated in 1-year landmark and competing-risk analyses, as well as in an external validation cohort (n = 425; age 59.7 ± 13.5 years, 33.9% female). Importantly, serial echocardiography performed in 217 patients 4 to 6 years after baseline revealed a predominantly unidirectional evolution of the proposed LA stage, with most patients remaining stable (39.6%) or progressing to higher stages or AF (43.8%). CONCLUSIONS: The proposed LA staging framework offers mechanistic insights into how the LA adapts to progressive diastolic dysfunction in HCM. It is associated with a graded risk of NOAF and may help tailor AF surveillance strategies.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacc.2026.08.014"
+ }
+]

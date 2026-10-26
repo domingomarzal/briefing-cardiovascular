@@ -1,0 +1,308 @@
+[
+ {
+  "idx": 50,
+  "journal": "JAMA Cardiol",
+  "title": "Vascular Function and Cardiorespiratory Fitness in Adults Who Use Nicotine Vapes.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: The rising use of nicotine vapes among young adults who have never smoked combustible tobacco raises concerns regarding potential early cardiovascular and respiratory effects in an otherwise low-risk population. OBJECTIVE: To determine whether regular daily nicotine vape use is associated with altered vascular function and cardiorespiratory fitness in young adults without established cardiovascular risk factors. DESIGN, SETTING, AND PARTICIPANTS: This was a cross-sectional, single-center, laboratory-based physiological assessment study conducted between July 2023 and April 2025 among young adults without known cardiovascular disease or major risk factors. Based on self-report and verification of smoking status, participants were stratified into 3 groups: adults who exclusively used nicotine vapes, adults who used combustible cigarettes, and tobacco- and nicotine vape-naive individuals. Data analysis was performed from September 2023 to April 2025. EXPOSURE: Regular daily use of nicotine vapes or combustible cigarettes. MAIN OUTCOMES AND MEASURES: Primary outcomes included vascular function, assessed by flow-mediated dilation (FMD) and carotid artery reactivity (CAR), and cardiorespiratory fitness, assessed through ventilatory, metabolic, and cardiac responses during maximal cardiopulmonary exercise testing. Secondary measures included spirometry results and physical activity. RESULTS: Fifty-eight young adults (mean [SD] age, 26 [7] years; 30 [52%] female) were included, among whom 17 exclusively used nicotine vapes, 19 used combustible cigarettes, and 22 were tobacco and nicotine vape naive. Lung function and physical activity levels did not differ significantly across groups. FMD and CAR were lower both in adults who used nicotine vapes (mean [SD] FMD, 5.5% [3.4%]; mean [SD] CAR, 0.6% [5.3%]) and in adults who used combustible cigarettes (mean [SD] FMD, 4.4% [2.9%]; mean [SD] CAR, -1.4% [5.3%]) compared with tobacco- and nicotine vape-naive individuals (mean [SD] FMD, 8.3% [3.4%]; mean [SD] CAR, 4.7% [3.2%]). Peak oxygen uptake was lower in adults who used nicotine vapes compared with tobacco- and nicotine vape-naive individuals but did not differ significantly between combustible cigarette and naive groups; minute ventilation and cardiac output were lower in both nicotine use groups. CONCLUSIONS AND RELEVANCE: Regular daily nicotine vape use in young adults who have never smoked combustible tobacco was associated with lower vascular function and cardiorespiratory fitness. These findings highlight the need for longitudinal studies to determine long-term clinical implications.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1001/jamacardio.2026.4626"
+ },
+ {
+  "idx": 51,
+  "journal": "J Am Heart Assoc",
+  "title": "Efficacy and Safety of Pharmacologic Therapies in Nonobstructive Hypertrophic Cardiomyopathy: A Systematic Review.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Nonobstructive hypertrophic cardiomyopathy (HCM) affects approximately one-third of all patients with HCM and carries substantial morbidity, yet no approved disease-modifying therapies exist. We conducted a systematic review of prospective interventional studies evaluating pharmacologic therapies in adults with nonobstructive HCM. METHODS: A systematic search of PubMed, Cochrane Central Register of Controlled Trials, and Clinicaltrials.gov was performed through September 2025. Eligible studies included randomized and nonrandomized prospective interventional trials. A narrative synthesis was performed by pharmacologic class and outcome domain. RESULTS: Twenty-nine clinical trials evaluating 9 pharmacologic classes were identified: cardiac myosin inhibitors, cardiac sarcomere modulators, metabolic modulators, angiotensin II receptor blockers, angiotensin receptor-neprilysin inhibitors, mineralocorticoid receptor antagonists, SGLT2 (sodium-glucose cotransporter 2) inhibitors, beta blockers, and calcium channel blockers. Cardiac myosin inhibitors demonstrated reductions in left ventricular hypertrophy, improvements in diastolic function, and marked reductions in cardiac biomarkers, although improvements in exercise capacity and symptoms were variable. SGLT2 inhibition showed concordant improvements in diastolic function, atrial remodeling, biomarkers, and functional status in patients with symptomatic nonobstructive HCM and comorbid type 2 diabetes. Angiotensin receptor blockade showed signals of structural remodeling with valsartan and candesartan without consistent functional benefit. Mineralocorticoid receptor antagonism and angiotensin receptor-neprilysin inhibition demonstrated largely neutral effects. Among metabolic modulators, ninerafaxstat improved ventilatory efficiency and quality of life in patients with greater baseline symptom burden. CONCLUSIONS: Pharmacologic responsiveness in nonobstructive HCM is variable and appears to be mechanism- and disease stage-dependent. Ongoing trials evaluating cardiac myosin inhibitors, SGLT inhibitors, and novel therapeutic agents including ninerafaxstat and EDG-7500 will be critical in further defining the therapeutic landscape.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.051256"
+ },
+ {
+  "idx": 52,
+  "journal": "Circ Res",
+  "title": "Identification of a Novel EBF1-Expressing Disease-Associated Arterial Subpopulation in Pulmonary Arterial Hypertension.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Pulmonary arterial hypertension (PAH) is a debilitating disease with a poor prognosis. However, only a limited number of palliative interventions are currently available. To address this unmet need, it is essential to understand the molecular causes of PAH by identifying unique disease-associated populations and their key molecular regulators during disease progression. METHODS: We constructed a single-cell multiome data set at 4 distinct time points during the pathogenesis of pulmonary hypertension (PH) using endothelial cells isolated from the Sugen5416/hypoxia rat model. We assessed the conservation of novel disease-associated endothelial cells by reanalyzing previously reported single-cell RNA sequencing data from human patients with PAH. We validated the functional importance of EBF1 (early B-cell factor 1) in PAH by performing in silico simulations and an in vivo knockdown mediated by a pulmonary endothelium-targeting associated virus. RESULTS: We found that PH progression gradually altered the transcriptional and epigenetic landscape of the pulmonary endothelium in a stage-specific manner, leading to the emergence of a novel disease-associated arterial endothelial population expressing EBF1. A similar endothelial subset was present in human patients with PAH. Immunofluorescence revealed that EBF1 expression was elevated in both human and rat lungs during PH progression. In silico simulations suggested that EBF1 is required for the pathogenic state, and the associated virus-mediated in vivo knockdown of Ebf1 ameliorated the pathological hallmarks of PH, including right ventricular systolic pressure and right ventricular hypertrophy, when delivered either before the onset of PH or after its establishment. CONCLUSIONS: We identified EBF1 as a key transcriptional regulator of a novel disease-associated population in both humans and rats. We further demonstrated that inhibiting EBF1 within the pulmonary endothelium ameliorates the pathological features of PH, suggesting that EBF1 and its transcriptional targets represent a novel and promising therapeutic avenue for PAH.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCRESAHA.125.328069"
+ },
+ {
+  "idx": 53,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Low-grade inflammation and cardiovascular events among patients with chronic kidney disease.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Chronic inflammation is associated with cardiovascular disease in the general population, but data on patients with chronic kidney disease (CKD) are limited. We sought to assess whether systemic low-grade inflammation is independently associated with cardiovascular events in CKD patients not yet on kidney replacement therapy, with or without a history of atherosclerotic cardiovascular disease (ASCVD). METHODS: CKD-REIN is a prospective cohort study of adults with CKD stages 2-5, conducted in 40 French nephrology outpatient facilities. Baseline high-sensitivity plasma C-reactive protein (hs-CRP) was centrally measured using an immunoturbidimetric method. Systemic low-grade inflammation was defined as hs-CRP ≥2 mg/L. Cox proportional hazards models estimated cause-specific hazard ratios (HR) and 95% confidence intervals (CI) for major adverse cardiovascular events (MACE; composite of stroke, myocardial infarction, or cardiovascular death) or hospitalization for heart failure (HHF). RESULTS: We included 2078 patients: 67% men, mean (SD) age 67(13) years, mean eGFR 36(12) mL/min/1.73 m2, 38% with history of ASCVD, median hs-CRP concentration 2.4 mg/L (inter-quartile range 1.1-5.1). After median follow-up of 5 years, 171 patients had a MACE and 207 had HHF. After controlling for potential confounders, a twofold increase in hs-CRP was associated with a 12% (95% CI 0-26) higher cause-specific hazard of MACE and a 26% (95% CI 13-40) higher cause-specific hazard of HHF. CONCLUSION: In CKD patients not yet on kidney replacement therapy, systemic low-grade inflammation, measured through hs-CRP, is associated with occurrence of cardiovascular events independently of traditional risk factors, including a history of ASCVD.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag538"
+ },
+ {
+  "idx": 54,
+  "journal": "Circulation",
+  "title": "ICare-FASTER (Improving Care by Faster Risk Stratification Through Use of High-Sensitivity Point-of-Care Troponin in Patients Presenting With Possible Acute Coronary Syndrome in the Emergency Department): A Stepped-Wedge Cluster-Randomized Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Point-of-care high-sensitivity cTn (cardiac troponin; hs-cTn) testing has the potential to expedite decision-making and reduce emergency department (ED) length of stay for patients presenting with possible myocardial infarction by ensuring that results are consistently available when sought by clinicians. We assessed the real-life effectiveness and safety of implementing point-of-care hs-cTn testing in the ED. METHODS: We conducted a pragmatic, stepped-wedge cluster-randomized trial. The control arm was usual care with an accelerated diagnostic pathway using a single-sample rule-out step with a central laboratory hs-cTn assay. The intervention arm used the same pathway with a point-of-care hs-cTnI assay. The primary effectiveness outcome was ED length of stay assessed using a generalized linear mixed model. The safety outcome was myocardial infarction or cardiac death within 30 days. RESULTS: Six sites participated, with 59 980 ED presentations (44 747 individuals; mean 61±19 years of age; 49.5% female) from February 2023 through January 2025; 31 392 presentations were during the intervention arm. After adjustment for covariates associated with length of stay, the intervention reduced length of stay by 13% (95% CI, 9%-16%; P<0.001), corresponding to a reduction of 47 minutes (95% CI, 33-61 minutes) from a mean length of stay in the control arm of 376 minutes. The 30-day myocardial infarction or cardiac death rate was similar in the control and intervention arms (0.39% and 0.39%, respectively; P=0.54). CONCLUSIONS: Implementation of whole-blood hs-cTnI testing at the point of care into an accelerated diagnostic pathway was safe and reduced length of stay in the ED compared with laboratory testing. REGISTRATION: URL: https://www.anzctr.org.au; Unique identifier: ACTRN12619001189112.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.080866"
+ },
+ {
+  "idx": 55,
+  "journal": "Heart Rhythm",
+  "title": "Non-Invasive Stimulation of the Median Nerve: Neuromodulation to Reduce Atrial Arrhythmias in Paroxysmal Atrial Fibrillation (The Randomized BEAT-AF Pilot Study).",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Non-invasive low-level electrical stimulation of the median nerve favorably affects atrial electrophysiology and reduces inflammation. OBJECTIVE: To determine whether a novel wearable home-care neuromodulation device that performs median nerve stimulation (MNS) reduces atrial arrhythmias (AA) and related symptoms. METHODS: BEAT-AF was a randomized, double-blind, sham-controlled, 12-week pilot study. Patients with a paroxysmal atrial fibrillation (AF) burden of 0.5-25% on ambulatory 14-day ECG (aECG) monitoring were randomized 1:1 to either MNS or Sham, using a wristband-like neuromodulation and ECG monitoring device. RESULTS: Among 31 patients (n=15 MNS / n=16 Sham; age 67.3±9.7; 23 M / 8 F; CHA2DS2-VASc 2.6±1.7; median AF burden 4.9% [IQR 5.2%]),immediate pre-/post-treatment ECG recordings demonstrated a 35% reduction in premature atrial contraction (PAC) burden with MNS versus a 7% increase with Sham (p=0.039).Comparing baseline to 12-week 14-day ECGs, PAC burden was reduced by 26.5% (p=0.046) vs a numerical change of +3.94% (p=0.94; Sham, between group p=0.46), and the adjusted median AF burden numerically was reduced by 63% (MNS) vs 4.1% (Sham; p=0.42). By EHRA classification, symptomatology improved with MNS (0.45 vs 0.02 reduction in score; p=0.017), with a 26.3% shift from EHRA Class III to I with MNS) (vs Sham; p=0.048). CONCLUSIONS: In patients with paroxysmal AF, non-invasive median nerve stimulation reduced PAC burden and improved symptomatology; there was a numerical but non-significant reduction in AF burden. This pilot study sets the stage for future pivotal trials of MNS in AF patients.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.038"
+ },
+ {
+  "idx": 56,
+  "journal": "J Am Heart Assoc",
+  "title": "Plasma Angiotensin-Converting Enzyme as a Prioritized Candidate Target for Alzheimer's Disease: Evidence From Proteome-Wide Mendelian Randomization and a Large Prospective Cohort Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: We aimed to provide hypothesis-generating evidence on druggable targets for Alzheimer's disease (AD) by integrating proteome-wide Mendelian randomization (MR) with evidence from a conventional observational analysis of drug use in a large prospective cohort. METHODS: Proteome-wide MR analysis was conducted to identify plasma proteins causally related to AD risk using the largest summary-level data to date, followed by colocalization and multiomic validation analyses (on the gene expression, alternative splicing, and DNA methylation levels in blood and brain, respectively) to prioritize potential druggable targets. We also replicated our MR findings using additional genetic data and performed multivariable MR for the prioritized findings. Conventional observational analysis in UK Biobank, a large prospective cohort, was performed to provide further clinical implications, using active comparator to minimize confounding by indication. RESULTS: MR analysis identified 15 plasma proteins with putative causal effects on AD risk. Of them, inhibition of angiotensin-converting enzyme was found to increase the risk of AD (odds ratio, 1.10 [95% CI, 1.08-1.14]), which was likely independent of blood pressure as suggested by multivariable MR. Observational analysis in UK Biobank showed a higher incidence (hazard ratio, 1.23 [95% CI, 1.00-1.50]) of AD among regular users of angiotensin-converting enzyme inhibitors, compared with the active comparator angiotensin receptor blocker users. CONCLUSIONS: Our genetic analyses prioritized angiotensin-converting enzyme as a candidate target, and a conventional observational analysis in a large prospective cohort provided supportive evidence that regular angiotensin-converting enzyme inhibitor use was associated with a higher AD risk, which needs further investigation with high-quality real-world evidence and clinical trials before being translated into practice changes.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.124.038766"
+ },
+ {
+  "idx": 57,
+  "journal": "Heart Rhythm",
+  "title": "Effect of telemedicine-based integrated management of atrial fibrillation in village clinics on recurrent nonfatal cardiovascular events: a secondary analysis of the MIRACLE-AF trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Atrial fibrillation (AF) is an increasing public health challenge, particularly among rural older adults, where awareness and treatment remain inadequate. While the MIRACLE-AF trial demonstrated that telemedicine-based, village doctor-led integrated care reduced cardiovascular mortality or first major cardiovascular events, its impact on recurrent nonfatal cardiovascular events remains unknown. OBJECTIVE: To evaluate the effect of the MIRACLE-AF care model on recurrent nonfatal cardiovascular events. METHODS: We conducted a secondary analysis of the MIRACLE-AF trial (NCT04622514), a cluster-randomized controlled trial enrolling 1,039 rural patients aged ≥65 years with confirmed AF across 30 village clinics over 36 months. Village clinics were randomized 1:1 to village doctor-led telemedicine integrated care or enhanced usual care. The primary outcome was recurrent nonfatal events over 36 months, including strokes, hospitalizations for worsening heart failure or acute coronary syndrome, and emergency visits for AF, analyzed using a conditional frailty model. RESULTS: Among 1039 patients (mean age 75.8 ± 5.7 years; 44.3% female), the intervention experienced fewer cardiovascular events than the control (118 events in 82 patients [15.65%] vs. 173 events in 122 patients [23.69%]). The observed recurrent event rates were 6.75 and 9.11 per 100 patient-years, respectively. The estimated hazard ratio was 0.76 (95% CI, 0.583-1.004; p = 0.053), indicating that the difference did not reach statistical significance. CONCLUSION: Although the overall difference did not reach statistical significance, directional trends consistently favored telemedicine-based integrated care, suggesting a potential reduction in recurrent cardiovascular event burden. Larger studies with longer follow-up are needed to confirm these findings.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.037"
+ },
+ {
+  "idx": 58,
+  "journal": "J Am Heart Assoc",
+  "title": "Nuclear Factor Kappa-B Inducing Kinase- and Inhibitor of Nuclear Factor Kappa-B Kinase Subunit Beta-Binding Protein Promotes Pathological Cardiac Hypertrophy by Regulating Inhibitor of Nuclear Factor Kappa-B Kinase Subunit Beta-Mediated Nuclear Factor Kappa-B Activation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Pathological cardiac hypertrophy is a major risk factor for heart failure. NIBP (NF-κB [nuclear factor kappa-B] inducing kinase- and inhibitor of NF-κB kinase subunit beta-binding protein) is a key regulator of cytokine-induced NF-κB signaling, but its role in cardiac hypertrophy remains unknown. METHODS: We established transverse aortic constriction-induced cardiac hypertrophy in mice and phenylephrine-induced hypertrophy in neonatal rat ventricular myocytes. Genetic interventions included generation of whole-body Nibp knockout mice via CRISPR-Cas9; creation of cardiomyocyte-specific Nibp knockout mice using adeno-associated virus serotype 9-delivered Cre and single-guide RNAs in Rosa26-LSL-Cas9 mice; and cardiac-specific Nibp overexpression via adeno-associated virus serotype 9delivery. In neonatal rat ventricular myocytes, NIBP was knocked down or overexpressed using adenoviruses. Phenotypes were assessed by echocardiography, histology (wheat germ agglutinin, picrosirius redstaining), and molecular analyses. Mechanisms were investigated via RNA-sequencing, coimmunoprecipitation, and Western blotting for key signaling molecules. RESULTS: NIBP protein was upregulated in hypertrophic hearts and cardiomyocytes. Both Nibp-knockout and cardiomyocyte-specific Nibp knockout attenuated transverse aortic constriction-induced cardiac dysfunction, hypertrophy, and fibrosis, whereas Nibp overexpression exacerbated these pathologies. Consistently, in neonatal rat ventricular myocytes, NIBP knockdown mitigated, while its overexpression aggravated, phenylephrine-induced cardiomyocyte hypertrophy and inflammatory responses. Mechanistically, NIBP directly interacted with IKKβ (inhibitor of NF-κB kinase subunit beta), enhanced its phosphorylation, and drove hyperactivation of the downstream NF-κB pathway. Overexpression of a kinase-dead IKKβ mutant reversed the hypertrophic effects of NIBP. CONCLUSIONS: NIBP promotes pathological cardiac hypertrophy by activating the IKKβ/NF-κB axis, identifying it as a potential therapeutic target for cardiac remodeling and heart failure.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.046637"
+ },
+ {
+  "idx": 59,
+  "journal": "Rev Esp Cardiol (Engl Ed)",
+  "title": "Impact of surgical timing in left-sided infective endocarditis with persistently positive blood cultures.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "INTRODUCTION AND OBJECTIVES: Guidelines define persistent infection in infective endocarditis (IE) as positive blood cultures after 7 days of adequate antibiotic therapy. However, persistently positive blood cultures (PPBC) at 48 to 72 hours are already associated with a worse prognosis. We aimed to assess the clinical profile, temporal trends, and impact of surgical timing on outcomes in patients with left-sided IE and PPBC at 48 to 72 hours. METHODS: We performed a retrospective analysis of prospectively collected data from 3 Spanish tertiary centers (1998-2024). We compared patients with PPBC with those with blood culture clearance and assessed the effect of surgical timing using a time-dependent Cox model, inverse-probability-of-treatment weighting, and a day-7 landmark analysis to minimize immortal time bias and confounding by indication. RESULTS: Among 1265 patients with positive baseline cultures, 283 (22.4%) had PPBC at 48 to 72 hours. These patients exhibited a more severe clinical and microbiological profile and higher in-hospital mortality (36.0% vs 22.3%; P < .001). In the day-7 landmark analysis, surgery within the first 7 days was associated with lower in-hospital mortality (HR, 0.53; 95%CI, 0.30-0.95), with consistent trends across the time-dependent Cox and inverse-probability-of-treatment weighting models. CONCLUSIONS: PPBC at 48 to 72 hours identifies a high-risk subgroup of patients with left-sided IE. In these patients, early surgery within the first 7 days was associated with a potential survival benefit in adjusted models, supporting earlier reassessment of infection control to optimize surgical timing.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.rec.2026.09.006"
+ },
+ {
+  "idx": 60,
+  "journal": "Heart Rhythm",
+  "title": "A Novel Method for Assessing Left Bundle Branch Capture Using the Bidirectional Conduction Time Difference Between Left Bundle Branch Area Pacing and Coronary Sinus Leads.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Left bundle branch area pacing (LBBAP) is an established conduction system pacing strategy; however, confirming left bundle branch (LBB) capture remains challenging. OBJECTIVE: We propose a novel method for LBB capture confirmation based on the bidirectional conduction time difference between the LBBAP and coronary sinus (CS) leads. METHODS: This observational study included 60 patients undergoing de novo left bundle branch-optimized cardiac resynchronization therapy. LBB capture was defined by (1) paced QRS transition, (2) LBB potential with current of injury, or (3) ΔV6 R-wave peak time ≥10 ms. LBBAP-to-CS and CS-to-LBBAP conduction times were measured. ΔLBB-CS ([CS-to-LBBAP] - [LBBAP-to-CS]) was compared between nonselective LBB pacing (NS-LBBP) and left ventricular septal pacing (LVSP). RESULTS: Among 60 patients (74.7±10.4 years; 42 men), 25 had left bundle branch block and 17 had non-specific intraventricular conduction delay. LBB capture was confirmed in 45 patients (75.0%). LBBAP-to-CS was 114.3±28.0 ms during NS-LBBP (n=43) and 134.2±19.0 ms during LVSP (n=29), whereas CS-to-LBBAP was 143.4±28.5 ms (n=60). ΔLBB-CS was greater during NS-LBBP than LVSP (27.5±9.9 vs. 7.9±7.4 ms, P<0.01). Receiver operating characteristic curve analysis identified a 21.5 ms cutoff for LBB capture (74.4% sensitivity; 100% specificity; area under curve [AUC] 0.95). In patients with baseline LBBB (n=25), a 20.5 ms cutoff for LBB capture yielded 92.9% sensitivity, 100% specificity, and an AUC of 0.99. CONCLUSION: ΔLBB-CS ≥ 21.5ms may serve as a novel adjunctive marker of LBB capture during LOT-CRT, with greater diagnostic accuracy at a 20.5 ms cutoff in patients with baseline LBBB.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.026"
+ },
+ {
+  "idx": 61,
+  "journal": "J Am Heart Assoc",
+  "title": "Thioredoxin-Interacting Protein-Regulated in Development and DNA Damage-Response 1-Driven Macrophage Senescence Promotes Hypoxia-Induced Pulmonary Hypertension.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Pulmonary hypertension (PH) is a life-threatening vascular disorder characterized by pulmonary arterial remodeling and right ventricular failure, posing a significant clinical challenge. Although macrophage dysfunction is implicated in PH pathogenesis, its underlying molecular mechanisms remain elusive. METHODS: We employed multiomics database analysis, cross-species validation, and functional studies in hypoxia-induced PH models. Myeloid-specific Txnip deletion was achieved via bone marrow transplantation in mice. Mechanistic insights were evaluated through protein-binding assays, cellular senescence analyses in bone marrow-derived macrophages, and co-culture experiments with pulmonary artery smooth muscle cells. RESULTS: We identified that cellular senescence in pulmonary adventitial macrophages was involved in the pathogenesis of hypoxia-induced PH. Integrated multiomics analysis revealed elevated TXNIP (thioredoxin-interacting protein) expression in perivascular macrophages during hypoxia-induced PH. Myeloid-specific Txnip deletion attenuated hypoxia-induced pulmonary vascular remodeling in mice. Mechanistically, TXNIP binds to and stabilizes the REDD1 (regulated in development and DNA damage-response 1) protein, promoting hypoxia-induced senescence in bone marrow-derived macrophages. Conditioned medium from senescent macrophages subsequently enhanced the proliferation and migration of pulmonary artery smooth muscle cells. CONCLUSIONS: The TXNIP-REDD1 axis drives hypoxia-induced macrophage senescence, which promotes pulmonary artery smooth muscle cell dysfunction and pulmonary vascular remodeling in hypoxia-induced PH. Targeting the TXNIP-REDD1 pathway may provide a novel therapeutic strategy for hypoxia-induced PH.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049236"
+ },
+ {
+  "idx": 62,
+  "journal": "JACC Heart Fail",
+  "title": "Assessment and Reversibility of Hepatic Abnormalities in Heart Failure: Liver in Heart Failure.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Hepatic abnormalities in non-Fontan heart failure result from congestive hepatopathy and hypoperfusion-related ischemic injury, compounded by neurohormonal activation and systemic inflammation. Assessment of liver disease severity is challenging because standard liver biochemistries, serum fibrosis markers, severity score models, elastography, and imaging modalities have limited diagnostic accuracy in congestive hepatopathy, and hepatic fibrosis is often heterogeneous on histology in this population. Management focuses on optimization of cardiac function through medical therapy or mechanical circulatory support. Although liver biochemical abnormalities frequently improve with restoration of cardiac function, histologic reversibility is variable and not consistently observed. In patients with advanced heart failure needing heart transplantation, histologic cirrhosis and/or fibrosis accompanied by portal hypertension may merit consideration of combined heart-liver transplantation, but correlation between fibrosis and clinical outcomes varies. There remains an unmet need for tests that can reliably assess liver disease severity and predict liver outcomes in non-Fontan congestive hepatopathy.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jchf.2026.103433"
+ },
+ {
+  "idx": 63,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Greenspace visitation and risk of major adverse cardiovascular events: evidence from the Houston methodist cardiovascular learning health system registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: To evaluate whether mobility-derived greenspace visitation, as a behavioural measure of environmental exposure, is associated with major adverse cardiovascular events (MACE) independent of individual and neighbourhood factors. METHODS AND RESULTS: We conducted a retrospective cohort study of adults in the Houston Methodist Cardiovascular Disease Learning Health System Registry (2016-2023). Greenspace visitation was defined at the census-tract level using mobility-derived foot-traffic data and modelled as annual visits per resident device. The primary outcome was incident MACE (myocardial infarction, stroke, coronary revascularization, and all-cause mortality). The Cox models, restricted cubic splines, and Kaplan-Meier curves assessed associations with sequential adjustment for demographics, comorbidities, smoking, and neighbourhood social vulnerability. Among 1 088 866 adults without baseline atherosclerotic cardiovascular disease, median (SD) age was 49 (17.6) years, and 59.9% were female. Greenspace visitation varied across neighbourhoods and by demographic and socioeconomic characteristics. Each additional 10 annual visits was associated with lower MACE risk in unadjusted models [hazard ratio (HR) 0.82; 95% confidence interval (CI): 0.81-0.83] and after adjustment for demographics, comorbidities, and smoking (HR 0.89; 95% CI: 0.88-0.91). A non-linear relationship showed risk reductions at low-to-moderate visitation, plateauing at 10-15 visits annually. After adjusting for social vulnerability, associations were attenuated and no longer significant. The Kaplan-Meier curves showed higher event-free survival in high-visitation areas, consistent across MACE components. CONCLUSION: Mobility-derived greenspace visitation is associated with lower cardiovascular risk. These findings highlight greenspace engagement as a potentially modifiable behavioural exposure and support strategies to enhance access and utilization of greenspaces for cardiovascular prevention.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag470"
+ },
+ {
+  "idx": 64,
+  "journal": "Heart Rhythm",
+  "title": "Pulmonary Vein Isolation With Contact-Force-Sensing Large-Tip Focal Pulsed Field Ablation Catheter With 3D Mapping for Paroxysmal Atrial Fibrillation: Omny-IRE 12-month Results.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Omny-IRE (NCT05971693) evaluated safety and effectiveness of a large-tip focal, multielectrode, contact-force-sensing, pulsed field ablation, basket catheter with electroanatomic mapping integration. OBJECTIVE: Report 12-month (M) study outcomes. METHODS: Pulmonary vein isolation was performed using the OMNYPULSE platform. Patients underwent follow-up through 12M postablation visit with electrocardiography (preprocedure, predischarge, and at 1, 3, 6, and 12M), 24-hour Holter monitoring (3, 6, and 12M), and remote rhythm monitoring (weekly: 1-5M; monthly: 6-12M; and symptom-triggered recordings). The secondary effectiveness endpoint was 12M freedom from documented symptomatic/asymptomatic atrial arrhythmia (≥30 s) and acute procedural failure. Device/procedure-related serious adverse events (SAEs), quality-of-life assessed by Atrial Fibrillation Effect on Quality-of-Life (AFEQT) scores, and healthcare-utilization (cardiovascular-hospitalizations and antiarrhythmic drug [AAD] use) were also evaluated. RESULTS: Among 188 enrolled patients, 136 comprised the main-phase-cohort for safety and effectiveness evaluations. In this cohort, 12M freedom from symptomatic/asymptomatic atrial arrhythmia was 82.5% (90.1% using standard-of-care monitoring only). Clinical success, defined as freedom from documented symptomatic arrhythmia and acute procedural failure, was 89.9%, while single procedural success was 89.2%. Device/procedure-related SAEs occurred in 2.9% of main-phase patients. Mean overall AFEQT score improved by 25.5 points from baseline to 12M. Cardiovascular-hospitalizations decreased by 40.9% versus the 12M preprocedure period, and Class I/III AAD use decreased by 49.3% 6-12M postablation versus baseline. CONCLUSIONS: Omny-IRE results demonstrated the effectiveness, safety, and healthcare benefits of PFA with the OMNYPULSE platform.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.008"
+ },
+ {
+  "idx": 65,
+  "journal": "Ann Intern Med",
+  "title": "Diagnosis and Treatment of Cardiovascular Conditions in Medicare Advantage In-Home Health Risk Assessments.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Medicare Advantage insurers conduct in-home health risk assessments (HRAs) to identify high-risk patients and facilitate appropriate care. Critics argue this practice increases risk-adjusted payments without improving quality. Comprehensive data on use of in-home HRAs and downstream treatment are lacking. OBJECTIVE: To examine trends in cardiovascular conditions diagnosed during in-home HRAs, characteristics associated with HRA-based diagnoses, and treatment rates after diagnoses. DESIGN: Cohort study. SETTING: Population-based. PARTICIPANTS: Medicare Advantage beneficiaries. MEASUREMENTS: Using 100% Medicare claims, trends in the proportion of cardiovascular conditions diagnosed during in-home HRAs (vs. facility-based visits) were examined. Multivariable logistic regression models were fit to estimate the association between beneficiary- and plan-level characteristics and HRA-based diagnoses and compare treatment rates across settings. RESULTS: Among 21 496 506 Medicare Advantage beneficiaries diagnosed with a cardiovascular risk factor or disease, the proportion diagnosed during in-home HRAs increased between 2018 and 2022 for hypertension (45.9% to 47.7%), hyperlipidemia (57.8% to 66.7%), diabetes (47.8% to 51.6%), atrial fibrillation (30.0% to 36.0%), ischemic heart disease (37.2% to 41.6%), peripheral vascular disease (64.5% to 73.9%), and heart failure (34.7% to 42.6%). Racial and ethnic minority beneficiaries and those enrolled in lower-rated plans were more likely to receive HRA-based diagnoses. Treatment rates were substantially lower after HRA-based diagnoses across all conditions. LIMITATIONS: Differences in the severity of conditions between groups could not be assessed. Prescription fills were used as a proxy for management. Observed differences in the diagnosis and treatment of conditions across encounter settings may be susceptible to unmeasured confounding. CONCLUSION: Among Medicare Advantage beneficiaries, an increasingly large share of cardiovascular conditions are being diagnosed through in-home HRAs, but treatment rates after these diagnoses are consistently lower than after facility-based encounters. PRIMARY FUNDING SOURCE: National Heart, Lung, and Blood Institute.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.7326/ANNALS-26-01366"
+ },
+ {
+  "idx": 66,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Effect of Obicetrapib on Glycaemia and New-Onset Diabetes: Pooled Analysis of BROADWAY/BROOKLYN and an Updated Meta-analysis of CETP Inhibitor Trials.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: New-onset diabetes (NoD) is a recognised effect of statin therapy potentially influencing acceptance of intensive LDL-C-lowering. In contrast, cholesteryl ester transfer protein (CETP) inhibition has been associated with lower NoD risk in earlier trials. We assessed the effect of the highly selective CETP inhibitor obicetrapib on glycaemia and NoD, contextualised within an updated meta-analysis of CETP inhibitor trials. METHODS: Individual participant data from the phase 3 BROADWAY and BROOKLYN trials were pooled across 1,700 participants without diabetes at baseline (899 normoglycaemic, 801 prediabetes; 38.8% women), randomised 2:1 to obicetrapib 10 mg or placebo for 52 weeks. The PRISMA-compliant, PROSPERO-registered systematic review identified six eligible trials reporting NoD. Pooled risk ratios were calculated using Mantel-Haenszel fixed-effect models, with prespecified subgroup analyses by baseline glycaemic status and CETPi potency, and trial-level meta-regression. RESULTS: Obicetrapib did not increase HbA1c at week 52 vs placebo (LSMD -0.02%, 95% CI -0.04 to 0.00). NoD occurred in 6.4% (obicetrapib) versus 8.5% (placebo) (adjusted OR 0.69, 95% CI 0.47-1.03), directionally consistent across glycaemic strata. Restricted cubic spline analyses identified associations between HDL-C, apoA1 and Lp(a) changes and NoD risk, but not HbA1c change. In the meta-analysis, CETP inhibition was associated with a 16% lower risk of NoD (RR 0.84, 95% CI 0.79-0.90; I2 = 0%). CONCLUSIONS: Obicetrapib did not adversely affect glycaemia and was associated with a numerically lower risk of NoD, consistent with a CETP inhibitor class signal of a modestly lower risk. The PREVAIL trial will provide larger-longer evidence about obicetrapib and NoD.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag551"
+ },
+ {
+  "idx": 67,
+  "journal": "Europace",
+  "title": "Safety considerations and clinical monitoring during pulsed field ablation.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Pulsed field ablation (PFA) has emerged as a transformative technology in cardiac electrophysiology, offering a potentially superior safety profile compared with thermal ablation due to its non-thermal mechanism of irreversible electroporation. Clinical experience confirms a substantial reduction in traditional complications such as pulmonary vein stenosis, atrio-oesophageal fistula, and permanent phrenic nerve injury, though PFA introduces a distinct spectrum of physiologic effects requiring consideration. Coronary vasospasm is the most characteristic phenomenon, ranging from transient, subclinical constriction to rare ischaemic or arrhythmic events; mitigation relies on coronary anatomical awareness, optimized lesion placement, and prophylactic vasodilators. Haemolysis, caused by red blood cell electroporation, varies with catheter design and pulse burden and is typically mild, though high exposure and inadequate hydration may rarely lead to acute kidney injury. Silent cerebral lesions could result from procedural and/or energy-related factors, including gas formation, air ingress, catheter manipulation, and anticoagulation management, with uncertain long-term clinical impact but opportunities for technique-driven reduction. Interactions between PFA and cardiac implantable electronic devices are system- and context-dependent, with monopolar configurations and catheter-lead proximity influencing the risk of transient interference and rare permanent damage.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag248"
+ },
+ {
+  "idx": 68,
+  "journal": "J Am Heart Assoc",
+  "title": "Shared Genetic Architecture Between Mental Disorders and Heart Failure Subtypes: A Comprehensive Multitrait Genome-Wide Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Mental disorders and heart failure frequently co-occur, but their shared genetic architecture remains incompletely understood. METHODS: Prospective Cox regression analysis in the UK Biobank (UKB) quantified the risk of incident heart failure associated with mental disorders. Linkage disequilibrium score regression estimated genetic correlations, while multitrait genome-wide association and cross-phenotype association analyses identified candidate pleiotropic loci. Statistical fine mapping and gene-level association analyses prioritized candidate variants and genes. Bayesian colocalization assessed evidence for shared candidate variants, and exploratory Gene Ontology biological-process overrepresentation analysis provided descriptive biological context. Single-cell RNA sequencing and genetically informed spatial mapping (gsMap) provided cellular and spatial context for prioritized genes. Geneformer-based in silico perturbation analysis was performed using a cardiac cell atlas of dilated cardiomyopathy to prioritize candidate pleiotropic genes and identify cardiac cell states showing predicted embedding shifts. RESULTS: Prospective UKB analyses demonstrated that mental disorders, such as posttraumatic stress disorder, depression, and bipolar disorder, were associated with a higher risk of incident heart failure. Multitrait analysis identified 607 pleiotropic variants, with fine-mapping and colocalization converging on prioritized candidate loci, including TMEM18, NKX2-2, and XRN2. Single-cell expression profiling and spatial mapping provided context at the cellular and tissue levels for the prioritized genes. Geneformer-based in silico perturbation prioritized FOXP1 and TMEM106B as leading pleiotropic candidate genes on the basis of their predicted changes in downstream gene embeddings in cardiac cellular contexts. CONCLUSIONS: This study identifies shared genetic architecture between mental disorders and heart failure and prioritizes candidate pleiotropic genes associated with both. Transcriptomic and in silico perturbation analyses provide exploratory cellular, spatial, and cardiac functional context. Functional validation is required before mechanistic or therapeutic interpretation.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.052657"
+ },
+ {
+  "idx": 69,
+  "journal": "Nat Cardiovasc Res",
+  "title": "Cardiomyocyte-expressed TGFβ programs early heart maturation and adult myocyte identity.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Transforming growth factor β (TGFβ) is a secreted factor sequestered in the extracellular matrix (ECM), but its role in developing mouse heart maturation is unknown. Here we show that cardiomyocyte-specific deletion of Tgfb1, Tgfb2 and Tgfb3 genes (TGFβ ligands) in the developing heart results in cardiac dysfunction by 6 weeks of age, altered fibroblast activity, abnormal ECM properties and endothelial and immune changes. Gene profiling reveals defective cardiomyocyte/fibroblast maturation with cardiomyocyte ectopic skeletal muscle gene expression beginning at embryonic day 17.5 (E17.5). Cardiomyocyte deletion of Tgfbr1/Tgfbr2 or Smad2/Smad3 does not phenocopy Tgfb1/2/3 deletion, suggesting that cardiomyocyte TGFβ acts through non-myocytes to regulate heart maturation. Similarly, Col1a2-/-;Col6a2-/- mice with reduced ECM stiffness, cardiomyocyte-specific Itgb1 deletion reducing ECM mechanosensing and Tcf21-/- embryos lacking cardiac fibroblasts fail to reproduce ectopic skeletal muscle gene expression. Thus, embryonic cardiomyocyte-derived TGFβ signals to non-myocytes to establish an environment that directs cardiomyocyte maturation and identity.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s44161-026-00892-6"
+ },
+ {
+  "idx": 70,
+  "journal": "JACC Clin Electrophysiol",
+  "title": "The Vein of Marshall Promotes Re-Entry After Pulmonary Vein Reconnection.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Postablation re-entrant atrial tachycardia recurrence remains a major limitation of atrial fibrillation (AF) ablation. Pulmonary vein (PV) reconnection and epicardial connections from the left atrium (LA) to the vein of Marshall (VoM) and coronary sinus (CS) in proximity to mitral valve are important contributors. We hypothesized that VoM facilitates arrhythmia induction through interaction with the epicardial region encircled by wide antral circumferential ablation (WACA). OBJECTIVES: The objective of this study was to systematically evaluate the combined effect of PV reconnection and epicardial VoM connectivity on the occurrence of sustained postablation re-entrant atrial tachycardia using in silico models. METHODS: Bilayer biatrial models were constructed from electroanatomical and computed tomographic data of 10 patients with AF. Post-AF electrical remodeling and substrate remodeling following the low voltage area distribution, and left-sided WACA were incorporated. Segments of WACA lesions were sequentially restored to simulate PV reconnection. Three connectivity scenarios were evaluated: intact CS-VoM-LA epicardial connection, CS-LA connection only, and no epicardial connections. Sustained re-entry (>10 seconds) was the primary endpoint, and connectivity conditions were compared using patient-level paired vulnerability. Induction of any arrhythmia, tachycardia cycle length, and stable rotor number were secondary outcomes. RESULTS: Sustained re-entry occurred at 92 of 294 (31.3%) reconnection sites with intact CS-VoM-LA connectivity, 37 of 294 (12.6%) with CS-LA connectivity only, and 29 of 294 (9.9%) without epicardial connectivity. Patient-level paired analysis showed 19.9-percentage-point and 22.7-percentage-point higher vulnerability with intact CS-VoM-LA connectivity compared with CS-LA connectivity alone (95% CI: 7.1-37.3 percentage points) and no epicardial connectivity (95% CI: 7.4-41.3 percentage points), respectively. Mean tachycardia cycle length in the LA was 258.0 ± 25.7 milliseconds, 255.0 ± 31.4 milliseconds, and 251.0 ± 33.9 milliseconds across the 3 scenarios; the average number of stable rotors was 0.6 ± 0.3, 0.7 ± 0.2, and 0.4 ± 0.2, respectively. CONCLUSIONS: The VoM is a critical epicardial driver of arrhythmia after incomplete WACA, underscoring the importance of its targeted ablation.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacep.2026.09.024"
+ },
+ {
+  "idx": 71,
+  "journal": "BMJ",
+  "title": "Acetic acid chromoendoscopy for detection of neoplastic Barrett's oesophagus: stepped wedge cluster randomised controlled trial (ACID-trial).",
+  "ptypes": [
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Multicenter Study"
+  ],
+  "abstract": "OBJECTIVE: To assess the added value of acetic acid chromoendoscopy (AAC) for the detection of dysplasia and oesophageal adenocarcinoma during Barrett's oesophagus surveillance endoscopies. DESIGN: Prospective, open label, stepped wedge cluster, randomised trial. SETTING: 18 Dutch community hospitals. PARTICIPANTS: Patients undergoing surveillance for Barrett's oesophagus were eligible, excluding those with known or previously treated dysplasia. INTERVENTIONS: Hospitals randomly shifted from surveillance without AAC (control) to AAC (intervention), with endoscopists trained before implementation. Targeted biopsies were obtained if lesions were present; random four quadrant biopsies were conducted. MAIN OUTCOME MEASURES: The primary endpoint was the neoplasia detection rate, defined as the percentage of participants with low grade dysplasia, high grade dysplasia, and oesophageal adenocarcinoma in any biopsy, confirmed by an experienced gastrointestinal pathologist. The secondary endpoint was the neoplasia detection rate in targeted biopsies. RESULTS: 2267 participants were included, of whom 1438 (63%) were allocated to surveillance without AAC and 829 (37%) to surveillance with AAC; AAC was applied in 679 (82%) allocated participants. Overall, neoplasia was diagnosed in 163 (7.2%) participants (111 (4.9%) low grade dysplasia, 30 (1.3%) high grade dysplasia, and 22 (1.0%) oesophageal adenocarcinoma). AAC use did not increase the neoplasia detection rate (7.4% (50/679) with AAC versus 7.1% (113/1588) without AAC; odds ratio 0.97, 95% confidence interval 0.65 to 1.44; adjusted for calendar time and Barrett's oesophagus length). Suspected lesions were detected in 95 (14.0%) participants receiving AAC versus 101 (6.4%) without AAC (P<0.001), but the targeted neoplasia detection rate was not higher (2.1% (14/679) versus 1.8% (29/1588); odds ratio 1.05, 0.49 to 2.24). CONCLUSIONS: Use of AAC did not improve detection of neoplasia in patients with Barrett's oesophagus undergoing endoscopic surveillance in routine clinical practice. TRIAL REGISTRATION: www.onderzoekmetmensen.nl; NL-OMON25059 (prospective registration; 4 Dec 2019).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1136/bmj-2026-100872"
+ },
+ {
+  "idx": 72,
+  "journal": "JAMA Cardiol",
+  "title": "Advanced Subclinical Atherosclerosis in Young Individuals and Risk of Mortality Over 30 Years: The Coronary Artery Calcium Consortium.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: Coronary artery calcium (CAC) scoring is a well-established tool for predicting cardiovascular risk, but its long-term prognostic value in young adults remains unclear. As early preventive intervention may yield substantial lifetime benefit, understanding long-term implications of elevated CAC in young adults is important for informing prevention strategies. OBJECTIVE: To investigate the long-term risk of all-cause, cardiovascular disease (CVD), and coronary heart disease (CHD) mortality associated with premature advanced subclinical atherosclerosis. DESIGN, SETTING, AND PARTICIPANTS: This cohort study used the CAC Consortium dataset, a retrospectively assembled cohort of referred individuals with clinically indicated CAC scans. Using multivariable regression models for time-to-event analysis, the association of CAC with all-cause, CVD, and CHD mortality was assessed, adjusting for age, sex, and traditional atherosclerotic CVD risk factors. Cumulative incidence was derived for these outcomes in 5-year increments up to 30 years using a mixed approach involving the Kaplan-Meier method and Weibull modeling. The proportion of deaths attributable to CVD and CHD across CAC groups was evaluated. Four institutions across the US provided patient-level data to assemble the CAC Consortium. Included in the analysis were adults aged 30 to 45 years from the CAC Consortium. They were followed up for a median of 22.6 years. Study data were analyzed from October 2025 to September 2026. EXPOSURE: Elevated CAC in adults aged 30 to 45 years, specifically CAC score greater than 90%. MAIN OUTCOMES AND MEASURES: Participants were followed up for underlying cause of mortality. RESULTS: Among 12 847 participants, the mean (SD) age was 40.5 (3.6) years, and 9922 (77.2%) were male; 9262 (72.1%) had CAC score of 0, 1626 (12.7%) had a CAC score between 75% to 90%, and 1703 (13.3%) had a CAC score greater than 90%. In total, there were 624 deaths (149 CVD and 81 CHD). Multivariable adjusted hazard ratios for CAC score greater than 90% vs CAC score of 0 were 1.87 (95% CI, 1.54-2.27), 2.60 (95% CI, 1.77-3.82), and 3.71 (95% CI, 2.24-6.16), for all-cause, CVD, and CHD mortality, respectively. Over 30 years, the group with a CAC score greater than 90% had significantly higher modeled risk of all-cause (12.9% vs 7.5%), CVD (4.5% vs 1.5%), and CHD (3.0% vs 0.6%) mortality, compared with the group with a CAC score of 0. CONCLUSIONS AND RELEVANCE: Results of this cohort study suggest that young adults with a CAC score greater than 90% face significantly higher long-term risk of all-cause, CVD, and CHD mortality, suggesting potential implications for guiding the intensification of preventive intervention in this high-risk phenotype.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1001/jamacardio.2026.4819"
+ },
+ {
+  "idx": 73,
+  "journal": "EuroIntervention",
+  "title": "Early outcomes of transcatheter vacuum-assisted mass extraction in the left heart and the aortic arch.",
+  "ptypes": [
+   "Journal Article",
+   "Multicenter Study"
+  ],
+  "abstract": "BACKGROUND: Transcatheter vacuum-assisted mass extraction (TVME) in the systemic circulation is increasingly being reported. However, its feasibility, effectiveness, and safety remain poorly defined. AIMS: We sought to investigate the feasibility, effectiveness and safety of TVME in the left heart and aortic arch. METHODS: Consecutive patients from 6 centres in the United States and Canada were included. Feasibility was defined as technically successful mass extraction without unplanned cardiac surgery or intraprocedural mortality. The effectiveness endpoint was feasibility with successful debulking of ≥70% mass volume. The primary safety endpoint was the 30-day composite of procedure-attributable mortality, major cardiac structural complications, major vascular complications, Type 3-4 bleeding, acute coronary syndrome (ACS), and stroke, all according to Valve Academic Research Consortium (VARC)-3 definitions. Intraprocedural events were also reported. RESULTS: A total of 62 consecutive patients were evaluated. Feasibility was reached in 85.5% of patients and effectiveness in 77.4% of patients - except for 11.3% with suboptimal debulking, 3.2% with access-related case abortion, and 8.1% with case cancellation where no mass was found intraprocedurally. The primary safety endpoint occurred in 14.5% of patients, with a procedure-attributable mortality rate of 3.2%. VARC-3 major cardiac structural complications, major vascular complications, Type 3-4 bleeding, ACS, and stroke occurred in 3.2%, 8.1%, 3.2%, 3.2%, and 6.5% of patients, respectively. Intraprocedural events included hypoxia (6.5%), hypotension (9.7%), embolism (3.2%), air embolism (1.6%), and increased mitral regurgitation (6.5%). CONCLUSIONS: TVME in left-sided and aortic arch masses is feasible and demonstrates reasonable effectiveness. However, the considerable rate of safety-related events highlights the need for better case selection and procedural refinement, such as optimal embolic protection.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.4244/EIJ-D-26-00347"
+ },
+ {
+  "idx": 74,
+  "journal": "Nat Cardiovasc Res",
+  "title": "Translational biology of human cardiac fibrosis.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Cardiac fibrosis is a pathological process that arises as a compensatory response to injury or mechanical stress and is a common feature across diverse cardiovascular diseases. Here, we review recent advances in the translational biology of human cardiac fibrosis, highlighting insights from single-cell studies of human cardiac fibroblasts and genetic analyses of fibrotic phenotypes using cardiac imaging. We discuss the heterogeneity and origins of cardiac fibroblasts, the role of immune-fibroblast cross-talk in fibrogenesis, and the utility of imaging and circulating biomarkers for assessing fibrotic burden. Existing antihypertensive therapies have demonstrated direct effects on cardiac fibroblasts and tissue-level fibrosis, while emerging targeted anti-fibrotic therapies have shown promise in reducing fibrotic biomarkers, although their clinical importance remains to be established. Further research is needed to clarify the relationship between cardiac fibrosis and clinical outcomes, which will be essential for the development and implementation of novel anti-fibrotic interventions in targeted patient populations.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s44161-026-00891-7"
+ }
+]

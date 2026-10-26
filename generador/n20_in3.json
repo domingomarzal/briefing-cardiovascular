@@ -1,0 +1,306 @@
+[
+ {
+  "idx": 75,
+  "journal": "JACC Adv",
+  "title": "Atrial Fibrillation in Valvular Heart Disease: Assessing the Impact of Genetics in the UK Biobank.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Atrial fibrillation (AF) in valvular heart disease (VHD) is generally attributed to pressure or volume overload with atrial remodeling, but the independent contribution of genetic predisposition remains unclear. OBJECTIVES: The authors evaluated the predictive value of a previously developed AF polygenic risk score (PRS) across VHD subtypes in the UK Biobank. METHODS: In this prospective cohort study (UK Biobank, 2000-2022), incident AF and VHD status were defined using ICD codes. VHD subtypes included mitral valve (MV) disease (MV prolapse [MVP], mitral regurgitation, mitral stenosis) and aortic valve (AV) disease (aortic stenosis, aortic regurgitation). PRS was categorized into quintiles and grouped as low, intermediate, and high. RESULTS: Among 452,841 participants with available PRS, 385 had MVP, 1,058 mitral regurgitation, 81 mitral stenosis, 421 aortic regurgitation, and 509 aortic stenosis. In Cox models, PRS was independently associated with incident AF in MV disease (HR: 1.7, P = 0.03 for intermediate PRS; HR: 2.3, P = 0.002 for high PRS), with the strongest effect in MVP (HR: 3.1, P = 0.03 for high PRS). In AV disease, PRS was not significantly associated with AF risk (P = 0.93 and P = 0.07 for intermediate and high PRS, respectively). Interaction analyses confirmed attenuation or absence of the PRS effect in AV disease (P = 0.04 and P = 0.004 for intermediate and high PRS, respectively), whereas no significant interaction was observed in MV disease (P = 0.80 and P = 0.11, respectively). CONCLUSIONS: In VHD, AF PRS predicts AF risk, but the genetic impact differs by subtype. AV disease shows minimal genetic contribution, suggesting predominantly hemodynamic risk, while MV disease-particularly MVP-shows substantial genetic influence.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103355"
+ },
+ {
+  "idx": 76,
+  "journal": "Europace",
+  "title": "Pulsed field ablation: from concepts to technology.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "AIMS: Pulsed field ablation (PFA) has emerged as a transformative approach for treating cardiac arrhythmias by exploiting irreversible electroporation to preferentially injure myocardium while limiting collateral damage. Translating this biophysical principle into safe and effective clinical systems requires careful integration of waveform design, catheter engineering, computational and experimental modelling, safety testing, and procedural workflow. OBJECTIVE: This review summarizes the fundamental physical and engineering principles that govern cardiac PFA and examines how these principles influence efficacy, safety, lesion formation, and clinical usability. BIOPHYSICAL AND TECHNICAL CONSIDERATIONS: Electroporation is governed primarily by the local electric field and waveform-dependent lethal thresholds rather than generator voltage alone. Key waveform variables include monophasic vs. biphasic pulses, microsecond vs. nanosecond pulse widths, duty cycle, and total application duration. Catheter design further determines electric field distribution, lesion geometry, current density, and applicability across anatomic targets, with important distinctions between bipolar and monopolar configurations. MODELLING AND SAFETY: Experimental and computational approaches used to investigate PFA include finite element simulations, cell culture systems, vegetal substrates, and in vivo animal models, each with distinct strengths and limitations. High-voltage pulse delivery can also produce unintended effects, including Joule heating, electrochemical reactions, bubble formation, arcing, and interactions with implanted electronic devices. These phenomena highlight the importance of optimized waveform design, electrode configuration, and safety monitoring. CLINICAL USABILITY: Clinical adoption depends not only on biological efficacy and safety but also on workflow efficiency, catheter versatility, procedure duration, mapping integration, anaesthesia requirements, and adaptability to differing clinical practices and geographic settings. CONCLUSIONS: The performance of a PFA system reflects the interaction of biophysics, waveform characteristics, catheter design, modelling, safety controls, and procedural usability. Understanding these interconnected principles is essential for developing PFA technologies that are effective, safe, predictable, and practical for contemporary electrophysiology laboratories.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag205"
+ },
+ {
+  "idx": 77,
+  "journal": "JACC Adv",
+  "title": "Finerenone-Empagliflozin Combination Therapy in Apparent Resistant Hypertension: A CONFIDENCE Trial Post Hoc Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Apparent treatment-resistant hypertension (aTRH) is common in chronic kidney disease (CKD) with type 2 diabetes and predicts worse outcomes. Spironolactone, the established fourth-line agent, is limited by hyperkalemia in CKD. OBJECTIVES: This analysis assessed whether finerenone plus empagliflozin lowers blood pressure (BP) meaningfully in aTRH, and whether aTRH modifies these agents' efficacy and safety. METHODS: Post hoc analysis of CONFIDENCE (NCT05254002), a double-blind randomized trial of finerenone, empagliflozin, or both in CKD with albuminuria and type 2 diabetes. aTRH was BP ≥130/80 mm Hg on 3 antihypertensive drugs, or ≥4 drugs regardless of BP. Mixed models and logistic regression identified predictors of BP response. RESULTS: Of the 796 participants, 307 (39%) had aTRH; they were older, more obese, and had more atherosclerotic cardiovascular disease, higher albuminuria, and higher systolic BP (140.9 vs 131.5 mm Hg) but similar estimated glomerular filtration rate (53 vs 55 mL/min/1.73 m2). Combination therapy lowered systolic BP more than either monotherapy. Independent predictors of a ≥10 mm Hg systolic BP fall were aTRH (OR: 1.56; 95% CI: 1.08-2.25) and higher baseline estimated glomerular filtration rate (OR: 1.15 per 10 mL/min/1.73 m2; 95% CI: 1.05-1.26); diuretic use and albuminuria were not. The aTRH effect was treatment-independent (interaction P = 0.21). Adverse events were more frequent with aTRH (63.8% vs 51.1%), yet on combination therapy hyperkalemia was less frequent (11.2% vs 17.5%). CONCLUSIONS: aTRH affected approximately 40% of participants and marked a higher-risk phenotype responsive to finerenone-empagliflozin, with BP reductions comparable to spironolactone but without the excess hyperkalemia that limits its use in CKD.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103388"
+ },
+ {
+  "idx": 78,
+  "journal": "J Am Heart Assoc",
+  "title": "Integrative Genomic Analyses Identify Collagen Type XXI Alpha 1 Chain and ENPEP-Fibroblast Growth Factor 5 Regulatory Pathways for Blood Pressure Variation in East Asian People.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Hypertension and diabetes are common cardiometabolic disorders that may share genetic and environmental risk factors. However, the regulatory genes and tissue-specific mechanisms underlying blood pressure variations remain incompletely understood. METHODS: Leveraging a well-characterized prospective population-based cohort comprised of 27 308 participants from the SCHS (Singapore Chinese Health Study), we evaluated genome-wide genetic associations for 5 blood pressure traits: hypertension status, systolic blood pressure, diastolic blood pressure, mean arterial pressure and pulse pressure. Additionally, we conducted a transcriptome-wide association study, integrating gene expression data from 49 tissues, followed by colocalization and fine-mapping to prioritize regulatory genes. Association of identified variants with incident diabetes was additionally evaluated in the longitudinal data. RESULTS: We validated 10 blood pressure loci (P between 1.64×10-20-4.10×10-8) and identified an East Asian-specific splice donor variant at the COL21A1 gene associated with pulse pressure (rs149344559, P=6.78×10-10). Integrative analyses prioritized FGF5 in kidney cortex and ENPEP in pituitary tissue as candidate regulatory genes. The blood pressure-lowering allele at ENPEP (T allele, rs1879056) was associated with reduced risk of incident diabetes. Mediation analysis demonstrated that ∼20.1% of the genetic association with diabetes was mediated through mean arterial pressure (Pindirect-effect<0.001). CONCLUSIONS: This study refines genetic predispositions for blood pressure among East Asian individuals. We further delineate tissue-specific regulatory pathways underlying blood pressure variations and identify ENPEP-mediated dysfunctions linking blood pressure genetics to diabetes risk, underscoring integrated disease mechanisms.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.052309"
+ },
+ {
+  "idx": 79,
+  "journal": "J Am Heart Assoc",
+  "title": "Residual Risk From Remnant Cholesterol and Inflammation Despite Lipid-Lowering Therapy and Association With Incident Peripheral Artery Disease in Type 2 Diabetes.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Despite guideline-recommended lipid-lowering therapy, patients with type 2 diabetes retain a significant residual risk for peripheral artery disease (PAD). The contributions of remnant cholesterol (RC) and systemic inflammation in this treated population, particularly beyond achieved low-density lipoprotein cholesterol, remain incompletely understood. METHODS: This prospective cohort study included 18 741 participants with type 2 diabetes from the UK Biobank who were free of PAD and were on lipid-lowering therapy at baseline. Plasma RC and hsCRP (high-sensitivity C-reactive protein) levels were measured at baseline. Incident PAD was ascertained over a median follow-up of 13.6 years. Multivariable Cox models were used to estimate hazard ratios after adjustment for demographic, clinical, metabolic, and treatment-related covariates, including low-density lipoprotein cholesterol and baseline coronary artery disease. RESULTS: During follow-up, incident PAD occurred in 1223 participants (6.5%). Elevated RC and hsCRP levels were each independently linked to an increased risk of PAD. Participants with concurrent elevations in both RC and hsCRP exhibited the highest risk of incident PAD. These associations remained robust across multiple sensitivity analyses, including exclusion of participants with baseline coronary artery disease, removal of events within the initial 2-year follow-up, elimination of individuals with hsCRP >10 mg/L, competing-risk analyses accounting for death, and further adjustment for detailed lipid-lowering therapy categories. CONCLUSIONS: Among patients with type 2 diabetes receiving lipid-lowering therapy for primary prevention of PAD, elevated RC and systemic inflammation are independently and jointly associated with future PAD risk. These findings highlight substantial residual risk beyond managed low-density lipoprotein cholesterol and support the need for further strategies targeting both remnant lipoproteins and inflammation in this high-risk population.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049813"
+ },
+ {
+  "idx": 80,
+  "journal": "JACC Adv",
+  "title": "Decoding Atrial Fibrillation Heterogeneity: A Nationwide Phenome-Wide Association Study in England.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Age and sex influence atrial fibrillation (AF) prevalence and outcomes, yet comprehensive data on sex- and age-specific health care utilization in patients newly diagnosed with AF remain limited. OBJECTIVES: We aimed to address this gap using a phenome-wide association study (Phe-WAS) approach. METHODS: We conducted a retrospective cohort study using nationwide Clinical Practice Research Datalink data linked to Hospital Episodes Statistics. Adults diagnosed with AF between 1998 and 2016 (n = 199,433) were matched 1:1 by age and sex to non-AF control subjects. Primary and secondary care interactions 5 years post diagnosis were analyzed using Phe-WAS with Bonferroni-adjusted significance thresholds. Logistic regression estimated odds ratios for conditions in AF vs control groups, stratified by sex and age. Associations were assessed for novelty through literature review and causality using published Mendelian randomization studies. RESULTS: Patients with AF had higher rates of cardiovascular and noncardiovascular conditions than control subjects, with marked sex- and age-specific patterns. Women had more bleeding complications, pneumonia, Clostridium difficile enterocolitis, cholangitis, and electrolyte disturbances, whereas men had higher rates of alcohol-related disorders, ventricular arrhythmias, cardiac arrest, and cardiomyopathy. Younger patients with AF (<50 years) more often had alcohol-related mental and behavioral disorders, gout, and dilated cardiomyopathy, while older patients (>60 years) more often had heart failure, ischemic stroke, renal failure, and respiratory infections. Of 51 phenotypes more common in AF, 28 were previously reported, and 23 were potentially novel. Mendelian randomization analyses suggested AF was causal for 19 associations. CONCLUSIONS: This Phe-WAS demonstrates the broad spectrum of health care interactions in AF beyond traditional cardiovascular complications.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103352"
+ },
+ {
+  "idx": 81,
+  "journal": "Heart Rhythm",
+  "title": "High-Frequency Electrograms Abolition as a Valuable Target for Remap During Ventricular Tachycardia Ablation. The HF REMAP Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: peak frequency (PF) analysis has recently emerged as a novel tool to assess electrogram properties through their frequency spectrum. PF is an indirect marker of local myocardial activity, and its reduction after radiofrequency ablation reflects effective tissue modification. OBJECTIVE: our study aims to evaluate PF analysis as an objective method to validate lesion efficacy during ventricular tachycardia (VT) ablation. METHODS: we retrospectively analyzed 43 (out of 247) consecutive patients who underwent VT ablation between January 2023 and December 2024, using the EnSite X mapping system with Advisor HD Grid catheter (Abbott, Minneapolis, USA). Complete pre- and post-ablation high-density sinus rhythm maps were obtained. PF analysis was applied offline to quantify the residual high-frequency (HF) electrogram burden, expressed as a percentage of the ablated area. Patients were stratified according to residual HF burden, and outcomes were assessed with Kaplan-Meier survival analysis and Cox regression analysis. RESULTS: During a median follow-up of 372 days, 11 patients reached the primary endpoint (VT recurrence or arrhythmic storm). Patients with <70% residual HF post-ablation had significantly higher VT-free survival (≈90% at 12 months) compared to those with ≥70% residual HF (≈25%; log-rank p<0.001). Cox regression confirmed residual HF ≥70% as an independent predictor of recurrence (HR 13.36; 95% CI 3.52-50.7; p<0.001). CONCLUSION: PF analysis during re-mapping provides an operator-independent, reproducible tool to validate lesion efficacy. A low post-ablation residual HF burden is associated to a significantly increased VAs-free survival rate.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.020"
+ },
+ {
+  "idx": 82,
+  "journal": "J Am Heart Assoc",
+  "title": "Targeting Mediator Kinase Attenuates Cardiac Hypertrophy by Regulating Enhancer Utilization.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cardiac hypertrophy is characterized by extensive transcriptional remodeling that contributes to the progression of heart failure. Preclinical models demonstrate that therapies targeting hypertrophic responses can mitigate disease severity. Recent evidence shows that failing human and murine hearts exhibit elevated mediator kinase expression, sufficient to drive eccentric hypertrophy and heart failure through activation of hypertrophic gene programs. Mediator kinase inhibition suppresses oncogenic transcription by altering enhancer utilization, suggesting similar mechanisms may attenuate pathological remodeling in the heart. This study investigates whether mediator kinase inhibition can blunt cardiomyocyte hypertrophy, offering a potential therapeutic strategy for heart failure. METHODS: Two structurally unrelated mediator kinase inhibitors, Senexin A (SxnA) and CCT251545, were tested in neonatal rat cardiomyocytes. Hypertrophy was assessed by cell size measurements, RNA sequencing, and H3K27ac chromatin immunoprecipitation sequencing. RESULTS: Mediator kinase inhibition significantly reduced hypertrophic growth, attenuating cell size increases induced by phenylephrine (PE) and endothelin-1. Transcriptomic profiling revealed a dose-dependent suppression of PE-induced differentially expressed genes in Senexin A-treated cells. Mechanistically, PE stimulation enhanced RNA polymerase II pause release, whereas Mediator kinase inhibition did not alter this process. Epigenomic analysis showed that PE markedly increased the number of super-enhancers relative to vehicle treatment, while co-treatment with Senexin A reduced the total number of active enhancers. Nearest-neighbor analysis linked putative regulatory enhancers to key PE-responsive genes, and these enhancer signatures were blunted by SxnA. CONCLUSIONS: These findings demonstrate that Mediator kinase inhibition counteracts hypertrophic growth and transcriptional reprogramming, highlighting its potential as a therapeutic strategy to modulate pathological gene regulation in cardiac hypertrophy.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.045861"
+ },
+ {
+  "idx": 83,
+  "journal": "Europace",
+  "title": "The perspective of combining pulsed field ablation and left atrial appendage closure.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Pulsed field ablation (PFA) and left atrial appendage closure (LAAC) are increasingly discussed as complementary strategies in atrial fibrillation (AF) care, addressing rhythm control and long-term thromboembolic risk. The rationale is attractive, but the current evidence base is uneven. Randomized evidence for LAAC around AF ablation is strongest for thermal-ablation-era workflows, particularly the OPTION trial, which showed lower non-procedure-related major or clinically relevant non-major bleeding with LAAC than with oral anticoagulation (OAC) and non-inferiority for death, stroke, or systemic embolism. Dedicated PFA-specific evidence remains limited to feasibility studies and early observational experience, and no trial has demonstrated that combined ablation-LAAC procedures are clinically superior when the ablation component is performed with PFA rather than radiofrequency or cryoballoon ablation. In parallel, OAC-withdrawal trials after apparently successful ablation, including OCEAN and ALONE-AF, have reported low thromboembolic event rates in selected lower-risk populations, whereas CLOSURE-AF cautions against simple extrapolation of LAAC benefit to older, frailer patients at high stroke and bleeding risk. This review therefore positions combined PFA-LAAC as a potential option for carefully selected patients rather than an established routine strategy. We summarize procedural workflow, patient selection, trial populations, device-platform considerations, reimbursement and organizational issues, and the main uncertainties that should guide future prospective studies.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag202"
+ },
+ {
+  "idx": 84,
+  "journal": "Europace",
+  "title": "Treatment of paroxysmal and persistent atrial fibrillation with pulsed field ablation.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Pulsed field ablation has emerged as a novel energy source for atrial fibrillation ablation, offering preferential myocardial ablation with a favourable safety profile. Contemporary paroxysmal AF clinical studies demonstrate 12-month freedom from atrial arrhythmia recurrence in approximately 75-85% of patients, with major complication rates generally ranging from 1 to 3%. Compared with thermal ablation, PFA offers comparable efficacy and streamlined procedural workflows. In persistent AF, PVI remains the foundation of ablation, while additional adjunctive strategies are increasingly evaluated. Current evidence suggests that PFA can achieve 12-month arrhythmia-free outcomes generally ranging from approximately 60-75% in persistent AF populations. Major procedure-related complications typically occur in <3% of cases, supporting the feasibility of broader lesion sets with an acceptable safety profile. However, the incremental benefit of adjunctive ablation beyond PVI and the optimal lesion set for persistent AF remain to be assessed further Outcome assessment after PFA requires consideration of evolving endpoints. The clinical relevance of the traditional post-ablation blanking period is being re-evaluated, while continuous rhythm monitoring and AF burden are increasingly incorporated alongside conventional recurrence endpoints. Patient-reported outcomes are an important component of PFA evaluation. Compared with thermal ablation, PFA is associated with improved procedural tolerability, reduced analgesic requirements, rapid recovery, and the potential for same-day discharge. These features, together with favourable efficacy and safety outcomes, may contribute to broader adoption of PFA across both paroxysmal and persistent AF populations.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag194"
+ },
+ {
+  "idx": 85,
+  "journal": "Heart Rhythm",
+  "title": "Sex-based differences in bi-atrial voltage in atrial fibrillation: a multimodal and digital twin approach to distinguish physiological variation from pathological remodelling.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Sex-based differences in atrial voltage have been reported in atrial fibrillation (AF), but it is unclear whether these differences reflect pathological remodelling or physiological variation. OBJECTIVE: To assess sex-based differences in voltage, contextualised by complementary measures of substrate remodelling and AF mechanisms. METHODS: A multicentre, prospective study was conducted in patients scheduled for AF ablation. Bi-atrial voltage mapping was combined with electrophysiological assessment, structural and functional assessment using cardiac MRI, and mechanistic interrogation using patient-specific digital twins. Propensity score matching was used to account for baseline differences between sexes. Exploratory receiver operating characteristic analysis was conducted to estimate sex-specific mean left atrial voltage cutoffs based on 12-month arrhythmia recurrence status. RESULTS: Seventy patients (62±12 years; 31% female) were included. Women demonstrated lower mean bipolar voltages than men, with this difference persisting after 1:1 propensity score matching (n=44) in both left (1.66±0.71mV versus 2.12±0.55mV, p=0.028) and right atria (1.79±0.49mV versus 2.20±0.59mV, p=0.025). Propensity score-matched analyses revealed no significant differences in other structural, functional, or electrophysiological parameters, with digital twin analyses demonstrating no significant differences in AF termination, phase singularity count, wave dynamics, or response to virtual ablation. Women had lower mean left atrial voltage cutoffs calibrated to 12-month arrhythmia recurrence status than men (1.74mV versus 2.26mV). CONCLUSIONS: Women with AF exhibit lower bi-atrial voltages despite comparable substrate characteristics and AF mechanisms, suggesting that observed voltage differences may reflect physiological variation rather than pathological remodelling. Sex-specific voltage thresholds may improve the accuracy of substrate assessment and facilitate personalised treatment.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.046"
+ },
+ {
+  "idx": 86,
+  "journal": "N Engl J Med",
+  "title": "Interim Analysis of a Phase 3 Trial of Povetacicept in IgA Nephropathy.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: B-cell activating factor (BAFF) and a proliferation-inducing ligand (APRIL) have distinct roles in IgA-producing B-cell populations and appear to be central to the pathogenesis of IgA nephropathy. Povetacicept, an enhanced, variant transmembrane activator and calcium-modulator and cyclophilin-ligand interactor (TACI)-Fc fragment fusion therapeutic, is engineered for dual inhibition of BAFF and APRIL. METHODS: In this ongoing, phase 3, double-blind, placebo-controlled trial, participants with biopsy-proven IgA nephropathy receiving stable background therapy were randomly assigned in a 2:1 ratio to receive povetacicept at a dose of 80 mg or placebo subcutaneously every 4 weeks. The primary end point of this prespecified interim analysis was the change in the 24-hour urinary protein-to-creatinine ratio at week 36. Secondary end points were the change at week 36 in galactose-deficient IgA1 levels and hematuria resolution at week 36 among participants with baseline hematuria. RESULTS: A total of 557 participants received povetacicept (372 participants) or placebo (185 participants). Efficacy analyses included the first 199 participants who had undergone randomization (131 in the povetacicept group and 68 in the placebo group). The 24-hour urinary protein-to-creatinine ratio decreased by 52.0% with povetacicept and by 4.3% with placebo by week 36 (adjusted difference, -49.8 percentage points; 95% confidence interval [CI], -58.6 to -39.2; P<0.001). Galactose-deficient IgA1 levels decreased by 77.4% with povetacicept and increased by 9.1% with placebo (adjusted difference, -79.3 percentage points; 95% CI, -82.2 to -75.9; P<0.001). Among the participants with baseline hematuria, resolution occurred in 85% with povetacicept and in 23% with placebo (adjusted difference, 62 percentage points; 95% CI, 45 to 78; P<0.001). The incidence of adverse events (75% with povetacicept and 78% with placebo) and serious adverse events (3% and 4%, respectively) were similar in the trial groups. CONCLUSIONS: Povetacicept led to a significantly greater reduction in the 24-hour urinary protein-to-creatinine ratio than placebo by week 36 in participants with IgA nephropathy. (Funded by Vertex Pharmaceuticals; RAINIER AIS-D08 ClinicalTrials.gov number, NCT06564142.).",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1056/NEJMoa2608682"
+ },
+ {
+  "idx": 87,
+  "journal": "Heart Rhythm",
+  "title": "Zero-fluoroscopy approach to left atrial appendage closure using intracardiac echo guidance.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Left atrial appendage closure (LAAC) with the Watchman™ device is typically performed with the use of transesophageal echocardiography (TEE) and fluoroscopy. LAAC guided by intracardiac echo (ICE) without the use of fluoroscopy has not been previously described. OBJECTIVE: In this series, we describe the safety and feasibility of Watchman™ implantation using only ICE imaging and without the use of fluoroscopy. METHODS: 214 patients undergoing LAAC with the Watchman FLX™ or Watchman FLX™ Pro device and using a planned fluoroscopy-free approach were studied. ICE was used for echocardiographic imaging in all cases. TEE was not used in any cases. Fluoroscopy was used as a bail-out approach when it was felt to be clinically necessary by the operator. Peri-procedural, 45-day, and 1-year efficacy and safety outcomes were assessed. RESULTS: In 203/214 patients (94.8%), LAAC was completed without the use of fluoroscopy. Bail-out fluoroscopy was required in 11/214 patients (5.1%). Successful device implantation was completed in 212/214 patients (99.1%). The rate of any peri-device leak at 45 days post-procedure was 11.6%. Procedural complications were limited to one pericardial effusion and one case of ventricular tachycardia. CONCLUSION: LAAC with the Watchman™ device using ICE imaging and without the use of fluoroscopy appears to be safe and effective. The rates of procedural success, complications, and peri-device leaks on 45 day follow up were consistent with that seen in pivotal clinical trials. Further studies are needed to assess the broader applicability of this technique.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.032"
+ },
+ {
+  "idx": 88,
+  "journal": "Europace",
+  "title": "Controlling pulsed field ablation efficacy during ablation procedures.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Pulsed field ablation (PFA) has rapidly emerged as a promising ablation modality for the treatment of cardiac arrhythmias because of its myocardial tissue preferential ablation and favourable safety profile. However, procedural control of lesion formation and reliable assessment of lesion durability remain important challenges. This review summarizes the main determinants of PFA efficacy and current approaches for intraprocedural lesion assessment. Experimental and clinical studies indicate that PFA lesion formation results from the interaction between delivered electrical energy, catheter design, tissue coupling, and application strategy. Lesion size and geometry are primarily determined by electric field distribution and cumulative electroporation exposure, while excessive energy delivery may induce unwanted thermal or electrochemical effects. Procedural efficacy also depends on stable catheter positioning, adequate tissue proximity, and sufficient lesion overlap. Unlike thermal ablation technologies, conventional procedural markers such as electrogram attenuation, impedance changes, and pacing threshold variation correlate poorly with durable irreversible electroporation. Multiparametric lesion estimation models integrating electrical, mechanical, and positional data have shown encouraging preclinical results, although clinical validation remains limited. Emerging strategies combining electroanatomical mapping, imaging, and automated electrogram analysis may improve real-time evaluation of lesion continuity and durability. Current PFA workflows rely mainly on standardized energy delivery protocols, optimized catheter positioning, and lesion overlap rather than real-time titration of energy. Although robust intraprocedural markers of irreversible electroporation are still lacking, ongoing advances in catheter technology, imaging, and lesion assessment tools are expected to improve procedural reproducibility and long-term lesion durability. Further studies are needed to establish validated endpoints for durable PFA lesion formation.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag188"
+ },
+ {
+  "idx": 89,
+  "journal": "Hypertension",
+  "title": "sFlt-1 in Decidua, Placenta, and Maternal Serum in Preeclampsia Subtypes.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Soluble FMS-like tyrosine kinase (sFlt-1) drives maternal symptoms in preeclampsia, serves as a predictive biomarker, and represents a promising therapeutic target. sFlt-1 is expressed in placental and decidual tissue, which together form the maternal-fetal interface. Whether placental and decidual expression of sFlt-1 regulates the maternal serum levels remains unknown. This study aimed to investigate sFlt-1 expression and co-regulation in decidua, placenta, and maternal serum, in normal pregnancies and preeclamptic pregnancies with and without fetal growth restriction. METHODS: Pregnant women with normal (n=65) or preeclamptic pregnancies with (n=42) or without (n=22) fetal growth restriction were included before cesarean delivery. sFlt-1 expression was quantified in maternal serum and umbilical cord blood (BRAHMS KRYPTOR) and by immunohistochemistry with semi-automated image analysis in decidual and placental tissue. RESULTS: Decidual and placental sFlt-1 expression was trophoblast-dependent and selectively upregulated in preeclampsia without and with fetal growth restriction, respectively, and maternal serum sFlt-1 was elevated in both preeclampsia subtypes (P<0.001, all comparisons). sFlt-1 expression showed a positive correlation between decidua and placenta but did not correlate with maternal serum levels. Maternal serum sFlt-1 levels diverged: with high levels (>11 500 pg/mL) only in preeclamptic pregnancies (n=21) and low levels (<11 500 pg/mL) in all normal pregnancies (n=28) and 42% (n=15) of preeclamptic pregnancies. CONCLUSIONS: sFlt-1 expression correlates across the maternal-fetal interface but is not directly reflected in maternal serum. The relationship to preeclampsia subtypes is complex.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/HYPERTENSIONAHA.125.26640"
+ },
+ {
+  "idx": 90,
+  "journal": "Heart Rhythm",
+  "title": "CATHETER ABLATION VERSUS SHAM FOR SYMPTOMATIC ATRIAL FIBRILLATION: A SYSTEMATIC REVIEW AND BAYESIAN META-ANALYSIS OF RANDOMIZED TRIALS.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Catheter ablation reduces atrial fibrillation (AF) recurrence and improves symptoms and quality of life (QoL), but sham-controlled trials have reported discordant results. OBJECTIVE: To synthesise sham-controlled trials of AF ablation and identify why QoL results differ. METHODS: We searched databases and registries for randomized trials of catheter ablation versus sham in symptomatic AF. The primary outcome was the between-group difference in Atrial Fibrillation Effect on Quality-of-Life (AFEQT) score, pooled using a Bayesian random-effects model. Certainty was rated with the Grading of Recommendations Assessment, Development and Evaluation. RESULTS: Four trials (468 patients) were eligible; three (448 patients) were pooled. Ablation improved AFEQT relative to sham by 13.5 points (95% credible interval [CrI] 1.6 to 26.9), with a posterior probability of benefit 0.98, of exceeding the 5-point minimal clinically important difference 0.94, and by 12.9 points (-0.4 to 27.1; probability 0.97 and 0.91) with PVI-SHAM-AF's primary estimator. Heterogeneity (τ 8.2 points, I2 85.3%) was largely attributed to PVI-SHAM-AF, which differed from the other trials in symptom severity, rhythm monitoring and assessment of blinding; without it, the difference was 18.9 points (6.7 to 31.4). Ablation reduced AF recurrence in every trial (pooled risk ratio 0.49, CrI 0.17-0.89). Certainty was moderate for AF burden and recurrence and low for QoL. CONCLUSION: Compared with sham embedded in active rhythm control, catheter ablation reduces AF recurrence and burden and has a high probability of clinically important QoL benefit, although its magnitude remains uncertain. Trials differ in population, monitoring, and estimator, not direction of effect.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.039"
+ },
+ {
+  "idx": 91,
+  "journal": "Heart Rhythm",
+  "title": "Left Atrial Reservoir Strain To Identify Advanced Atrial Cardiomyopathy in Patients With Atrial Fibrillation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Left atrial reservoir strain (LASr) is a novel marker of left atrial (LA) function. We hypothesized that LASr can be used to identify atrial cardiomyopathy in patients with atrial fibrillation (AF). OBJECTIVE: To evaluate the association between LASr and invasive and non-invasive markers of atrial cardiomyopathy in AF patients. METHODS: We prospectively recruited patients with symptomatic paroxysmal or persistent AF and preserved left ventricular (LV) ejection fraction scheduled for catheter ablation. Resting transthoracic echocardiography was performed focusing on the left atrium (LA). Participants were dichotomised into two groups: reduced LASr (<20%) and preserved LASr (≥20%). Markers of LA cardiomyopathy were compared between these two groups; invasive markers included mean LA pressure, mean LA voltage and LA compliance whilst non-invasive markers included LA volumes and NT-pro BNP. RESULTS: A total of 91 patients were enrolled. Patients with reduced LASr (n=31) were older (69.4±8.9 vs 59.6±11.3 years, p<0.001), and more commonly female (45.2 vs 18.3%, p=0.007). Reduced LASr correlated with lower LA compliance (0.28±0.16 vs 0.42±0.25mm/mmHg, p<0.001), higher LA pressure (14.8±3.81 vs 13.1±4.46mmHg, p=0.031), and lower LA voltage (1.65±1.35 vs 3.12±1.57mV, p<0.01). On non-invasive assessment, reduced LASr was also associated with higher NT-proBNP levels (479 [200-1073] vs 121 [58-256] pg/ml p<0.001) and larger LA volumes (38.5±11.5 vs 32.6±7.7 mL/m2, p<0.001). CONCLUSION: In patients with symptomatic AF, reduced LASr is associated with a more advanced atrial cardiomyopathy involving hemodynamic, mechanical and electrical atrial dyfsfunction. LASr may therefore provide a useful non-invasive marker of atrial cardiomyopathy in AF.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.034"
+ },
+ {
+  "idx": 92,
+  "journal": "JACC Clin Electrophysiol",
+  "title": "Pulsed Field Ablation of the Left Atrial Appendage Before Mechanical Closure to Reduce Peri-Device Leak (STUN-AF).",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Left atrial appendage (LAA) closure (LAAC) is plagued by late peri-device leak. We posited that appendage contraction prevents full LAA seal, so conversely, LAA stunning with pulsed field ablation (PFA) of the LAA (left atrial appendage ablation [LAAA]) might promote rapid appendage thrombosis/obliteration. OBJECTIVES: This study aims to assess the impact of LAAA during concomitant procedures on eliminating leaks. METHODS: At 3 centers, consecutive patients undergoing concomitant PFA and LAAC also underwent LAAA or did not undergo LAAA, at operator discretion. Initial (∼3-4 months) (29% transesophageal echocardiography/71% computed tomography) and 12-month imaging were compared with a primary composite outcome of LAA patency, defined as either detectable flow into the LAA or evidence of echo-free space/contrast medium behind the device. RESULTS: Among 317 total patients undergoing PFA and LAAC, including 222 patients who underwent LAAA and 95 who did not (control patients), all underwent initial imaging and 126 reached 12-month imaging follow-up. Device compression was 28% with LAAA vs 25% without LAAA (P < 0.001). Implantation success was 100%. The periprocedural adverse event rate was 2% in both groups. The primary composite outcome of LAA patency was significantly reduced with LAAA vs no-LAAA, both at 3-4 months (29% vs 64%; P < 0.001) and at 12 months (4% vs 42%; P < 0.001). Device-related thrombus rates were low and similar (2.3% vs 3.2%; P = 0.7). A validation subset including only patients with alternating LAAA assignment (LAAA: n = 59; no-LAAA: n = 63) again revealed that LAAA was associated with reduced LAA patency (3-4 months: 34% vs 51%; P = 0.06; 12 months: 8% vs 36%; P = 0.2). Final LAA e' velocity was significantly different between groups (17 ± 7 vs 34 ± 16 cm/s; P < 0.001), with higher velocity associated with LAA patency (P < 0.001). CONCLUSIONS: PFA of the LAA has potential to reduce LAA patency during device-based LAAC.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacep.2026.09.018"
+ },
+ {
+  "idx": 93,
+  "journal": "J Am Heart Assoc",
+  "title": "Neuropsychological and Quality-of-Life Outcomes After Aneurysmal Subarachnoid Hemorrhage.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Survivors of aneurysmal subarachnoid hemorrhage often have long-term neuropsychological disturbances. This study aims to characterize depressive symptoms, quality of life, and personality changes in a large cohort of survivors of aneurysmal subarachnoid hemorrhage. METHODS: This cross-sectional study included patients with a history of aneurysmal subarachnoid hemorrhage from the Brain Aneurysm Foundation patient registry. Patients completed the Beck Depression Inventory-II and the Stroke-Specific Quality of Life scale, and family members completed the Iowa Scales of Personality Change. Multiple linear regression was used to identify symptoms associated with reduced work productivity. Wilcoxon and chi-square tests were used to identify variables associated with severity of depressive symptoms and personality changes. RESULTS: A total of 318 patients were included, with 242 completing the Beck Depression Inventory-II and Stroke-Specific Quality of Life, and 112 family members completing the Iowa Scales of Personality Change. Moderate depressive symptoms were reported by 18% of patients, and severe symptoms were reported by 11%. Impairments in thinking, social roles, language, and energy were independently associated with reduced work productivity. Acquired personality disturbances were observed in 72% of patients for executive function, 44% for social behavior, 49% for hypomotivation, 50% for irascibility, and 72% for distress. Ruptured aneurysms in the anterior cerebral and anterior communicating artery were associated with a trend toward a higher prevalence of moderate to severe depressive symptoms and executive personality changes. CONCLUSIONS: Depressive symptoms and personality changes are common after aneurysmal subarachnoid hemorrhage, affecting work productivity. Recognizing challenges in thinking, social interactions, language, and vulnerability to pressure may help guide targeted interventions by families, employers, and health care providers.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049224"
+ },
+ {
+  "idx": 94,
+  "journal": "Heart Rhythm",
+  "title": "Interventricular septal LGE predicts response trajectories and clinical prognosis in heart failure patients undergoing left bundle branch area pacing.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Left bundle branch area pacing (LBBAP) is an alternative strategy for heart failure (HF) patients with left bundle branch block (LBBB). Interventricular septal (IVS) fibrosis is linked to LBBAP efficacy. OBJECTIVE: To investigate the association between IVS late gadolinium enhancement percentage (IVS LGE%) and LBBAP response in non-ischemic cardiomyopathy (NICM) patients with LBBB. METHODS: This was a two-center prospective observational study. Patients with NICM and complete LBBB were consecutively enrolled and received LBBAP from January 2021 to December 2024. Patients were divided into early, delayed, and non-response groups based on absolute left ventricular ejection fraction (LVEF) improvement ≥5% at 6 and 12 months. RESULTS: A total of 113 patients were included, with 86 (76.1%) early responders, 13 (11.5%) delayed responders, and 14 (12.4%) non-responders. IVS LGE% linearly increased the risk of non-early response, with each 1% increase conferring a 14% higher risk of adverse response progression (early to delayed or non-response) (adjusted OR=1.14, 95%CI 1.05-1.23; P=0.002). 75.3% of IVS fibrosis-related 6-month impairment was mediated by failed LBB captured (direct effect P=0.204), while the direct inhibitory effect of IVS fibrosis emerged at 12 months (mediation proportion 60.8%, β=-0.33, P=0.005). Optimal IVS LGE% cut-off values were 7.62% for early response and 12.33% for delayed response, with 12-month response rates of 95.06%, 93.75% and 43.75% across low, intermediate and high IVS LGE% groups, respectively. CONCLUSION: IVS fibrosis independently predicts LBBAP response and prognosis in NICM patients with complete LBBB, and modulates LBBAP efficacy through a time-dependent biphasic mechanism.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.043"
+ },
+ {
+  "idx": 95,
+  "journal": "Eur J Heart Fail",
+  "title": "Short-term safety, feasibility, and performance of a novel soft robotic biventricular mechanical circulatory support device avoiding blood contact - The MISSION reBEAT trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Mechanical Circulatory Support (MCS) remains limited in advanced heart failure due to blood-contact complications and the absence of biventricular support. We report the first prospective clinical trial of a novel soft-robotic, biventricular, pulsatile technology placed externally around the heart without blood contact, designed to deliver individualized cardiac assistance (reBEAT®, AdjuCor GmbH, Munich, Germany). METHODS AND RESULTS: The system was temporarily applied in 10 end-stage heart failure patients immediately before elective LVAD implantation. Devices were custom-manufactured using preoperative CT scans to match individual cardiac anatomy. Safety, feasibility, and effects on haemodynamics were evaluated. Implantation was rapid (3±2 min), demonstrating procedural feasibility. We observed two procedure-related adverse events while no device- or procedure-related severe adverse events occurred. Absence of new ECG abnormalities, and no tissue injury confirmed safety. An iterative assessment on haemodynamics provided key insights into individualized cardio-circulatory support. While device presence reduced preload dependent haemodynamics in some patients, low average support pressures of 65-66 mmHg produced variable improvements towards baseline, predominantly on the pressure signal: mean arterial pressure (MAP; 67.5 ± 10.6 vs. 76.2 ± 11.7 mmHg, p<0.01), stroke work (SW; 347.8 ± 118.2 vs. 434.1 ± 131.0 mJ, p<0.01), and cardiac power output (CPO; 407.9 ± 108.2 vs. 503.7 ± 116.2 mW, p<0.01). Additionally, effects were observed on atrioventricular valve function and interventricular balance, which were not significant. CONCLUSION: This soft-robotic biventricular MCS platform provides short term evidence of a safe and feasible approach to pulsatile biventricular support without blood contact. Significant increases in MAP, CPO, and SW towards baseline indicate functional effects. Continuous device-driven workflow improvement is mandatory and further data are required to refine individualized optimization strategies. This technology may offer a novel biventricular assist modality. Its reduced complexity may enable broader adaption for both temporary and durable support. Avoiding blood contact and enabling balanced biventricular assistance will be central drivers of its continued clinical development.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/ejhf/xuag331"
+ },
+ {
+  "idx": 96,
+  "journal": "J Am Heart Assoc",
+  "title": "Evaluation of Acute Electrical and Hemodynamic Improvement During Left Bundle-Branch Area Pacing Modalities for Resynchronization Therapy.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: While cardiac resynchronization therapy is effective in dyssynchronous heart failure, suboptimal response remains frequent. The acute hemodynamic profile of different left bundle-branch (LBB) area pacing modalities is poorly defined. Moreover, atrioventricular optimization guided by QRS duration (QRSd) may not yield the greatest hemodynamic benefit. METHODS: Twenty-four patients with heart failure, reduced ejection fraction, and LBB block underwent sequential testing of right ventricular septal pacing, left ventricular septal pacing, nonselective LBB pacing, and selective LBB pacing during cardiac resynchronization therapy implantation in a prospective, within-subject physiological study. At each modality, electrical end points were QRSd and vectorcardiographic QRS area; hemodynamics were assessed with beat-to-beat systolic blood pressure (SBP). The atrioventricular interval producing maximal SBP improvement was compared with that producing the narrowest QRSd. RESULTS: LBB area pacing modalities significantly reduced QRSd, compared with right ventricular septal pacing (nonselective LBB pacing, 114.0±16.8 milliseconds; selective LBB pacing, 118.4±14.1 milliseconds; left ventricular septal pacing, 124.6±16.0 milliseconds; right ventricular septal pacing, 144.4±27.6 milliseconds; all P<0.01). At the atrioventricular interval that produced maximized SBP improvement, QRSd remained narrower with LBB area pacing than right ventricular septal pacing, and selective LBB pacing provided the greatest hemodynamic improvement (ΔSBP 16.3±5.2 mm Hg), exceeding left ventricular septal pacing (13.5±6.2 mm Hg) and nonselective LBB pacing (12.8±6.3 mm Hg; all P<0.05). Across modalities, the atrioventricular interval that maximized ΔSBP was consistently shorter than that minimizing QRSd (mean difference, 18-29 milliseconds). CONCLUSIONS: Selective LBB pacing yields the greatest acute hemodynamic benefit, and the hemodynamic-optimal atrioventricular interval is shorter than the electrical-optimal atrioventricular interval, suggesting that modest atrioventricular interval shortening after electrical optimization may better maximize hemodynamics. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique Identifier: NCT07032064.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049208"
+ },
+ {
+  "idx": 97,
+  "journal": "Heart Rhythm",
+  "title": "Procedural Success, Predictors of Failure, and Clinical Outcomes of Conduction System Pacing in Korea: The Korean Conduction System Pacing (K-CSP) Registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Conduction system pacing (CSP), particularly left bundle branch area pacing (LBBAP), is a promising physiologic pacing strategy, but large-scale Asian data are lacking. OBJECTIVE: To evaluate the feasibility, predictors of failure, and clinical outcomes of CSP in a nationwide Korean multicenter registry. METHODS: This observational registry included 2,215 consecutive patients undergoing attempted CSP at 35 Korean centers between January 2021 and June 2025. Capture types were classified using EHRA criteria. RESULTS: Stylet-driven leads were used in 87.0%. CSP succeeded in 87.4% (1,932/2,211). Among 1,922 LBBAP patients, left bundle branch pacing (LBBP) was achieved in 35.1%, left fascicular pacing (LFP) in 31.3%, and left ventricular septal pacing (LVSP) in 17.2%. Independent predictors of CSP failure included prior open-heart surgery involving septal manipulation, right-sided approach, and male sex. Pacing parameters were stable over 17.0±10.8 months. CSP failure was associated with worse composite outcomes on unadjusted analysis, but these associations were attenuated and no longer significant after adjustment. Among LBBAP patients, LVSP was associated with a higher adjusted risk of heart-failure hospitalization (adjusted HR 3.04, 95% CI 1.05-8.73, p=0.039) than LBBP+LFP; however, this association was based on few events with wide confidence intervals and was not significant on unadjusted analysis. CONCLUSION: In this large-scale Asian CSP registry, LBBAP was feasible and safe, performed predominantly with stylet-driven leads. Direct conduction system capture (LBBP+LFP) was associated with a lower adjusted risk of heart-failure hospitalization than LVSP, although this was based on few events; these findings are hypothesis-generating and warrant confirmation in randomized trials.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.030"
+ },
+ {
+  "idx": 98,
+  "journal": "Heart Rhythm",
+  "title": "Transvenous Lead Extraction Without Dedicated Surgical Back up in Low-Risk Patients.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Transvenous lead extraction (TLE) is associated with major complications that could require immediate surgical rescue. These procedures are performed in an EP lab or hybrid OR with the presence of a surgical team on standby. We have designed an institutional protocol that permits performance of TLE in low-risk situations, in an EP lab without dedicated surgical back-up. OBJECTIVES: To investigate outcomes of TLE in low-risk patients METHODS: We retrospectively identified patients who underwent low-risk TLE at Emory Healthcare between 2010-23. Low-risk TLE were defined as an extraction of a pacing or ICD lead with a dwell time >= 1 and <= 5 years or a lead < 1 year that required extraction tools. RESULTS: Among 482 patients who met the criteria, the average lead age was 2.8 ± 1.2 years. The mean number of targeted leads per patient was 1.6±0.7. Extraction tools were required in 33.1% of cases. Major complications occurred in 0.83% of patients (n=4): 2 pericardial effusions requiring pericardiocentesis, 1 pneumothorax and 1 death from cardiogenic shock in an end stage heart failure patient. The patients with pericardial effusions and pneumothorax were part of a procedure that required lead revisions and the insertion of 1 or more new leads. No patients required surgical rescue. CONCLUSION: This study suggests that, in selected \"low-risk\" patients, TLE can be performed safely in an experienced EP lab at centers with on-site cardiac surgery but without a dedicated surgical standby team, potentially reducing resource utilization in resource-limited healthcare environments.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.042"
+ },
+ {
+  "idx": 99,
+  "journal": "EuroIntervention",
+  "title": "Impact of prolonged balloon inflation on valve expansion and early clinical outcomes following contemporary balloon-expandable transcatheter aortic valve implantation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Incomplete expansion of balloon-expandable (BE) transcatheter heart valves (THVs) after transcatheter aortic valve implantation (TAVI) may affect valve performance and durability. Routine THV post-dilatation (the \"double-tap\" technique) has been proposed to optimise device expansion; however, it may increase procedural complexity. AIMS: We sought to evaluate the impact of a prolonged balloon inflation implantation strategy on BE THV expansion, haemodynamic performance, and early clinical outcomes. METHODS: This single-centre study analysed consecutive TAVI patients treated for native tricuspid aortic stenosis with the SAPIEN 3 Ultra RESILIA THV using a prolonged balloon inflation strategy (8 seconds). Valve expansion was assessed by fluoroscopy at multiple frame levels and compared with three validated reference standards. Results were also descriptively compared with previously published data on the double-tap technique. Clinical and haemodynamic outcomes at 30 days were adjudicated according to Valve Academic Research Consortium 3 criteria. RESULTS: A total of 84 patients (mean age 78.8 years, 58% male, median Society of Thoracic Surgeons Predicted Risk of Mortality score 3.9%) were included. Prolonged inflation resulted in complete THV expansion at the inflow and outflow levels, with only mild underexpansion (98.5±1.3%) detected at the midframe level when manufacturer-defined nominal values were used as the reference. When compared with previously published data on the double-tap technique, expansion values for the 23, 26, and 29 mm valves were consistently similar or higher, whereas lower expansion was observed for the 20 mm size. Device success was achieved in all cases, with no stroke at 30 days. Permanent pacemaker implantation occurred in 6% of patients. Haemodynamic performance was favourable (mean gradient 9.2 [interquartile range 7.0-10.3] mmHg at 30 days), with no patients having moderate or severe paravalvular leak. CONCLUSIONS: Prolonged balloon inflation during BE THV deployment is associated with favourable valve expansion, haemodynamic results, and a favourable safety profile, consistent with values reported in double-tap series. If confirmed in larger studies, this strategy may represent a simple alternative to routine double-tap in selected patients.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.4244/EIJ-D-26-00494"
+ }
+]

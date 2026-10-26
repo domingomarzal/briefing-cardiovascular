@@ -1,0 +1,308 @@
+[
+ {
+  "idx": 0,
+  "journal": "EuroIntervention",
+  "title": "Safety and effectiveness of the Vertex Pulmonary Embolectomy System in acute intermediate-risk pulmonary embolism: the SPIRARE II pivotal trial.",
+  "ptypes": [
+   "Journal Article",
+   "Multicenter Study",
+   "Clinical Trial"
+  ],
+  "abstract": "BACKGROUND: Percutaneous aspiration thrombectomy can rapidly reduce afterload in acute pulmonary embolism (PE), but catheter stiffness and instability may limit access and prevent effective right ventricle (RV) unloading. The Vertex Pulmonary Embolectomy System with Transforming Fixation (TFX) technology is designed to address current limitations of existing catheter-based systems by separating the flexibility necessary for safe navigation from the support that is essential for procedural control. AIMS: We aimed to evaluate the safety and effectiveness of the Vertex Pulmonary Embolectomy System for mechanical aspiration thrombectomy in acute intermediate-risk PE. METHODS: SPIRARE II was a prospective, single-arm, multicentre pivotal investigation conducted at 19 sites in the United States and Europe. Eligible patients had acute PE (≤14 days), a computed tomography angiography-assessed RV to left ventricle (RV/LV) ratio>0.9, and haemodynamic stability (systolic blood pressure ≥90 mmHg). Co-primary endpoints were composite major adverse events (MAE) within 48 hours and core laboratory-assessed RV/LV change from baseline to 48 hours. Prespecified secondary endpoints were collected immediately pre- and post-procedure in all patients including mean pulmonary artery pressure, total pulmonary vascular resistance, and cardiac index. RESULTS: In 123 patients, the 48-hour composite MAE rate was 2.4% (3/123), meeting the prespecified performance goal (one-sided p<0.0001). The mean RV/LV diameter ratio decreased from 1.44±0.33 at baseline to 1.05±0.21 at 48 hours, a mean reduction of 0.39±0.33, exceeding the prespecified performance goal (p<0.0001). CONCLUSIONS: The Vertex Pulmonary Embolectomy System met its prespecified safety and effectiveness endpoints in acute intermediate-risk PE. TFX delivered precise, stable control with reliable vessel access, enabling consistent right ventricular unloading. (ClinicalTrials.gov: NCT06576427).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.4244/EIJ-D-26-00454"
+ },
+ {
+  "idx": 1,
+  "journal": "Heart Rhythm",
+  "title": "Distal-to-Proximal Conduction System Ablation as a Bailout Strategy in Refractory Multi-Exit Purkinje-Related Premature Ventricular Contractions and Ventricular Fibrillation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Ablation of premature ventricular contractions (PVCs) originating from the Purkinje network-particularly those with multiple exit sites and morphologies-poses a significant clinical challenge. In refractory cases where conventional ablation fails, proximal conduction system ablation may represent a viable alternative strategy. OBJECTIVE: to evaluate the safety and efficacy of proximal conduction system ablation in patients with refractory multi-exit Purkinje PVCs with diverse morphologies. METHODS: This retrospective cohort included consecutive patients with drug-refractory, symptomatic Purkinje PVCs who underwent proximal conduction system ablation. Multiple exit sites and morphologies were observed during mapping and ablation, indicating complex activation within the Purkinje network. RESULTS: Among the 22 patients included, 14 (63.6%) had PVC-triggered ventricular fibrillation. Acute elimination of the PVC by distal-to-proximal conduction system ablation achieved in 21 patients (95.5%), while one procedure (4.5%) was discontinued at the patient's request due to the anticipated risk of conduction system injury. The initial site of earliest activation arose from the posterior fascicle in 63.6% (n=14), the septal fascicle in 22.7% (n=5) and the anterior fascicle in 13.6% (n=3). During ablation, all patients demonstrated a shift in the site of earliest activation. Conduction disturbances occurred in 5 patients (22.7%). During a median follow-up of 32.3 months (IQR 17.5-54.5), one patient (4.5%) experienced PVC recurrence requiring repeat ablation; however, no patient experienced recurrent ventricular fibrillation. CONCLUSION: Distal-to-proximal conduction system ablation can be an effective bailout strategy for patients with refractory multi-exit fascicular/Purkinje-related PVCs and recurrent VF. Larger prospective studies are needed to confirm its long-term safety and efficacy.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.050"
+ },
+ {
+  "idx": 2,
+  "journal": "J Am Heart Assoc",
+  "title": "Macrophage-Derived Glycoprotein Nonmetastatic Melanoma Protein B Attenuates Cardiac Dysfunction by Promoting Vascular Endothelial Growth Factor-Independent Angiogenesis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Pressure overload-induced heart failure involves maladaptive cardiac remodeling and inadequate angiogenesis. The limitations of VEGF (vascular endothelial growth factor)-based therapies underscore the need to identify alternative angiogenic pathways. GPNMB (glycoprotein nonmetastatic melanoma protein B) is a macrophage-secreted protein implicated in tissue repair, but its role in pressure overload-induced cardiac remodeling and its potential to modulate angiogenesis remain unknown. METHODS: Myeloid-specific Gpnmb knockout and control mice were subjected to transverse aortic constriction. Cardiac function, remodeling, and capillary density were assessed. Single-cell RNA sequencing was performed to identify transcriptomic changes. In vitro, human endothelial cells were treated with recombinant GPNMB to assess proliferation, migration, and tube formation, and to dissect the underlying signaling pathways. The therapeutic potential of Gpnmb overexpression was evaluated using AAV9 vectors. RESULTS: Myeloid Gpnmb deletion exacerbated transverse aortic constriction-induced cardiac dysfunction, hypertrophy, fibrosis, and capillary rarefaction. Single-cell sequencing revealed a reduced capillary endothelial cell population and pathway enrichment indicative of endothelial dysfunction and metabolic reprogramming in myeloid-specific Gpnmb knockout hearts. Mechanistically, GPNMB directly promoted endothelial cell proliferation, migration, and tube formation by activating the mTOR (mechanistic target of rapamycin) pathway in a CD44-dependent manner, independently of VEGF signaling. Cardiac-specific Gpnmb overexpression rescued angiogenesis, improved cardiac function, and attenuated pathological remodeling after transverse aortic constriction. CONCLUSIONS: Macrophage-derived GPNMB is a critical regulator of cardiac adaptation to pressure overload. It promotes a VEGF-independent angiogenic program probably via the CD44/mTOR axis, as supported by in vitro mechanistic studies. GPNMB represents a promising therapeutic target for heart failure characterized by microvascular rarefaction.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050564"
+ },
+ {
+  "idx": 3,
+  "journal": "Eur Heart J",
+  "title": "Familial hypercholesterolaemia and thymic ageing in a Chinese cohort.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: Lifelong exposure to elevated low-density lipoprotein cholesterol in familial hypercholesterolaemia (FH) patients not only increases the risk of atherosclerotic cardiovascular disease, but also affects other organs beyond the cardiovascular system. In a large FH cohort, this study investigated the effects of hypercholesterolaemia on the thymic output and explored whether lipid-lowering therapy can reverse these effects. METHODS: According to the Dutch Lipid Clinic Network criteria, 562 heterozygous FH patients (236 treatment-naïve, 326 on lipid-lowering therapy) and 295 age-matched healthy controls (HCs) were enrolled. Thymic output was measured by circulating CD4+ recent thymic emigrants (RTEs) with flow cytometry, and T-cell receptor excision circles in sorted naïve CD4+ and CD8+ T cells. Repertoire diversity and clonal expansion were evaluated by T-cell receptor beta sequencing. RESULTS: Compared with HCs, treatment-naïve FH patients displayed a significantly reduced percentage of CD4+ RTE among naïve CD4+ T cells, particularly in those aged 18-30 years or carrying highly pathogenic LDLR variants. T-cell receptor excision circle analysis supported reduced thymic output in both CD4+ and CD8+ naïve T cells. Quantified thymic ageing further showed that FH patients reached the median CD4+ RTE percentage of HCs ∼6 years earlier (males: 19.12 vs 25.51 years; females: 19.18 vs 25.58 years). Consistent with reduced thymic output, FH patients showed skewing towards high-frequency T-cell receptor beta clones. Statin-treated FH patients, particularly females, showed higher circulating CD4+ RTE levels than statin-naïve FH patients. CONCLUSIONS: Hypercholesterolaemia was associated with reduced thymic output, while statin-treated patients showed partially preserved circulating CD4+ RTE levels, supporting integrated metabolic and immunologic strategies for FH management.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurheartj/ehag810"
+ },
+ {
+  "idx": 4,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Retinal Artificial Intelligence Reclassifies SCORE2-Based Cardiovascular Risk Across the ESC/EAS Statin-Indication Boundary: A UK Biobank Prospective Cohort Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Whether a retinal artificial intelligence (AI) risk score reclassifies SCORE2 cardiovascular risk stratification in statin-naive adults across the ESC/EAS statin-indication boundary is uncertain. We evaluated the retinal AI risk score for 10-year atherosclerotic cardiovascular disease (ASCVD) prediction. METHODS: In 40,672 statin-naive UK Biobank participants (aged 40-69, without diabetes), cardiovascular risk categories and treatment recommendation status (Class I or IIa vs neither) were defined using the 2025 ESC/EAS focused-update framework. Cox models estimated hazard ratios (HRs) adjusted for SCORE2 or for established risk factors. The incremental predictive value of adding the retinal AI risk score to SCORE2 was evaluated using 10-fold cross-validation. RESULTS: Over a 10.0-year median follow-up (914 ASCVD events), the very high retinal AI risk group independently predicted ASCVD (SCORE2-adjusted HR 2.32 vs low risk; p<0.001). Adding the retinal AI risk score to SCORE2 reclassified risk across the ESC/EAS statin-indication boundary (statin-eligibility NRI [net reclassification improvement] 0.012, p<0.001); reclassification was statistically significant but modest (continuous NRI 0.445, p<0.001), without C-index or net-benefit gain. In the statin-indicated subgroup, retinal AI risk groups further stratified risk (SCORE2-adjusted HR 2.16; p<0.001). Statin-not-indicated participants in the high or very high retinal AI risk groups had numerically similar observed 10-year risk to all statin-indicated, untreated participants (p=0.758). There was no evidence of effect modification by clinically detectable retinal disorder (interaction p=0.93). Incremental value was greater in women than men (sex interaction p<0.001). CONCLUSION: Adding the retinal AI risk score to SCORE2 produced modest bidirectional risk reclassification across the ESC/EAS statin-indication boundary; these findings warrant prospective validation.Abstract word count: 250 words.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag558"
+ },
+ {
+  "idx": 5,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Effectiveness of digital health interventions for care integration in coronary artery disease: a systematic review and meta-analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIM: To assess the effectiveness of digital health interventions (DHIs) supporting care integration for coronary artery disease (CAD) in improving health outcomes compared to usual care. METHODS: For this systematic review, we searched MEDLINE, CINAHL, EBSCO Psychology and Behavioural Sciences Collection, Scopus, and Web of Science from 1 January 1995 to 5 November 2025. We included studies reporting primary data on DHIs supporting care integration for patients with CAD. Primary endpoints were all-cause mortality and readmissions, and CVD events. Secondary endpoints were the control of cardiovascular risk factors. We conducted random-effects meta-analyses in RevMan and assessed risk of bias with Cochrane's RoB tools. RESULTS: We included 72 studies (23,111 participants), assessing 45 in the meta-analysis. All DHIs supported person-centred care integration (n=72) while few DHIs addressed clinical care integration (n=22), professional integration (n=12) and functional integration (n=22). Compared to usual care, DHIs supporting care integration had significant reductions in the odds of CVD events (OR: 0.74 [0.59, 0.92], df=5, p=0.02), but not in all-cause mortality or readmissions. CONCLUSIONS: Although this review shows that DHIs supporting care integration were associated with reduced CVD events compared to usual care, the current evidence remains concentrated primarily on person-centred care integration, with limited studies evaluating broader dimensions of care integration at organisational and systemic levels. These findings highlight the important evidence gaps of DHIs in supporting more comprehensive and system-level integration in cardiovascular care. Further research is necessary to understand the influence of DHI modality and function on effectiveness of care integration.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag552"
+ },
+ {
+  "idx": 6,
+  "journal": "JAMA",
+  "title": "Sodium-Glucose Cotransporter 2 Inhibitor Use and Levels of Hemoglobin, Markers of Iron Metabolism, and Erythropoiesis: A Systematic Review and Meta-Analysis of Randomized Clinical Trials.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: In randomized clinical trials, sodium-glucose cotransporter 2 (SGLT2) inhibitor use was associated with increased hemoglobin and hematocrit compared with placebo. However, the magnitude and importance of this association remain unclear. OBJECTIVE: To evaluate the associations between SGLT2 inhibitor use and levels of hemoglobin, hematocrit, and markers of iron metabolism and erythropoiesis compared with placebo or active comparator. DATA SOURCES: PubMed, Web of Science, and the Cochrane Central Register of Controlled Trials (CENTRAL) were searched from inception to July 22, 2026. STUDY SELECTION: Randomized, double-masked clinical trials comparing SGLT2 inhibitor use with placebo or active comparators in patients with 1 or more of the following conditions: cardiovascular disease, diabetes, heart failure, and chronic kidney disease. DATA EXTRACTION AND SYNTHESIS: Three reviewers independently extracted data and results were pooled using random-effects meta-analysis. MAIN OUTCOMES AND MEASURES: Primary outcomes were changes in hemoglobin and hematocrit. Secondary outcomes were changes in red blood cell concentration, erythropoietin (EPO), and iron measures (serum iron, ferritin, transferrin saturation, and hepcidin). RESULTS: A total of 85 randomized clinical trials were analyzed (median [IQR] duration, 24 [12-32] weeks), including 70 543 participants (mean [SD] age, 62.4 [9.4] years; 25 334 female [35.9%]). Mean (SD) baseline hemoglobin was 13.6 (1.5) g/dL; baseline hematocrit was 41.5% (4.9). Seventy-eight clinical trials (67 208 participants) compared SGLT2 inhibitors with placebo, and 7 clinical trials (3335 participants) used active comparators, most commonly sitagliptin (2 trials [1158 participants]). From baseline to follow-up, hemoglobin changed by 0.55 g/dL (95% CI, 0.49 to 0.61 g/dL; P < .001) in the SGLT2 inhibitor group, and -0.08 g/dL (95% CI, -0.13 to -0.03 g/dL; P = .003) in the control group (difference, 0.60 g/dL; 95% CI, 0.55 to 0.66 g/dL; P < .001). From baseline to follow-up, hematocrit changed by 2.17% (95% CI, 1.95% to 2.39%; P < .001) in the SGLT2 inhibitor group and -0.13% (95% CI, -0.28% to 0.01%; P = .07) in the control group (difference, 2.36%; 95% CI, 2.19% to 2.52%; P < .001). Of the 6 secondary outcomes, 4 showed significant associations with SGLT2 inhibitors, including increased EPO (2.35 mIU/mL in SGLT2 inhibitor group vs 0.04 mIU/mL in control group; difference, 2.11 mIU/mL [95% CI, 0.5-3.71 mIU/mL]; P = .01) and decreased transferrin saturation (-2.2% in SGLT2 inhibitor group vs -0.10% in control group; difference, -0.84% [95% CI, -1.21% to -0.47%]; P < .001). CONCLUSIONS AND RELEVANCE: In a meta-analysis of randomized clinical trials, compared with control, SGLT2 inhibitor use was associated with small statistically significant increases in hemoglobin and hematocrit levels. The clinical significance of these findings is unclear.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1001/jama.2026.19921"
+ },
+ {
+  "idx": 7,
+  "journal": "Heart Rhythm",
+  "title": "Leadless Atrial Pacing Targeting Bachmann Bundle for Atrial Resynchronization: A Single Center Registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Interatrial conduction delay (IACD) resulting from fibrosis or functional block in Bachmann bundle (BB) occurs often in patients with sinus node dysfunction (SND) and increases the risk of atrial fibrillation (AF). Pacing the BB in patients with SND may reduce AF burden. Little is known of the feasibility and effectiveness of BB leadless atrial pacemaker (BBLAP) implantation. OBJECTIVE: To determine if BBLAP is safe, feasible and improves IACD. METHODS: This registry prospectively enrolled 21 consecutive adults with baseline P wave duration (PWD) >120ms undergoing BBLAP for SND. Fluoroscopy, intracardiac echocardiography and left atrial conduction time (LACT) measurements from a decapolar coronary sinus (CS) catheter were used to facilitate implantation. BBLAP implant success was defined as improved PWD, P wave morphology, and LACT. Baseline and BBLAP LACT and PWD, axis, and morphology were compared. RESULTS: Of the 21 patients enrolled, 17 had successful BBLAP (81%). Among those with successful BBLAP, baseline PWD was 150 (±21) ms, BBLAP PWD was 113 (±23) ms, a reduction of 37 (±13) ms, p < 0.001. BBLAP P wave axis was inferiorly directed in all cases. 8/8 patients with a negative terminal P wave in the inferior leads at baseline had correction with BBLAP. LACT decreased from 113 (±35) ms to 78 (±33) ms, mean difference 35 (±15) ms, p <0.001, with BBLAP. 13/17 patients demonstrated a shift in CS activation from proximal-distal activation to mid- or distal-proximal activation during BBLAP. In all cases there were no complications. CONCLUSION: The BBLAP implant technique presented in this registry is feasible and reduced IACD. Further study on the effect of BBLAP on AF burden is needed.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.029"
+ },
+ {
+  "idx": 8,
+  "journal": "J Am Heart Assoc",
+  "title": "Contemporary Burden, Drivers, and Risk-Factor Control Gaps Across Cardiovascular-Kidney-Metabolic Syndrome Stages in US Adults, 2021 to 2023.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cardiovascular-kidney-metabolic (CKM) syndrome staging integrates adiposity, metabolic dysfunction, chronic kidney disease, and cardiovascular disease. Contemporary national estimates of CKM stage distribution, stage drivers, and treatment gaps are needed to inform implementation of the CKM framework. METHODS: We analyzed adults aged ≥20 years in the National Health and Nutrition Examination Survey 2021 to 2023 fasting subsample. CKM stage was assigned hierarchically using American Heart Association CKM staging criteria. We estimated survey-weighted CKM stage prevalence, national population counts, stage-specific drivers, and risk-factor control and treatment gaps across stages 2 through 4. RESULTS: The analytic sample included 2958 adults, representing 245.2 million US adults. Overall, 26.4 million adults (10.8%) were stage 0, 56.8 million (23.2%) stage 1, 125.9 million (51.3%) stage 2, 13.4 million (5.5%) stage 3, and 22.7 million (9.3%) stage 4. Stage ≥1 was present in 89.2%, stage ≥2 in 66.1%, and advanced CKM (stages 3-4) in 14.7%. Among stage 1 adults, 85.1% had adiposity and 49.2% had prediabetes. Among adults with stage 2 CKM, hypertension (72.0%), metabolic syndrome (56.1%), and hypertriglyceridemia (41.9%) were common drivers. Among adults with stage 3 CKM, 95.8% met the Predicting Risk of Cardiovascular Disease Events 10-year cardiovascular disease risk criterion. Risk-factor control and treatment gaps were common across stages 2 through 4, including blood pressure ≥130/80 mm Hg in 50.3% to 66.9%, lipid-lowering therapy nonuse among eligible adults in 30.1% to 59.2%, and low-density lipoprotein cholesterol above the target in 64.5% to 73.9%. CONCLUSIONS: CKM syndrome affects most US adults, with stage-specific drivers and persistent risk-factor control and treatment gaps. These findings provide contemporary benchmarks for CKM surveillance and implementation.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.053440"
+ },
+ {
+  "idx": 9,
+  "journal": "J Am Heart Assoc",
+  "title": "Role of Plasma Proteins in the Association Between Socioeconomic Status and Cardiovascular Disease Events: Results From Trans-Omics for Precision Medicine Cohorts.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Socioeconomic status (SES) is strongly associated with cardiovascular disease burden and risk. Plasma proteins may elucidate a biological mechanism through which low SES increases the risk of cardiovascular disease. METHODS: Participants from the following 3 cohorts were included: the Multi-Ethnic Study of Atherosclerosis (n=2139), Jackson Heart Study (n=967), and Women's Health Initiative (n=1104). SES was approximated using a cumulative score (range 0-3) across education, income, and employment status. A meta-analysis of Cox proportional hazards ratios was used to assess the association between SES and incident events for coronary heart disease (CHD) and stroke. Linear regression was used within each cohort to determine associations between SES and Olink proteins (n=1270 proteins) and the results were meta-analyzed across cohorts. Regression-based mediation analysis was used to determine whether the identified proteins were statistical mediators of the association of SES and incident events. RESULTS: Higher SES scores were associated with a lower risk of CHD (hazard ratio [HR], 0.74 [95% CI, 0.63-0.87]) and stroke (HR, 0.81 [95% CI, 0.66-1.00]). After correcting for multiple testing (P<3.937×10-5), 233 proteins were associated with SES in the meta-analysis. Of these 233 proteins, 21 had a significant indirect effect on SES and CHD. Because the SES-stroke association was not statistically significant, proteins were not tested as mediators. CONCLUSIONS: Our analysis of multiple cohorts identified evidence of different proteomic pathways associated with SES and cardiovascular disease. This work suggests that exogenous social factors (eg, SES) may influence cardiovascular disease via proteomic profiles.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.043751"
+ },
+ {
+  "idx": 10,
+  "journal": "J Am Heart Assoc",
+  "title": "Multivariate Trajectories of Cardiometabolic Risk Factors and Complications in Elderly Chinese Patients With Type 2 Diabetes: A Retrospective Cohort Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The current study aimed to identify the multivariate trajectories of cardiometabolic risk factors in elderly patients with type 2 diabetes and investigate their associations with cardiovascular disease and diabetic kidney disease (DKD). METHODS: A retrospective cohort of 27 288 patients with type 2 diabetes aged ≥60 years from China's National Basic Public Health Service Program was analyzed. All participants had ≥3 medical examinations from 2018 to 2023. A multivariate latent class mixed model was used to identify the sex-specific multitrajectories of fasting plasma glucose, low-density lipoprotein cholesterol, and diastolic blood pressure. Binary logistic regression estimated odds ratios (ORs) and 95% CIs for associations with cardiovascular disease, coronary heart disease, stroke, and DKD. RESULTS: Among elderly male patients, 3 quadratic trajectory groups were identified: stable (87.16%; n=7997), U shape (3.78%; n=347), and inverse U shape (9.06%; n=831). In elderly women, 2 quadratic trajectory groups were identified: stable (87.29%; n=15 810) and inverse U shape (12.71%; n=2303). In men, the U-shape group had elevated risks of cardiovascular disease (OR, 1.66 [95% CI, 1.26-2.20]), coronary heart disease (OR, 1.60 [95% CI, 1.09-2.33]), stroke (OR, 1.58 [95% CI, 1.12-2.23]), and DKD (OR, 1.39 [95% CI, 1.11-1.74]); the inverse U-shape group had increased DKD risk (OR, 1.35 [95% CI, 1.16-1.57]). In women, the inverse U-shape group was associated with coronary heart disease (OR, 1.31 [95% CI, 1.12-1.53]) and DKD (OR, 1.65 [95% CI, 1.51-1.81]). CONCLUSIONS: Distinct sex-specific trajectories of cardiometabolic risk factors were associated with different risks of cardiovascular and diabetic kidney complications in elderly patients with type 2 diabetes. These findings support early identification and personalized management of adverse trajectories to potentially reduce long-term complications in this population.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.047911"
+ },
+ {
+  "idx": 11,
+  "journal": "Heart Rhythm",
+  "title": "Prognostic Impact of Ventricular Arrhythmia Timing in Acute Coronary Syndromes Treated with Percutaneous Coronary Intervention: A Systematic Review and Network Meta-Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Ventricular arrhythmias (VA) often complicate acute coronary syndromes (ACS). The prognostic impact of VA timing relative to percutaneous coronary intervention (PCI) remains unclear. OBJECTIVE: To assess the prognostic significance of VA based on their timing of occurrence in relation to PCI. METHODS: Systematic review and meta-analysis of observational studies reporting all-cause mortality with and without VA (sustained or hemodynamically unstable VT/VF) in ACS patients undergoing PCI. The endpoints analyzed were short-term (30 days/in-hospital) and long-term (1 year) mortality. A network meta-analysis comparing VA-before PCI, VA-during PCI, and VA-after PCI with the group not experiencing VA as a reference was conducted. RESULTS: Twelve studies comprising 49,963 patients were included, of whom 3,475 (7.0%) experienced VA. VA was associated with increased short- (OR 5.04, 95%CI 3.78-6.72) and long-term mortality (OR 2.92, 95%CI 2.20-3.86). In patients alive at discharge/30 days, subsequent long-term mortality risk did not differ between those with and without VA (OR 0.97, 95%CI 0.62-1.52). The network meta-analysis showed that all VA timings are associated with a significantly higher risk compared with the group not experiencing VA. Sensitivity analysis found that VA-after is associated with higher short-term mortality than earlier VA (OR 3.37, 95%CI 1.46-7.82). CONCLUSIONS: VA substantially increase the risk of death in patients with ACS undergoing PCI. Mortality risk emerges to be associated with the timing of VA occurrence, with VA-after PCI associated with the highest risk. These findings highlight the prognostic relevance of arrhythmic events across the entire peri-procedural window, underscoring the need for refined risk stratification.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.040"
+ },
+ {
+  "idx": 12,
+  "journal": "Heart Rhythm",
+  "title": "Association of Left Atrial Intramyocardial Fat Infiltration With Atrial Arrhythmia Recurrence After Pulsed-Field Ablation for Persistent Atrial Fibrillation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Computed tomography (CT)-derived left atrial intramyocardial fat infiltration (inFAT) is an emerging imaging phenotype of the atrial substrate in atrial fibrillation (AF). OBJECTIVE: This study aimed to evaluate inFAT and peri-left atrial epicardial adipose tissue (LA-EAT) using artificial intelligence-based CT analysis software (ADAS 3D) and to assess their association with atrial arrhythmia recurrence after persistent AF ablation. METHODS: This retrospective single-center study included 59 patients who underwent pulsed-field ablation for persistent AF. inFAT and LA-EAT were quantified using a semi-automated algorithm. Cox regression analysis was performed to evaluate the association of inFAT and LA-EAT with recurrence. Kaplan-Meier analysis was performed after stratification according to the tertile of each parameter. RESULTS: During a median follow-up period of 11.2 [6.4-11.9] months, atrial arrhythmia recurrence occurred in 21 (36%) patients. The inFAT volume was significantly greater in patients with recurrence than those without (1.25 [0.78-1.53] vs. 0.72 [0.45-1.09] cm3, p=0.021). In contrast, LA-EAT volume was comparable between the groups (21.8 [13.7-30.4] vs. 17.5 [14.1-26.8] cm3, p=0.419). In Cox regression analysis, higher inFAT was significantly associated with recurrence, whereas LA-EAT was not significantly associated (inFAT: hazard ratio [HR], 1.93; 95% confidence interval [CI], 1.13-3.27; p=0.015; LA-EAT: HR, 1.02; 95% CI, 0.99-1.06; p=0.227). The significant association between inFAT and recurrence remained consistent after adjustment for body mass index. CONCLUSIONS: Greater inFAT volume was associated with atrial arrhythmia recurrence after pulsed-field ablation for persistent AF, suggesting that inFAT may represent a candidate imaging marker of recurrence risk.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.045"
+ },
+ {
+  "idx": 13,
+  "journal": "J Am Heart Assoc",
+  "title": "Intra-Arterial Alteplase After Successful Endovascular Reperfusion in Patients Without Intravenous Thrombolysis: A Subgroup Analysis of the PEARL Randomized Clinical Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: For patients with large-vessel occlusion stroke who undergo endovascular thrombectomy without prior intravenous thrombolysis, the efficacy and safety of adjunctive intra-arterial alteplase (IAA) after successful endovascular reperfusion remain uncertain. METHODS: This was a prespecified subgroup analysis of the PEARL (Intra-Arterial Alteplase After Successful Endovascular Reperfusion in Acute Stroke) randomized clinical trial conducted at 28 centers in China, focusing on patients who underwent endovascular thrombectomy without prior intravenous thrombolysis. Patients were stratified by treatment assignment: IAA treatment versus standard treatment (control). The primary efficacy outcome was the proportion of patients achieving excellent functional outcome, defined as a modified Rankin Scale score of 0 to 1 at 90 days. Safety outcomes included symptomatic intracranial hemorrhage, any intracranial hemorrhage within 36 hours, and 90-day all-cause mortality. RESULTS: Among 324 patients originally randomized in the PEARL trial, 189 underwent endovascular thrombectomy without prior intravenous thrombolysis and were included in this analysis. Of the 189 patients, 95 were assigned to the IAA treatment group and 94 to the standard treatment group. Excellent functional outcome at 90 days was significantly higher in the IAA treatment group compared with the standard treatment group (43.2% [41/95] versus 22.6% [21/93]; adjusted risk ratio [aRR], 1.86; 95% CI, 1.19-2.91; P=0.007). The absolute risk reduction was 20.6% (95% CI, 7.0%-33.1%). Results were consistent in per-protocol sensitivity analyses (P=0.002). No significant differences were observed in symptomatic intracranial hemorrhage (aRR, 0.93; 95% CI, 0.28-3.13; P=0.908), any intracranial hemorrhage (aRR, 1.04; 95% CI, 0.68-1.60; P=0.843), or 90-day mortality (hazard ratio [HR], 1.00; 95% CI, 0.49-2.04; P>0.99). CONCLUSIONS: In patients who did not receive prior intravenous thrombolysis, adjunctive IAA after successful endovascular thrombectomy was associated with a higher likelihood of excellent functional outcome at 90 days, without an apparent increase in symptomatic intracranial hemorrhage or mortality. REGISTRATION: URL: clinicaltrials.gov; Unique Identifier: NCT05856851.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049961"
+ },
+ {
+  "idx": 14,
+  "journal": "Heart Rhythm",
+  "title": "Atrial Fibrillation Pattern and Outcomes After Contemporary Left Atrial Appendage Occlusion.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Atrial fibrillation (AF) pattern predicts thromboembolic risk during anticoagulation, but its prognostic importance after left atrial appendage occlusion (LAAO) is uncertain. OBJECTIVES: To determine whether AF pattern independently predicts residual clinical risk after contemporary LAAO and whether peri-device leak (PDL) or device-related thrombus (DRT) identify a persistently high-risk subgroup. METHODS: We studied 3,459 patients with documented AF pattern undergoing LAAO in a contemporary multicenter registry. AF was classified as paroxysmal, persistent or long-standing persistent, or permanent. The primary endpoint was a 2-year hierarchical composite of death, stroke or systemic embolism (stroke/SE), and major bleeding analyzed by win ratio. Inverse probability weighting and propensity score methods adjusted for baseline differences. Follow-up imaging assessed PDL and DRT. RESULTS: After inverse probability weighting, persistent and permanent AF were associated with progressively worse hierarchical outcomes compared with paroxysmal AF (win ratios 1.39 and 1.59, respectively). Non-paroxysmal AF was associated with higher stroke risk (HR 1.64; 95% CI 1.07-2.50), without increased mortality or major bleeding. PDL and DRT were more frequent in non-paroxysmal AF. In the PDL/DRT subgroup, non-paroxysmal AF was associated with higher first stroke/SE risk (HR 1.83; 95% CI 1.00-3.34), concentrated 180-540 days after LAAO. CONCLUSIONS: AF pattern independently stratified residual clinical risk after LAAO, with progressively worse severity-weighted outcomes from paroxysmal to persistent and permanent AF. Excess risk was driven primarily by thromboembolism. In the PDL/DRT subgroup, the association was concentrated 180-540 days after LAAO, suggesting these patients may benefit from prolonged thromboembolic surveillance.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.035"
+ },
+ {
+  "idx": 15,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Temperature-Attributable Cardiovascular Mortality in Europe Under Future Climate Scenarios: Projected Impacts of Population Aging and Climate Change to 2080.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Heat and cold stress are established cardiovascular risk factors. As climate patterns shift and Europe's population ages, quantifying their separate attributable fractions-and projecting future temperature-attributable cardiovascular disease (tCVD) burden-is essential for clinical and policy decision-making. METHODS: Europe was divided into a 0.25° × 0.25° grid (12,411 land cells across 37 countries). Annual cardiovascular disease (CVD) deaths (2016-2023) were downscaled from national estimates using population data. Temperature-mortality relative risk coefficients were drawn from a 27-country pooled study and applied via population attributable fractions with 1,000 Monte Carlo simulations. Daily mean temperature projections from five bias-corrected climate models were obtained under moderate (SSP2-4.5) and high (SSP5-8.5) emission scenarios. Population aging was incorporated using country-level age projections; climate-only analyses held age structure constant at 2020 levels. RESULTS: At baseline, non-optimal temperature accounted for 168,586 [144,961-192,293] CVD deaths annually (31.4 [27.0-35.8] per 100,000), with a cold-to-heat ratio of 5:1. Under SSP5-8.5, total tCVD mortality is projected to nearly double to 62.4 [48.5-76.2] per 100,000 by late-century (441,772 [343,627-540,116] annual deaths), with heat-attributable rates projected to rise 472%. Population aging may amplify total projected mortality by over 80% by late century beyond climate change alone; without aging, cold-attributable rates may decline over the century rather than rise. CONCLUSIONS: tCVD mortality across Europe is projected to double by late-century, driven by dramatic heat increases and substantially amplified by population aging. These findings support greater integration of temperature-related CVD risk into clinical practice and public health policy.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag533"
+ },
+ {
+  "idx": 16,
+  "journal": "Europace",
+  "title": "Long-term predictors of outcome in Brugada syndrome patients after implantable cardioverter-defibrillator implant.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Various clinical risk factors impact the natural history of Brugada syndrome (BrS) and establish the basis of current clinical practice guidelines (CPG) indications for implantable cardioverter-defibrillator (ICD). Due to the time-dependent expressivity of BrS, their performance in predicting the actual occurrence of arrhythmic events after ICD implantation remains unknown. OBJECTIVES: To assess the occurrence of arrhythmic events based on the CPG indications and whether the genetic substrate can add to the prediction of arrhythmic events at follow-up. METHODS AND RESULTS: We enrolled consecutive patients who underwent ICD implant either for primary or secondary prevention. Prospective clinical data included arrhythmic history, electrocardiographic findings, therapies, SCN5A gene mutations, and genotyping of three BrS-associated single nucleotide variants. Eleven per cent of 551 patients experienced life-threatening arrhythmic events (LAE) over a median follow-up of 8.1 years. Patients with ESC class IIA indication had a similar risk profile as those implanted for secondary prevention. The recently developed BrS 5-year risk score, including clinical and genetic variables, was a determinant of outcome in the whole cohort and in patients implanted for primary prevention: 26.93 ± 3.33 vs. 4.41 ± 0.61 and 11.67 ± 1.52 vs. 5.36 ± 0.99 in patients with LAEs compared with those without events (P < 0.0001). CONCLUSION: CPG class IIa and I had a similar rate of ICD shock at follow-up. We also provide robust evidence indicating that the quantification of the BrS arrhythmic risk score at the moment of ICD implant may improve the identification of patients who will benefit from ICD at follow-up.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag278"
+ },
+ {
+  "idx": 17,
+  "journal": "Lancet",
+  "title": "Efficacy and safety of mitapivat in patients with sickle cell disease (RISE UP): a phase 3, double-blind, global, randomised, placebo-controlled trial.",
+  "ptypes": [
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Clinical Trial, Phase III",
+   "Multicenter Study"
+  ],
+  "abstract": "BACKGROUND: Persistent haemolytic anaemia and recurrent vaso-occlusion drive complications and accelerate mortality in sickle cell disease. Mitapivat, an oral allosteric activator of pyruvate kinase, increases ATP and decreases 2,3-DPG with the potential to improve haemolytic anaemia and reduce sickling. We aimed to evaluate the efficacy and safety of mitapivat in patients with sickle cell disease. METHODS: We report results from RISE UP, a phase 3, double-blind, global, randomised, placebo-controlled trial from 69 sites across 15 countries. Patients older than 16 years with anaemia and recurrent sickle cell pain crises were randomly assigned (2:1) to either mitapivat 100 mg or placebo twice a day using permuted-block randomisation. Primary endpoints, assessed in all randomly assigned patients, were haemoglobin response (≥1·0 g/dL increase in average haemoglobin concentration from week 24 to week 52 compared with baseline) and annualised rate of sickle cell pain crises. This study is registered with ClinicalTrials.gov, NCT05031780, and the open-label extension is ongoing. FINDINGS: A total of 207 patients were randomly assigned to mitapivat (138 [67%]) or placebo (69 [33%]). 56 (41%) of 138 patients in the mitapivat group had a haemoglobin response, compared with two (3%) of 69 patients on placebo (adjusted difference 38%, 95% CI 29-47; two-sided p<0·0001). The annualised rate (95% CI) of sickle cell pain crises was 2·6 (2·3-3·0) for mitapivat and 3·1 (2·6-3·6) for placebo (two-sided p=0·1213). Serious adverse events were reported in 28 (20%) patients on mitapivat and 20 (29%) patients on placebo; one (1%) patient and 0 patients, respectively, were deemed treatment related. INTERPRETATION: Mitapivat, an oral pyruvate kinase activator, with a novel mechanism that ameliorates haemolytic anaemia, has the potential to be an effective and convenient disease-modifying treatment for people with sickle cell disease. FUNDING: Agios Pharmaceuticals.",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1016/S0140-6736(26)01480-7"
+ },
+ {
+  "idx": 18,
+  "journal": "J Am Heart Assoc",
+  "title": "Implementation of a WatchPAT-Based Diagnostic Pathway for Obstructive Sleep Apnea in a Tertiary Hypertension Center: A Feasibility Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Obstructive sleep apnea (OSA) is a prevalent yet underdiagnosed in hypertension, affecting 30% to 83% of patients. Limited polysomnography access delays diagnosis. We evaluated the feasibility, diagnostic yield, and downstream management decisions of an integrated diagnostic pathway using WatchPAT 300, a peripheral arterial tonometry-based home sleep apnea test, in a tertiary hypertension unit. METHODS: In this single-center, prospective, observational study, 200 patients underwent ambulatory OSA assessment from May 2023 through August 2025. We recorded clinical variables, peripheral arterial tonometry data, and management decisions. A subgroup underwent confirmatory in-laboratory polysomnography. Patients were classified as none-to-mild OSA (peripheral apneahypopnea index <15/h) and moderate-to-severe OSA (≥15/h). RESULTS: The pathway achieved 97.5% (95% CI, 94%-99%) technical success and reduced the mean time-to-diagnosis to 3.5±4.5 days, versus 154 days for in-laboratory polysomnography. Over half of the cohort was triaged: ∼30% met treatment criteria directly, and 22% were ruled out. Among patients completing confirmatory polysomnography, 83% (95% CI, 61%-94%) initially classified as none-to-mild were reclassified as moderate-to-severe OSA, and 77% required treatment. Furthermore, symptoms were dissociated from severity, and Snoring-Tired-Observed-Pressure-BMI-Age-Gender (STOP-Bag) association with severity did not remain significant after multiplicity correction. CONCLUSIONS: A peripheral arterial tonometry-based home sleep apnea test-first model is feasible and efficient, eliminating diagnostic delays. Although effective for triaging clear-cut cases, the high reclassification rate underscores the almost mandatory role of confirmatory polysomnography for milder or equivocal results, suspected comorbid sleep disorders, or high STOP-Bag score. These data argue against symptoms-based screening alone to screen populations with hypertension.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049285"
+ },
+ {
+  "idx": 19,
+  "journal": "Rev Esp Cardiol (Engl Ed)",
+  "title": "Arrhythmias detected by implanted cardiac rhythm recorders in transthyretin cardiac amyloidosis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "INTRODUCTION AND OBJECTIVES: Arrhythmias are a common complication of transthyretin cardiac amyloidosis (ATTR-CM). We sought to characterize the prevalence, risk factors, and prognosis of arrhythmias in ATTR-CM using implantable loop recorders (ILRs). METHODS: ILRs were implanted in 49 patients with ATTR-CM (84% male; median age, 73.2 [66.2-78.8] years; 71% wild-type, 51% with known atrial fibrillation [AF]). Factors associated with the development of AF or pacemaker implantation were analyzed, and clinical outcomes were compared with those of a contemporary cohort of patients with 125 ATTR-CM without an ILR. RESULTS: During a median follow-up of 37.2 [26.6-41.1] months, an advanced conduction disorder (ACD) prompting pacemaker implantation was detected in 16 individuals (33%) and new-onset AF was detected in 17 patients (71% of those without previous AF). Patients with new-onset AF more frequently had wild-type ATTR-CM. Those who needed pacemaker implantation were older and had a higher prevalence of hypertension and right bundle branch block, and a longer PR interval. Compared with patients without an ILR, early detection of arrhythmias by ILR was not associated with a prognostic benefit in terms of survival (P = .57), reduction of syncope (P = 1), heart failure admissions (P = .34), or embolic events (P = .999). CONCLUSIONS: Although a higher incidence of arrhythmias was identified through ILR monitoring in patients with ATTR-CM, no significant benefits were observed in terms of survival or other hard clinical endpoints. Significant differences were identified in patients who developed new-onset AF and ACD. These differences should be considered during the clinical follow-up of this population.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.rec.2026.09.004"
+ },
+ {
+  "idx": 20,
+  "journal": "J Am Heart Assoc",
+  "title": "Testosterone, Testosterone Replacement Therapy, and Cardiovascular Disease: A Contemporary Review.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Whether low endogenous testosterone is causal for cardiovascular disease, and how the cardiovascular risk of testosterone replacement therapy should now be classified, remain contested, while US labeling has moved in 2 opposing directions within 16 months. We conducted a targeted narrative review reported in accordance with the Scale for the Assessment of Narrative Review Articles, searching MEDLINE and primary regulatory documents from January 2000 through July 2026. Evidence was graded with a prespecified 3-tier structured author-consensus rating separating established randomized findings, unresolved secondary signals, and evidentiary absence. Low endogenous testosterone is consistently associated with higher all-cause and cardiovascular mortality but most plausibly marks multimorbidity rather than causation. TRAVERSE established that physiologic transdermal testosterone replacement therapy was noninferior to placebo for 3-point major adverse cardiovascular events over ∼3 years, within a permissive margin and against a 61% discontinuation rate. Observational analyses linking normalization to lower mortality were not reproduced under randomization. Atrial fibrillation, pulmonary embolism, acute kidney injury, fracture, and noncalcified plaque progression remain unresolved. Blood pressure rises across the class; on ambulatory monitoring the magnitude differs by individual product rather than by route. Long-term exposure and nontransdermal formulations remain untested, and the age-related-hypogonadism limitation of use is now proposed for removal. Noninferiority over 3 years should not be read as long-term clinical equivalence. Safe use of testosterone replacement therapy requires appropriate patient selection, distinction between pathologic hypogonadism and functional or age-associated low testosterone, mapping of each recommendation to its evidentiary tier, and close multidisciplinary collaboration.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.054307"
+ },
+ {
+  "idx": 21,
+  "journal": "N Engl J Med",
+  "title": "Atacicept in IgA Nephropathy - Phase 3 Trial Final Efficacy Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Atacicept resulted in a significantly greater reduction in the urinary protein-to-creatinine ratio than placebo in a previously published analysis of this trial, ORIGIN 3. Final prespecified efficacy results are reported here. METHODS: We randomly assigned adults with biopsy-confirmed IgA nephropathy to receive weekly subcutaneous atacicept at a dose of 150 mg or placebo. We carried out final analyses of two secondary end points: the change in the estimated glomerular filtration rate (eGFR) at week 52 and the annualized eGFR slope through week 104; additional hierarchically tested end points and safety were assessed. RESULTS: Of 431 patients who underwent randomization, 428 received atacicept or placebo (214 per group). At week 52, the mean change in the eGFR was -0.11 ml per minute per 1.73 m2 of body-surface area (95% confidence interval [CI], -1.44 to 1.22) with atacicept and -5.69 ml per minute per 1.73 m2 (95% CI, -7.04 to -4.35) with placebo (mean difference, 5.58 ml per minute per 1.73 m2; 95% CI, 3.68 to 7.48; P<0.001). Through week 104, the mean annualized eGFR slope was -0.60 ml per minute per 1.73 m2 (95% CI, -1.62 to 0.41) with atacicept and -5.60 ml per minute per 1.73 m2 (95% CI, -6.64 to -4.57) with placebo (difference, 5.00 ml per minute per 1.73 m2 per year; 95% CI, 3.55 to 6.45; P<0.001). Composite kidney-disease progression occurred in 11 patients (5.1%) in the atacicept group and in 38 patients (17.8%) in the placebo group (hazard ratio, 0.24; 95% CI, 0.12 to 0.48; P<0.001); no patients in the atacicept group had progression to dialysis, transplantation, or death, as compared with 7 patients in the placebo group. Adverse events occurred in 160 of 214 patients (74.8%) in the atacicept group and in 167 of 214 patients (78.0%) in the placebo group; serious adverse events occurred in 7.0% and 15.4%, respectively. One patient (in the placebo group) died. CONCLUSIONS: Atacicept slowed and stabilized the decline in the eGFR as compared with placebo. (Funded by Vera Therapeutics; ORIGIN 3 ClinicalTrials.gov number, NCT04716231.).",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1056/NEJMoa2610103"
+ },
+ {
+  "idx": 22,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Dose-Response Associations of Exercise Modalities With Cardiorespiratory Fitness in Heart Failure: A Systematic Review and Bayesian Network Meta-Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Exercise training improves cardiorespiratory fitness in patients with heart failure, yet the dose-response relationship across different exercise modalities remains unclear. This study aimed to evaluate the effects of different exercise modalities and their standardized doses on peak oxygen uptake (VO2peak) in patients with heart failure. METHODS: We systematically searched multiple databases from inception through March 2026 for randomized controlled trials comparing exercise interventions with controls. Exercise modalities were categorized as interval aerobic training (IAT), continuous aerobic training (CAT), resistance training (RT), mind-body training (MBT), and their combinations. Exercise dose was uniformly quantified as weekly metabolic equivalents (MET-min/week). A Bayesian model-based network dose-response meta-analysis was performed. RESULTS: A total of 100 trials involving 5,353 patients were included. The dose-response relationship followed an Emax curve, with ED50 values clustering around 80-90 MET-min/week. A weekly dose of 500 MET-min yielded considerable benefit, and 750-1000 MET-min approached maximal benefit for nearly all modalities. The top three ranked interventions were IAT (Emax = 3.50, 95% CrI: 2.49-4.60), RT (Emax = 3.66, 95% CrI: 1.96-5.85), and IAT+RT (Emax = 3.49, 95% CrI: 1.26-5.79). CONCLUSIONS: The exercise dose-response relationship in heart failure follows an Emax curve, with distinct dose-benefit profiles across different exercise modalities. Based on the current evidence, the following preliminary considerations may be offered: for patients with limited exercise tolerance, MBT may be considered as one of the preferred options; for those with moderate exercise tolerance, IAT+RT or CAT+RT may be suitable choices; for patients with good exercise tolerance, IAT or RT may be considered; and for patients with comorbid obesity, CAT may be incorporated into a comprehensive management program.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag560"
+ },
+ {
+  "idx": 23,
+  "journal": "Heart Rhythm",
+  "title": "Day-Night Patterns of Wearable-Derived Electrocardiographic Age and Left Atrial Remodeling in Atrial Fibrillation-Naïve Individuals.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Artificial intelligence-derived electrocardiographic (AI-ECG) age is conventionally treated as a static marker. Its diurnal dynamics and structural correlates in individuals without atrial fibrillation (AF) remain unknown. OBJECTIVE: To characterize diurnal AI-ECG age patterns, their reproducibility, and associations with left atrial (LA) remodeling. METHODS: We analyzed continuous wearable ECGs from two prospective registries (NCT05119725, NCT05355948). In 499 AF-naïve participants with ≥48-hour recordings, AI-ECG age was estimated every 10 minutes. Unsupervised clustering identified day-night trajectories, summarized by day-night difference (ΔAge) into Restorative (>0.6 years) or Disrupted (≤0.6 years) phenotypes. Reproducibility was evaluated across sequential periods. Age- and sex-adjusted associations of binary and continuous ΔAge with LA volume index (LAVI) were pooled in a cross-sectional echocardiographic substudy (n=122). RESULTS: Three trajectories emerged in both registries. Restorative prevalence was 47.6%-50.2%. Agreement between two consecutive 48-hour periods was 75.8% (κ = 0.516; 95% CI, 0.395-0.631); 6- to 8-day intraclass correlation coefficients were 0.51-0.54. The Disrupted phenotype was associated with higher LAVI (pooled mean difference, 5.54 mL/m2; 95% CI, 1.11-9.98; P = .014) and greater odds of LA enlargement (LAVI ≥40 mL/m2; pooled odds ratio, 3.68; 95% CI, 1.45-9.29; P = .006). Per 1-SD higher ΔAge, LAVI was lower (β, -2.89 mL/m2; P = .007) and LA enlargement less likely (odds ratio, 0.53; P = .004). CONCLUSION: Wearable-derived AI-ECG age exhibits a reproducible day-night pattern. A Disrupted phenotype is associated with adverse LA remodeling. Because reproducibility remains insufficient for individual-level classification, prospective outcome-based validation is warranted.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.036"
+ },
+ {
+  "idx": 24,
+  "journal": "Hypertension",
+  "title": "Life-Course Blood Pressure Trajectories and Focal Myocardial Fibrosis in Older Age in MyoFit46.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The impact of life-course blood pressure (BP) trajectories on later-life focal left ventricular (LV) fibrosis by late gadolinium enhancement (LGE) remains elusive. METHODS: MyoFit46 prospectively recruited ≈500 participants from a 1946 birth cohort for a cardiovascular magnetic resonance scan at 77 years, assessing LV LGE calculated using the 3-SD method or 5-SD method. Systolic BP (SBP) and diastolic BP were recorded at 36, 43, 53, 63, 69, and 77 years. For each participant, annual rates of BP change (steepness) and area under the BP trajectory (cumulative burden) for each age interval were calculated using mixed-effects models. Associations between life-course BPs and LGE were tested using generalized linear models, adjusted for antihypertensives, demographics, lifestyle, and comorbidities. Time-to-event associations between LGE and incident major adverse cardiovascular event (hospitalizations for coronary artery disease, stroke, heart failure, and atrial/ventricular arrhythmias; n=29) were also evaluated. RESULTS: Among 472 participants (54% male), each 10 mm Hg greater individual SBPs at 36 to 69 years were associated with 6% to 11% greater LV LGE calculated using the 3-SD method (all P≤0.033), whereas each 10 mm Hg sustained greater SBPs on any age interval from 36 to 69 associated with 16% to 24% greater LGE calculated using the 3-SD method at 77(all P≤0.005), independent of SBP at 77 years. Each 1 mm Hg/y steeper SBP rise during age intervals 36 to 43, 43 to 53, and 53 to 63 was associated with 6% to 12% greater LGE calculated using the 3-SD method at 77 years. LGE presence was associated with greater major adverse cardiovascular event rates (hazard ratio, 2.5 [95% CI, 1.2-5.2]). CONCLUSIONS: Higher life-course BPs, cumulative burden, and steeper increases were associated with greater older-age LV LGE, which was linked to incident major adverse cardiovascular events. BP trajectories, beyond single-point BP measurements, warrant further investigation as tools to guide BP management strategies.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/HYPERTENSIONAHA.126.26702"
+ }
+]

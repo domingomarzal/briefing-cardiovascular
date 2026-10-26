@@ -1,0 +1,306 @@
+[
+ {
+  "idx": 25,
+  "journal": "Heart Rhythm",
+  "title": "Temporal Changes in LGE-CMR Enhancement After Monopolar Biphasic Focal Pulsed Field Ablation for Pulmonary Vein Isolation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Pulsed field ablation (PFA) has emerged as a novel non-thermal ablation modality for pulmonary vein isolation (PVI) in atrial fibrillation (AF). While chronic lesion formation after PFA has been described, data regarding acute lesion characteristics and lesion maturation remain limited. OBJECTIVE: To characterize acute and chronic lesion formation following focal point-by-point PFA for PVI using serial late-gadolinium-enhancement cardiovascular-magnetic-resonance-imaging (LGE-CMR). METHODS: Six consecutive patients with symptomatic paroxysmal or persistent AF underwent index PFA-guided PVI using the CENTAURI system and a focal point-by-point lesion delivery strategy. LGE-CMR was performed 1 day and 90±10 days after ablation. Quantitative assessment of regional and global left atrial (LA) enhancement was performed using a standardized segmentation protocol. Changes in enhancement burden and LA dimensions were analyzed between imaging timepoints. RESULTS: Among six patients at mean age 65±7 years, five patients (83%) had paroxysmal AF. Acute PVI was achieved in all patients without procedural complications. Serial LGE-CMR demonstrated substantial temporal changes between acute and chronic imaging. Enhancement within the right pulmonary vein (PV) region decreased from 3.3±2.2% to 0.8±0.8%(p=0.030), while the proportion of enhanced tissue decreased from 24.1±13.5% to 5.7±5.8%(p=0.017). Similar reductions were observed around the left PVs (4.4±3.1%vs.1.4±1.2%, p=0.064). Posterior wall enhancement decreased from 2.4±1.1% to 0.3±0.3%(p=0.007) and global LA enhancement from 12.8±6.2% to 3.3±1.6%(p=0.013), while LA volume remained unchanged. CONCLUSION: Serial LGE-CMR demonstrated substantial enhancement reduction of acute lesions following focal point-by-point PFA for PVI, which remained largely confined to the PV antra and adjacent posterior wall, providing novel in-human insights into lesion maturation following focal PFA delivery.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.021"
+ },
+ {
+  "idx": 26,
+  "journal": "Heart Rhythm",
+  "title": "Incidence, Modifiable Risk Factors, and Management of Cardiomyopathy After Ventricular Leadless Pacemaker Implantation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Leadless ventricular pacemakers (LPM) provide only RV pacing, which may lead to pacing-induced cardiomyopathy (PICM). It is unclear whether LPM implant site or atrioventricular synchronous pacing using the Micra AV device influence PICM occurrence. OBJECTIVE: To evaluate the incidence of cardiomyopathy after LPM implantation and explore the association of implant site and AV-synchronous pacing with cardiomyopathy risk and LVEF evolution. METHODS: This single-center retrospective study included 401 patients implanted with an LPM (Micra AV n=145) between July 2015 and March 2025. PICM was defined as cardiomyopathy (≥10% LVEF decline to <50%) in the presence of >20% ventricular pacing, where pacing was considered the primary cause. Risk factors for cardiomyopathy and LVEF evolution were assessed using Cox regression and mixed-effects modelling. RESULTS: Over a median follow-up of 33.0 months, all-cause cardiomyopathy occurred in 13.6% (4.8%/year), while PICM was identified in 5.5% (1.9%/year). RVOT implantation was independently associated with a lower incidence of all-cause cardiomyopathy (HR 0.48, P=0.019), and a slower LVEF decline (-0.56%/year vs -1.43%/year, P=0.013) compared with mid-septal implantation. Device type (Micra AV vs VR) was not associated with clinical outcomes or LVEF evolution. Among patients developing cardiomyopathy, 92.7% were medically treated, with 57.9% achieving ≥10% LVEF improvement, and 36.8% complete recovery. CRT upgrade was uncommon (7.3%). CONCLUSION: Cardiomyopathy occurred in a substantial proportion of LPM recipients. RVOT implantation was associated with lower cardiomyopathy incidence and slower LVEF decline, whereas Micra AV implantation did not improve clinical outcomes. However, higher AV synchrony was linked to slower LVEF deterioration.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.022"
+ },
+ {
+  "idx": 27,
+  "journal": "J Am Heart Assoc",
+  "title": "Sex Differences in the Associations of Age-Related Genetic Predisposition With Incident Atrial Fibrillation: A Prospective Cohort Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Polygenic risks for diseases are age-dependent. However, sex differences in the age-related association between polygenic risk score and incident atrial fibrillation (AF) remain unclear. METHODS: A prospective cohort study was conducted using UK Biobank data, including 386 154 participants aged 40 to 69 years, with a median follow-up of 15.6 years. High AF polygenic risk score was defined as ≥0.858 (top quintile). Cox regression, 10-fold cross-validated C-statistic, Royston's R2, and population-attributable risk percentages were used to evaluate sex- and age-specific genetic effects on incident AF. RESULTS: High polygenic risk score was significantly associated with incident AF, and continuous-age analyses showed that the age-related trajectories differed across sexes (P for difference in age-related trajectories=0.005). In age-stratified analyses, the association was numerically higher in men aged 40 to 49 years (hazard ratio [HR], 2.76 versus 2.07 in women; Bonferroni-adjusted P for interaction=0.077), whereas it was higher in women aged 60 to 69 years (HR, 2.22 versus 1.95 in men; Bonferroni-adjusted P for interaction <0.001). Cross-validated prediction analyses showed broadly similar age- and sex-specific patterns. Population-attributable risk of high polygenic risk score gradually declined across age strata in men, whereas it first increased and then decreased in women. CONCLUSIONS: Age-related genetic predisposition to AF exhibits distinct sex-specific patterns, offering a foundation for personalized risk stratification and prevention strategies tailored to age and sex.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049774"
+ },
+ {
+  "idx": 28,
+  "journal": "Circulation",
+  "title": "Multidisciplinary Collaboration in the Performance of Aortic Surgery: A Scientific Statement From the American Heart Association.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Intraoperative management of a patient undergoing cardiac surgery requires continuous and independent interventions by multiple healthcare professionals, including surgeons, anesthesiologists, and perfusionists, among others. Although each clinician performs tasks based on their training and accepted techniques, guidelines, and protocols, an action by one member of the team can have immediate consequences for other team members. Aortic surgery adds a level of complexity, with the need for interventions such as single-lung ventilation, systemic cooling (and subsequent rewarming), and myocardial, cerebral, and visceral protection. Much has been made of the utility of the multidisciplinary team. This scientific statement is intended to approach the patient undergoing aortic surgery from 3 different viewpoints: that of the surgeon, the anesthesiologist, and the perfusionist. This scientific statement is not intended to provide an exhaustive summary of approaches to aortic surgery but rather to illustrate the specific concerns that each member of the team may have.",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1161/CIR.0000000000001490"
+ },
+ {
+  "idx": 29,
+  "journal": "JAMA",
+  "title": "Pregnancy Outcomes After Living Kidney Donation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: People who become pregnant after living kidney donation may be at increased risk of pregnancy-related adverse outcomes, although the evidence is unclear. OBJECTIVE: To determine whether pregnancies after living kidney donation are associated with a higher risk of adverse pregnancy outcomes than matched pregnancies among nondonors. DESIGN, SETTING, AND PARTICIPANTS: This matched cohort study used provincial administrative health care databases from Ontario, British Columbia, and Alberta, Canada, and included living female kidney donors aged 18 to 42 years who donated a kidney between July 1992 and August 2021 and subsequently had singleton pregnancies of at least 20 weeks' gestation. These pregnancies were matched 1:4 with singleton pregnancies of at least 20 weeks' gestation among female nondonors. Pregnancies in donors and nondonors were matched on delivery date, age at delivery, years between cohort entry and delivery, number of prior pregnancies, and income. Final follow-up occurred until March 2023. Outcome analysis occurred from August 2024 to September 2026. MAIN OUTCOMES AND MEASURES: The primary outcome was a composite of hospitalization with a diagnosis of gestational hypertension, preeclampsia, or eclampsia. Secondary outcomes included 12 maternal, fetal and neonatal adverse outcomes, including the individual components of the primary outcome, the composite of low birth weight or preterm birth, and small for gestational age at birth. RESULTS: The sample included 385 pregnancies in 252 living kidney donors (mean [SD] age, 27.8 [5.0] years) matched to 1540 pregnancies in 1535 nondonors (mean [SD] age, 27.0 [4.8] years). The primary composite outcome of gestational hypertension, preeclampsia, or eclampsia occurred in 46 donor pregnancies (11.9%) and 128 nondonor pregnancies (8.3%; risk ratio, 1.51; 95% CI, 1.10-2.08). Among the 12 secondary outcomes, the 95% CI for the risk ratio excluded 1.00 for the outcome of small for gestational age, which occurred in 53 donor pregnancies (13.8%) and 121 nondonor pregnancies (7.9%) (risk ratio, 1.86; 95% CI, 1.37-2.52). CONCLUSIONS AND RELEVANCE: In this study, pregnancy after living kidney donation was associated with a higher risk of the composite outcome of hospitalization with a diagnosis of gestational hypertension, preeclampsia, or eclampsia, when compared with matched pregnancies in nondonors. Most postdonation pregnancies were uncomplicated. These findings support counseling donor candidates who may become pregnant about this risk and informing the prenatal care of donors who become pregnant.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1001/jama.2026.21737"
+ },
+ {
+  "idx": 30,
+  "journal": "JAMA",
+  "title": "A Common CD36 Variant and the Genetic Landscape of Dilated Cardiomyopathy in Individuals of African Ancestry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: Dilated cardiomyopathy (DCM) is a major cause of heart failure that disproportionately affects individuals of predominantly African ancestry, among whom familial clustering of disease is more pronounced relative to those of predominantly European ancestry. Truncating variants in TTN, which encodes the sarcomeric protein titin, are the most common established monogenic cause of DCM. A common CD36 nonsense variant enriched among individuals of African ancestry has also been shown to account for a substantial burden of DCM. OBJECTIVE: To compare the contribution of a CD36 nonsense variant to DCM risk with that of truncating variants in TTN and pathogenic or likely pathogenic variants in other established genes for DCM. DESIGN, SETTING, AND PARTICIPANTS: Multicohort genetic association study including participants of African and European ancestry with exome or genome sequence data and DCM case status from the following 4 US datasets: All of Us Research Program (recruitment: 2017-present; last follow-up: August 27, 2024), Million Veteran Program (recruitment: 2011-present; last follow-up: September 30, 2024), Penn Medicine Biobank (recruitment: 2013-present; last follow-up: November 14, 2022), and the DCM Precision Medicine Study (recruitment: 2016-2020; last follow-up: March 15, 2020). EXPOSURE: Carrier status for TTN truncating variants, pathogenic or likely pathogenic variants in 11 high-confidence genes for DCM, and the nonsense variant CD36 Y325* (0, 1, or 2 copies). MAIN OUTCOMES AND MEASURES: Risk of DCM, prevalence of variant carriers among DCM cases, and population attributable fraction of DCM. RESULTS: Among 82 623 individuals of predominantly African ancestry across 4 cohorts, the mean age was 53.4 years (SD, 13.9 years), 47 124 were male, and 1316 had DCM. Individuals who were homozygous for the CD36 Y325* risk allele had a higher risk of DCM (odds ratio [OR], 4.8; 95% CI, 3.1-7.3) as did those who were heterozygous (OR, 1.4; 95% CI, 1.2-1.7). TTN truncating variants also conferred an elevated risk of DCM in participants of African ancestry (OR, 8.5; 95% CI, 5.5-13.0). Among 1316 individuals of African ancestry classified as DCM cases, 33 (2.5%) were homozygous for CD36, 56 (4.3%) had TTN truncating variants, and 16 (1.2%) had pathogenic or likely pathogenic variants in other high-confidence genes for DCM. In population-level analyses incorporating both heterozygous and homozygous CD36 Y325* carriers, the population attributable fraction for CD36 (9.0% [6.2% for heterozygous carriers and 2.8% for homozygous carriers]) surpassed the population attributable fraction for TTN truncating variants (3.7%). CONCLUSIONS AND RELEVANCE: In 4 US cohorts, an ancestry-specific CD36 variant contributed more to DCM burden among individuals of African ancestry than established genes for DCM, including TTN truncating variants that are typically considered the most common genetic cause. These findings reshape the known genetic architecture of DCM in individuals of African ancestry and highlight the importance of representation in genomic research.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1001/jama.2026.18449"
+ },
+ {
+  "idx": 31,
+  "journal": "J Am Heart Assoc",
+  "title": "Plasminogen Activator Inhibitor-1 Deficiency Exacerbates Pressure Overload-Induced Cardiac Hypertrophy in Mice.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Pathological cardiac hypertrophy is a key precursor to heart failure. PAI-1 (plasminogen activator inhibitor-1) is a recognized profibrotic mediator, yet its role in the heart remains paradoxical and incompletely understood. METHODS: Six-week-old male wild-type (PAI-1+/+) and PAI-1 knockout (PAI-1-/-) mice underwent sham or transverse aortic constriction surgery, followed by assessment of cardiac morphology, molecular markers, and function. In H9C2 cardiomyocytes, PAI-1 was silenced or overexpressed before angiotensin II stimulation, with or without targeted signaling inhibitors, followed by coimmunoprecipitation, Western blotting, and immunofluorescence. RESULTS: Pressure overload increased plasma and myocardial PAI-1 levels. PAI-1 deficiency exacerbated transverse aortic constriction-induced cardiac dysfunction, hypertrophy, and fibrosis, accompanied by JAK2/STAT3 (Janus kinase 2/signal transducer and activator of transcription 3) activation and collagen overexpression, whereas cardiac-specific overexpression attenuated these maladaptive changes. Moreover, STAT3 inhibition reversed the adverse cardiac remodeling associated with PAI-1 deletion. In vitro, PAI-1 knockdown potentiated angiotensin II-induced cardiomyocyte hypertrophy, an effect that was rescued by PAI-1 overexpression. Mechanistically, PAI-1 associated with JAK2 and STAT3, with reduced phosphorylation of both proteins and impaired STAT3 nuclear translocation. Critically, pharmacological inhibition of STAT3 abolished the harmful effects of PAI-1 silencing. CONCLUSIONS: PAI-1 acts as an endogenous cardioprotective checkpoint by negatively regulating JAK2/STAT3 signaling. These findings suggest a noncanonical cardiomyocyte-associated function of PAI-1 beyond its classical fibrinolytic role and identify the PAI-1-JAK2/STAT3 axis as a potential therapeutic target for heart failure with hypertrophy.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.052213"
+ },
+ {
+  "idx": 32,
+  "journal": "Circulation",
+  "title": "Radiation Vasculopathy of the Coronary Arteries: State-of-the Art Review.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Radiation-associated coronary artery disease (RACAD) is a distinct form of coronary artery disease with several specific biological and clinical aspects as well as key knowledge gaps. RACAD is prevalent in patients with cardiac exposure to radiotherapy. As radiotherapy is integral to the effective treatment of many thoracic malignancies, improved long-term survivorship is coupled with increased risk for RACAD. Ionizing radiation induces free radical generation and activation of proinflammatory cascades, leading to endothelial dysfunction and accelerated atherosclerosis. Risks for RACAD are determined both by radiotherapy, including the radiation dose and the proximity of coronary arteries to the radiotherapy field, and by patient-specific factors, such as younger age, higher baseline cardiovascular risk, and concurrent cardiotoxic systemic therapies. Importantly, radiotherapy delivery is highly individualized on the basis of tumor location and treatment strategy, resulting in heterogeneous coronary exposure to radiation and patient-to-patient variability. Clinical presentation may occur early, within 1 to 2 years, especially in patients with higher cardiac radiation doses (eg, lung or esophageal cancer), or after a latency period of 5 to 20 years with lower cardiac dose radiation exposure (eg, left-sided breast cancer). Patients generally present with symptoms similar to conventional coronary artery disease. However, RACAD symptoms may be underrecognized in cancer survivors due to overlapping treatment-related fatigue, pulmonary disease, or competing oncologic symptoms. Diagnosis and management generally follow standard coronary artery disease guidelines while incorporating cancer-specific considerations, such as planned oncologic surgeries, bleeding risk, postradiotherapy complications such as atretic internal mammary arteries, and cardiotoxic effects of systemic cancer therapies. Primary prevention of RACAD is critical, emphasizing advances in precision radiotherapy, including delivery techniques with improved coronary dosimetry, and cardiac shielding. Key knowledge gaps include understanding long-term outcomes with contemporary 3-dimensional conformal radiotherapy techniques, validated cancer-specific risk prediction models on the basis of coronary dosimetry, optimal surveillance protocols, targeted molecular pharmacotherapies, and risk analysis of percutaneous versus surgical management of RACAD. Prospective studies are needed to develop cancer- and dosimetry-specific risk calculators, validating cardioprotective interventions, and improving multidisciplinary cardio-oncology collaboration to optimize early detection of RACAD and timely intervention in the growing population of cancer survivors.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.079541"
+ },
+ {
+  "idx": 33,
+  "journal": "J Am Heart Assoc",
+  "title": "Combined Prognostic Value of Cardiac Magnetic Resonance-Derived Myocardial Extracellular Volume and the Fibrosis-4 Index in Patients With Heart Failure With Preserved Ejection Fraction.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Heart failure with preserved ejection fraction is increasingly recognized as a multisystem metabolic-inflammatory syndrome. We investigated the comparative and complementary prognostic value of cardiac magnetic resonance-derived extracellular volume fraction (ECV) and the Fibrosis-4 index for predicting adverse cardiovascular outcomes in patients with heart failure with preserved ejection fraction. METHODS: Between 2017 and 2019, 250 patients with heart failure with preserved ejection fraction underwent assessment of myocardial ECV by cardiac magnetic resonance and hepatic fibrosis using the Fibrosis-4 index. The primary outcome was a composite of cardiovascular death or heart failure hospitalization. Multivariable Cox regression and discrimination analyses were performed to evaluate prognostic performance. RESULTS: During a median follow-up of 1190 days, 75 patients (30.0%) experienced the primary outcome. Both ECV (hazard ratio [HR], 1.13 [95% CI, 1.08-1.17]; P<0.001) and the Fibrosis-4 index (HR, 1.12 [95% CI, 1.02-1.22]; P=0.015) independently predicted the primary outcome. Patients with concomitantly elevated ECV and Fibrosis-4 index had a markedly increased risk of adverse events compared with those with low values of both markers. ECV-based models demonstrated superior discrimination compared with Fibrosis-4-based models (concordance index, 0.732 versus 0.663; P=0.011). Addition of ECV to the Fibrosis-4 model significantly improved discrimination, whereas addition of the Fibrosis-4 index to the ECV model improved reclassification (continuous net reclassification improvement and integrated discrimination improvement) but not discrimination. CONCLUSIONS: Both myocardial ECV and the Fibrosis-4 index independently predict adverse cardiovascular outcomes in heart failure with preserved ejection fraction. Although ECV provides greater prognostic discrimination, combined assessment of ECV and the Fibrosis-4 index identifies a subgroup at particularly high risk and may provide complementary information for risk stratification.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.053485"
+ },
+ {
+  "idx": 34,
+  "journal": "JAMA",
+  "title": "Obesity in Children Aged 2 to 12 Years: A Review.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: Obesity affects 15% of children aged 2 to 5 years and 22% of children aged 6 to 11 years in the US. Obesity in children is associated with dyslipidemia, hypertension, metabolic dysfunction-associated steatotic liver disease, and obstructive sleep apnea. Compared with normal-weight peers, children with obesity have lower quality of life and are 5 times more likely to have obesity in adulthood. OBSERVATIONS: Body mass index (BMI; calculated as weight in kilograms divided by height in meters squared) is used to identify children at risk for excess adiposity, and guidelines recommend that clinicians screen for obesity using BMI starting at age 2 years. Among children, obesity is defined using standardized age- and sex-specific growth charts, with obesity defined as BMI in the 95th or higher percentile and severe obesity as BMI of 120% or greater of the 95th percentile. Obesity treatment in children includes intensive health behavior and lifestyle treatment, consisting of at least 26 contact hours of face-to-face group or family-based activities that incorporate nutrition, physical activity, and behavior change education delivered to the child and caregivers over a 3- to 12-month period. Intensive health behavior and lifestyle treatment reduces BMI by 0.7 compared with children who do not participate in intensive health behavior and lifestyle treatment. The only obesity pharmacotherapy currently approved by the US Food and Drug Administration (FDA) for children younger than 12 years is setmelanotide, a melanocortin-4 receptor agonist, which is indicated for 3 forms of rare monogenic obesity (LEPR, POMC, and PCSK1 genetic variants), Bardet-Biedl syndrome, and acquired hypothalamic obesity. Liraglutide is currently only FDA approved for youth aged 12 years or older; however, a randomized clinical trial among children aged 6 to younger than 12 years demonstrated that, compared with placebo, liraglutide reduced BMI by 7.4%. Metabolic and bariatric surgery is rarely used in children younger than age 12 years and evidence supporting its use in children is limited. Early identification and treatment of obesity during childhood may reduce risk of type 2 diabetes, dyslipidemia, hypertension, and mortality in adulthood. CONCLUSIONS AND RELEVANCE: Obesity in children is associated with chronic disease, such as hypertension, and with poor quality of life. Evidence-based treatment for obesity in children includes intensive health behavior and lifestyle treatment, and pharmacotherapy may provide additional benefit, although short- and long-term safety and efficacy data are limited. Early identification and treatment of obesity during childhood may reduce risk of type 2 diabetes, dyslipidemia, hypertension, and mortality in adulthood.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1001/jama.2026.18806"
+ },
+ {
+  "idx": 35,
+  "journal": "J Am Heart Assoc",
+  "title": "PASCAL Precision System Outcomes by Implant Location and Lesion Location in Degenerative Mitral Regurgitation Patients From the STS/ACC TVT Registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Mitral valve transcatheter edge-to-edge repair can be more challenging in noncentral regions of the valve and in anterior or bileaflet lesions. We assess effect of implant location and leaflet lesion location on safety and effectiveness of PASCAL Precision system in degenerative mitral regurgitation (MR). METHODS: Mitral valve transcatheter edge-to-edge repair outcomes in patients with degenerative MR treated with PASCAL Precision system (September 2022-October 2024), from the US STS/ACC TVT (Society of Thoracic Surgeons/American College of Cardiology Transcatheter Valve Therapy) Registry, were analyzed by implant location (A2P2/non-A2P2) and leaflet lesion location (anterior/posterior/bileaflet). Procedural, clinical, and echocardiographic outcomes to 30 days were assessed. RESULTS: At 30 days, both A2P2 (n=1526) and non-A2P2 (n=299) groups had low event rates (cardiovascular mortality: 1.1% versus 1.0%, mitral valve reintervention: 0.4% versus 0.0% and single leaflet device attachment: 0.5% versus 0.3%; all P>0.05) and demonstrated significant MR reduction (P<0.001 versus baseline) with no significant difference between groups (P=0.750) (MR ≤2+: 93.4% versus 95.4%; MR ≤1+: 72.0% versus 73.3%). Kansas City Cardiomyopathy Questionnaire Overall Summary scores improved significantly in both groups (∆19.3, ∆17.7 points; P=0.741). The anterior (n=250), posterior (n=902), and bileaflet (n=192) disease groups also had low event rates (cardiovascular mortality: 0.4%, 1.1%, 0.0%; mitral valve reintervention: 0.8%, 0.1%, 0.5%; and single leaflet device attachment: 0.8%, 0.2%, 0.5%; all P>0.05), and demonstrated significant MR reduction (P<0.001 versus baseline) with no significant difference across groups (P=0.459) (MR ≤2+: 94.1%, 93.1%, and 94.5%; MR ≤1+: 79.0%, 69.2%, and 72.4%). All groups experienced significant improvement in Kansas City Cardiomyopathy Questionnaire Overall Summary scores (∆21.4, ∆18.8, ∆12.0 points; P=0.087). CONCLUSION: In real-world patients with degenerative mitral regurgitation, treatment with the PASCAL Precision system was associated with favorable safety and effectiveness at 30 days, regardless of implant location or leaflet lesion location.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.052158"
+ },
+ {
+  "idx": 36,
+  "journal": "JAMA",
+  "title": "Individualized Cardiac Index-Guided Hemodynamic Therapy in High-Risk Patients Undergoing Elective Major Abdominal Surgery: The PELICAN Randomized Clinical Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: It remains unclear if intraoperative hemodynamic therapy should be guided by cardiac index. OBJECTIVE: To evaluate whether individualized cardiac index-guided hemodynamic therapy vs routine hemodynamic therapy improves outcomes in high-risk patients undergoing elective major abdominal surgery. DESIGN, SETTING, AND PARTICIPANTS: This multicenter, single-blind, superiority randomized clinical trial enrolled high-risk patients undergoing elective major abdominal surgery between October 8, 2023, and October 25, 2025, at 12 university medical centers in Austria, the Czech Republic, Denmark, Germany, and Spain. The date of last follow-up was January 15, 2026. INTERVENTIONS: Patients were randomized to individualized cardiac index-guided hemodynamic therapy targeting the patient's preoperative resting cardiac index vs routine hemodynamic therapy (with blinded cardiac index monitoring). MAIN OUTCOMES AND MEASURES: The primary outcome was a composite of acute kidney injury, acute myocardial injury, severe infectious complications, nonfatal cardiac arrest, or death within the first 7 postoperative days. Secondary outcomes included the individual components of the primary outcome within the first 7 postoperative days. RESULTS: Of the 1128 patients enrolled, 1111 were randomized and 1095 were included in the primary analysis (median age, 67 years [IQR, 59-74 years]; 49.4% were female). The primary outcome occurred in 243 of 549 patients (44.3%) in the individualized cardiac index-guided hemodynamic therapy group vs 256 of 546 patients (46.9%) in the routine hemodynamic therapy group (relative risk, 0.94 [95.1% CI, 0.83-1.08]; P = .38). There were no between-group differences for the incidence of the individual components of the primary outcome within the first 7 postoperative days. CONCLUSIONS AND RELEVANCE: Among high-risk patients undergoing elective major abdominal surgery, individualized cardiac index-guided hemodynamic therapy targeting the patient's preoperative resting cardiac index did not reduce the incidence of a composite outcome of acute kidney injury, acute myocardial injury, severe infectious complications, nonfatal cardiac arrest, or death within the first 7 postoperative days compared with routine hemodynamic therapy. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT05648279.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1001/jama.2026.18574"
+ },
+ {
+  "idx": 37,
+  "journal": "JACC Adv",
+  "title": "Computational Modeling Reduces Leaflet Modification Rates in Valve-In-Valve and Redo Transcatheter Aortic Valve Replacement.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Coronary obstruction (CO) complicates valve-in-valve (ViV) and redo transcatheter aortic valve replacement (TAVR) at higher rates than native TAVR. Leaflet modification mitigates this risk but increases procedural burden. Traditional computed tomography angiography (CTA)-based risk stratification relies on static parameters that may overestimate risk; computational predictive modeling (CPM) uses patient-specific data to refine risk assessment. OBJECTIVES: The study aims to characterize leaflet modification rates in conventional ViV TAVR and redo-TAVR and evaluate the impact of CPM preprocedural planning augmentation on leaflet modification rates. METHODS: A total of 157 consecutive ViV TAVR or redo-TAVR patients treated from 2022 to 2025 were retrospectively analyzed. CO risk status was derived from traditional CTA parameters. Leaflet modification rates among CTA high-risk subgroups (non-CPM, n = 62; and CPM, n = 29) were compared using Boschloo's one-sided exact test. CPM risk-reclassification patterns were studied using counterfactual binomial analysis. RESULTS: Leaflet modification occurred in 26.3% of ViV TAVR and 24.1% of redo-TAVR procedures that used only conventional CTA-based planning methods. Among patients deemed high risk for CO by conventional methods, leaflet modification was significantly lower in the CPM-augmented subgroup vs that in the non-CPM subgroup (24.1% vs 46.8%; OR: 2.76; 95% CI: 1.03-7.40; P = 0.021). CPM-augmented planning reclassified 82.8% of patients to low-risk status, and 79.2% of reclassified patients were managed without leaflet modification. No COs occurred during the study period. CONCLUSIONS: Among ViV TAVR and redo-TAVR patients at high risk of CO based on conventional CTA-based planning, the use of CPM to augment standard risk assessment was associated with a significant reduction in leaflet modification procedures.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103377"
+ },
+ {
+  "idx": 38,
+  "journal": "JACC Adv",
+  "title": "The Duke Clinically Linked Electrocardiogram and Arrhythmia Repository.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Artificial intelligence-electrocardiogram (ECG) algorithms are becoming increasingly powerful tools in the clinical world, allowing for earlier and subclinical detection of ubiquitous and harmful pathologies. However, the strength of these algorithms is directly informed by the strength of the data sets on which they are trained, and there is a growing need for large-scale, diverse, publicly available ECG repositories. The Duke Clinically Linked ECG and Arrhythmia Repository is a large-scale ECG database containing over 5 million clinically acquired ECGs linked to longitudinal clinical data. Its strengths-including demographic diversity, large sample size, linked clinical databases, breadth of represented conditions, access to linked procedure codes, various options for data export, and ease in creating targeted subcohorts-position it as a significant tool in the artificial intelligence-ECG research landscape. This Methods paper outlines the demographics and structure of this database and explores promising research applications of this resource.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103381"
+ },
+ {
+  "idx": 39,
+  "journal": "JACC Heart Fail",
+  "title": "Bromocriptine for Myocardial Recovery in Peripartum Cardiomyopathy: Design and Rationale of the REBIRTH Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: There is evidence suggesting that bromocriptine potentially improves outcomes among women with peripartum cardiomyopathy (PPCM); however, there is currently no randomized controlled trial comparing bromocriptine vs placebo on top of guideline-directed medical therapy (GDMT) in a diverse, multiethnic cohort in North America. OBJECTIVES: The REBIRTH trial will enroll 200 women with PPCM to evaluate whether the addition of oral bromocriptine to GDMT is superior to placebo for improving myocardial function and event-free survival. In addition to the randomized trial, REBIRTH will enroll 50 women with PPCM excluded from randomization because of breastfeeding into an observational cohort. METHODS: The principal inclusion criteria are ≥18 years of age, within 5-months postpartum, and left ventricular ejection fraction (LVEF) ≤40%. The primary endpoint is LVEF at 6 months postrandomization. Secondary endpoints include LVEF at 12 months, survival free from major events (ie, death, heart transplantation, or implantation of a durable left ventricular assist device), and survival free from heart failure hospitalization for up to 3 years. RESULTS: The study is currently enrolling women in both the randomized trial and observational breastfeeding cohort. Primary results are expected to be reported in 2027. CONCLUSIONS: REBIRTH will determine whether the addition of bromocriptine to GDMT for heart failure with reduced ejection fraction improves postpartum myocardial recovery and clinical outcomes in a diverse cohort of women with PPCM. (Randomized Evaluation of Bromocriptine in Myocardial Recovery Therapy for PPCM [REBIRTH]; NCT05180773).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jchf.2026.103376"
+ },
+ {
+  "idx": 40,
+  "journal": "JACC Cardiovasc Interv",
+  "title": "Immediate Complete Revascularization During Index Admission in Older Patients With ST-Segment Elevation Myocardial Infarction.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Whether age affects the comparative treatment effect of immediate complete revascularization (CR) vs staged CR during the index admission in patients with ST-segment elevation myocardial infarction and multivessel disease remains unknown. OBJECTIVES: This study aimed to assess how age influences clinical outcomes in patients with with ST-segment elevation myocardial infarction and multivessel disease randomized to immediate or in-hospital staged CR. METHODS: This is a secondary analysis of the OPTION-STEMI (Optimal Timing of Fractional Flow Reserve-Guided Complete Revascularization for Non-Infarct-Related Artery in ST-Segment Elevation Myocardial Infarction with Multivessel Disease) trial, which included 994 patients randomized to immediate or in-hospital staged CR. The primary endpoint at 1 year, defined as a composite of all-cause death, nonfatal myocardial infarction, or any unplanned revascularization, was analyzed according to age and CR strategy. RESULTS: A significant interaction was found between age, as a continuous variable, and CR strategy for the primary endpoint (interaction P = 0.015). The HR for the primary endpoint was initially higher in the staged CR arm until approximately 67 years, after which it increased steadily in the immediate CR arm. In the binary analysis, a significantly higher incidence of the primary endpoint was observed in the immediate CR arm compared with the staged CR arm in patients ≥70 years (45 of 202 [22.3%] vs 29 of 210 [13.8%]; HR: 1.68; 95% CI: 1.06-2.69; log-rank P = 0.029), but not in patients <70 years (20 of 296 [6.8%] vs 24 of 286 [8.4%]; HR: 0.80; 95% CI: 0.45-1.45; log-rank P = 0.470) (multiplicative interaction P = 0.054; relative excess risk due to interaction P = 0.016). CONCLUSIONS: This post hoc analysis of the OPTION-STEMI trial demonstrates that older patients experience significantly worse clinical outcomes with immediate CR than with in-hospital staged CR. These findings suggest that age modifies the treatment effect of the CR strategy and warrant confirmation in adequately powered trials (Timing of FFR-guided PCI for Non-IRA in STEMI and MVD [OPTION-STEMI]; NCT04626882).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcin.2026.08.025"
+ },
+ {
+  "idx": 41,
+  "journal": "JACC Adv",
+  "title": "Systemic Inflammation and Adverse Heart Failure Outcomes: Insights From the Veterans Affairs Health Care System.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The association between systemic inflammation (SI) and outcomes among patients with heart failure with preserved ejection fraction (HFpEF) or mildly reduced ejection fraction (HFmrEF) is uncertain. OBJECTIVES: This study aimed to evaluate the association between SI and clinical and economic outcomes among individuals with HFpEF/HFmrEF. METHODS: We identified Veterans with HFpEF/HFmrEF with outpatient high-sensitivity C-reactive protein (hsCRP) testing from 2008 to 2022. We classified Veterans as with SI (hsCRP 2-10 mg/L) and without SI (hsCRP <2 mg/L). The primary outcome was the 3-component major adverse cardiovascular event (MACE) outcome of death, HF hospitalization, and HF-related emergency department encounters. Additional outcomes included acute care utilization and costs. We evaluated the adjusted associations between SI and clinical outcomes, acute care utilization, and costs via Cox regression, negative binomial regression, and gamma regression, respectively. RESULTS: We identified 49,986 Veterans with HFpEF/HFmrEF with outpatient hsCRP levels. We compared 8,696 (17.4%) Veterans without SI (hsCRP <2 mg/L) and 25,352 (50.7%) Veterans with SI (hsCRP ≥2 mg/L and ≤10 mg/L Over a median follow-up of 3.4 years (IQR: 1.8-5.8), MACE incidence was 15.1/100 patient-years (95% CI: 14.9-15.4) among those with SI vs 11.8/100 patient-years (95% CI: 11.4-12.1) among those without SI (P < 0.001). After adjustment, SI was associated with increased MACE (HR: 1.28; 95% CI: 1.24-1.33). SI was also associated with increased all-cause hospitalizations (incidence rate ratio: 1.19; 95% CI: 1.137-1.246) and $9,112 (95% CI: $6,135-$12,089) in additional per-patient costs over 1 year. CONCLUSIONS: Among Veterans with HFmrEF/HFpEF, SI is associated with increased adverse clinical outcomes and higher costs.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103346"
+ },
+ {
+  "idx": 42,
+  "journal": "Eur Heart J",
+  "title": "Sex differences in cardiovascular disease burden, risk factors, and disease spectrum in Europe: a global burden of disease 2023 analysis within the ESC Atlas framework.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Despite growing recognition of sex disparities in cardiovascular disease (CVD), contemporary, harmonized analyses of sex-specific burden in the European region that could inform targeted prevention strategies, remain limited. Sex-specific patterns in CVD burden and risk factor exposure across 55 European Society of Cardiology (ESC) member countries were examined using data from the 2023 Global Burden of Disease study. Risk factor exposure was quantified using age-sex-standardized summary exposure values for 10 established cardiovascular risk factors. Disease incidence and mortality for major CVD categories, including maternal hypertensive disorders, were estimated by calculating age-sex-standardized rates per 100 000 person-years using the 2013 European Standard Population. Analyses were performed by sex at country, regional, and ESC-wide levels and over time (1990-2023). In 2023, in the ESC region, the overall CVD burden was broadly similar in men and women, with women accounting for 55% (6.0 million) of cases and 50% of deaths (1.5 million). This apparent parity, however, concealed marked sex differences in disease composition, risk exposure, and geographic disparities. Compared with men, women had a lower proportion of CVD due to ischaemic heart disease (21% vs 38%) and a higher contribution from peripheral arterial disease (23% vs 19%). Major differences were also apparent in risk profiles, particularly for behavioural risk factors-with summary exposure values of tobacco and alcohol being 10%-20% points higher in men than women; contrasting with cardiometabolic factors, such as high body mass index and low physical activity, that were often 5%-15% points higher in women than men, and more modest differences in environmental and biological risks, including air pollution, fasting glucose, or cholesterol. Cardiovascular disease burden further varied widely across countries and disparities affected women more strongly than men, with an approximately three-fold difference between the lowest- and highest-incidence countries in women, compared with a two-fold difference in men, and even larger disparities in mortality and premature mortality (up to 25-fold in women). Maternal hypertensive disorders substantially shaped both the scale and composition of CVD burden in women, accounting for 25% of incident CVD in women and exhibiting substantial geographic variation, with up to 18-fold differences in incidence across countries. These findings challenge conventional approaches that treat CVD as a homogeneous condition. In particular, the substantial contribution of non-ischaemic conditions and maternal hypertensive disorders to the burden in women, alongside distinct patterns of risk exposure and wider geographic disparities, underscore the importance of adopting a life-course and sex- and gender-informed approach to cardiovascular prevention and policy.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurheartj/ehag782"
+ },
+ {
+  "idx": 43,
+  "journal": "Europace",
+  "title": "Biophysical principles of pulsed field ablation.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Pulsed field ablation (PFA) is emerging as a major advance in cardiac ablation because it induces irreversible electroporation rather than relying primarily on thermal injury. This article provides an overview of the core biophysical principles underlying PFA, focusing on concepts broadly relevant across systems and clinical applications. Externally applied pulsed electric fields interact with biological tissues and affect their transmembrane potential. When a critical threshold is exceeded, nanoscale aqueous pores form in the lipid bilayer, initiating electroporation. Depending on pulse amplitude, duration, number, repetition frequency, waveform, and tissue characteristics, membrane permeabilization may remain reversible or progress to irreversible injury and cell death. This article focuses on the fundamental biophysical principles of electroporation that underpin PFA. The article outlines how membrane charging, cell geometry, and tissue heterogeneity influence electric field distribution and biological response and explains why lesion formation depends on both field intensity and exposure conditions. It also summarizes the molecular basis of pore formation, the potential contribution of lipid peroxidation and membrane proteins, and the downstream processes linking sustained permeability to loss of homeostasis and delayed cell death. Finally, it places cardiac PFA in the broader context of electroporation-based therapies developed in oncology, drug delivery, and gene transfer, while highlighting the remaining need for cardiomyocyte-specific mechanistic evidence to further optimize safety, precision, and durability.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag229"
+ },
+ {
+  "idx": 44,
+  "journal": "JACC Adv",
+  "title": "Time-Varying Spatial Ventricular Gradient Orientation Is Associated With Anthracycline Heart Failure.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Anthracycline use is limited by cardiotoxicity resulting in heart failure (HF). The spatial ventricular gradient (SVG) is a vectorcardiographic measurement of myocardial electrical heterogeneity associated with sudden death and incident HF. It is unclear if serial measurement of SVG after anthracycline initiation can help predict subsequent HF. OBJECTIVES: The objective of the study was to determine if time-varying SVG measurements are associated with anthracycline HF. METHODS: Retrospective, single-center study of adult patients with cancer treated with anthracyclines between 1992 to 2019. Standard 12-lead electrocardiograms obtained within 6 months before and up to 5 years after anthracycline initiation were analyzed. Patients with prior HF or ≤1 electrocardiogram within 5 years were excluded. Median vectorcardiograms were constructed, and the SVG vector was obtained by integrating under the X, Y, and Z QRST complexes. Multivariable competing-risks regression was performed with SVG parameters included as time-varying covariates, incident HF as the main outcome, and death as a competing outcome. RESULTS: Among 594 patients (median age 61 years, 48% male), 83 (14%) developed HF within 5 years. In multivariable competing-risks regression, time-varying SVG azimuth (circular angle in the transverse plane) was independently associated with HF (P = 0.0024), demonstrating a 9.4-fold gradient in risk across values. Leftward/anterior azimuth values were the lowest risk areas, whereas posterior/rightward orientations were the highest risk. CONCLUSIONS: Time-varying SVG azimuth was independently associated with HF risk in patients treated with anthracyclines. Assessing dynamic changes in SVG azimuth during anthracycline treatment may enhance early identification of patients at risk for HF and inform the use of cardioprotective strategies during cancer therapy.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103353"
+ },
+ {
+  "idx": 45,
+  "journal": "Heart Rhythm",
+  "title": "Ten-year Performance of the Multi-Layer Insulated Defibrillation Lead in the Medicare Population.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Long-term surveillance of implantable cardioverter-defibrillator (ICD) leads is essential because clinically important mechanical failures may emerge years after implantation. OBJECTIVE: To evaluate 10-year mechanical complication-free survival of the Optisure ICD lead (Abbott, Sylmar, CA) in a large real-world Medicare population. METHODS: Manufacturer device-tracking records were linked to Medicare Fee-for-Service claims and device complaint data using the EP PASSION framework. Patients receiving an Optisure lead from February 2014 through December 2024 were included. Mechanical lead-related complications were defined by claims containing both a diagnosis of mechanical lead malfunction and a lead-related surgical intervention more than 30 days after implantation. Kaplan-Meier survival was estimated under a best-case scenario including confirmed Optisure-related events and a worst-case scenario also including potentially related events. RESULTS: The cohort included 26,830 patients with 27,033 Optisure leads. Mean age was 73.8 ± 8.6 years, 28.4% were women, and 49.8% had cardiac resynchronization therapy ICDs. Overall, 379 complications were classified as confirmed lead-related and 606 as confirmed or potentially lead-related. At 10 years, complication-free lead survival was 97.2% (95% confidence interval [CI], 96.7%-97.7%) in the best-case scenario and 95.6% (95% CI, 94.9%-96.2%) in the worst-case scenario. Survival did not differ significantly by age, lead length, coil configuration, or device type. CONCLUSION: The Optisure ICD lead demonstrated favorable mechanical performance through 10 years in routine clinical practice. These findings support both the long-term durability of Optisure and the use of integrated real-world data for post-market device surveillance.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.044"
+ },
+ {
+  "idx": 46,
+  "journal": "J Am Heart Assoc",
+  "title": "Outcomes of Intra-Arterial Urokinase After Endovascular Reperfusion for Acute Ischemic Stroke Due to Cardioembolism: A Secondary Analysis of the POST-UK Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Whether adjunctive intra-arterial thrombolysis improves outcomes in patients with acute ischemic stroke due to cardioembolism remains unclear. This study aimed to investigate the efficacy and safety of adjunctive intra-arterial urokinase in patients with acute ischemic stroke due to cardioembolism who achieved near-complete to complete reperfusion. METHODS: This study was a secondary analysis of the POST-UK (Adjunctive Intra-Arterial Urokinase After Near-Complete to Complete Reperfusion for Acute Ischemic Stroke) trial, which was conducted from November 15, 2022, to March 29, 2024. Patients were randomly assigned to the intra-arterial urokinase group or the control group. The primary outcome was disability-free survival at 90 days, defined as a modified Rankin Scale score of 0 to 1. Safety outcomes included 90-day all-cause death, symptomatic intracranial hemorrhage and any intracranial hemorrhage within 48 hours. RESULTS: Among 209 patients with cardioembolism (median age 73 [interquartile range, 63-81] years; 45.9% men), 106 were assigned to the control group and 103 to the intra-arterial urokinase group. Compared with the control group, adjunctive intra-arterial urokinase significantly increased the odds of disability-free survival at 90 days (adjusted risk ratio, 1.49 [95% CI, 1.08-2.06]; P=0.01; inverse probability of treatment weighting adjusted risk ratio, 1.47 [95% CI, 1.04-2.09]; P=0.03). No significant differences were found between groups in 90-day mortality rate, symptomatic intracranial hemorrhage, or any intracranial hemorrhage within 48 hours. CONCLUSIONS: In patients with acute ischemic stroke due to cardioembolism who achieved near-complete to complete reperfusion, adjunctive intra-arterial urokinase significantly improved disability-free survival at 90 days without increasing the risk of death or intracranial hemorrhage. REGISTRATION: URL: ChiCTR.org.cn; Unique identifier: ChiCTR2200065617.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.052937"
+ },
+ {
+  "idx": 47,
+  "journal": "Nat Rev Cardiol",
+  "title": "The evolution and future of conduction system pacing.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Cardiac pacing has undergone a fundamental paradigm shift from conventional right ventricular apical pacing towards physiological activation of the native conduction system of the heart. Decades of evidence have established that chronic right ventricular pacing induces ventricular dyssynchrony, contributing to pacing-induced cardiomyopathy and adverse clinical outcomes. Conduction system pacing, which engages the intrinsic His-Purkinje network of the heart, has emerged as a transformative approach that preserves or restores the natural ventricular activation sequence. His bundle pacing, the earliest form of conduction system pacing, provided proof of concept but is limited by technical challenges and high capture thresholds. Left bundle branch area pacing has since become the dominant modality, offering greater procedural success, lead stability and broader applicability: from management of bradycardia and prevention of pacing-induced cardiomyopathy to cardiac resynchronization therapy in heart failure. Bachmann bundle area pacing is an emerging atrial counterpart: by capturing a preferential interatrial conduction pathway, this approach reduces interatrial conduction delay and produces a more physiological atrial activation sequence than conventional right atrial appendage pacing. Bachmann bundle area pacing might, therefore, help to prevent atrial fibrillation. In this Review, we bring these ventricular and atrial strategies together under the unifying principle of physiological pacing, describe their mechanistic basis and technical evolution, appraise the latest evidence from randomized trials and address the practical questions that arise in clinical application, indicating where more evidence is required.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s41569-026-01354-z"
+ },
+ {
+  "idx": 48,
+  "journal": "J Am Heart Assoc",
+  "title": "Physical Activity and Cardiovascular Risk in Type 2 Diabetes With Normal Body Mass Index and Abdominal Obesity: A Nationwide Cohort Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The prognostic implications of abdominal obesity and moderate-to-vigorous physical activity (MVPA) in patients with type 2 diabetes who have a normal body mass index remain unclear. METHODS: This nationwide retrospective cohort study included 323 029 adults with newly diagnosed type 2 diabetes and a normal body mass index (<23 kg/m2) between January 1, 2010, and December 31, 2023, from the Korean National Health Insurance Service database. Abdominal obesity was defined using sex-specific waist circumference thresholds (≥90 cm for men, ≥80 cm for women). MVPA was assessed through standardized self-reported questionnaires administered during routine health screenings. The primary outcome was major adverse cardiovascular and cerebrovascular events, defined as a composite of all-cause death, myocardial infarction, ischemic stroke, or hospitalization for heart failure. RESULTS: Among the study population, 34 033 (10.5%) had abdominal obesity. During a median follow-up of 6.0 years (interquartile range, 2.6-9.0 years), abdominal obesity was associated with a higher risk of major adverse cardiovascular and cerebrovascular events (adjusted hazard ratio [HR], 1.13 [95% CI, 1.09-1.17]). Among patients with abdominal obesity, regular MVPA after diagnosis (27.1%) was associated with a significantly lower risk of major adverse cardiovascular and cerebrovascular events (adjusted HR 0.74 [95% CI, 0.68-0.80]), all-cause mortality (adjusted HR 0.72 [95% CI, 0.65-0.80]), ischemic stroke (adjusted HR 0.77 [95% CI, 0.66-0.89]), and hospitalization for heart failure (adjusted HR 0.75 [95% CI, 0.60-0.93]). The cardiovascular protective effects of MVPA were consistent regardless of statin or antidiabetic medication use. CONCLUSIONS: In patients with type 2 diabetes and a normal body mass index, abdominal obesity was independently associated with a higher risk of major adverse cardiovascular and cerebrovascular events. Regular engagement in MVPA showed consistent cardiovascular benefits in this population, irrespective of pharmacotherapy. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT07071545.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.052821"
+ },
+ {
+  "idx": 49,
+  "journal": "N Engl J Med",
+  "title": "Retatrutide Once Weekly for Treatment of Obstructive Sleep Apnea.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Retatrutide, an investigational triple agonist of glucose-dependent insulinotropic polypeptide, glucagon-like peptide 1, and glucagon receptors, may be useful for treating obstructive sleep apnea (OSA). METHODS: In two phase 3, double-blind, randomized, placebo-controlled trials nested within larger basket trials of once-weekly subcutaneous retatrutide, we assigned adults with moderate-to-severe OSA and a body-mass index (the weight in kilograms divided by the square of the height in meters) of at least 27, without (TRIUMPH-1-OSA) or with (TRIUMPH-2-OSA) type 2 diabetes, to receive retatrutide (4, 9, or 12 mg) or placebo. The primary end point was the change in the apnea-hypopnea index (AHI, the average number of apneas and hypopneas per hour of sleep) at 80 weeks with 9 mg and 12 mg of retatrutide. For OSA-related end points, a hybrid-treatment estimand was applied, with a hypothetical strategy used for participants who had intercurrent events suggesting treatment failure and a treatment-policy strategy used elsewhere. We also report intention-to-treat (ITT) results. RESULTS: A total of 243 participants underwent randomization in TRIUMPH-1-OSA and 448 in TRIUMPH-2-OSA. The baseline mean AHI was 58.6 and 55.9 events per hour, respectively, and the mean body weight was 119.6 and 115.9 kg. At 80 weeks, the mean changes in the AHI (hybrid-treatment estimand) with retatrutide in TRIUMPH-1-OSA were -22.9 (4 mg), -34.3 (9 mg), and -31.7 (12 mg) events per hour, versus -9.9 with placebo (difference vs. placebo, -13.0 [95% confidence interval {CI}, -23.0 to -3.0], -24.4 [95% CI, -34.1 to -14.7], and -21.9 [95% CI, -32.2 to -11.5], respectively). The changes with retatrutide in TRIUMPH-2-OSA were -19.2 (4 mg), -24.7 (9 mg), and -25.4 (12 mg) events per hour, versus -10.3 with placebo (difference vs. placebo, -8.9 [95% CI, -15.9 to -2.0], -14.4 [95% CI, -21.6 to -7.2], and -15.1 [95% CI, -22.5 to -7.7]). For the ITT estimand, the corresponding differences from placebo were -13.2 (95% CI, -22.6 to -3.9), -24.7 (95% CI, -34.1 to -15.3), and -22.5 (95% CI, -31.9 to -13.1) in TRIUMPH-1-OSA and -8.8 (95% CI, -15.8 to -1.7), -13.9 (95% CI, -21.3 to -6.6), and -15.0 (95% CI, -22.5 to -7.4) in TRIUMPH-2-OSA. The mean percent change in body weight with retatrutide (key secondary end point) was -12.5 to -22.2% in TRIUMPH-1-OSA and -12.1 to -18.5% in TRIUMPH-2-OSA, versus -4.8% and -5.6% with placebo (treatment-regimen estimand). The most common adverse events were gastrointestinal. CONCLUSIONS: In adults with OSA and obesity or overweight with or without type 2 diabetes, retatrutide resulted in significantly greater decreases in the AHI than placebo. (Funded by Eli Lilly; TRIUMPH-1 and -2 ClinicalTrials.gov numbers, NCT05929066 and NCT05929079.).",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1056/NEJMoa2611477"
+ }
+]
