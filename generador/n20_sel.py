@@ -18,6 +18,13 @@ MOVE = {}
 # El patrón de títulos de n20_el.py no lo detectó porque su título no lleva la fórmula
 # «...: a clinical consensus statement of the...».
 OBLIG_EXTRA = {109}
+
+# ⛔ DEDUPLICACIÓN CON EL NÚMERO ANTERIOR (regla de encaje 7 / PASO 1). PubMed indexó esta
+# semana un artículo de EuroIntervention que el editor había publicado en la ventana de N19 y
+# que el Mac ya recuperó e incluyó en N19 (meta-análisis de revascularización coronaria antes
+# del TAVI). Volver a publicarlo sería duplicarlo, así que sale del pool y su plaza de la
+# sección 9 pasa al siguiente candidato de la rúbrica.
+DUP_PREV = {'10.4244/eij-d-26-00602': 'N19'}
 ADJUST = {109: dict(evid=9)}
 
 W = dict(rel=.20, cambio=.25, evid=.20, efecto=.15, rep=.12, fi=.08)
@@ -29,12 +36,17 @@ def prio(t,c):
     return "Complementario"
 
 cand, descartes = {}, {}
+_dups = []
 for f in sorted(glob.glob(B+'/n20_out[0-9].json')):
     for o in json.load(open(f)):
         i = o['idx']
         if not o.get('elegible'):
             descartes[i] = o.get('motivo_descarte','tipo no elegible')
             continue
+        _doi = (EL[i].get('doi') or '').lower()
+        if _doi in DUP_PREV:
+            descartes[i] = 'ya publicado en el número anterior (%s)' % DUP_PREV[_doi]
+            _dups.append(i); continue
         aj = ADJUST.get(i, {})
         cand[i] = dict(idx=i, sec=MOVE.get(i, o['sec']), ptype=o['ptype'], rel=aj.get('rel', o['rel']),
                        cambio=aj.get('cambio', o['cambio']), evid=aj.get('evid', o['evid']),
@@ -56,10 +68,22 @@ for s in range(1,11):
     keep = obl + rest[:max(0, 5-len(obl))]
     SELECT.extend(sorted(keep, key=lambda x:(-x['total'],-x['cambio'])))
 
+_prevkey = {}
+_pp = B+'/n20_sel_prev.json'
+if os.path.exists(_pp):
+    for o in json.load(open(_pp)):
+        if o.get('doi'): _prevkey[o['doi'].lower()] = o['key']
+_usados = set(_prevkey.values()); _next = 41
 out=[]
 for i,c in enumerate(sorted(SELECT,key=lambda x:(x['sec'],-x['total'])),1):
     r = EL[c['idx']]
-    out.append(dict(key=f"a{i}", idx=c['idx'], pmid=r['pmid'], doi=r['doi'], pii=r['pii'],
+    _k = _prevkey.get((r.get('doi') or '').lower())
+    if not _k:
+        _k = f"a{_next if _prevkey else i}"
+        if _prevkey: _next += 1
+        while _k in _usados: _next += 1; _k = f"a{_next}"
+        _usados.add(_k)
+    out.append(dict(key=_k, idx=c['idx'], pmid=r['pmid'], doi=r['doi'], pii=r['pii'],
                     journal=r['journal'], sec=c['sec'], ptype=c['ptype'], acr=c['acr'],
                     rel=c['rel'],cambio=c['cambio'],evid=c['evid'],efecto=c['efecto'],rep=c['rep'],fi=c['fi'],
                     total=c['total'], prio=c['prio'], oblig=c['oblig'], noabs=r['_noabs'],
@@ -68,7 +92,7 @@ for i,c in enumerate(sorted(SELECT,key=lambda x:(x['sec'],-x['total'])),1):
 json.dump(out, open(B+'/n20_sel.json','w'), ensure_ascii=False, indent=1)
 json.dump({o['key']:o['acr'] for o in out if o['acr']}, open(B+'/n20_acr.json','w'), ensure_ascii=False, indent=1)
 
-print(f"CANDIDATOS elegibles: {len(cand)} | descartados en cribado: {len(descartes)}")
+print(f"CANDIDATOS elegibles: {len(cand)} | descartados en cribado: {len(descartes)} (de ellos duplicados de números previos: {len(_dups)})")
 print(f"SELECCIONADOS: {len(out)}  (obligatorios: {sum(1 for o in out if o['oblig'])})")
 print("por sección:", dict(sorted(Counter(o['sec'] for o in out).items())))
 print("prioridad:", dict(Counter(o['prio'] for o in out)))
