@@ -1,0 +1,90 @@
+[
+ {
+  "key": "a25",
+  "journal": "Rev Esp Cardiol (Engl Ed)",
+  "doi": "10.1016/j.rec.2026.09.004",
+  "seccion": "Miocardiopatías",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Arrhythmias detected by implanted cardiac rhythm recorders in transthyretin cardiac amyloidosis",
+  "abstract": "INTRODUCTION AND OBJECTIVES: Arrhythmias are a common complication of transthyretin cardiac amyloidosis (ATTR-CM). We sought to characterize the prevalence, risk factors, and prognosis of arrhythmias in ATTR-CM using implantable loop recorders (ILRs). METHODS: ILRs were implanted in 49 patients with ATTR-CM (84% male; median age, 73.2 [66.2-78.8] years; 71% wild-type, 51% with known atrial fibrillation [AF]). Factors associated with the development of AF or pacemaker implantation were analyzed, and clinical outcomes were compared with those of a contemporary cohort of patients with 125 ATTR-CM without an ILR. RESULTS: During a median follow-up of 37.2 [26.6-41.1] months, an advanced conduction disorder (ACD) prompting pacemaker implantation was detected in 16 individuals (33%) and new-onset AF was detected in 17 patients (71% of those without previous AF). Patients with new-onset AF more frequently had wild-type ATTR-CM. Those who needed pacemaker implantation were older and had a higher prevalence of hypertension and right bundle branch block, and a longer PR interval. Compared with patients without an ILR, early detection of arrhythmias by ILR was not associated with a prognostic benefit in terms of survival (P = .57), reduction of syncope (P = 1), heart failure admissions (P = .34), or embolic events (P = .999). CONCLUSIONS: Although a higher incidence of arrhythmias was identified through ILR monitoring in patients with ATTR-CM, no significant benefits were observed in terms of survival or other hard clinical endpoints. Significant differences were identified in patients who developed new-onset AF and ACD. These differences should be considered during the clinical follow-up of this population."
+ },
+ {
+  "key": "a26",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.126.051256",
+  "seccion": "Miocardiopatías",
+  "ptype": "Revisión sistemática",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Efficacy and Safety of Pharmacologic Therapies in Nonobstructive Hypertrophic Cardiomyopathy: A Systematic Review",
+  "abstract": "BACKGROUND: Nonobstructive hypertrophic cardiomyopathy (HCM) affects approximately one-third of all patients with HCM and carries substantial morbidity, yet no approved disease-modifying therapies exist. We conducted a systematic review of prospective interventional studies evaluating pharmacologic therapies in adults with nonobstructive HCM. METHODS: A systematic search of PubMed, Cochrane Central Register of Controlled Trials, and Clinicaltrials.gov was performed through September 2025. Eligible studies included randomized and nonrandomized prospective interventional trials. A narrative synthesis was performed by pharmacologic class and outcome domain. RESULTS: Twenty-nine clinical trials evaluating 9 pharmacologic classes were identified: cardiac myosin inhibitors, cardiac sarcomere modulators, metabolic modulators, angiotensin II receptor blockers, angiotensin receptor-neprilysin inhibitors, mineralocorticoid receptor antagonists, SGLT2 (sodium-glucose cotransporter 2) inhibitors, beta blockers, and calcium channel blockers. Cardiac myosin inhibitors demonstrated reductions in left ventricular hypertrophy, improvements in diastolic function, and marked reductions in cardiac biomarkers, although improvements in exercise capacity and symptoms were variable. SGLT2 inhibition showed concordant improvements in diastolic function, atrial remodeling, biomarkers, and functional status in patients with symptomatic nonobstructive HCM and comorbid type 2 diabetes. Angiotensin receptor blockade showed signals of structural remodeling with valsartan and candesartan without consistent functional benefit. Mineralocorticoid receptor antagonism and angiotensin receptor-neprilysin inhibition demonstrated largely neutral effects. Among metabolic modulators, ninerafaxstat improved ventilatory efficiency and quality of life in patients with greater baseline symptom burden. CONCLUSIONS: Pharmacologic responsiveness in nonobstructive HCM is variable and appears to be mechanism- and disease stage-dependent. Ongoing trials evaluating cardiac myosin inhibitors, SGLT inhibitors, and novel therapeutic agents including ninerafaxstat and EDG-7500 will be critical in further defining the therapeutic landscape."
+ },
+ {
+  "key": "a27",
+  "journal": "Rev Esp Cardiol (Engl Ed)",
+  "doi": "10.1016/j.rec.2026.09.006",
+  "seccion": "Valvulopatías",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Impact of surgical timing in left-sided infective endocarditis with persistently positive blood cultures",
+  "abstract": "INTRODUCTION AND OBJECTIVES: Guidelines define persistent infection in infective endocarditis (IE) as positive blood cultures after 7 days of adequate antibiotic therapy. However, persistently positive blood cultures (PPBC) at 48 to 72 hours are already associated with a worse prognosis. We aimed to assess the clinical profile, temporal trends, and impact of surgical timing on outcomes in patients with left-sided IE and PPBC at 48 to 72 hours. METHODS: We performed a retrospective analysis of prospectively collected data from 3 Spanish tertiary centers (1998-2024). We compared patients with PPBC with those with blood culture clearance and assessed the effect of surgical timing using a time-dependent Cox model, inverse-probability-of-treatment weighting, and a day-7 landmark analysis to minimize immortal time bias and confounding by indication. RESULTS: Among 1265 patients with positive baseline cultures, 283 (22.4%) had PPBC at 48 to 72 hours. These patients exhibited a more severe clinical and microbiological profile and higher in-hospital mortality (36.0% vs 22.3%; P < .001). In the day-7 landmark analysis, surgery within the first 7 days was associated with lower in-hospital mortality (HR, 0.53; 95%CI, 0.30-0.95), with consistent trends across the time-dependent Cox and inverse-probability-of-treatment weighting models. CONCLUSIONS: PPBC at 48 to 72 hours identifies a high-risk subgroup of patients with left-sided IE. In these patients, early surgery within the first 7 days was associated with a potential survival benefit in adjusted models, supporting earlier reassessment of infection control to optimize surgical timing."
+ },
+ {
+  "key": "a28",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.126.052918",
+  "seccion": "Valvulopatías",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Not All Strokes Are Equal: Phenotype-Dependent Surgical Timing in Infective Endocarditis",
+  "abstract": "BACKGROUND: We evaluated postoperative neurologic and mortality outcomes by stroke-to-surgery timing and stroke phenotype in patients with left-sided infective endocarditis. METHODS: Adult patients undergoing surgery for infective endocarditis complicated by preoperative stroke between 2004 and 2024 at 2 institutions were stratified by stroke-to-surgery interval (<1 week, 1-4 weeks, 4-6 weeks). The primary outcome was a composite postoperative cerebrovascular event: new stroke, enlarging stroke, or hemorrhagic conversion. Secondary outcomes were operative death and major morbidity events. RESULTS: Among 2265 patients with left-sided infective endocarditis, 322 met inclusion criteria, of whom 122 (38%) underwent surgery within 1 week, 168 (52%) between 1 and 4 weeks, and 32 (10%) between 4 and 6 weeks. Operative death was similar across groups (P=0.09). Postoperative cerebrovascular events declined with time (<1 week, 21.3%; 1-4 weeks, 11.9%; 4-6 weeks, 9.4%; P=0.015). On multivariable analysis, longer stroke-to-surgery interval was associated with reduced odds of postoperative cerebrovascular events (odds ratio, 0.92/d [95% CI, 0.85-0.98]; P=0.015), driven by early events among patients with intraparenchymal hemorrhage, subarachnoid hemorrhage, and septic emboli. Among ischemic strokes, operative death was lowest with surgery within 1 week (5.8% versus 11.2% at 1-4 weeks; P=0.24). Interval embolization occurred in 10.6% of patients awaiting surgery, most commonly affecting the spleen and kidneys. CONCLUSIONS: Excess postoperative neurologic risk was concentrated within the first 7 to 10 days and driven by intraparenchymal hemorrhage, subarachnoid hemorrhage, and septic emboli; ischemic stroke showed no appreciable temporal association. Routine delay after ischemic stroke may not be necessary, while a short delay (≈7 days) for hemorrhagic and septic embolic subtypes may be reasonable when hemodynamically feasible."
+ },
+ {
+  "key": "a29",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.125.052158",
+  "seccion": "Valvulopatías",
+  "ptype": "Registro",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "PASCAL Precision System Outcomes by Implant Location and Lesion Location in Degenerative Mitral Regurgitation Patients From the STS/ACC TVT Registry",
+  "abstract": "BACKGROUND: Mitral valve transcatheter edge-to-edge repair can be more challenging in noncentral regions of the valve and in anterior or bileaflet lesions. We assess effect of implant location and leaflet lesion location on safety and effectiveness of PASCAL Precision system in degenerative mitral regurgitation (MR). METHODS: Mitral valve transcatheter edge-to-edge repair outcomes in patients with degenerative MR treated with PASCAL Precision system (September 2022-October 2024), from the US STS/ACC TVT (Society of Thoracic Surgeons/American College of Cardiology Transcatheter Valve Therapy) Registry, were analyzed by implant location (A2P2/non-A2P2) and leaflet lesion location (anterior/posterior/bileaflet). Procedural, clinical, and echocardiographic outcomes to 30 days were assessed. RESULTS: At 30 days, both A2P2 (n=1526) and non-A2P2 (n=299) groups had low event rates (cardiovascular mortality: 1.1% versus 1.0%, mitral valve reintervention: 0.4% versus 0.0% and single leaflet device attachment: 0.5% versus 0.3%; all P>0.05) and demonstrated significant MR reduction (P<0.001 versus baseline) with no significant difference between groups (P=0.750) (MR ≤2+: 93.4% versus 95.4%; MR ≤1+: 72.0% versus 73.3%). Kansas City Cardiomyopathy Questionnaire Overall Summary scores improved significantly in both groups (∆19.3, ∆17.7 points; P=0.741). The anterior (n=250), posterior (n=902), and bileaflet (n=192) disease groups also had low event rates (cardiovascular mortality: 0.4%, 1.1%, 0.0%; mitral valve reintervention: 0.8%, 0.1%, 0.5%; and single leaflet device attachment: 0.8%, 0.2%, 0.5%; all P>0.05), and demonstrated significant MR reduction (P<0.001 versus baseline) with no significant difference across groups (P=0.459) (MR ≤2+: 94.1%, 93.1%, and 94.5%; MR ≤1+: 79.0%, 69.2%, and 72.4%). All groups experienced significant improvement in Kansas City Cardiomyopathy Questionnaire Overall Summary scores (∆21.4, ∆18.8, ∆12.0 points; P=0.087). CONCLUSION: In real-world patients with degenerative mitral regurgitation, treatment with the PASCAL Precision system was associated with favorable safety and effectiveness at 30 days, regardless of implant location or leaflet lesion location."
+ },
+ {
+  "key": "a30",
+  "journal": "Heart Rhythm",
+  "doi": "10.1016/j.hrthm.2026.10.034",
+  "seccion": "Imagen cardíaca",
+  "ptype": "Estudio diagnóstico",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Left Atrial Reservoir Strain To Identify Advanced Atrial Cardiomyopathy in Patients With Atrial Fibrillation",
+  "abstract": "BACKGROUND: Left atrial reservoir strain (LASr) is a novel marker of left atrial (LA) function. We hypothesized that LASr can be used to identify atrial cardiomyopathy in patients with atrial fibrillation (AF). OBJECTIVE: To evaluate the association between LASr and invasive and non-invasive markers of atrial cardiomyopathy in AF patients. METHODS: We prospectively recruited patients with symptomatic paroxysmal or persistent AF and preserved left ventricular (LV) ejection fraction scheduled for catheter ablation. Resting transthoracic echocardiography was performed focusing on the left atrium (LA). Participants were dichotomised into two groups: reduced LASr (<20%) and preserved LASr (≥20%). Markers of LA cardiomyopathy were compared between these two groups; invasive markers included mean LA pressure, mean LA voltage and LA compliance whilst non-invasive markers included LA volumes and NT-pro BNP. RESULTS: A total of 91 patients were enrolled. Patients with reduced LASr (n=31) were older (69.4±8.9 vs 59.6±11.3 years, p<0.001), and more commonly female (45.2 vs 18.3%, p=0.007). Reduced LASr correlated with lower LA compliance (0.28±0.16 vs 0.42±0.25mm/mmHg, p<0.001), higher LA pressure (14.8±3.81 vs 13.1±4.46mmHg, p=0.031), and lower LA voltage (1.65±1.35 vs 3.12±1.57mV, p<0.01). On non-invasive assessment, reduced LASr was also associated with higher NT-proBNP levels (479 [200-1073] vs 121 [58-256] pg/ml p<0.001) and larger LA volumes (38.5±11.5 vs 32.6±7.7 mL/m2, p<0.001). CONCLUSION: In patients with symptomatic AF, reduced LASr is associated with a more advanced atrial cardiomyopathy involving hemodynamic, mechanical and electrical atrial dyfsfunction. LASr may therefore provide a useful non-invasive marker of atrial cardiomyopathy in AF."
+ },
+ {
+  "key": "a31",
+  "journal": "EuroIntervention",
+  "doi": "10.4244/EIJ-D-26-00602",
+  "seccion": "Cardiología intervencionista",
+  "ptype": "Metaanálisis",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Coronary artery disease management in patients with severe aortic stenosis undergoing transcatheter aortic valve implantation: a systematic review and meta-analysis of randomised controlled trials",
+  "abstract": "BACKGROUND: The optimal management of coronary artery disease in patients with severe aortic stenosis undergoing transcatheter aortic valve implantation (TAVI) remains uncertain. AIMS: We aimed to compare clinical outcomes between routine coronary revascularisation and conservative management in patients undergoing TAVI and to assess the relative effectiveness of individual revascularisation strategies by performing a meta-analysis of randomised trials. METHODS: We conducted a pairwise meta-analysis comparing percutaneous coronary intervention (PCI) with conservative treatment and a network meta-analysis comparing the relative effectiveness of individual strategies, including angiography-guided and physiology-guided PCI. The primary outcome was a study-defined composite endpoint of major adverse cardiovascular events (MACE). Secondary endpoints included the individual outcomes of all-cause death, cardiovascular death, myocardial infarction, stroke, unplanned revascularisation, and major bleeding. RESULTS: Five trials (N=1,644 patients) were included in the systematic review, and four were included in the primary quantitative synthesis (N=1,476). Compared with conservative treatment, routine PCI was associated with lower risks of MACE (risk ratio [RR] 0.80, 95% confidence interval [CI]: 0.65-0.98) and unplanned revascularisation (RR 0.30, 95% CI: 0.11-0.83) and an increased risk of major bleeding (RR 1.57, 95% CI: 1.07-2.32). In the network meta-analysis, physiology-guided PCI significantly reduced MACE, stroke, and unplanned revascularisation compared with conservative treatment and ranked highest for all ischaemic outcomes among revascularisation strategies. CONCLUSIONS: Among patients referred for TAVI, routine revascularisation reduces the risk of ischaemic outcomes compared with conservative treatment. In this setting, physiology-guided PCI may be associated with the most favourable efficacy profile across available strategies. (PROSPERO: CRD420261330194)."
+ },
+ {
+  "key": "a32",
+  "journal": "Circulation",
+  "doi": "10.1161/CIR.0000000000001490",
+  "seccion": "Cardiología intervencionista",
+  "ptype": "Scientific Statement",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Multidisciplinary Collaboration in the Performance of Aortic Surgery: A Scientific Statement From the American Heart Association",
+  "abstract": "Intraoperative management of a patient undergoing cardiac surgery requires continuous and independent interventions by multiple healthcare professionals, including surgeons, anesthesiologists, and perfusionists, among others. Although each clinician performs tasks based on their training and accepted techniques, guidelines, and protocols, an action by one member of the team can have immediate consequences for other team members. Aortic surgery adds a level of complexity, with the need for interventions such as single-lung ventilation, systemic cooling (and subsequent rewarming), and myocardial, cerebral, and visceral protection. Much has been made of the utility of the multidisciplinary team. This scientific statement is intended to approach the patient undergoing aortic surgery from 3 different viewpoints: that of the surgeon, the anesthesiologist, and the perfusionist. This scientific statement is not intended to provide an exhaustive summary of approaches to aortic surgery but rather to illustrate the specific concerns that each member of the team may have."
+ }
+]

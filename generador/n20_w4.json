@@ -1,0 +1,90 @@
+[
+ {
+  "key": "a33",
+  "journal": "EuroIntervention",
+  "doi": "10.4244/EIJ-D-26-00454",
+  "seccion": "Cardiología intervencionista",
+  "ptype": "Investigación original",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Safety and effectiveness of the Vertex Pulmonary Embolectomy System in acute intermediate-risk pulmonary embolism: the SPIRARE II pivotal trial",
+  "abstract": "BACKGROUND: Percutaneous aspiration thrombectomy can rapidly reduce afterload in acute pulmonary embolism (PE), but catheter stiffness and instability may limit access and prevent effective right ventricle (RV) unloading. The Vertex Pulmonary Embolectomy System with Transforming Fixation (TFX) technology is designed to address current limitations of existing catheter-based systems by separating the flexibility necessary for safe navigation from the support that is essential for procedural control. AIMS: We aimed to evaluate the safety and effectiveness of the Vertex Pulmonary Embolectomy System for mechanical aspiration thrombectomy in acute intermediate-risk PE. METHODS: SPIRARE II was a prospective, single-arm, multicentre pivotal investigation conducted at 19 sites in the United States and Europe. Eligible patients had acute PE (≤14 days), a computed tomography angiography-assessed RV to left ventricle (RV/LV) ratio>0.9, and haemodynamic stability (systolic blood pressure ≥90 mmHg). Co-primary endpoints were composite major adverse events (MAE) within 48 hours and core laboratory-assessed RV/LV change from baseline to 48 hours. Prespecified secondary endpoints were collected immediately pre- and post-procedure in all patients including mean pulmonary artery pressure, total pulmonary vascular resistance, and cardiac index. RESULTS: In 123 patients, the 48-hour composite MAE rate was 2.4% (3/123), meeting the prespecified performance goal (one-sided p<0.0001). The mean RV/LV diameter ratio decreased from 1.44±0.33 at baseline to 1.05±0.21 at 48 hours, a mean reduction of 0.39±0.33, exceeding the prespecified performance goal (p<0.0001). CONCLUSIONS: The Vertex Pulmonary Embolectomy System met its prespecified safety and effectiveness endpoints in acute intermediate-risk PE. TFX delivered precise, stable control with reliable vessel access, enabling consistent right ventricular unloading. (ClinicalTrials.gov: NCT06576427)."
+ },
+ {
+  "key": "a34",
+  "journal": "EuroIntervention",
+  "doi": "10.4244/EIJ-D-26-00494",
+  "seccion": "Cardiología intervencionista",
+  "ptype": "Estudio observacional",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Impact of prolonged balloon inflation on valve expansion and early clinical outcomes following contemporary balloon-expandable transcatheter aortic valve implantation",
+  "abstract": "BACKGROUND: Incomplete expansion of balloon-expandable (BE) transcatheter heart valves (THVs) after transcatheter aortic valve implantation (TAVI) may affect valve performance and durability. Routine THV post-dilatation (the \"double-tap\" technique) has been proposed to optimise device expansion; however, it may increase procedural complexity. AIMS: We sought to evaluate the impact of a prolonged balloon inflation implantation strategy on BE THV expansion, haemodynamic performance, and early clinical outcomes. METHODS: This single-centre study analysed consecutive TAVI patients treated for native tricuspid aortic stenosis with the SAPIEN 3 Ultra RESILIA THV using a prolonged balloon inflation strategy (8 seconds). Valve expansion was assessed by fluoroscopy at multiple frame levels and compared with three validated reference standards. Results were also descriptively compared with previously published data on the double-tap technique. Clinical and haemodynamic outcomes at 30 days were adjudicated according to Valve Academic Research Consortium 3 criteria. RESULTS: A total of 84 patients (mean age 78.8 years, 58% male, median Society of Thoracic Surgeons Predicted Risk of Mortality score 3.9%) were included. Prolonged inflation resulted in complete THV expansion at the inflow and outflow levels, with only mild underexpansion (98.5±1.3%) detected at the midframe level when manufacturer-defined nominal values were used as the reference. When compared with previously published data on the double-tap technique, expansion values for the 23, 26, and 29 mm valves were consistently similar or higher, whereas lower expansion was observed for the 20 mm size. Device success was achieved in all cases, with no stroke at 30 days. Permanent pacemaker implantation occurred in 6% of patients. Haemodynamic performance was favourable (mean gradient 9.2 [interquartile range 7.0-10.3] mmHg at 30 days), with no patients having moderate or severe paravalvular leak. CONCLUSIONS: Prolonged balloon inflation during BE THV deployment is associated with favourable valve expansion, haemodynamic results, and a favourable safety profile, consistent with values reported in double-tap series. If confirmed in larger studies, this strategy may represent a simple alternative to routine double-tap in selected patients."
+ },
+ {
+  "key": "a35",
+  "journal": "JACC Adv",
+  "doi": "10.1016/j.jacadv.2026.103377",
+  "seccion": "Cardiología intervencionista",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Computational Modeling Reduces Leaflet Modification Rates in Valve-In-Valve and Redo Transcatheter Aortic Valve Replacement",
+  "abstract": "BACKGROUND: Coronary obstruction (CO) complicates valve-in-valve (ViV) and redo transcatheter aortic valve replacement (TAVR) at higher rates than native TAVR. Leaflet modification mitigates this risk but increases procedural burden. Traditional computed tomography angiography (CTA)-based risk stratification relies on static parameters that may overestimate risk; computational predictive modeling (CPM) uses patient-specific data to refine risk assessment. OBJECTIVES: The study aims to characterize leaflet modification rates in conventional ViV TAVR and redo-TAVR and evaluate the impact of CPM preprocedural planning augmentation on leaflet modification rates. METHODS: A total of 157 consecutive ViV TAVR or redo-TAVR patients treated from 2022 to 2025 were retrospectively analyzed. CO risk status was derived from traditional CTA parameters. Leaflet modification rates among CTA high-risk subgroups (non-CPM, n = 62; and CPM, n = 29) were compared using Boschloo's one-sided exact test. CPM risk-reclassification patterns were studied using counterfactual binomial analysis. RESULTS: Leaflet modification occurred in 26.3% of ViV TAVR and 24.1% of redo-TAVR procedures that used only conventional CTA-based planning methods. Among patients deemed high risk for CO by conventional methods, leaflet modification was significantly lower in the CPM-augmented subgroup vs that in the non-CPM subgroup (24.1% vs 46.8%; OR: 2.76; 95% CI: 1.03-7.40; P = 0.021). CPM-augmented planning reclassified 82.8% of patients to low-risk status, and 79.2% of reclassified patients were managed without leaflet modification. No COs occurred during the study period. CONCLUSIONS: Among ViV TAVR and redo-TAVR patients at high risk of CO based on conventional CTA-based planning, the use of CPM to augment standard risk assessment was associated with a significant reduction in leaflet modification procedures."
+ },
+ {
+  "key": "a36",
+  "journal": "Heart Rhythm",
+  "doi": "10.1016/j.hrthm.2026.10.039",
+  "seccion": "Arritmias y electrofisiología",
+  "ptype": "Metaanálisis",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "CATHETER ABLATION VERSUS SHAM FOR SYMPTOMATIC ATRIAL FIBRILLATION: A SYSTEMATIC REVIEW AND BAYESIAN META-ANALYSIS OF RANDOMIZED TRIALS",
+  "abstract": "BACKGROUND: Catheter ablation reduces atrial fibrillation (AF) recurrence and improves symptoms and quality of life (QoL), but sham-controlled trials have reported discordant results. OBJECTIVE: To synthesise sham-controlled trials of AF ablation and identify why QoL results differ. METHODS: We searched databases and registries for randomized trials of catheter ablation versus sham in symptomatic AF. The primary outcome was the between-group difference in Atrial Fibrillation Effect on Quality-of-Life (AFEQT) score, pooled using a Bayesian random-effects model. Certainty was rated with the Grading of Recommendations Assessment, Development and Evaluation. RESULTS: Four trials (468 patients) were eligible; three (448 patients) were pooled. Ablation improved AFEQT relative to sham by 13.5 points (95% credible interval [CrI] 1.6 to 26.9), with a posterior probability of benefit 0.98, of exceeding the 5-point minimal clinically important difference 0.94, and by 12.9 points (-0.4 to 27.1; probability 0.97 and 0.91) with PVI-SHAM-AF's primary estimator. Heterogeneity (τ 8.2 points, I2 85.3%) was largely attributed to PVI-SHAM-AF, which differed from the other trials in symptom severity, rhythm monitoring and assessment of blinding; without it, the difference was 18.9 points (6.7 to 31.4). Ablation reduced AF recurrence in every trial (pooled risk ratio 0.49, CrI 0.17-0.89). Certainty was moderate for AF burden and recurrence and low for QoL. CONCLUSION: Compared with sham embedded in active rhythm control, catheter ablation reduces AF recurrence and burden and has a high probability of clinically important QoL benefit, although its magnitude remains uncertain. Trials differ in population, monitoring, and estimator, not direction of effect."
+ },
+ {
+  "key": "a37",
+  "journal": "Rev Esp Cardiol (Engl Ed)",
+  "doi": "10.1016/j.rec.2026.07.012",
+  "seccion": "Arritmias y electrofisiología",
+  "ptype": "Registro",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Spanish catheter ablation registry. 25th official report of the Heart Rhythm Association of the Spanish Society of Cardiology (2025)",
+  "abstract": "INTRODUCTION AND OBJECTIVES: We report the results of the 2025 Spanish catheter ablation registry. METHODS: This retrospective registry included catheter ablation procedures performed at participating hospitals in Spain and recorded in the REDCap database using a dedicated data collection form. RESULTS: A total of 109 centers participated, reporting 33 435 ablations. Atrial fibrillation was the most commonly treated arrhythmia (14 452 cases), with single-shot techniques being the most frequently used approach (63%) and a marked increase in pulsed field ablation (37% vs 21% in 2024). The remaining arrhythmia substrates remained at similar levels. The overall acute success rate was 95%, the complication rate was 1.6%, and the mortality rate was 0.04%. There was a marked increase in outpatient procedures (33% vs 18% in 2024), particularly atrioventricular nodal re-entrant tachycardia ablation (50%) and cavotricuspid isthmus ablation (45%). A total of 467 pediatric ablations were performed in 38 centers. Accessory pathway ablation was the most common procedure (65.3%), with a 97% success rate. CONCLUSIONS: A similar number of centers participated, with a slight increase in the number of procedures compared with 2024. Atrial fibrillation remained the most frequently treated arrhythmia. Acute success, complication, and mortality rates remained stable. The accreditation process for centers and professionals is well-established, with a stable number of annual accreditations. Full English text available from: www.revespcardiol.org/en."
+ },
+ {
+  "key": "a38",
+  "journal": "Nat Rev Cardiol",
+  "doi": "10.1038/s41569-026-01354-z",
+  "seccion": "Arritmias y electrofisiología",
+  "ptype": "Artículo de revisión",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "The evolution and future of conduction system pacing",
+  "abstract": "Cardiac pacing has undergone a fundamental paradigm shift from conventional right ventricular apical pacing towards physiological activation of the native conduction system of the heart. Decades of evidence have established that chronic right ventricular pacing induces ventricular dyssynchrony, contributing to pacing-induced cardiomyopathy and adverse clinical outcomes. Conduction system pacing, which engages the intrinsic His-Purkinje network of the heart, has emerged as a transformative approach that preserves or restores the natural ventricular activation sequence. His bundle pacing, the earliest form of conduction system pacing, provided proof of concept but is limited by technical challenges and high capture thresholds. Left bundle branch area pacing has since become the dominant modality, offering greater procedural success, lead stability and broader applicability: from management of bradycardia and prevention of pacing-induced cardiomyopathy to cardiac resynchronization therapy in heart failure. Bachmann bundle area pacing is an emerging atrial counterpart: by capturing a preferential interatrial conduction pathway, this approach reduces interatrial conduction delay and produces a more physiological atrial activation sequence than conventional right atrial appendage pacing. Bachmann bundle area pacing might, therefore, help to prevent atrial fibrillation. In this Review, we bring these ventricular and atrial strategies together under the unifying principle of physiological pacing, describe their mechanistic basis and technical evolution, appraise the latest evidence from randomized trials and address the practical questions that arise in clinical application, indicating where more evidence is required."
+ },
+ {
+  "key": "a39",
+  "journal": "Heart Rhythm",
+  "doi": "10.1016/j.hrthm.2026.10.008",
+  "seccion": "Arritmias y electrofisiología",
+  "ptype": "Investigación original",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Pulmonary Vein Isolation With Contact-Force-Sensing Large-Tip Focal Pulsed Field Ablation Catheter With 3D Mapping for Paroxysmal Atrial Fibrillation: Omny-IRE 12-month Results",
+  "abstract": "BACKGROUND: Omny-IRE (NCT05971693) evaluated safety and effectiveness of a large-tip focal, multielectrode, contact-force-sensing, pulsed field ablation, basket catheter with electroanatomic mapping integration. OBJECTIVE: Report 12-month (M) study outcomes. METHODS: Pulmonary vein isolation was performed using the OMNYPULSE platform. Patients underwent follow-up through 12M postablation visit with electrocardiography (preprocedure, predischarge, and at 1, 3, 6, and 12M), 24-hour Holter monitoring (3, 6, and 12M), and remote rhythm monitoring (weekly: 1-5M; monthly: 6-12M; and symptom-triggered recordings). The secondary effectiveness endpoint was 12M freedom from documented symptomatic/asymptomatic atrial arrhythmia (≥30 s) and acute procedural failure. Device/procedure-related serious adverse events (SAEs), quality-of-life assessed by Atrial Fibrillation Effect on Quality-of-Life (AFEQT) scores, and healthcare-utilization (cardiovascular-hospitalizations and antiarrhythmic drug [AAD] use) were also evaluated. RESULTS: Among 188 enrolled patients, 136 comprised the main-phase-cohort for safety and effectiveness evaluations. In this cohort, 12M freedom from symptomatic/asymptomatic atrial arrhythmia was 82.5% (90.1% using standard-of-care monitoring only). Clinical success, defined as freedom from documented symptomatic arrhythmia and acute procedural failure, was 89.9%, while single procedural success was 89.2%. Device/procedure-related SAEs occurred in 2.9% of main-phase patients. Mean overall AFEQT score improved by 25.5 points from baseline to 12M. Cardiovascular-hospitalizations decreased by 40.9% versus the 12M preprocedure period, and Class I/III AAD use decreased by 49.3% 6-12M postablation versus baseline. CONCLUSIONS: Omny-IRE results demonstrated the effectiveness, safety, and healthcare benefits of PFA with the OMNYPULSE platform."
+ },
+ {
+  "key": "a40",
+  "journal": "Heart Rhythm",
+  "doi": "10.1016/j.hrthm.2026.09.038",
+  "seccion": "Arritmias y electrofisiología",
+  "ptype": "Ensayo clínico aleatorizado",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Three ablation strategies using very high-power short-duration catheter in paroxysmal atrial fibrillation: The Q-INDEX randomized trial",
+  "abstract": "BACKGROUND: Very high-power short-duration (vHPSD; 90 W/4 sec) ablation shortens pulmonary vein isolation (PVI) but produces shallower lesions that may be inadequate in the thick anterior left atrium. OBJECTIVE: To compare vHPSD, ablation index (AI)-guided, and hybrid strategies for PVI in paroxysmal atrial fibrillation. METHODS: In this multicenter, randomized, open-label trial, 150 patients with paroxysmal atrial fibrillation were assigned 1:1:1 with the QDOT MICRO catheter to (1) AI-guided (AI 500 anterior, 400 elsewhere), (2) hybrid (AI-guided anterior [AI 500], vHPSD elsewhere), or (3) vHPSD (90 W/4 sec, all segments). The primary endpoint was total ablation time; secondary endpoints included acute PV reconnection, safety, and 1-year freedom from atrial arrhythmia. RESULTS: Acute PVI was achieved in all patients. Total ablation time was longest with AI-guided and shortest with vHPSD ablation (median 2220 vs 1450 vs 794 sec; P < .001). Acute reconnection across the 14 PV segments was lowest with AI-guided and highest with vHPSD (7.7% vs 9.4% vs 10.6%; P = .40). One-year freedom from atrial arrhythmia was 92.0%, 85.4%, and 77.6%, respectively (log-rank P = .13; for AI-guided vs vHPSD; P = .049). No tamponade occurred; steam pops occurred only in the 90 W groups. Two minor periprocedural strokes occurred (both vHPSD; full recovery), and silent cerebral lesions on magnetic resonance imaging did not differ among the groups (5%, 10%, 0%; P = .35). CONCLUSION: Uniform vHPSD more than halved PVI ablation time but was associated with the lowest 1-year efficacy, whereas the hybrid strategy preserved efficiency without significant loss of durability. These exploratory findings-from a trial powered for ablation time-support region-tailored lesion depth in point-by-point ablation and warrant confirmation."
+ }
+]
