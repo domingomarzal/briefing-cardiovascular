@@ -73,13 +73,15 @@ VARIANTS = {
 }
 
 # ---- build per-article presentation ----
-BY = {}; ALL = {}; VIZ = ""; LINKFIX = {}; JLINKS = {}
+BY = {}; ALL = {}; VIZ = ""; LINKFIX = {}; JLINKS = {}; PIN_FIRST = set()
 def setup(cfg):
-    global DATA, NUM, PERIOD, DESTACADO_KEY, TOP3, _ACR, VIZ, BY, ALL, LINKFIX, JLINKS
+    global DATA, NUM, PERIOD, DESTACADO_KEY, TOP3, _ACR, VIZ, BY, ALL, LINKFIX, JLINKS, PIN_FIRST
     DATA = json.load(open(cfg["data"])); NUM = cfg["num"]; PERIOD = cfg["period"]
     DESTACADO_KEY = cfg["dest"]; TOP3 = cfg["top3"]; _ACR = cfg["acr"]; VIZ = cfg["viz"]
     LINKFIX = cfg.get("linkfix", {})
     JLINKS  = cfg.get("jlinks", {})
+    # Fichas que, por decisión editorial, abren su sección pase lo que pase con la prioridad (N21: SEASON-AR).
+    PIN_FIRST = set(cfg.get("first", []))
     BY = {}
     for k, a in DATA.items():
         es, en = titles(a); a["_t_es"], a["_t_en"] = es, en
@@ -373,7 +375,7 @@ def build(variant):
         if not arts:
             ah = '<p class="nonews">%s</p>' % T("Sin novedades relevantes esta semana.","No relevant updates this week.")
         else:
-            ordered=sorted(arts, key=lambda a:(PRIO_RANK[IMP[a["prio"]]], _grp(a), -a["total"]))
+            ordered=sorted(arts, key=lambda a:(a["key"] not in PIN_FIRST, PRIO_RANK[IMP[a["prio"]]], _grp(a), -a["total"]))
             ah="\n".join(article(a) for a in ordered)
         secs += ('<section class="sec" id="s%d"><div class="sec-head-row"><a class="sec-head" href="#s%d"><span class="sec-num c%d">%02d</span><h2>%s</h2></a>' + AB_SEC[s] + '<a class="chevlink" href="#s%d" aria-label="Desplegar"><span class="chev t%d">▸</span></a></div>'
                  '<div class="sec-body">%s<div class="sec-foot"><a href="#indice" class="toindex" aria-label="Secciones">↩︎</a></div></div></section>\n') % (s,s,s,s,T(SECES[s],SECEN[s]),s,s,ah)
@@ -411,7 +413,7 @@ def build(variant):
       T("Por qué importa:","Why it matters:"), T(dest["es"].get("why",""), dest["en"].get("why","")), jl(dest), viz_open)
 
     # Datos para el motor de audio: qué leer y en qué orden
-    _sec_keys = {s: [a["key"] for a in sorted(BY.get(s, []), key=lambda x: -x["total"])] for s in range(1, 11)}
+    _sec_keys = {s: [a["key"] for a in sorted(BY.get(s, []), key=lambda x: (x["key"] not in PIN_FIRST, -x["total"]))] for s in range(1, 11)}
     # %B/%G/%E = nombre hablado de ESTA variante. El briefing dice «Briefing Cardiovascular»;
     # el Cardio al día dice «Cardio al día». %N y %s los sustituye el JS en tiempo de ejecución.
     def _nombra(d):
@@ -1014,7 +1016,7 @@ CONFIGS = [
  dict(n="n17", linkfix=_acr(BASE+"/generador/n17_linkfix.json"), jlinks=_acr(BASE+"/generador/n17_jlinks.json"), data=BASE+"/generador/n17_data.json", num="Nº 17", period=("28 de septiembre al 4 de octubre de 2026","September 28 – October 4, 2026"), dest="a1", top3=["a7","a6","a9"], acr=_acr(BASE+"/generador/n17_acr.json"), viz=_viz(BASE+"/generador/n17_viz.html"), local="Briefing Cardiovascular_N17", lnum="N17"),
  dict(n="n18", linkfix=_acr(BASE+"/generador/n18_linkfix.json"), jlinks=_acr(BASE+"/generador/n18_jlinks.json"), data=BASE+"/generador/n18_data.json", num="Nº 18", period=("5 al 11 de octubre de 2026","October 5 – 11, 2026"), dest="a2", top3=["a1","a40","a35"], acr=_acr(BASE+"/generador/n18_acr.json"), viz=_viz(BASE+"/generador/n18_viz.html"), local="Briefing Cardiovascular_N18", lnum="N18"),
  dict(n="n19", linkfix=_acr(BASE+"/generador/n19_linkfix.json"), jlinks=_acr(BASE+"/generador/n19_jlinks.json"), data=BASE+"/generador/n19_data.json", num="Nº 19", period=("12 al 18 de octubre de 2026","October 12 – 18, 2026"), dest="a16", top3=["a21","a1","a17"], acr=_acr(BASE+"/generador/n19_acr.json"), viz=_viz(BASE+"/generador/n19_viz.html"), local="Briefing Cardiovascular_N19", lnum="N19"), dict(n="n20", linkfix=_acr(BASE+"/generador/n20_linkfix.json"), jlinks=_acr(BASE+"/generador/n20_jlinks.json"), data=BASE+"/generador/n20_data.json", num="Nº 20", period=("19 al 25 de octubre de 2026","October 19 – 25, 2026"), dest="a37", top3=["a17","a6","a8"], acr=_acr(BASE+"/generador/n20_acr.json"), viz=_viz(BASE+"/generador/n20_viz.html"), local="Briefing Cardiovascular_N20", lnum="N20"),
- dict(n="n21", linkfix=_acr(BASE+"/generador/n21_linkfix.json"), jlinks=_acr(BASE+"/generador/n21_jlinks.json"), data=BASE+"/generador/n21_data.json", num="Nº 21", period=("26 de octubre al 1 de noviembre de 2026","October 26 – November 1, 2026"), dest="a13", top3=["a38","a33","a1"], acr=_acr(BASE+"/generador/n21_acr.json"), viz=_viz(BASE+"/generador/n21_viz.html"), local="Briefing Cardiovascular_N21", lnum="N21"),
+ dict(n="n21", linkfix=_acr(BASE+"/generador/n21_linkfix.json"), jlinks=_acr(BASE+"/generador/n21_jlinks.json"), data=BASE+"/generador/n21_data.json", num="Nº 21", period=("26 de octubre al 1 de noviembre de 2026","October 26 – November 1, 2026"), dest="a6", top3=["a43","a38","a40"], first=["a40"], acr=_acr(BASE+"/generador/n21_acr.json"), viz=_viz(BASE+"/generador/n21_viz.html"), local="Briefing Cardiovascular_N21", lnum="N21"),
 ]
 import sys as _sys
 ONLY = _sys.argv[1] if len(_sys.argv) > 1 else None

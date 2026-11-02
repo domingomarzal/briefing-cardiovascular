@@ -12,6 +12,10 @@ EL = json.load(open(B + '/n21_el.json'))
 # usuario es explícita y el lote 2 ya había aplicado ese mismo criterio a idx53 (obesidad y
 # efecto de la ablación en CABANA). Se homogeneizan los dos en la sección 2.
 MOVE = {4: 2}
+# ⭐ DECISIÓN EDITORIAL DEL DR. MARZAL (2-nov-2026): el ensayo SEASON-AR (TAVI en la insuficiencia
+# aórtica pura, Circulation, idx43) pasa de Valvulopatías a Cardiología intervencionista, donde
+# además debe salir el PRIMERO de la sección (lo fija PIN_FIRST en gen_bilingue.py).
+MOVE[43] = 9
 
 # ⭐ INCLUSIÓN OBLIGATORIA AÑADIDA A MANO (PASO 2, apartado b: «documento equivalente de las
 # principales sociedades científicas»). El patrón de títulos de n21_el.py reconoce «Scientific

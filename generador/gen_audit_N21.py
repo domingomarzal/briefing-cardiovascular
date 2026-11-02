@@ -25,7 +25,7 @@ for s in _selraw:
     if not s.get("pmid"):
         s["pmid"] = _recuperados.get(s["title"], "CR:" + s["key"])
 sel = {s["pmid"]: s for s in _selraw}
-DEST = "a13"; TOP3 = ("a38", "a33", "a1")
+DEST = "a6"; TOP3 = ("a43", "a38", "a40")
 SECN = {1: "Cardiología preventiva", 2: "Cardiometabolismo", 3: "Dislipemia", 4: "Cardiopatía isquémica",
         5: "Insuficiencia cardíaca", 6: "Miocardiopatías", 7: "Valvulopatías", 8: "Imagen cardíaca",
         9: "Cardiología intervencionista", 10: "Arritmias y electrofisiología"}
@@ -140,45 +140,30 @@ head = re.sub(r'\d+\s*[–-]\s*\d+ (?:ene|feb|mar|abr|may|jun|jul|ago|sep|oct|no
               '26 oct – 1 nov 2026', head)
 head = head.replace("Reglas de selección (N19).", "Reglas de selección (N21).")
 NOTA_TOP3 = ('<p class="intro" style="margin-top:10px;"><b>Nota sobre la selección de N21.</b> '
- 'Semana sin congreso y sin guías mayores: <b>ningún artículo alcanza el umbral de Imprescindible</b> '
- '(CAMBIO ≥ 8 o TOTAL ≥ 8), como ya ocurrió en N18 y N19. <b>El ★ Destacado y los tres titulares de '
- '«No te los puedes perder» son elección editorial del Dr. Marzal</b> (26-oct-2026), no los cuatro primeros de la '
- 'rúbrica: ★ Destacado = el <b>Registro Español de Ablación con Catéter, XXV informe oficial de la Asociación del '
- 'Ritmo Cardiaco de la SEC (2025)</b> (<i>Rev Esp Cardiol (Engl Ed)</i>, a37, 5,94); titulares = el documento de '
- 'consenso sobre insuficiencia cardiaca aguda en urgencias (<i>Eur Heart J</i>, a17, 7,43), los ensayos '
- 'TRIUMPH-1/TRIUMPH-2 de retatrutida semanal en la apnea obstructiva del sueño (<i>N Engl J Med</i>, a6, 7,79) y '
- 'el análisis agrupado de BROADWAY/BROOKLYN con metaanálisis de los inhibidores de la CETP sobre obicetrapib, '
- 'glucemia y diabetes de nueva aparición (<i>Eur J Prev Cardiol</i>, a8, 4,95). Por puntuación, los cuatro primeros '
- 'eran a6, a17, el ensayo ICare-FASTER (<i>Circulation</i>, a13, 7,13) y la variante CD36 Y325* en la miocardiopatía '
- 'dilatada (<i>JAMA</i>, a22, 6,59), que siguen en el número como fichas de su sección. La ponderación y el orden '
- 'dentro de cada sección no cambian. '
- '<b>Corrección editorial de la ponderación:</b> el documento de <i>Eur Heart J</i> sobre insuficiencia cardiaca '
- 'aguda en urgencias se reponderó como <b>documento de consenso</b> (EVID 9) y se marcó de inclusión obligatoria, '
- 'porque su propio resumen lo declara «consensus document»; el patrón de títulos no lo había detectado. '
- '<b>Decisiones de ámbito:</b> se descartaron con el motivo «no cardiovascular» los dos ensayos de nefropatía IgA '
- 'de <i>N Engl J Med</i> (atacicept y povetacicept) y el ensayo RISE UP de mitapivat en la anemia de células '
- 'falciformes de <i>Lancet</i> —la inclusión obligatoria de <i>NEJM</i> y <i>Lancet</i> cubre los artículos '
- '<i>de medicina cardiovascular</i>—, y con el motivo «fuera del alcance: no cardiológico» los trabajos de '
- 'trombectomía e ictus agudo y el de hemorragia subaracnoidea. También se excluyó por TIPO el editorial semanal '
- 'del fascículo de <i>Eur Heart J</i> («Fifth Universal Definition of Myocardial Infarction and an update on '
- 'lipoprotein(a) and inflammation»), que menciona la Quinta Definición Universal en su título pero es el '
- 'comentario del número, no el documento. '
- '<b>Recuperación por Crossref (PASOS 1 y 1b).</b> <i>J Am Coll Cardiol</i> se quedó con <b>cero</b> artículos '
- 'elegibles por <i>edat</i>: se revisó el fascículo en curso (vol 88, nº 16) por Crossref y se incorporaron los '
- 'dos originales que nunca habían salido en el briefing y tienen resumen en PubMed (a23 y a24, los dos de '
- 'miocardiopatía hipertrófica); el resto del fascículo es correspondencia, editoriales o material sin resumen. '
- 'La <b>auditoría de cobertura</b> comparó revista a revista lo publicado por el editor con lo recogido: de 86 '
- 'DOI no recogidos, los de <i>JAMA</i> (40), <i>Lancet</i> (26) y <i>N Engl J Med</i> (13) se revisaron uno a uno '
- 'y son correspondencia, editoriales, obituarios o material no cardiovascular (oncología, nefrología, ictus). '
- 'Queda <b>pendiente para el Mac</b> un original de <i>Atherosclerosis</i> sobre NOX2 circulante y riesgo '
- 'cardiovascular (10.1016/j.atherosclerosis.2026.121918) que no está en PubMed y cuyo resumen no está en '
- 'Crossref: ni la nube ni el Mac acceden a sciencedirect.com (el Mac recibe HTTP 403), así que por la regla '
- 'del resumen queda fuera de este número. '
- '<b>Secciones cortas, sin relleno:</b> Imagen cardíaca se queda con <b>1 ficha</b> porque todo lo que las '
- 'revistas de imagen publicaron esa semana fue errata, editorial o material sin resumen; Dislipemia con 2, '
- 'Valvulopatías con 3 y Cardiopatía isquémica con 4. '
- '<b>Deduplicación:</b> el meta-análisis de <i>EuroIntervention</i> sobre revascularización coronaria antes del '
- 'TAVI, que PubMed ha indexado esta semana, ya se publicó en N19 y sale del número.</p>')
+ 'Semana del congreso TCT 2026. Por la rúbrica, los cuatro primeros eran el metaanálisis de <i>Lancet</i> sobre las '
+ 'vías 0/1 h frente a 0/3 h en la sospecha de infarto (a16, 8,41), el ensayo de <i>JAMA</i> de estimulación del área '
+ 'de la rama izquierda frente a estimulación ventricular derecha (a43, 8,33), el ensayo P4 de <i>N Engl J Med</i> '
+ '(a38, 8,30) y el Scientific Statement de la AHA sobre prevención cardiovascular específica de la mujer '
+ '(<i>Circulation</i>, a1, 7,75). <b>El ★ Destacado y el tercer titular de «No te los puedes perder» son decisión '
+ 'editorial del Dr. Marzal</b> (2-nov-2026): ★ Destacado = el estudio <b>PRAISE-HFpEF</b> de agonistas del receptor '
+ 'de GLP-1 en la IC-FEp asociada a obesidad (<i>J Am Heart Assoc</i>, a6, 5,32); titulares = a43, a38 y el ensayo '
+ '<b>SEASON-AR</b> de TAVI en la insuficiencia aórtica pura (<i>Circulation</i>, a40, 7,25), que además se ha '
+ '<b>trasladado de Valvulopatías a Cardiología intervencionista</b>, donde abre la sección. La ponderación de todos '
+ 'los artículos no cambia. '
+ '<b>Recuperación desde el Mac (PASO 1b).</b> La auditoría de cobertura localizó 20 artículos que el editor publicó '
+ 'en la ventana y PubMed no había indexado. La nube solo pudo incorporar el ensayo P4 (inclusión obligatoria). El '
+ 'Mac leyó el resumen de 17 de ellos en la web del editor (jacc.org, atherosclerosis-journal.com y '
+ 'eurointervention.pcronline.com), los cribó y los ponderó con la misma rúbrica: <b>entran 9</b> —el análisis post '
+ 'hoc de PREMIUM (<i>J Am Coll Cardiol</i>), el ensayo Multivessel TALENT y los estudios PARADIGM y VERITAS '
+ '(<i>JACC Cardiovasc Interv</i>), el CT-μFR (<i>EuroIntervention</i>) y cuatro originales de <i>Atherosclerosis</i>'
+ '— y desplazan del top 5 de su sección a cuatro artículos que había elegido la nube. Los otros 8 se puntuaron y '
+ 'quedaron fuera del top 5. Quedan fuera sin ponderar: el «Research Summary» de <i>JAMA</i> '
+ '(10.1001/jama.2026.19090), que es el resumen del mismo ensayo que a43, y dos artículos de <i>J Am Coll Cardiol</i> '
+ '—el ensayo LIPSIA-STRATEGY (10.1016/j.jacc.2026.10.064) y «Moderate Aortic Stenosis with At-Risk Features» '
+ '(10.1016/j.jacc.2026.10.069)— porque ni jacc.org ni ScienceDirect servían todavía su resumen (regla del resumen). '
+ 'El resumen del ensayo P4 tampoco es accesible (nejm.org bloquea el acceso automatizado), así que su ficha sigue '
+ 'sin cifras. '
+ '<b>Secciones cortas, sin relleno:</b> Miocardiopatías se queda con 3 fichas e Imagen cardíaca con 4.</p>')
 head = re.sub(r'<p class="intro" style="margin-top:10px;"><b>Nota sobre (?:el bloque|la selección).*?</p>', lambda _m: NOTA_TOP3, head, count=1, flags=re.S)
 head = re.sub(r'da <b>\d+ seleccionados</b> esta semana', f'da <b>{nsel} seleccionados</b> esta semana', head)
 head = re.sub(r'<div class="box">.*?</div>', lambda _m: '<div class="box">' + box_html + '</div>', head, count=1, flags=re.S)
@@ -202,7 +187,7 @@ head = re.sub(r'En las guías/consensos y los documentos sin resultado cuantitat
 head = head.replace(
   "Auditoría completa de la búsqueda semanal en PubMed",
   "Auditoría completa de la búsqueda semanal en PubMed, ampliada con los artículos que el editor "
-  "publicó en la ventana y PubMed no había indexado, recuperados por Crossref (auditoría de cobertura, PASO 1b). Esta semana la auditoría de cobertura localizó 20 artículos elegibles —casi todos late-breakers del congreso TCT 2026— que el editor publicó dentro de la ventana y PubMed aún no había indexado; de ellos solo se ha podido incorporar el ensayo P4 de N Engl J Med, de inclusión obligatoria, porque la red del entorno de generación no alcanza a los editores y ninguno de los demás tiene abstract disponible todavía. Quedan documentados y pendientes de incorporación")
+  "publicó en la ventana y PubMed no había indexado, recuperados por Crossref (auditoría de cobertura, PASO 1b). Esta semana la auditoría de cobertura localizó 20 artículos elegibles —casi todos late-breakers del congreso TCT 2026— que el editor publicó dentro de la ventana y PubMed aún no había indexado; la nube incorporó el ensayo P4 de N Engl J Med, de inclusión obligatoria, y el Mac recuperó después el resumen de 17 más en la web del editor e incorporó al número los 9 que entran en el top 5 de su sección")
 try:
     _fix = json.load(open(GEN + "/n21_linkfix.json"))
     NO_DOI = {s["pmid"] for s in sel.values() if s["key"] in _fix}

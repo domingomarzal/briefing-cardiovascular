@@ -1,5 +1,5 @@
 {
- "a19": {
+ "a22": {
   "title_en": "Evaluation of an Echocardiography-Based Artificial Intelligence Algorithm for Early HFpEF Detection: A HeartShare/AMP-HF Cohort Study",
   "title_es": "Evaluación de un algoritmo de inteligencia artificial basado en ecocardiografía para la detección precoz de la IC con FE preservada: estudio de cohortes HeartShare/AMP-HF",
   "es": {
@@ -17,7 +17,7 @@
    "conclusiones": "AI-HFpEF identified the early HFpEF phenotype in community-dwelling adults and independently predicted incident clinical HFpEF among patients in a health system."
   }
  },
- "a20": {
+ "a23": {
   "title_en": "Systemic Hypertension and Survival in Pulmonary Hypertension (GoDeep)",
   "title_es": "Hipertensión arterial sistémica y supervivencia en la hipertensión pulmonar (GoDeep)",
   "es": {
@@ -35,7 +35,7 @@
    "conclusiones": "In this global pulmonary hypertension cohort, higher systolic systemic arterial pressure was associated with enhanced survival, while a higher baseline heart rate and declining systemic blood pressure during follow-up were significantly associated with increased mortality risk."
   }
  },
- "a21": {
+ "a24": {
   "title_en": "Effect of Activin Type II Receptor Signaling in Patients With HFpEF and Pulmonary Hypertension: A Critical Analysis of Biological Mechanisms and Clinical Trials",
   "title_es": "Efecto de la señalización del receptor de activina de tipo II en pacientes con IC con FE preservada e hipertensión pulmonar: análisis crítico de los mecanismos biológicos y de los ensayos clínicos",
   "es": {
@@ -53,7 +53,7 @@
    "conclusiones": "The mechanisms of combined postcapillary and precapillary pulmonary hypertension associated with HFpEF differ from those of pulmonary arterial hypertension, with a central role for pulmonary venous and left atrial dysfunction. Activin A derived from epicardial adipose tissue, signaling through the activin type II receptor, promotes pulmonary vein and left atrial remodeling and fibrosis, and its blockade with sotatercept decreased pulmonary artery wedge pressure and left atrial volume index in the CADENCE trial through mechanisms not attributable to pulmonary vascular resistance; its effect on disease progression is being tested in a phase III trial."
   }
  },
- "a22": {
+ "a25": {
   "title_en": "Intersection of Patient and Hospital Rurality in Heart Failure Care and Outcomes",
   "title_es": "Intersección de la ruralidad del paciente y del hospital en la atención y los resultados de la insuficiencia cardíaca",
   "es": {
@@ -71,7 +71,7 @@
    "conclusiones": "Results suggest that hospital rurality was associated with lower odds of guideline-directed medical therapy use and higher rates of all-cause mortality, whereas rural residence was associated with mortality differences despite treatment in urban hospitals. Interventions addressing both inpatient resource disparities and postdischarge transitions of care may reduce rural-urban inequities in heart failure outcomes."
   }
  },
- "a23": {
+ "a26": {
   "title_en": "Outcomes of Hypoplastic Left Heart Syndrome by Subtype and Presence of Ventriculocoronary Connections: A Fetal Heart Society Multicenter Retrospective Study",
   "title_es": "Resultados del síndrome del corazón izquierdo hipoplásico según el subtipo y la presencia de conexiones ventriculocoronarias: estudio multicéntrico retrospectivo de la Fetal Heart Society",
   "es": {
@@ -89,7 +89,7 @@
    "conclusiones": "In a large, multicenter cohort of patients with hypoplastic left heart syndrome, the mitral stenosis/aortic atresia subtype with ventriculocoronary connections had the lowest transplant-free survival. Prenatal diagnosis of ventriculocoronary connections was associated with lower transplant-free survival. This study underscores the prognostic value of assessing for ventriculocoronary connections in patients with hypoplastic left heart syndrome both before and after birth."
   }
  },
- "a24": {
+ "a27": {
   "title_en": "Genotype, Phenotypic Severity, and Survival in Pediatric Dilated Cardiomyopathy: A Report From the Pediatric Cardiomyopathy Registry",
   "title_es": "Genotipo, gravedad fenotípica y supervivencia en la miocardiopatía dilatada pediátrica: informe del Pediatric Cardiomyopathy Registry",
   "es": {
@@ -107,7 +107,7 @@
    "conclusiones": "A genetic cause was detected in a minority of children and was not associated with the phenotypic severity of dilated cardiomyopathy at diagnosis. Echocardiographic normalization of left ventricular function over time was noted more frequently in patients who did not have an identified pathogenic or likely pathogenic variant."
   }
  },
- "a25": {
+ "a28": {
   "title_en": "Diastolic Dysfunction in Congenital Heart Disease: A Pressure-Volume Loop Analysis of Borderline Left Heart",
   "title_es": "Disfunción diastólica en la cardiopatía congénita: análisis de las curvas presión-volumen en el ventrículo izquierdo borderline",
   "es": {
@@ -125,7 +125,7 @@
    "conclusiones": "The primary mechanism of diastolic dysfunction in borderline left ventricle is increased passive ventricular stiffness, while no differences were detected in active relaxation. These findings suggest a limited role for lusitropic medications, and therapeutic strategies focused on mitigating ventricular stiffness (such as surgical endocardial fibroelastosis resection) may be more valuable."
   }
  },
- "a26": {
+ "a40": {
   "title_en": "Transcatheter Aortic Valve Replacement in Pure Aortic Regurgitation: The Randomized SEASON-AR Clinical Trial",
   "title_es": "Implante percutáneo de válvula aórtica en la insuficiencia aórtica pura: ensayo clínico aleatorizado SEASON-AR",
   "es": {
@@ -143,7 +143,7 @@
    "conclusiones": "Among patients with severe pure aortic regurgitation, TAVR plus guideline-directed medical therapy significantly reduced the rate of all-cause death, disabling stroke or heart failure rehospitalization at 1 year compared with guideline-directed medical therapy alone, despite higher 30-day rates of major or life-threatening bleeding and new permanent pacemaker implantation."
   }
  },
- "a27": {
+ "a30": {
   "title_en": "Periprocedural Pulmonary Hypertension and Outcomes After Mitral Valve Transcatheter Edge-to-Edge Repair (OCEAN-Mitral)",
   "title_es": "Hipertensión pulmonar periprocedimiento y resultados tras la reparación mitral transcatéter borde a borde (OCEAN-Mitral)",
   "es": {

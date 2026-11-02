@@ -194,14 +194,14 @@
   "title_es": "Agonistas del receptor del péptido similar al glucagón tipo 1 en la insuficiencia cardiaca con fracción de eyección preservada asociada a obesidad (PRAISE-HFpEF)",
   "es": {
    "resumen": "Cohorte nacional de veteranos estadounidenses con diabetes tipo 2, obesidad e insuficiencia cardiaca con fracción de eyección preservada (IC-FEp) que compara el inicio de un agonista del receptor de GLP-1 (arGLP-1) frente a inhibidores de DPP4 o sulfonilureas. Con una mediana de seguimiento de 1,5 años, el arGLP-1 se asoció a menor riesgo de muerte por cualquier causa u hospitalización por insuficiencia cardiaca (HR ajustado 0,78; IC95% 0,64-0,95; p = 0,01).",
-   "why": "en la IC-FEp asociada a obesidad la evidencia aleatorizada con arGLP-1 se ha centrado hasta ahora en la capacidad funcional y los síntomas, no en desenlaces duros, y los ensayos no estaban diseñados ni dimensionados para mortalidad u hospitalizaciones. Este estudio aporta una señal en esa dirección en un escenario de práctica real y con un comparador activo clínicamente pertinente —los antidiabéticos orales que de hecho se usan como alternativa—, con un diseño de nuevo usuario que reduce el sesgo del usuario prevalente. Interesa también que la pérdida de peso fue solo modestamente mayor con arGLP-1 (−12,9% frente a −10,1%), lo que sugiere que el beneficio observado no se explica únicamente por el peso. Pero es un estudio observacional: la asociación no establece causalidad y, aunque se usó ponderación por probabilidad inversa de tratamiento, puede persistir confusión residual, en particular por indicación. La muestra final es pequeña en relación con la población de partida (1 820 pacientes de 179 288 identificados), el seguimiento es corto y la cohorte del sistema de veteranos es predominantemente masculina, lo que limita la extrapolación a una población con IC-FEp donde las mujeres son mayoría.",
+   "why": "en la IC-FEp asociada a obesidad la evidencia aleatorizada con arGLP-1 se ha centrado hasta ahora en la capacidad funcional y los síntomas, no en desenlaces duros, y los ensayos no estaban diseñados ni dimensionados para mortalidad u hospitalizaciones. Este estudio aporta una señal en esa dirección en un escenario de práctica real y con un comparador activo clínicamente pertinente —los antidiabéticos orales que de hecho se usan como alternativa—, con un diseño de nuevo usuario que reduce el sesgo del usuario prevalente. Interesa también que la pérdida de peso fue solo modestamente mayor con arGLP-1 (−12,9% frente a −10,1%), lo que sugiere que el beneficio observado no se explica únicamente por el peso. Pero es un estudio observacional: la asociación no establece causalidad y, aunque se usó ponderación por probabilidad inversa de tratamiento, puede persistir confusión residual, en particular por indicación. La muestra final es pequeña en relación con la población de partida (1 024 y 796 pacientes de los 179 288 identificados), el seguimiento es corto y la cohorte del sistema de veteranos es predominantemente masculina, lo que limita la extrapolación a una población con IC-FEp donde las mujeres son mayoría.",
    "deque": "La IC-FEp asociada a obesidad y diabetes tipo 2 es un fenotipo cada vez más prevalente y con pocas opciones de tratamiento modificadoras del pronóstico. El objetivo fue evaluar si los arGLP-1, comparados con inhibidores de DPP4 o sulfonilureas, se asocian a menor mortalidad por cualquier causa u hospitalización por insuficiencia cardiaca en pacientes con obesidad, diabetes tipo 2 e IC-FEp. PRAISE-HFpEF fue un estudio de cohorte nacional y multicéntrico con diseño de nuevo usuario y comparador activo dentro del sistema de salud de veteranos de Estados Unidos (170 hospitales). A partir de las historias clínicas electrónicas centralizadas se identificaron adultos con diabetes tipo 2 entre el 1 de enero de 2000 y el 31 de diciembre de 2021, y se seleccionaron los pacientes con IC-FEp e índice de masa corporal ≥30 kg/m2 mediante un algoritmo diagnóstico validado. La exposición fue el inicio de un arGLP-1 frente a un inhibidor de DPP4 o una sulfonilurea entre el 1 de enero de 2015 y el 31 de diciembre de 2021. El objetivo primario fue el tiempo hasta la muerte por cualquier causa o la hospitalización por insuficiencia cardiaca. Para equilibrar las características basales se utilizó la ponderación por probabilidad inversa de tratamiento basada en la puntuación de propensión.",
    "resultados": "De 179 288 pacientes con diabetes tipo 2, obesidad e IC-FEp, cumplieron los criterios de inclusión 1 024 usuarios de arGLP-1 y 796 usuarios de inhibidores de DPP4 o sulfonilureas. Con una mediana de seguimiento de 1,5 años, el uso de arGLP-1 se asoció a menor riesgo del objetivo primario (HR ajustado 0,78; IC95% 0,64-0,95; p = 0,01). La pérdida de peso fue modestamente mayor con arGLP-1 que con inhibidores de DPP4 o sulfonilureas (−12,9% frente a −10,1%).",
    "conclusiones": "En pacientes con IC-FEp asociada a obesidad y diabetes tipo 2, el inicio de un arGLP-1 se asoció a una menor incidencia de muerte u hospitalización por insuficiencia cardiaca en comparación con otros antidiabéticos orales."
   },
   "en": {
    "resumen": "Nationwide US veteran cohort of patients with type 2 diabetes, obesity and heart failure with preserved ejection fraction (HFpEF) comparing initiation of a GLP-1 receptor agonist (GLP-1RA) with DPP4 inhibitors or sulfonylureas. Over a median follow-up of 1.5 years, GLP-1RA use was associated with a lower risk of all-cause death or heart failure hospitalization (adjusted HR 0.78; 95% CI 0.64-0.95; P = 0.01).",
-   "why": "in obesity-related HFpEF the randomized evidence on GLP-1RAs has so far focused on functional capacity and symptoms rather than hard outcomes, and the trials were neither designed nor powered for mortality or hospitalizations. This study provides a signal in that direction in a real-world setting and with a clinically relevant active comparator — the oral antidiabetic drugs actually used as the alternative — using a new-user design that reduces prevalent-user bias. It is also of interest that weight loss was only modestly greater with GLP-1RAs (−12.9% versus −10.1%), suggesting the observed benefit is not explained by weight alone. But this is an observational study: the association does not establish causality and, although inverse probability of treatment weighting was used, residual confounding may persist, particularly confounding by indication. The final sample is small relative to the source population (1,820 patients out of 179,288 identified), follow-up is short, and the Veterans Affairs cohort is predominantly male, which limits extrapolation to an HFpEF population in which women are the majority.",
+   "why": "in obesity-related HFpEF the randomized evidence on GLP-1RAs has so far focused on functional capacity and symptoms rather than hard outcomes, and the trials were neither designed nor powered for mortality or hospitalizations. This study provides a signal in that direction in a real-world setting and with a clinically relevant active comparator — the oral antidiabetic drugs actually used as the alternative — using a new-user design that reduces prevalent-user bias. It is also of interest that weight loss was only modestly greater with GLP-1RAs (−12.9% versus −10.1%), suggesting the observed benefit is not explained by weight alone. But this is an observational study: the association does not establish causality and, although inverse probability of treatment weighting was used, residual confounding may persist, particularly confounding by indication. The final sample is small relative to the source population (1,024 and 796 patients out of the 179,288 identified), follow-up is short, and the Veterans Affairs cohort is predominantly male, which limits extrapolation to an HFpEF population in which women are the majority.",
    "deque": "HFpEF associated with obesity and type 2 diabetes is an increasingly prevalent phenotype with few prognosis-modifying treatment options. The objective was to evaluate whether GLP-1RAs, compared with DPP4 inhibitors or sulfonylureas, are associated with reduced all-cause mortality or heart failure hospitalizations in patients with obesity, type 2 diabetes and HFpEF. PRAISE-HFpEF was a nationwide multicenter cohort study using a new-user, active-comparator design within the US Veterans Affairs Health System (170 hospitals). Adults with type 2 diabetes between January 1, 2000 and December 31, 2021 were identified from centralized electronic health records, and patients with HFpEF and a body mass index ≥30 kg/m2 were selected using a validated diagnostic algorithm. The exposure was initiation of a GLP-1RA versus a DPP4 inhibitor or sulfonylurea from January 1, 2015 to December 31, 2021. The primary outcome was time to all-cause mortality or heart failure hospitalization. Inverse probability of treatment weighting based on the propensity score was used to balance baseline characteristics.",
    "resultados": "Among 179,288 patients with type 2 diabetes, obesity and HFpEF, 1,024 GLP-1RA users and 796 DPP4 inhibitor/sulfonylurea users met the inclusion criteria. Over a median follow-up of 1.5 years, GLP-1RA use was associated with a lower risk of the primary outcome (adjusted hazard ratio 0.78; 95% CI 0.64-0.95; P = 0.01). Weight loss was modestly greater with GLP-1RAs than with DPP4 inhibitors or sulfonylureas (−12.9% versus −10.1%).",
    "conclusiones": "Among patients with obese HFpEF and type 2 diabetes, GLP-1RA initiation was associated with a lower incidence of death or heart failure hospitalization compared with alternative oral agents."
@@ -244,14 +244,14 @@
   "title_es": "Impacto de la obesidad en la seguridad del procedimiento y en los resultados a 1 año tras la ablación por campo pulsado en la fibrilación auricular (FRANCE-PFA)",
   "es": {
    "resumen": "Registro nacional francés de 5 223 pacientes sometidos a una primera ablación de fibrilación auricular (FA) con catéter pentaspline de campo pulsado (PFA), con índice de masa corporal (IMC) disponible en 4 573 (87,6%). Un IMC más alto identificó un fenotipo de FA más avanzado y estrategias de ablación más extensas, pero no se asoció de forma independiente a complicaciones periprocedimiento (1,0% en total, sin diferencias) ni a recurrencia arrítmica al año (obesidad grave: HR 0,86; IC95% 0,65-1,14; p = 0,299).",
-   "why": "la obesidad se ha considerado un factor que empeora tanto el resultado como la seguridad de la ablación de FA, en parte por el remodelado auricular y en parte por las dificultades técnicas con la ablación térmica. Este registro aporta datos específicos para la ablación por campo pulsado, una técnica cuyo perfil de seguridad podría comportarse de forma distinta en el paciente obeso, y el mensaje es tranquilizador: el IMC no se asoció de forma independiente ni a complicaciones ni a recurrencia, y lo que determinó la recurrencia fue el tipo de FA. Es un hallazgo relevante para la selección de candidatos, porque sugiere que un IMC elevado no debería por sí mismo excluir a un paciente de la PFA. Conviene matizarlo: es un registro observacional, no aleatorizado, con la confusión residual propia del diseño; los pacientes con IMC más alto tenían más carga cardiometabólica, aurículas mayores y más FA persistente, y recibieron ablaciones más extensas, de modo que la ausencia de diferencias puede reflejar en parte una estrategia más agresiva. El IMC faltaba en el 12,4% de la cohorte, el seguimiento es de solo un año y la monitorización de la recurrencia en un registro nacional es necesariamente heterogénea.",
+   "why": "la obesidad se ha considerado un factor que empeora tanto el resultado como la seguridad de la ablación de FA, en parte por el remodelado auricular y en parte por las dificultades técnicas con la ablación térmica. Este registro aporta datos específicos para la ablación por campo pulsado, una técnica cuyo perfil de seguridad podría comportarse de forma distinta en el paciente obeso, y el mensaje es tranquilizador: el IMC no se asoció de forma independiente ni a complicaciones ni a recurrencia, y lo que determinó la recurrencia fue el tipo de FA. Es un hallazgo relevante para la selección de candidatos, porque sugiere que un IMC elevado no debería por sí mismo excluir a un paciente de la PFA. Conviene matizarlo: es un registro observacional, no aleatorizado, con la confusión residual propia del diseño; los pacientes con IMC más alto tenían más carga cardiometabólica, aurículas mayores y más FA persistente, y recibieron ablaciones más extensas, de modo que la ausencia de diferencias puede reflejar en parte una estrategia más agresiva. El IMC solo estaba disponible en el 87,6% de la cohorte, el seguimiento es de solo un año y la monitorización de la recurrencia en un registro nacional es necesariamente heterogénea.",
    "deque": "La obesidad se asocia a fibrilación auricular, a remodelado auricular y a comorbilidades cardiometabólicas, pero no estaba claro si el IMC basal influye en la seguridad y la efectividad del procedimiento de ablación por campo pulsado. Los autores evaluaron la asociación del IMC basal con las características del procedimiento, la seguridad periprocedimiento y la recurrencia arrítmica al año tras una primera PFA por FA. FRANCE-PFA es un registro nacional que incluye pacientes consecutivos sometidos a una primera ablación de FA con catéter pentaspline de campo pulsado. Los pacientes con IMC disponible se clasificaron en cuatro categorías: <25, 25 a <30, 30 a <35 y ≥35 kg/m2. Se analizaron las complicaciones periprocedimiento y la recurrencia de arritmia auricular al año en las distintas categorías de IMC.",
    "resultados": "De 5 223 pacientes, el IMC estaba disponible en 4 573 (87,6%). Un IMC más alto se asoció a mayor carga cardiometabólica, más FA persistente, aurículas más grandes y estrategias de ablación más extensas, con menos procedimientos limitados al aislamiento de venas pulmonares y más lesiones adicionales (todas las comparaciones p < 0,001). Las complicaciones periprocedimiento fueron infrecuentes (1,0%), sin diferencias significativas entre categorías de IMC. Al año, la recurrencia estuvo determinada principalmente por el tipo de FA y no por la obesidad: dentro de la FA paroxística y de la no paroxística, las tasas de recurrencia fueron comparables entre los pacientes con IMC <35 y ≥35 kg/m2 (13,8% frente a 9,1% y 22,9% frente a 23,3%, respectivamente; log-rank p = 0,925). La obesidad grave no se asoció a recurrencia tras ajuste multivariable (HR 0,86; IC95% 0,65-1,14; p = 0,299), con resultados similares al analizar el IMC de forma continua.",
    "conclusiones": "En esta cohorte nacional de ablación por campo pulsado, un IMC más alto identificó un fenotipo de fibrilación auricular más avanzado y estrategias de ablación más extensas, pero no se asoció de forma independiente a complicaciones periprocedimiento ni a recurrencia arrítmica al año."
   },
   "en": {
    "resumen": "French nationwide registry of 5,223 patients undergoing first-time atrial fibrillation (AF) ablation with a pentaspline pulsed-field ablation (PFA) catheter, with body mass index (BMI) available in 4,573 (87.6%). Higher BMI identified a more advanced AF phenotype and more extensive ablation strategies, but was not independently associated with periprocedural complications (1.0% overall, with no differences) or with 1-year arrhythmia recurrence (severe obesity: HR 0.86; 95% CI 0.65-1.14; P = 0.299).",
-   "why": "obesity has been regarded as a factor that worsens both the outcome and the safety of AF ablation, partly because of atrial remodelling and partly because of the technical difficulties of thermal ablation. This registry provides data specific to pulsed-field ablation, a technique whose safety profile might behave differently in the obese patient, and the message is reassuring: BMI was not independently associated with either complications or recurrence, and what determined recurrence was AF type. This is relevant to candidate selection, because it suggests that a high BMI should not by itself exclude a patient from PFA. It needs qualifying: this is an observational, non-randomized registry with the residual confounding inherent to the design; patients with higher BMI had greater cardiometabolic burden, larger atria and more persistent AF, and received more extensive ablation, so the absence of differences may partly reflect a more aggressive strategy. BMI was missing in 12.4% of the cohort, follow-up is only one year, and recurrence monitoring in a nationwide registry is necessarily heterogeneous.",
+   "why": "obesity has been regarded as a factor that worsens both the outcome and the safety of AF ablation, partly because of atrial remodelling and partly because of the technical difficulties of thermal ablation. This registry provides data specific to pulsed-field ablation, a technique whose safety profile might behave differently in the obese patient, and the message is reassuring: BMI was not independently associated with either complications or recurrence, and what determined recurrence was AF type. This is relevant to candidate selection, because it suggests that a high BMI should not by itself exclude a patient from PFA. It needs qualifying: this is an observational, non-randomized registry with the residual confounding inherent to the design; patients with higher BMI had greater cardiometabolic burden, larger atria and more persistent AF, and received more extensive ablation, so the absence of differences may partly reflect a more aggressive strategy. BMI was available in only 87.6% of the cohort, follow-up is only one year, and recurrence monitoring in a nationwide registry is necessarily heterogeneous.",
    "deque": "Obesity is associated with atrial fibrillation, atrial remodelling and cardiometabolic comorbidities, but whether baseline BMI influences the procedural safety and effectiveness of pulsed-field ablation remained uncertain. The authors evaluated the association of baseline BMI with procedural characteristics, periprocedural safety and 1-year arrhythmia recurrence after first-time PFA for AF. FRANCE-PFA is a nationwide registry including consecutive patients undergoing first-time AF ablation with a pentaspline PFA catheter. Patients with available BMI were categorized into four groups: <25, 25 to <30, 30 to <35, or ≥35 kg/m2. Periprocedural complications and 1-year atrial arrhythmia recurrence were assessed across BMI categories.",
    "resultados": "Among 5,223 patients, BMI was available in 4,573 (87.6%). Higher BMI was associated with greater cardiometabolic burden, more persistent AF, larger atria and more extensive ablation strategies, including fewer pulmonary vein isolation-only procedures and more additional lesion sets (all P < 0.001). Periprocedural complications remained infrequent (1.0%), with no significant difference across BMI categories. At 1 year, recurrence was driven mainly by AF type rather than obesity: within paroxysmal and non-paroxysmal AF, recurrence rates were comparable between patients with BMI <35 and ≥35 kg/m2 (13.8% vs. 9.1% and 22.9% vs. 23.3%, respectively; log-rank P = 0.925). Severe obesity was not associated with recurrence after multivariable adjustment (HR 0.86; 95% CI 0.65-1.14; P = 0.299), with similar findings when BMI was analysed continuously.",
    "conclusiones": "In this nationwide PFA cohort, higher BMI identified a more advanced AF phenotype and more extensive ablation strategies but was not independently associated with periprocedural complications or 1-year arrhythmia recurrence."
@@ -330,6 +330,31 @@
  "a11": {
   "key": "a11",
   "sec": 3,
+  "ptype": "Estudio de cohorte",
+  "journal": "Atherosclerosis",
+  "doi": "10.1016/j.atherosclerosis.2026.121944",
+  "total": 5.82,
+  "prio": "Relevante",
+  "title_en": "Atherosclerotic events and acute pancreatitis incidence across the full range of plasma triglycerides in four large cohorts",
+  "title_es": "Incidencia de eventos ateroscleróticos y de pancreatitis aguda en todo el rango de triglicéridos plasmáticos en cuatro grandes cohortes",
+  "es": {
+   "resumen": "En cinco poblaciones danesas y británicas (más de 4 millones de personas en total), la incidencia de enfermedad cardiovascular aterosclerótica superó a la de pancreatitis aguda en todos los niveles de triglicéridos hasta 30 mmol/L (2.657 mg/dL); solo a partir de 50 mmol/L (4.429 mg/dL) la pancreatitis fue nominalmente más frecuente.",
+   "why": "la hipertrigliceridemia se suele tratar pensando en la pancreatitis, y solo en los valores extremos se prioriza su prevención. Este trabajo cuantifica, con cohortes poblacionales enormes y seguimientos de hasta 24 años, que en casi todo el rango de triglicéridos el riesgo dominante en términos absolutos es el aterosclerótico. Refuerza que la hipertrigliceridemia moderada y grave es ante todo un marcador de riesgo cardiovascular que obliga a revisar el control global de lípidos. Es un análisis observacional de incidencias ajustadas solo por edad, que no aborda causalidad ni efecto de tratamientos.",
+   "deque": "Se puso a prueba la hipótesis de que, en la mayoría de los niveles de triglicéridos, la incidencia de enfermedad cardiovascular aterosclerótica (ECVA) es mayor que la de pancreatitis aguda. Se analizaron el Copenhagen City Heart Study 1976-78 (n=14.292; mediana de seguimiento 24 años) y 1991-94 (n=10.093; 20 años), el Copenhagen General Population Study 2003-15 (n=107.297; 13 años), el UK Biobank 2006-10 (n=468.964; 14 años) y la población nacional de Dinamarca 2008-21 (n=3.415.915; 6 años).",
+   "resultados": "La incidencia de ECVA fue estadísticamente mayor que la de pancreatitis aguda en cualquier nivel de triglicéridos hasta 30 mmol/L (2.657 mg/dL) en todas las cohortes; en la población nacional danesa, la pancreatitis fue nominalmente más frecuente que la ECVA con triglicéridos ≥50 mmol/L (4.429 mg/dL). Tasas de incidencia ajustadas por edad por 1.000 personas-año y por cada 1 mmol/L (89 mg/dL) más de triglicéridos, ECVA frente a pancreatitis. Mujeres: CCHS 1976-78 1,8 (IC95% 1,2-2,3) frente a 0,1 (0,02-0,2); CCHS 1991-94 1,9 (1,2-2,5) frente a 0,1 (0,01-0,2); CGPS 0,9 (0,7-1,0) frente a 0,1 (0,1-0,1); UK Biobank 0,6 (0,6-0,7) frente a 0,2 (0,2-0,2); Dinamarca 0,4 (0,4-0,5) frente a 0,05 (0,04-0,05). Hombres: 1,5 (1,0-2,0) frente a 0,1 (0,1-0,1); 0,9 (0,5-1,3) frente a 0,04 (0-0,1); 1,1 (0,9-1,3) frente a 0,04 (0-0,08); 1,1 (1,0-1,2) frente a 0,1 (0,1-0,1); y 0,6 (0,5-0,6) frente a 0,05 (0,05-0,06), respectivamente.",
+   "conclusiones": "La incidencia de ECVA fue estadísticamente mayor que la de pancreatitis aguda hasta triglicéridos de 30 mmol/L (2.657 mg/dL), mientras que la pancreatitis aguda fue nominalmente más frecuente que la ECVA a partir de 50 mmol/L (4.429 mg/dL)."
+  },
+  "en": {
+   "resumen": "Across five Danish and UK populations (more than 4 million people in total), the incidence of atherosclerotic cardiovascular disease exceeded that of acute pancreatitis at every triglyceride level up to 30 mmol/L (2,657 mg/dL); only from 50 mmol/L (4,429 mg/dL) was pancreatitis nominally more frequent.",
+   "why": "hypertriglyceridaemia is often managed with pancreatitis in mind, and prevention of pancreatitis takes priority only at extreme values. Using very large population cohorts with follow-up of up to 24 years, this work quantifies that across almost the whole triglyceride range the dominant absolute risk is atherosclerotic. It reinforces that moderate and severe hypertriglyceridaemia is above all a marker of cardiovascular risk that calls for a review of overall lipid control. It is an observational analysis of age-adjusted incidence rates that does not address causality or treatment effects.",
+   "deque": "The study tested the hypothesis that at most triglyceride levels the incidence of atherosclerotic cardiovascular disease (ASCVD) is higher than that of acute pancreatitis. It analysed the Copenhagen City Heart Study 1976-78 (n=14,292; median follow-up 24 years) and 1991-94 (n=10,093; 20 years), the Copenhagen General Population Study 2003-15 (n=107,297; 13 years), the UK Biobank 2006-10 (n=468,964; 14 years) and the nationwide Danish population 2008-21 (n=3,415,915; 6 years).",
+   "resultados": "ASCVD incidence was statistically higher than acute pancreatitis incidence at any triglyceride level up to 30 mmol/L (2,657 mg/dL) in all cohorts; nationwide in Denmark, pancreatitis was nominally more frequent than ASCVD at triglycerides ≥50 mmol/L (4,429 mg/dL). Age-adjusted incidence rates per 1,000 person-years per 1 mmol/L (89 mg/dL) higher triglycerides, ASCVD versus pancreatitis. Women: CCHS 1976-78 1.8 (95% CI 1.2-2.3) versus 0.1 (0.02-0.2); CCHS 1991-94 1.9 (1.2-2.5) versus 0.1 (0.01-0.2); CGPS 0.9 (0.7-1.0) versus 0.1 (0.1-0.1); UK Biobank 0.6 (0.6-0.7) versus 0.2 (0.2-0.2); Denmark 0.4 (0.4-0.5) versus 0.05 (0.04-0.05). Men: 1.5 (1.0-2.0) versus 0.1 (0.1-0.1); 0.9 (0.5-1.3) versus 0.04 (0-0.1); 1.1 (0.9-1.3) versus 0.04 (0-0.08); 1.1 (1.0-1.2) versus 0.1 (0.1-0.1); and 0.6 (0.5-0.6) versus 0.05 (0.05-0.06), respectively.",
+   "conclusiones": "The incidence of ASCVD was statistically higher than that of acute pancreatitis up to triglycerides of 30 mmol/L (2,657 mg/dL), while acute pancreatitis was nominally higher than ASCVD at 50 mmol/L (4,429 mg/dL) or higher."
+  }
+ },
+ "a12": {
+  "key": "a12",
+  "sec": 3,
   "ptype": "Análisis secundario de ensayo clínico",
   "journal": "JAMA Cardiol",
   "doi": "10.1001/jamacardio.2026.4788",
@@ -352,8 +377,58 @@
    "conclusiones": "This secondary analysis of the FLOWPROMOTE randomized clinical trial demonstrated that in statin-naive patients with coronary artery disease, more intensive lipid-lowering therapy was associated with significantly greater regression of total and noncalcified coronary plaque burden compared with intensive therapy. The extent of plaque regression was related to achieved LDL-C levels, supporting the potential for partial reversal of coronary atherosclerosis with intensive lipid reduction."
   }
  },
- "a12": {
-  "key": "a12",
+ "a13": {
+  "key": "a13",
+  "sec": 3,
+  "ptype": "Estudio de cohorte",
+  "journal": "Atherosclerosis",
+  "doi": "10.1016/j.atherosclerosis.2026.121947",
+  "total": 5.42,
+  "prio": "Relevante",
+  "title_en": "Elevated remnant cholesterol and risk of heart failure in the general population",
+  "title_es": "Colesterol remanente elevado y riesgo de insuficiencia cardiaca en la población general",
+  "es": {
+   "resumen": "En 108.500 participantes del Copenhagen General Population Study y 428.922 del UK Biobank, cifras escalonadamente más altas de colesterol remanente se asociaron a un riesgo escalonadamente mayor de insuficiencia cardiaca, con y sin estatinas (HR 1,40 y 1,61 para ≥1,5 frente a <0,5 mmol/L sin estatinas).",
+   "why": "el colesterol remanente es un factor causal de enfermedad aterosclerótica, pero su relación con la insuficiencia cardiaca estaba mucho menos estudiada. Este trabajo la describe de forma consistente en dos grandes cohortes poblacionales independientes y, sobre todo, también en personas que ya reciben estatinas, es decir, como riesgo residual que el tratamiento habitual no corrige. Suma argumentos para mirar más allá del LDL en el perfil lipídico. Es observacional: no demuestra que reducir el colesterol remanente prevenga la insuficiencia cardiaca, y los diagnósticos proceden de registros administrativos.",
+   "deque": "El colesterol remanente elevado es un factor de riesgo causal de enfermedad cardiovascular aterosclerótica. Se puso a prueba la hipótesis de que cifras altas se asocian observacionalmente a mayor riesgo de insuficiencia cardiaca en la población general, con y sin tratamiento con estatinas. Se incluyeron 108.500 personas del Copenhagen General Population Study (CGPS) y 428.922 del UK Biobank sin insuficiencia cardiaca basal, cohortes de población adulta danesa y británica iniciadas en 2003-2015 y 2006-2010. Los diagnósticos de insuficiencia cardiaca se obtuvieron de los registros nacionales.",
+   "resultados": "Con medianas de seguimiento de 9,2 y 13,7 años, desarrollaron insuficiencia cardiaca 5.321 (4,9%) y 21.428 (4,3%) personas. Con y sin estatinas, y en ambas cohortes, niveles escalonadamente más altos de colesterol remanente se asociaron a riesgo escalonadamente mayor. Sin estatinas, colesterol remanente ≥1,5 mmol/L (≥59 mg/dL) frente a <0,5 mmol/L (<19 mg/dL): HR ajustado 1,40 (IC95% 1,19-1,63) en el CGPS y 1,61 (1,38-1,89) en el UK Biobank. Con estatinas: 1,63 (1,29-2,07) y 1,60 (1,24-2,07), respectivamente.",
+   "conclusiones": "En 108.500 y 428.922 personas de la población general de Dinamarca y del Reino Unido, niveles escalonadamente más altos de colesterol remanente se asociaron a un riesgo escalonadamente mayor de insuficiencia cardiaca, con y sin tratamiento con estatinas."
+  },
+  "en": {
+   "resumen": "Among 108,500 participants in the Copenhagen General Population Study and 428,922 in the UK Biobank, stepwise higher remnant cholesterol was associated with stepwise higher risk of heart failure, with and without statins (HR 1.40 and 1.61 for ≥1.5 versus <0.5 mmol/L without statins).",
+   "why": "remnant cholesterol is a causal factor for atherosclerotic disease, but its relationship with heart failure had been much less studied. This work describes it consistently in two large, independent population cohorts and, importantly, also in people already taking statins, that is, as residual risk that usual treatment does not correct. It adds to the case for looking beyond LDL in the lipid profile. It is observational: it does not show that lowering remnant cholesterol prevents heart failure, and the diagnoses come from administrative registries.",
+   "deque": "Elevated remnant cholesterol is a causal risk factor for atherosclerotic cardiovascular disease. The study tested the hypothesis that high levels are observationally associated with increased risk of heart failure in the general population, with and without statin therapy. It included 108,500 individuals from the Copenhagen General Population Study (CGPS) and 428,922 from the UK Biobank free of baseline heart failure, cohorts of the adult Danish and UK populations started in 2003-2015 and 2006-2010. Heart failure diagnoses were retrieved from national registries.",
+   "resultados": "Over median follow-up of 9.2 and 13.7 years, 5,321 (4.9%) and 21,428 (4.3%) individuals developed heart failure. With and without statins, and in both cohorts, stepwise higher remnant cholesterol was associated with stepwise increasing risk. Without statins, remnant cholesterol ≥1.5 mmol/L (≥59 mg/dL) versus <0.5 mmol/L (<19 mg/dL): adjusted HR 1.40 (95% CI 1.19-1.63) in the CGPS and 1.61 (1.38-1.89) in the UK Biobank. With statins: 1.63 (1.29-2.07) and 1.60 (1.24-2.07), respectively.",
+   "conclusiones": "In 108,500 and 428,922 individuals from the general populations of Denmark and the UK, stepwise higher levels of remnant cholesterol were associated with stepwise increasing risk of heart failure in individuals with and without statin therapy."
+  }
+ },
+ "a14": {
+  "key": "a14",
+  "sec": 3,
+  "ptype": "Estudio observacional",
+  "journal": "Atherosclerosis",
+  "doi": "10.1016/j.atherosclerosis.2026.121941",
+  "total": 4.55,
+  "prio": "Complementario",
+  "title_en": "Non-HDL cholesterol as a lipid control target in severe hypercholesterolemia in primary care: a sex-stratified analysis",
+  "title_es": "El colesterol no HDL como objetivo de control lipídico en la hipercolesterolemia grave en atención primaria: análisis estratificado por sexo",
+  "es": {
+   "resumen": "En 6.071 pacientes con hipercolesterolemia grave atendidos en 69 centros de atención primaria de Madrid, solo el 3,8% alcanzó un colesterol no HDL <100 mg/dL; en prevención secundaria las mujeres llegaron al objetivo con menos frecuencia que los hombres (6,1% frente a 13,9%).",
+   "why": "es un retrato de práctica real de nuestro medio, y el dato es contundente: el objetivo de colesterol no HDL apenas se alcanza en la hipercolesterolemia grave, y la intensidad del tratamiento no se asoció de forma independiente a conseguirlo. Además, uno de cada cinco pacientes con LDL <70 mg/dL seguía con el colesterol no HDL por encima del objetivo, lo que apoya medir ambos. La brecha por sexo en prevención secundaria es un hallazgo accionable. Es un estudio transversal basado en historia clínica electrónica, sin datos de adherencia ni de desenlaces.",
+   "deque": "El colesterol no HDL es objetivo lipídico coprimario en las guías ESC/EAS de 2019, pero su consecución en la hipercolesterolemia grave en atención primaria está poco caracterizada. Estudio transversal multicéntrico con historias clínicas electrónicas de 156.082 adultos atendidos en 69 centros de atención primaria de Madrid (2018-2021). Hipercolesterolemia grave: colesterol total ≥300 mg/dL o LDL ≥220 mg/dL. Objetivo de colesterol no HDL: <100 mg/dL. Discordancia: LDL <70 mg/dL con colesterol no HDL ≥100 mg/dL. Se identificaron predictores de consecución del objetivo con regresión logística multivariable estratificada por sexo.",
+   "resultados": "De 6.071 pacientes con hipercolesterolemia grave, solo 228 (3,8%) alcanzaron colesterol no HDL <100 mg/dL. Los hombres recibieron con más frecuencia tratamiento hipolipemiante de intensidad alta o muy alta (34,1% frente a 26,0%; p<0,001), pero tuvieron cifras de colesterol no HDL más altas en todas las categorías de tratamiento salvo la de muy alta intensidad. Con ECVA establecida, los hombres alcanzaron el objetivo más a menudo que las mujeres con <100 mg/dL (13,9% frente a 6,1%; p=0,001) y con <85 mg/dL (7,8% frente a 2,6%; p=0,022). Hubo discordancia LDL/colesterol no HDL en el 21,3% de los pacientes con LDL <70 mg/dL, más en hombres (31,8% frente a 13,8%; p=0,006), y aumentó con los triglicéridos. La intensidad del tratamiento no se asoció de forma independiente a la consecución del objetivo; los principales predictores fueron diabetes, edad, obesidad y ECVA.",
+   "conclusiones": "La consecución del objetivo de colesterol no HDL es críticamente baja en los pacientes con hipercolesterolemia grave en atención primaria, con independencia de la intensidad del tratamiento. Las diferencias por sexo fueron significativas, en especial en prevención secundaria. Se necesitan la monitorización sistemática del colesterol no HDL mediante la historia electrónica y un mayor uso del tratamiento hipolipemiante combinado."
+  },
+  "en": {
+   "resumen": "Among 6,071 patients with severe hypercholesterolaemia attending 69 primary care centres in Madrid, only 3.8% achieved non-HDL cholesterol <100 mg/dL; in secondary prevention, women reached the target less often than men (6.1% versus 13.9%).",
+   "why": "this is a real-world picture from our own setting, and the finding is stark: the non-HDL cholesterol target is barely achieved in severe hypercholesterolaemia, and treatment intensity was not independently associated with reaching it. In addition, one in five patients with LDL <70 mg/dL still had non-HDL cholesterol above target, which supports measuring both. The sex gap in secondary prevention is an actionable finding. It is a cross-sectional study based on electronic health records, without adherence or outcome data.",
+   "deque": "Non-HDL cholesterol is a co-primary lipid target in the 2019 ESC/EAS guidelines, but its attainment in severe hypercholesterolaemia in primary care is poorly characterised. Cross-sectional multicentre study using electronic health records of 156,082 adults attending 69 primary care centres in Madrid (2018-2021). Severe hypercholesterolaemia: total cholesterol ≥300 mg/dL or LDL ≥220 mg/dL. Non-HDL cholesterol goal: <100 mg/dL. Discordance: LDL <70 mg/dL with non-HDL cholesterol ≥100 mg/dL. Predictors of goal attainment were identified with sex-stratified multivariable logistic regression.",
+   "resultados": "Of 6,071 patients with severe hypercholesterolaemia, only 228 (3.8%) achieved non-HDL cholesterol <100 mg/dL. Men received high or very high intensity lipid-lowering therapy more often than women (34.1% versus 26.0%; P<0.001), yet non-HDL cholesterol levels were higher in men across all treatment categories except very high intensity. With established ASCVD, men achieved the target more often than women at <100 mg/dL (13.9% versus 6.1%; P=0.001) and <85 mg/dL (7.8% versus 2.6%; P=0.022). LDL/non-HDL cholesterol discordance occurred in 21.3% of patients with LDL <70 mg/dL, more often in men (31.8% versus 13.8%; P=0.006), and increased with triglyceride levels. Treatment intensity was not independently associated with goal attainment; the main predictors were diabetes, age, obesity and ASCVD.",
+   "conclusiones": "Non-HDL cholesterol goal attainment is critically low in patients with severe hypercholesterolaemia in primary care, independently of treatment intensity. Sex disparities were significant, particularly in secondary prevention. Systematic non-HDL cholesterol monitoring via electronic records and greater use of combination lipid-lowering therapy are needed."
+  }
+ },
+ "a15": {
+  "key": "a15",
   "sec": 3,
   "ptype": "Análisis secundario de ensayo clínico",
   "journal": "JACC Adv",
@@ -377,8 +452,8 @@
    "conclusiones": "Long-term walnut consumption was associated with a modest increase in total serum IgG but had no significant effect on total IgM, MDA-LDL or antibodies against MDA-LDL. Baseline IgG and IgM concentrations were substantially lower among US participants, suggesting that geographic, environmental, social or genetic factors may modulate immune biomarkers independently of the dietary intervention."
   }
  },
- "a13": {
-  "key": "a13",
+ "a16": {
+  "key": "a16",
   "sec": 4,
   "ptype": "Metaanálisis",
   "journal": "Lancet",
@@ -402,8 +477,8 @@
    "conclusiones": "Across the available randomised trials, short-term adverse event rates were low with both pathways, but the pooled safety estimate remained imprecise. On average, earlier cardiac troponin retesting did not reduce emergency department length of stay or clearly increase direct discharge, and substantial between-study heterogeneity indicates that treatment effects might not translate uniformly across health-care systems. For hospitals considering transitioning from a 0/3 h to a 0/1 h pathway, implementation decisions should take broader diagnostic and organisational considerations into account."
   }
  },
- "a14": {
-  "key": "a14",
+ "a17": {
+  "key": "a17",
   "sec": 4,
   "ptype": "Análisis secundario de ensayo clínico",
   "journal": "Circ Cardiovasc Interv",
@@ -427,8 +502,33 @@
    "conclusiones": "After completion of dual antiplatelet therapy following percutaneous coronary intervention, clopidogrel monotherapy was associated with lower ischemic risk than aspirin in patients with higher atherothrombotic risk, without increased bleeding."
   }
  },
- "a15": {
-  "key": "a15",
+ "a18": {
+  "key": "a18",
+  "sec": 4,
+  "ptype": "Análisis secundario de ensayo clínico",
+  "journal": "J Am Coll Cardiol",
+  "doi": "10.1016/j.jacc.2026.10.058",
+  "total": 6.05,
+  "prio": "Relevante",
+  "title_en": "High Bleeding Risk and Aspirin Omission at the Time of Primary PCI in STEMI: A Post Hoc Analysis of the PREMIUM Trial",
+  "title_es": "Alto riesgo hemorrágico y omisión de la aspirina en el momento de la ICP primaria en el IAMCEST: análisis post hoc del ensayo PREMIUM",
+  "es": {
+   "resumen": "En el ensayo PREMIUM (2.189 pacientes con IAMCEST), el alto riesgo hemorrágico ARC-HBR identificó a pacientes de riesgo global mucho mayor, pero no a un subgrupo en el que omitir la aspirina desde la ICP primaria (monoterapia con prasugrel a dosis baja) fuera más favorable (p de interacción 0,51 y 0,67).",
+   "why": "la estrategia de omitir la aspirina desde el inicio en el IAMCEST es un tema candente, y la intuición clínica sería reservarla para los pacientes con alto riesgo hemorrágico. Este análisis indica que el criterio ARC-HBR, por sí solo, no selecciona a quién beneficia más esa estrategia: los efectos relativos sobre isquemia y hemorragia fueron similares con y sin alto riesgo. Es un análisis post hoc con precisión limitada, que no puede excluir una modificación del efecto clínicamente relevante, y se hizo con la pauta de prasugrel a dosis baja que se usa en Japón.",
+   "deque": "Los pacientes con IAMCEST y alto riesgo hemorrágico también tienen más riesgo isquémico, lo que complica la elección del tratamiento antiagregante. Se evaluó si el alto riesgo hemorrágico modifica el efecto de omitir la aspirina en la ICP primaria. El ensayo PREMIUM aleatorizó a pacientes con IAMCEST antes de la ICP primaria a monoterapia con prasugrel a dosis baja o a doble antiagregación (aspirina más prasugrel). En el grupo de doble antiagregación, los pacientes con criterios ARC-HBR podían suspender la aspirina a los 3 meses y los demás debían mantenerla 12 meses. Análisis post hoc del objetivo primario a 12 meses (muerte por cualquier causa, ictus o infarto) y del secundario principal (hemorragia BARC 3 o 5) según el riesgo hemorrágico.",
+   "resultados": "De 2.189 pacientes, 786 (35,9%) cumplían criterios ARC-HBR. Los pacientes con alto riesgo hemorrágico tuvieron más objetivo primario (16,2% frente a 6,2%; HR 2,68; IC95% 2,05-3,52) y más hemorragia BARC 3 o 5 (10,9% frente a 4,9%; HR 2,28; IC95% 1,65-3,14). Objetivo primario con monoterapia frente a doble antiagregación: 18,0% frente a 14,5% en alto riesgo hemorrágico (HR 1,29; IC95% 0,91-1,82) y 7,4% frente a 5,0% sin él (HR 1,55; IC95% 1,01-2,37); p de interacción 0,51. Hemorragia BARC 3 o 5: 9,2% frente a 12,5% en alto riesgo hemorrágico (HR 0,71; IC95% 0,46-1,11) y 3,8% frente a 6,1% sin él (HR 0,62; IC95% 0,38-1,00); p de interacción 0,67.",
+   "conclusiones": "El criterio ARC-HBR identificó a pacientes con un riesgo global sustancialmente mayor tras la ICP primaria por IAMCEST, pero no a un subgrupo con un efecto más favorable de la omisión inicial de la aspirina. No puede excluirse una modificación del efecto clínicamente relevante por la precisión limitada. Estos hallazgos no apoyan usar solo el alto riesgo hemorrágico para decidir omitir la aspirina desde el inicio y deben interpretarse en el contexto de la pauta de prasugrel a dosis baja usada en Japón."
+  },
+  "en": {
+   "resumen": "In the PREMIUM trial (2,189 patients with STEMI), ARC high bleeding risk identified patients at much higher overall risk, but not a subgroup in whom upfront aspirin omission at primary PCI (low-dose prasugrel monotherapy) was more favourable (P for interaction 0.51 and 0.67).",
+   "why": "upfront aspirin omission in STEMI is a hot topic, and clinical intuition would be to reserve it for patients at high bleeding risk. This analysis suggests that ARC-HBR status alone does not select who benefits most from that strategy: the relative effects on ischaemia and bleeding were similar with and without high bleeding risk. It is a post hoc analysis with limited precision that cannot exclude clinically meaningful effect modification, and it used the low-dose prasugrel regimen used in Japan.",
+   "deque": "Patients with STEMI at high bleeding risk are also at increased ischaemic risk, which makes antiplatelet therapy choices difficult. The study evaluated whether high bleeding risk modifies the effect of aspirin omission at primary PCI. The PREMIUM trial randomised patients with STEMI before primary PCI to low-dose prasugrel monotherapy or dual antiplatelet therapy (aspirin plus prasugrel). In the dual antiplatelet group, patients meeting ARC-HBR criteria could stop aspirin at 3 months, whereas the others were to continue it for 12 months. Post hoc analysis of the 12-month primary outcome (all-cause death, stroke or myocardial infarction) and the major secondary outcome (BARC type 3 or 5 bleeding) by bleeding risk status.",
+   "resultados": "Of 2,189 patients, 786 (35.9%) met ARC-HBR criteria. High bleeding risk patients had higher rates of the primary outcome (16.2% versus 6.2%; HR 2.68; 95% CI 2.05-3.52) and of BARC 3 or 5 bleeding (10.9% versus 4.9%; HR 2.28; 95% CI 1.65-3.14). Primary outcome with monotherapy versus dual antiplatelet therapy: 18.0% versus 14.5% at high bleeding risk (HR 1.29; 95% CI 0.91-1.82) and 7.4% versus 5.0% without it (HR 1.55; 95% CI 1.01-2.37); P for interaction 0.51. BARC 3 or 5 bleeding: 9.2% versus 12.5% at high bleeding risk (HR 0.71; 95% CI 0.46-1.11) and 3.8% versus 6.1% without it (HR 0.62; 95% CI 0.38-1.00); P for interaction 0.67.",
+   "conclusiones": "ARC-HBR identified patients with substantially higher overall risk after primary PCI for STEMI but did not identify a subgroup with a more favourable treatment effect of upfront aspirin omission. Clinically meaningful treatment-effect modification cannot be excluded because of limited precision. These findings do not support using high bleeding risk status alone to guide upfront aspirin omission and should be interpreted in the context of the low-dose prasugrel regimen used in Japan."
+  }
+ },
+ "a19": {
+  "key": "a19",
   "sec": 4,
   "ptype": "Artículo de revisión",
   "journal": "J Am Coll Cardiol",
@@ -452,8 +552,8 @@
    "conclusiones": "Misclassification of myocardial injury occurs in both directions and with real consequence: nonischemic myocardial injury is frequently mislabeled as secondary myocardial infarction, contributing to the overdiagnosis of MI, and chronic myocardial injury — which carries a risk of subsequent MI or cardiovascular death approaching that of primary MI — is routinely dismissed once infarction has been excluded. Accurate classification cannot be delegated to an algorithm and instead requires integrated, context-aware interpretation; until the assays themselves can carry more of the interpretive burden, that burden rests with the clinician."
   }
  },
- "a16": {
-  "key": "a16",
+ "a20": {
+  "key": "a20",
   "sec": 4,
   "ptype": "Estudio pronóstico",
   "journal": "JAMA Cardiol",
@@ -477,33 +577,8 @@
    "conclusiones": "In this study, CMD assessed by continuous thermodilution-derived MRR was not associated with clinical outcomes."
   }
  },
- "a17": {
-  "key": "a17",
-  "sec": 4,
-  "ptype": "Estudio observacional",
-  "journal": "JACC Adv",
-  "doi": "10.1016/j.jacadv.2026.103413",
-  "total": 4.23,
-  "prio": "Complementario",
-  "title_en": "A Mobile Application for STEMI Care Optimization in a Multicenter Health System (STEMIcathAID)",
-  "title_es": "Una aplicación móvil para optimizar la atención del IAMCEST en un sistema sanitario multicéntrico (STEMIcathAID)",
-  "es": {
-   "resumen": "Estudio observacional de implantación de la aplicación móvil STEMIcathAID en un sistema sanitario multicéntrico: el tiempo puerta-dispositivo compuesto bajó de 92 a 71 min (reducción de 16 min; IC95% 8-24) y el tiempo puerta-entrada-puerta-salida combinado de las vías de traslado, de 57,5 a 46,0 min (reducción de 12 min; IC95% 6-19), ambos con p <0,001.",
-   "why": "el cuello de botella del IAMCEST trasladado no suele ser la sala de hemodinámica, sino la logística del traslado interhospitalario y la coordinación fragmentada entre los miembros del equipo. Este trabajo cuantifica lo que aporta una herramienta digital segura que unifica la activación, la coordinación del traslado y el registro automático de marcas temporales, con una mejora clara en las dos vías interhospitalarias y la consecución del objetivo de tiempo puerta-dispositivo en el 100% de los casos. Es informativo que la vía local, con ICP en el propio centro, no mejorara: el beneficio parece concentrarse donde hay transferencia de información entre hospitales. Las limitaciones son las propias del diseño: es una comparación observacional antes-después, sin aleatorización, susceptible de tendencia temporal y de efecto Hawthorne, y los desenlaces son métricas de proceso y no eventos clínicos ni mortalidad.",
-   "deque": "La logística del traslado interhospitalario y la coordinación fragmentada entre los miembros del equipo asistencial pueden causar retrasos en el tratamiento de los pacientes con infarto de miocardio con elevación del segmento ST (IAMCEST). Los autores desarrollaron una aplicación móvil segura, STEMIcathAID, para agilizar la activación del código infarto, coordinar el traslado y permitir la captura de marcas temporales. El objetivo fue evaluar el efecto de la implantación de la aplicación sobre las métricas de tiempo en un sistema sanitario multicéntrico. Se realizó una comparación observacional de las activaciones por IAMCEST gestionadas a través de la aplicación frente al flujo de trabajo tradicional en 2 rutas de traslado interhospitalario (vías 1 y 2) y 1 vía local con capacidad de intervención coronaria percutánea. Los análisis primarios fueron las comparaciones del tiempo puerta-dispositivo (D2D) compuesto y del tiempo puerta-entrada-puerta-salida (DIDO) combinado de las vías de traslado, expresados como mediana (RIQ).",
-   "resultados": "El tiempo D2D compuesto descendió de 92 min (RIQ 63-110) a 71 min (RIQ 60-85), con una reducción de Hodges-Lehmann de 16 min (IC95% 8-24; p <0,001). El DIDO combinado de las vías de traslado descendió de 57,5 min (RIQ 48,3-70,8) a 46,0 min (RIQ 39,5-57,5), con una reducción de Hodges-Lehmann de 12 min (IC95% 6-19; p <0,001). El D2D y el DIDO mejoraron en ambas vías de traslado interhospitalario, mientras que la vía local no mostró mejoría significativa. La consecución del objetivo de D2D según los estándares de referencia del registro específicos de cada vía mejoró del 84,9% (79/93) al 100% (123/123; p <0,001). La proporción de casos trasladados que alcanzaron un DIDO ≤45 min aumentó del 20,4% (11/54) al 46,0% (29/63; p = 0,006).",
-   "conclusiones": "En este estudio observacional multicéntrico de implementación, las activaciones por IAMCEST gestionadas mediante la aplicación se asociaron con métricas de tiempo relacionadas con el traslado más cortas y con una mayor consecución de los umbrales de tiempo relevantes para las guías en 2 vías interhospitalarias."
-  },
-  "en": {
-   "resumen": "Observational implementation study of the STEMIcathAID mobile application in a multicentre health system: composite door-to-device time fell from 92 to 71 min (16-min reduction; 95% CI 8-24) and combined transfer-pathway door-in-door-out time from 57.5 to 46.0 min (12-min reduction; 95% CI 6-19), both with P < 0.001.",
-   "why": "the bottleneck in transferred STEMI is usually not the cath lab but interhospital transfer logistics and fragmented coordination among care team members. This work quantifies what a secure digital tool contributes by unifying activation, transfer coordination and automatic time-stamp capture, with clear improvement in both interhospital pathways and attainment of the door-to-device target in 100% of cases. It is informative that the local pathway, with PCI on site, did not improve: the benefit appears concentrated where information is handed over between hospitals. The limitations are inherent to the design: this is an observational before-after comparison without randomisation, susceptible to secular trend and Hawthorne effect, and the outcomes are process metrics rather than clinical events or mortality.",
-   "deque": "Interhospital transfer logistics and fragmented coordination among care team members may cause delays in treating patients with ST-segment elevation myocardial infarction (STEMI). The authors developed a secure mobile application, STEMIcathAID, to streamline STEMI activation, coordinate transfer and allow time-stamp data capture. The objective was to assess the effect of application implementation on time measures in a multicentre health care system. An observational comparison was conducted of STEMI activations managed through the application versus the traditional workflow across 2 interfacility transfer routes (pathways 1 and 2) and 1 percutaneous coronary intervention-capable local pathway. The primary analyses were the composite door-to-device (D2D) and combined transfer pathway door-in-door-out (DIDO) comparisons, reported as median (IQR).",
-   "resultados": "Composite D2D time decreased from 92 min (IQR 63-110) to 71 min (IQR 60-85), with a Hodges-Lehmann reduction of 16 min (95% CI 8-24; P < 0.001). Combined transfer pathway DIDO decreased from 57.5 min (IQR 48.3-70.8) to 46.0 min (IQR 39.5-57.5), with a Hodges-Lehmann reduction of 12 min (95% CI 6-19; P < 0.001). D2D and DIDO improved in both interhospital transfer pathways, whereas the local pathway showed no significant improvement. D2D target attainment according to pathway-specific registry benchmarks improved from 84.9% (79/93) to 100% (123/123; P < 0.001). The proportion of transfer cases achieving DIDO ≤45 min increased from 20.4% (11/54) to 46.0% (29/63; P = 0.006).",
-   "conclusiones": "In this observational multicentre implementation study, application-managed STEMI activations were associated with shorter transfer-related time metrics and higher attainment of guideline-relevant time thresholds across 2 interfacility pathways."
-  }
- },
- "a18": {
-  "key": "a18",
+ "a21": {
+  "key": "a21",
   "sec": 5,
   "ptype": "Investigación original",
   "journal": "JAMA Cardiol",
@@ -527,8 +602,8 @@
    "conclusiones": "In this analysis of 2 small heart failure cohorts, short-term exposure to high-dose loop diuretic was not associated with permanent ototoxicity, although concomitant ototoxin use was excluded. Future studies are needed to understand the risk of ototoxicity with repeated loop diuretic exposure and in broader heart failure populations."
   }
  },
- "a19": {
-  "key": "a19",
+ "a22": {
+  "key": "a22",
   "sec": 5,
   "ptype": "Inteligencia artificial / modelo predictivo",
   "journal": "JACC Heart Fail",
@@ -552,8 +627,8 @@
    "conclusiones": "AI-HFpEF identified the early HFpEF phenotype in community-dwelling adults and independently predicted incident clinical HFpEF among patients in a health system."
   }
  },
- "a20": {
-  "key": "a20",
+ "a23": {
+  "key": "a23",
   "sec": 5,
   "ptype": "Estudio de cohorte",
   "journal": "JAMA Cardiol",
@@ -577,8 +652,8 @@
    "conclusiones": "In this global pulmonary hypertension cohort, higher systolic systemic arterial pressure was associated with enhanced survival, while a higher baseline heart rate and declining systemic blood pressure during follow-up were significantly associated with increased mortality risk."
   }
  },
- "a21": {
-  "key": "a21",
+ "a24": {
+  "key": "a24",
   "sec": 5,
   "ptype": "Artículo de revisión",
   "journal": "Circulation",
@@ -602,8 +677,8 @@
    "conclusiones": "The mechanisms of combined postcapillary and precapillary pulmonary hypertension associated with HFpEF differ from those of pulmonary arterial hypertension, with a central role for pulmonary venous and left atrial dysfunction. Activin A derived from epicardial adipose tissue, signaling through the activin type II receptor, promotes pulmonary vein and left atrial remodeling and fibrosis, and its blockade with sotatercept decreased pulmonary artery wedge pressure and left atrial volume index in the CADENCE trial through mechanisms not attributable to pulmonary vascular resistance; its effect on disease progression is being tested in a phase III trial."
   }
  },
- "a22": {
-  "key": "a22",
+ "a25": {
+  "key": "a25",
   "sec": 5,
   "ptype": "Estudio de cohorte",
   "journal": "JAMA Cardiol",
@@ -627,8 +702,8 @@
    "conclusiones": "Results suggest that hospital rurality was associated with lower odds of guideline-directed medical therapy use and higher rates of all-cause mortality, whereas rural residence was associated with mortality differences despite treatment in urban hospitals. Interventions addressing both inpatient resource disparities and postdischarge transitions of care may reduce rural-urban inequities in heart failure outcomes."
   }
  },
- "a23": {
-  "key": "a23",
+ "a26": {
+  "key": "a26",
   "sec": 6,
   "ptype": "Estudio de cohorte",
   "journal": "Circulation",
@@ -652,8 +727,8 @@
    "conclusiones": "In a large, multicenter cohort of patients with hypoplastic left heart syndrome, the mitral stenosis/aortic atresia subtype with ventriculocoronary connections had the lowest transplant-free survival. Prenatal diagnosis of ventriculocoronary connections was associated with lower transplant-free survival. This study underscores the prognostic value of assessing for ventriculocoronary connections in patients with hypoplastic left heart syndrome both before and after birth."
   }
  },
- "a24": {
-  "key": "a24",
+ "a27": {
+  "key": "a27",
   "sec": 6,
   "ptype": "Registro",
   "journal": "Circ Heart Fail",
@@ -677,8 +752,8 @@
    "conclusiones": "A genetic cause was detected in a minority of children and was not associated with the phenotypic severity of dilated cardiomyopathy at diagnosis. Echocardiographic normalization of left ventricular function over time was noted more frequently in patients who did not have an identified pathogenic or likely pathogenic variant."
   }
  },
- "a25": {
-  "key": "a25",
+ "a28": {
+  "key": "a28",
   "sec": 6,
   "ptype": "Investigación original",
   "journal": "Circ Heart Fail",
@@ -702,33 +777,33 @@
    "conclusiones": "The primary mechanism of diastolic dysfunction in borderline left ventricle is increased passive ventricular stiffness, while no differences were detected in active relaxation. These findings suggest a limited role for lusitropic medications, and therapeutic strategies focused on mitigating ventricular stiffness (such as surgical endocardial fibroelastosis resection) may be more valuable."
   }
  },
- "a26": {
-  "key": "a26",
+ "a29": {
+  "key": "a29",
   "sec": 7,
-  "ptype": "Ensayo clínico aleatorizado",
-  "journal": "Circulation",
-  "doi": "10.1161/CIRCULATIONAHA.126.082827",
-  "total": 7.25,
-  "prio": "Imprescindible",
-  "title_en": "Transcatheter Aortic Valve Replacement in Pure Aortic Regurgitation: The Randomized SEASON-AR Clinical Trial",
-  "title_es": "Implante percutáneo de válvula aórtica en la insuficiencia aórtica pura: ensayo clínico aleatorizado SEASON-AR",
+  "ptype": "Investigación original",
+  "journal": "JACC Cardiovasc Interv",
+  "doi": "10.1016/j.jcin.2026.10.024",
+  "total": 4.8,
+  "prio": "Complementario",
+  "title_en": "Thirty-Day Outcomes of a Dedicated Transcatheter Occlusion Device for Paravalvular Leak Closure: The PARADIGM Study",
+  "title_es": "Resultados a 30 días de un dispositivo transcatéter específico para el cierre de fugas paravalvulares: estudio PARADIGM",
   "es": {
-   "resumen": "Primer ensayo aleatorizado con potencia suficiente que compara el TAVI transfemoral más tratamiento médico frente a tratamiento médico aislado en 210 pacientes con insuficiencia aórtica pura grave y riesgo quirúrgico elevado o rechazo de la cirugía. A 1 año, el TAVI redujo el objetivo primario combinado de muerte, ictus discapacitante o rehospitalización por insuficiencia cardíaca del 24,8% al 8,3% (HR 0,31; IC95% 0,14-0,66; p = 0,001), a costa de más sangrado grave y más marcapasos definitivos.",
-   "why": "cubre un hueco real: en la insuficiencia aórtica pura grave no candidata a cirugía, el tratamiento médico era a menudo la única opción y el TAVI se usaba fuera de indicación con evidencia exclusivamente observacional, porque la anatomía (ausencia de calcio para anclar la prótesis) hace el procedimiento técnicamente distinto del TAVI por estenosis. Es la primera comparación aleatorizada y con potencia suficiente, y el beneficio es de magnitud grande y está impulsado sobre todo por la reducción de rehospitalizaciones por insuficiencia cardíaca, un desenlace muy relevante para el paciente aunque menos duro que la mortalidad. Hay que ponderar varios matices: ensayo abierto y promovido por investigadores, realizado íntegramente en China con un dispositivo concreto (sistema VitaFlow), con 210 pacientes y seguimiento de solo 1 año, lo que limita la extrapolación a otras prótesis, otros sistemas sanitarios y al largo plazo. El precio en seguridad no es menor: más sangrado mayor o potencialmente letal y más implantes de marcapasos definitivo, concentrados en los primeros 30 días, lo que obliga a una conversación individualizada sobre riesgo-beneficio.",
-   "deque": "En los pacientes con insuficiencia aórtica pura grave y riesgo quirúrgico elevado, el tratamiento médico dirigido por guías es con frecuencia la única opción disponible. El TAVI transfemoral es un tratamiento establecido para la estenosis aórtica y se ha evaluado también en pacientes con insuficiencia aórtica pura, pero ningún ensayo aleatorizado con potencia suficiente había comparado el TAVI con el tratamiento médico aislado en esta población. Se realizó un ensayo prospectivo, promovido por investigadores, multicéntrico, aleatorizado y abierto en China. Los pacientes con insuficiencia aórtica pura grave en los que el equipo cardiológico local consideraba la cirugía difícil o inaceptable, o que la rechazaban de forma persistente, se asignaron aleatoriamente 1:1 a TAVI transfemoral con el sistema VitaFlow más tratamiento médico dirigido por guías, o a tratamiento médico aislado. El objetivo primario fue un combinado de muerte por cualquier causa, ictus discapacitante o rehospitalización por insuficiencia cardíaca al año.",
-   "resultados": "Se asignaron 210 pacientes con insuficiencia aórtica pura grave al grupo de TAVI (n = 109) o al grupo de tratamiento médico (n = 101) en 18 centros. Al año de seguimiento, la estimación de Kaplan-Meier del objetivo primario fue significativamente menor en el grupo de TAVI que en el de tratamiento médico (8,3% vs 24,8%; HR 0,31 [IC95% 0,14-0,66]; p = 0,001), impulsada principalmente por una reducción de la rehospitalización por insuficiencia cardíaca (3,7% vs 21,3%; HR 0,16 [IC95% 0,06-0,47]; p < 0,001). El TAVI se asoció a mayores tasas de sangrado mayor o potencialmente letal y de implante de marcapasos definitivo nuevo, la mayoría de ellos en los primeros 30 días tras el procedimiento. Registro: ClinicalTrials.gov NCT04864145.",
-   "conclusiones": "En pacientes con insuficiencia aórtica pura grave, el TAVI añadido al tratamiento médico dirigido por guías redujo de forma significativa la tasa de muerte por cualquier causa, ictus discapacitante o rehospitalización por insuficiencia cardíaca al año frente al tratamiento médico aislado, a pesar de tasas más altas a 30 días de sangrado mayor o potencialmente letal y de implante de marcapasos definitivo nuevo."
+   "resumen": "En 200 pacientes con fuga paravalvular tras sustitución valvular quirúrgica, el Amplatzer Valvular Plug III se implantó con éxito en el 96,0% y cumplió el objetivo primario combinado de seguridad y eficacia a 30 días en el 94,0%, sin mortalidad del procedimiento.",
+   "why": "el cierre percutáneo de fugas paravalvulares se ha hecho durante años con dispositivos no diseñados para ello; PARADIGM es un estudio prospectivo y multicéntrico de un oclusor específico, con un objetivo predefinido frente a un estándar de rendimiento. Los datos a corto plazo son favorables en una población mayoritariamente con prótesis mecánica, fuga mitral e insuficiencia cardiaca. Es un estudio de un solo brazo sin comparador quirúrgico, con seguimiento de solo 30 días y un éxito del procedimiento a 30 días claramente inferior al éxito del implante (77,3%).",
+   "deque": "La fuga paravalvular es una complicación de la sustitución valvular quirúrgica que empeora el pronóstico, y el cierre percutáneo es una alternativa menos invasiva que la reintervención. PARADIGM es un estudio prospectivo, multicéntrico y de un solo brazo que evalúa el Amplatzer Valvular Plug III (APVL3) para cerrar fugas paravalvulares tras implante quirúrgico de una prótesis mecánica o biológica. Objetivo primario combinado de seguridad y eficacia: éxito del implante, reducción de la fuga ≥2 grados al final del procedimiento, mortalidad del procedimiento y reintervenciones relacionadas con el dispositivo hasta los 30 días.",
+   "resultados": "Se incluyeron 200 pacientes en 24 centros de Estados Unidos, Europa y Canadá: edad media 67,7±11,5 años, 58,5% varones, 70,0% con prótesis mecánica; mediana de EuroSCORE logístico 5,2 (RIC 3,2-10,3) y de STS PROM 2,9% (1,4-5,4); 53,1% (104/196) en clase NYHA III/IV. La indicación principal fue insuficiencia cardiaca (89,5%) y el 65,0% se trató por fuga mitral. Implante con éxito en el 96,0% (192/200), sin mortalidad del procedimiento. Objetivo primario cumplido en el 94,0% (188/200), por encima del estándar de rendimiento (p<0,0001). Éxito del procedimiento a 30 días: 77,3% (140/181). A 30 días: mortalidad 2,0% (4/200; IC95% 0,5-5,0), anemia hemolítica 3,5% (7/200; IC95% 1,42-7,08), fuga leve o menor 95,7% (156/163), clase NYHA I/II 82,7% (143/173) y mejoría del KCCQ-OS de 15,7 puntos (12,6-18,8).",
+   "conclusiones": "PARADIGM cumplió su objetivo primario con resultados favorables a corto plazo. Los resultados apoyan este dispositivo transcatéter como una opción terapéutica prometedora para el cierre de fugas paravalvulares."
   },
   "en": {
-   "resumen": "First adequately powered randomized trial comparing transfemoral TAVR plus medical therapy with medical therapy alone in 210 patients with severe pure aortic regurgitation at high surgical risk or declining surgery. At 1 year, TAVR reduced the composite primary endpoint of death, disabling stroke or heart failure rehospitalization from 24.8% to 8.3% (HR 0.31; 95% CI 0.14-0.66; P = 0.001), at the cost of more major bleeding and more permanent pacemakers.",
-   "why": "it fills a real gap: in severe pure aortic regurgitation unsuitable for surgery, medical therapy was often the only option and TAVR was used off-label on purely observational evidence, because the anatomy (no calcium to anchor the prosthesis) makes the procedure technically different from TAVR for stenosis. This is the first adequately powered randomized comparison, and the benefit is large and driven mainly by a reduction in heart failure rehospitalization, an outcome that matters greatly to patients even if softer than mortality. Several caveats deserve weight: an open-label, investigator-initiated trial conducted entirely in China with a single device (the VitaFlow system), 210 patients and only 1 year of follow-up, which limits extrapolation to other prostheses, other health systems and the long term. The safety price is not trivial: more major or life-threatening bleeding and more permanent pacemaker implantation, concentrated in the first 30 days, which calls for an individualized risk-benefit conversation.",
-   "deque": "For patients with severe pure aortic regurgitation at high surgical risk, guideline-directed medical therapy is often the only available option. Transfemoral TAVR is an established treatment for aortic stenosis and has also been evaluated in patients with pure aortic regurgitation; however, no adequately powered randomized trial had compared TAVR with medical therapy alone in this population. A prospective, investigator-initiated, multicenter, randomized, open-label trial was conducted in China. Patients with severe pure aortic regurgitation for whom surgery was considered difficult or unacceptable by the local heart team, or who persistently declined surgery, were randomly assigned 1:1 to transfemoral TAVR with the VitaFlow system plus guideline-directed medical therapy or to guideline-directed medical therapy alone. The primary end point was a composite of all-cause death, disabling stroke or heart failure rehospitalization at 1 year.",
-   "resultados": "A total of 210 patients with severe pure aortic regurgitation were assigned to the TAVR group (n = 109) or the medical therapy group (n = 101) at 18 centers. At 1-year follow-up, the Kaplan-Meier estimate of the primary end point was significantly lower in the TAVR group than in the medical therapy group (8.3% vs 24.8%; HR 0.31 [95% CI 0.14-0.66]; P = 0.001), driven primarily by a reduction in heart failure rehospitalization (3.7% vs 21.3%; HR 0.16 [95% CI 0.06-0.47]; P < 0.001). TAVR was associated with higher rates of major or life-threatening bleeding and new permanent pacemaker implantation, most of which occurred within 30 days after the procedure. Registration: ClinicalTrials.gov NCT04864145.",
-   "conclusiones": "Among patients with severe pure aortic regurgitation, TAVR plus guideline-directed medical therapy significantly reduced the rate of all-cause death, disabling stroke or heart failure rehospitalization at 1 year compared with guideline-directed medical therapy alone, despite higher 30-day rates of major or life-threatening bleeding and new permanent pacemaker implantation."
+   "resumen": "In 200 patients with paravalvular leak after surgical valve replacement, the Amplatzer Valvular Plug III was successfully implanted in 96.0% and met the 30-day composite safety and effectiveness primary endpoint in 94.0%, with no procedural mortality.",
+   "why": "percutaneous paravalvular leak closure has for years relied on devices not designed for it; PARADIGM is a prospective multicentre study of a dedicated occluder, with a prespecified endpoint tested against a performance goal. Short-term data are favourable in a population mostly with mechanical prostheses, mitral leaks and heart failure. It is a single-arm study without a surgical comparator, with only 30-day follow-up, and 30-day procedural success was clearly lower than implant success (77.3%).",
+   "deque": "Paravalvular leak is a complication of surgical valve replacement associated with poor prognosis, and percutaneous closure is a less invasive alternative to repeat surgery. PARADIGM is a prospective, multicentre, single-arm study evaluating the Amplatzer Valvular Plug III (APVL3) for paravalvular leak closure after surgical implantation of a mechanical or bioprosthetic valve. Composite safety and effectiveness primary endpoint: implant success, leak reduction ≥2 grades on exit from the procedure, procedural mortality and device-related reinterventions through 30 days.",
+   "resultados": "200 patients were enrolled at 24 sites in the United States, Europe and Canada: mean age 67.7±11.5 years, 58.5% male, 70.0% with a mechanical valve; median logistic EuroSCORE 5.2 (IQR 3.2-10.3) and STS PROM 2.9% (1.4-5.4); 53.1% (104/196) in NYHA class III/IV. The main indication was heart failure (89.5%) and 65.0% were treated for mitral leak. Successful implantation in 96.0% (192/200), with no procedural mortality. Primary endpoint met in 94.0% (188/200), exceeding the performance goal (P<0.0001). 30-day procedural success: 77.3% (140/181). At 30 days: mortality 2.0% (4/200; 95% CI 0.5-5.0), haemolytic anaemia 3.5% (7/200; 95% CI 1.42-7.08), mild or less leak 95.7% (156/163), NYHA class I/II 82.7% (143/173) and KCCQ-OS improvement of 15.7 points (12.6-18.8).",
+   "conclusiones": "PARADIGM met its primary endpoint, with favourable short-term outcomes. The results support this transcatheter device as a promising therapeutic option for paravalvular leak closure."
   }
  },
- "a27": {
-  "key": "a27",
+ "a30": {
+  "key": "a30",
   "sec": 7,
   "ptype": "Registro",
   "journal": "JACC Cardiovasc Interv",
@@ -752,8 +827,8 @@
    "conclusiones": "Periprocedural pulmonary hypertension dynamics provide robust risk stratification after M-TEER, identifying low-risk patients with pulmonary hypertension normalization and high-risk subsets with residual or new-onset pulmonary hypertension, requiring closer surveillance and procedural optimization."
   }
  },
- "a28": {
-  "key": "a28",
+ "a31": {
+  "key": "a31",
   "sec": 7,
   "ptype": "Estudio de cohorte",
   "journal": "J Am Heart Assoc",
@@ -777,8 +852,8 @@
    "conclusiones": "In patients with significant residual MR after implanting the first clip, multiple-clip implantation improved MR reduction and 1-year outcomes without increasing complications. Even in moderate residual MR, additional clips were associated with more favorable clinical outcomes."
   }
  },
- "a29": {
-  "key": "a29",
+ "a32": {
+  "key": "a32",
   "sec": 7,
   "ptype": "Estudio de cohorte",
   "journal": "JACC Cardiovasc Interv",
@@ -802,8 +877,8 @@
    "conclusiones": "Recurrent MR is common and independently associated with increased mortality after M-TEER, with a more pronounced effect in patients with degenerative MR. Identification of patients at risk may inform closer surveillance and timely reintervention."
   }
  },
- "a30": {
-  "key": "a30",
+ "a33": {
+  "key": "a33",
   "sec": 7,
   "ptype": "Registro",
   "journal": "JACC Cardiovasc Interv",
@@ -827,8 +902,33 @@
    "conclusiones": "An elevated discharge tricuspid gradient after TTVR independently identifies patients at increased risk of adverse outcomes. A 3.5 mm Hg threshold may support postprocedural risk stratification, whereas inner valve diameter represents a potentially modifiable determinant of an elevated gradient."
   }
  },
- "a31": {
-  "key": "a31",
+ "a34": {
+  "key": "a34",
+  "sec": 8,
+  "ptype": "Estudio pronóstico",
+  "journal": "EuroIntervention",
+  "doi": "10.4244/EIJ-D-26-00575",
+  "total": 4.93,
+  "prio": "Complementario",
+  "title_en": "Prediction of coronary events by computed tomography-derived Murray law-based quantitative flow ratio",
+  "title_es": "Predicción de eventos coronarios mediante el cociente de flujo cuantitativo basado en la ley de Murray derivado de la tomografía computarizada",
+  "es": {
+   "resumen": "En 885 vasos de 312 pacientes con angio-TC coronaria previa, un CT-μFR ≤0,80 (HR 6,87) y un gradiente de CT-μFR ≥0,004/mm (HR 4,08) se asociaron a más eventos coronarios a 3 años, y combinarlos mejoró la discriminación (índice C de 0,700 a 0,755).",
+   "why": "la fisiología derivada de la angio-TC suele resumirse en un único valor por vaso, que puede pasar por alto lesiones con un salto de presión local importante. Este estudio muestra que el gradiente longitudinal a través de la lesión añade información pronóstica, también en vasos sin isquemia según el valor global (CT-μFR >0,80). Apunta a una evaluación no invasiva más fina del riesgo por vaso. Es un estudio observacional de un solo programa, con un análisis de laboratorio central y una población seleccionada por haber llegado a coronariografía.",
+   "deque": "El CT-μFR, derivado de la angio-TC coronaria y basado en la ley de Murray, estima de forma no invasiva la isquemia por vaso, pero puede no captar alteraciones hemodinámicas locales reflejadas en el gradiente longitudinal de presión a través de la lesión (gradiente de CT-μFR). Se evaluó la asociación de ambos con los eventos coronarios a 3 años por vaso y el valor pronóstico de su combinación. Se incluyeron 885 vasos de 312 pacientes con coronariografía por síndrome coronario agudo o angina estable y angio-TC realizada entre 6 meses y 3 años antes. Análisis en laboratorio central ciego. Objetivo primario: infarto en el territorio del vaso o revascularización urgente por síndrome coronario agudo a 3 años; discriminación con el índice C de Harrell.",
+   "resultados": "Los vasos con CT-μFR ≤0,80 o con gradiente de CT-μFR ≥0,004/mm tuvieron más eventos que los de CT-μFR >0,80 (79,1% frente a 20,4%; HR ajustado 6,87; IC95% 5,26-8,96; p<0,001) o gradiente <0,004/mm (72,6% frente a 27,4%; HR ajustado 4,08; IC95% 3,15-5,28; p<0,001), respectivamente. En los vasos con CT-μFR >0,80, un gradiente ≥0,004/mm siguió asociado a más riesgo (HR ajustado 2,59; IC95% 1,63-4,11; p<0,001). Añadir el gradiente al CT-μFR mejoró la discriminación en toda la cohorte (índice C de 0,700 a 0,755; p<0,001) y en el subgrupo con CT-μFR >0,80 (de 0,575 a 0,655; p<0,001).",
+   "conclusiones": "Tanto el CT-μFR como su gradiente se asocian de forma independiente a los eventos coronarios a 3 años. Su evaluación combinada mejora la estratificación del riesgo frente al CT-μFR solo."
+  },
+  "en": {
+   "resumen": "In 885 vessels from 312 patients with prior coronary CT angiography, CT-μFR ≤0.80 (HR 6.87) and a CT-μFR gradient ≥0.004/mm (HR 4.08) were associated with more coronary events at 3 years, and combining them improved discrimination (C-index from 0.700 to 0.755).",
+   "why": "CT-derived physiology is usually summarised as a single value per vessel, which may miss lesions with a large local pressure drop. This study shows that the longitudinal gradient across the lesion adds prognostic information, including in vessels without ischaemia by the global value (CT-μFR >0.80). It points to a finer non-invasive per-vessel risk assessment. It is an observational study with core-laboratory analysis and a population selected for having undergone invasive angiography.",
+   "deque": "CT-μFR, derived from coronary CT angiography and based on Murray's law, provides a non-invasive estimate of vessel-level ischaemia but may not capture local haemodynamic abnormalities reflected by the longitudinal pressure gradient across the lesion (CT-μFR gradient). The study evaluated the association of both with 3-year vessel-level coronary events and the prognostic value of their combination. It included 885 vessels from 312 patients undergoing invasive angiography for acute coronary syndrome or stable angina who had CT angiography 6 months to 3 years earlier. Blinded core-laboratory analysis. Primary outcome: vessel-specific myocardial infarction or urgent revascularisation for acute coronary syndrome at 3 years; discrimination with Harrell's C-index.",
+   "resultados": "Vessels with CT-μFR ≤0.80 or a CT-μFR gradient ≥0.004/mm had more events than those with CT-μFR >0.80 (79.1% versus 20.4%; adjusted HR 6.87; 95% CI 5.26-8.96; P<0.001) or a gradient <0.004/mm (72.6% versus 27.4%; adjusted HR 4.08; 95% CI 3.15-5.28; P<0.001), respectively. Among vessels with CT-μFR >0.80, a gradient ≥0.004/mm remained associated with increased risk (adjusted HR 2.59; 95% CI 1.63-4.11; P<0.001). Adding the gradient to CT-μFR improved discrimination in the overall cohort (C-index 0.700 to 0.755; P<0.001) and in the CT-μFR >0.80 subgroup (0.575 to 0.655; P<0.001).",
+   "conclusiones": "Both CT-μFR and the CT-μFR gradient are independently associated with 3-year subsequent coronary events. Their combined assessment improves risk stratification beyond CT-μFR alone."
+  }
+ },
+ "a35": {
+  "key": "a35",
   "sec": 8,
   "ptype": "Estudio pronóstico",
   "journal": "JACC Cardiovasc Imaging",
@@ -852,8 +952,8 @@
    "conclusiones": "In this large real-world TR cohort, L-ECV appeared as a novel, powerful CMR marker of right heart failure with independent and incremental prognostic value to stratify patients with TR at higher risk of events."
   }
  },
- "a32": {
-  "key": "a32",
+ "a36": {
+  "key": "a36",
   "sec": 8,
   "ptype": "Estudio pronóstico",
   "journal": "Eur Heart J Cardiovasc Imaging",
@@ -877,8 +977,33 @@
    "conclusiones": "Right atrial conduit strain derived from CMR is an independent predictor of adverse outcomes in patients with HFmrEF, providing incremental prognostic value beyond traditional clinical and imaging-derived risk markers."
   }
  },
- "a33": {
-  "key": "a33",
+ "a37": {
+  "key": "a37",
+  "sec": 8,
+  "ptype": "Estudio pronóstico",
+  "journal": "Atherosclerosis",
+  "doi": "10.1016/j.atherosclerosis.2026.121940",
+  "total": 3.93,
+  "prio": "Complementario",
+  "title_en": "Prognostic Value of 13N-Ammonia PET–Derived Myocardial Flow Reserve and Its Association With Peripheral Arterial Flow Impairment and Aortic Stiffness in Hemodialysis Patients",
+  "title_es": "Valor pronóstico de la reserva de flujo miocárdico medida con PET con 13N-amonio y su asociación con la alteración del flujo arterial periférico y la rigidez aórtica en pacientes en hemodiálisis",
+  "es": {
+   "resumen": "En 207 pacientes en hemodiálisis estudiados con PET con 13N-amonio, la reserva de flujo miocárdico global predijo de forma independiente la mortalidad por cualquier causa (HR 0,26; índice C 0,724), con valor añadido a los factores de riesgo clínicos.",
+   "why": "en hemodiálisis la mortalidad cardiovascular es altísima y las herramientas pronósticas validadas son escasas. Este trabajo muestra que la reserva de flujo miocárdico, que integra enfermedad epicárdica y microvascular, discrimina bien el riesgo de muerte y mejora la reclasificación, y que se asocia a marcadores de afectación arterial periférica y de rigidez aórtica. Es un estudio retrospectivo de un solo centro, con una muestra pequeña y una técnica de PET poco disponible.",
+   "deque": "Los pacientes en hemodiálisis tienen un riesgo de mortalidad cardiovascular muy elevado y pocas herramientas pronósticas validadas. Se investigó si la reserva de flujo miocárdico (RFM) medida con PET con 13N-amonio predice de forma independiente la mortalidad por cualquier causa, y si el tiempo de ascenso (upstroke time, UT) y la velocidad de onda de pulso braquial-tobillo (baPWV) son determinantes independientes de la RFM global. Análisis retrospectivo de 207 pacientes en hemodiálisis (mediana de edad 73 años, 65% varones) con PET entre mayo de 2013 y mayo de 2024, con regresión de Cox multivariable, índices de valor incremental y regresión lineal multivariable.",
+   "resultados": "Mediana de seguimiento de 1.487 días; murieron 100 pacientes (48%). La RFM global predijo de forma independiente la mortalidad por cualquier causa (HR 0,26; IC95% 0,15-0,45; p<0,001; índice C 0,724), con valor incremental significativo sobre los factores de riesgo clínicos (ΔAUC +0,060, NRI +0,303, IDI +0,060; todos p<0,05). En la regresión lineal multivariable (n=196), el UT (β −0,040 por 10 ms; p<0,001) y la baPWV (β −0,015 por 100 cm/s; p=0,006) fueron determinantes independientes de la RFM global (R2 0,236), pese a su escasa correlación entre sí (ρ 0,069). En análisis exploratorios, la asociación de la RFM fue más fuerte con la muerte cardiovascular (HR 0,195; p=0,0008) que con la mortalidad por cualquier causa.",
+   "conclusiones": "En pacientes en hemodiálisis, la RFM global medida con PET con 13N-amonio predice de forma independiente la mortalidad por cualquier causa, con valor pronóstico incremental sobre los factores de riesgo establecidos. El UT y la baPWV se asocian de forma independiente a una RFM global más baja, lo que sugiere que la alteración del flujo arterial periférico y la rigidez aórtica pueden contribuir cada una a la alteración de la reserva de flujo coronario."
+  },
+  "en": {
+   "resumen": "In 207 haemodialysis patients studied with 13N-ammonia PET, global myocardial flow reserve independently predicted all-cause mortality (HR 0.26; C-statistic 0.724), with incremental value beyond clinical risk factors.",
+   "why": "cardiovascular mortality on haemodialysis is extremely high and validated prognostic tools are scarce. This work shows that myocardial flow reserve, which integrates epicardial and microvascular disease, discriminates the risk of death well and improves reclassification, and that it is associated with markers of peripheral arterial involvement and aortic stiffness. It is a retrospective single-centre study with a small sample and a PET technique of limited availability.",
+   "deque": "Haemodialysis patients carry a markedly elevated cardiovascular mortality risk, and validated prognostic tools remain limited. The study investigated whether myocardial flow reserve (MFR) measured with 13N-ammonia PET independently predicts all-cause mortality, and whether upstroke time (UT) and brachial-ankle pulse wave velocity (baPWV) are independent determinants of global MFR. Retrospective analysis of 207 haemodialysis patients (median age 73 years, 65% male) who underwent PET between May 2013 and May 2024, using multivariable Cox regression, incremental value indices and multivariable linear regression.",
+   "resultados": "Median follow-up 1,487 days; 100 patients (48%) died. Global MFR independently predicted all-cause mortality (HR 0.26; 95% CI 0.15-0.45; P<0.001; C-statistic 0.724), with significant incremental value beyond clinical risk factors (ΔAUC +0.060, NRI +0.303, IDI +0.060; all P<0.05). In multivariable linear regression (n=196), UT (β −0.040 per 10 ms; P<0.001) and baPWV (β −0.015 per 100 cm/s; P=0.006) were independent determinants of global MFR (R2 0.236), despite being only weakly correlated (ρ 0.069). In exploratory analyses, MFR was more strongly associated with cardiovascular death (HR 0.195; P=0.0008) than with all-cause mortality.",
+   "conclusiones": "In haemodialysis patients, 13N-ammonia PET-derived global MFR independently predicts all-cause mortality with incremental prognostic value beyond established risk factors. Both UT and baPWV are independently associated with lower global MFR, suggesting that peripheral arterial flow impairment and aortic stiffness may each contribute to impaired coronary flow reserve."
+  }
+ },
+ "a38": {
+  "key": "a38",
   "sec": 9,
   "ptype": "Ensayo clínico aleatorizado",
   "journal": "N Engl J Med",
@@ -902,8 +1027,8 @@
    "conclusiones": "PCI planning guided by coronary CT angiography was not inferior to IVUS guidance for the primary clinical endpoint at one-year follow-up, and shorter procedures and less contrast use were additionally described at the meeting. The numerical results could not be verified in the original source and must be consulted in the article."
   }
  },
- "a34": {
-  "key": "a34",
+ "a39": {
+  "key": "a39",
   "sec": 9,
   "ptype": "Análisis secundario de ensayo clínico",
   "journal": "Circ Cardiovasc Interv",
@@ -927,8 +1052,58 @@
    "conclusiones": "Among patients with ST-segment-elevation myocardial infarction undergoing primary PCI with radial artery access, the benefits of bivalirudin with a high-dose post-PCI infusion in reducing the composite endpoint of all-cause death or BARC types 3 to 5 bleeding at 30 days compared with heparin monotherapy are maintained through 12-month follow-up. These findings support the use of bivalirudin with a post-PCI high-dose infusion as an alternative to heparin to reduce mortality and major bleeding in patients with ST-segment-elevation myocardial infarction."
   }
  },
- "a35": {
-  "key": "a35",
+ "a40": {
+  "key": "a40",
+  "sec": 9,
+  "ptype": "Ensayo clínico aleatorizado",
+  "journal": "Circulation",
+  "doi": "10.1161/CIRCULATIONAHA.126.082827",
+  "total": 7.25,
+  "prio": "Imprescindible",
+  "title_en": "Transcatheter Aortic Valve Replacement in Pure Aortic Regurgitation: The Randomized SEASON-AR Clinical Trial",
+  "title_es": "Implante percutáneo de válvula aórtica en la insuficiencia aórtica pura: ensayo clínico aleatorizado SEASON-AR",
+  "es": {
+   "resumen": "Primer ensayo aleatorizado con potencia suficiente que compara el TAVI transfemoral más tratamiento médico frente a tratamiento médico aislado en 210 pacientes con insuficiencia aórtica pura grave y riesgo quirúrgico elevado o rechazo de la cirugía. A 1 año, el TAVI redujo el objetivo primario combinado de muerte, ictus discapacitante o rehospitalización por insuficiencia cardíaca del 24,8% al 8,3% (HR 0,31; IC95% 0,14-0,66; p = 0,001), a costa de más sangrado grave y más marcapasos definitivos.",
+   "why": "cubre un hueco real: en la insuficiencia aórtica pura grave no candidata a cirugía, el tratamiento médico era a menudo la única opción y el TAVI se usaba fuera de indicación con evidencia exclusivamente observacional, porque la anatomía (ausencia de calcio para anclar la prótesis) hace el procedimiento técnicamente distinto del TAVI por estenosis. Es la primera comparación aleatorizada y con potencia suficiente, y el beneficio es de magnitud grande y está impulsado sobre todo por la reducción de rehospitalizaciones por insuficiencia cardíaca, un desenlace muy relevante para el paciente aunque menos duro que la mortalidad. Hay que ponderar varios matices: ensayo abierto y promovido por investigadores, realizado íntegramente en China con un dispositivo concreto (sistema VitaFlow), con 210 pacientes y seguimiento de solo 1 año, lo que limita la extrapolación a otras prótesis, otros sistemas sanitarios y al largo plazo. El precio en seguridad no es menor: más sangrado mayor o potencialmente letal y más implantes de marcapasos definitivo, concentrados en los primeros 30 días, lo que obliga a una conversación individualizada sobre riesgo-beneficio.",
+   "deque": "En los pacientes con insuficiencia aórtica pura grave y riesgo quirúrgico elevado, el tratamiento médico dirigido por guías es con frecuencia la única opción disponible. El TAVI transfemoral es un tratamiento establecido para la estenosis aórtica y se ha evaluado también en pacientes con insuficiencia aórtica pura, pero ningún ensayo aleatorizado con potencia suficiente había comparado el TAVI con el tratamiento médico aislado en esta población. Se realizó un ensayo prospectivo, promovido por investigadores, multicéntrico, aleatorizado y abierto en China. Los pacientes con insuficiencia aórtica pura grave en los que el equipo cardiológico local consideraba la cirugía difícil o inaceptable, o que la rechazaban de forma persistente, se asignaron aleatoriamente 1:1 a TAVI transfemoral con el sistema VitaFlow más tratamiento médico dirigido por guías, o a tratamiento médico aislado. El objetivo primario fue un combinado de muerte por cualquier causa, ictus discapacitante o rehospitalización por insuficiencia cardíaca al año.",
+   "resultados": "Se asignaron 210 pacientes con insuficiencia aórtica pura grave al grupo de TAVI (n = 109) o al grupo de tratamiento médico (n = 101) en 18 centros. Al año de seguimiento, la estimación de Kaplan-Meier del objetivo primario fue significativamente menor en el grupo de TAVI que en el de tratamiento médico (8,3% vs 24,8%; HR 0,31 [IC95% 0,14-0,66]; p = 0,001), impulsada principalmente por una reducción de la rehospitalización por insuficiencia cardíaca (3,7% vs 21,3%; HR 0,16 [IC95% 0,06-0,47]; p < 0,001). El TAVI se asoció a mayores tasas de sangrado mayor o potencialmente letal y de implante de marcapasos definitivo nuevo, la mayoría de ellos en los primeros 30 días tras el procedimiento. Registro: ClinicalTrials.gov NCT04864145.",
+   "conclusiones": "En pacientes con insuficiencia aórtica pura grave, el TAVI añadido al tratamiento médico dirigido por guías redujo de forma significativa la tasa de muerte por cualquier causa, ictus discapacitante o rehospitalización por insuficiencia cardíaca al año frente al tratamiento médico aislado, a pesar de tasas más altas a 30 días de sangrado mayor o potencialmente letal y de implante de marcapasos definitivo nuevo."
+  },
+  "en": {
+   "resumen": "First adequately powered randomized trial comparing transfemoral TAVR plus medical therapy with medical therapy alone in 210 patients with severe pure aortic regurgitation at high surgical risk or declining surgery. At 1 year, TAVR reduced the composite primary endpoint of death, disabling stroke or heart failure rehospitalization from 24.8% to 8.3% (HR 0.31; 95% CI 0.14-0.66; P = 0.001), at the cost of more major bleeding and more permanent pacemakers.",
+   "why": "it fills a real gap: in severe pure aortic regurgitation unsuitable for surgery, medical therapy was often the only option and TAVR was used off-label on purely observational evidence, because the anatomy (no calcium to anchor the prosthesis) makes the procedure technically different from TAVR for stenosis. This is the first adequately powered randomized comparison, and the benefit is large and driven mainly by a reduction in heart failure rehospitalization, an outcome that matters greatly to patients even if softer than mortality. Several caveats deserve weight: an open-label, investigator-initiated trial conducted entirely in China with a single device (the VitaFlow system), 210 patients and only 1 year of follow-up, which limits extrapolation to other prostheses, other health systems and the long term. The safety price is not trivial: more major or life-threatening bleeding and more permanent pacemaker implantation, concentrated in the first 30 days, which calls for an individualized risk-benefit conversation.",
+   "deque": "For patients with severe pure aortic regurgitation at high surgical risk, guideline-directed medical therapy is often the only available option. Transfemoral TAVR is an established treatment for aortic stenosis and has also been evaluated in patients with pure aortic regurgitation; however, no adequately powered randomized trial had compared TAVR with medical therapy alone in this population. A prospective, investigator-initiated, multicenter, randomized, open-label trial was conducted in China. Patients with severe pure aortic regurgitation for whom surgery was considered difficult or unacceptable by the local heart team, or who persistently declined surgery, were randomly assigned 1:1 to transfemoral TAVR with the VitaFlow system plus guideline-directed medical therapy or to guideline-directed medical therapy alone. The primary end point was a composite of all-cause death, disabling stroke or heart failure rehospitalization at 1 year.",
+   "resultados": "A total of 210 patients with severe pure aortic regurgitation were assigned to the TAVR group (n = 109) or the medical therapy group (n = 101) at 18 centers. At 1-year follow-up, the Kaplan-Meier estimate of the primary end point was significantly lower in the TAVR group than in the medical therapy group (8.3% vs 24.8%; HR 0.31 [95% CI 0.14-0.66]; P = 0.001), driven primarily by a reduction in heart failure rehospitalization (3.7% vs 21.3%; HR 0.16 [95% CI 0.06-0.47]; P < 0.001). TAVR was associated with higher rates of major or life-threatening bleeding and new permanent pacemaker implantation, most of which occurred within 30 days after the procedure. Registration: ClinicalTrials.gov NCT04864145.",
+   "conclusiones": "Among patients with severe pure aortic regurgitation, TAVR plus guideline-directed medical therapy significantly reduced the rate of all-cause death, disabling stroke or heart failure rehospitalization at 1 year compared with guideline-directed medical therapy alone, despite higher 30-day rates of major or life-threatening bleeding and new permanent pacemaker implantation."
+  }
+ },
+ "a41": {
+  "key": "a41",
+  "sec": 9,
+  "ptype": "Ensayo clínico aleatorizado",
+  "journal": "JACC Cardiovasc Interv",
+  "doi": "10.1016/j.jcin.2026.09.030",
+  "total": 6.47,
+  "prio": "Relevante",
+  "title_en": "Sirolimus- Versus Everolimus-Eluting Stents With Contemporary PCI in Three-Vessel Disease: The Multivessel TALENT Randomized Noninferiority Trial",
+  "title_es": "Stents liberadores de sirolimus frente a everolimus con ICP contemporánea en la enfermedad de tres vasos: ensayo aleatorizado de no inferioridad Multivessel TALENT",
+  "es": {
+   "resumen": "En 1.548 pacientes con enfermedad de tres vasos tratados con ICP contemporánea, el stent Supraflex Cruz de sirolimus fue no inferior al SYNERGY de everolimus en el objetivo combinado orientado al paciente a 1 año (15,23% frente a 14,51%; p de no inferioridad 0,025).",
+   "why": "es un ensayo grande en la enfermedad coronaria más compleja y en un escenario de ICP «contemporánea» bien definida: selección por el Heart Team con SYNTAX II, fisiología angiográfica, optimización con imagen intravascular, experiencia en oclusiones crónicas y doble antiagregación corta seguida de monoterapia con prasugrel. Confirma que un stent de sirolimus de plataforma ultrafina es una alternativa válida al comparador de referencia en este contexto. El margen de no inferioridad es amplio (4,28%) y el seguimiento de solo 1 año; el infarto fue numéricamente más frecuente con sirolimus (10,07% frente a 8,14%), aunque el abstract no aporta contraste formal.",
+   "deque": "La ICP contemporánea ha mejorado los resultados en la enfermedad de tres vasos, pero el stent liberador de sirolimus Supraflex Cruz no se había comparado con el stent liberador de everolimus SYNERGY en este contexto. Se aleatorizaron 1.548 pacientes con enfermedad de tres vasos de novo a Supraflex Cruz (n=774) o SYNERGY (n=774), seleccionados tras discusión en el Heart Team con el SYNTAX Score II. La ICP contemporánea incluyó fisiología derivada de la angiografía, optimización con imagen intravascular, experiencia en oclusiones totales crónicas y doble antiagregación corta seguida de monoterapia con prasugrel. Objetivo primario: combinado orientado al paciente a 1 año (muerte por cualquier causa, cualquier ictus, cualquier infarto o cualquier revascularización), estimado por Kaplan-Meier en la población por intención de tratar; margen de no inferioridad 4,28%.",
+   "resultados": "Mediana de seguimiento 367 días (RIC 362-372). A 1 año, el objetivo primario ocurrió en el 15,23% (IC95% 12,87-17,96) con Supraflex Cruz y en el 14,51% (IC95% 12,20-17,21) con SYNERGY; diferencia de riesgo 0,72 puntos porcentuales, con límite superior unilateral del IC95% de 3,71%, por debajo del margen (p de no inferioridad 0,025). Infarto: 10,07% (IC95% 8,14-12,43) frente a 8,14% (6,41-10,33); revascularización: 6,40% (4,86-8,40) frente a 6,81% (5,22-8,87); trombosis del stent: 1,31% (0,71-2,43) frente a 1,08% (0,54-2,14).",
+   "conclusiones": "En pacientes con enfermedad de tres vasos tratados con ICP contemporánea, el stent liberador de sirolimus Supraflex Cruz fue no inferior al stent liberador de everolimus SYNERGY en el objetivo combinado orientado al paciente a 1 año."
+  },
+  "en": {
+   "resumen": "In 1,548 patients with three-vessel disease treated with contemporary PCI, the Supraflex Cruz sirolimus-eluting stent was noninferior to the SYNERGY everolimus-eluting stent for the 1-year patient-oriented composite endpoint (15.23% versus 14.51%; P for noninferiority 0.025).",
+   "why": "this is a large trial in the most complex coronary disease and in a well-defined «contemporary» PCI setting: Heart Team selection with SYNTAX II, angiography-derived physiology, intravascular imaging optimisation, chronic total occlusion expertise and short dual antiplatelet therapy followed by prasugrel monotherapy. It confirms that an ultrathin-strut sirolimus-eluting stent is a valid alternative to the reference comparator in this setting. The noninferiority margin is wide (4.28%) and follow-up only 1 year; myocardial infarction was numerically more frequent with sirolimus (10.07% versus 8.14%), although the abstract gives no formal comparison.",
+   "deque": "Contemporary PCI has improved outcomes in three-vessel disease, but the Supraflex Cruz sirolimus-eluting stent had not been compared with the SYNERGY everolimus-eluting stent in this setting. 1,548 patients with de novo three-vessel disease were randomised to Supraflex Cruz (n=774) or SYNERGY (n=774), selected after Heart Team discussion incorporating the SYNTAX Score II. Contemporary PCI included angiography-derived physiology, intravascular imaging optimisation, chronic total occlusion expertise and short dual antiplatelet therapy followed by prasugrel monotherapy. Primary endpoint: 1-year patient-oriented composite endpoint (all-cause death, any stroke, any myocardial infarction or any revascularisation), estimated by Kaplan-Meier in the intention-to-treat population; noninferiority margin 4.28%.",
+   "resultados": "Median follow-up 367 days (IQR 362-372). At 1 year, the primary endpoint occurred in 15.23% (95% CI 12.87-17.96) with Supraflex Cruz and 14.51% (95% CI 12.20-17.21) with SYNERGY; risk difference 0.72 percentage points, with a one-sided 95% upper confidence bound of 3.71%, below the margin (P for noninferiority 0.025). Myocardial infarction: 10.07% (95% CI 8.14-12.43) versus 8.14% (6.41-10.33); revascularisation: 6.40% (4.86-8.40) versus 6.81% (5.22-8.87); stent thrombosis: 1.31% (0.71-2.43) versus 1.08% (0.54-2.14).",
+   "conclusiones": "In patients with three-vessel disease undergoing contemporary PCI, the Supraflex Cruz sirolimus-eluting stent was noninferior to the SYNERGY everolimus-eluting stent for the 1-year patient-oriented composite endpoint."
+  }
+ },
+ "a42": {
+  "key": "a42",
   "sec": 9,
   "ptype": "Registro",
   "journal": "Rev Esp Cardiol (Engl Ed)",
@@ -952,58 +1127,8 @@
    "conclusiones": "The 2025 Spanish cardiac catheterization and interventional cardiology registry shows overall growth in both coronary and structural activity."
   }
  },
- "a36": {
-  "key": "a36",
-  "sec": 9,
-  "ptype": "Investigación original",
-  "journal": "JACC Cardiovasc Interv",
-  "doi": "10.1016/j.jcin.2026.08.018",
-  "total": 5.16,
-  "prio": "Relevante",
-  "title_en": "Safety and Effectiveness of a Novel Laser-Based Intravascular Lithotripsy System for Coronary Calcium: FRACTURE Study",
-  "title_es": "Seguridad y eficacia de un nuevo sistema de litotricia intravascular basado en láser para el calcio coronario: estudio FRACTURE",
-  "es": {
-   "resumen": "Estudio prospectivo, multicéntrico y de un solo brazo en 420 pacientes con lesiones coronarias de novo muy calcificadas tratadas con un nuevo sistema de litotricia intravascular (IVL) de cuatro emisores basado en láser y óptica: la ausencia de eventos cardiacos adversos mayores a 30 días fue del 93,3% y el éxito del procedimiento del 93,7%, superando ambos los objetivos de rendimiento preespecificados (p < 0,0001).",
-   "why": "la litotricia intravascular ha cambiado el abordaje del calcio coronario, pero hasta ahora la experiencia clínica se concentra en una única plataforma basada en emisores eléctricos; disponer de una tecnología alternativa, en este caso con generación de la onda de choque por láser y cuatro emisores, abre la puerta a diseños de catéter distintos y a una posible competencia en un segmento hoy casi monopolizado. Los datos de seguridad y éxito del procedimiento son consistentes con lo publicado para la IVL, y el subestudio de tomografía de coherencia óptica aporta el sustrato mecanístico —fractura del calcio y expansión del stent— en lesiones realmente calcificadas, con arcos y longitudes de calcio importantes. Las limitaciones condicionan la lectura: es un estudio de un solo brazo, sin comparador frente a la IVL establecida ni frente a la aterectomía rotacional o el balón de corte, evaluado contra objetivos de rendimiento históricos y no contra un control concurrente; el seguimiento del objetivo de seguridad es de solo 30 días y el subestudio de imagen incluyó a una minoría de los pacientes. Sirve para apoyar la aprobación y el uso del dispositivo, no para situarlo por encima de las alternativas disponibles.",
-   "deque": "La litotricia intravascular (IVL) se ha consolidado como una opción prometedora para modificar el calcio coronario. El objetivo de este estudio fue evaluar la seguridad y la eficacia de un nuevo sistema de IVL de cuatro emisores basado en láser y óptica en lesiones coronarias de novo con calcificación grave. FRACTURE fue un ensayo prospectivo, multicéntrico y de un solo brazo. El objetivo primario de seguridad fue la ausencia a 30 días de eventos cardiacos adversos mayores (MACE; combinado de muerte cardiaca, infarto de miocardio o revascularización del vaso diana) y el objetivo primario de eficacia fue el éxito del procedimiento (implante exitoso del stent con estenosis residual final <50% y ausencia de MACE intrahospitalarios); ambos se evaluaron frente a objetivos de rendimiento preespecificados. Se realizó además un subestudio con tomografía de coherencia óptica (OCT).",
-   "resultados": "Se incluyeron 420 pacientes (edad media 71,2 ± 9,01 años; 74,0% varones). La longitud mediana de calcio fue de 34,4 mm (Q1-Q3: 21,3-52,5 mm). En los 106 pacientes con OCT, en el punto de máxima calcificación el arco de calcio fue de 271,89° ± 77,35° y el grosor mediano de 0,88 mm (Q1-Q3: 0,72-1,11 mm). La OCT confirmó fractura del calcio en el 67% de las lesiones; el área mínima del stent mediana fue de 6,51 mm² (Q1-Q3: 4,85-7,78 mm²) y la expansión del stent del 94,2% ± 19,4% en el punto de máxima calcificación. El objetivo primario de seguridad (ausencia de MACE a 30 días) fue del 93,3% (373/400), con un límite inferior del IC95% del 90,8%, superando el objetivo de rendimiento del 86,2% (p < 0,0001). El objetivo primario de eficacia (éxito del procedimiento) fue del 93,7% (374/399), con un límite inferior del IC95% del 91,3%, superando el objetivo de rendimiento del 85,8% (p < 0,0001). Registro NCT06181240.",
-   "conclusiones": "El sistema de litotricia intravascular de cuatro emisores es una opción segura y eficaz para modificar las lesiones coronarias con calcificación grave y facilitar el implante del stent."
-  },
-  "en": {
-   "resumen": "Prospective, multicenter, single-arm study in 420 patients with severely calcified de novo coronary lesions treated with a novel laser- and optic-based quad-emitter intravascular lithotripsy (IVL) system: 30-day freedom from major adverse cardiac events was 93.3% and procedural success 93.7%, both exceeding the prespecified performance goals (P < 0.0001).",
-   "why": "intravascular lithotripsy has changed the approach to coronary calcium, but clinical experience so far is concentrated on a single platform based on electrical emitters; having an alternative technology, here with laser-generated shockwaves and four emitters, opens the door to different catheter designs and to potential competition in a segment that is currently almost a monopoly. The safety and procedural success figures are consistent with what has been published for IVL, and the optical coherence tomography substudy provides the mechanistic substrate — calcium fracture and stent expansion — in genuinely calcified lesions, with substantial calcium arcs and lengths. Limitations shape the reading: this is a single-arm study with no comparator against established IVL or against rotational atherectomy or cutting balloons, assessed against historical performance goals rather than a concurrent control; follow-up for the safety endpoint is only 30 days and the imaging substudy included a minority of patients. It supports approval and use of the device, not its superiority over available alternatives.",
-   "deque": "Intravascular lithotripsy (IVL) has emerged as a promising option to modify coronary calcium. The objective of this study was to evaluate the safety and effectiveness of a novel laser- and optic-based quad-emitter IVL system in severely calcified de novo coronary lesions. FRACTURE was a prospective, multicenter, single-arm trial. The primary safety endpoint was 30-day freedom from major adverse cardiac events (MACE; composite of cardiac death, myocardial infarction or target vessel revascularization) and the primary effectiveness endpoint was procedural success (successful stent delivery with a final residual stenosis <50% and freedom from in-hospital MACE); both were evaluated against prespecified performance goals. An optical coherence tomography (OCT) substudy was also performed.",
-   "resultados": "A total of 420 patients were enrolled (mean age 71.2 ± 9.01 years; 74.0% male). Median calcified length was 34.4 mm (Q1-Q3: 21.3-52.5 mm). Among the 106 patients with OCT, at the site of maximum calcification the calcium arc was 271.89° ± 77.35° and median thickness was 0.88 mm (Q1-Q3: 0.72-1.11 mm). OCT confirmed calcium fracture in 67% of lesions; median minimal stent area was 6.51 mm² (Q1-Q3: 4.85-7.78 mm²) and stent expansion was 94.2% ± 19.4% at the site of maximum calcification. The primary safety endpoint of 30-day freedom from MACE was 93.3% (373/400), with a lower bound of the 95% CI of 90.8%, exceeding the 86.2% performance goal (P < 0.0001). The primary effectiveness endpoint of procedural success was 93.7% (374/399), with a lower bound of the 95% CI of 91.3%, exceeding the 85.8% performance goal (P < 0.0001). Registration NCT06181240.",
-   "conclusiones": "The quad-emitter intravascular lithotripsy system is a safe and effective option to modify severely calcified coronary lesions and facilitate stent implantation."
-  }
- },
- "a37": {
-  "key": "a37",
-  "sec": 9,
-  "ptype": "Estudio diagnóstico",
-  "journal": "JACC Cardiovasc Interv",
-  "doi": "10.1016/j.jcin.2026.07.053",
-  "total": 3.76,
-  "prio": "Complementario",
-  "title_en": "Calcium Fracture Detection by Optical Coherence Tomography Versus Intravascular Ultrasound Following Intravascular Lithotripsy",
-  "title_es": "Detección de fracturas de calcio mediante tomografía de coherencia óptica frente a ecografía intravascular tras litotricia intravascular",
-  "es": {
-   "resumen": "Estudio ex vivo en corazones de cadáver con lesiones coronarias muy calcificadas que compara la detección de fracturas de calcio tras litotricia intravascular por OCT y por IVUS frente a la micro-TC como patrón de referencia. Ambas técnicas subestiman las fracturas y la IVUS es menos sensible que la OCT: solo las fracturas de anchura >115 μm en OCT se identificaron de forma fiable por IVUS.",
-   "why": "la fractura del calcio se utiliza a diario como criterio de éxito de la preparación de la lesión, pero este trabajo muestra que el criterio depende de la técnica de imagen empleada. Ya se sabía que la OCT pierde aproximadamente la mitad de las fracturas y ahora se demuestra que la IVUS, la modalidad intracoronaria más usada, pierde todavía más. La clave práctica es que la detectabilidad por IVUS depende de la anchura de la fractura: las fracturas lineales estrechas y no desplazadas pasan desapercibidas o solo dejan una sombra hiperecogénica sutil. Por tanto, no ver fractura no equivale a no haber modificado el calcio y no debería motivar por sí mismo más ciclos de litotricia o escaladas de tratamiento. Las limitaciones son importantes: es un estudio ex vivo, con solo 5 corazones y 15 lesiones, sin correlato clínico ni de resultados del paciente, y el umbral de 115 μm se deriva de la misma muestra, sin validación externa.",
-   "deque": "La fractura del calcio es la métrica habitual para valorar el éxito de la preparación de las lesiones coronarias calcificadas, pero su detección depende de la técnica de imagen. El grupo ya había mostrado que la OCT no detecta aproximadamente la mitad de estas fracturas, y la sensibilidad de la IVUS, la modalidad de imagen intracoronaria más utilizada, para detectar fracturas de calcio tras litotricia intravascular era desconocida. En este estudio ex vivo con 5 corazones de cadáver (15 lesiones coronarias muy calcificadas) se obtuvieron OCT, IVUS y micro-TC antes y después del tratamiento coronario con litotricia intravascular, con el objetivo de evaluar la frecuencia y las características de las fracturas de calcio observadas por IVUS en comparación con la OCT y con la micro-TC como patrón oro. Se compararon las tasas de detección y los patrones de apariencia entre modalidades y se analizaron mediante curvas ROC los umbrales de anchura de fractura medida por OCT que permiten su detección por IVUS.",
-   "resultados": "Estudio ex vivo en 5 corazones de cadáver con 15 lesiones coronarias. Frente a la micro-TC, tanto la OCT como la IVUS subestimaron significativamente la aparición de fracturas, con mayor sensibilidad de detección de la OCT que de la IVUS (p < 0,05 en la prueba de McNemar). Las fracturas lineales estrechas y no desplazadas identificadas por OCT eran con frecuencia indetectables por IVUS o aparecían como sombras hiperecogénicas sutiles. La anchura de la fractura se asoció de forma potente a su detectabilidad por IVUS: las fracturas con anchura >115 μm en OCT fueron identificadas por IVUS con un rendimiento diagnóstico excelente (área bajo la curva 0,99 [IC95% 0,98-1,00]; sensibilidad 100%; especificidad 92%).",
-   "conclusiones": "La OCT y la IVUS subestiman la aparición de fracturas de calcio inducidas por la litotricia intravascular en comparación con la micro-TC, y la IVUS muestra una sensibilidad menor que la OCT. La detectabilidad por IVUS depende en gran medida de la anchura de la fractura. La ausencia de fractura visible por OCT o por IVUS no excluye que se haya producido modificación del calcio."
-  },
-  "en": {
-   "resumen": "Ex vivo study in cadaveric hearts with heavily calcified coronary lesions comparing detection of calcium fractures after intravascular lithotripsy by OCT and by IVUS against micro-CT as the reference standard. Both modalities underestimate fractures and IVUS is less sensitive than OCT: only fractures wider than 115 μm on OCT were reliably identified by IVUS.",
-   "why": "calcium fracture is used daily as a marker of successful lesion preparation, yet this work shows the marker depends on the imaging modality used. OCT was already known to miss about half of these fractures, and IVUS, the most widely used intracoronary modality, misses even more. The practical key is that IVUS detectability depends on fracture width: narrow, linear, nondisplaced fractures go unnoticed or leave only a subtle hyperechoic shadow. Absence of a visible fracture therefore does not mean the calcium was not modified, and should not by itself prompt further lithotripsy cycles or treatment escalation. The limitations matter: this is an ex vivo study with only 5 hearts and 15 lesions, with no clinical or patient-outcome correlate, and the 115 μm threshold is derived from the same sample without external validation.",
-   "deque": "Calcium fracture is the usual metric for assessing successful preparation of calcified coronary lesions, but its detection depends on the imaging modality. The group had already shown that OCT misses approximately half of these fractures, and the sensitivity of IVUS, the most commonly used intravascular imaging modality, for detecting calcium fractures after intravascular lithotripsy was unknown. In this ex vivo study of 5 cadaveric hearts (15 heavily calcified coronary lesions), OCT, IVUS and micro-CT were obtained before and after intravascular lithotripsy coronary treatment in order to assess the frequency and characteristics of calcium fracture seen on IVUS compared with OCT and with gold-standard micro-CT. Fracture detection rates and appearance patterns were compared across modalities, and receiver operating characteristic analyses evaluated the OCT-measured fracture width thresholds that allow IVUS detection.",
-   "resultados": "Ex vivo study in 5 cadaveric hearts with 15 coronary lesions. Compared with micro-CT, both OCT and IVUS significantly underestimated fracture occurrence, with OCT showing higher detection sensitivity than IVUS (P < 0.05 by McNemar's test). Narrow linear nondisplaced fractures identified on OCT were frequently undetectable on IVUS or appeared as subtle hyperechoic shadows. Fracture width was strongly associated with IVUS detectability: fractures wider than 115 μm on OCT were identified by IVUS with excellent diagnostic performance (area under the curve 0.99 [95% CI: 0.98-1.00]; sensitivity 100%; specificity 92%).",
-   "conclusiones": "OCT and IVUS underestimate the occurrence of lithotripsy-induced calcium fractures compared with micro-CT, with IVUS demonstrating lower sensitivity than OCT. IVUS detectability is strongly dependent on fracture width. Absence of visible fracture on either OCT or IVUS does not exclude calcium modification."
-  }
- },
- "a38": {
-  "key": "a38",
+ "a43": {
+  "key": "a43",
   "sec": 10,
   "ptype": "Ensayo clínico aleatorizado",
   "journal": "JAMA",
@@ -1027,8 +1152,8 @@
    "conclusiones": "Among patients with atrioventricular block and preserved LVEF requiring high-burden ventricular pacing, left bundle-branch area pacing was superior to right ventricular pacing in reducing the risk of the composite end point of all-cause death, heart failure events or upgrade to biventricular pacing at 24 months."
   }
  },
- "a39": {
-  "key": "a39",
+ "a44": {
+  "key": "a44",
   "sec": 10,
   "ptype": "Metaanálisis",
   "journal": "JACC Adv",
@@ -1052,8 +1177,33 @@
    "conclusiones": "LAAO significantly reduces nonprocedural major bleeding (TSA-confirmed) and clinically relevant nonmajor bleeding vs oral anticoagulation. A trend toward higher ischemic stroke was not TSA-confirmed and was sensitive to trial exclusion; all-cause stroke and mortality were similar. These findings quantify the benefit-harm tradeoff central to LAAO decisions."
   }
  },
- "a40": {
-  "key": "a40",
+ "a45": {
+  "key": "a45",
+  "sec": 10,
+  "ptype": "Investigación original",
+  "journal": "JACC Cardiovasc Interv",
+  "doi": "10.1016/j.jcin.2026.10.023",
+  "total": 4.95,
+  "prio": "Complementario",
+  "title_en": "1-Year Safety and Effectiveness of a Next-Generation Dual-Seal Left Atrial Appendage Occluder (VERITAS)",
+  "title_es": "Seguridad y eficacia a 1 año de un oclusor de orejuela izquierda de doble sellado de nueva generación (VERITAS)",
+  "es": {
+   "resumen": "En el estudio VERITAS, de un solo brazo, el nuevo oclusor de orejuela de doble sellado logró un cierre completo (fuga 0 mm) en el 91,1% de los pacientes a 1 año, con trombo sobre el dispositivo clínicamente relevante en el 0,4% e ictus isquémico o embolia sistémica en el 1,8%.",
+   "why": "es la evolución del dispositivo de doble sellado ya establecido, rediseñado para facilitar el implante sin perder eficacia de cierre. Los datos a 1 año muestran tasas muy altas de cierre completo, ninguna embolización del dispositivo y trombo relevante muy infrecuente. Son resultados descriptivos de un estudio de un solo brazo promovido por el fabricante, sin comparador ni objetivos de hipótesis en el abstract, así que sirven para conocer el dispositivo más que para cambiar indicaciones.",
+   "deque": "El cierre de la orejuela izquierda es una alternativa para prevenir el ictus en pacientes con fibrilación auricular que no toleran la anticoagulación oral a largo plazo. El dispositivo de doble sellado de nueva generación se diseñó para facilitar su uso al operador manteniendo la eficacia de cierre del dispositivo predecesor. VERITAS es un estudio global, prospectivo, multicéntrico y de un solo brazo en pacientes con fibrilación auricular no valvular, riesgo tromboembólico aumentado y búsqueda de una alternativa no farmacológica a la anticoagulación. Se describen los objetivos a 1 año (mortalidad, eventos neurológicos, hemorragia mayor y complicaciones del dispositivo) y la imagen cardiaca a 1 año para fuga peridispositivo y trombo sobre el dispositivo.",
+   "resultados": "Cierre completo de la orejuela (fuga 0 mm) en el 91,1% (IC95% 87,9-93,7) por ecocardiografía transesofágica o TC cardiaca y en el 96,3% (IC95% 93,2-98,2) por ecocardiografía transesofágica sola. Trombo sobre el dispositivo acumulado 3,3% (IC95% 2,0-5,3), clínicamente relevante solo en el 0,4% (IC95% 0,1-1,5). A 1 año: mortalidad por cualquier causa 3,9% (IC95% 2,4-6,3), mortalidad cardiovascular 1,9% (0,9-3,8), hemorragia mayor 6,6% (4,5-9,2), ictus isquémico o embolia sistémica 1,8% (0,8-3,3) y derrame pericárdico con necesidad de intervención 0,9% (0,3-2,1). No hubo ninguna embolización del dispositivo (0%). Mediana de seguimiento 365 días (RIC 349-380).",
+   "conclusiones": "Los resultados del estudio VERITAS respaldan la seguridad y la eficacia a 1 año del dispositivo de nueva generación."
+  },
+  "en": {
+   "resumen": "In the single-arm VERITAS study, the new dual-seal left atrial appendage occluder achieved complete closure (0 mm leak) in 91.1% of patients at 1 year, with clinically relevant device-related thrombus in 0.4% and ischaemic stroke or systemic embolism in 1.8%.",
+   "why": "this is the evolution of the established dual-seal device, redesigned for easier implantation without losing closure effectiveness. One-year data show very high rates of complete closure, no device embolisation and very infrequent relevant thrombus. These are descriptive results from a manufacturer-sponsored single-arm study without a comparator or hypothesis-tested endpoints in the abstract, so they inform about the device rather than change indications.",
+   "deque": "Left atrial appendage occlusion is a stroke prevention alternative for patients with atrial fibrillation intolerant to long-term oral anticoagulation. The next-generation dual-seal device was designed to improve ease of use while maintaining the closure effectiveness of the predicate device. VERITAS is a global, prospective, multicentre, single-arm study in patients with nonvalvular atrial fibrillation at increased thromboembolic risk seeking a nonpharmacological alternative to anticoagulation. One-year descriptive endpoints (mortality, neurological events, major bleeding and device-related complications) and 1-year cardiac imaging for peridevice leak and device-related thrombus are reported.",
+   "resultados": "Complete appendage closure (0 mm leak) in 91.1% (95% CI 87.9-93.7) by transoesophageal echocardiography or cardiac CT and 96.3% (95% CI 93.2-98.2) by transoesophageal echocardiography alone. Cumulative device-related thrombus 3.3% (95% CI 2.0-5.3), clinically relevant in only 0.4% (95% CI 0.1-1.5). At 1 year: all-cause mortality 3.9% (95% CI 2.4-6.3), cardiovascular mortality 1.9% (0.9-3.8), major bleeding 6.6% (4.5-9.2), ischaemic stroke or systemic embolism 1.8% (0.8-3.3) and pericardial effusion requiring intervention 0.9% (0.3-2.1). No device embolisation occurred (0%). Median follow-up 365 days (IQR 349-380).",
+   "conclusiones": "The VERITAS study results support the 1-year safety and effectiveness of the next-generation device."
+  }
+ },
+ "a46": {
+  "key": "a46",
   "sec": 10,
   "ptype": "Estudio de cohorte",
   "journal": "Heart Rhythm",
@@ -1077,8 +1227,8 @@
    "conclusiones": "Pulsed field catheter ablation of atrial fibrillation in hypertrophic cardiomyopathy was associated with reduced 24-month atrial arrhythmia recurrence, with exploratory signals of fewer cardiovascular hospitalizations and improved NYHA class compared with radiofrequency, while cryoballoon showed no significant difference."
   }
  },
- "a41": {
-  "key": "a41",
+ "a47": {
+  "key": "a47",
   "sec": 10,
   "ptype": "Ensayo clínico aleatorizado",
   "journal": "J Am Heart Assoc",
@@ -1100,31 +1250,6 @@
    "deque": "Stellate ganglion block may reduce postoperative atrial fibrillation by modulating the autonomic nervous system. This study evaluated the efficacy of preoperative stellate ganglion block in preventing postoperative atrial fibrillation following cardiac surgery. In this single-center, randomized, double-blind, placebo-controlled trial, 140 patients undergoing valve surgery with cardiopulmonary bypass were assigned (1:1) to ultrasound-guided right stellate ganglion block with 7 mL of 0.5% ropivacaine or 7 mL of normal saline. The primary outcome was the incidence of postoperative atrial fibrillation from postoperative day 0 to day 7 or until discharge.",
    "resultados": "A total of 132 patients completed the study and were included in the modified intention-to-treat population (block group: n = 65; saline group: n = 67). Postoperative atrial fibrillation occurred in 43% of the block group and 40% of the saline group (odds ratio [OR], 0.99 [95% CI, 0.46-2.15]; adjusted P = 0.989). The block group demonstrated a lower incidence of intraoperative ventricular fibrillation/ventricular tachycardia requiring defibrillation after aortic cross-clamp release (6% versus 19%; OR, 0.21 [95% CI, 0.06-0.80]; adjusted P = 0.022), lower postoperative high-sensitivity troponin I levels (median difference: -2562 ng/L [95% CI, -4301 to -45]; P = 0.045) and a reduced risk of postoperative acute kidney injury (5% versus 18%; OR, 0.24 [95% CI, 0.06-0.98]; adjusted P = 0.046). Registration: ChiCTR2300068572.",
    "conclusiones": "While preoperative stellate ganglion block did not reduce the incidence of postoperative atrial fibrillation, it was associated with potential benefits, including a lower requirement for intraoperative defibrillation attributable to ventricular arrhythmias, attenuated myocardial injury (as indicated by lower high-sensitivity troponin I levels) and a decreased risk of postoperative acute kidney injury."
-  }
- },
- "a42": {
-  "key": "a42",
-  "sec": 10,
-  "ptype": "Artículo de revisión",
-  "journal": "Eur J Prev Cardiol",
-  "doi": "10.1093/eurjpc/zwag577",
-  "total": 4.68,
-  "prio": "Complementario",
-  "title_en": "Omega-3 Fatty Acids and Atrial Fibrillation: Current Evidence and Expert Opinion",
-  "title_es": "Ácidos grasos omega-3 y fibrilación auricular: evidencia actual y opinión de expertos",
-  "es": {
-   "resumen": "Revisión con opinión de expertos sobre el riesgo de fibrilación auricular asociado a los ácidos grasos omega-3. Según el metaanálisis actualizado que revisan, las ingestas de hasta 1.500 mg/día (y posiblemente 2.400 mg/día) de EPA+DHA procedentes de alimentos o suplementos no parecen aumentar el riesgo en la población general, mientras que en personas con riesgo cardiovascular alto las dosis >1.500 mg/día podrían aumentar el riesgo absoluto (en <1%) y el relativo (en torno al 43%).",
-   "why": "la señal de fibrilación auricular de los ensayos con omega-3 ha generado inquietud en la consulta, y el mensaje que se trasladaba al paciente era a menudo indiscriminado. Este documento separa dos escenarios que no son equivalentes: los estudios que generaron la alarma se hicieron prácticamente todos con preparados farmacológicos de omega-3 y en poblaciones con riesgo cardiovascular elevado, lo que no se puede extrapolar sin más a quien consume pescado azul o suplementos en la población general. La aportación práctica es cuantificar el tamaño del riesgo en el escenario de riesgo alto, con un incremento absoluto inferior al 1% con dosis >1.500 mg/día, y situarlo frente a los beneficios cardiovasculares, de donde los autores concluyen que el balance sigue siendo favorable. Conviene leerlo como lo que es: una revisión narrativa con opinión de expertos basada en un metaanálisis actualizado, no un ensayo nuevo, y con un margen de incertidumbre explícito en el umbral de dosis (hasta 1.500 mg/día, y posiblemente 2.400 mg/día).",
-   "deque": "Ensayos clínicos recientes han comunicado un aumento del riesgo de fibrilación auricular en personas tratadas con ácidos grasos omega-3. Como prácticamente todos esos estudios se realizaron con preparados farmacológicos de omega-3 y en poblaciones con riesgo elevado de enfermedad cardiovascular, no está claro en qué medida sus hallazgos se aplican a la población general que consume omega-3 a partir de pescado azul o de suplementos dietéticos. Esta revisión aborda esa cuestión a partir de un metaanálisis actualizado y formula la opinión de los autores sobre el balance riesgo-beneficio de la ingesta de EPA+DHA tanto en la población general como en los pacientes con enfermedad cardiovascular establecida o con riesgo cardiovascular alto.",
-   "resultados": "Según el metaanálisis actualizado que se revisa, el consumo de hasta 1.500 mg/día (y posiblemente 2.400 mg/día) de ácido eicosapentaenoico (EPA) más ácido docosahexaenoico (DHA) procedentes de alimentos o de suplementos dietéticos en la población adulta general no parece aumentar de forma significativa el riesgo de fibrilación auricular; de hecho, la mayor parte de la evidencia sugiere que las ingestas crónicas en ese rango se asocian a un menor riesgo de fibrilación auricular (y de otros eventos cardiovasculares) en la población general. En las personas con riesgo alto de enfermedad cardiovascular, el tratamiento con dosis de EPA+DHA >1.500 mg/día podría aumentar el riesgo absoluto de fibrilación auricular (en <1%) y el riesgo relativo (en torno al 43%).",
-   "conclusiones": "Por los efectos favorables del EPA+DHA sobre los eventos cardiovasculares (y sobre otros resultados de salud), la opinión de los autores es que, para la población general, las ingestas de EPA+DHA aportan varios beneficios para la salud y no aumentan de forma relevante el riesgo de fibrilación auricular. Para los pacientes con enfermedad cardiovascular prevalente o con riesgo alto de enfermedad cardiovascular, el balance riesgo-beneficio de la ingesta de EPA+DHA es favorable, especialmente con ingestas de hasta 1.500 mg/día, pero también con dosis mayores, en las que podría existir un aumento del riesgo de fibrilación auricular."
-  },
-  "en": {
-   "resumen": "Review with expert opinion on the risk of atrial fibrillation associated with omega-3 fatty acids. According to the updated meta-analysis reviewed, intakes of up to 1500 mg/day (and possibly 2400 mg/day) of EPA+DHA from food or supplements do not appear to increase risk in the general population, whereas in people at high cardiovascular risk doses >1500 mg/day might increase the absolute risk (by <1%) and the relative risk (by about 43%).",
-   "why": "the atrial fibrillation signal from omega-3 trials has caused concern in the clinic, and the message passed on to patients was often undifferentiated. This document separates two scenarios that are not equivalent: virtually all the studies that raised the alarm used pharmaceutical omega-3 preparations in populations at higher cardiovascular risk, which cannot simply be extrapolated to people eating oily fish or taking supplements in the general population. Its practical contribution is to quantify the size of the risk in the high-risk scenario, an absolute increase of less than 1% with doses >1500 mg/day, and to set it against the cardiovascular benefits, from which the authors conclude that the balance remains favorable. It should be read for what it is: a narrative review with expert opinion based on an updated meta-analysis, not a new trial, and with explicit uncertainty around the dose threshold (up to 1500 mg/day, and possibly 2400 mg/day).",
-   "deque": "Recent clinical trials have reported an increased risk for atrial fibrillation in individuals treated with omega-3 fatty acids. As virtually all these studies were conducted with pharmaceutical omega-3 preparations in populations at higher risk for cardiovascular disease, it is unclear to what extent these findings apply to the general population consuming omega-3 fatty acids either from oily fish or from omega-3 supplements. This review addresses that question on the basis of an updated meta-analysis and sets out the authors' view on the risk-benefit balance of EPA+DHA intake both in the general population and in patients with established cardiovascular disease or at high cardiovascular risk.",
-   "resultados": "Based on the updated meta-analysis reviewed, consumption of up to 1500 mg/day (and possibly 2400 mg/day) of eicosapentaenoic acid (EPA) plus docosahexaenoic acid (DHA) from food or dietary supplements in the general adult population does not appear to significantly increase risk for atrial fibrillation; indeed, the preponderance of the evidence suggests that chronic intakes in this range are associated with lower risk for atrial fibrillation (and other cardiovascular outcomes) in the general population. For individuals at high risk for cardiovascular disease, treatment with EPA+DHA doses of >1500 mg/day might increase the absolute risk for atrial fibrillation (by <1%) and the relative risk (by ∼43%).",
-   "conclusiones": "Because of the favorable effects of EPA+DHA on cardiovascular (and other health) outcomes, the authors' view is that, for the general population, intakes of EPA+DHA afford several health benefits and do not meaningfully increase the risk for atrial fibrillation. For patients with prevalent cardiovascular disease or at high risk for cardiovascular disease, the risk-benefit ratio for EPA+DHA intake is favorable, especially for intakes up to 1500 mg/day, but also at higher doses where there may be increased risk for atrial fibrillation."
   }
  }
 }

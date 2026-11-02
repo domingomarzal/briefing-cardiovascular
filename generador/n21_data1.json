@@ -17,7 +17,7 @@
    "conclusiones": "Hepatic steatosis provided complementary cardiovascular and liver prognostic value beyond CKM staging, supporting its integration for more comprehensive cardiohepatic risk stratification."
   }
  },
- "a11": {
+ "a12": {
   "title_en": "Intensive vs More Intensive Lipid-Lowering Therapy and Plaque Regression in Statin-Naive Patients: Prespecified Analyses From the FLOWPROMOTE Randomized Clinical Trial",
   "title_es": "Tratamiento hipolipidemiante intensivo frente a más intensivo y regresión de la placa en pacientes sin estatinas previas: análisis preespecificados del ensayo clínico aleatorizado FLOWPROMOTE",
   "es": {
@@ -35,7 +35,7 @@
    "conclusiones": "This secondary analysis of the FLOWPROMOTE randomized clinical trial demonstrated that in statin-naive patients with coronary artery disease, more intensive lipid-lowering therapy was associated with significantly greater regression of total and noncalcified coronary plaque burden compared with intensive therapy. The extent of plaque regression was related to achieved LDL-C levels, supporting the potential for partial reversal of coronary atherosclerosis with intensive lipid reduction."
   }
  },
- "a12": {
+ "a15": {
   "title_en": "Effects of Walnut Consumption on Anti-MDA-LDL Antibodies and Immunoglobulins in the WAHA Randomized Trial",
   "title_es": "Efectos del consumo de nueces sobre los anticuerpos anti-MDA-LDL y las inmunoglobulinas en el ensayo aleatorizado WAHA",
   "es": {
@@ -53,7 +53,7 @@
    "conclusiones": "Long-term walnut consumption was associated with a modest increase in total serum IgG but had no significant effect on total IgM, MDA-LDL or antibodies against MDA-LDL. Baseline IgG and IgM concentrations were substantially lower among US participants, suggesting that geographic, environmental, social or genetic factors may modulate immune biomarkers independently of the dietary intervention."
   }
  },
- "a13": {
+ "a16": {
   "title_en": "Performance of 0/1 h versus 0/3 h pathways in patients with suspected myocardial infarction: a systematic review and individual participant data meta-analysis of randomised controlled trials",
   "title_es": "Rendimiento de las vías 0/1 h frente a 0/3 h en pacientes con sospecha de infarto de miocardio: revisión sistemática y metaanálisis de datos de participantes individuales de ensayos aleatorizados",
   "es": {
@@ -71,7 +71,7 @@
    "conclusiones": "Across the available randomised trials, short-term adverse event rates were low with both pathways, but the pooled safety estimate remained imprecise. On average, earlier cardiac troponin retesting did not reduce emergency department length of stay or clearly increase direct discharge, and substantial between-study heterogeneity indicates that treatment effects might not translate uniformly across health-care systems. For hospitals considering transitioning from a 0/3 h to a 0/1 h pathway, implementation decisions should take broader diagnostic and organisational considerations into account."
   }
  },
- "a14": {
+ "a17": {
   "title_en": "Clopidogrel Versus Aspirin Monotherapy According to Atherothrombotic Risk Profile (SMART-CHOICE 3)",
   "title_es": "Monoterapia con clopidogrel frente a aspirina según el perfil de riesgo aterotrombótico (SMART-CHOICE 3)",
   "es": {
@@ -89,7 +89,7 @@
    "conclusiones": "After completion of dual antiplatelet therapy following percutaneous coronary intervention, clopidogrel monotherapy was associated with lower ischemic risk than aspirin in patients with higher atherothrombotic risk, without increased bleeding."
   }
  },
- "a15": {
+ "a19": {
   "title_en": "Interpreting High-Sensitivity Cardiac Troponin in Clinical Practice and Emerging Directions: Detection Is No Longer Diagnosis",
   "title_es": "Interpretación de la troponina cardíaca de alta sensibilidad en la práctica clínica y direcciones emergentes: detectar ya no es diagnosticar",
   "es": {
@@ -107,7 +107,7 @@
    "conclusiones": "Misclassification of myocardial injury occurs in both directions and with real consequence: nonischemic myocardial injury is frequently mislabeled as secondary myocardial infarction, contributing to the overdiagnosis of MI, and chronic myocardial injury — which carries a risk of subsequent MI or cardiovascular death approaching that of primary MI — is routinely dismissed once infarction has been excluded. Accurate classification cannot be delegated to an algorithm and instead requires integrated, context-aware interpretation; until the assays themselves can carry more of the interpretive burden, that burden rests with the clinician."
   }
  },
- "a16": {
+ "a20": {
   "title_en": "Microvascular Resistance Reserve and Outcomes in Angina and Nonobstructive Coronary Artery Disease (NL-CFT)",
   "title_es": "Reserva de resistencia microvascular y desenlaces en la angina con enfermedad coronaria no obstructiva (NL-CFT)",
   "es": {
@@ -125,25 +125,7 @@
    "conclusiones": "In this study, CMD assessed by continuous thermodilution-derived MRR was not associated with clinical outcomes."
   }
  },
- "a17": {
-  "title_en": "A Mobile Application for STEMI Care Optimization in a Multicenter Health System (STEMIcathAID)",
-  "title_es": "Una aplicación móvil para optimizar la atención del IAMCEST en un sistema sanitario multicéntrico (STEMIcathAID)",
-  "es": {
-   "resumen": "Estudio observacional de implantación de la aplicación móvil STEMIcathAID en un sistema sanitario multicéntrico: el tiempo puerta-dispositivo compuesto bajó de 92 a 71 min (reducción de 16 min; IC95% 8-24) y el tiempo puerta-entrada-puerta-salida combinado de las vías de traslado, de 57,5 a 46,0 min (reducción de 12 min; IC95% 6-19), ambos con p <0,001.",
-   "why": "el cuello de botella del IAMCEST trasladado no suele ser la sala de hemodinámica, sino la logística del traslado interhospitalario y la coordinación fragmentada entre los miembros del equipo. Este trabajo cuantifica lo que aporta una herramienta digital segura que unifica la activación, la coordinación del traslado y el registro automático de marcas temporales, con una mejora clara en las dos vías interhospitalarias y la consecución del objetivo de tiempo puerta-dispositivo en el 100% de los casos. Es informativo que la vía local, con ICP en el propio centro, no mejorara: el beneficio parece concentrarse donde hay transferencia de información entre hospitales. Las limitaciones son las propias del diseño: es una comparación observacional antes-después, sin aleatorización, susceptible de tendencia temporal y de efecto Hawthorne, y los desenlaces son métricas de proceso y no eventos clínicos ni mortalidad.",
-   "deque": "La logística del traslado interhospitalario y la coordinación fragmentada entre los miembros del equipo asistencial pueden causar retrasos en el tratamiento de los pacientes con infarto de miocardio con elevación del segmento ST (IAMCEST). Los autores desarrollaron una aplicación móvil segura, STEMIcathAID, para agilizar la activación del código infarto, coordinar el traslado y permitir la captura de marcas temporales. El objetivo fue evaluar el efecto de la implantación de la aplicación sobre las métricas de tiempo en un sistema sanitario multicéntrico. Se realizó una comparación observacional de las activaciones por IAMCEST gestionadas a través de la aplicación frente al flujo de trabajo tradicional en 2 rutas de traslado interhospitalario (vías 1 y 2) y 1 vía local con capacidad de intervención coronaria percutánea. Los análisis primarios fueron las comparaciones del tiempo puerta-dispositivo (D2D) compuesto y del tiempo puerta-entrada-puerta-salida (DIDO) combinado de las vías de traslado, expresados como mediana (RIQ).",
-   "resultados": "El tiempo D2D compuesto descendió de 92 min (RIQ 63-110) a 71 min (RIQ 60-85), con una reducción de Hodges-Lehmann de 16 min (IC95% 8-24; p <0,001). El DIDO combinado de las vías de traslado descendió de 57,5 min (RIQ 48,3-70,8) a 46,0 min (RIQ 39,5-57,5), con una reducción de Hodges-Lehmann de 12 min (IC95% 6-19; p <0,001). El D2D y el DIDO mejoraron en ambas vías de traslado interhospitalario, mientras que la vía local no mostró mejoría significativa. La consecución del objetivo de D2D según los estándares de referencia del registro específicos de cada vía mejoró del 84,9% (79/93) al 100% (123/123; p <0,001). La proporción de casos trasladados que alcanzaron un DIDO ≤45 min aumentó del 20,4% (11/54) al 46,0% (29/63; p = 0,006).",
-   "conclusiones": "En este estudio observacional multicéntrico de implementación, las activaciones por IAMCEST gestionadas mediante la aplicación se asociaron con métricas de tiempo relacionadas con el traslado más cortas y con una mayor consecución de los umbrales de tiempo relevantes para las guías en 2 vías interhospitalarias."
-  },
-  "en": {
-   "resumen": "Observational implementation study of the STEMIcathAID mobile application in a multicentre health system: composite door-to-device time fell from 92 to 71 min (16-min reduction; 95% CI 8-24) and combined transfer-pathway door-in-door-out time from 57.5 to 46.0 min (12-min reduction; 95% CI 6-19), both with P < 0.001.",
-   "why": "the bottleneck in transferred STEMI is usually not the cath lab but interhospital transfer logistics and fragmented coordination among care team members. This work quantifies what a secure digital tool contributes by unifying activation, transfer coordination and automatic time-stamp capture, with clear improvement in both interhospital pathways and attainment of the door-to-device target in 100% of cases. It is informative that the local pathway, with PCI on site, did not improve: the benefit appears concentrated where information is handed over between hospitals. The limitations are inherent to the design: this is an observational before-after comparison without randomisation, susceptible to secular trend and Hawthorne effect, and the outcomes are process metrics rather than clinical events or mortality.",
-   "deque": "Interhospital transfer logistics and fragmented coordination among care team members may cause delays in treating patients with ST-segment elevation myocardial infarction (STEMI). The authors developed a secure mobile application, STEMIcathAID, to streamline STEMI activation, coordinate transfer and allow time-stamp data capture. The objective was to assess the effect of application implementation on time measures in a multicentre health care system. An observational comparison was conducted of STEMI activations managed through the application versus the traditional workflow across 2 interfacility transfer routes (pathways 1 and 2) and 1 percutaneous coronary intervention-capable local pathway. The primary analyses were the composite door-to-device (D2D) and combined transfer pathway door-in-door-out (DIDO) comparisons, reported as median (IQR).",
-   "resultados": "Composite D2D time decreased from 92 min (IQR 63-110) to 71 min (IQR 60-85), with a Hodges-Lehmann reduction of 16 min (95% CI 8-24; P < 0.001). Combined transfer pathway DIDO decreased from 57.5 min (IQR 48.3-70.8) to 46.0 min (IQR 39.5-57.5), with a Hodges-Lehmann reduction of 12 min (95% CI 6-19; P < 0.001). D2D and DIDO improved in both interhospital transfer pathways, whereas the local pathway showed no significant improvement. D2D target attainment according to pathway-specific registry benchmarks improved from 84.9% (79/93) to 100% (123/123; P < 0.001). The proportion of transfer cases achieving DIDO ≤45 min increased from 20.4% (11/54) to 46.0% (29/63; P = 0.006).",
-   "conclusiones": "In this observational multicentre implementation study, application-managed STEMI activations were associated with shorter transfer-related time metrics and higher attainment of guideline-relevant time thresholds across 2 interfacility pathways."
-  }
- },
- "a18": {
+ "a21": {
   "title_en": "Assessment of Ototoxicity in Patients With Heart Failure Receiving High-Dose IV Loop Diuretics",
   "title_es": "Evaluación de la ototoxicidad en pacientes con insuficiencia cardíaca que reciben diuréticos de asa intravenosos a dosis altas",
   "es": {

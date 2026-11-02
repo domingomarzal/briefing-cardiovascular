@@ -1,5 +1,5 @@
 {
- "a28": {
+ "a31": {
   "title_en": "Clinical Impact of Multiple-Clip Implantation for Residual Mitral Regurgitation After Transcatheter Edge-to-Edge Repair",
   "title_es": "Impacto clínico del implante de múltiples clips en la insuficiencia mitral residual tras la reparación percutánea borde a borde",
   "es": {
@@ -17,7 +17,7 @@
    "conclusiones": "In patients with significant residual MR after implanting the first clip, multiple-clip implantation improved MR reduction and 1-year outcomes without increasing complications. Even in moderate residual MR, additional clips were associated with more favorable clinical outcomes."
   }
  },
- "a29": {
+ "a32": {
   "title_en": "Impact of Recurrent Mitral Regurgitation Following Mitral Transcatheter Edge-to-Edge Repair on Long-Term Outcomes",
   "title_es": "Impacto de la insuficiencia mitral recurrente tras la reparación percutánea mitral borde a borde en los resultados a largo plazo",
   "es": {
@@ -35,7 +35,7 @@
    "conclusiones": "Recurrent MR is common and independently associated with increased mortality after M-TEER, with a more pronounced effect in patients with degenerative MR. Identification of patients at risk may inform closer surveillance and timely reintervention."
   }
  },
- "a30": {
+ "a33": {
   "title_en": "Prognostic Impact of Discharge Transprosthetic Tricuspid Gradient After Transcatheter Tricuspid Valve Replacement: The TRIPLACE Registry",
   "title_es": "Impacto pronóstico del gradiente transprotésico tricuspídeo al alta tras el implante percutáneo de válvula tricúspide: el registro TRIPLACE",
   "es": {
@@ -53,7 +53,7 @@
    "conclusiones": "An elevated discharge tricuspid gradient after TTVR independently identifies patients at increased risk of adverse outcomes. A 3.5 mm Hg threshold may support postprocedural risk stratification, whereas inner valve diameter represents a potentially modifiable determinant of an elevated gradient."
   }
  },
- "a31": {
+ "a35": {
   "title_en": "Liver Extracellular Volume in Patients With Tricuspid Regurgitation: A Novel Prognostic Marker",
   "title_es": "Volumen extracelular hepático en pacientes con insuficiencia tricuspídea: un nuevo marcador pronóstico",
   "es": {
@@ -71,7 +71,7 @@
    "conclusiones": "In this large real-world TR cohort, L-ECV appeared as a novel, powerful CMR marker of right heart failure with independent and incremental prognostic value to stratify patients with TR at higher risk of events."
   }
  },
- "a32": {
+ "a36": {
   "title_en": "Right Atrial Phasic Function Improves CMR-Based Prognostication in Patients with Heart Failure with Mildly Reduced Ejection Fraction: A Multicenter Study",
   "title_es": "La función fásica auricular derecha mejora la estratificación pronóstica por resonancia magnética cardiaca en pacientes con insuficiencia cardiaca con fracción de eyección ligeramente reducida: un estudio multicéntrico",
   "es": {
@@ -89,7 +89,7 @@
    "conclusiones": "Right atrial conduit strain derived from CMR is an independent predictor of adverse outcomes in patients with HFmrEF, providing incremental prognostic value beyond traditional clinical and imaging-derived risk markers."
   }
  },
- "a33": {
+ "a38": {
   "title_en": "Coronary CT Angiography versus Intravascular Ultrasound Guidance for PCI (P4)",
   "title_es": "Angio-TC coronaria frente a ecografía intravascular como guía de la intervención coronaria percutánea (P4)",
   "es": {
@@ -107,7 +107,7 @@
    "conclusiones": "PCI planning guided by coronary CT angiography was not inferior to IVUS guidance for the primary clinical endpoint at one-year follow-up, and shorter procedures and less contrast use were additionally described at the meeting. The numerical results could not be verified in the original source and must be consulted in the article."
   }
  },
- "a34": {
+ "a39": {
   "title_en": "Bivalirudin With a High-Dose Post-PCI Infusion Versus Heparin During Primary PCI in STEMI: One-Year Results From the BRIGHT-4 Trial",
   "title_es": "Bivalirudina con infusión posintervención a dosis alta frente a heparina durante la ICP primaria en el IAMCEST: resultados a un año del ensayo BRIGHT-4",
   "es": {
@@ -125,7 +125,7 @@
    "conclusiones": "Among patients with ST-segment-elevation myocardial infarction undergoing primary PCI with radial artery access, the benefits of bivalirudin with a high-dose post-PCI infusion in reducing the composite endpoint of all-cause death or BARC types 3 to 5 bleeding at 30 days compared with heparin monotherapy are maintained through 12-month follow-up. These findings support the use of bivalirudin with a post-PCI high-dose infusion as an alternative to heparin to reduce mortality and major bleeding in patients with ST-segment-elevation myocardial infarction."
   }
  },
- "a35": {
+ "a42": {
   "title_en": "Spanish cardiac catheterization and interventional cardiology registry. 35th official report of the Interventional Cardiology Association of the Spanish Society of Cardiology (1990-2025)",
   "title_es": "Registro español de hemodinámica y cardiología intervencionista. XXXV Informe oficial de la Asociación de Cardiología Intervencionista de la Sociedad Española de Cardiología (1990-2025)",
   "es": {
@@ -141,24 +141,6 @@
    "deque": "This report presents the 2025 activity of the Interventional Cardiology Association of the Spanish Society of Cardiology (ACI-SEC). All interventional cardiology laboratories in Spain were invited to complete an online survey; data were analyzed by an external company and subsequently reviewed and presented by the ACI-SEC board.",
    "resultados": "A total of 125 hospitals participated, compared with 118 in the previous year. The number of diagnostic procedures and coronary angiograms increased by 4% and 4.5%, respectively, both reaching record highs. Percutaneous coronary interventions (PCI) increased by 3.3%. The trend toward lower relative stent use was confirmed, with a marked increase in the use of drug-coated balloons, both as a standalone strategy and as part of hybrid strategies. The use of intracoronary imaging and coronary physiology techniques increased, reaching record absolute numbers. Interventional treatment of myocardial infarction increased by 3.6%, with primary PCI accounting for 98% of procedures. Structural heart interventions continued to expand: transcatheter aortic valve implantation (+10.1%), percutaneous mitral interventions (+25.2%), tricuspid interventions (+7.9%) and left atrial appendage closure (+8.4%). Renal denervation procedures, interventional treatment of acute pulmonary embolism and interventions for chronic thromboembolic pulmonary hypertension increased significantly.",
    "conclusiones": "The 2025 Spanish cardiac catheterization and interventional cardiology registry shows overall growth in both coronary and structural activity."
-  }
- },
- "a36": {
-  "title_en": "Safety and Effectiveness of a Novel Laser-Based Intravascular Lithotripsy System for Coronary Calcium: FRACTURE Study",
-  "title_es": "Seguridad y eficacia de un nuevo sistema de litotricia intravascular basado en láser para el calcio coronario: estudio FRACTURE",
-  "es": {
-   "resumen": "Estudio prospectivo, multicéntrico y de un solo brazo en 420 pacientes con lesiones coronarias de novo muy calcificadas tratadas con un nuevo sistema de litotricia intravascular (IVL) de cuatro emisores basado en láser y óptica: la ausencia de eventos cardiacos adversos mayores a 30 días fue del 93,3% y el éxito del procedimiento del 93,7%, superando ambos los objetivos de rendimiento preespecificados (p < 0,0001).",
-   "why": "la litotricia intravascular ha cambiado el abordaje del calcio coronario, pero hasta ahora la experiencia clínica se concentra en una única plataforma basada en emisores eléctricos; disponer de una tecnología alternativa, en este caso con generación de la onda de choque por láser y cuatro emisores, abre la puerta a diseños de catéter distintos y a una posible competencia en un segmento hoy casi monopolizado. Los datos de seguridad y éxito del procedimiento son consistentes con lo publicado para la IVL, y el subestudio de tomografía de coherencia óptica aporta el sustrato mecanístico —fractura del calcio y expansión del stent— en lesiones realmente calcificadas, con arcos y longitudes de calcio importantes. Las limitaciones condicionan la lectura: es un estudio de un solo brazo, sin comparador frente a la IVL establecida ni frente a la aterectomía rotacional o el balón de corte, evaluado contra objetivos de rendimiento históricos y no contra un control concurrente; el seguimiento del objetivo de seguridad es de solo 30 días y el subestudio de imagen incluyó a una minoría de los pacientes. Sirve para apoyar la aprobación y el uso del dispositivo, no para situarlo por encima de las alternativas disponibles.",
-   "deque": "La litotricia intravascular (IVL) se ha consolidado como una opción prometedora para modificar el calcio coronario. El objetivo de este estudio fue evaluar la seguridad y la eficacia de un nuevo sistema de IVL de cuatro emisores basado en láser y óptica en lesiones coronarias de novo con calcificación grave. FRACTURE fue un ensayo prospectivo, multicéntrico y de un solo brazo. El objetivo primario de seguridad fue la ausencia a 30 días de eventos cardiacos adversos mayores (MACE; combinado de muerte cardiaca, infarto de miocardio o revascularización del vaso diana) y el objetivo primario de eficacia fue el éxito del procedimiento (implante exitoso del stent con estenosis residual final <50% y ausencia de MACE intrahospitalarios); ambos se evaluaron frente a objetivos de rendimiento preespecificados. Se realizó además un subestudio con tomografía de coherencia óptica (OCT).",
-   "resultados": "Se incluyeron 420 pacientes (edad media 71,2 ± 9,01 años; 74,0% varones). La longitud mediana de calcio fue de 34,4 mm (Q1-Q3: 21,3-52,5 mm). En los 106 pacientes con OCT, en el punto de máxima calcificación el arco de calcio fue de 271,89° ± 77,35° y el grosor mediano de 0,88 mm (Q1-Q3: 0,72-1,11 mm). La OCT confirmó fractura del calcio en el 67% de las lesiones; el área mínima del stent mediana fue de 6,51 mm² (Q1-Q3: 4,85-7,78 mm²) y la expansión del stent del 94,2% ± 19,4% en el punto de máxima calcificación. El objetivo primario de seguridad (ausencia de MACE a 30 días) fue del 93,3% (373/400), con un límite inferior del IC95% del 90,8%, superando el objetivo de rendimiento del 86,2% (p < 0,0001). El objetivo primario de eficacia (éxito del procedimiento) fue del 93,7% (374/399), con un límite inferior del IC95% del 91,3%, superando el objetivo de rendimiento del 85,8% (p < 0,0001). Registro NCT06181240.",
-   "conclusiones": "El sistema de litotricia intravascular de cuatro emisores es una opción segura y eficaz para modificar las lesiones coronarias con calcificación grave y facilitar el implante del stent."
-  },
-  "en": {
-   "resumen": "Prospective, multicenter, single-arm study in 420 patients with severely calcified de novo coronary lesions treated with a novel laser- and optic-based quad-emitter intravascular lithotripsy (IVL) system: 30-day freedom from major adverse cardiac events was 93.3% and procedural success 93.7%, both exceeding the prespecified performance goals (P < 0.0001).",
-   "why": "intravascular lithotripsy has changed the approach to coronary calcium, but clinical experience so far is concentrated on a single platform based on electrical emitters; having an alternative technology, here with laser-generated shockwaves and four emitters, opens the door to different catheter designs and to potential competition in a segment that is currently almost a monopoly. The safety and procedural success figures are consistent with what has been published for IVL, and the optical coherence tomography substudy provides the mechanistic substrate — calcium fracture and stent expansion — in genuinely calcified lesions, with substantial calcium arcs and lengths. Limitations shape the reading: this is a single-arm study with no comparator against established IVL or against rotational atherectomy or cutting balloons, assessed against historical performance goals rather than a concurrent control; follow-up for the safety endpoint is only 30 days and the imaging substudy included a minority of patients. It supports approval and use of the device, not its superiority over available alternatives.",
-   "deque": "Intravascular lithotripsy (IVL) has emerged as a promising option to modify coronary calcium. The objective of this study was to evaluate the safety and effectiveness of a novel laser- and optic-based quad-emitter IVL system in severely calcified de novo coronary lesions. FRACTURE was a prospective, multicenter, single-arm trial. The primary safety endpoint was 30-day freedom from major adverse cardiac events (MACE; composite of cardiac death, myocardial infarction or target vessel revascularization) and the primary effectiveness endpoint was procedural success (successful stent delivery with a final residual stenosis <50% and freedom from in-hospital MACE); both were evaluated against prespecified performance goals. An optical coherence tomography (OCT) substudy was also performed.",
-   "resultados": "A total of 420 patients were enrolled (mean age 71.2 ± 9.01 years; 74.0% male). Median calcified length was 34.4 mm (Q1-Q3: 21.3-52.5 mm). Among the 106 patients with OCT, at the site of maximum calcification the calcium arc was 271.89° ± 77.35° and median thickness was 0.88 mm (Q1-Q3: 0.72-1.11 mm). OCT confirmed calcium fracture in 67% of lesions; median minimal stent area was 6.51 mm² (Q1-Q3: 4.85-7.78 mm²) and stent expansion was 94.2% ± 19.4% at the site of maximum calcification. The primary safety endpoint of 30-day freedom from MACE was 93.3% (373/400), with a lower bound of the 95% CI of 90.8%, exceeding the 86.2% performance goal (P < 0.0001). The primary effectiveness endpoint of procedural success was 93.7% (374/399), with a lower bound of the 95% CI of 91.3%, exceeding the 85.8% performance goal (P < 0.0001). Registration NCT06181240.",
-   "conclusiones": "The quad-emitter intravascular lithotripsy system is a safe and effective option to modify severely calcified coronary lesions and facilitate stent implantation."
   }
  }
 }
