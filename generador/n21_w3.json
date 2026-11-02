@@ -1,0 +1,101 @@
+[
+ {
+  "key": "a28",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.126.050013",
+  "seccion": "Valvulopatías",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Clinical Impact of Multiple-Clip Implantation for Residual Mitral Regurgitation After Transcatheter Edge-to-Edge Repair",
+  "abstract": "BACKGROUND: Residual moderate or greater mitral regurgitation (MR) after transcatheter edge-to-edge repair is strongly associated with adverse clinical outcomes. However, the prognostic impact of implanting additional clips in patients with significant residual MR after the first clip remains uncertain. We evaluated the clinical and echocardiographic outcomes of multiple-clip implantation for significant residual MR following placement of the initial clip. METHODS: We retrospectively evaluated 826 patients with moderate or greater residual MR on intraprocedural transesophageal echocardiography after placement of the first clip during transcatheter edge-to-edge repair at the Cedars-Sinai Medical Center from 2014 to 2023. Patients were categorized into single-clip (n=113) and multiple-clip (n=713) groups. The primary end point was the composite of all-cause mortality and heart failure hospitalization at 1 year. RESULTS: Procedural technical success and complication rates were comparable between groups. The multiple-clip group demonstrated greater MR reduction and higher transmitral pressure gradients at discharge, 30 days, and 1 year. At 1 year, the composite end point occurred less frequently in the multiple-clip group than in the single-clip group (16.8% versus 29.2%; P=0.002), along with greater and more sustained improvement in New York Heart Association functional class. In subgroup analyses, multiple-clip implantation consistently reduced major adverse cardiovascular events in patients with moderate as well as moderate-severe/severe residual MR. CONCLUSIONS: In patients with significant residual MR after implanting the first clip, multiple-clip implantation improved MR reduction and 1-year outcomes without increasing complications. Even in moderate residual MR, additional clips were associated with more favorable clinical outcomes."
+ },
+ {
+  "key": "a29",
+  "journal": "JACC Cardiovasc Interv",
+  "doi": "10.1016/j.jcin.2026.07.015",
+  "seccion": "Valvulopatías",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Impact of Recurrent Mitral Regurgitation Following Mitral Transcatheter Edge-to-Edge Repair on Long-Term Outcomes",
+  "abstract": "BACKGROUND: Residual mitral regurgitation (MR) after mitral transcatheter edge-to-edge repair (M-TEER) is a major determinant of outcome. However, the prognostic impact of recurrent mitral regurgitation (recMR) after initially successful M-TEER remains unclear. OBJECTIVES: This study aimed to evaluate the association between recMR after successful M-TEER and long-term mortality across degenerative mitral regurgitation (DMR) and functional mitral regurgitation (FMR). METHODS: This retrospective cohort included 461 consecutive patients with MR undergoing successful M-TEER (residual mitral regurgitation ≤2+ at discharge) between 2008 and 2021. recMR was defined as ≥1-grade increase in mitral regurgitation severity at follow-up compared with discharge. The primary endpoint was all-cause mortality. RESULTS: Among 461 patients with MR undergoing M_TEER (mean age 75.0 ± 9.1 years; 60.7% male [280 of 461]; 29.3% [135 of 461] had DMR), recMR occurred in 31.7% (146 of 461) (FMR in 31.9% [104 of 326]; DMR in 31.1% [42 of 135]). The median follow-up time was 3.44 years (Q1-Q3: 1.51-3.99 years). In a 12-month landmark analysis, absence of recMR was associated with improved survival (log-rank, P = 0.0088). At 4 years, all-cause mortality was 44.8% (95% CI: 38.7%-50.3%) in patients without recMR and 56.3% (95% CI: 47.2%-63.9%) in those with recMR. In multivariable Cox regression, recMR independently predicted higher mortality (HR: 1.43; 95% CI: 1.06-1.93; P = 0.019). The survival difference was significant in patients with DMR (log-rank, P = 0.014) but not with FMR (P = 0.11). CONCLUSIONS: recMR is common and independently associated with increased mortality after M-TEER, with a more pronounced effect in patients with DMR. Identification of patients at risk may inform closer surveillance and timely reintervention."
+ },
+ {
+  "key": "a30",
+  "journal": "JACC Cardiovasc Interv",
+  "doi": "10.1016/j.jcin.2026.10.010",
+  "seccion": "Valvulopatías",
+  "ptype": "Registro",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Prognostic Impact of Discharge Transprosthetic Tricuspid Gradient After Transcatheter Tricuspid Valve Replacement: The TRIPLACE Registry",
+  "abstract": "BACKGROUND: Although transprosthetic gradients are established prognostic markers after left-sided valve interventions, the prognostic significance of discharge tricuspid gradient (dTVG) after transcatheter tricuspid valve replacement (TTVR) remains unclear. OBJECTIVES: This study sought to evaluate the association between dTVG and clinical outcomes after TTVR and identify high dTVG determinants. METHODS: TRIPLACE (Global Multicenter Registry on Transcatheter Tricuspid Valve Replacement) is an international, multicenter TTVR registry. A discharge landmark analysis was performed, excluding patients with in-hospital mortality, lack of TTVR technical success, missing dTVG, or unavailable follow-up at any time point. Endpoints included all-cause mortality and the composite of all-cause mortality or heart failure hospitalization. The optimal dTVG cutoff was identified through quartile-based survival analysis and confirmed by log-rank maximization. Multivariable Cox models were developed using cross-validated candidate variable selection. RESULTS: Among 526 patients, 474 were included. Median follow-up was 208.5 days (Q1-Q3: 54-474 days). A data-driven dTVG cutoff of 3.5 mm Hg identified 122 of 474 patients (25.7%) with high dTVG. dTVG ≥3.5 mm Hg was associated with higher 1- and 3-year mortality (HR: 2.07; 95% CI: 1.14-3.75; P = 0.017 and HR: 2.07; 95% CI: 1.24-3.48; P = 0.006, respectively) and composite endpoint events (HR: 1.99; 95% CI: 1.31-3.03; P = 0.001 and HR: 1.96; 95% CI: 1.33-2.88; P < 0.001). After multivariable adjustment, dTVG ≥3.5 mm Hg remained associated with 3-year mortality (adjusted HR: 1.84; 95% CI: 1.09-3.10; P = 0.022) and the composite endpoint at 1 and 3 years (adjusted HR: 1.77; 95% CI: 1.16-2.70; P = 0.009 and adjusted HR: 1.77; 95% CI: 1.20-2.60; P = 0.004, respectively). Indexed inner transcatheter tricuspid valve diameter was the only potentially modifiable independent predictor of high dTVG (OR: 0.79 per 1 mm/m2 increase; 95% CI: 0.71-0.88). CONCLUSIONS: Elevated dTVG after TTVR independently identifies patients at increased risk of adverse outcomes. A 3.5 mm Hg threshold may support postprocedural risk stratification, whereas inner valve diameter represents a potentially modifiable determinant of elevated dTVG. (TRIPLACE [Global Multicenter Registry on Transcatheter Tricuspid Valve Replacement]; NCT06033274)."
+ },
+ {
+  "key": "a31",
+  "journal": "JACC Cardiovasc Imaging",
+  "doi": "10.1016/j.jcmg.2026.08.015",
+  "seccion": "Imagen cardíaca",
+  "ptype": "Estudio pronóstico",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Liver Extracellular Volume in Patients With Tricuspid Regurgitation: A Novel Prognostic Marker",
+  "abstract": "BACKGROUND: Liver extracellular volume (L-ECV), a novel cardiac magnetic resonance (CMR) parameter of systemic venous congestion, might help to stratify tricuspid regurgitation (TR) patients at higher risk, but its role in this context is unexplored. OBJECTIVES: The aim of this study was to assess the incremental prognostic relevance of L-ECV in a large TR cohort. METHODS: Data were collected from patients with TR referred to CMR between 2019 and 2024 who had parametric mapping analysis for L-ECV quantification. The primary endpoint was the composite of all-cause mortality and heart failure (HF) hospitalization, under medical management. RESULTS: In 462 patients included (median age: 67 years; 43% female), median left ventricular ejection fraction was 51% (Q1-Q3: 40%-59%), median tricuspid regurgitant fraction was 21% (Q1-Q3: 14%-33%), and median L-ECV was 31% (Q1-Q3: 28%-35%). When dividing the cohort according to median L-ECV value, patients with high L-ECV (≥ median) showed worse baseline status with more clinical and imaging signs of right HF and (after a median follow-up of 2.1 years) poorer survival free from the primary outcome (P < 0.001) compared with patients with low L-ECV. High L-ECV independently predicted the outcome even after multivariable adjustment accounting for TR severity, biventricular ejection fraction, and pulmonary pressure (adjusted HR: 1.82; 95% CI: 1.03-3.18; P = 0.030). Finally, L-ECV showed incremental prognostic value compared with TRI-SCORE when assessed in a nested Cox model. CONCLUSIONS: In our large real-world TR cohort, L-ECV appeared as a novel, powerful CMR marker of right HF with an independent and incremental prognostic value to stratify patients with TR at higher risk of events."
+ },
+ {
+  "key": "a32",
+  "journal": "Eur Heart J Cardiovasc Imaging",
+  "doi": "10.1093/ehjci/jeag298",
+  "seccion": "Imagen cardíaca",
+  "ptype": "Estudio pronóstico",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Right Atrial Phasic Function Improves CMR-Based Prognostication in Patients with Heart Failure with Mildly Reduced Ejection Fraction: A Multicenter Study",
+  "abstract": "AIMS: In multiple cardiovascular diseases, right atrial (RA) function can serve as an independent predictor for the clinical status and prognosis. However, the prognostic value of RA strain in patients with heart failure with mildly reduced ejection fraction (HFmrEF) remains considerably unknown. This study aims to explore the relationships between RA strain derived from cardiac magnetic resonance imaging-feature tracking (CMR-FT) and adverse outcomes in patients with HFmrEF. METHODS AND RESULTS: This retrospective study enrolled patients with HFmrEF who were referred for echocardiography and CMR at two tertiary medical centers from April 2016 to September 2024. The primary endpoint was a composite of all-cause mortality, HF-related hospitalization and cardiac transplantation. The findings were validated in a cohort of patients with HFmrEF enrolled from two additional tertiary care centers (January 2019 to January 2025). The development cohort included 1317 patients, and the validation cohort comprised 385 patients. During a median follow-up period of 2.8 years and 2.1 years, respectively, 243 and 72 patients in the development cohort and validation cohort reached the primary endpoint, respectively. Cox regression analysis showed that RA conduit strain was an independent predictor of the primary outcome (HR: 0.86 [0.82, 0.90]; P < .001). The full model integrating clinical variables, traditional imaging, and RA strain achieved the best predictive performance (C-index: 0.80 in development, 0.81 in validation cohorts). CONCLUSION: RA conduit strain derived from CMR is an independent predictor of adverse outcomes in patients with HFmrEF, providing incremental prognostic value beyond traditional clinical and imaging-derived risk markers.​."
+ },
+ {
+  "key": "a33",
+  "journal": "N Engl J Med",
+  "doi": "10.1056/NEJMoa2610771",
+  "seccion": "Cardiología intervencionista",
+  "ptype": "Ensayo clínico aleatorizado",
+  "acr": "P4",
+  "prio": "Imprescindible",
+  "title": "Coronary CT Angiography versus Intravascular Ultrasound Guidance for PCI",
+  "abstract": ""
+ },
+ {
+  "key": "a34",
+  "journal": "Circ Cardiovasc Interv",
+  "doi": "10.1161/CIRCINTERVENTIONS.126.017029",
+  "seccion": "Cardiología intervencionista",
+  "ptype": "Análisis secundario de ensayo clínico",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Bivalirudin With a High-Dose Post-PCI Infusion Versus Heparin During Primary PCI in STEMI: One-Year Results From the BRIGHT-4 Trial",
+  "abstract": "BACKGROUND: The BRIGHT-4 trial (Bivalirudin With Prolonged Full-Dose Infusion During Primary PCI Versus Heparin Trial-4) demonstrated that procedural anticoagulation with bivalirudin plus a high-dose postprocedure infusion reduced the 30-day composite end point of all-cause death or Bleeding Academic Research Consortium types 3 to 5 bleeding compared with heparin monotherapy in patients with ST-segment-elevation myocardial infarction undergoing primary percutaneous coronary intervention (PCI) with radial artery access. We now report the 12-month follow-up results to evaluate the long-term outcomes of primary PCI with these 2 anticoagulation regimens. METHODS: In this multicenter, open-label, randomized controlled trial, 6016 patients with ST-segment-elevation myocardial infarction undergoing primary PCI with radial artery access were randomly assigned (1:1) to receive bivalirudin with a high-dose post-PCI infusion for 2 to 4 hours (n=3009) or heparin monotherapy (n=3007). The primary outcome of interest was the composite of all-cause death or Bleeding Academic Research Consortium types 3 to 5 bleeding at 12 months. RESULTS: At 12 months, the primary outcome occurred in 124 (4.1%) patients in the bivalirudin group and 169 (5.6%) patients in the heparin group (hazard ratio, 0.73 [95% CI, 0.58-0.92]; P=0.007). Bivalirudin resulted in lower 12-month rates of Bleeding Academic Research Consortium types 3 to 5 bleeding (0.6% versus 1.2%; hazard ratio, 0.49 [95% CI, 0.28-0.87]; P=0.01) and stent thrombosis (0.8% versus 1.3%; hazard ratio, 0.60 [95% CI, 0.36-0.99]; P=0.045), with nonsignificant differences in all-cause death (3.8% versus 4.8%; hazard ratio, 0.80 [95% CI, 0.63-1.02]; P=0.08), cardiovascular death, reinfarction, ischemia-driven target vessel revascularization, and stroke between the 2 groups. CONCLUSIONS: Among patients with ST-segment-elevation myocardial infarction undergoing primary PCI with radial artery access, the benefits of bivalirudin with a high-dose post-PCI infusion in reducing the composite end point of all-cause death or Bleeding Academic Research Consortium types 3 to 5 bleeding at 30 days compared with heparin monotherapy are maintained through 12-month follow-up. These findings support the use of bivalirudin with a post-PCI high-dose infusion as an alternative to heparin to reduce mortality and major bleeding in patients with ST-segment-elevation myocardial infarction. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT03822975."
+ },
+ {
+  "key": "a35",
+  "journal": "Rev Esp Cardiol (Engl Ed)",
+  "doi": "10.1016/j.rec.2026.06.020",
+  "seccion": "Cardiología intervencionista",
+  "ptype": "Registro",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Spanish cardiac catheterization and interventional cardiology registry. 35th official report of the Interventional Cardiology Association of the Spanish Society of Cardiology (1990-2025)",
+  "abstract": "Introduction and objectives This report presents the 2025 activity of the Interventional Cardiology Association of the Spanish Society of Cardiology (ACI-SEC). Methods All interventional cardiology laboratories in Spain were invited to complete an online survey. Data were analyzed by an external company and subsequently reviewed and presented by the ACI-SEC board. Results A total of 125 hospitals participated, compared with 118 in the previous year. The number of diagnostic procedures and coronary angiograms increased by 4% and 4.5%, respectively, both reaching record highs. Percutaneous coronary interventions (PCI) increased by 3.3%. The trend toward lower relative stent use was confirmed, with a marked increase in the use of drug-coated balloons, both as a standalone strategy and as part of hybrid strategies. The use of intracoronary imaging and coronary physiology techniques increased, reaching record absolute numbers. Interventional treatment of myocardial infarction increased by 3.6%, with primary PCI accounting for 98% of procedures. Structural heart interventions continued to expand: transcatheter aortic valve implantation (+10.1%), percutaneous mitral interventions (+25.2%), tricuspid interventions (+7.9%), and left atrial appendage closure (+8.4%). Renal denervation procedures, interventional treatment of acute pulmonary embolism, and interventions for chronic thromboembolic pulmonary hypertension increased significantly. Conclusions The 2025 Spanish cardiac catheterization and interventional cardiology registry shows overall growth in both coronary and structural activity. Full English text available from: www.revespcardiol.org/en."
+ },
+ {
+  "key": "a36",
+  "journal": "JACC Cardiovasc Interv",
+  "doi": "10.1016/j.jcin.2026.08.018",
+  "seccion": "Cardiología intervencionista",
+  "ptype": "Investigación original",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Safety and Effectiveness of a Novel Laser-Based Intravascular Lithotripsy System for Coronary Calcium: FRACTURE Study",
+  "abstract": "BACKGROUND: Intravascular lithotripsy (IVL) has emerged as a promising option to modify calcium. OBJECTIVES: This study evaluated the safety and effectiveness of a novel laser- and optic-based quad-emitter IVL system in severely calcified de novo coronary lesions. METHODS: FRACTURE was a prospective, multicenter, single-arm trial. The primary safety endpoint was 30-day freedom from major adverse cardiac events (MACE; composite of cardiac death, myocardial infarction, or target vessel revascularization). The primary effectiveness endpoint was procedural success (successful stent delivery with a final residual stenosis <50% and freedom from in-hospital MACE). Both endpoints were evaluated against prespecified performance goals. An optical coherence tomography (OCT) substudy was performed. RESULTS: A total of 420 patients (mean age: 71.2 ± 9.01 years; 74.0% male) were enrolled. Median calcified length was 34.4 mm (Q1-Q3: 21.3-52.5 mm). Among 106 patients with OCT, at the site of maximum calcification, the calcium arc was 271.89° ± 77.35° and the median thickness was 0.88 mm (Q1-Q3: 0.72-1.11 mm). OCT confirmed calcium fracture in 67% of lesions; the median minimal stent area was 6.51 mm2 (Q1-Q3: 4.85-7.78 mm2), and stent expansion was 94.2% ± 19.4% at the site of maximum calcification. The primary safety endpoint of 30-day freedom from MACE was 93.3% (373/400; with lower bound of 95% CI of 90.8%, exceeding the 86.2% performance goal [P < 0.0001]). The primary effectiveness endpoint of procedural success was 93.7% (374/399; with lower bound of 95% CI of 91.3%, exceeding the 85.8% performance goal [P < 0.0001]). CONCLUSIONS: The quad-emitter IVL system is a safe and effective option to modify severe calcified coronary lesions and facilitate stent implantation. REGISTRATION: (Modification of Coronary Calcium With Laser Based Intravascular Lithotripsy for Coronary Artery Disease [FRACTURE]; NCT06181240)."
+ }
+]
