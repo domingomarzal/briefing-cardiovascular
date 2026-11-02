@@ -202,7 +202,7 @@ head = re.sub(r'En las guías/consensos y los documentos sin resultado cuantitat
 head = head.replace(
   "Auditoría completa de la búsqueda semanal en PubMed",
   "Auditoría completa de la búsqueda semanal en PubMed, ampliada con los artículos que el editor "
-  "publicó en la ventana y PubMed no había indexado, recuperados por Crossref (auditoría de cobertura, PASO 1b). Esta semana la auditoría de cobertura localizó 20 artículos elegibles —casi todos late-breakers del congreso TCT 2026— que el editor publicó dentro de la ventana y PubMed aún no había indexado; de ellos solo se ha podido incorporar el ensayo P4 de N Engl J Med, de inclusión obligatoria, porque la red del entorno de generación no alcanza a los editores y ninguno de los demás tiene abstract disponible todavía. Quedan documentados y pendientes de incorporación
+  "publicó en la ventana y PubMed no había indexado, recuperados por Crossref (auditoría de cobertura, PASO 1b). Esta semana la auditoría de cobertura localizó 20 artículos elegibles —casi todos late-breakers del congreso TCT 2026— que el editor publicó dentro de la ventana y PubMed aún no había indexado; de ellos solo se ha podido incorporar el ensayo P4 de N Engl J Med, de inclusión obligatoria, porque la red del entorno de generación no alcanza a los editores y ninguno de los demás tiene abstract disponible todavía. Quedan documentados y pendientes de incorporación")
 try:
     _fix = json.load(open(GEN + "/n21_linkfix.json"))
     NO_DOI = {s["pmid"] for s in sel.values() if s["key"] in _fix}
