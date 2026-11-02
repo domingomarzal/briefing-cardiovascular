@@ -1,0 +1,246 @@
+[
+ {
+  "idx": 60,
+  "journal": "J Am Heart Assoc",
+  "title": "Impact of Balloon-Expandable Valve Asymmetry on Heart Failure Post Transcatheter Aortic Valve Replacement.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Fluoroscopic assessment enables immediate evaluation of transcatheter heart valve expansion during transcatheter aortic valve replacement (TAVR). Whether fluoroscopic asymmetric expansion of balloon-expandable valves is associated with post-TAVR heart failure (HF) remains uncertain. METHODS: Among 607 consecutive patients undergoing balloon-expandable valve-TAVR in a prospective registry, 589 were analyzed. Valve asymmetry was quantified using a fluoroscopic asymmetry index (%), defined as [(longest/shortest balloon-expandable valve height)-1]×100. The primary end point was 2-year HF hospitalization. RESULTS: During follow-up, 99 patients (17%) experienced HF hospitalization. As a continuous variable, asymmetry index (%) was not independently associated with 2-year HF (adjusted hazard ratio [HR] per 1% increase, 1.02 [95% CI, 0.98-1.06]). Restricted cubic spline analysis demonstrated no significant linear or nonlinear association (overall P=0.71; P for nonlinearity=0.89), although the risk curve suggested increased HF risk beyond moderate valve asymmetry. Exploratory threshold analysis identified an asymmetry index cutoff of 7.48%. Patients above this threshold had a higher incidence of HF hospitalization than those below it (23.6% versus 15.8%; log-rank P=0.043), despite comparable rates of impaired valve performance at discharge. Valve asymmetry >7.48% remained independently associated with late HF occurring beyond 30 days after TAVR (adjusted HR, 1.69 [95% CI, 1.10-2.60]). CONCLUSIONS: Fluoroscopic assessment of balloon-expandable valve expansion identified patients with marked valve asymmetry at increased risk of late HF after TAVR, despite preserved early valve performance. These findings support the potential value of intraprocedural valve geometry assessment for long-term risk stratification and warrant further investigation.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049304"
+ },
+ {
+  "idx": 61,
+  "journal": "Eur Heart J",
+  "title": "Great debate: a dual biomarker strategy improves the triage of patients with suspected acute coronary syndrome.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Suspected myocardial infarction in patients with acute chest pain at rest is one of the most common diagnostic categories leading to emergency hospital admission and emergency department overcrowding worldwide. Efforts are being made to improve the efficiency of currently used triage and diagnostic work-up strategies. Despite major advances in recent years with the use of high-sensitivity cardiac troponin, challenges still exist regarding how to accurately and rapidly rule out or rule in myocardial infarction, as current strategies are relatively slow due to the need for serial troponin measurements. The 2023 European Society of Cardiology (ESC) guidelines recommend a 0 h/1 h or a 0 h/2 h high-sensitivity troponin diagnostic algorithm, instead of the previously suggested 0 h/3 h diagnostic protocol, to reduce the time required to discharge patients with suspected acute coronary syndrome/myocardial infarction. The ESC endorsed algorithms are not without difficulty, and alternative ways of improving triaging have been proposed, particularly a dual biomarker rule-out strategy involving the combined measurement of copeptin and troponin. Supporters of the dual biomarker strategy argue that a timely optimized algorithm can potentially allow the safe rule-out of myocardial infarction earlier than currently used strategies. In the present Great Debate article, two expert teams discuss the 'pros' and 'cons' of implementing single vs dual biomarker strategies for the rule-in and rule-out of myocardial infarction, under the moot topic 'A dual biomarker strategy improves the triage of patients with suspected acute coronary syndrome'. They address in detail many of the controversial issues currently affecting everyday clinical practice and provide insightful comments on how to best triage patients presenting with suspected acute myocardial infarction.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurheartj/ehag090"
+ },
+ {
+  "idx": 62,
+  "journal": "JAMA Cardiol",
+  "title": "Microvascular Resistance Reserve and Outcomes in Angina and Nonobstructive Coronary Artery Disease.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: Coronary microvascular dysfunction (CMD) is highly prevalent in patients with angina and nonobstructive coronary arteries (ANOCA). Microvascular resistance reserve (MRR) is a novel index to assess CMD independently of epicardial disease and driving pressures, but the long-term prognostic value of continuous thermodilution-derived MRR in patients with ANOCA is unknown. OBJECTIVE: To assess the prognostic value of continuous thermodilution-derived MRR and its association with clinical outcomes and symptom burden in patients with ANOCA. DESIGN, SETTING, AND PARTICIPANTS: This prospective, multicenter cohort study within the Netherlands Registry of Invasive Coronary Vasomotor Function Testing (NL-CFT) included patients between July 2020 and June 2025 in 4 clinical centers in the Netherlands. Follow-up for clinical events and patient-reported symptoms was completed for up to 3 years. Clinical events were adjudicated by investigators blinded to CFT results. Consecutive patients with ANOCA who underwent continuous thermodilution were included. EXPOSURE: Abnormal MRR (CMD) was defined as less than 2.1, gray zone as 2.1 to 2.7, and normal microvascular function as 2.7 or greater. MAIN OUTCOMES AND MEASURES: The primary clinical outcome was a composite of all-cause death, acute coronary syndrome, stroke, clinically indicated revascularization, repeat angiography without intervention, and unplanned hospital admittance or emergency department visit due to angina or heart failure. Secondary outcomes included angina at baseline and follow-up. Symptoms were assessed using the patient-reported Seattle Angina Questionnaire (SAQ) scores. RESULTS: Among 553 included patients (mean [SD] age, 59.1 [9.6] years; 459 female [83.0%]) with a mean (SD) follow-up of 27.5 (16.1) months, CMD was observed in 94 patients (17.0%). The main composite outcome did not differ across the 3 MRR categories (18 of 94 patients with abnormal [19.1%] vs 21 of 98 patients with gray zone [21.4%] vs 76 of 361 patients with normal [21.1%] MRR; log-rank P = .85). Individual outcomes did not differ between groups. There was no overall longitudinal interaction between MRR and SAQ summary scores. While low MRR (abnormal vs normal groups) was not associated with an increased symptom burden at baseline, it was associated with worse angina at follow-up (mean [SD] SAQ summary score, 53.0 [16.7] vs 60.1 [16.6]; P = .04) and less clinically relevant improvement (9 of 30 patients [30.0%] vs 52 of 88 patients [59.1%]; P = .02). CONCLUSIONS AND RELEVANCE: In this study, CMD assessed by continuous thermodilution-derived MRR was not associated with clinical outcomes.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1001/jamacardio.2026.5270"
+ },
+ {
+  "idx": 63,
+  "journal": "Eur Heart J",
+  "title": "AI algorithms and external validation: promises, pitfalls, and a practical blueprint.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "External validation involving the testing of a frozen AI model on independent data from other sites, populations, time periods, or devices provides the clearest estimate of intended-use setting performance when those external data are deployment-representative of the expected population, measurement processes, and clinical workflow. It yields realistic estimates of discrimination and calibration, exposes shortcut learning and distribution shift, quantifies clinical utility through decision-analytic measures, and reveals subgroup disparities requiring mitigation. Yet common pitfalls undermine credibility: quasi-external splits with hidden relatedness; spectrum and prevalence mismatch; site, workflow, and hardware effects; label noise and reference-standard drift; analytic flexibility and selective reporting; small, underpowered samples; reliance only on the area under the curve; unreported threshold tuning; and leakage. A practical blueprint emphasizes pre-registration; representative, multi-site cohorts spanning geography, time, and acquisition; prevention of patient and temporal overlap; comprehensive evaluation of discrimination, calibration (including calibration-in-the-large, calibration slope, and calibration plots), and net benefit with confidence intervals; pre-specified subgroup and fairness audits; transparent labelling procedures and uncertainty analyses; principled sample-size calculations; and minimal, well-documented model updating (recalibration before revision). Finally, external validation should connect to post-deployment governance via drift detection, performance triggers, and change-control plans, complemented by site-specific local evaluation to ensure safety and reliability across diverse clinical environments. When executed to these standards, external validation transforms promising prototypes into dependable clinical tools, clarifying where a model performs, where it fails, and what adaptations are necessary for safe, equitable, and sustainable use. This framework links statistical evaluation to clinical use, model updating, and post-deployment monitoring.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurheartj/ehag816"
+ },
+ {
+  "idx": 64,
+  "journal": "J Am Heart Assoc",
+  "title": "Glucagon-Like Peptide-1 Receptor Agonists in Obese Heart Failure With Preserved Ejection Fraction.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: To evaluate whether GLP-1 (glucagon-like peptide-1) receptor agonists (GLP-1RAs), compared with DPP4 (dipeptidyl peptidase-4) inhibitors or sulfonylureas, are associated with reduced all-cause mortality or heart failure hospitalizations in patients with obesity and type 2 diabetes, and heart failure with preserved ejection fraction. METHODS: PRAISE-HFpEF (Glucagon-Like Peptide-1 Receptor Agonist in Obese Heart Failure With Preserved Ejection Fraction) was a nationwide multicenter cohort study using a new-user, active-comparator design within the national Veterans Affairs Health System (170 US hospitals). Adults with type 2 diabetes between January 1, 2000 and December 31, 2021, were identified from centralized electronic health records. Patients with heart failure with preserved ejection fraction and a body mass index ≥30 kg/m2 were selected using a validated diagnostic algorithm. Exposure was initiation of a GLP-1RA versus DPP4 inhibitors/sulfonylurea from January 1, 2015 to December 31, 2021. The primary outcome was time to all-cause mortality or heart failure hospitalization. Inverse probability of treatment weighting based on the propensity score was used to balanced baseline characteristics. RESULTS: Among 179 288 patients with type 2 diabetes, obesity, and heart failure with preserved ejection fraction, 1024 GLP-1RA users and 796 DPP4 inhibitors/sulfonylurea users met inclusion criteria. Over a median follow-up of 1.5 years, GLP-1RA use was associated with a lower risk of the primary outcome (adjusted hazard ratio, 0.78 [95% CI, 0.64-0.95], P=0.01). Weight loss was modestly greater with GLP-1RAs compared with DPP4 inhibitors/sulfonylurea (-12.9% versus -10.1%). CONCLUSIONS: Among patients with obese heart failure with preserved ejection fraction and type 2 diabetes, GLP-1RA initiation was associated with a lower incidence of death or heart failure hospitalization compared with alternative oral agents.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050387"
+ },
+ {
+  "idx": 65,
+  "journal": "Lancet",
+  "title": "Performance of 0/1 h versus 0/3 h pathways in patients with suspected myocardial infarction: a systematic review and individual participant data meta-analysis of randomised controlled trials.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: In patients with suspected myocardial infarction, the 0/1 h pathway (blood draws at 0 h and 1 h) is recommended in current guidelines for early risk stratification. However, individual trials used different safety outcomes, and efficacy outcomes were inconclusive or not assessed. We conducted a systematic review and individual participant data meta-analysis of all randomised controlled trials to synthesise the totality of the evidence, assess heterogeneity across trials, and evaluate clinically relevant outcomes using harmonised definitions across trials. METHODS: In this systematic review and individual participant data meta-analysis, we searched PubMed, Cochrane Central Register of Controlled Trials, Scopus, and the International Clinical Trials Registry Platform from inception to July 6, 2026, without language restrictions, for randomised trials comparing the safety and efficacy of 0/1 h versus 0/3 h pathways (blood draws at 0 h and 3 h, ie, standard care). Individual participant data were obtained and outcome definitions were harmonised. The primary analysis used a two-stage random-effects meta-analysis. After receipt of the individual participant data but before data harmonisation or analysis, the primary safety outcome was refined to a composite of all-cause death or new type 1 myocardial infarction within 30 days, from the originally specified composite of all-cause death or any new myocardial infarction. The primary efficacy outcomes were emergency department length of stay and direct discharge from the emergency department. This meta-analysis is registered with PROSPERO (CRD420261383452). FINDINGS: Our systematic review identified five randomised trials, all of which provided individual participant data. Among these, the definition of the primary safety outcome varied, and in four trials emergency department length of stay was not reported for the whole analysis population. We included 110 933 patient presentations (55 489 managed with the 0/1 h pathway and 55 444 managed with the 0/3 h pathway). Within 30 days, all-cause death or new type 1 myocardial infarction occurred in 446 patient presentations (0·8%) with the 0/1 h pathway versus 562 patient presentations (1·0%) with the 0/3 h pathway (random-effects pooled odds ratio [OR] 0·83 [95% CI 0·45-1·53]; I2=62·9%; τ2=0·143). Emergency department length of stay was 314 min (IQR 211-481) in the 0/1 h pathway group versus 308 min (209-453) in the 0/3 h pathway group (random-effects pooled geometric mean ratio 1·03 [95% CI 0·85-1·25]; I2=99·2%; τ2=0·024). Direct discharge from the emergency department occurred in 37 190 patient presentations (67·0%) with the 0/1 h pathway versus 36 485 patient presentations (65·8%) with the 0/3 h pathway (random-effects pooled OR 1·31 [95% CI 0·79-2·16]; I2=97·8%; τ2=0·156). INTERPRETATION: Across the available randomised trials, short-term adverse event rates were low with both pathways, but the pooled safety estimate remained imprecise. On average, earlier cardiac troponin retesting did not reduce emergency department length of stay or clearly increase direct discharge, and substantial between-study heterogeneity indicates that treatment effects might not translate uniformly across health-care systems. For hospitals considering transitioning from a 0/3 h to a 0/1 h pathway, implementation decisions should take broader diagnostic and organisational considerations into account. FUNDING: Swiss National Science Foundation, Swiss Heart Foundation, University Hospital Basel, University of Basel, and Foundation for Cardiovascular Research Basel.",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1016/S0140-6736(26)01767-8"
+ },
+ {
+  "idx": 66,
+  "journal": "Circulation",
+  "title": "Consensus Guidance for the Female-Specific Prevention and Management of Cardiovascular Disease: A Scientific Statement From the American Heart Association, American Academy of Pediatrics, American College of Obstetricians and Gynecologists, and Society for Maternal-Fetal Medicine.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "There is growing recognition that the optimal prevention and management of cardiovascular disease in girls and women requires attention to sex-specific considerations relevant to the interconnected domains of hormonal, psychosocial, and cardiovascular health across the life course. Dysregulation in these health domains tends to co-occur and is associated with increased risk of cardiovascular disease. However, healthcare for girls and women is uniquely fragmented across clinical specialties, including pediatrics, adolescent medicine, primary care, obstetrics, maternal-fetal medicine, gynecology, cardiology, endocrinology, hematology, and neurology. Furthermore, inconsistent alignment across society guidelines contributes to missed opportunities to optimize cardiovascular health. Therefore, the American Heart Association, American Academy of Pediatrics, American College of Obstetricians and Gynecologists, and Society for Maternal-Fetal Medicine convened a multisociety science advisory group and developed the Female Life Stage construct. This construct defines 4 distinct and clinically meaningful stages-perimenarche (S1), ovarian cycling (S2), perimenopause (S3), and postmenopause (S4)-to enable female-specific screening, prevention, and treatment considerations. In addition, this construct incorporates pregnancy as a unique modifying life event when cardiovascular risk may emerge or be unmasked (eg, adverse pregnancy outcomes). This scientific statement crosswalks major society guidelines, synthesizes the evidence, and provides consensus-based clinical guidance for each Female Life Stage and interconnected health domain (ie, hormonal, psychosocial, and cardiovascular health). We conclude with a call to action to improve clinical workflows, enhance clinician education, and address scientific and implementation gaps to improve cardiovascular health in girls and women.",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1161/CIR.0000000000001482"
+ },
+ {
+  "idx": 67,
+  "journal": "JACC Adv",
+  "title": "Healthy Dietary Patterns and Incident Cardiovascular Disease in Cancer Survivors: A Prospective Cohort Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cardiovascular disease (CVD) is the leading cause of noncancer mortality among cancer survivors. The potential influence of healthy dietary patterns on CVD risk among cancer survivors remains poorly understood. OBJECTIVES: This study aims to investigate the association between healthy dietary patterns and incident CVD among cancer survivors. METHODS: We analyzed data from 8,716 cancer survivors initially free of CVD in the UK Biobank cohort. We used 24-hour dietary recall data to calculate 8 dietary pattern scores. Cox proportional hazards models and Fine-Gray competing risks models were used to investigate the association between dietary patterns and incident CVD. RESULTS: During a median follow-up of 12.3 (Q1-Q3: 11.6-13.0) years, 1,116 individuals experienced incident CVD events. When comparing the top quintile with the bottom quintile, HRs (95% CI) for total CVD were 0.72 (0.58-0.88) for Mediterranean diet score, 0.74 (0.61-0.89) for Mediterranean-Dietary Approaches to stop Hypertension Diet Intervention for Neurodegenerative Delay score, 0.63 (0.52-0.76) for Alternate Healthy Eating Index-2010, 0.65 (0.53-0.79) for Dietary Approaches to Stop Hypertension score, 0.82 (0.68-0.99) for healthful Plant-Based Diet Index, 0.67 (0.55-0.80) for reversed energy-adjusted diet inflammatory index, and 0.80 (0.67-0.96) for healthy low-fat diet score. The findings remain robust after fitting the generalized propensity score model. At age 45, participants with the highest adherence to healthy dietary patterns gained an estimated life expectancy of 1.66 to 3.32 years more than those with the lowest adherence. CONCLUSIONS: Adherence to healthy dietary patterns is associated with reduced CVD risk among cancer survivors, underscoring the potential for diet to support cardio-oncology care.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103376"
+ },
+ {
+  "idx": 68,
+  "journal": "JACC Cardiovasc Interv",
+  "title": "Two-Year Outcomes of the Prospective THRILLER Registry on Popliteal and Infrapopliteal Endovascular Interventions for CLTI.",
+  "ptypes": [
+   "Journal Article",
+   "Multicenter Study",
+   "Observational Study"
+  ],
+  "abstract": "BACKGROUND: Over 70% of patients with chronic limb-threatening ischemia (CLTI) present with below-the-knee disease, and there is a growing trend towards endovascular revascularization. OBJECTIVES: The Dutch Chronic Lower Limb-Threatening Ischemia Registry (THRILLER) aimed to provide real-world data on outcomes after popliteal and infrapopliteal endovascular revascularization to guide revascularization strategies. METHODS: This prospective multicenter registry included consecutive CLTI patients undergoing popliteal or infrapopliteal endovascular revascularization in seven Dutch hospitals. Primary outcomes were limb salvage and amputation-free survival (AFS) at 24 months, estimated using the Kaplan-Meier method. RESULTS: Between February 2021 and December 2023, a total of 1,119 interventions in 1,060 limbs (938 patients) were included, treating 551 popliteal, 1,352 tibial, and 239 pedal lesions. The median follow-up was 43.6 months (Q1-Q3: 35.5-52.7 months). Overall, 78.4% (831/1,060) of the limbs were Rutherford 5 and 8.1% (86/1,060) were Rutherford 6; 41.3% (382/926) were WIfI (Wound, Ischemia, and foot Infection) stage 4. Technical success was achieved in 92.3% (1,033/1,119). Limb salvage and AFS decreased significantly after technical failure and with increasing WIfI stage and Rutherford category. Compared to Rutherford 5, Rutherford 6 limbs had significantly worse limb salvage (HR: 3.07; 95% CI: 1.89-4.99; P < 0.001) and AFS (HR: 2.07; 95% CI: 1.50-2.86; P < 0.001). For AFS, the excess risk of Rutherford 6 was greatest in the first 3 months (HR: 14.13; 95% CI: 4.94-40.38 vs Rutherford 4; P < 0.001). CONCLUSIONS: Endovascular revascularization for popliteal and infrapopliteal disease in patients with CLTI is safe and effective in preventing limb loss and mortality at 2 years, although patients with Rutherford 6 limbs face significantly worse outcomes, particularly in the first 3 months.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcin.2026.07.044"
+ },
+ {
+  "idx": 69,
+  "journal": "Hypertension",
+  "title": "KLHL3-Cab39 Disruption Drives WNK4-Independent Hyperkalemic Hypertension.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Familial hyperkalemic hypertension, also known as pseudohypoaldosteronism type II (PHAII), is characterized by hypertension and hyperkalemic metabolic acidosis and involves dysregulation of the KLHL3 (Kelch-like 3)-cullin3 E3 ubiquitin ligase complex, affecting WNK1/4 (with-no-lysine kinase 1/4)-mediated SPAK (Ste20-related proline/alanine-rich kinase)/OSR1 (oxidative stress response kinase 1)-NCC (Na+-Cl- cotransporter) signaling. How KLHL3 phosphorylation mutations modulate this pathway remains poorly defined. METHODS: We generated knock-in mouse models expressing phosphomimetic (S486D) or phosphodefective (S486G) mutations at Klhl3 S486 (homologous to human S433). Blood pressure, serum and urine biochemistries, immunoblotting, immunofluorescence, coimmunoprecipitation, in vitro ubiquitination assays, and molecular docking were performed. Klhl3 S486G mice were crossed with Wnk4-/- mice to test WNK4 dependence. RESULTS: Both knock-in strains exhibited typical PHAII features despite unchanged KLHL3 levels, with enhanced SPAK/OSR1-NCC phosphorylation, increased Cab39 levels, and unchanged WNK1/4 expression. Under high-salt loading, Klhl3 S486 knock-in mice maintained severe PHAII phenotypes, with persistently elevated Cab39 and NCC levels despite decreased WNK4 expression. Critically, Wnk4 deletion failed to rescue PHAII phenotypes in Klhl3 S486G mice, demonstrating that Klhl3 S486 mutations drive PHAII independently of WNK4. In vitro, human KLHL3 S433D/S433G mutations reduced KLHL3-Cab39 association and Cab39 ubiquitination, with a corresponding increase in Cab39 abundance. Deletion mapping identified KLHL3 residues 428 to 437 and Cab39 residues 314 to 324 as key determinants of the KLHL3-Cab39 association. CONCLUSIONS: These findings indicate that the integrity of Ser486 itself, rather than its phosphorylation state, is required for KLHL3-mediated Cab39 ubiquitination and define a WNK4-independent PHAII mechanism driven by impaired Cab39 degradation and consequent SPAK/OSR1-Na+-Cl- cotransporter activation.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/HYPERTENSIONAHA.126.27701"
+ },
+ {
+  "idx": 70,
+  "journal": "J Am Heart Assoc",
+  "title": "Sudden Cardiac Death in Firefighters From the United States: A 16-Year Postmortem Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Sudden cardiac death (SCD) is the leading cause of duty-related death among firefighters. Understanding postmortem cardiovascular abnormalities associated with SCD is critical to guiding fire service cardiovascular disease screening and prevention programs. METHODS: This study included US firefighters who had a duty-related death over a 16-year period (1999-2014) with available postmortem reports (autopsy/medical examiner reports). Cases were systematically reviewed to identify cases of SCD. For each SCD case, the primary etiology of SCD was adjudicated by experts in sports cardiology and cardiovascular pathology. RESULTS: Postmortem evaluations were available for 794 of 2100 (37.8%) on-duty firefighter deaths over the study period (average age, 44±13 years; age range, 17-82 years; 4.0% women). A total of 312 of 794 (39.3%) firefighter deaths were adjudicated as SCD. A total of 255 of 312 (81.8%) SCD events were attributable to coronary artery disease/ischemic heart disease or hypertensive heart disease, which both are associated with traditional cardiovascular risk factors. The leading etiology of SCD among young firefighters (aged <40 years) was also coronary artery disease/ischemic heart disease (24/50 [48.0%]). Of firefighters who had an exertional SCD event thought to be secondary to coronary artery disease (n=97), a total of 62 of 91 (68.1%) had severe fixed coronary stenosis, while 29 of 91 (31.9%) demonstrated acute plaque rupture/thrombosis. CONCLUSIONS: More than 80% of on-duty SCD events among US firefighters are due to coronary artery disease and hypertensive heart disease that may be prevented by early disease identification and risk factor modification. Future studies should assess the efficacy of more rigorous firefighter cardiovascular disease screening and management practices.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.051295"
+ },
+ {
+  "idx": 71,
+  "journal": "Hypertension",
+  "title": "Salt-Sensitive Hypertension Begins With Intracellular K+ and Water Loss.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Na+ and water overload due to inappropriately low renal salt and water excretion is considered the root cause of salt-sensitive hypertension. However, experimental renal and psoriasis hypertension are characterized by chronic predisposition to dehydration. We tested the validity of this alternative hypertension due to loss of water theory in deoxycorticosterone acetate (DOCA) salt-sensitive hypertension. METHODS: We tested the effect of DOCA (25 mg pellet) in mice on a low Na+ diet (0.02%-0.03%) with tap water, or with Na+ in their drinking water (1% NaCl or 1.44% NaHCO3), on body Na+, K+, and water content 2, 6, and 12 days after treatment initiation. We monitored blood pressure with radio-telemetry, food and water intake, and renal electrolyte and water excretion. RESULTS: At day 2, DOCA NaCl-treated mice elevated blood pressure during a state of isolated body K+ and water loss, indicating substantial intracellular dehydration. Although increasing their fluid intake and urine output, the mice reduced the excretion of free water, indicating renal water conservation. At days 6 and 12, secondary Na+ retention occurred, which replaced the amount of K+ lost and corrected the dehydration, albeit at the expense of an intracellular Na+/K+ redistribution disorder. DOCA NaHCO3-treated mice with Na+-resistant blood pressure showed a comparable Na+/K+ redistribution disorder, but without accompanying early dehydration due to earlier replacement of lost K+ by Na+. CONCLUSIONS: Experimental DOCA salt-sensitive hypertension initiates with a systemic water conservation response in the face of K+-driven intracellular water loss. Both dehydration and blood pressure increase could be causally treated by oral K+ supplementation.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/HYPERTENSIONAHA.125.24501"
+ },
+ {
+  "idx": 72,
+  "journal": "JACC Cardiovasc Interv",
+  "title": "Calcium Fracture Detection by Optical Coherence Tomography Versus Intravascular Ultrasound Following Intravascular Lithotripsy.",
+  "ptypes": [
+   "Journal Article",
+   "Comparative Study"
+  ],
+  "abstract": "BACKGROUND: Calcium fracture is a metric used to assess lesion preparation success. We have shown previously that optical coherence tomography (OCT) misses approximately half of these fractures. Intravascular ultrasound (IVUS) is the most commonly used intravascular imaging modality. The sensitivity of IVUS for detecting calcium fractures after intravascular lithotripsy (IVL) is unknown. OBJECTIVES: This study sought to assess the frequency and characteristics of calcium fracture observed on IVUS in comparison to OCT and gold standard micro-computed tomography (micro-CT) using heavily calcified coronary artery cadaveric vessels. METHODS: In an ex vivo study of 5 cadaveric hearts (15 coronary lesions), OCT, IVUS, and micro-CT were obtained before and after IVL coronary artery treatment. Fracture detection rates and appearance patterns were compared across modalities. Receiver operating characteristic analyses evaluated OCT-measured fracture width thresholds for IVUS detectability. RESULTS: Compared with micro-CT, OCT and IVUS significantly underestimated fracture occurrence, but OCT demonstrated higher detection sensitivity than IVUS (P < 0.05 by McNemar's test). Narrow linear nondisplaced fractures identified on OCT were frequently undetectable on IVUS or appeared as subtle hyperechoic shadows. Fracture width was strongly associated with IVUS detectability; fracture width >115 μm on OCT were identified by IVUS with excellent diagnostic performance (area under the curve: 0.99 [95% CI: 0.98-1.00], sensitivity 100%, specificity 92%). CONCLUSIONS: OCT and IVUS underestimate the occurrence of IVL-induced calcium fractures compared with micro-CT, with IVUS demonstrating lower sensitivity than OCT. IVUS detectability is strongly dependent on fracture width. Absence of visible fracture on either OCT or IVUS does not exclude calcium modification.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcin.2026.07.053"
+ },
+ {
+  "idx": 73,
+  "journal": "Heart Rhythm",
+  "title": "Combined bipolar and unipolar voltage mapping to identify epicardial breakthrough regions after pulsed field ablation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The utility of unipolar voltage (UV) mapping for identifying epicardial breakthrough regions after pulmonary vein isolation (PVI) remains undetermined. OBJECTIVE: This study assessed combined bipolar voltage (BV) and UV mapping for identifying epicardial breakthrough regions after pulsed field ablation (PFA). METHODS: Thirty patients with atrial fibrillation underwent initial PFA-PVI with a pentaspline catheter under fluoroscopic guidance. Within the isolated PV antrum (BV <0.1 mV), transmurally ablated regions and epicardial breakthrough regions were defined by UV <1.08 mV and UV ≥1.08 mV, respectively. Unipolar electrogram features were investigated to identify epicardial breakthrough regions. RESULTS: Seventeen patients had 27 epicardial breakthrough regions, yielding 276 local unipolar electrograms (QR pattern: n=160; RS pattern: n=116). QR electrograms were distributed broadly within the isolated PV, whereas RS electrograms occurred exclusively around the isolation boundary. QR electrograms, indicating possible epicardial breakthrough, had significantly higher UV amplitudes than RS electrograms (median: 1.64 vs. 0.70 mV; P<0.001). The UV amplitude cutoff distinguishing these morphologies was 1.15 mV (sensitivity, 91.9%; specificity, 84.5%; area under the curve [AUC], 0.922; P<0.001). Among 245 local unipolar electrograms around the isolation boundary, excluding QR electrograms, RS electrograms had higher UV amplitudes and steeper negative intrinsic deflection slopes than non-RS electrograms, suggesting possible intramural conduction gaps. Respective cutoffs were 0.48 mV (sensitivity, 83.6%; specificity, 86.8%; AUC, 0.923; P<0.001) and 0.020 mV/ms (sensitivity, 97.4%; specificity, 94.5%; AUC, 0.992; P<0.001). CONCLUSION: Combined BV and UV mapping provides additional information for identifying epicardial breakthrough regions at PFA application sites.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.054"
+ },
+ {
+  "idx": 74,
+  "journal": "Heart Rhythm",
+  "title": "Acute effects of cardioneuroablation on ventricular arrhythmia inducibility and refractoriness in patients with functional bradyarrhythmias. The Roman 4 study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cardioneuroablation (CNA) is a promising method to treat functional bradyarrhythmias. However, whether CNA-induced decrease in the parasympathetic drive to the heart may occur proarrhythmic in the future is not known. OBJECTIVE: To assess acute effects of CNA-induced total vagal denervation on QT interval as well as invasively measured ventricular effective refractory period (VERP), ventricular action potential duration (VAPD) and vulnerability to ventricular arrhythmias. METHODS: CNA was performed using anatomical approach by means of electro-anatomical mapping and intracardiac echocardiography. Intra-procedural efficacy was assessed using extracardiac vagal stimulation. QTc and QTd intervals were measured from surface ECG. VAPD and VERP were measured from ablation electrode in right ventricle. Measurements were performed at four time-points: at baseline, immediately after CNA, after atropine injection, and finally after isoproterenol bolus. RESULTS: 80 patients (51 females, mean age 42 ± 14 years) underwent CNA. Polymorphic ventricular tachyarrhythmias were induced in 2 females who had pre-existing cardiac conditions. Changes in QTc depended on the method used for correction. Using the Bazett formula, QTc was significantly prolonged, however using the Framingham, Fridericia and Hodges corrections, these changes were much less pronounced or non-significant. QTd remained unchanged across all measurements. The VERP and VAPD values remained unchanged after CNA and after atropine whereas they became significantly shorter following isoproterenol injection. CONCLUSION: The present study did not demonstrate evidence of acute electrophysiological changes suggesting increased ventricular arrhythmogenicity after CNA in patients without structural heart disease. However, long-term follow-up is needed to confirm lack of proarrhythmic effects of CNA.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.053"
+ },
+ {
+  "idx": 75,
+  "journal": "JACC Cardiovasc Imaging",
+  "title": "Liver Extracellular Volume in Patients With Tricuspid Regurgitation: A Novel Prognostic Marker.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Liver extracellular volume (L-ECV), a novel cardiac magnetic resonance (CMR) parameter of systemic venous congestion, might help to stratify tricuspid regurgitation (TR) patients at higher risk, but its role in this context is unexplored. OBJECTIVES: The aim of this study was to assess the incremental prognostic relevance of L-ECV in a large TR cohort. METHODS: Data were collected from patients with TR referred to CMR between 2019 and 2024 who had parametric mapping analysis for L-ECV quantification. The primary endpoint was the composite of all-cause mortality and heart failure (HF) hospitalization, under medical management. RESULTS: In 462 patients included (median age: 67 years; 43% female), median left ventricular ejection fraction was 51% (Q1-Q3: 40%-59%), median tricuspid regurgitant fraction was 21% (Q1-Q3: 14%-33%), and median L-ECV was 31% (Q1-Q3: 28%-35%). When dividing the cohort according to median L-ECV value, patients with high L-ECV (≥ median) showed worse baseline status with more clinical and imaging signs of right HF and (after a median follow-up of 2.1 years) poorer survival free from the primary outcome (P < 0.001) compared with patients with low L-ECV. High L-ECV independently predicted the outcome even after multivariable adjustment accounting for TR severity, biventricular ejection fraction, and pulmonary pressure (adjusted HR: 1.82; 95% CI: 1.03-3.18; P = 0.030). Finally, L-ECV showed incremental prognostic value compared with TRI-SCORE when assessed in a nested Cox model. CONCLUSIONS: In our large real-world TR cohort, L-ECV appeared as a novel, powerful CMR marker of right HF with an independent and incremental prognostic value to stratify patients with TR at higher risk of events.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcmg.2026.08.015"
+ },
+ {
+  "idx": 76,
+  "journal": "Nat Cardiovasc Res",
+  "title": "Temporal proteomics maps concealed-stage remodeling and reveals early mitochondrial alteration as an intervention target in a model of PKP2-arrhythmogenic cardiomyopathy.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Arrhythmogenic cardiomyopathy is a heritable cardiac disorder commonly linked to alterations in desmosomal proteins. While desmosomal dysfunction is a recognized pathogenic mechanism, the early molecular remodeling that precedes clinical manifestations remains unclear. Here we used a mouse model with inducible cardiomyocyte-specific knockout of Pkp2 (encoding plakophilin-2) and performed time-resolved mass spectrometry-based proteomics to map disease progression from early PKP2 loss to structural remodeling. Molecular changes preceded phenotypic abnormalities, and spatial asymmetry was evident, with earlier and more pronounced proteome remodeling in the right ventricle despite comparable PKP2 depletion in both ventricles. Downregulation of protein networks spanning desmosomes, sarcomeres and mitochondria suggests their functional coupling, with mitochondrial remodeling emerging as an early and progressively worsening feature. Intervention with honokiol attenuated changes across the major protein networks, highlighting mitochondrial pathways as promising therapeutic targets and honokiol as a potential strategy to delay arrhythmogenic cardiomyopathy progression. Our findings provide critical insights into the concealed stage of disease progression and identify molecular targets for early intervention.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s44161-026-00894-4"
+ },
+ {
+  "idx": 77,
+  "journal": "JACC Adv",
+  "title": "Incidence of Dementia and Subsequent Outcomes in Patients With Heart Failure.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Dementia and heart failure (HF) frequently coexist; however, the relationship between these conditions is not fully explored. OBJECTIVES: The objectives of the study were to: 1) compare dementia incidence in newly-diagnosed patients with HF or matched non-HF controls; and 2) examine risk factors for and outcomes after dementia diagnosis in HF patients. METHODS: In community-dwelling residents (aged 40-80 years), we compared incident dementia in those with new-onset HF vs age/sex, and cardiovascular risk factor/disease-matched non-HF controls. In those with HF, we examined time-varying dementia onset as the exposure with outcomes of mortality and hospitalization. We also compared physician visits after vs before dementia diagnosis. RESULTS: Among 211,548 outpatients with HF (median 68 [60-75] years, 41.2% female), time-dependent HRs for dementia were 1.42 (95% CI: 1.38-1.47) at 5 years and 1.31 (95% CI: 1.27-1.35) at 10 years compared to non-HF controls. Prior stroke or transient ischemia attack (HR: 1.41; 95% CI: 1.33-1.50) and hospital frailty risk score >10 vs <5 (HR: 1.93; 95% CI: 1.77-2.09) were important predictors of dementia (both P < 0.001). Incident dementia was associated with higher multivariable-adjusted hazards of all-cause mortality (HR: 2.44; 95% CI: 2.40-2.49) and all-cause hospitalization (HR: 1.63; 95% CI: 1.58-1.69) in outpatients with HF (all P < 0.001). Rates of outpatient physician visits with primary care, internal medicine, cardiologists (post/pre-rate ratio range 1.08-1.19), and geriatricians (post/prerate ratio 10.70; all P < 0.001) were higher after (versus before) dementia onset. CONCLUSIONS: Incident HF was associated with higher risk of incident dementia. Dementia onset was associated with higher rates of outpatient physician visits and increased risk of adverse outcomes.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103248"
+ },
+ {
+  "idx": 78,
+  "journal": "J Am Heart Assoc",
+  "title": "Correlation of the Distressed Communities Index Score With Cardiovascular Risk Factors and Disease in the United States.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cardiovascular disease (CVD) remains the leading cause of morbidity and death worldwide. Risk scores such as the pooled cohort equations often underpredict risk in individuals with low socioeconomic status. METHODS: We used the Centers for Disease Control and Prevention Population Level Analysis and Community Estimates data set to obtain zip code-level prevalence of hypertension, obesity, stroke, diabetes, and coronary artery disease. The Distressed Communities Index (DCI) collates community socioeconomic status and social determinants/drivers of health metrics into a numerical score. Linear regression adjusted for region and rurality assessed associations between DCI and CVD prevalence. RESULTS: We included 26 058 US zip codes (2016-2020). The median DCI was 50.9 (interquartile range, 25.4-75.9). Each 1-unit increase in DCI was associated with increased prevalence of obesity (β=0.10 [95% CI, 0.09-0.10]), hypertension (β=0.08 [95% CI, 0.08-0.09]), diabetes (β=0.06 [95% CI, 0.06-0.06]), coronary artery disease (β=0.03 [95% CI, 0.03-0.03]), and stroke (β=0.02 [95% CI, 0.02-0.02]; all P<0.001). Rurality and region were independently associated with CVD and risk factor prevalence, with rural and southern zip codes having the highest prevalence. CONCLUSIONS: DCI, geographic region, and rurality are independently associated with greater prevalence of CVD and its risk factors in the United States. The DCI is a practical, scalable surrogate for socioeconomic status and social determinants/drivers of health that may enhance CVD risk stratification on the basis of an area's economic resilience or disadvantage. Using DCI with the Preventing Cardiovascular Events score may capture economic and social challenges it omits, warranting further study.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.048128"
+ },
+ {
+  "idx": 79,
+  "journal": "Nat Med",
+  "title": "A clinical multimodal vision language foundation model with fine-grain explainability.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Despite their considerable promise, many current medical foundation models remain modality specific and lack transparent reasoning, limiting clinical adoption. To address this gap, we introduce Explainable Vision Language Foundation Model for Medicine (EVLF-FM), a multimodal vision language foundation model that combines broad diagnostic capabilities with fine-grained explainability. The development and testing of EVLF-FM encompassed more than 1.3 million total samples from 18 global datasets across 10 imaging modalities related to six clinical specialties: dermatology, hepatology, ophthalmology, pathology, pulmonology and radiology. External validation employed 13,443 independent test samples from 17 additional datasets across 10 imaging modalities. EVLF-FM supports disease diagnosis, visual question answering and pixel-level visual grounding with reasoning capabilities. In internal validation for disease diagnostics, EVLF-FM achieved the highest average accuracy, 0.895, outperforming leading generalist and specialist models. In medical visual grounding, EVLF-FM also achieved reasonable performance across nine modalities with average accuracy at 0.5 intersection over union (Acc@0.5) of 0.842. External testing further confirmed consistent zero-shot and few-shot performance, with competitive F1 scores despite a smaller model size. A hybrid training strategy combining supervised and visual reinforcement fine-tuning enables EVLF-FM to generate clinically interpretable explanations aligned with visual evidence. Human evaluation of these reasoning outputs using the S.C.O.R.E. framework yielded a high overall mean score of 4.25/5, supporting their clinical interpretability. Current limitations include the need for additional validation across diverse healthcare settings. Prospective clinical studies are required to evaluate the safety, effectiveness and clinical utility of EVLF-FM before routine clinical deployment.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s41591-026-04655-5"
+ }
+]

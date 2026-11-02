@@ -1,0 +1,248 @@
+[
+ {
+  "idx": 40,
+  "journal": "Circulation",
+  "title": "Effect of Activin Type II Receptor Signaling in Patients With HFpEF and Pulmonary Hypertension: A Critical Analysis of Biological Mechanisms and Clinical Trials.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "The totality of evidence indicates that the mechanisms underlying the increase in pulmonary vascular resistance in patients with combined postcapillary and precapillary pulmonary hypertension (CpcPH) associated with heart failure with preserved ejection fraction (HFpEF) differ meaningfully from those responsible for the increase in pulmonary vascular resistance in patients with pulmonary arterial hypertension. CpcPH-HFpEF is a complex disorder involving the pulmonary veins, left atrium, and pulmonary arterioles, but recent evidence has highlighted a potentially central role for pulmonary venous and left atrial (LA) dysfunction. Epicardial adipose tissue occupies anatomical proximity to both structures, allowing derivative secretory products to influence their structure and function. The most well-characterized proinflammatory adipokine released from an expanded epicardial fat mass is activin A, which causes fibrosis and cardiomyocyte stiffness and senescence in underlying tissues by signaling through activin type II receptor signal transduction. Such signaling regulates pulmonary venular responses to mechanical stretch, and circulating activin A is elevated in patients with HFpEF who have enlarged LA chambers, pulmonary venous hypertension and increased pulmonary vascular resistance. The adipokine hypothesis of HFpEF identified activin A and activin type II receptor signaling as key adipokine mediators in the pathogenesis of HFpEF. Experimentally, activin A signaling promotes the development of both atrial myopathy and HFpEF, and activin type II receptor ligand traps alleviate HFpEF and ameliorate both the pulmonary vascular and left heart abnormalities in experimental models in which CpcPH-HFpEF is induced by obesity. These collective observations led to the prospective hypothesis that adipokine modulation by sotatercept would mediate benefits on the left heart in patients with CpcPH-HFpEF. These expectations were validated when the CADENCE trial showed that sotatercept decreased both pulmonary artery wedge pressures and left atrial volume index in patients with CpcPH-HFpEF, which are effects that could not explained by a decrease in pulmonary vascular resistance. Activin A released from an expanded epicardial adipose tissue promotes both pulmonary venous and left atrial remodeling and fibrosis in vivo, which (in turn) are effects that can be attenuated by an activin A decoy. The efficacy of sotatercept to slow the progression of CpcPH-HFpEF is now being tested in a phase III outcomes trial.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.081957"
+ },
+ {
+  "idx": 41,
+  "journal": "JAMA Cardiol",
+  "title": "Intersection of Patient and Hospital Rurality in Heart Failure Care and Outcomes.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: Rural-urban disparities in heart failure (HF) care delivery and outcomes are well documented. However, it remains unclear if differences in outcomes after HF hospitalization are primarily driven by patient rural residence, hospital resources, or both. OBJECTIVE: To evaluate associations of patient and hospital rurality with quality of care and postdischarge outcomes after hospitalization for HF with reduced ejection fraction (HFrEF). DESIGN, SETTING, AND PARTICIPANTS: This was a retrospective cohort study of Medicare beneficiaries in US hospitals with HFrEF with an index hospitalization from January 1, 2013, to December 31, 2021. Included were Medicare beneficiaries discharged alive after an index hospitalization for HFrEF. Participants were classified as rural patients hospitalized in rural hospitals (rural-rural), rural patients in urban hospitals (rural-urban), urban patients in urban hospitals (urban-urban), and urban patients in rural hospitals (urban-rural). Study data were analyzed from July to September 2026. EXPOSURES: Patient rural residence and hospital rurality. MAIN OUTCOMES AND MEASURES: Primary outcome was 90-day all-cause mortality after hospitalization. Secondary outcomes included inpatient cardiology consultation, 90-day postdischarge guideline-directed medical therapy (GDMT) use based on prescription fills, and HF readmission at 30 days, 90 days, and 1 year. RESULTS: Among 735 460 beneficiaries (median [IQR] age, 77 [70-85] years; 415 077 male [56.4%]), 69 061 (9.4%) were rural-rural, 65 510 (8.9%) rural-urban, 582 947 (79.3%) urban-urban, and 17 942 (2.4%) urban-rural. Compared with rural patients treated in rural hospitals, rural patients treated in urban hospitals were more likely to receive inpatient cardiology consultation (odds ratio [OR], 2.02; 95% CI, 1.84-2.22) and initiation of several GDMT classes, including β-blockers (OR, 1.20; 95% CI, 1.16-1.25), ARNIs (OR, 1.23; 95% CI, 1.13-1.34), MRAs (OR, 1.23; 95% CI, 1.15-1.31), and SGLT2Is (OR, 1.48; 95% CI, 1.32-1.67). They also had lower rates of HF readmission and mortality at all time points (HF readmission 1-year: OR, 0.85; 95% CI, 0.82-0.88; mortality 1-year: OR, 0.91; 95% CI, 0.89-0.94) than rural-rural patients. Compared with urban patients hospitalized at urban hospitals, rural patients hospitalized at urban hospitals more often received inpatient cardiology consultation (OR, 1.38; 95% CI, 1.31-1.44), whereas postdischarge GDMT differences were modest (absolute difference in GDMT score 0.09 points; 95% CI, 0.05-0.14). Rural patients also had lower HF readmission (1-year OR, 0.81; 95% CI, 0.79-0.82) but higher 30- and 90-day mortality than urban patients (30-day OR, 1.10; 95% CI, 1.06-1.14; 90-day OR, 1.05; 95% CI, 1.02-1.08). CONCLUSIONS AND RELEVANCE: Results suggest that hospital rurality was associated with lower odds of GDMT use and higher rates of all-cause mortality, whereas rural residence was associated with mortality differences despite treatment in urban hospitals. Interventions addressing both inpatient resource disparities and postdischarge transitions of care may reduce rural-urban inequities in HF outcomes.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1001/jamacardio.2026.4827"
+ },
+ {
+  "idx": 42,
+  "journal": "JACC Adv",
+  "title": "Norepinephrine Equivalent Dose for Mortality Risk Stratification in VA-ECMO Cardiogenic Shock.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Patients with cardiogenic shock (CS) complicated by vasoplegia requiring venoarterial extracorporeal membrane oxygenation (VA-ECMO) often need escalating vasopressor support and face high mortality. Norepinephrine equivalent dose (NEE) quantifies vasopressor burden, yet its prognostic value in VA-ECMO remains undefined. OBJECTIVES: We aimed to characterize the dose-response relationship between NEE and 30-day mortality, identify a clinically relevant NEE threshold, and determine factors associated with high vasopressor burden. METHODS: This bicentric retrospective study included 572 consecutive patients with CS requiring VA-ECMO. We collected vasopressor regimens, NEE trajectories, and hemodynamic parameters at predefined intervals. Restricted cubic splines assessed dose-response linearity. Maximally selected rank statistics with bootstrap validation identified optimal thresholds. Cox models estimated mortality risk. Multivariable logistic regression identified factors associated with high vasopressor burden. RESULTS: The median NEE at ECMO initiation was 0.30 (IQR: 0.09-0.72) μg·kg-1·min-1; 86.2% received norepinephrine. NEE showed a linear dose-response with mortality (HR: 1.06 per 0.1 μg·kg-1·min-1 increment; 95% CI: 1.04-1.08; P < 0.001). A threshold of 0.443 μg·kg-1·min-1 identified high vasopressor burden with elevated 30-day mortality (61.8% vs 42.6%; P < 0.001; adjusted HR: 1.42; 95% CI: 1.11-1.81; P = 0.005). Factors associated with high vasopressor burden included mechanical ventilation (OR: 2.96; 95% CI: 1.08-8.07), prior epinephrine use (OR: 1.87; 95% CI: 1.12-3.14), renal replacement therapy before VA-ECMO (OR: 1.76; 95% CI: 1.02-3.03), baseline lactate (OR: 1.05 per mmol/L; 95% CI: 1.01-1.09), and lower Survival After Veno-Arterial ECMO score (OR: 0.96 per point; 95% CI: 0.92-1.00). Left ventricular unloading was inversely associated (OR: 0.54; 95% CI: 0.34-0.87). CONCLUSIONS: In VA-ECMO-supported CS with vasoplegia, vasopressor burden shows a linear relationship with mortality. A NEE threshold of 0.443 μg·kg-1·min-1 may identify patients with elevated mortality risk.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103208"
+ },
+ {
+  "idx": 43,
+  "journal": "Circulation",
+  "title": "Transcatheter Aortic Valve Replacement in Pure Aortic Regurgitation: The Randomized SEASON-AR Clinical Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: For patients with severe pure aortic regurgitation (AR) at high surgical risk, guideline-directed medical therapy (GDMT) is often the only available option. Transfemoral transcatheter aortic valve replacement (TAVR) is an established treatment for aortic stenosis and has also been evaluated in patients with pure AR. However, no adequately powered randomized trial has compared TAVR with GDMT alone in this population. METHODS: We conducted a prospective, investigator-initiated, multicenter, randomized, open-label trial in China. Patients with severe pure AR for whom surgery was considered difficult or unacceptable by the local heart team or who persistently declined surgery were randomly assigned at a 1:1 ratio to receive transfemoral TAVR with the VitaFlow system plus GDMT or GDMT alone. The primary end point was a composite of all-cause death, disabling stroke, or heart failure rehospitalization at 1 year. RESULTS: We assigned 210 patients with severe pure AR to the TAVR group (n=109) or GDMT group (n=101) at 18 centers. At 1-year follow-up, the Kaplan-Meier estimate of the primary end point was significantly lower in the TAVR group than in the GDMT group (8.3% vs 24.8%; hazard ration [HR], 0.31 [95% CI, 0.14-0.66]; P=0.001), driven primarily by a reduction in heart failure rehospitalization (3.7% vs 21.3%; HR, 0.16 [95% CI, 0.06-0.47]; P < 0.001). TAVR was associated with higher rates of major or life-threatening bleeding and new permanent pacemaker implantation, most of which occurred within 30 days after the procedure. CONCLUSIONS: Among patients with severe pure AR, TAVR plus GDMT significantly reduced the rate of all-cause death, disabling stroke, or heart failure rehospitalization at 1 year compared with GDMT alone despite higher 30-day rates of major or life-threatening bleeding and new permanent pacemaker implantation. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT04864145.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.082827"
+ },
+ {
+  "idx": 44,
+  "journal": "Circ Res",
+  "title": "Glutaminolysis Shapes Cardiac Resilience to Stress via Mitochondrial Glutathione.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cardiac reserve is a strong predictor of cardiovascular morbidity and mortality, yet the metabolic mechanisms that enable the heart to mount an adaptive response to stress remain poorly understood. In this study, we sought to dissect the specific role of glutaminolysis, a key anaplerotic and redox-supporting pathway, in regulating cardiac reserve. METHODS: Cardiac reserve was assessed by echocardiography under β-adrenergic stimulation in mice with cardiomyocyte-specific deletion of glutaminase and in wild-type controls. Stable isotope tracing with [U-13C] glutamine was performed in Langendorff-perfused hearts. A randomized, double-blind, placebo-controlled crossover trial of acute glutamine supplementation in healthy volunteers was conducted to evaluate translational relevance (ChiCTR2400082676). RESULTS: During acute stress, such as exercise or β-adrenergic stimulation, glutaminolysis was rapidly mobilized to supply mitochondrial glutathione, preserving mitochondrial redox homeostasis and sustaining cardiac contractile reserve. Mice with cardiomyocyte-specific deletion of glutaminase exhibited marked impairments in both contractile reserve and exercise capacity, accompanied by a failure to elevate mitochondrial glutathione and consequent mitochondrial oxidative stress. Chronic exercise training upregulated cardiac glutaminase expression and expanded the mitochondrial glutathione pool, linking this adaptive mechanism to training-induced improvements in cardiac reserve. In humans, acute oral glutamine supplementation enhanced cardiac reserve, as assessed by exercise stress echocardiography, in a placebo-controlled crossover design. CONCLUSIONS: These findings reveal a novel metabolic paradigm in which glutaminolysis functions as a dynamic pathway supporting mitochondrial health and cardiac resilience, and highlight glutamine supplementation as a potential therapeutic strategy to enhance cardiac reserve.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCRESAHA.126.328900"
+ },
+ {
+  "idx": 45,
+  "journal": "Circ Res",
+  "title": "BAHCC1 Drives Smooth Muscle Plasticity and Neointima via Epigenetic Repression.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Vascular smooth muscle cell (SMC) phenotypic plasticity drives neointimal hyperplasia (IH) and contributes to atherosclerosis. Epigenetic mechanisms have been implicated in SMC plasticity, but the roles of epigenetic reader proteins are poorly understood. BAHCC1 (bromo adjacent homology domain coiled-coil 1) is a newly identified reader of the gene-repression histone mark histone-3 lysine 27 trimethylation (H3K27me3). Its role in vascular remodeling is unknown. METHODS: We investigated BAHCC1 in human restenotic and atherosclerotic arteries and in rat and mouse arterial injury models using BAHCC1 silencing, SMC-specific deletion, and an H3K27me3-binding-deficient knock-in mutation. Mechanistic studies in human aortic SMCs integrated transcriptomic and epigenomic profiling, protein-interaction assays, and single-guide RNA-dCas9-based epigenetic editing. RESULTS: BAHCC1 was upregulated in human restenotic and atherosclerotic arteries and rat arteries with IH. While BAHCC1 silenc ing reduced IH in balloon-injured rat arteries, SMC-specific BAHCC1 deletion and the H3K27me3-binding-deficient mutation (BAHCC1Y2537A) attenuated IH in wire-injured mouse arteries. In human SMCs, mitogen induced BAHCC1 expression through nuclear factor Y subunit-α, promoting BAHCC1-dependent dedifferentiation. Integrated transcriptomics and epigenomics identified LMO7 (LIM domain only 7), an IH suppressor, as a key BAHCC1-repressed target. BAHCC1 occupancy at LMO7 required BAHCC1-H3K27me3 interaction, and LMO7-targeted H3K27me3 enrichment through epigenetic editing repressed its expression in a BAHCC1-dependent manner. Furthermore, BAHCC1 associated with SAP30 and RBBP4/7 to form a corepressor complex. Functionally, LMO7 silencing reversed the effects of BAHCC1 knockdown on human SMC phenotype and exacerbated IH in BAHCC1Y2537A mice. Human genetic analyses further identified BAHCC1 variants associated with cardiovascular phenotypes and BAHCC1 expression. CONCLUSIONS: BAHCC1 is a previously unrecognized epigenetic driver of vascular remodeling. By reading H3K27me3 and recruiting corepressors to repress gene expression, BAHCC1 promotes pathological SMC phenotypic transition and IH, highlighting the BAHCC1 pathway as a potential therapeutic target for IH-associated vascular disease.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCRESAHA.126.329470"
+ },
+ {
+  "idx": 46,
+  "journal": "Europace",
+  "title": "Vascular Brain Injury in Patients with Atrial Fibrillation and Heart Failure.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: Patients with heart failure (HF) and atrial fibrillation (AF) are at higher risk of vascular brain lesions. Whether AF and HF synergistically amplify this risk is unclear. In this study, we explored the association of HF and AF and their interaction with the prevalence of MRI-detected vascular brain lesions. METHODS: We analysed 2,712 participants from the Swiss-AF study who underwent standardized brain-MRI and categorised them based on their AF diagnosis and history of HF. In the brain-MRI, we assessed large non-cortical and cortical infarcts (LNCCI), small non-cortical infarcts (SNCI) and white matter hyperintensities (WMH). Logistic regression models were used to analyse associations between AF, HF and their interaction with vascular brain lesions, adjusting for pre-selected covariates. RESULTS: Mean age was 73 years and 30.8% were female. The prevalence of ischemic brain infarcts and WMH increased across groups defined by AF and HF status (brain infarcts: AF-/HF- 22.8%, AF-/HF+ 30.2%, AF+/HF- 34.6%, AF+/HF+ 44.6%; WMH: AF-/HF- 43.2% AF-/HF+ 49.7%, AF+/HF- 50.4%, AF+/HF+ 65.6%). No significant interaction between AF and HF was observed for any brain lesion subtype. Both AF and HF (OR, 95% CI, p-value) were independently associated with brain infarcts (AF: 1.78, 1.48-2.16, p<0.001; HF: 1.32, 1.06-1.64, p<0.001) and WMH (AF: 1.71, 1.44-2.03, p<0.001; HF: 1.45, 1.17-1.80, p<0.001). CONCLUSIONS: AF and HF are independently associated with a higher prevalence of ischemic brain lesions, with the greatest burden observed in patients with both conditions. No interaction was found between AF and HF with regards to vascular brain lesions.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag305"
+ },
+ {
+  "idx": 47,
+  "journal": "J Am Heart Assoc",
+  "title": "Association Between Cardiologist Ambulatory Workload and Evidence-Based Therapy for Heart Failure.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Most eligible patients are not prescribed guideline-directed medical therapy for heart failure with reduced ejection fraction (EF). Increased time pressures for providers in the ambulatory setting may contribute to these shortfalls. We assessed the association between cardiologist ambulatory workload and guideline-directed medical therapy prescription for patients with heart failure with reduced EF. METHODS: This was a cross-sectional study of patients with heart failure with reduced EF (EF ≤40%) seen by a cardiologist from October 1, 2022, to September 30, 2023, using deidentified administrative and electronic health record data from Optum Labs Data Warehouse, which includes data from multiple health systems across the United States. The primary exposure was ambulatory workload, measured as the average number of visits per day, categorized into quartiles. The primary outcome was \"comprehensive quadruple therapy,\" defined as prescription for all 4 guideline-directed medical therapies: β-blocker; angiotensin receptor-neprilysin inhibitor; mineralocorticoid receptor antagonist; and sodium-glucose cotransporter 2 inhibitor. Analyses were conducted using generalized estimating equations, adjusted for demographic and clinical variables. RESULTS: Overall, 40 173 patients were seen by 881 cardiologists (median ambulatory workload, 9.1 patients per day; interquartile range=5.1-13.0). The percentage of patients prescribed comprehensive quadruple therapy was higher among patients in lower quartiles (quartile 1: 14%; quartile 2: 9.7%; quartile 3: 8.9%; quartile 4: 7.4%; P<0.001). In adjusted analysis, there was a graded association between lower workload quartile and higher odds of comprehensive quadruple therapy, compared with the highest quartile (odds ratio [95% CI], P value=quartile 1: 1.35 [1.09-1.66], 0.008; quartile 2: 1.20 [1.00-1.43], 0.050; quartile 3: 1.11 [0.93-1.32], 0.28; quartile 4 [reference]). CONCLUSIONS: Seeing a cardiologist with lower ambulatory workload was associated with increased prescribing of guideline-recommended, life-saving therapy in patients with heart failure with reduced EF. Current models that incentivize more visits per day may negatively impact care in the ambulatory setting.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.048608"
+ },
+ {
+  "idx": 48,
+  "journal": "J Am Heart Assoc",
+  "title": "Clinical Impact of Multiple-Clip Implantation for Residual Mitral Regurgitation After Transcatheter Edge-to-Edge Repair.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Residual moderate or greater mitral regurgitation (MR) after transcatheter edge-to-edge repair is strongly associated with adverse clinical outcomes. However, the prognostic impact of implanting additional clips in patients with significant residual MR after the first clip remains uncertain. We evaluated the clinical and echocardiographic outcomes of multiple-clip implantation for significant residual MR following placement of the initial clip. METHODS: We retrospectively evaluated 826 patients with moderate or greater residual MR on intraprocedural transesophageal echocardiography after placement of the first clip during transcatheter edge-to-edge repair at the Cedars-Sinai Medical Center from 2014 to 2023. Patients were categorized into single-clip (n=113) and multiple-clip (n=713) groups. The primary end point was the composite of all-cause mortality and heart failure hospitalization at 1 year. RESULTS: Procedural technical success and complication rates were comparable between groups. The multiple-clip group demonstrated greater MR reduction and higher transmitral pressure gradients at discharge, 30 days, and 1 year. At 1 year, the composite end point occurred less frequently in the multiple-clip group than in the single-clip group (16.8% versus 29.2%; P=0.002), along with greater and more sustained improvement in New York Heart Association functional class. In subgroup analyses, multiple-clip implantation consistently reduced major adverse cardiovascular events in patients with moderate as well as moderate-severe/severe residual MR. CONCLUSIONS: In patients with significant residual MR after implanting the first clip, multiple-clip implantation improved MR reduction and 1-year outcomes without increasing complications. Even in moderate residual MR, additional clips were associated with more favorable clinical outcomes.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050013"
+ },
+ {
+  "idx": 49,
+  "journal": "Circulation",
+  "title": "Comprehensive Centers of Excellence for Women's Cardiovascular Care: A Science Advisory From the American Heart Association, American Academy of Pediatrics, American College of Obstetricians and Gynecologists, and Society for Maternal-Fetal Medicine.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Improving cardiovascular health in women is an urgent public health priority given the persistent and pervasive gaps in awareness, prevention, and management of cardiovascular disease in this population. Advances in scientific understanding have led to increased recognition of female-specific considerations in cardiovascular disease, which informed the development of the Female Life Stage construct by the American Heart Association in collaboration with the American Academy of Pediatrics, American College of Obstetricians and Gynecologists, and Society for Maternal-Fetal Medicine. This construct integrates assessment of hormonal, psychosocial, and cardiovascular health across life stages. However, gaps remain in operationalizing this construct and optimizing the delivery of patient-centered, interdisciplinary care among women. Over the past several decades, women's cardiovascular centers have emerged as leaders, expanded rapidly, and elevated the recognition of cardiovascular diseases that exclusively, disproportionately, or differently affect women (eg, myocardial infarction with nonobstructive coronary arteries, spontaneous coronary artery dissection, Takotsubo syndrome). In this science advisory, we describe the current landscape of women's cardiovascular centers and propose a national infrastructure to support the expansion of dedicated Comprehensive Centers of Excellence for Women's Cardiovascular Care. These centers are conceptualized as interdisciplinary care models comprising 4 defining pillars: interdisciplinary clinical care, education and training, research, and community engagement. By establishing integrated pathways that span clinical disciplines, these centers can reduce fragmentation, enhance earlier risk identification, and expand opportunities to increase representation of women in clinical research. In doing so, they offer a bold opportunity for a scalable and equitable model to improve cardiovascular health for all women.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIR.0000000000001481"
+ },
+ {
+  "idx": 50,
+  "journal": "Eur Heart J Cardiovasc Imaging",
+  "title": "Right Atrial Phasic Function Improves CMR-Based Prognostication in Patients with Heart Failure with Mildly Reduced Ejection Fraction: A Multicenter Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: In multiple cardiovascular diseases, right atrial (RA) function can serve as an independent predictor for the clinical status and prognosis. However, the prognostic value of RA strain in patients with heart failure with mildly reduced ejection fraction (HFmrEF) remains considerably unknown. This study aims to explore the relationships between RA strain derived from cardiac magnetic resonance imaging-feature tracking (CMR-FT) and adverse outcomes in patients with HFmrEF. METHODS AND RESULTS: This retrospective study enrolled patients with HFmrEF who were referred for echocardiography and CMR at two tertiary medical centers from April 2016 to September 2024. The primary endpoint was a composite of all-cause mortality, HF-related hospitalization and cardiac transplantation. The findings were validated in a cohort of patients with HFmrEF enrolled from two additional tertiary care centers (January 2019 to January 2025). The development cohort included 1317 patients, and the validation cohort comprised 385 patients. During a median follow-up period of 2.8 years and 2.1 years, respectively, 243 and 72 patients in the development cohort and validation cohort reached the primary endpoint, respectively. Cox regression analysis showed that RA conduit strain was an independent predictor of the primary outcome (HR: 0.86 [0.82, 0.90]; P < .001). The full model integrating clinical variables, traditional imaging, and RA strain achieved the best predictive performance (C-index: 0.80 in development, 0.81 in validation cohorts). CONCLUSION: RA conduit strain derived from CMR is an independent predictor of adverse outcomes in patients with HFmrEF, providing incremental prognostic value beyond traditional clinical and imaging-derived risk markers.​.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/ehjci/jeag298"
+ },
+ {
+  "idx": 51,
+  "journal": "Circulation",
+  "title": "Outcomes of Hypoplastic Left Heart Syndrome by Subtype and Presence of Ventriculocoronary Connections: A Fetal Heart Society Multicenter Retrospective Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Hypoplastic left heart syndrome (HLHS) is classified by anatomic subtype: mitral atresia and aortic atresia (MA/AA), mitral stenosis and aortic atresia (MS/AA), and mitral stenosis and aortic stenosis (MS/AS). The MS/AA subtype is associated with ventriculocoronary connections (VCCs). We assessed whether specific HLHS subtypes are associated with an increased risk of mortality and whether this risk is stratified by VCCs identified during fetal or postnatal echocardiography. We also assessed whether the type of neonatal intervention performed modified the risk. METHODS: We performed a multicenter retrospective cohort study of fetuses and infants <2 months old with HLHS who were admitted between January 2012 and December 2016 to participating Fetal Heart Society institutions. Clinical and demographic data were collected. Fetal and transthoracic echocardiograms from a subset of patients with MS/AA and those with suspected VCCs were reviewed. Cox proportional hazards analysis was performed, controlling for cardiac center (random effect), birth weight, genetic diagnosis, extracardiac malformation, and restricted/intact atrial septum. RESULTS: Among 16 centers, 591 patients were born alive with intention to treat. MA/AA was the most common subtype (261, 44%), followed by MS/AA (200, 34%) and MS/AS (130, 22%). Of those with MS/AA, 115 (58%) had suspected VCCs. Median follow-up was 9.0 (interquartile range: 7.0, 10.8) years. Overall transplant-free survival (TFS) was 55.6% at 5 years and 49.4% at 10 years. When comparing MA/AA, MS/AS, and MS/AA with and without VCCs (reference group: MS/AA without VCCs), MS/AA with VCCs had the lowest TFS (hazard ratio [HR], 1.69 [1.12, 2.57]; 5-year TFS, 44.7%; 10-year TFS, 40.3%). This was followed by MA/AA (HR, 1.40 [0.95, 2.05]; 5-year TFS, 54.1%; 10-year TFS, 46.6%). Survival of MS/AA without VCCs (5-year TFS, 60.4%; 10-year TFS, 56.9%) was similar to MS/AS (HR, 0.91 [0.59, 1.41]; 5-year TFS, 65.0%; 10-year TFS, 58.3%). Among those with a prenatal diagnosis of HLHS (n=532), patients with MS/AA and VCCs suspected on fetal echocardiogram had a lower TFS compared with those with MS/AA without fetal suspicion for VCCs (HR, 1.79 [1.12, 2.85]). Fetal echocardiography was used to diagnose VCCs in 33 of 103 (32%) cases with MS/AA and VCCs suspected postnatally. Of patients with MS/AA and VCCs, type of stage I palliation was not associated with TFS (P=0.784). CONCLUSIONS: In a large, multicenter cohort of HLHS patients, the MS/AA subtype with VCCs had the lowest TFS. Prenatal diagnosis of VCCs was associated with a lower TFS. This study underscores the prognostic value of assessing for VCCs in patients with HLHS both before and after birth.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.080144"
+ },
+ {
+  "idx": 52,
+  "journal": "J Am Heart Assoc",
+  "title": "Artificial Intelligence-Assisted Automated Optical Coherence Tomography Analysis for Percutaneous Coronary Intervention Planning: From Plaque Analysis to Precision Lesion Preparation and Stent Optimization.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Percutaneous coronary intervention (PCI) remains the cornerstone of revascularization in coronary artery disease. However, despite advances in stent technology, adverse outcomes related to suboptimal stent placement including under-expansion, malapposition, incomplete coverage, edge dissection, and neoatherosclerosis persist. Optical coherence tomography (OCT) is the highest resolution widely available intravascular imaging modality, allowing unparalleled visualization of stent-vessel interactions and plaque morphology. However, there are significant barriers to large-scale OCT adoption, including time-consuming manual interpretation and dependence on the operator, resulting in significant variability between analysts. Artificial intelligence (AI)-based automated OCT analysis promises to assist PCI by delivering rapid, reproducible, and standardized stent optimization, but current analysis systems lack important features to optimize stent placement. This review summarizes the principles of OCT in PCI, the evidence for OCT-guided optimization, and recent advances in AI-driven automated OCT analysis. We discuss plaque analysis and classification, highlighting how AI-driven automated OCT analysis can identify fibrous, lipid-rich, and calcified lesions and guide tailored lesion preparation using balloons, specialty balloons, drug-coated balloons, intravascular lithotripsy, and atherectomy. We outline emerging AI-enabled workflows for fully automated PCI optimization, evaluate clinical outcomes, interpretability, and workflow integration. Finally, we explore future directions including AI imaging-physiology fusion, multiomics integration, and robotics. If successful, automated AI-empowered OCT analysis could become a central imaging platform for precision PCI, enabling tailored lesion preparation, optimal stent deployment, and improved clinical outcomes in coronary artery disease management.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049590"
+ },
+ {
+  "idx": 53,
+  "journal": "Europace",
+  "title": "Impact of obesity on clinical outcomes and the treatment effect of catheter ablation in atrial fibrillation: insights from CABANA.",
+  "ptypes": [
+   "Journal Article",
+   "Randomized Controlled Trial"
+  ],
+  "abstract": "AIMS: Obesity and atrial fibrillation (AF) are global epidemics, often co-existing and compounding cardiovascular risk. While catheter ablation has emerged as an effective strategy for rhythm control in symptomatic AF, it remains unclear whether obesity modifies its benefit. This post hoc analysis of the CABANA trial investigates the influence of baseline obesity on clinical outcomes after catheter ablation vs. drug therapy in AF patients. METHODS AND RESULTS: A total of 2170 CABANA participants with available body mass index (BMI) were included. Obesity was defined by BMI ≥ 30 kg/m2, and Class II obesity by BMI ≥ 35 kg/m2. Adverse outcomes, AF recurrence, and functional status were analysed using Cox, mixed-effects, and generalized estimating equation models, assessing treatment-by-obesity interactions. Obese patients exhibited higher comorbidity burden, worse baseline functional status, and more persistent AF compared to non-obese counterparts. Higher BMI was associated with increased cardiovascular hospitalization and a higher New York Heart Association functional class. Catheter ablation significantly reduced the risk of AF recurrence and improved symptom burden and functional capacity, irrespective of obesity status. No significant interaction was found between BMI and treatment effect on the primary composite endpoint of cardiovascular hospitalization or all-cause mortality. However, patients with Class II obesity or higher had worse absolute outcomes despite similar relative benefits from ablation. CONCLUSION: While obesity is associated with worse baseline status and outcomes, it was not shown to significantly alter the relative effectiveness of AF ablation compared to drug therapy. These findings support a multifaceted approach integrating rhythm control with upstream interventions targeting obesity-related atrial remodelling and comorbidity management.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag293"
+ },
+ {
+  "idx": 54,
+  "journal": "JACC Adv",
+  "title": "Complementary Cardiohepatic Prognostic Value of Hepatic Steatosis in Cardiovascular-Kidney-Metabolic Syndrome.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Hepatic steatosis carries substantial cardiovascular risk, whereas cardiovascular-kidney-metabolic (CKM) syndrome contributes to liver disease progression, highlighting the need for integrated cardiohepatic risk assessment. OBJECTIVES: The objective of the study was to evaluate whether hepatic steatosis provides incremental prognostic value beyond CKM staging for cardiovascular and liver outcomes. METHODS: We included 313,970 UK Biobank participants with CKM stages 0 to 3. Hepatic steatosis was primarily assessed using the Fatty Liver Index, with the Hepatic Steatosis Index as an alternative measure and the Fibrosis-4 Index for liver fibrosis. The primary outcome was major adverse cardiovascular events (MACEs). The secondary outcome was major adverse liver events (MALEs). RESULTS: During a median 15.7-year follow-up, 32,110 MACEs and 1,599 MALEs occurred. Hepatic steatosis and advanced CKM were independently associated with both outcomes, with coexistence conferring the highest risks (MACEs: HR: 2.33; 95% CI: 2.19-2.47; MALEs: HR: 5.09; 95% CI: 3.97-6.54, vs neither exposure). For MACEs, the association with hepatic steatosis was stronger in nonadvanced CKM (stages 0-2: HR: 1.51; 95% CI: 1.48-1.55) than in stage 3 (HR: 1.09; 95% CI: 0.97-1.23; Pinteraction < 0.001). For MALEs, hepatic steatosis mediated 41.1% of the association with CKM stage. The findings were consistent across alternative steatosis measures, whereas liver fibrosis showed no significant stage-dependent association with MACEs and a smaller mediation proportion for MALEs. Adding hepatic steatosis to CKM staging improved discrimination for both outcomes. CONCLUSIONS: Hepatic steatosis provided complementary cardiovascular and liver prognostic value beyond CKM staging, supporting its integration for more comprehensive cardiohepatic risk stratification.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103378"
+ },
+ {
+  "idx": 55,
+  "journal": "Circ Res",
+  "title": "CCR2-Dependent Myeloid Cell Recruitment Links Post-MI Heart Failure to Pulmonary Hypertension.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Pulmonary hypertension due to left heart disease (PH-LHD) is a common complication of myocardial infarction (MI) and heart failure (HF). Myeloid inflammation is a major hallmark of both the local cardiac and systemic post-MI response, with resident and recruited monocyte-derived macrophages orchestrating each step of the ensuing inflammatory cascade, from clearance of dead cardiomyocytes to scar tissue formation. Similarly, myeloid inflammation is a key feature of the PH lung, driving remodeling of small pulmonary vessels. We thus hypothesized that MI-induced systemic myeloid inflammation contributes directly to the development of PH-LHD. METHODS: We assessed expression of inflammatory adhesion molecules, as markers of vascular inflammatory activation and myeloid cell recruitment pathways, in patients with pulmonary arterial hypertension, PH-LHD, as well as in a PH-LHD rat model. We then induced MI and subsequent HF in 8- to 10-week-old female C57BL/6J mice via permanent ligation of the left anterior descending coronary artery. HF mice were then treated with a CCR2 (C-C chemokine receptor 2) antagonist to block monocyte recruitment and the development of PH-LHD was assessed at 6 weeks post-MI by a combination of invasive hemodynamics, flow cytometry, echocardiography, and lung histology. RESULTS: Expression of key inflammatory adhesion molecules, including VCAM1 and SELE, was increased in PH-LHD lungs from humans and rats. Following early post-MI development of HF with reduced ejection fraction, mice exhibited increased numbers of circulating monocytes, lung monocytes, and lung interstitial macrophages, as well as PH-LHD by 6 weeks, characterized by right ventricular hypertrophy, elevated right ventricular pressures, and lung vascular remodeling of small-to-medium-sized pulmonary vessels. Administration of the selective CCR2 antagonist RS102895 from day 10 post-MI to reduce monocyte tissue recruitment attenuated lung vascular remodeling, right ventricular systolic and diastolic pressures, right ventricular hypertrophy, and lung adhesion molecule expression at 6 weeks, compared with vehicle-treated controls, without improving the underlying left-sided HF. CONCLUSIONS: This proof-of-concept study demonstrates a causal role for CCR2-dependent myeloid cell recruitment in the progression from MI-induced HF to secondary pulmonary vascular disease.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCRESAHA.126.329553"
+ },
+ {
+  "idx": 56,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Using rare coding variants in SLC5A2 to explore the impact of SGLT2 inhibitors on cardiorenal outcomes.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Sodium-glucose cotransporter-2 (SGLT2) inhibitors are agents originally developed as glucose-lowering drugs but now widely used to improve cardiorenal outcomes, including in patients with heart failure and chronic kidney disease regardless of diabetes status. However, their exact mode of action remains unclear. Here, we investigated the association of loss-of-function (LoF) and other rare coding variants in the SLC5A2 gene, as a genetic model of altered SGLT2 function, with 13 cardiometabolic and renal traits and clinical outcomes. METHODS AND RESULTS: A total of 442 570 European ancestry participants from the UK Biobank with exome sequence and phenotype data were included. We applied SAIGE-GENE+ for gene-based and single-variant association tests in the full study population and in individuals with heart failure, renal failure, and type 2 diabetes (T2D). A total of 52 LoF variants in SLC5A2 were identified. Rare variants in SLC5A2 were associated with decreased uric acid (PCauchy = 4.98 × 10-13) and with increased haematocrit (PCauchy = 1.67 × 10-5), haemoglobin (PCauchy = 1.60 × 10-5), and estimated glomerular filtration rate (PCauchy = 9.88 × 10-4). One frameshift variant (rs267607067) was significantly associated with increased haemoglobin (β = 0.33 [95% CI 0.15-0.51]; P-value = 2.40 × 10-4) and another (rs768095044) with decreased uric acid (β = -0.31 [95% CI -0.49 to -0.13]; P-value = 4.22 × 10-4). In patients with T2D, the rare variants within SLC5A2 were also associated with a lower probability of having heart failure (PCauchy = 4.00 × 10-4). CONCLUSION: Rare genetic variants in SLC5A2 were associated with increased haemoglobin and decreased uric acid. These variants were also associated with a lower probability of heart failure among participants with T2D, providing tentative genetic support for a cardioprotective effect of SGLT2 inhibition.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag539"
+ },
+ {
+  "idx": 57,
+  "journal": "JACC Cardiovasc Interv",
+  "title": "Safety and Effectiveness of a Novel Laser-Based Intravascular Lithotripsy System for Coronary Calcium: FRACTURE Study.",
+  "ptypes": [
+   "Journal Article",
+   "Multicenter Study",
+   "Clinical Trial"
+  ],
+  "abstract": "BACKGROUND: Intravascular lithotripsy (IVL) has emerged as a promising option to modify calcium. OBJECTIVES: This study evaluated the safety and effectiveness of a novel laser- and optic-based quad-emitter IVL system in severely calcified de novo coronary lesions. METHODS: FRACTURE was a prospective, multicenter, single-arm trial. The primary safety endpoint was 30-day freedom from major adverse cardiac events (MACE; composite of cardiac death, myocardial infarction, or target vessel revascularization). The primary effectiveness endpoint was procedural success (successful stent delivery with a final residual stenosis <50% and freedom from in-hospital MACE). Both endpoints were evaluated against prespecified performance goals. An optical coherence tomography (OCT) substudy was performed. RESULTS: A total of 420 patients (mean age: 71.2 ± 9.01 years; 74.0% male) were enrolled. Median calcified length was 34.4 mm (Q1-Q3: 21.3-52.5 mm). Among 106 patients with OCT, at the site of maximum calcification, the calcium arc was 271.89° ± 77.35° and the median thickness was 0.88 mm (Q1-Q3: 0.72-1.11 mm). OCT confirmed calcium fracture in 67% of lesions; the median minimal stent area was 6.51 mm2 (Q1-Q3: 4.85-7.78 mm2), and stent expansion was 94.2% ± 19.4% at the site of maximum calcification. The primary safety endpoint of 30-day freedom from MACE was 93.3% (373/400; with lower bound of 95% CI of 90.8%, exceeding the 86.2% performance goal [P < 0.0001]). The primary effectiveness endpoint of procedural success was 93.7% (374/399; with lower bound of 95% CI of 91.3%, exceeding the 85.8% performance goal [P < 0.0001]). CONCLUSIONS: The quad-emitter IVL system is a safe and effective option to modify severe calcified coronary lesions and facilitate stent implantation. REGISTRATION: (Modification of Coronary Calcium With Laser Based Intravascular Lithotripsy for Coronary Artery Disease [FRACTURE]; NCT06181240).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcin.2026.08.018"
+ },
+ {
+  "idx": 58,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Redefining Cardiometabolic Disease: Expert Consensus on the CardioVascular-Kidney-Liver-Metabolic (CVKLM) Multiorgan Staging.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Cardiometabolic diseases increasingly manifest as interconnected dysfunction across the heart, vasculature, kidneys, liver, and metabolic system. The global rise in obesity, insulin resistance, and diabetes, together with therapies benefiting multiple organs, has reshaped the epidemiology and understanding of cardiometabolic disease, exposing the limitations of organ-specific or single-stage approaches. The cardioVascular-kidney-liver-metabolic (CVKLM) framework is a multidimensional staging system in which cardiac, vascular, kidney, liver, and metabolic involvement are graded independently from absent to advanced. Analogous to tumour-node-metastasis staging, it provides a standardized language describing disease severity within each organ and its distribution across organs. Rather than replacing existing classifications, CVKLM integrates universal heart failure stages, validated vascular risk assessment, KDIGO chronic kidney disease stratification, contemporary metabolic dysfunction-associated steatotic liver disease (MASLD) and advanced liver disease criteria, and current definitions of diabetes and clinical obesity. Unlike hierarchical frameworks assigning a single overall stage, CVKLM preserves organ-specific information and records coexisting abnormalities across domains. Intended for clinical and research phenotyping and staging rather than as a validated global risk score, it may facilitate systematic recognition of concomitant organ disease, support existing organ-specific diagnostic, referral, and treatment pathways, and provide a standardized taxonomy for observational studies and clinical trials. The prognostic significance of CVKLM profiles, their incremental value beyond established risk tools, and their clinical utility remain to be established. By integrating these domains within a common architecture, CVKLM offers a pragmatic framework spanning the full spectrum of cardiometabolic disease, from preclinical involvement to advanced multiorgan failure.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag563"
+ },
+ {
+  "idx": 59,
+  "journal": "J Am Heart Assoc",
+  "title": "Efficacy of Stellate Ganglion Block for Preventing Postoperative Atrial Fibrillation After Cardiac Surgery: A Randomized, Double-Blind, Placebo-Controlled Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Stellate ganglion block (SGB) may reduce postoperative atrial fibrillation (POAF) by modulating the autonomic nervous system. This study evaluated the efficacy of preoperative SGB in preventing POAF following cardiac surgery. METHODS: In this single-center, randomized, double-blind, placebo-controlled trial, 140 patients undergoing valve surgery with cardiopulmonary bypass were assigned (1:1) to ultrasound-guided right SGB with 7 mL of 0.5% ropivacaine or 7 mL of normal saline. The primary outcome was the incidence of POAF from postoperative day 0 to day 7 or until discharge. RESULTS: A total of 132 patients completed the study and were included in the modified intention-to-treat population (SGB group: n=65; saline group: n=67). POAF occurred in 43% of the SGB group and 40% of the saline group (odds ratio [OR], 0.99 [95% CI, 0.46-2.15], adjusted P=0.989). The SGB group demonstrated a lower incidence of intraoperative ventricular fibrillation/ventricular tachycardia requiring defibrillation after aortic cross-clamp release (6% versus 19%; OR, 0.21 [95% CI, 0.06-0.80]; adjusted P=0.022), lower postoperative high-sensitivity troponin I levels (median difference: -2562 ng/L [95% CI, -4301 to -45]; P=0.045), and a reduced risk of postoperative acute kidney injury (5% versus 18%; OR, 0.24 [95% CI, 0.06-0.98]; adjusted P=0.046). CONCLUSIONS: While preoperative SGB did not reduce the incidence of POAF, it was associated with potential benefits, including a lower requirement for intraoperative defibrillation attributable to ventricular arrhythmias, attenuated myocardial injury (as indicated by lower high-sensitivity troponin I levels), and a decreased risk of postoperative acute kidney injury. REGISTRATION: URL: https://www.chictr.org.cn; URL Identifier: ChiCTR2300068572.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.051373"
+ }
+]

@@ -1,0 +1,250 @@
+[
+ {
+  "idx": 20,
+  "journal": "Circ Heart Fail",
+  "title": "Diastolic Dysfunction in Congenital Heart Disease: A Pressure-Volume Loop Analysis of Borderline Left Heart.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Diastolic dysfunction is a major driver of morbidity in congenital heart disease, but its mechanisms are poorly understood. It remains unknown whether left ventricular (LV) diastolic dysfunction in borderline left heart patients is caused by a defect in active relaxation or in passive stiffness. We applied gold-standard pressure-volume (PV) loop analysis to define the mechanism of diastolic dysfunction in patients with borderline LV. METHODS: We analyzed invasive PV loops from children with bLV (n=13) and a pragmatic comparison group of patients with congenitally corrected transposition of the great arteries (ccTGA, n=14). PV loops were generated during transient preload alteration. Active relaxation was assessed by the isovolumetric relaxation time constant (τ) and maximal rate of pressure decline (dP/dtmin) indexed to peak systolic pressure. Passive stiffness was quantified by the stiffness constant (β), derived from the multibeat end-diastolic PV relationship. To account for size differences, β was calculated using indexed ventricular volumes (iβ), and also converted to a dimensionless stiffness constant (βw=β×ventricular wall volume). RESULTS: Active relaxation measures were similar between groups (τ bLV, 28 [23.5-29.5] versus ccTGA, 24 [21-28] msec, P=0.11; dP/dtmin/peak systolic pressure bLV: -10.6 [-11.0 to -9.4] versus ccTGA: -9.9 [-10.5 to -8.7] s-1, P=0.17). In contrast, patients with bLV had markedly abnormal passive stiffness. The end-diastolic PV relationship was shifted upward and to the left, and the stiffness constants were higher in the bLV group (iβ bLV, 0.10 [0.04-0.35] versus ccTGA, 0.03 [0.02-0.04] m2/mL, P=0.003; βw bLV, 4.08 [1.6-7.52] versus ccTGA, 1.21 [0.95-1.77]; P=0.002). CONCLUSIONS: The primary mechanism of diastolic dysfunction in bLV is increased passive ventricular stiffness, while no differences were detected in active relaxation. These findings suggest a limited role for lusitropic medications and therapeutic strategies that focus on mitigating ventricular stiffness (such as surgical endocardial fibroelastosis resection) may be more valuable.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCHEARTFAILURE.126.014323"
+ },
+ {
+  "idx": 21,
+  "journal": "JACC Cardiovasc Interv",
+  "title": "Impact of Recurrent Mitral Regurgitation Following Mitral Transcatheter Edge-to-Edge Repair on Long-Term Outcomes.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Residual mitral regurgitation (MR) after mitral transcatheter edge-to-edge repair (M-TEER) is a major determinant of outcome. However, the prognostic impact of recurrent mitral regurgitation (recMR) after initially successful M-TEER remains unclear. OBJECTIVES: This study aimed to evaluate the association between recMR after successful M-TEER and long-term mortality across degenerative mitral regurgitation (DMR) and functional mitral regurgitation (FMR). METHODS: This retrospective cohort included 461 consecutive patients with MR undergoing successful M-TEER (residual mitral regurgitation ≤2+ at discharge) between 2008 and 2021. recMR was defined as ≥1-grade increase in mitral regurgitation severity at follow-up compared with discharge. The primary endpoint was all-cause mortality. RESULTS: Among 461 patients with MR undergoing M_TEER (mean age 75.0 ± 9.1 years; 60.7% male [280 of 461]; 29.3% [135 of 461] had DMR), recMR occurred in 31.7% (146 of 461) (FMR in 31.9% [104 of 326]; DMR in 31.1% [42 of 135]). The median follow-up time was 3.44 years (Q1-Q3: 1.51-3.99 years). In a 12-month landmark analysis, absence of recMR was associated with improved survival (log-rank, P = 0.0088). At 4 years, all-cause mortality was 44.8% (95% CI: 38.7%-50.3%) in patients without recMR and 56.3% (95% CI: 47.2%-63.9%) in those with recMR. In multivariable Cox regression, recMR independently predicted higher mortality (HR: 1.43; 95% CI: 1.06-1.93; P = 0.019). The survival difference was significant in patients with DMR (log-rank, P = 0.014) but not with FMR (P = 0.11). CONCLUSIONS: recMR is common and independently associated with increased mortality after M-TEER, with a more pronounced effect in patients with DMR. Identification of patients at risk may inform closer surveillance and timely reintervention.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcin.2026.07.015"
+ },
+ {
+  "idx": 22,
+  "journal": "Nat Med",
+  "title": "Metabolic heterogeneity of obesity.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Multi-organ-system insulin resistance is the key pathogenic driver of obesity-related metabolic complications and diseases, such as atherogenic dyslipidemia, metabolic dysfunction-associated steatotic liver disease and type 2 diabetes. However, there is considerable heterogeneity in insulin sensitivity among people with obesity. Some are considered to have metabolically healthy obesity, with normal insulin sensitivity in conjunction with normal fasting blood glucose, oral glucose tolerance, plasma lipid profile and intrahepatic triglyceride content. In this Review, we discuss metabolic differences at the cellular, organ-system and systemic levels between people with metabolically healthy and metabolically unhealthy obesity; we also discuss heterogeneity in the therapeutic effects of weight reduction. A better understanding of the differences between metabolically divergent groups and the physiological responses to weight loss can help identify the factors responsible for the link between excess adiposity and metabolic dysfunction and disease.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s41591-026-04718-7"
+ },
+ {
+  "idx": 23,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Effectiveness of Digital Commitment Devices in Improving Lifestyle and Cardiometabolic Outcomes in Adults with Cardiometabolic Risk Factors: A Systematic Review and Meta-Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIM: Lifestyle modification is crucial for cardiovascular disease prevention but remains challenging due to complex behavioural factors such as the intention-behaviour gap. Digital commitment devices (DCD) could narrow this gap by leveraging behavioural economics, but its effectiveness remains unclear. Therefore, this review aims to evaluate the effects of DCDs on lifestyle and cardiometabolic outcomes in adults with elevated cardiometabolic risk. METHODS: A systematic search of 12 electronic databases was conducted from database inception to August 2025. Study selection and methodological quality appraisal using the Cochrane Risk of Bias 2.0 tool were performed independently by two reviewers. Where appropriate, effect sizes were pooled using random effects meta-analyses. The certainty of evidence for meta-analysed outcomes was assessed using the GRADE approach. RESULTS: A total of 7,378 articles were retrieved, of which 29 randomised controlled trials involving 7,534 participants were included. DCDs were found to significantly increase daily step count (WMD=664.87, 95% CI: 463.22 to 866.51, T=6.88, p<0.00001; I2=0%) and weight loss (WMD=-1.90kg, 95% CI: -2.59 to -1.21, p<0.0001; I2=70%), improve self-reported emotional (WMD=-1.34, 95% CI: -2.59 to -0.09, p=0.04; I2=0%) and uncontrolled eating (WMD=-1.74, 95% CI: -3.05 to -0.43, p=0.02; I2=0%) behaviours, body fat percentage, diet and medication adherence. CONCLUSION: DCDs could improve lifestyle and cardiometabolic outcomes by improving physical activity and weight management, thus enhancing cardiometabolic disease prevention. Future research should prioritise long-term trials with extended follow-up periods beyond 12 months to observe physiological improvements and assess maintenance of effects.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag534"
+ },
+ {
+  "idx": 24,
+  "journal": "JAMA",
+  "title": "Left Bundle-Branch Area Pacing vs Right Ventricular Pacing for Atrioventricular Block and Preserved Left Ventricular Function: The LEAP-Block Randomized Clinical Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: For patients with atrioventricular block requiring high-burden ventricular pacing, the optimal pacing strategy to reduce heart failure (HF) and all-cause mortality remains uncertain. Robust comparative evidence on the clinical outcomes of left bundle-branch area pacing (LBBAP) vs right ventricular pacing (RVP) in this population is needed. OBJECTIVE: To compare 24-month clinical outcomes of LBBAP vs RVP in patients with atrioventricular block and preserved left ventricular ejection fraction (LVEF; ≥50%). DESIGN, SETTING, AND PARTICIPANTS: The LEAP-Block study was a prospective, multicenter, randomized, controlled, superiority trial conducted across 14 Chinese hospitals from January 2021 to August 2025, with last follow-up on June 3, 2025. Of 551 patients with LVEF 50% or greater requiring ventricular pacing who underwent eligibility assessment, 499 with anticipated ventricular pacing greater than 40% were randomized. INTERVENTIONS: Patients were randomized in a 1:1 ratio to LBBAP (n = 249) or RVP (n = 250). MAIN OUTCOMES AND MEASURES: The primary end point was a composite of all-cause death, HF events, or upgrade to biventricular pacing at 24 months. Secondary end points included pacing-induced cardiomyopathy and device-related complications. RESULTS: The primary analysis included 482 patients (LBBAP, n = 242; RVP, n = 240; mean age, 67 years; 46% female). Acute procedure success was comparable between the 2 groups (LBBAP, 237/242 [97.9%] vs RVP, 239/240 [99.6%]; P = .22), with left bundle-branch capture confirmed in 188 of 236 patients (79.7%). LBBAP significantly reduced the primary end point vs RVP (2.4% vs 12.5%, respectively; absolute risk difference, -10.1% [95% CI, -16.8% to -3.4%]; P = .003). Among secondary outcomes, the LBBAP group had fewer HF events (3.4% vs 11.3%; -7.9% [95% CI, -13.0% to -2.8%]). No significant differences were observed in all-cause death, biventricular pacing upgrade, device-related complications, or pacing-induced cardiomyopathy. The 24-month Kaplan-Meier estimated cumulative incidence of the primary end point was 5.0% for LBBAP vs 13.2% for RVP (hazard ratio, 0.37 [95% CI, 0.19 to 0.73]; P = .004). LBBAP superiority was consistent across all prespecified subgroups. CONCLUSIONS AND RELEVANCE: Among patients with atrioventricular block and preserved LVEF requiring high-burden ventricular pacing, LBBAP was superior to RVP in reducing the risk of the composite end point of all-cause death, HF events, or upgrade to biventricular pacing at 24 months. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT04730921.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1001/jama.2026.18146"
+ },
+ {
+  "idx": 25,
+  "journal": "Circ Cardiovasc Interv",
+  "title": "Hemodynamic Effects of Reducing LV Afterload With Impella or Intra-Aortic Balloon Counterpulsation During Veno-Arterial Extracorporeal Membrane Oxygenation in Cardiogenic Shock: HERACLES Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Background: Veno-arterial extracorporeal membrane oxygenation (VA-ECMO) provides organ support in cardiogenic shock but increases left ventricular (LV) afterload, potentially impairing cardiac recovery. LV unloading with an intra-aortic balloon pump (IABP) or micro-axial flow pump (mAFP) may mitigate this effect. HERACLES compared their effects on myocardial oxygen supply and demand. Methods: Patients receiving VA-ECMO for cardiogenic shock were randomized to LV unloading with IABP or mAFP, stratified by ischemic/non-ischemic etiology. Distal coronary, aortic and LV pressures and coronary flow (inverse mean transit time, Tmn) were measured with and without unloading. Myocardial oxygen demand was estimated as the area under the LV pressure curve in systole (TTI) x heart rate (HR). The primary endpoint was the change in myocardial oxygen supply-demand ratio calculated as [(Tmn * TTI*HR)off / (Tmn * TTI *HR)unload]. Secondary endpoints included changes in coronary flow [device flow ratio (DFR) =(Tmn)off/ (Tmn)unload], oxygen demand per beat (DTTI), contractility (DdP/dtmax) and filling pressure (DLVEDP). Results: Twenty-four patients were enrolled (age 51 [46-57]; 46% male; 96% SCAI D/E; 38% ischemic). At randomization, lactate was 4.3 mmol/L [IQR 2.5 to 8.4], LV ejection fraction 10% [10 to 17], LVEDP 18 mmHg [14 to 24]. The myocardial oxygen supply-demand ratio improved with IABP but not mAFP (1.48 [1.23 to 2.10] vs 0.97 [0.92 to 1.39]; P=0.036), driven predominantly by differential reduction of TTI. Coronary pressure increased but flow was unchanged with mAFP (DFR 1.00 [0.86 to 1.13]). Coronary flow increased marginally with IABP (DFR 1.16 [1.00 to 1.51]). LV pressures decreased with both devices and contractility with IABP only, with no between-group differences. Thirty-day mortality was similar (38% vs 45%, p=0.84). Conclusions: In VA-ECMO supported SCAI D/E cardiogenic shock, IABP improved myocardial oxygen supply-demand balance, whereas mAFP did not. Further research is needed to determine whether these mechanistic differences translate to clinical outcomes.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCINTERVENTIONS.126.017625"
+ },
+ {
+  "idx": 26,
+  "journal": "JACC Cardiovasc Interv",
+  "title": "Periprocedural Pulmonary Hypertension and Outcomes After Mitral Valve Transcatheter Edge-to-Edge Repair.",
+  "ptypes": [
+   "Journal Article",
+   "Multicenter Study",
+   "Observational Study"
+  ],
+  "abstract": "BACKGROUND: Pulmonary hypertension (PH) is common in patients undergoing mitral valve transcatheter edge-to-edge repair (M-TEER), but the prognostic significance of periprocedural PH changes remains uncertain. OBJECTIVES: This study sought to evaluate the association between periprocedural PH patterns and clinical outcomes after M-TEER and to identify predictors of residual and new-onset PH. METHODS: The OCEAN-Mitral registry prospectively enrolled 3,764 patients with severe mitral regurgitation treated with M-TEER. Among 3,484 patients with paired echocardiographic tricuspid regurgitation pressure gradient (TRPG) data, PH was defined as TRPG >31 mm Hg. Patients were classified as having no PH, normalized PH, new-onset PH, or residual PH according to pre- and postprocedural PH status. The primary endpoint was 2-year cardiovascular death or heart failure hospitalization. Multivariable logistic regression identified predictors of residual and new-onset PH. RESULTS: No PH was observed in 1,432 patients (41.1%), normalized PH in 763 (21.9%), new-onset PH in 298 (8.6%), and residual PH in 991 (28.4%). The 2-year incidence of the primary endpoint differed significantly across groups (17.6%, 18.1%, 27.2%, and 27.6%, respectively; P < 0.001). Normalized PH showed outcomes comparable to no PH (adjusted HR: 0.98; 95% CI: 0.78-1.24). In contrast, new-onset PH (HR: 1.46; 95% CI: 1.10-1.93) and residual PH (HR: 1.37; 95% CI: 1.13-1.68) were independently associated with adverse outcomes. Severe tricuspid regurgitation, baseline TRPG >50 mm Hg, and tricuspid annular dilation predicted residual PH, whereas residual mitral regurgitation and postprocedural transmitral gradients >5 mm Hg predicted new-onset PH. CONCLUSIONS: Periprocedural PH dynamics provide robust risk stratification after M-TEER, identifying low-risk patients with PH normalization and high-risk subsets with residual or new-onset PH, requiring closer surveillance and procedural optimization. Registration Treatment and Prognosis of Heart Valve Registry; UMIN-ID: UMIN000023653.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcin.2026.08.017"
+ },
+ {
+  "idx": 27,
+  "journal": "Nat Cardiovasc Res",
+  "title": "Selective blockade of microRNA-31-5p-calcitonin receptor interaction reverses established atrial fibrosis and atrial arrhythmia burden.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Atrial fibrillation (AF) is the most common sustained cardiac arrhythmia and is promoted by atrial fibrosis, a form of structural remodelling for which effective therapies are lacking. MicroRNA-31-5p (miR-31-5p), an aging-associated, atrial-enriched microRNA, has been linked to AF, but its role in atrial fibrosis is unknown. Here we show that atrial fibroblasts from patients with persistent AF exhibit increased miR-31-5p expression and reduced expression of the calcitonin receptor (CTR, encoded by CALCR). MiR-31-5p directly represses CTR and promotes pro-fibrotic fibroblast responses, whereas its inhibition restores CTR expression. Fibroblast-specific overexpression of miR-31 in mice reduces atrial CTR expression, increases atrial fibrosis and enhances arrhythmia susceptibility. Selective disruption of miR-31-5p-CALCR binding using a locked nucleic acid target site blocker restores atrial CTR expression, prevents fibrosis progression and reduces arrhythmia burden. In mice with established atrial remodeling, this strategy promotes fibrosis regression, identifying the miR-31-5p-CTR axis as a potential therapeutic target in AF.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s44161-026-00897-1"
+ },
+ {
+  "idx": 28,
+  "journal": "Hypertension",
+  "title": "Shared Genetics of Hypertension and Preeclampsia Converges on Immune Regulation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Hypertension and preeclampsia are clinically distinct, yet biologically related conditions characterized by vascular dysfunction and elevated cardiovascular risk. Although genome-wide association studies have identified loci associated with blood pressure traits and preeclampsia, the functional mechanisms linking shared variants to gene regulation and clinical phenotypes remain unclear. METHODS: We integrated genome-wide association study summary statistics for hypertension, systolic blood pressure, diastolic blood pressure, and preeclampsia to identify shared variants (P≤1×10-4). Cis-expression quantitative trait loci analyses were performed in whole blood using RNA sequencing data from 180 Black women. Significant associations (false discovery rate ≤0.05) were evaluated for replication across vascular, metabolic, and endocrine tissues in the Genotype-Tissue Expression project. Associations between gene expression and blood pressure traits were also assessed. RESULTS: We identified 4792 shared genome-wide association study variants, of which 4663 were tested in expression quantitative trait loci analyses, yielding 1837 significant variant-gene associations across 78 genes. Replication in the Genotype-Tissue Expression project confirmed 645 associations involving 24 genes, many showing cross-tissue regulatory effects. Three genes (C4B, HLA-C, and HLA-DQB1) demonstrated convergent evidence across genome-wide association study, gene regulation, and expression-trait analyses. C4B expression was positively associated with hypertension and systolic blood pressure, while HLA-C showed negative associations with hypertension, systolic blood pressure, and diastolic blood pressure. HLA-DQB1 expression was specifically associated with diastolic blood pressure, suggesting trait-specific effects. CONCLUSIONS: These findings highlight immune-related pathways as key mediators linking hypertension and preeclampsia. Integrating genetic, transcriptomic, and phenotypic data provides a framework for identifying functionally relevant loci and advancing mechanistic insights into cardiometabolic and pregnancy-related disorders.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/HYPERTENSIONAHA.126.27327"
+ },
+ {
+  "idx": 29,
+  "journal": "Circulation",
+  "title": "A Female-Specific Life Course Approach to the Prevention and Management of Cardiovascular Disease: A Presidential Advisory From the American Heart Association, American Academy of Pediatrics, American College of Obstetricians and Gynecologists, and Society for Maternal-Fetal Medicine.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Cardiovascular disease is the leading cause of morbidity and mortality in women, contributes markedly to healthcare expenditures, and is projected to increase substantially by 2050 if current trends continue. There is growing recognition of the complex role of sex as a biologic variable and its influence on cardiovascular health and disease. However, cardiovascular risk remains underrecognized and underaddressed in girls and women, particularly as it relates to female-specific exposure to sex hormones (both endogenous and exogenous), which are systemic modulators of cardiovascular biology. Moreover, girls and women uniquely experience fragmented care spanning specialties, including pediatrics, adolescent medicine, primary care, obstetrics and gynecology, maternal-fetal medicine, cardiology, endocrinology, hematology, and neurology. Consequently, there is a need for a unified life course approach that addresses the female-specific interconnectedness of hormonal, psychosocial, and cardiovascular health. To address these gaps, the American Heart Association, in collaboration with the American Academy of Pediatrics, American College of Obstetricians and Gynecologists, and Society for Maternal-Fetal Medicine, established a Female Life Stage framework to optimize the prevention and management of cardiovascular disease in girls and women. Physiologic changes in sex hormones define clinically distinct life stages (ie, perimenarche, ovarian cycling, perimenopause, postmenopause), which directly inform female-specific considerations for screening, prevention, and management of cardiovascular disease. This presidential advisory details the framework and its scientific rationale, highlights opportunities for implementation across settings, and identifies priorities for research, clinician education, patient advocacy, and policy. This framework offers a transformative opportunity to equitably improve cardiovascular health for all girls and women.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIR.0000000000001483"
+ },
+ {
+  "idx": 30,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Exercise chronotropic inefficiency in patients with heart failure across distinct left ventricular ejection fraction phenotypes.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: To characterize the pattern of chronotropic incompetence (CI) response to exercise in patients with heart failure (HF) across distinct phenotypes of the left ventricular ejection fraction and to explore the extent to which heart rate (HR) response should be prioritized as a therapeutic target within personalized HF management strategies. METHODS: Patients with HF with preserved ejection fraction (HFpEF), HF with reduced ejection fraction (HFrEF), and healthy controls underwent incremental exercise testing with simultaneous gas exchange and echocardiography assessments. Stroke volume (SV), HR, cardiac output (CO), and arteriovenous oxygen difference [C(a-v)O2] were assessed from rest to peak exercise. Graphical analyses explored relationships amongst determinants of oxygen uptake (V̇O2). RESULTS: Both HF phenotypes exhibited CI and a blunted increase in CO during exercise compared with controls. Peak HR was similarly reduced by 20% in HFpEF and 23% in HFrEF. HFpEF, however, exhibited a steeper HR-VO2 relationship. HFrEF demonstrated a greater compensatory increase in peripheral O2 extraction, with peak C(a-v)O2 73% higher than controls and 21% higher than HFpEF. In contrast, HFpEF showed limited ability to augment C(a-v)O2 and presented the lowest relative peak V̇O2 (-39% vs. controls and -16% vs. HFrEF), despite similar peak V̇O2%pred between HF phenotypes. CONCLUSION: CI can contribute to exercise intolerance in both HF phenotypes, with distinct compensatory mechanisms. An integrated cardiopulmonary exercise testing-echocardiography approach may support identifying phenotype-specific physiological profiles that might address therapeutic strategies targeting CI, SV reserve, and peripheral O2 utilization to improve functional capacity in HF. Addressing the kinetics of HR slope and ΔHR metrics seems relevant to implement knowledge on the fundamental CI contribution in HF phenotypes.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag542"
+ },
+ {
+  "idx": 31,
+  "journal": "J Am Heart Assoc",
+  "title": "Rationale and Design of a Parallel Randomized Trial of a DASH-Enhanced Portfolio Diet With or Without Ultra-Processed Plant Proteins for Blood Pressure and Other Cardiometabolic Risk Factors in Adults With Hypertension and Obesity: The Substitution of High With Low Ultra-Processed Soy Protein Foods in a Guideline-Based Diet Intervention on Cardiometabolic Health Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cardiovascular disease remains the leading cause of death and hospitalization globally. Clinical practice guidelines recommend various plant-based dietary patterns that target specific cardiometabolic risk factors, including the Dietary Approach to Stop Hypertension (DASH) diet for blood pressure and the Portfolio diet for low-density lipoprotein cholesterol. Combining key elements of these patterns may enhance cardiovascular disease risk reduction. However, many soy-based products, a key Portfolio component, are classified as ultra-processed foods (UPFs). This trial will answer 2 questions: (1) Does a DASH-enhanced Portfolio diet result in clinically meaningful reductions in blood pressure compared with standard of care and (2) Is a high-UPF noninferior to a low-UPF soy protein-containing DASH-enhanced Portfolio diet for blood pressure reduction? METHODS: The SWITCH (Substitution of High With Low Ultra-Processed Soy Protein Foods in a Guideline-Based Diet Intervention for Cardiometabolic Health) trial is a parallel, randomized, 3-arm, open-label, superiority-noninferiority trial. Three hundred adults with hypertension and obesity, including 50% with type 2 diabetes, will be randomized to a high-UPF or low-UPF soy protein-containing DASH-enhanced Portfolio diet or standard of care for 12 weeks. The primary outcome is systolic blood pressure. Key secondary outcomes are non-high-density lipoprotein cholesterol and body weight. Other outcomes include cardiometabolic risk factors. CONCLUSIONS: Findings will provide high-quality evidence on the use of a DASH-enhanced Portfolio diet and the role of nutrient-dense soy foods classified as UPFs within the combination of the 2 guideline-based dietary patterns to support dietary strategies for cardiometabolic risk reduction. REGISTRATION: URL: https://clinicaltrials.gov/; Unique identifier: NCT06907862.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049902"
+ },
+ {
+  "idx": 32,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Cardiovascular and metabolic acute effects of heated tobacco products in healthy smokers.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Heated tobacco products (HTPs) are increasingly promoted as 'reduced-harm' alternatives to combustible cigarettes, despite delivering pharmacologically active nicotine and complex aerosols. Independent human data on their acute cardiovascular effects remain limited. METHODS AND RESULTS: In this investigator-initiated, within-subject pre-post study, healthy adult smokers were supervised in their exposure to two consecutive HTP sticks (IQOS). Endothelial function was assessed by brachial artery flow-mediated dilation (FMD), along with haemodynamic parameters, venous blood gas and metabolic markers, and oxidative DNA damage measured by the comet assay. Acute HTP exposure resulted in a significant reduction in FMD, indicating rapid endothelial dysfunction. This was accompanied by an increase in systolic blood pressure, reductions in venous oxygen tension and saturation, and an increase in venous carbon dioxide, consistent with impaired tissue oxygenation. Methaemoglobin levels increased, reflecting oxidative modification of haemoglobin, while metabolic alterations in glucose and lactate suggested nicotine-mediated sympathetic and metabolic stress. Importantly, short-term HTP use induced significant oxidative DNA damage in peripheral blood cells. These effects occurred after a single, real-world exposure in otherwise healthy smokers. CONCLUSION: Together, these findings demonstrate that HTPs are not biologically inert and that acute exposure is sufficient to trigger vascular dysfunction, systemic metabolic disturbance, and genotoxic stress. The results challenge claims of cardiovascular harm reduction and underscore that all nicotine-containing products remain relevant targets for cardiovascular prevention and regulation.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag524"
+ },
+ {
+  "idx": 33,
+  "journal": "Circ Res",
+  "title": "VSMC DDR1 Mechanosensation Aggravates Atherosclerosis via Paracrine Signaling.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Chronic kidney disease (CKD) increases cardiovascular risk and is linked to arterial stiffening and atherosclerosis. How stiffness promotes atherogenesis remains unclear. DDR1 (discoidin domain receptor 1), a mechanosensory tyrosine kinase receptor, has been implicated in force-regulated arterial remodeling. We investigated whether DDR1-mediated mechanosensation links arterial stiffness to vascular smooth muscle cell (SMC)-endothelial paracrine communication in CKD-related atherosclerosis. METHODS: Single-cell RNA sequencing, secretome proteomics, and bulk RNA sequencing were integrated with stiffness-controlled models, endothelial assays, and a CKD-hyperlipidemia mouse model. SMC-specific Ddr1 deletion and a DDR1 dephosphorylation-targeting chimera (DEPTAC) were evaluated in vivo. Plasma TSP-1 (thrombospondin-1) levels were quantified in a CKD clinical cohort and analyzed in relation to renal function and atherosclerosis severity. RESULTS: CKD-associated vascular stiffening coincided with SMC phenotypic switching and enhanced THBS signaling. Multiomics integration identified THBS1 as a stiffness-induced SMC secretory effector. Stiff matrices increased SMC THBS1 secretion, promoting endothelial proliferation, migration, and leukocyte adhesion; these effects were attenuated by THBS1 knockdown. DDR1 coupled matrix stiffness cues to THBS1 expression by regulating its transcription via a tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon-FOXO3 (forkhead box O3) axis. Vascular SMC-specific Ddr1 deletion reduced aortic THBS1 levels, vascular stiffening, and atherosclerotic burden. DEPTAC suppressed aberrant DDR1 phosphorylation, reduced THBS1, and ameliorated vascular stiffening and atherosclerosis. Plasma THBS1 increased with CKD severity and correlated with atherosclerosis. CONCLUSIONS: DDR1-dependent mechanosensing in SMCs drives stiffness-induced paracrine signaling to endothelium via THBS1, promoting CKD-accelerated atherosclerosis. Targeting mechanical DDR1 activation may be therapeutic.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCRESAHA.126.328540"
+ },
+ {
+  "idx": 34,
+  "journal": "JACC Adv",
+  "title": "Depressive Symptoms and 6-Year KCCQ Health Status in Chronic Heart Failure: Findings From the Cognition.Matters-HF Cohort.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Long-term disease-specific health status trajectories in ambulatory chronic heart failure (HF) are incompletely characterized, and the contribution of depressive symptoms remains uncertain. OBJECTIVES: The objectives of the study was to characterize 6-year Kansas City Cardiomyopathy Questionnaire Overall Summary Score (KCCQ-OSS) trajectories and distinguish persistent and visit-specific depressive symptom associations with health status. METHODS: In the prospective Cognition.Matters-HF cohort, 148 patients with HF underwent assessments at baseline and 6, 12, 36, and 69 months. Linear mixed-effects models estimated KCCQ-OSS trajectories and prespecified correlates. Patient Health Questionnaire-9 (PHQ-9) scores were decomposed into between-person and within-person components. Sensitivity analyses addressed missingness, and exploratory lagged analyses assessed whether recent PHQ-9 worsening predicted subsequent KCCQ deterioration or adverse clinical events. RESULTS: KCCQ-OSS remained stable over 69 months (78.0-76.6; change: -1.4; 95% CI: -4.6 to 1.8; P for time = 0.065), despite substantial individual variation. Higher between-person PHQ-9 burden (β: -3.44 per point; 95% CI: -4.00 to -2.88; P < 0.001) and within-person PHQ-9 worsening (β: -1.80; 95% CI: -2.50 to -1.11; P < 0.001) were associated with lower concurrent KCCQ-OSS. Recent PHQ-9 worsening did not predict subsequent KCCQ-OSS, a ≥5-point KCCQ decline, or all-cause death/HF hospitalization. NYHA functional class and 6-min walking distance, but not N-terminal pro-B-type natriuretic peptide, left ventricular ejection fraction, or executive function, were independently associated with KCCQ-OSS. CONCLUSIONS: In ambulatory chronic HF, average KCCQ-based health status remained stable over 6 years despite substantial individual variation. Depressive symptoms were strongly associated with concurrent health status, but recent worsening did not predict subsequent KCCQ deterioration or adverse clinical events.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103415"
+ },
+ {
+  "idx": 35,
+  "journal": "Heart Rhythm",
+  "title": "Left bundle branch pacing vs left ventricular septal pacing in the same patients with heart failure and left bundle branch block.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Left bundle branch pacing (LBBP) and left ventricular septal pacing (LVSP) are considered to be acceptable as left bundle branch area pacing (LBBAP) strategies. The differences in cardiac mechanical performance between LBBP and LVSP in the same patients with heart failure (HF) and left bundle branch block (LBBB) are yet to be determined. OBJECTIVES: The purpose of this study was to compare mechanical function and resynchronization effect of LBBP and LVSP as CRTP modalities. METHODS: Fourteen patients with reduced left ventricular ejection fraction (LVEF) and typical complete LBBB who received cardiac resynchronization therapy pacing (CRTP) implantation were enrolled. All patient implantation with two ventricular pacing leads, enabling both LBBP and LVSP. Acute cardiac function and resynchronization effect were assessed by echocardiography and electrocardiography to compare the differences in LBBB mode, LBBP mode, and LVSP mode within the same patients undergoing CRTP. RESULTS: Both pacing modes significantly reduced QRS duration (QRSd) and left ventricular activation time (LVAT) versus LBBB (all P<0.001), with LVSP yielding wider QRSd than LBBP (P<0.001). LBBP showed better performance in LV mechanical synchrony parameter (SDI) than LVSP, and both pacing modes were superior to that of LBBB condition (all P < 0.001). LVEF increased significantly with both pacing modes, with a greater increase observed in LBBP compared to LVSP. No significant differences in right ventricular function were observed among the three modes. CONCLUSION: In this pilot study of patients with HF and LBBB, both LBBP and LVSP significantly improved left ventricular hemodynamics and mechanical synchrony without compromising RV function. LBBP potentially has superior left ventricular hemodynamic effects to LVSP.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.055"
+ },
+ {
+  "idx": 36,
+  "journal": "Lancet",
+  "title": "Prone positioning and high-frequency oscillatory ventilation in early paediatric acute respiratory distress syndrome (PROSpect): an international, two-by-two factorial, response-adaptive, phase 3, randomised controlled trial.",
+  "ptypes": [
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Clinical Trial, Phase III",
+   "Multicenter Study"
+  ],
+  "abstract": "BACKGROUND: Data on prone positioning and high-frequency oscillatory ventilation (HFOV) used separately or in combination in patients with paediatric acute respiratory distress syndrome (PARDS) are inconclusive, leading to wide practice variability. We aimed to compare the effects of prone positioning with supine positioning and the effects of HFOV with conventional mechanical ventilation on ventilator-free days in children with early, moderate-to-severe PARDS. METHODS: PROSpect was an international, two-by-two factorial, response-adaptive, phase 3, randomised controlled trial done in 75 paediatric intensive care units in 18 countries. Eligible patients were aged 2 weeks to 20 years, and were intubated and mechanically ventilated for less than 96 h before meeting criteria for moderate-to-severe PARDS. Patients were centrally randomly assigned using a web-based system to supine positioning and conventional mechanical ventilation, prone positioning and conventional mechanical ventilation, supine positioning and HFOV, or prone positioning and HFOV. Initially, the allocation was 1:1:1:1 stratified by age group and direct or indirect lung injury using a permuted block design with blocks of four and eight. Response-adaptive randomisation updates were planned to adjust allocation probabilities 28 days after 300 patients were randomly assigned and then 28 days after every 100 additional patients. Given the nature of the interventions, masking was not possible. The primary outcome was ventilator-free days through to day 28 among all randomly assigned participants. Safety was assessed prospectively by daily monitoring for the occurrence of prespecified adverse events. This study was registered with ClinicalTrials.gov (NCT03896763) and is closed to enrolment. FINDINGS: Between May 1, 2019 and Jan 13, 2026, 1045 patients were eligible for enrolment. The trial was stopped early for futility and slow enrolment after 424 of 600 planned patients were recruited. 126 patients were randomly assigned to the supine and conventional mechanical ventilation group, 130 to the prone and conventional mechanical ventilation group, 90 to the supine and HFOV group, and 78 to the prone and HFOV group. Median age was 3·3 years (IQR 1·1-10·1), 211 (50%) patients were female, and 213 (50%) were male. There were no significant differences in ventilator-free days between prone and supine positioning (median 17·9 days [IQR 8·9-21·3] vs 17·4 days [6·4-21·9]; Hodges-Lehmann location shift adjusting for ventilation 0·0 [95% CI -0·8 to 1·0]) or between HFOV and conventional mechanical ventilation (17·3 [5·7-21·6] vs 18·0 [9·9-21·5]; Hodges-Lehmann location shift adjusting for positioning -0·3 [95% CI -1·5 to 0·5]). 41 (10%) patients had died at day 28, without group differences. Plugging or obstruction of the artificial airway occurred more frequently with prone than supine positioning (14 events in 12 [6%] of 188 patients vs three events in three [2%] of 197 patients; 0·74 [95% CI 0·44-1·26] vs 0·15 [0·05-0·47] events per 100 artificial airway days; rate ratio 4·83 [95% CI 1·38-16·82]). Stage 2 or worse immobility-related pressure injuries also occurred more frequently with prone versus supine positioning (12 [6%] vs two [1%]; relative risk 6·13 [95% CI 1·45-25·97]). Haemodynamic instability occurred more frequently with HFOV than conventional mechanical ventilation (41 events in 19 [13%] of 141 patients vs 38 events in 22 [9%] of 244 patients; 2·21 [95% CI 1·63-3·00] vs 1·22 [0·89-1·68] events per 100 paediatric intensive care unit days; rate ratio 1·84 [95% CI 1·18-2·87]). One serious adverse event, an unwitnessed self-extubation followed by cardiopulmonary arrest, occurred in a patient in the prone and conventional mechanical ventilation group. INTERPRETATION: We found no evidence to support prone positioning or HFOV as first-line strategies to improve ventilator-free days in patients with early, moderate-to-severe PARDS. Thus, the routine use of these strategies in this population is not recommended. FUNDING: US National Institutes of Health/National Heart, Lung, and Blood Institute.",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1016/S0140-6736(26)01949-5"
+ },
+ {
+  "idx": 37,
+  "journal": "J Am Coll Cardiol",
+  "title": "Interpreting High-Sensitivity Cardiac Troponin in Clinical Practice and Emerging Directions: Detection Is No Longer Diagnosis.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "High-sensitivity cardiac troponin (hs-cTn) assays have solved the problem of detecting myocardial injury and, in doing so, created the problem of classifying it. Abnormal troponin concentrations are now known to be common across a wide spectrum of cardiac and systemic disease, and the central challenge of contemporary practice is no longer whether myocardial injury can be detected, but whether it can be correctly classified. Misclassification occurs in both directions and with real consequence: nonischemic myocardial injury is frequently mislabeled as secondary myocardial infarction (MI), contributing to the overdiagnosis of MI, and chronic myocardial injury, which carries a risk of subsequent MI or cardiovascular death approaching that of primary MI, is routinely dismissed once infarction has been excluded. This narrative review argues that accurate classification cannot be delegated to an algorithm and instead requires integrated, context-aware interpretation grounded in 4 domains: 1) the analytical and biological properties of hs-cTnI and hs-cTnT, including assay-specific and sex-specific thresholds, clearance kinetics, and sources of analytical interference and false-positive results; 2) the capabilities and limitations of guideline-endorsed serial testing, including the European Society of Cardiology 0/1h and 0/2h algorithms, point-of-care platforms, and artificial intelligence-based decision support; 3) rigorous application of the Fifth Universal Definition of Myocardial Infarction, in particular the distinctions between myocardial injury, necrosis, and infarction, and between diagnosis and risk stratification; and 4) recognition of the non-acute coronary syndrome conditions-chronic kidney disease, heart failure, sepsis, tachyarrhythmias, pulmonary embolism, takotsubo syndrome, and others-in which troponin elevation is expected rather than anomalous. We provide explicit bedside guidance for the situations that clinicians find most difficult, including suspected secondary MI, the observe zone, and troponin elevation without a dynamic pattern. Finally, we review emerging understanding of troponin biology, clearance, proteolysis and fragmentation, macrotroponin, antitroponin autoantibodies, and extracellular vesicle-associated troponin, which may eventually allow the assay itself to carry more of the interpretive burden. Until then, that burden rests with the clinician.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacc.2026.09.019"
+ },
+ {
+  "idx": 38,
+  "journal": "JACC Adv",
+  "title": "Effects of Walnut Consumption on Anti-MDA-LDL Antibodies and Immunoglobulins in the WAHA Randomized Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Higher total serum IgG levels have been associated with protection from cardiovascular events in ASCOT (Anglo-Scandinavian Cardiac Outcomes Trial). Antibodies against oxidized low-density lipoprotein (LDL) have also been linked to favorable clinical and vascular imaging outcomes. OBJECTIVES: The aim of this study was to determine whether regular walnut consumption influences circulating immunoglobulins, malondialdehyde-modified LDL (MDA-LDL), a highly immunogenic form of oxidized LDL, and antibodies against MDA-LDL. METHODS: The Walnuts and Healthy Aging study was a two-center, randomized controlled trial conducted in Spain and the United States. Adults aged 63 to 79 years were assigned to a walnut-enriched diet or a control diet excluding walnuts for 2 years. Serum total immunoglobulin G (IgG), total immunoglobulin M (IgM), MDA-LDL, and IgG and IgM anti MDA-LDL antibodies were measured by enzyme-linked immunoassays in 474 participants. RESULTS: Baseline immunoglobulin concentrations differed substantially by study center. Participants from the United States had 25% lower total IgM and IgG concentrations than participants from Spain. Walnut consumption increased total serum IgG by 11% in the U.S. cohort (95% CI: 0%-24%; P = 0.040), whereas pooled analysis showed a 6% increase across both cohorts (95% CI: 0%-12%; P = 0.041). Over the 2-year study period, total IgM and both IgG and IgM anti-MDA-LDL concentrations declined significantly in both the control and intervention groups. CONCLUSIONS: Long-term walnut consumption was associated with a modest increase in total serum IgG but had no significant effect on total IgM, MDA-LDL, or antibodies against MDA-LDL. Baseline IgG and IgM concentrations were substantially lower among U.S. participants, suggesting that geographic, environmental, social, or genetic factors may modulate immune biomarkers independently of dietary intervention.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103288"
+ },
+ {
+  "idx": 39,
+  "journal": "Circ Res",
+  "title": "T-Cell-Derived IFNγ Instructs ECM Crosslinking by Cardiac Fibroblasts Through LOXL3 in Experimental Cardiometabolic HFpEF.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Heart failure with preserved ejection fraction (HFpEF) is a major clinical challenge characterized by diastolic dysfunction. Left ventricular stiffening and inflammation are hallmarks of HFpEF, yet the contribution of ECM (extracellular matrix) stiffness and the immune-stromal mechanisms driving ECM stiffening in cardiometabolic HFpEF remain poorly understood. METHODS: We used the murine 2-hit model of cardiometabolic HFpEF, in which the combination of high-fat diet and hypertension induced by L-nitro-arginine-methyl ester causes diastolic dysfunction. We evaluated diastolic function by echocardiography and ECM mechanics by uniaxial tensile testing of decellularized cardiac tissue. Functional in vivo studies included genetic depletion of T cells, IFNγ (interferon-γ) knockout mice, and pharmacological lysyl oxidase inhibition. We combined cocultures of CD4+ T cells and cardiac fibroblasts with mechanical testing of cardiac ECM and molecular biology to elucidate cellular and molecular mechanisms. RESULTS: Left ventricular ECM stiffness strongly correlated with impaired diastolic function in experimental cardiometabolic HFpEF. Cardiac CD4+ T-cell infiltration was required for ECM stiffening and upregulation of lysyl oxidase enzymes in cardiac fibroblast. We discovered that CD4+ T-cell-derived IFNγ was required to induce LOXL3 in cardiac fibroblast, which increased ECM stiffness in vitro. Mechanistically, we demonstrate that a signaling axis involving IFNγ, PI3K (phosphoinositide 3-kinase), AKT, and HIF1α (hypoxia-inducible factor-1α) drives LOXL3 expression and subsequent collagen crosslinking. Genetic or pharmacological disruption of this IFNγ-HIF1α-LOXL3 axis attenuated adverse ECM remodeling and improved diastolic function. CONCLUSIONS: CD4+ T cells promote pathological ECM stiffening in cardiometabolic HFpEF through IFNγ-mediated, cardiac fibroblast LOXL3-dependent ECM crosslinking. Targeting this immune-stromal pathway may offer a novel therapeutic strategy for HFpEF.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCRESAHA.126.328307"
+ }
+]

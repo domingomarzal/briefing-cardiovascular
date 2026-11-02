@@ -1,0 +1,45 @@
+{
+ "numero": 21,
+ "ventana": "2026-10-26 a 2026-11-01",
+ "motivo": "nube: el egreso de red de la sesion en la nube solo alcanza api.crossref.org, eutils.ncbi.nlm.nih.gov y domingomarzal.github.io. doi.org, nejm.org, jacc.org, sciencedirect.com, ahajournals.org, eurointervention.pcronline.com y escardio.org devuelven HTTP 000 (connect_rejected). Europe PMC, OpenAlex y Semantic Scholar tambien estan bloqueados.",
+ "que_falta": "Articulos ELEGIBLES que el editor publico dentro de la ventana (confirmado por Crossref, PASO 1b) y que PubMed NO habia indexado el 2-nov-2026: no tienen abstract en PubMed ni en Crossref, y la nube no puede obtenerlo del editor. Se han documentado como descartados con motivo explicito en la auditoria. EL MAC DEBE recuperar su abstract (curl con User-Agent de navegador a sciencedirect/jacc.org/jamanetwork/eurointervention) e incorporarlos al numero, regenerando y republicando.",
+ "semana_congreso": "TCT 2026 (29-oct a 1-nov). Casi todos los faltantes son late-breakers del TCT: la perdida es significativa.",
+ "pendientes": [
+  {"doi":"10.1001/jama.2026.19090","journal":"JAMA","title":"Left Bundle-Branch Area Pacing vs Right Ventricular Pacing for Atrioventricular Block and Preserved Left Ventricular Ejection Fraction","online":"2026-10-28","pmid_sin_abstract":true,"seccion_prevista":10,"nota":"ECA. PubMed lo indexo el 28-oct SIN abstract. Es el faltante de mayor peso tras el P4."},
+  {"doi":"10.1016/j.jacc.2026.10.064","journal":"J Am Coll Cardiol","title":"Angiography-Derived versus Wire-Based Fractional Flow Reserve to Guide Revascularization: The Randomized LIPSIA-STRATEGY Trial","pii":"S0735109726102940","online":"2026-11-01","seccion_prevista":9},
+  {"doi":"10.1016/j.jacc.2026.10.058","journal":"J Am Coll Cardiol","title":"High Bleeding Risk and Aspirin Omission at the Time of Primary PCI in STEMI: A Post Hoc Analysis of the PREMIUM Trial","pii":"S073510972610254X","online":"2026-10-31","seccion_prevista":4},
+  {"doi":"10.1016/j.jacc.2026.10.069","journal":"J Am Coll Cardiol","title":"Moderate Aortic Stenosis with At-Risk Features","pii":"S0735109726103027","online":"2026-11-01","seccion_prevista":7,"nota":"comprobar el tipo: podria ser editorial o punto de vista"},
+  {"doi":"10.1016/j.jcin.2026.10.001","journal":"JACC Cardiovasc Interv","title":"Rotational Atherectomy Plus Intravascular Lithotripsy Versus Intravascular Lithotripsy Alone for Coronary Calcified Nodules","pii":"S1936879826026932","online":"2026-11-01","seccion_prevista":9},
+  {"doi":"10.1016/j.jcin.2026.09.030","journal":"JACC Cardiovasc Interv","title":"Sirolimus- Versus Everolimus-Eluting Stents With Contemporary PCI in Three-Vessel Disease: The Multivessel TALENT Randomized Noninferiority Trial","pii":"S1936879826029602","online":"2026-10-31","seccion_prevista":9},
+  {"doi":"10.1016/j.jcin.2026.10.024","journal":"JACC Cardiovasc Interv","title":"Thirty-Day Outcomes of a Dedicated Transcatheter Occlusion Device for Paravalvular Leak Closure: The PARADIGM Study","pii":"S1936879826029614","online":"2026-10-31","seccion_prevista":7},
+  {"doi":"10.1016/j.jcin.2026.10.023","journal":"JACC Cardiovasc Interv","title":"1-Year Safety and Effectiveness of a Next-Generation Dual-Seal Left Atrial Appendage Occluder","pii":"S1936879826029596","online":"2026-11-01","seccion_prevista":10},
+  {"doi":"10.1016/j.jcin.2026.10.025","journal":"JACC Cardiovasc Interv","title":"Transcatheter Tricuspid Valve-in-Valve and Valve-in-Ring Implantation: the TRIVIR registry","pii":"S1936879826029626","online":"2026-10-31","seccion_prevista":7},
+  {"doi":"10.1016/j.jcin.2026.10.002","journal":"JACC Cardiovasc Interv","title":"TECTONIC CAD","pii":"S1936879826026944","online":"2026-11-01","seccion_prevista":9,"nota":"titulo truncado en Crossref: comprobar tipo y titulo completo"},
+  {"doi":"10.4244/EIJ-D-26-00473","journal":"EuroIntervention","title":"Guided P2Y12 inhibitor selection after rapid CYP2C19 genotyping in patients undergoing percutaneous coronary intervention","online":"2026-10-26","seccion_prevista":9},
+  {"doi":"10.4244/EIJ-D-26-00575","journal":"EuroIntervention","title":"Prediction of coronary events by computed tomography-derived Murray law-based quantitative flow ratio","online":"2026-10-26","seccion_prevista":8},
+  {"doi":"10.4244/EIJ-D-26-00457","journal":"EuroIntervention","title":"Prognostic value of Murray law-based quantitative flow ratio after percutaneous coronary intervention","online":"2026-10-26","seccion_prevista":9},
+  {"doi":"10.1016/j.atherosclerosis.2026.121940","journal":"Atherosclerosis","title":"Prognostic Value of 13N-Ammonia PET-Derived Myocardial Flow Reserve and Its Association With Peripheral Arterial Flow Impairment","pii":"S0021915026013067","online":"2026-10-28","seccion_prevista":8},
+  {"doi":"10.1016/j.atherosclerosis.2026.121939","journal":"Atherosclerosis","title":"Role of Neutrophil Extracellular Traps in Atherosclerosis","pii":"S0021915026013055","online":"2026-10-28","seccion_prevista":2},
+  {"doi":"10.1016/j.atherosclerosis.2026.121945","journal":"Atherosclerosis","title":"High Cardiorespiratory Fitness predicts lower Risk of Progression and higher Chance of Regression of Arteriopathy during a Lifestyle intervention","pii":"S0021915026013110","online":"2026-10-31","seccion_prevista":1},
+  {"doi":"10.1016/j.atherosclerosis.2026.121946","journal":"Atherosclerosis","title":"Angio-IMR Alone Is Not Enough: A Survival Tree for Risk Stratification in CCS","pii":"S0021915026013122","online":"2026-10-31","seccion_prevista":4},
+  {"doi":"10.1016/j.atherosclerosis.2026.121941","journal":"Atherosclerosis","title":"Non-HDL cholesterol as a lipid control target in severe hypercholesterolemia in primary care: a sex-stratified analysis","pii":"S0021915026013079","online":"2026-10-30","seccion_prevista":3},
+  {"doi":"10.1016/j.atherosclerosis.2026.121944","journal":"Atherosclerosis","title":"Atherosclerotic events and acute pancreatitis incidence across the full range of plasma triglycerides in four large cohorts","pii":"S0021915026013109","online":"2026-10-31","seccion_prevista":3},
+  {"doi":"10.1016/j.atherosclerosis.2026.121947","journal":"Atherosclerosis","title":"Elevated remnant cholesterol and risk of heart failure in the general population","pii":"S0021915026013134","online":"2026-10-31","seccion_prevista":3}
+ ],
+ "fuera_de_ventana_para_N22": [
+  {"doi":"10.1093/eurjpc/zwag575","journal":"Eur J Prev Cardiol","title":"PCSK9-Targeting Therapies and Mortality: A Systematic Review and Meta-Analysis of Randomized Trials","online":"2026-11-02","nota":"Crossref deposito el DOI el 30-oct (dentro de la ventana de N21) pero su published-online es el 2-nov: FUERA de la ventana 26-oct/1-nov. Corresponde a N22. Tiene abstract completo en Crossref."}
+ ],
+ "no_elegibles_comprobados": [
+  {"doi":"10.1056/NEJMra2506114","motivo":"no cardiovascular (resistencia bacteriana gramnegativa)"},
+  {"doi":"10.1056/NEJMoa2602728","motivo":"no cardiovascular (fecundacion in vitro)"},
+  {"doi":"10.1056/NEJMcpc2603185","motivo":"tipo no elegible (caso clinico-patologico)"},
+  {"doi":"10.4244/EIJ-E-26-00015","motivo":"tipo no elegible (editorial)"},
+  {"doi":"10.4244/EIJ-D-26-01026","motivo":"tipo no elegible (replica)"},
+  {"doi":"10.4244/EIJ-D-26-00997","motivo":"tipo no elegible (carta)"},
+  {"doi":"10.4244/EIJ-D-26-01261","motivo":"tipo no elegible (editorial/comentario)"},
+  {"doi":"10.4244/EIJ-D-26-00924","motivo":"articulo de diseno y justificacion del ensayo P4 (rationale and design), sin resultados"},
+  {"doi":"10.1016/j.jacc.2026.10.065","motivo":"tipo no elegible (editorial: Trial Registration in an Era of Rapidly Evolving Technology)"},
+  {"doi":"10.1016/j.atherosclerosis.2026.121948","motivo":"ciencia basica (deficiencia mieloide de JARID2 en modelo animal)"}
+ ],
+ "eur_heart_j_jacc_suplementos": "Los 4.741 DOI de Eur Heart J y los 1.520 de J Am Coll Cardiol que cobertura.py marca como faltantes son los SUPLEMENTOS DE ABSTRACTS de congreso (eurheartj/ehag785.x = abstracts del ESC; jacc TCT-xxx = abstracts del TCT 2026). NO son elegibles. No hay agujero real en esas dos revistas mas alla de los DOI listados arriba."
+}

@@ -1,0 +1,246 @@
+[
+ {
+  "idx": 0,
+  "journal": "Heart Rhythm",
+  "title": "Glucagon-Like Peptide-1 Receptor Agonists and Risk of Arrhythmias: A Network Meta-Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Arrhythmias are often associated with comorbidities such as diabetes and obesity, which significantly influence their onset and progression. In this context, glucagon-like peptide-1 receptor agonists (GLP-1 RAs) have garnered attention for their potential benefits, with emerging evidence indicating that GLP-1 receptor activation might offer antiarrhythmic effects. OBJECTIVES: This study aimed to evaluate the impact of all GLP-1 RAs and co-agonists on the incidence of new-onset arrhythmias, particularly atrial fibrillation (AF). METHODS: A comprehensive search of databases was conducted from inception to December 2025. Eligible studies included randomized controlled trials (RCTs) focusing on patients with diabetes or obesity receiving GLP-1 RAs or co-agonists. Risk ratios (RR) with 95% confidence intervals (CIs) were estimated. Interventions were ranked using the p-score cumulative rank, ranging from 0 (worst) to 1 (best). RESULTS: A total of 94 RCTs involving 155,989 patients were included, comparing 12 GLP-1 RAs and co-agonists. Subcutaneous semaglutide emerged as the most effective intervention, significantly reducing AF incidence compared with placebo (RR 0.82; 95% CI: 0.68 to 0.99), and compared with tirzepatide (RR 0.57; 95% CI: 0.37 to 0.88). In contrast, dulaglutide was associated with an increased risk of AF, while lixisenatide was associated with a decreased risk in atrioventricular blocks. For AF, semaglutide presented a p-score of 0.7885, while tirzepatide and dulaglutide scored 0.1830 and 0.1750, respectively. CONCLUSION: Among GLP-1 RAs and co-agonists, subcutaneous semaglutide is highlighted as the most effective intervention for reducing the risk of AF. Further studies focusing on arrhythmic outcomes are needed to confirm these findings.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.052"
+ },
+ {
+  "idx": 1,
+  "journal": "JACC Cardiovasc Interv",
+  "title": "Posterior Leaflet Restoration for Secondary Mitral Regurgitation: EXPLORE MR Results.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Secondary mitral regurgitation (MR) contributes to morbidity and mortality in patients with symptomatic valve disease. Although transcatheter edge-to-edge repair is beneficial, many patients remain suboptimal candidates. Posterior leaflet restoration (PLR) provides a prosthetic coaptation surface via an adaptive coaptation element that inflates during systole and deflates during diastole to facilitate leaflet coaptation. OBJECTIVES: This study aims to evaluate the safety and feasibility of PLR using the MRace implant (Polares Medical, Inc). METHODS: Early Feasibility Experience of Posterior Leaflet Restoration to Reduce Mitral Regurgitation Using the MRace Implant in Georgia and Brazil (EXPLORE MR) enrolled 78 symptomatic patients with severe secondary MR (≥3+), stratified post hoc by left ventricular end-diastolic volume: nonseverely enlarged left ventricle (NSELV) (N = 46) and severely enlarged left ventricle (SELV) (N = 32). The primary endpoint was 30-day mortality; secondary endpoints were MR reduction and functional outcomes. RESULTS: The implant was successfully deployed in 96.2% of patients. All-cause mortality at 30 days was 6.4%. MR ≤2+ was achieved in 93.8% of patients at 30 days and was sustained in 90.6% at 1 year. Patients with NSELV showed better results in MR ≤1+ at every time point (94.4% at 30 days, 89.5% at 1 year) compared with the SELV group (79.3% and 69.2%, respectively). The NSELV subgroup demonstrated better functional recovery, with NYHA functional class I or II rising from 8.7% to 84.2%, vs a more attenuated response in the SELV group (15.6%-76.9%). The 6-minute walk test improved in the paired NSELV cohort (Δ +93.9 m), but not in paired patients with SELV (Δ -7.8 m). Kaplan-Meier 1-year all-cause mortality was 29.5% overall and was better in patients with NSELV (19.4%) than in SELV (41.7%). CONCLUSIONS: PLR with the MRace implant achieves substantial MR reduction and meaningful functional improvement, most pronounced in patients without severely enlarged left ventricles. (XPLORE MRace [BR]: Early Feasibility Experience of Posterior Leaflet Restoration to Reduce Mitral Regurgitation Using the MRace Implant [EXPLORE MRace]; NCT06113354).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcin.2026.10.013"
+ },
+ {
+  "idx": 2,
+  "journal": "Lancet",
+  "title": "Non-invasive tests in metabolic dysfunction-associated steatotic liver disease: the LITMUS prospective multicentre diagnostic accuracy study.",
+  "ptypes": [
+   "Journal Article",
+   "Multicenter Study",
+   "Observational Study"
+  ],
+  "abstract": "BACKGROUND: The advent of regulatory-approved pharmacological treatments for metabolic dysfunction-associated steatotic liver disease (MASLD) calls for precise, non-invasive biomarkers that facilitate early diagnosis, support therapy selection, and aid clinical trial enrolment. The European multicentre LITMUS study aimed to evaluate the diagnostic performance of a broad range of non-invasive biomarkers for identifying patients with metabolic dysfunction-associated steatohepatitis (MASH), at-risk MASH, advanced fibrosis, and cirrhosis. METHODS: In this prospective, multicentre, diagnostic accuracy study, adults with biopsy-confirmed MASLD were prospectively recruited across 13 countries in Europe and the USA. We assessed 12 single markers and 18 multimarker panels. The reference standard was centrally scored liver histology according to the non-alcoholic steatohepatitis Clinical Research Network Scoring System. Target conditions included MASH (Non-Alcoholic Fatty Liver Disease Activity Score ≥4 with ≥1 point per component), at-risk MASH (MASH plus significant fibrosis [fibrosis stage F≥2]), advanced fibrosis (F≥3), and cirrhosis (F4). Performance was evaluated by area-under-the-receiver operating characteristic curve (AUC), with the minimum acceptable criterion (MAC) of AUC higher than 0·80 to indicate potential biopsy replacement. FINDINGS: Between Jan 1, 2018, and June 30, 2023, we analysed data from 1590 participants with centrally scored liver biopsies and at least one biomarker measurement; 609 (38%) had biopsy-confirmed at-risk MASH, 678 (43%) had MASH, 585 (37%) had advanced fibrosis, and 164 (10%) had cirrhosis. For detecting at-risk MASH, SomaSignal showed the highest diagnostic performance (AUC 0·83 [95% CI 0·80-0·85]), significantly exceeding MAC, whereas no other test reached the MAC for MASH only. For advanced fibrosis, SomaSignal showed the highest performance (AUC 0·92 [0·90-0·94]), followed by FibroMeter-VCTE (AUC 0·87 [0·83-0·92]), Agile 3+ and TSP2 (both AUC 0·84 [0·82-0·86]), and NIS4 (0·82 [0·80-0·85]). For cirrhosis, FibroMeter-VCTE showed the highest diagnostic performance (AUC 0·94 [0·90-0·97]) followed by SomaSignal (AUC 0·92 [0·90-0·94]), followed by Agile 3+ (0·88 [0·85-0·91]), Agile 4 (0·87 [0·84-0·90]), ADAPT (0·85 [0·81-0·88]), and ELF, LSM-VCTE, and TSP2 (all 0·84 [0·81-0·87]). Sequential two-step approaches using gamma-glutamyl transferase as a first-line test met the MAC for both advanced fibrosis and at-risk MASH. INTERPRETATION: Although single markers resulted in variable and limited performance when compared to histology for detecting at-risk MASH, multimarker panels showed great potential, with a proteomic panel showing strong diagnostic performance. These findings could support the selection and implementation of non-invasive testing strategies in MASLD and inform future clinical guidelines, regulatory evaluation, and clinical trial design. FUNDING: Innovative Medicines Initiative 2 Joint Undertaking.",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1016/S0140-6736(26)01145-1"
+ },
+ {
+  "idx": 3,
+  "journal": "Nat Rev Cardiol",
+  "title": "Cardiovascular resilience in centenarians.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Centenarians - individuals aged ≥100 years - provide a unique human model for understanding resilience to cardiovascular ageing. Although cardiovascular and metabolic diseases, including hypertension, heart failure, atrial fibrillation and chronic kidney disease, are common in centenarians, their onset is typically delayed relative to that in individuals aged 80-100 years. Centenarians characteristically have structural changes in the heart and vessels, including concentric left ventricular remodelling, increased myocardial stiffness and vascular ageing, but often without the expected burden of myocardial infarction or overt heart failure. Their cardiometabolic profile is generally favourable, marked by preserved insulin sensitivity in cohorts with a low prevalence of diabetes mellitus, mid-range lipid levels and a low prevalence of obesity. Centenarians also have a distinctive inflammatory and gastrointestinal phenotype, characterized by chronic low-grade inflammation with elevated anti-inflammatory signalling, a gut microbiome that more closely resembles that of younger adults, and preserved intestinal barrier integrity. Genetically and epigenetically, exceptional longevity reflects highly polygenic contributions, selective maintenance of genomic stability and markedly younger epigenetic age compared with chronological age. In this Review, we summarize data on the cardiovascular system among centenarians by framing observations of longevity as a composite of delayed pathology, adaptive compensation and survivorship selection. Understanding the biological, behavioural and environmental mechanisms underlying cardiovascular resilience in extreme longevity might inform strategies to extend cardiovascular healthspan across all ages.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s41569-026-01348-x"
+ },
+ {
+  "idx": 4,
+  "journal": "Europace",
+  "title": "Impact of obesity on procedural safety and 1-year outcomes after pulsed-field ablation for atrial fibrillation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Obesity is associated with atrial fibrillation (AF), atrial remodelling, and cardiometabolic comorbidities. Whether baseline body mass index (BMI) influences procedural safety and effectiveness of pulsed-field ablation (PFA) remains uncertain. We evaluated the association of baseline BMI with procedural characteristics, periprocedural safety, and 1-year arrhythmia recurrence after first-time PFA for AF. METHODS AND RESULTS: FRANCE-PFA is a nationwide registry including consecutive patients undergoing first-time AF ablation with a pentaspline PFA catheter. Patients with available BMI were categorized as <25, 25 to <30, 30 to <35, or ≥35 kg/m2. Periprocedural complications and 1-year atrial arrhythmia recurrence were assessed across BMI categories. Among 5223 patients, BMI was available in 4573 (87.6%). Higher BMI was associated with greater cardiometabolic burden, more persistent AF, larger atria, and more extensive ablation strategies, including fewer pulmonary vein isolation-only procedures and more additional lesion sets (all P < 0.001). Periprocedural complications remained infrequent (1.0%), with no significant difference across BMI categories. At 1 year, recurrence was driven mainly by AF type rather than obesity. Within paroxysmal and non-paroxysmal AF, recurrence rates were comparable between patients with BMI < 35 and ≥35 kg/m2 (13.8% vs. 9.1% and 22.9% vs. 23.3%, respectively; log-rank P = 0.925). Severe obesity was not associated with recurrence after multivariable adjustment (HR, 0.86; 95% CI, 0.65-1.14; P = 0.299), with similar findings when BMI was analysed continuously. CONCLUSION: In this nationwide PFA cohort, higher BMI identified a more advanced AF phenotype and more extensive ablation strategies but was not independently associated with periprocedural complications or 1-year arrhythmia recurrence.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag288"
+ },
+ {
+  "idx": 5,
+  "journal": "Circ Heart Fail",
+  "title": "Genotype, Phenotypic Severity, and Survival in Pediatric Dilated Cardiomyopathy: A Report From the Pediatric Cardiomyopathy Registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Dilated cardiomyopathy (DCM) frequently presents with heart failure in children. Whether a genetic cause of DCM is associated with disease severity or eventual outcome in pediatric DCM is unclear. METHODS: A multiinstitutional prospective pediatric cohort study (0-18 years) with nonsyndromic DCM was undertaken from 2013 to 2016. A panel of 37 cardiomyopathy-associated genes was interrogated by exome sequencing with analysis for pathogenic or likely pathogenic (LP) variants. Clinical severity and outcomes of death, cardiac transplant, and continuing left ventricular dysfunction versus echocardiographic normalization were assessed. RESULTS: A total of 279 DCM probands (47% male) with a median (interquartile range) age at diagnosis of 1.6 (0.4-10.4) years were enrolled. Median follow-up was 1.1 (0.2-4.0) years. Gene variants designated as pathogenic/LP were identified in 18 of the 37 genes evaluated, and of all positive variants, TTN (17%), TNNT2 (15%), MYH7 (15%), RBM20 (9%), and LMNA (8%) were most frequently implicated. Only 19% of the overall cohort yielded an identifiable genetic cause, without any difference between ancestries. Children >12 years old had the highest genetic yield at 34% (P<0.05). Symptoms of heart failure occurred in 62% of patients who carried a pathogenic/LP gene variant, at or within 12 months of presentation, but neither heart failure symptoms, nor echocardiographic severity was associated with having a pathogenic/LP variant. The rate of death or cardiac transplant did not differ with the presence or absence of a pathogenic/LP variant and exceeded 60% by 10 years after diagnosis. On competing risks analysis, a trend (P=0.09) toward greater echo normalization, was noted in those without a pathogenic/LP variant by 10 years after diagnosis. CONCLUSIONS: A genetic cause was detected in a minority of children and was not associated with the phenotypic severity of DCM at diagnosis. Echocardiographic normalization of left ventricular function over time was noted more frequently in patients who did not have an identified pathogenic/LP variant.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCHEARTFAILURE.126.014513"
+ },
+ {
+  "idx": 6,
+  "journal": "JAMA Cardiol",
+  "title": "Assessment of Ototoxicity in Patients With Heart Failure Receiving High-Dose IV Loop Diuretics.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: Concern for ototoxicity hinders loop diuretic (LD) dosing in heart failure (HF); given the mechanism by which LDs affect the ear, high-dose LDs should produce transient, not permanent, hearing changes. OBJECTIVE: To measure the association of LD dose with permanent and temporary ototoxicity. DESIGN, SETTING, AND PARTICIPANTS: Cohort 1 received a randomized sequence of LD doses (bumetanide, 1.25-10 mg) across study visits with serial audiometry assessments. Cohort 2 received serial LD up to furosemide 500-mg doses during a HF hospitalization with audiometry at baseline and prior to discharge. Cohort 3 retrospectively characterized clinically diagnosed ototoxicity in HF hospitalizations was defined using International Statistical Classification of Diseases and Related Health Problems, Tenth Revision (ICD-10) codes. Cohorts 1 and 2 were single center, while cohort 3 was multicenter. Cohort 1 studied outpatient participants with stable HF, while cohort 2 (n = 40) and cohort 3 studied hospitalized patients with acute HF. EXPOSURE: Intravenous LD. MAIN OUTCOMES AND MEASURES: The primary outcomes were clinically diagnosed ototoxicity and hearing changes via audiometry. RESULTS: Cohort 1 contained 50 participants, cohort 2 contained 40 participants, and cohort 3 contained 22 656 participants. In cohort 1, mean (SD) participant age was 63.2 (10.4) years, and 21 of 50 participants (42%) were women. In cohorts 1 and 2, clinically diagnosed ototoxicity was not observed. In cohort 1, at peak diuretic concentration, worsening hearing shifts were infrequent (24 ears of 400 doses [6%]) but were more common with higher doses (odds ratio [OR], 1.99; 95% CI, 1.21-3.28 per doubling dose; P = .007). Within hours, hearing shifts largely resolved and were absent in 98% of measurements (393 ears of 400 doses). No significant association between LD dose and hearing shifts was present at any time aside from peak LD concentration. In cohort 2, hearing shifts were not different across groups divided by the median daily LD dose and were not associated with LD dose (OR, 1.19; 95% CI, 0.71-1.98 per doubling dose; P = .52). In cohort 3, 608 HF hospitalizations (2.7%) had clinically diagnosed ototoxicity. In multivariable analyses, peak dose of 160 mg furosemide equivalents or greater (OR, 0.83; 95% CI, 0.52-1.31; P = .43) and 400 mg furosemide equivalents or greater (OR, 1.28; 95% CI, 0.71-2.31; P = .41) were not associated with greater clinically diagnosed ototoxicity risk relative to less than 160 mg. CONCLUSIONS AND RELEVANCE: In this analysis of 2 small HF cohorts, short-term exposure to high-dose LD was not associated with permanent ototoxicity, although concomitant ototoxin use was excluded. Future studies are needed to understand the risk of ototoxicity with repeated LD exposure and in broader HF populations. TRIAL REGISTRATION: ClinicalTrials.gov Identifiers: NCT04481919 and NCT05323487.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1001/jamacardio.2026.4913"
+ },
+ {
+  "idx": 7,
+  "journal": "Circ Cardiovasc Interv",
+  "title": "Clopidogrel Versus Aspirin Monotherapy According to Atherothrombotic Risk Profile.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Clopidogrel monotherapy has shown superior efficacy compared with aspirin after completion of dual antiplatelet therapy following percutaneous coronary intervention (PCI). However, whether treatment effects differ according to overall atherothrombotic risk integrating clinical and angiographic factors remains unclear. METHODS: This post hoc analysis of the SMART-CHOICE 3 (Smart Angioplasty Research Team: Choice of Optimal Anti-Thrombotic Strategy in Patients Undergoing Implantation of Coronary Drug-Eluting Stents 3) randomized trial included patients who completed guideline-directed dual antiplatelet therapy after PCI. Atherothrombotic risk was defined using the a Thrombolysis in Myocardial Infarction Risk Score for Secondary Prevention and complex PCI. Patients with Thrombolysis in Myocardial Infarction Risk Score for Secondary Prevention ≥3 or complex PCI were classified as higher risk, and those with a Thrombolysis in Myocardial Infarction Risk Score for Secondary Prevention <3 without complex PCI were classified as lower risk. The primary end point was major adverse cardiac and cerebrovascular events (death, myocardial infarction, or stroke). Bleeding was defined as Bleeding Academic Research Consortium type 2, 3, or 5. RESULTS: Among 5506 patients, 4486 (81.5%) were at higher risk and 1020 (18.5%) were at lower risk. Over a median 2.3 years, the incidence of major adverse cardiac and cerebrovascular events was higher in the higher-risk group (6.1% versus 3.1%; hazard ratio, 1.83 [95% CI, 1.17-2.78]; P=0.007). In higher-risk patients, clopidogrel reduced major adverse cardiac and cerebrovascular events compared with aspirin (4.6% versus 7.4%; hazard ratio, 0.67 [95% CI, 0.50-0.89]; P=0.006), with no difference in lower-risk patients (3.0% versus 3.2%; hazard ratio, 1.03; P=0.945; interaction P=0.242). Bleeding was similar between groups. CONCLUSIONS: After completion of dual antiplatelet therapy following PCI, clopidogrel monotherapy was associated with lower ischemic risk than aspirin in patients with higher atherothrombotic risk, without increased bleeding. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT04418479.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCINTERVENTIONS.126.017277"
+ },
+ {
+  "idx": 8,
+  "journal": "Circ Res",
+  "title": "Maternal Microvascular Calcium Sparks Are Reduced in Preeclampsia.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Maternal microvascular dysfunction is a hallmark of the hypertensive pregnancy disorder preeclampsia, but the mechanism(s) have not been fully defined. Within vascular smooth muscle cells, the principal pressure-induced vasodilatory pathway depends on localized Ca2+-release events from the sarcoplasmic reticulum ryanodine receptors (Ca2+ sparks), which stimulate BKCa (large-conductance Ca2+-activated potassium channels) to cause spontaneous transient outward currents and vasorelaxation. Here, the Ca2+ sparks-BKCa axis is assessed in preeclampsia for the first time. METHODS: Pressurized omental resistance arteries from normotensive pregnant women and women with preeclampsia were imaged by high-speed spinning-disk laser confocal microscopy to assess Ca2+ sparks (20-110 mm Hg) and caffeine-evoked Ca2+ release (10 mmol/L; 80 mm Hg). Electrophysiology was used to assess spontaneous transient outward currents (-60 to 0 mV) and BKCa currents (-100 to +100 mV) in isolated vascular smooth muscle cells. A liquid chromatography-selected reaction monitoring-tandem mass spectrometry assay measured SERCA2 (sarcoplasmic/endoplasmic reticulum Ca2+-ATPase-2) and unphosphorylated/phosphorylated proteoforms of regulatory PLN (phospholamban). Vasoactive effects of the BKCa-dependent vasorelaxant HBD2 (human β-defensin-2; 0.01-10 nmol/L) were assessed by wire myography. RESULTS: In microvascular arteries from women with preeclampsia, there was reduced Ca2+ spark frequency (P=1.1×10-10) and spontaneous transient outward current frequency (P=0.023). There was also reduced sarcoplasmic reticulum Ca2+ release in response to caffeine (P=0.0013), reduced sarcoplasmic reticulum refilling (P=2.0×10-4), and decreased ratio of SERCA2 to inhibitory unphosphorylated PLN (P=0.030), implicating increased SERCA2 inhibition. HBD2 (0.01-10 nmol/L) caused BKCa-dependent relaxation (P=4.6×10-10) of omental arteries without affecting Ca2+ spark frequency. CONCLUSIONS: In microvascular arteries from women with preeclampsia, there is a striking reduction in Ca2+ spark frequency and spontaneous transient outward currents, likely secondary to increased inhibition of SERCA2 by unphosphorylated PLN and reduced sarcoplasmic reticulum Ca2+ load. These defects may provide novel therapeutic targets to restore physiological control of the vasculature. BKCa-mediated relaxation by HBD2 was independent of Ca2+ sparks, supporting vasodilatory strategies bypassing disrupted microvascular mechanisms in preeclampsia.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCRESAHA.125.327858"
+ },
+ {
+  "idx": 9,
+  "journal": "Heart Rhythm",
+  "title": "Atrial Leadless Pacemaker Implantation at the Superior Right Atrial Site.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Right atrial appendage (RAA) pacing may produce nonphysiological atrial activation. OBJECTIVES: To evaluate the feasibility, safety, and electrocardiographic characteristics of atrial leadless pacemaker implantation at the superior right atrium (RA). METHODS: Sixty-eight consecutive patients undergoing dual-chamber leadless pacemaker implantation were studied. Procedural, device, electrocardiographic, and clinical outcomes were compared between superior RA and RAA base pacing. RESULTS: Superior RA implantation succeeded in 26/46 attempts (56.5%), increasing from 27.8% to 60.0% and 92.3% across sequential periods. In noncrossover cases, procedure (72.7±16.4 vs 76.8±27.2 minutes; P=0.533) and fluoroscopy times (15.4±5.8 vs 18.6±11.9 minutes; P=0.249) were comparable. P-wave duration remained unchanged with superior RA pacing (99.7±29.9 to 98.1±25.6 ms; P=0.543) but increased with RAA pacing (106.7±23.1 to 134.9±25.6 ms; P<0.001); P-wave terminal force in V1 changed from 3.6% to 3.6% versus 10.0% to 45.0%, respectively (P<0.001 for RAA). PR intervals increased from 228.4±72.8 to 229.7±77.5 ms (P=0.038) and from 205.5±72.0 to 234.4±72.6 ms (P<0.001), respectively; the increase was smaller with superior RA pacing (+5.7±11.7 vs +38.6±31.3 ms; P<0.001). At 3 months, sensing amplitudes (3.4±1.5 vs 2.4±1.1 mV; P=0.091) and pacing thresholds (0.8±0.5 vs 0.8±0.3 V; P=0.785) were comparable. No pericardial tamponade occurred. During 10.4±4.6 months, mortality, heart failure events, and atrial fibrillation incidence did not differ significantly. CONCLUSIONS: Superior RA pacing was feasible, showed a marked learning curve, and better preserved intrinsic atrial activation than RAA pacing.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.058"
+ },
+ {
+  "idx": 10,
+  "journal": "JACC Heart Fail",
+  "title": "Evaluation of an Echocardiography-Based Artificial Intelligence Algorithm for Early HFpEF Detection: A HeartShare/AMP-HF Cohort Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Early heart failure with preserved ejection fraction (HFpEF) is difficult to identify because of nonspecific symptoms and subtle echocardiographic abnormalities. EchoGo HF, an FDA-cleared artificial intelligence (AI) model, estimates HFpEF probability from a single apical 4-chamber echocardiographic clip, but has been validated only in patients with clinically adjudicated HFpEF. OBJECTIVES: This study aims to evaluate whether AI-HFpEF can detect early HFpEF in community-dwelling adults without a clinical heart failure (HF) diagnosis and predict incident clinical HFpEF in patients within a health system. METHODS: The authors included 2 community cohorts (the MESA [Multi-Ethnic Study of Atherosclerosis] Early HF study and the DHMS [Dallas Hearts and Minds Study]). Early HFpEF was defined by impaired exercise capacity or health-related quality of life with objective evidence of elevated cardiac filling pressures in patients without clinically diagnosed HF. The AI-HFpEF model was applied to resting echocardiograms, and the diagnostic performance was assessed. Multivariable models examined associations between AI-HFpEF output and early HFpEF phenotype. Separately, we included adults in the UTSW (University of Texas Southwestern) Health System with structurally normal echocardiograms and no prior HF (2018-2024) and assessed the association of AI-HFpEF output with incident HFpEF (adjudicated using a validated registry) using Cox regression. RESULTS: In MESA (N = 2,544; 8.3% early HFpEF), AI-HFpEF outperformed H2FPEF for detecting early HFpEF (area under the receiver-operating characteristic curve [AUROC]: 0.77 vs 0.70). AI-HFpEF diagnostic positivity was associated with higher odds of early HFpEF (OR: 3.26; P < 0.001), lower 6-minute walk distance, and lower Kansas City Cardiomyopathy Questionnaire-12-Clinical Summary Score. Similarly, in DHMS (N = 624; 18.6% early HFpEF), AI-HFpEF outperformed H2FPEF (AUROC: 0.83 vs 0.77), and diagnostic positivity was associated with early HFpEF (OR: 6.76; P < 0.001), shorter exercise duration, and lower peak oxygen uptake. In the UTSW cohort (N = 6,876; median follow-up = 33 months; incident HFpEF = 3.4%), an AI-HFpEF diagnostic positive result was associated with >2-fold higher incident HFpEF risk (aHR: 2.08; P < 0.001). This association persisted across all conventional diastolic dysfunction grades. CONCLUSIONS: AI-HFpEF identified the early HFpEF phenotype in community-dwelling adults and independently predicted incident clinical HFpEF among patients in a health system.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jchf.2026.103420"
+ },
+ {
+  "idx": 11,
+  "journal": "Circ Cardiovasc Interv",
+  "title": "Bivalirudin With a High-Dose Post-PCI Infusion Versus Heparin During Primary PCI in STEMI: One-Year Results From the BRIGHT-4 Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The BRIGHT-4 trial (Bivalirudin With Prolonged Full-Dose Infusion During Primary PCI Versus Heparin Trial-4) demonstrated that procedural anticoagulation with bivalirudin plus a high-dose postprocedure infusion reduced the 30-day composite end point of all-cause death or Bleeding Academic Research Consortium types 3 to 5 bleeding compared with heparin monotherapy in patients with ST-segment-elevation myocardial infarction undergoing primary percutaneous coronary intervention (PCI) with radial artery access. We now report the 12-month follow-up results to evaluate the long-term outcomes of primary PCI with these 2 anticoagulation regimens. METHODS: In this multicenter, open-label, randomized controlled trial, 6016 patients with ST-segment-elevation myocardial infarction undergoing primary PCI with radial artery access were randomly assigned (1:1) to receive bivalirudin with a high-dose post-PCI infusion for 2 to 4 hours (n=3009) or heparin monotherapy (n=3007). The primary outcome of interest was the composite of all-cause death or Bleeding Academic Research Consortium types 3 to 5 bleeding at 12 months. RESULTS: At 12 months, the primary outcome occurred in 124 (4.1%) patients in the bivalirudin group and 169 (5.6%) patients in the heparin group (hazard ratio, 0.73 [95% CI, 0.58-0.92]; P=0.007). Bivalirudin resulted in lower 12-month rates of Bleeding Academic Research Consortium types 3 to 5 bleeding (0.6% versus 1.2%; hazard ratio, 0.49 [95% CI, 0.28-0.87]; P=0.01) and stent thrombosis (0.8% versus 1.3%; hazard ratio, 0.60 [95% CI, 0.36-0.99]; P=0.045), with nonsignificant differences in all-cause death (3.8% versus 4.8%; hazard ratio, 0.80 [95% CI, 0.63-1.02]; P=0.08), cardiovascular death, reinfarction, ischemia-driven target vessel revascularization, and stroke between the 2 groups. CONCLUSIONS: Among patients with ST-segment-elevation myocardial infarction undergoing primary PCI with radial artery access, the benefits of bivalirudin with a high-dose post-PCI infusion in reducing the composite end point of all-cause death or Bleeding Academic Research Consortium types 3 to 5 bleeding at 30 days compared with heparin monotherapy are maintained through 12-month follow-up. These findings support the use of bivalirudin with a post-PCI high-dose infusion as an alternative to heparin to reduce mortality and major bleeding in patients with ST-segment-elevation myocardial infarction. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT03822975.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCINTERVENTIONS.126.017029"
+ },
+ {
+  "idx": 12,
+  "journal": "Heart Rhythm",
+  "title": "Heterogeneity of Treatment Effect of ABC Pathway-Based Care in Older Atrial Fibrillation: Insights from the mAFA-II and MIRACLE-AF Trials Using a Causal Machine Learning Approach.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Integrated care based on the Atrial fibrillation Better Care (ABC) pathway improves outcomes in patients with atrial fibrillation (AF), but whether treatment effects differ across older patients remains unclear. OBJECTIVES: To evaluate heterogeneity of treatment effect (HTE) of ABC pathway-based care and assess its transportability across healthcare settings using causal machine learning (ML). METHODS: Individual participant data from the cluster-randomised mAFA-II and MIRACLE-AF trials were analysed, including 3,209 patients aged ≥65 years. Three causal ML models were developed in mAFA-II and externally validated in MIRACLE-AF. The primary outcome was a composite of all-cause mortality, ischaemic stroke, intracranial haemorrhage, heart failure, acute coronary syndrome, or major bleeding. RESULTS: The uplift random forest demonstrated the best performance and identified meaningful HTE. In the mAFA-II testing cohort, ABC pathway-based care was associated with a lower risk of the primary outcome in patients predicted to benefit, whereas no benefit and possible harm were observed in those predicted to derive harm (P-interaction=0.002). In external validation, benefit was preserved in the predicted benefit group but not in the predicted harm group, although treatment discrimination was attenuated. Patients predicted to derive limited benefit had greater clinical complexity, including higher comorbidity burden and CHA2DS2-VASc scores. Sex, heart failure, and hypertension were the strongest predictors of treatment effect. CONCLUSIONS: ABC pathway-based integrated care demonstrates clinically meaningful treatment heterogeneity among older patients with AF. These findings support more personalised implementation of integrated care and highlight the potential of causal ML to guide precision management in AF. CLINICAL TRIAL REGISTRATION: MAFA-II trial (ChiCTR-OOC-17014138 || http://www.chictr.org.cn/, registered on 26 December 2017), MIRACLE-AF trial (NCT04622514 || https://clinicaltrials.gov/, registered on 10 November 2020).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.059"
+ },
+ {
+  "idx": 13,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Omega-3 Fatty Acids and Atrial Fibrillation: Current Evidence and Expert Opinion.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Recent clinical trials have reported an increased risk for atrial fibrillation (AF) in individuals treated with omega-3 fatty acids (FA). As virtually all these studies were conducted with pharmaceutical omega-3 FA preparations in populations at higher risk for cardiovascular disease (CVD), it is unclear to what extent these findings apply to the general population consuming omega-3 FA either from oily fish or from omega-3 FA supplements. Based on an updated meta-analysis reviewed here, consumption of up to 1500 mg/day (and possibly 2400 mg/day) of eicosapentaenoic acid (EPA) + docosahexaenoic acid (DHA) from food or dietary supplements in the general adult population does not appear to significantly increase risk for AF. Indeed, the preponderance of the evidence suggests that chronic intakes in this range are associated with lower risk for AF (and other CVD outcomes) in the general population. For individuals at high risk for CVD, treatment with EPA+DHA doses of >1500 mg/day might increase the absolute risk for AF (by <1%) and the relative risk (by ∼43%). Because of the favorable effects of EPA+DHA on CVD (and other health) outcomes, our view is that, for the general population, intakes of EPA+DHA afford several health benefits and do not meaningfully increase the risk for AF. For patients with prevalent CVD or at high risk for CVD, the risk-benefit ratio for EPA+DHA intake is favorable, especially for intakes up to 1500 mg/day, but also at higher doses where there may be increased risk for AF.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag577"
+ },
+ {
+  "idx": 14,
+  "journal": "Heart Rhythm",
+  "title": "Pulsed field, cryoballoon or radiofrequency catheter ablation of atrial fibrillation in hypertrophic cardiomyopathy.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Patients with hypertrophic cardiomyopathy (HCM) exhibit suboptimal outcomes after atrial fibrillation (AF) ablation. OBJECTIVE: We sought to compare the efficacy, safety and long-term outcomes of pulsed field ablation (PFA), cryoballoon (CB) and radiofrequency (RF) ablation for AF in HCM. METHODS: Patients with HCM undergoing de novo AF ablation were retrospectively included from 11 centers. Procedure characteristics, safety endpoints and 24-month outcomes were assessed. The primary endpoint was atrial arrhythmia recurrence (AF/atrial tachycardia). RESULTS: A total of 364 patients with HCM (61.7±11.1 years, 74.5% male, 47.5% paroxysmal AF) underwent AF ablation with PFA (n=84), CB (n=50) or RF (n=230). Procedure-related complications occurred in 1.2%, 4.0% and 5.2% with PFA, CB and RF, respectively (p=0.344). Cumulative 24-month freedom from atrial arrhythmia recurrence was 48.6%. PFA was associated with reduced atrial arrhythmia recurrence compared with RF (adjusted HR, 0.57; 95% CI, 0.36-0.91; p=0.018), while CB showed no significant difference with either group (adjusted HR versus RF, 0.71; 95% CI, 0.42-1.21; p=0.212). In exploratory secondary analyses, PFA was associated with reduced cardiovascular hospitalization (adjusted HR, 0.43; 95% CI, 0.23-0.80; p=0.008), and greater improvement in NYHA class compared with RF (p=0.032), while CB showed no significant difference. Heart failure hospitalization, repeat ablation, ventricular arrhythmias, stroke/transient ischemic attack and mortality did not differ significantly between ablation modalities. CONCLUSION: PFA for catheter ablation of AF in HCM was associated with reduced 24-month atrial arrhythmia recurrence, with exploratory signals of fewer cardiovascular hospitalizations and improved NYHA class compared with RF, while CB showed no significant difference.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.057"
+ },
+ {
+  "idx": 15,
+  "journal": "J Am Heart Assoc",
+  "title": "Outcomes of Transcatheter Aortic Valve Replacement in the Middle East and North Africa: A Systematic Review and Meta-Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Data on transcatheter aortic valve replacement (TAVR) outcomes in the Middle East and North Africa region are limited. We synthesized available evidence on post-TAVR clinical outcomes in the Middle East and North Africa region. METHODS: We systematically searched PubMed, Embase, and Scopus from inception through May 2025 for studies reporting TAVR outcomes in this region. Outcomes included device success, all-cause death, cardiovascular death, myocardial infarction, stroke, new-onset atrial fibrillation, moderate to severe paravalvular leak, and permanent pacemaker implantation. Overall incidence rates were pooled via Poisson analysis and reported per 100 person-years with 95% CIs. RESULTS: Forty-eight studies encompassing 7331 patients (mean age, 76.9±8.5 years; 52.4% women) were included. Pooled device success rate was 96.4% (95% CI, 95.8%-97.0%). At latest follow-up, pooled incidence rates per 100 person-years were 13.7 for all-cause death (95% CI, 12.9-14.6), 4.8 for cardiovascular death (95% CI, 4.1-5.7), 1.0 for myocardial infarction (95% CI, 0.7-1.4), 1.6 for stroke (95% CI, 1.3-1.9), 2.7 for moderate to severe paravalvular leak (95% CI, 2.2-3.4), 6.5 for new-onset atrial fibrillation (95% CI, 5.5-7.7), and 10.0 for permanent pacemaker implantation (95% CI, 9.2-10.9). Post hoc exploratory meta-regression identified significant study-level modifying effects, with higher mean age and greater use of first-generation versus second-generation valves associated with higher overall all-cause mortality incidence following TAVR. Certainty of evidence was low or very low across all outcomes. CONCLUSIONS: TAVR in the Middle East and North Africa region was associated with high device success rate and relatively low cardiovascular death. Permanent pacemaker implantation was the most prevalent post-TAVR complication. Further studies are warranted to optimize TAVR practice in this region.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.048377"
+ },
+ {
+  "idx": 16,
+  "journal": "Circ Res",
+  "title": "RBFOX2 Autoregulation Promotes Cardiomyocyte Transcriptome Maturation and Differentiation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Haploinsufficiency of the RNA splicing regulator RBFOX2 has been linked to congenital heart disease, including hypoplastic left heart syndrome, yet its pathogenic mechanisms remain unresolved. METHODS: Human induced pluripotent stem cells heterozygous or null for RBFOX2 were created and their cardiomyocyte (CM) derivatives were characterized in monolayer culture and engineered heart tissues. In addition to cellular phenotyping, molecular profiling by RNA sequencing and enhanced crosslinking and immunoprecipitation sequencing was performed to detect changes in gene expression, exon usage, and RBFOX2 (RNA-binding fox-1 homolog 2) binding. These data sets were integrated to identify RBFOX2-bound RNAs with altered expression and splicing and to compare them with publicly available data sets from progressive CM differentiation time points. Rescue experiments were performed in induced pluripotent stem cell-derived CMs, engineered heart tissues, and zebrafish. RESULTS: We demonstrate that RBFOX2 is essential for CM differentiation by driving transcriptome maturation through gene expression- and alternative splicing-based isoform switching in transcripts primarily encoding sarcomere, cytoskeletal, and focal adhesion components, including the critical Z-disc factor ACTN2 (alpha-actinin-2). We further find that threshold levels of RBFOX2 facilitate autoregulatory splicing of mutually exclusive exons, generating early and late RBFOX2 isoforms with distinct functions. In heterozygous CMs, this threshold is not reached, resulting in isoform imbalance and production of an aberrant transcript, which further reduces functional RBFOX2 levels to well below 50% of wild-type. Finally, we demonstrate that ACTN2 overexpression rescues heterozygous, but not null, phenotypes, suggesting that ACTN2 activates an RBFOX2-dependent feedback loop that promotes transcriptome maturation. CONCLUSIONS: Our data demonstrate that reduced RBFOX2 dosage and impaired autoregulation stall CM differentiation by inhibiting transcriptome maturation, contributing to congenital heart disease pathogenesis and potentially increasing heart failure susceptibility following surgical intervention.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCRESAHA.125.328084"
+ },
+ {
+  "idx": 17,
+  "journal": "JACC Adv",
+  "title": "Left Atrial Appendage Occlusion versus Oral Anticoagulation in Atrial Fibrillation: A Meta-Analysis of Randomized Trials.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Emergence of direct oral anticoagulants as the first-line therapy for stroke prevention in nonvalvular atrial fibrillation has redefined the comparator benchmark for left atrial appendage occlusion (LAAO). OBJECTIVES: The objective of the study was to compare the efficacy and temporal safety of LAAO vs oral anticoagulation (OAC). METHODS: Randomized trials of LAAO vs OAC in nonvalvular atrial fibrillation were pooled for incidence rate ratios (IRRs) per patient-year; key endpoints were assessed with trial sequential analysis (TSA) and Grading of Recommendations Assessment, Development, and Evaluation (GRADE). RESULTS: Across 6 trials (N = 7,004), LAAO vs OAC was associated with higher ischemic stroke (130 vs 76 events; IRR: 1.43; 95% CI: 1.07-1.91; P = 0.01; number needed to harm: 101; GRADE: low); however, this was sensitive to individual trial exclusion and TSA indicated insufficient information (41% of required size). All-cause stroke (152 vs 114; IRR: 1.11; 95% CI: 0.86-1.43; P = 0.43) and all-cause mortality (403 vs 368; IRR: 0.93; 95% CI: 0.78-1.10; P = 0.39) were comparable. Total major bleeding did not differ (IRR: 0.91; P = 0.29), but LAAO significantly reduced nonprocedural major bleeding (194 vs 232; IRR: 0.71; 95% CI: 0.55-0.91; P = 0.01; number needed to treat: 19; GRADE: high) and clinically relevant nonmajor bleeding (145 vs 303; IRR: 0.48; 95% CI: 0.39-0.58; P < 0.001; number needed to treat: 15). CONCLUSIONS: LAAO significantly reduces nonprocedural major bleeding (TSA-confirmed) and clinically relevant nonmajor bleeding vs OAC. A trend toward higher ischemic stroke was not TSA-confirmed and was sensitive to trial exclusion; all-cause stroke and mortality were similar. These findings quantify the benefit-harm tradeoff central to LAAO decisions.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103251"
+ },
+ {
+  "idx": 18,
+  "journal": "Lancet",
+  "title": "A global men's health epidemiology within an intersectional framework.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Males have lower life expectancies and greater disability-adjusted life-years (DALYs) than females, and particularly poor outcomes are seen among males in marginalised contexts. In this paper, we provide an epidemiological overview and highlight the intersectional nature of men's health. We analyse mortality and DALYs data from the 1990-2023 Global Burden of Diseases, Injuries, and Risk Factors Studies to illustrate our intersectional framework and draw attention to how health varies in men and to show key themes. Conditions that contribute most to the poor health of males include non-communicable diseases (eg, cardiovascular diseases and cancers), substance use, suicide, injuries (eg, road traffic incidents and interpersonal violence), and respiratory infections (eg, tuberculosis and COVID-19). Although cardiovascular disease and cancer make the largest contributions to men's higher mortality rates, determinants of health such as violence and war, migration, economic stagnation, and labour market changes due to automation and new technologies will disproportionally affect their health in the future. Injuries, violence, and other external morbidity causes often occur at a young age and in unequal distributions across the sexes, making a large contribution to DALYs. Although biology plays a role, the pattern of many diseases contributing to health differences reflects the intersection of health behaviours, shaped by patriarchy, ideas of masculinity, and structural drivers (including commercial determinants of health); many of these are preventable. Although improvements in some health behaviours are seen, exceptions occur in marginalising social conditions (eg, incarcerated men, men experiencing homelessness, men with mental illnesses, men with substance use disorders, men with low income, men who have sex with men, and those who are gender non-conforming). Multiple data sources detail men's shorter life expectancies and the drivers compared with women, but going beyond sex disaggregation remains challenging and is an urgent priority for research and health monitoring.",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1016/S0140-6736(26)01490-X"
+ },
+ {
+  "idx": 19,
+  "journal": "JACC Heart Fail",
+  "title": "NT-proBNP and Clinical Outcomes in Patients With HFrEF According to Atrial Fibrillation: Insights From QUEST.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The Chinese traditional medicine qiliqiangxin (QLQX) improves outcomes in patients with heart failure with reduced ejection fraction (HFrEF) when added to guideline-directed medical therapy. OBJECTIVES: This post hoc analysis of the QUEST (Qiliqiangxin in Heart Failure: Assessment of Reduction in Mortality) trial assessed the efficacy and safety of QLQX according to baseline N-terminal pro-B-type natriuretic peptide (NT-proBNP) levels, and examined whether the prognostic value of baseline NT-proBNP varied by atrial fibrillation (AF) status. METHODS: QUEST enrolled 3,110 patients with HFrEF and NT-proBNP ≥450 pg/mL, and followed them for a median of 18 months. The primary outcome was cardiovascular (CV) death or heart failure (HF) hospitalization. NT-proBNP was analyzed by quartiles and as a continuous variable. RESULTS: Median baseline NT-proBNP was 1,731 pg/mL. Higher baseline NT-proBNP independently predicted greater risk of the primary outcome (adjusted HR for Q4 vs Q1: 4.03 [95% CI: 3.12-5.20]). The prognostic value of baseline NT-proBNP for all outcomes was consistent irrespective of AF status. At 3 months, QLQX reduced NT-proBNP by 10% compared with placebo. The HRs for the primary composite with QLQX vs placebo were 1.13 (95% CI: 0.73-1.76), 0.76 (95% CI: 0.54-1.06), 0.73 (95% CI: 0.55-0.95), and 0.75 (95% CI: 0.59-0.95) from the lowest to the highest NT-proBNP quartiles, respectively (Pinteraction = 0.48). Results were consistent for CV death, HF hospitalization, and total HF hospitalizations, and when NT-proBNP was modeled continuously (all Pinteraction ≥ 0.30). CONCLUSIONS: The treatment effect of QLQX on CV events was consistent across the spectrum of baseline NT-proBNP in HFrEF. Baseline NT-proBNP strongly predicted the risk of CV outcomes and mortality, irrespective of AF status. (Qiliqiangxin in Heart Failure: Assessment of Reduction in Mortality [QUEST]; ChiCTR1900021929).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jchf.2026.103477"
+ }
+]

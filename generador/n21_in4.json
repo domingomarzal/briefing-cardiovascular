@@ -1,0 +1,231 @@
+[
+ {
+  "idx": 80,
+  "journal": "JACC Adv",
+  "title": "Patterns of Postdischarge Heart Failure, Ischemic, and Bleeding Events After Transcatheter Aortic Valve Replacement.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Although outcomes after transcatheter aortic valve replacement (TAVR) have improved, heart failure (HF) hospitalization, ischemic events, and major bleeding remain clinical challenges in patients with severe aortic stenosis. OBJECTIVES: The objective of the study was to evaluate the incidence, timing, and prognostic impact of these events after TAVR. METHODS: This two-center retrospective registry included 988 patients with severe aortic stenosis who underwent TAVR. Patients were grouped according to the first clinical event after discharge: HF hospitalization, ischemic events (myocardial infarction or ischemic stroke), major bleeding, or the event-free group. The timing of the first postdischarge event and all-cause mortality after the first event were evaluated. RESULTS: During a median follow-up of 665 days after discharge, 165 patients (16.7%) experienced any of these events. As first events, HF hospitalization, ischemic events, and major bleeding occurred in 80 (8.1%), 32 (3.2%), and 53 (5.4%) patients, respectively, whereas 823 (83.3%) were in the event-free group. Among patients with a first postdischarge event, major bleeding occurred earliest among the 3 event groups. One-year all-cause mortality after the first event was high across groups (HF hospitalization, 31.5%; ischemic events, 30.4%; major bleeding, 25.4%). CONCLUSIONS: Among patients who experienced a first postdischarge event after TAVR, major bleeding occurred earlier than HF hospitalization or ischemic events. Once a first postdischarge event occurred, subsequent all-cause mortality was high across the 3 event groups. These findings suggest that event timing should be considered and careful clinical reassessment may be warranted when a first postdischarge event occurs after TAVR.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103387"
+ },
+ {
+  "idx": 81,
+  "journal": "JACC Cardiovasc Interv",
+  "title": "Morphology-Dependent Dose-Response of Intravascular Lithotripsy on Coronary Calcium Fracture.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Intravascular lithotripsy (IVL) uses ultrasonic acoustic pressure waves to modify calcification to enable optimal balloon and stent expansion in calcified lesions. However, the dose-response relationship for creating fractures within calcified lesions of different calcium morphologies is unknown. OBJECTIVES: The aim of this study was to evaluate the dose-dependent effects of IVL on calcium fracture overall and in the setting of calcification arc <180° vs ≥180°. METHODS: Micro-computed tomography images were acquired before and after 10, 20, 40, 60, 80, and 120 pulses of IVL treatment (Shockwave Medical) in an ex vivo study of 5 cadaveric human hearts (15 coronary lesions). A total of 30 cross-sections of micro-computed tomography (2 sections per lesion) were analyzed for this study. RESULTS: Cumulative fracture occurrence increased progressively with the number of IVL pulses delivered, with fractures observed in 33% of sections after 10 pulses, 50% after 40 pulses, and 60% after 120 pulses. Calcification arc ≥180° exhibited a higher fracture occurrence compared with arc <180° (P = 0.028). After adjustment for pulse number, calcification arc ≥180° was associated with significantly higher fracture counts compared with arc <180° (rate ratio = 6.1, P = 0.003). CONCLUSIONS: Fracture occurrence following IVL increased with cumulative pulse delivery and differed significantly according to calcification concentricity. Calcification arc ≥180° demonstrated a higher and earlier likelihood of fracture occurrence than arc <180°, independent of pulse number. These findings establish a clear dose-dependent relationship between IVL pulse delivery and fracture formation and highlight calcification concentricity as a key determinant of fracture response.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcin.2026.07.027"
+ },
+ {
+  "idx": 82,
+  "journal": "Circ Res",
+  "title": "Natural Killer Cell TGF-β Signaling Regulates Postnatal Lung Development.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Bronchopulmonary dysplasia (BPD) is a disease of neonatal lung development that is linked to impaired pulmonary vascularization, dysregulated TGF-β (transforming growth factor-β) signaling, and the accumulation of senescent cells. Despite the established role of TGF-β signaling in promoting vascular remodeling and suppressing the senolytic activity of natural killer (NK) cells, the contribution of NK cell TGF-β signaling to postnatal lung patterning and the pathogenesis of BPD remains unclear. METHODS: Mice bearing an NK cell-selective deletion of the type-II TGF-β receptor (Tgfbr2NK-/-) were analyzed for vascular and alveolar structure, lung NK cell infiltration, senescence markers, and lung function testing across neonatal and adult time points. Lung tissue from both neonatal mice and human infants with BPD was assessed by single-cell RNA sequencing. The effects of enhanced NK cell activity in a hyperoxia-induced model of BPD were examined in Tgfbr2NK-/- neonates, as well as pharmacologically, using the TGF-β ligand trap/IL-15 superagonist, HCW9218. RESULTS: Neonatal Tgfbr2NK-/- mice exhibited a baseline reduction in distal arteriolar density, impaired alveolarization, and sex-specific deficits in long-term lung function. Single-cell RNA sequencing identified excessive clearance of senescent endothelial cells by TGF-β-insensitive NK cells in the lungs of Tgfbr2NK-/- neonates. This enhanced NK cell activity promoted a BPD-like phenotype in naïve Tgfbr2NK-/- mice but protected these animals from impaired lung development under hyperoxia. Sequencing of lung tissue from human infants with BPD confirmed excessive TGF-β signaling and cytotoxic impairment in NK cells. Treatment with HCW9218 prevented senescent cell accumulation and rescued lung development in the hyperoxia mouse model. CONCLUSIONS: TGF-β is a tunable regulator of NK cell senolytic activity that is essential for normal postnatal lung development. Excessive NK cell TGF-β signaling contributes to impaired lung development with neonatal hyperoxia and may serve as a viable therapeutic target in human BPD.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCRESAHA.126.328808"
+ },
+ {
+  "idx": 83,
+  "journal": "JACC Cardiovasc Interv",
+  "title": "Prognostic Impact of Discharge Transprosthetic Tricuspid Gradient After Transcatheter Tricuspid Valve Replacement: The TRIPLACE Registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Although transprosthetic gradients are established prognostic markers after left-sided valve interventions, the prognostic significance of discharge tricuspid gradient (dTVG) after transcatheter tricuspid valve replacement (TTVR) remains unclear. OBJECTIVES: This study sought to evaluate the association between dTVG and clinical outcomes after TTVR and identify high dTVG determinants. METHODS: TRIPLACE (Global Multicenter Registry on Transcatheter Tricuspid Valve Replacement) is an international, multicenter TTVR registry. A discharge landmark analysis was performed, excluding patients with in-hospital mortality, lack of TTVR technical success, missing dTVG, or unavailable follow-up at any time point. Endpoints included all-cause mortality and the composite of all-cause mortality or heart failure hospitalization. The optimal dTVG cutoff was identified through quartile-based survival analysis and confirmed by log-rank maximization. Multivariable Cox models were developed using cross-validated candidate variable selection. RESULTS: Among 526 patients, 474 were included. Median follow-up was 208.5 days (Q1-Q3: 54-474 days). A data-driven dTVG cutoff of 3.5 mm Hg identified 122 of 474 patients (25.7%) with high dTVG. dTVG ≥3.5 mm Hg was associated with higher 1- and 3-year mortality (HR: 2.07; 95% CI: 1.14-3.75; P = 0.017 and HR: 2.07; 95% CI: 1.24-3.48; P = 0.006, respectively) and composite endpoint events (HR: 1.99; 95% CI: 1.31-3.03; P = 0.001 and HR: 1.96; 95% CI: 1.33-2.88; P < 0.001). After multivariable adjustment, dTVG ≥3.5 mm Hg remained associated with 3-year mortality (adjusted HR: 1.84; 95% CI: 1.09-3.10; P = 0.022) and the composite endpoint at 1 and 3 years (adjusted HR: 1.77; 95% CI: 1.16-2.70; P = 0.009 and adjusted HR: 1.77; 95% CI: 1.20-2.60; P = 0.004, respectively). Indexed inner transcatheter tricuspid valve diameter was the only potentially modifiable independent predictor of high dTVG (OR: 0.79 per 1 mm/m2 increase; 95% CI: 0.71-0.88). CONCLUSIONS: Elevated dTVG after TTVR independently identifies patients at increased risk of adverse outcomes. A 3.5 mm Hg threshold may support postprocedural risk stratification, whereas inner valve diameter represents a potentially modifiable determinant of elevated dTVG. (TRIPLACE [Global Multicenter Registry on Transcatheter Tricuspid Valve Replacement]; NCT06033274).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcin.2026.10.010"
+ },
+ {
+  "idx": 84,
+  "journal": "J Am Heart Assoc",
+  "title": "Female Life Stages for Cardiovascular Disease Prevention and Management in Girls and Women: A Case-Based Approach.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Cardiovascular disease remains the leading cause of death among women in the United States and worldwide, yet current approaches to prevention and management do not fully account for female-specific biology. To address this need, the American Heart Association, in collaboration with the American Academy of Pediatrics, the American College of Obstetricians and Gynecologists, and the Society for Maternal-Fetal Medicine, published a Presidential Advisory defining the Female Life Stage construct, which defines four distinct stages across the life course: Perimenarche (Stage 1), Ovarian Cycling (Stage 2), Perimenopause (Stage 3), and Postmenopause (Stage 4), with pregnancy including the time before and after (Peripregnancy period) recognized as a distinct life period when cardiovascular risk may be modified.1 To provide examples of how this framework and the accompanying consensus guidance published in an accompanying Scientific Statement can be translated into a personalized care approach, this special report presents six hypothetical cases spanning the Female Life Stages, including adolescence and young adulthood, the peripartum period, midlife, perimenopause, and postmenopause.2 These cases illustrate how a female-specific life course framework that reflects hormonally-mediated physiologic transitions can promote earlier recognition of cardiovascular risk, guide cardiovascular screening and inform cardiovascular management. The cases underscore how hormonal health (e.g., menstrual cycle assessment, pregnancy planning and prevention, assessing and managing perimenopausal and postmenopausal symptoms) and psychosocial health (e.g., anxiety, depression, disordered eating) have cardiovascular implications. Moreover, this approach integrates well-established female-specific cardiovascular risk factors (e.g., premature menopause and adverse pregnancy outcomes), in addition to less well-recognized risk factors (e.g., early menarche, polyendocrine metabolic ovarian syndrome). We also review key evidence to inform a patient-centered approach to exogenous hormone therapy and associated cardiovascular risks for a variety of indications, including management of abnormal uterine bleeding, ovarian suppression, pregnancy prevention, and menopausal symptoms. By contextualizing the Female Life Stage framework within practical case scenarios, this article provides clinicians with a structured, evidence-based approach to improve cardiovascular prevention and management for girls and women.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.055294"
+ },
+ {
+  "idx": 85,
+  "journal": "Eur Heart J",
+  "title": "Cortisol in cardio-kidney-metabolic disease.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Despite guideline-directed therapy, many patients with cardio-kidney-metabolic (CKM) disease remain uncontrolled due to therapeutic inertia, adherence barriers, and underrecognized secondary causes. Hypercortisolism, ranging from mild autonomous cortisol secretion (MACS) to overt Cushing syndrome, is an increasingly recognized contributor. MACS is associated with a 2.5-fold higher risk of cardiovascular death and increased prevalence of hypertension, type 2 diabetes mellitus (T2DM), and kidney impairment. Cortisol excess promotes muscle insulin resistance, hepatic gluconeogenesis, β-cell dysfunction, sodium retention, and vascular remodelling, worsening glycaemia and blood pressure, leading to poor CKM outcomes. Recent prospective studies suggest that hypercortisolism is more prevalent than previously suspected in selected CKM phenotypes, including 24% in patients with difficult-to-control T2DM in CATALYST and 27% in patients with resistant hypertension in MOMENTUM. The overnight 1 mg dexamethasone suppression test remains the diagnostic test of choice. Therapeutic strategies include adrenal steroidogenesis inhibitors, glucocorticoid receptor antagonists, and pituitary-directed therapies in selected cases, while surgery remains the first-line treatment for surgically remediable disease. This review summarizes the epidemiology and mechanisms linking cortisol excess to CKM dysfunction, and also highlights the need for clinical trials, standardized diagnostic thresholds, and assays to enable integration of cortisol-targeted therapies into management pathways to mitigate residual CKM risk. This review will serve as a practical guide for cardiologists to manage a potentially reversible contributor to poor CKM control.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurheartj/ehag827"
+ },
+ {
+  "idx": 86,
+  "journal": "Nat Cardiovasc Res",
+  "title": "Manipulation of ER-mitochondria interactions with mitofusin modulators reduces cardiac damage during myocardial infarction in mice.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Mitofusin (MFN) 1 and MFN2 are large outer mitochondrial membrane GTPases. Dimerization of MFNs on adjacent mitochondria mediates mitochondrial fusion. MFN2, but not MFN1, also resides at the endoplasmic reticulum (ER)/sarcoplasmic reticulum (SR) membrane, and dimerization of MFNs on ER/SR and mitochondria tethers the two organelles. Here we report that cell-permeable peptides that perturb MFN conformations regulate myocardial infarct size by impacting ER/SR-mitochondria interactions and Ca2+ transfer independently of changes in mitochondrial fusion. MFN activators increase ER/SR-mitochondria proximity, promote ER/SR to mitochondria Ca2+ transfer and exacerbate infarct size in mice, with effects dependent on MFN2, but not MFN1, and on mitochondrial calcium uniporter, which transports Ca2+ into the mitochondrial matrix. Conversely, although ER/SR-mitochondria proximity is not affected, MFN inhibitors reduce mitochondrial Ca2+ transfer and infarct size, even when their administration is delayed until reperfusion. These findings demonstrate the feasibility of acutely modulating ER/SR-mitochondria interactions and Ca2+ dynamics and suggest that pharmacological MFN inhibition may provide a new therapeutic strategy to limit cardiac damage during reperfused myocardial infarction.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s44161-026-00903-6"
+ },
+ {
+  "idx": 87,
+  "journal": "Hypertension",
+  "title": "Barriers and Opportunities in Therapeutic Development for Early-Onset Preeclampsia.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Early-onset preeclampsia (EOPE) remains a major contributor to maternal and fetal/neonatal morbidity and mortality worldwide, with delivery, frequently at early preterm gestations, remaining the only effective way to halt disease progression. Therapeutic development has been limited by disease heterogeneity, unpredictable conditions, a progressive course, ethical and safety concerns in pregnancy, and uncertainty over trial design and regulatory pathways. This document summarizes an international multidisciplinary convening of clinicians, trialists, pharmacologists, regulators, and global health experts who met to explore key challenges and emerging strategies for therapeutic development in EOPE. Discussion centered on EOPE, marked by abnormal placentation, pronounced angiogenic imbalance, and high maternal-fetal risk, viewed as a potentially tractable target for disease-modifying interventions. Key themes included trial eligibility and enrollment, use of angiogenic biomarkers for enrichment and monitoring, defining meaningful maternal and fetal end points, safety oversight in the dual-patient context, and the potential of adaptive trial designs. Participants also considered translational tools such as pharmacokinetic (physiologically based pharmacokinetic) modeling and placental transfer studies. Participants identified both areas of alignment and continued uncertainty. Biologically informed strategies, such as biomarker-supported enrollment and carefully designed early-phase studies were seen as helpful in reducing uncertainty, especially alongside early regulatory engagement. Although many developers are pursuing soluble fms-like tyrosine kinase-1 as a therapeutic target for EOPE, participants stressed the need for further biomarker validation, careful maternal-fetal risk-benefit assessment, and globally feasible approaches. Though focused on EOPE, these discussions may inform future research on late-onset disease, given its distinct underlying biology.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/HYPERTENSIONAHA.126.27415"
+ },
+ {
+  "idx": 88,
+  "journal": "Rev Esp Cardiol (Engl Ed)",
+  "title": "Spanish cardiac catheterization and interventional cardiology registry. 35th official report of the Interventional Cardiology Association of the Spanish Society of Cardiology (1990-2025).",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Introduction and objectives This report presents the 2025 activity of the Interventional Cardiology Association of the Spanish Society of Cardiology (ACI-SEC). Methods All interventional cardiology laboratories in Spain were invited to complete an online survey. Data were analyzed by an external company and subsequently reviewed and presented by the ACI-SEC board. Results A total of 125 hospitals participated, compared with 118 in the previous year. The number of diagnostic procedures and coronary angiograms increased by 4% and 4.5%, respectively, both reaching record highs. Percutaneous coronary interventions (PCI) increased by 3.3%. The trend toward lower relative stent use was confirmed, with a marked increase in the use of drug-coated balloons, both as a standalone strategy and as part of hybrid strategies. The use of intracoronary imaging and coronary physiology techniques increased, reaching record absolute numbers. Interventional treatment of myocardial infarction increased by 3.6%, with primary PCI accounting for 98% of procedures. Structural heart interventions continued to expand: transcatheter aortic valve implantation (+10.1%), percutaneous mitral interventions (+25.2%), tricuspid interventions (+7.9%), and left atrial appendage closure (+8.4%). Renal denervation procedures, interventional treatment of acute pulmonary embolism, and interventions for chronic thromboembolic pulmonary hypertension increased significantly. Conclusions The 2025 Spanish cardiac catheterization and interventional cardiology registry shows overall growth in both coronary and structural activity. Full English text available from: www.revespcardiol.org/en.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.rec.2026.06.020"
+ },
+ {
+  "idx": 89,
+  "journal": "Circulation",
+  "title": "ROR2 Drives Right Ventricular Heart Failure Through Disruption of Proteostasis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: No therapies exist to reverse right ventricular failure (RVF), and the molecular mechanisms that drive RVF remain understudied. We recently reported that the developmentally restricted noncanonical WNT receptor ROR2 (receptor tyrosine kinase-like orphan receptor 2) is upregulated in human RVF in proportion to severity of disease. Here we test the mechanistic role of ROR2 in RVF pathogenesis. METHODS: ROR2 was overexpressed or knocked down in neonatal rat ventricular myocytes and then characterized using confocal microscopy, RNA sequencing, proteomics, proteostatic functional assays, and pacing to assess contractile properties. The impact of cardiac ROR2 expression was evaluated in mice by AAV9-mediated overexpression and by AAV9-mediated delivery of short hairpin RNA to knockdown ROR2 in a pulmonary artery banded pressure overload model of RVF. ROR2-modified mice were evaluated by echocardiography, histology, and right ventricle protein synthesis and proteasome capacity. RESULTS: In neonatal rat ventricular myocytes, we find that ROR2 profoundly dysregulates the coordination between protein translation and folding. This imbalance leads to excess protein clearance by the ubiquitin proteasome system with dramatic impacts on sarcomere and cytoskeletal structure and function. Inhibiting the ubiquitin proteasome system or restoring chaperone expression is sufficient to partially rescue ROR2-induced structural and contractile deficits in cardiomyocytes. In mice, forced cardiac ROR2 expression is sufficient to disrupt proteostasis and drive RVF, whereas conversely Ror2 knockdown partially rescues proteostasis and right ventricle structure and function in a pressure overload model of RVF. CONCLUSIONS: In sum, ROR2 is a key driver of RVF pathogenesis through proteostatic disruption and thus provides a promising target to treat RVF.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.125.078798"
+ },
+ {
+  "idx": 90,
+  "journal": "Hypertension",
+  "title": "Endothelin 2-Mediated Neuroinflammation Drives Hypertensive Retinal Dysfunction.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Systemic hypertension is a risk factor for glaucoma, a leading cause of irreversible blindness, yet the mechanistic basis connecting the 2 conditions remains elusive. METHODS: A longitudinal assessment of blood pressure, intraocular pressure, retinal function, structure, and perfusion was conducted in spontaneously hypertensive rats and Wistar-Kyoto rats. Transcriptomic analyses and immunofluorescence staining were performed to investigate hypertension-associated retinal biochemical changes. AAV-mediated knockdown of endothelin 2 was used to investigate its mechanistic role. RESULTS: Hypertensive rats develop accelerated retinal degeneration marked by retinal thinning, functional impairment, reduced perfusion, and progressive neuroinflammation. Critically, these changes occur despite persistently low intraocular pressure, indicating an intraocular pressure-independent mechanism underlying the pathology. Biochemical analyses identified robust activation of the retinal endothelin system, with endothelin 2 the most significantly upregulated component. AAV-mediated retinal endothelin 2 knockdown substantially restored retinal function, ameliorated neuroinflammation, and enhanced retinal blood flow in hypertensive rats. Pharmacological blockade of endothelin receptor type A, but not type B, replicated these protective effects without altering intraocular pressure. CONCLUSIONS: Our findings establish endothelin 2 as an important, intraocular pressure-independent contributing factor to hypertension-associated retinal neurodegeneration and identify the endothelin-endothelin receptor type A axis as a potential therapeutic target to prevent vision loss in patients with hypertension.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/HYPERTENSIONAHA.126.27424"
+ },
+ {
+  "idx": 91,
+  "journal": "JAMA Cardiol",
+  "title": "Systemic Hypertension and Survival in Pulmonary Hypertension.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: Pulmonary hypertension (PH), a progressive and life-threatening condition with rising prevalence among older adults, frequently coexists with systemic hypertension, the prognostic impact of which is poorly understood. OBJECTIVE: To evaluate the association between systemic hypertension and survival in patients with PH. DESIGN, SETTING, AND PARTICIPANTS: This multicenter cohort study analyzed data from the Pulmonary Vascular Research Institute GoDeep meta-registry, integrating global retrospective and prospective PH cohorts (n = 3238 in Europe, n = 3014 in North America, n = 96 in Africa, n = 802 in Asia, and n = 851 in Oceania). Survival was assessed using multivariable Cox proportional hazards models and adjusted for key confounders, with sensitivity analyses to validate robustness. Independent external validation was performed in a cohort in the UK. A total of 12 771 patients with incident PH (median [IQR] age, 65 [53-73] years; 7372 [58%] female) were diagnosed via right heart catheterization and comprehensive clinical data, encompassing PH groups 1-5 and all age categories. The study spans diagnosis decades from 1980 to 2020. Data were analyzed from February 2025 until September 2026. EXPOSURES: Center-reported diagnosis of systemic hypertension, baseline systolic systemic arterial pressure (sSAP), and heart rate as well as longitudinal sSAP and heart rate trajectories. MAIN OUTCOMES AND MEASURES: All-cause mortality, adjusted for confounding variables, including age, PH group, antihypertensive and PH-specific medications, and cardiac index. RESULTS: Higher baseline sSAP and preexisting systemic hypertension were independently associated with improved survival. Patients with hypertension exhibited a 26% reduced mortality hazard (hazard ratio [HR], 0.74; 95% CI, 0.68-0.79) compared to their counterparts without hypertension. Survival benefits correlated positively with increasing sSAP (80-180 mm Hg), remained consistent across PH groups and age groups, and were independent of antihypertensive and PH-specific medications. Elevated heart rate was associated with higher mortality. sSAP increments correlated with improved cardiac index and tricuspid annular plane systolic excursion. Decreased sSAP and higher heart rate during follow-up correlated with higher mortality. External validation in a separate UK cohort confirmed these findings. CONCLUSION AND RELEVANCE: In this global PH cohort, higher sSAP was associated with enhanced survival, while a higher baseline heart rate and declining systemic blood pressure during follow-up were significantly associated with increased mortality risk.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1001/jamacardio.2026.4834"
+ },
+ {
+  "idx": 92,
+  "journal": "J Am Heart Assoc",
+  "title": "National Use Patterns and Comparative Effectiveness of Extracorporeal Membrane Oxygenation in Myocardial Infarction-Related Cardiogenic Shock.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Extracorporeal membrane oxygenation (ECMO) provides bi-ventricular support for patients with myocardial infarction-related cardiogenic shock (MI-CS); comparative effectiveness data relative to other mechanical circulatory support remain limited. We characterize contemporary ECMO utilization for MI-CS and compare short-term mortality across ECMO and non-ECMO treatment strategies. METHODS: We compared baseline characteristics and temporal trends in mechanical circulatory support utilization among Medicare beneficiaries hospitalized with MI-CS from 2016 to 2023 and treated with ECMO, Impella, intra-aortic balloon pump, or medical management alone. Patient outcomes for each group were evaluated using inverse probability of treatment weighting, G-formula approach, and grace period analysis. The primary endpoint was 30-day all-cause mortality. RESULTS: The cohort included 102 718 patients: 1165 (1.1%) treated with ECMO, 10 064 (9.8%) Impella, 24 631 (24.0%) intra-aortic balloon pump, and 66 858 (65.1%) medical management alone. From 2016 to 2023, ECMO use for MI-CS increased from 0.8% to 1.8%. The percentage of hospitals using ECMO increased from 9.2% to 17.1%. Unadjusted 30-day mortality was higher for ECMO (69%) compared with Impella (60%), intra-aortic balloon pump (39%), and medical management (46%) (all P<0.0001). Adjusted inverse probability of treatment weighting and G-formula analyses revealed a 30-day mortality rate of 68%-70% for ECMO, which was higher than that for other therapies. The grace period analysis revealed similar mortality between patients treated with ECMO (54%) and Impella (54%). CONCLUSIONS: ECMO use in a contemporary Medicare cohort of patients with MI-CS was infrequent (1.1%) and associated with high 30-day mortality. Despite use of complementary causal inference methods, we were unable to establish valid causal inferences on ECMO use and patient survival.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049443"
+ },
+ {
+  "idx": 93,
+  "journal": "JAMA Cardiol",
+  "title": "N-Acetylgalactosamine-Conjugated Small Interfering RNA Targeting Hepatic Angiotensinogen in Hypertension: A Phase I Clinical Trial With Randomized Part A and Open-Label Part B.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: Angiotensinogen (AGT) is the precursor of angiotensin peptides and a key determinant of renin-angiotensin-aldosterone system activity. ART101 is an investigational N-acetylgalactosamine-conjugated small interfering RNA (GalNAc-siRNA) designed to durably suppress hepatic AGT synthesis. OBJECTIVE: To evaluate the safety, tolerability, pharmacokinetics, and pharmacodynamics of single ascending doses of the AGT-targeting GalNAc-siRNA in healthy volunteers and to provide an initial exploratory assessment of blood pressure effects in patients with hypertension. DESIGN, SETTING, AND PARTICIPANTS: This phase I study was conducted from January 2025 to April 2026 with 24-week follow-up. Part A was a double-blind, placebo-controlled, single ascending-dose trial; part B was an open-label, single-dose study. The study took place at Beijing Friendship Hospital, Capital Medical University, Beijing, China. Part A enrolled 40 healthy adults randomized 6:2 to receive the GalNAc-siRNA (25-600 mg) or placebo; 39 completed the study. Part B enrolled 8 patients with hypertension receiving the GalNAc-siRNA, 600 mg; all completed the study. INTERVENTIONS: A single subcutaneous injection of the AGT-targeting GalNAc-siRNA (25, 75, 150, 300, or 600 mg) or placebo in part A; a single open-label subcutaneous injection of GalNAc-siRNA, 600 mg, in part B. MAIN OUTCOMES AND MEASURES: The primary outcome was safety and tolerability; secondary outcomes included pharmacokinetics, pharmacodynamics, exploratory blood pressure assessments, and renin-angiotensin-aldosterone system biomarkers. RESULTS: Among 40 healthy volunteers (27 [67.5%] male; mean [SD] age, 40.4 [7.8] years) and 8 patients (6 [75.0%] male; mean [SD] age, 47.3 [10.3] years) with hypertension, the AGT-targeting GalNAc-siRNA was well tolerated. In part A, treatment-emergent adverse events (TEAEs) occurred in 23 of 30 active-treatment participants (76.7%) vs 7 of 10 placebo recipients (70.0%); in part B, 6 of 8 patients (75.0%) had TEAEs. No serious adverse events, injection site reactions, or hyperkalemia were observed; all TEAEs were mild to moderate. Plasma exposure (maximum plasma concentration [Cmax] and area under the plasma concentration-time curve [AUC]) increased with dose over the wide dose range from 25 mg to 600 mg. Mean maximum serum AGT reductions of 93% (at 600 mg) in healthy volunteers and 90% (at 600 mg) in patients with hypertension were observed. At 24 weeks after a single 600-mg dose, the placebo-corrected 24-hour ambulatory systolic blood pressure decreased by 12.9 mm Hg in healthy participants. CONCLUSION AND RELEVANCE: In this phase I study, no serious treatment-related safety signals were identified. Sustained, dose-dependent AGT reductions and exploratory blood pressure lowering were observed. These findings support further investigation of the AGT-targeting GalNAc-siRNA as a potential long-acting therapeutic for hypertension. TRIAL REGISTRATION: China Drug Clinical Registry Identifiers: CTR20250041 (part A) and CTR20253973 (part B).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1001/jamacardio.2026.4936"
+ },
+ {
+  "idx": 94,
+  "journal": "JACC Adv",
+  "title": "A Mobile Application for STEMI Care Optimization in a Multicenter Health System.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Interhospital transfer logistics and fragmented coordination among care team members may cause delays in treating ST-segment elevation myocardial infarction (STEMI) patients. We developed a secure mobile application, STEMIcathAID (App), to streamline STEMI activation, transfer coordination, and allow time-stamp data capture. OBJECTIVES: We aimed to assess the effect of App implementation on time measures in a multicenter health care system. METHODS: We conducted an observational comparison of STEMI activations managed through the App vs the traditional workflow across 2 interfacility transfer routes (pathways 1 and 2), and 1 percutaneous coronary intervention-capable local pathway. The primary analyses were the composite door-to-device (D2D) and combined transfer pathway door-in-door-out (DIDO) comparisons, reported as median (IQR). RESULTS: Composite D2D time decreased from 92 min (IQR: 63-110) to 71 min (IQR: 60-85; Hodges-Lehmann reduction: 16 min; 95% CI: 8-24; P < 0.001). Combined transfer pathway DIDO decreased from 57.5 min (IQR: 48.3-70.8) to 46.0 min (IQR: 39.5-57.5; Hodges-Lehmann reduction: 12 min; 95% CI: 6-19; P < 0.001). D2D and DIDO improved in both interhospital transfer pathways, whereas the local pathway showed no significant improvement. D2D target attainment according to pathway-specific registry benchmarks improved from 84.9% (79/93) to 100% (123/123; P < 0.001). The proportion of transfer cases achieving DIDO ≤45 min increased from 20.4% (11/54) to 46.0% (29/63; P = 0.006). CONCLUSIONS: In this observational multicenter implementation study, App-managed STEMI activations were associated with shorter transfer-related time metrics and higher attainment of guideline-relevant time thresholds across 2 interfacility pathways.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103413"
+ },
+ {
+  "idx": 95,
+  "journal": "JAMA Cardiol",
+  "title": "Intensive vs More Intensive Lipid-Lowering Therapy and Plaque Regression in Statin-Naive Patients: Prespecified Analyses From the FLOWPROMOTE Randomized Clinical Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: Prior imaging studies (predominantly using intravascular ultrasound) have demonstrated modest plaque regression with lipid-lowering therapy in stable coronary artery disease (CAD). The effect of initiating intensive lipid-lowering therapy on coronary plaque regression across the entire coronary tree in treatment-naive patients remains uncertain. OBJECTIVE: To report the prespecified secondary imaging end points of the FLOWPROMOTE trial by comparing the effects of intensive vs more intensive lipid-lowering therapy on plaque regression in statin-naive patients with stable CAD and to assess the association between achieved low-density lipoprotein cholesterol (LDL-C) levels and plaque regression. DESIGN, SETTING, AND PARTICIPANTS: FLOWPROMOTE was a multicenter randomized clinical trial enrolling statin-naive patients with newly diagnosed stable CAD, defined by a coronary computed tomography angiography (CTA) stenosis greater than 50% and fractional flow reserve CT less than or equal to 0.80. Coronary CTA was performed at baseline and repeated at 9 and 18 months. Study data were analyzed from February 2025 to January 2026. INTERVENTIONS: Patients were randomized to intensive lipid-lowering therapy (atorvastatin 40 mg) or more intensive lipid-lowering therapy (rosuvastatin 40 mg plus ezetimibe 10 mg) for 18 months. MAIN OUTCOMES AND MEASURES: Prespecified secondary end points included changes in total plaque volume (TPV), noncalcified plaque volume (NCPV), and calcified plaque volume (CPV) across all coronary vessels at 9 and 18 months compared with baseline. RESULTS: A total of 104 patients (mean [SD] age, 64 [9] years; 82 male [79%]) were included in this analysis, with 52 patients in the intensive group and 52 patients in the more intensive group. LDL-C levels decreased from 119.7 to 69.5 mg/dL (-38%) with intensive therapy and from 127.4 to 42.5 mg/dL (-65%) with more intensive therapy (between-group P < .001). At 18 months, both TPV and NCPV decreased in both groups, with significantly greater regression in the more intensive-therapy group. TPV was reduced by -69.8 mm3 (-21.1%) with more intensive therapy vs -39.0 mm3 (-13.6%) with intensive therapy (between-group difference, -30.9 mm3; 95% CI, -57.2 to -4.5 mm3; P = .02), and NCPV was reduced by -82.3 mm3 (-28.2%) vs -53.5 mm3 (-20.0%), respectively (between-group difference, -28.9 mm3; 95% CI, -53.2 to -4.6 mm3; P = .02). CPV increased similarly in both groups. Regression of TPV occurred in 90% of patients receiving more intensive therapy compared with 76% receiving intensive therapy (47 of 52 [90%] vs 38 of 51 [75%]; P = .05), and regression of NCPV was observed in 98% vs 77% (51 of 52 [98%] vs 39 of 51 [77%]; P =.001). Lower achieved LDL-C levels were linearly associated with greater regression of TPV and NCPV. CONCLUSIONS AND RELEVANCE: This secondary analysis of the FLOWPROMOTE randomized clinical trial demonstrated that in statin-naive patients with CAD, more intensive lipid-lowering therapy was associated with significantly greater regression of total and noncalcified coronary plaque burden compared with intensive therapy. The extent of plaque regression was related to achieved LDL-C levels, supporting the potential for partial reversal of coronary atherosclerosis with intensive lipid reduction. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT04737408.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1001/jamacardio.2026.4788"
+ },
+ {
+  "idx": 96,
+  "journal": "JACC Adv",
+  "title": "Impact of Cardiac Dimensions and Patient Phenotype on Electrocardiographic Criteria for Left Bundle Branch Capture.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Electrocardiographic (ECG) criteria are commonly used to confirm left bundle branch (LBB) capture during conduction system pacing, but the influence of structural determinants on their performance remains uncertain. OBJECTIVES: We aimed to assess the relationship of cardiac dimensions and patient phenotype with paced ECG parameters during confirmed LBB capture, and to determine whether ventricular size modifies the diagnostic performance of ECG-based criteria. METHODS: Single-center prospective cohort including consecutive patients with LBB capture confirmed by differential capture. Associations between paced ECG parameters and clinical, phenotypic, and echocardiographic variables were tested using linear regression analysis. The effect of left ventricular end-diastolic diameter (LVEDD) on V6-RWPT diagnostic performance was evaluated across LVEDD strata, by generalized estimating equations, and by receiver-operating characteristic analysis. RESULTS: A total of 307 patients with unequivocal LBB capture were included. LVEDD was independently associated with longer paced V6-RWPT, V1-RWPT, and paced QRS duration, but not with the V6-V1 interpeak interval. In contrast, patient phenotype was not independently associated with paced ECG parameters. Each 10-mm increase in LVEDD was associated with a 2.13-ms increase in paced V6-RWPT. The sensitivity of established V6-RWPT cutoffs decreased progressively with increasing LVEDD, and LVEDD significantly modified the relationship between V6-RWPT and LBB capture (interaction B = -0.003; P = 0.022). Receiver-operating characteristic analyses also showed lower discrimination in larger ventricles, particularly in diseased LBB. CONCLUSIONS: Left ventricular size is an important determinant of paced ECG characteristics during LBB capture and influences the diagnostic performance of V6-RWPT. These findings support interpreting ECG criteria for LBB capture according to ventricular size.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103389"
+ },
+ {
+  "idx": 97,
+  "journal": "J Am Heart Assoc",
+  "title": "Oral Potassium Supplementation Lowers Clinic Blood Pressure in Untreated Primary Hypertension-Systematic Review and Meta-Analysis of Randomized Trials.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Potassium may lower blood pressure (BP), but its effect in untreated primary hypertension remains uncertain. METHODS: We systematically reviewed randomized parallel or crossover trials in adults with untreated primary hypertension comparing oral potassium supplementation with placebo, sodium chloride, or no treatment. The review was prospectively registered in PROSPERO (International Prospective Register of Systematic Reviews; CRD42024621287). PubMed, Embase, Cochrane Central Register of Controlled Trials, Scopus, Cumulative Index to Nursing and Allied Health Literature, and trial registries were searched through January 31, 2025 and updated October 1, 2025. End-of-treatment between-group mean differences were pooled using inverse-variance common-effect models; random-effects models were sensitivity analyses. Risk of bias, missing-evidence bias, and certainty were assessed using Cochrane Risk of Bias 2 tool, Risk of Bias Due to Missing Evidence, and Grading of Recommendations Assessment, Development and Evaluation. RESULTS: Nineteen trials (803 participants; 14 crossover, 5 parallel; median duration, 4 weeks) were included. Potassium reduced clinic systolic BP by 5.3 mm Hg (95% CI, 4.4-6.3) and diastolic BP by 4.5 mm Hg (95% CI, 3.9-5.1). Reductions in 24-hour ambulatory BP were smaller: 2.8 mm Hg (95% CI, 1.3-4.3) systolic and 3.2 mm Hg (95% CI, 2.2-4.2) diastolic. Adverse events were more frequent with potassium (12.8% versus 3.2%), whereas withdrawals and adverse-event withdrawals were uncommon. Heterogeneity was substantial, and ambulatory BP evidence was limited. CONCLUSIONS: In untreated primary hypertension, oral potassium supplementation modestly reduces clinic BP and may produce smaller reductions in 24-hour ambulatory BP. Heterogeneity, short follow-up, and limited ambulatory and safety data warrant cautious interpretation. REGISTRATION: URL: PROSPERO; Unique Identifier: CRD42024621287.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.048590"
+ },
+ {
+  "idx": 98,
+  "journal": "N Engl J Med",
+  "title": "Coronary CT Angiography versus Intravascular Ultrasound Guidance for PCI",
+  "ptypes": [
+   "Randomized Controlled Trial"
+  ],
+  "abstract": "",
+  "oblig": true,
+  "noabs": true,
+  "doi": "10.1056/NEJMoa2610771"
+ }
+]
