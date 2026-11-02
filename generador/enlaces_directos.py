@@ -84,6 +84,22 @@ def pii_plano(pii):
     return re.sub(r"[^A-Za-z0-9]", "", pii or "")
 
 
+def pii_puntuado(pii):
+    """PII en la forma que usan las webs de sociedad de Elsevier: S0021-9150(26)01310-9."""
+    p = pii_plano(pii)
+    if len(p) != 17:
+        return pii
+    return f"{p[:5]}-{p[5:9]}({p[9:11]}){p[11:16]}-{p[16]}"
+
+
+# Revistas Elsevier con web propia que abre el artículo (ver la rama SOCIEDAD de main()).
+SOCIEDAD = {
+    "Lancet": "https://www.thelancet.com/journals/lancet/article/PII%s/fulltext",
+    "Heart Rhythm": "https://www.heartrhythmjournal.com/article/%s/fulltext",
+    "Atherosclerosis": "https://www.atherosclerosis-journal.com/article/%s/fulltext",
+}
+
+
 def pii_de_crossref(doi):
     """Devuelve el PII que el editor registra en Crossref, o '' si no lo hay."""
     m = crossref(doi)
@@ -155,6 +171,18 @@ def main():
             # manda el PASO 5 ("URL DIRECTA del editor"). No hay PII que buscar: estos
             # DOI no son 10.1016 y no pasan por la rama de Elsevier.
             out[k] = "https://eurointervention.pcronline.com/doi/" + doi.upper()
+        elif doi.startswith("10.1016") and j in SOCIEDAD:
+            # N21 (2-nov-2026): ScienceDirect se queda atascado en el reto de Cloudflare
+            # («Just a moment...») en el Chrome real y nunca llega al artículo; las webs de
+            # sociedad del mismo editor (thelancet.com, heartrhythmjournal.com,
+            # atherosclerosis-journal.com) abrieron los cuatro probados a la primera. Para
+            # Lancet es además lo que manda el PASO 5. Usan el PII puntuado.
+            pii = o.get("pii") or pii_de_crossref(doi)
+            if pii:
+                out[k] = SOCIEDAD[j] % pii_puntuado(pii)
+            else:
+                sin_pii.append((k, j, doi))
+            time.sleep(0.4)
         elif doi.startswith("10.1016"):           # Elsevier no-JACC: Heart Rhythm, Rev Esp Cardiol…
             pii = o.get("pii") or pii_de_crossref(doi)
             if pii:
