@@ -1,0 +1,267 @@
+[
+ {
+  "idx": 0,
+  "journal": "Lancet",
+  "title": "Preparing for responsive management versus renal dialysis in older people living with kidney failure and frailty or multimorbidity in the UK (Prepare for Kidney Care): a two-arm, superiority, parallel-group, open-label, pragmatic, phase 3, individually randomised controlled trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The comparative effectiveness of conservative kidney management and dialysis in older people (aged ≥80 years regardless of frailty and comorbidity or aged 65-79 years if frailty or multimorbidity are present) living with kidney failure is unknown. We aimed to assess the relative effectiveness of preparing for responsive management-a protocolised version of conservative kidney management-and preparing for renal dialysis. METHODS: Prepare for Kidney Care was a two-arm, superiority, parallel-group, open-label, pragmatic, phase 3, individually randomised controlled trial conducted in 31 kidney centres in England, Wales, Scotland, and Northern Ireland. Eligible patients had an estimated glomerular filtration rate below 15 mL/min per 1·73 m2, confirmed by at least one additional reading in the 12 months preceding consent that was not due to acute kidney injury, and were either aged 80 years or older, or aged 65-79 years with a WHO performance status of at least 3 or a Davies comorbidity score of at least 2. Eligible participants were randomly assigned (1:1) to prepare for responsive management-a patient-centred approach focused on slowing disease progression, active symptom management, and preserving quality of life without the use of dialysis or kidney transplantation-or to prepare for renal dialysis. Randomisation was stratified by centre and minimised by age; a centralised system ensured allocation concealment until randomisation had taken place. The primary outcome was the mean difference in quality-adjusted life-years (QALYs), combining length and health-related quality of life from the patient-reported EQ-5D-5L scale, including all follow-up from randomisation to Aug 31, 2025. The primary outcome was analysed by intention to treat in the full analysis set, which included all randomly assigned participants, with missing EQ-5D-5L values for living participants imputed. Harms (hospital admissions and dialysis access complications) and adverse events (deaths and hospital admissions, by cause) were assessed in the full analysis set. The trial was registered with ISRCTN, 17133653 (completed). FINDINGS: From July 1, 2017, to Aug 31, 2024, 6120 patients were screened across 31 kidney centres in the UK, 445 (7%) of whom were eligible and agreed to be randomly assigned. 228 (51%) of 445 participants were randomly assigned to prepare for responsive management and 217 (49%) of 445 participants were randomly assigned to prepare for renal dialysis. Median age was 82 years (IQR 80 to 86) and 137 (31%) of 445 participants were female. After a mean follow-up duration of 4·5 years (SD 2·1), mean QALYs were 1·354 (95% CI 1·201 to 1·508) in the prepare for responsive management group and 1·472 (1·288 to 1·655) in the prepare for renal dialysis group (adjusted mean difference -0·147 [95% CI -0·350 to 0·056] p=0·16). Specific harms outcomes were not prespecified, but hospital admission rates were similar in the two groups and dialysis access complications were significantly lower in the prepare for responsive management group (adjusted incident rate ratio 0·41 [95% CI 0·19 to 0·88]), based on 74 events in 36 participants across both groups. There were 667 serious adverse events in the prepare for responsive management group (157 [69%] of 228 participants died, with 510 hospital admissions) and 578 in the prepare for renal dialysis group (136 [63%] of 217 participants died, with 442 hospital admissions). None of these serious adverse events met the criteria for expedited reporting. INTERPRETATION: Among older people living with kidney failure and frailty or multimorbidity, we found no evidence that either preparing for responsive management or preparing for renal dialysis was superior in terms of QALYs over a mean follow-up duration of 4·5 years. This trial provides novel comparative information for clinical decision making. FUNDING: National Institute for Health Research Health Technology Assessment programme.",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1016/S0140-6736(26)01818-0"
+ },
+ {
+  "idx": 1,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Sex-based differences in the atrial fibrillation care pathway and outcomes: an ITHACA-database analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: To characterize sex-specific differences in clinical presentation, evaluate progression through the atrial fibrillation (AF) care pathway from diagnosis to catheter ablation (CA) and assess long-term outcomes. METHODS AND RESULTS: This was a retrospective cohort study of patients with incident AF at Northwell Health between 2015 and 2024 from the ITHACA-database. Sex-specific differences in clinical presentation were examined. The AF care pathway was operationalized as a stepwise cascade, modelling conditional drop-off to identify care gaps. Sex-specific CA risk ratios were assessed via Poisson regression. Incident AF was identified among 165 563/655 459 patients (71.4 ± 11.6 years, 32% non-white, 45% female) with a recorded diagnosis of AF. Women were older (73.3 ± 10.6 vs. 69.8 ± 12.1 years, P < 0.001), had higher rates of dementia (9.1% vs. 5.2%), stroke (8.6% vs. 7.4%) and congestive heart failure (21.5% vs. 20.8%) at diagnosis. Transfer-of-care gaps [median 3.6 years follow-up, 96% retention] were identified at every level: 31.5% of women vs. 35.3% of men were evaluated by cardiology, 16.2% vs. 21.6% by electrophysiology, and 3.5% vs. 5.7% underwent CA (all P < 0.001). Women were 16% less likely to receive CA (RR 0.84 95% CI 0.77-0.91). In cause-specific Cox models, female sex was associated with incident stroke (aHR 1.24, 95% CI 1.18-1.30) and dementia (aHR 1.30, 95% CI 1.24-1.35), but modestly lower mortality after adjustment (aHR 0.96, 95% CI 0.94-0.99). CONCLUSION: In this real-world analysis, significant sex-specific differences in clinical phenotype at presentation, progression through the AF care pathway and clinical outcomes were observed.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag553"
+ },
+ {
+  "idx": 2,
+  "journal": "Nat Med",
+  "title": "Digital readiness for cardiovascular care in high-burden US communities with cardiology workforce constraints.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Digital health may extend cardiovascular care in communities with limited specialist access, but its effectiveness depends on whether communities have the infrastructure, devices, affordability, and capacity needed to use digital services. We linked national data on cardiometabolic disease burden, cardiology workforce, and digital readiness across 82,999 US census tracts. Among high-burden tracts in counties with no cardiologist or declining per-capita cardiologist supply, 4,765 (18.0%) tracts representing 19.9 million residents had higher digital readiness and were thus classified as deployment-priority tracts, whereas 21,752 (82.0%) tracts representing 74.1 million residents had lower readiness and were investment-priority tracts. Investment-priority tracts were spread across the urban-rural continuum and faced different barriers (adoption versus infrastructure). Contrasting classifications frequently occurred among neighboring census tracts within the same metropolitan area, highlighting geographic variation not captured by county-level targeting. Findings were broadly consistent across nine additional analyses with varying measures of readiness, workforce access, and classification thresholds. These findings provide a national framework for distinguishing communities where digital cardiovascular care may be deployed from those where infrastructure and adoption support may first be needed to enable equitable implementation.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s41591-026-04800-0"
+ },
+ {
+  "idx": 6,
+  "journal": "Europace",
+  "title": "Pacing Performance of a Modular Communicative Leadless Pacing-Defibrillator System.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: MODULAR ATP is an ongoing trial assessing the efficacy of a subcutaneous implantable cardioverter defibrillator (S-ICD) in communication with a leadless pacemaker (LP) that can deliver bradycardia pacing and antitachycardia pacing. The objective of this study was to assess safety and pacing performance of the investigational LP. METHODS: The study enrolled patients with an ICD indication and at high risk for monomorphic ventricular tachycardia. Pacemaker dependent patients were excluded. Primary safety endpoint 2 was the percentage of patients free from major LP-related complications at 12 months. The secondary effectiveness endpoint assessed the rate response performance of the LP under workload. Parameters related to the pacing performance were also measured. RESULTS: In 297 patients, the mean age was 59±12 years, the mean left ventricular ejection fraction was 35.3±13.1%, and 17.5% were female. LP implant was attempted in 286 patients and was successful in 100%. The major LP-related complication free rate at 12 months was 97.2% (one-sided 97.5% LCL 94.5%), surpassing the performance goal of 81%. There were no LP-related complications following Implant. For the secondary effectiveness endpoint, the slope of the normalized sensor rate versus the normalized workload was 0.96 (95% LCL 0.91, 95% UCL 1.02), within the performance goal range of 0.65-1.35. At 12 months, 96.8% of patients had a pacing capture threshold ≤ 2V @ 0.4ms pulse width. CONCLUSIONS: The performance of the modular pacing-defibrillator system at one year demonstrated a low complication rate and reliable pacing functionality.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag309"
+ },
+ {
+  "idx": 8,
+  "journal": "JAMA Cardiol",
+  "title": "AI-Identified Reasons for Nonescalation of Lipid-Lowering Therapy for Secondary Prevention.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: Despite guideline recommendations for low-density lipoprotein cholesterol (LDL-C) goals in secondary prevention of atherosclerotic cardiovascular disease (ASCVD), lipid-lowering therapy (LLT) remains underused. Identifying treat-to-target strategy adoption and reasons for LLT nonescalation are critical to close guideline-discordant care gaps. OBJECTIVE: To determine whether large language models (LLMs) can identify a treat-to-target strategy use and extract reasons for LLT nonescalation from clinical notes when LDL-C concentration is above goal. DESIGN, SETTING, AND PARTICIPANTS: This was a retrospective cohort study of patients from January 1, 2019, through May 15, 2025. Notes from most recent clinical encounters were retrieved and split into development, test, and inference sets. The setting was a large, integrated health system in Northern California. Adults aged 18 to 90 years with 2 or more clinician-billed encounters for ASCVD and with LDL-C level greater than or equal to 70 mg/dL at the most recent encounter were included in note-based analyses. EXPOSURES: Documented LDL-C targets and LLT management decisions. MAIN OUTCOMES AND MEASURES: Model performance was evaluated on LDL-C target documentation, LDL-C target value, LLT adjustment, and reasons for nonescalation against clinical annotations. Outcome prevalence was assessed on the inference set. RESULTS: A total of 28 113 unique patients with ASCVD-related encounters were identified, of whom 13 810 (49.1%; mean [SD] age, 70.9 [11.4] years; 7904 male [57.2%]) had above-goal LDL-C level. Model-annotator and interannotator reliability were not statistically different across outcomes, and micro-weighted F1 scores ranged from 0.80 to 0.98. Of the 13 394 patients with above-goal LDL-C level and 13 354 relevant notes in the inference set, a treat-to-target strategy was identified in 3756 (28.1%) of all relevant notes, most commonly targeting an LDL-C level less than 70 mg/dL (2280 [17.1%]). LLT was not escalated in 11 842 of all relevant notes (88.7%), with 4788 (40.4%) containing at least 1 LLT nonescalation reason, most often due to patient-reported adverse effects (1683 [12.6%]), LDL-C level close to goal (922 [6.9%]), patient preference to avoid LLT (914 [6.8%]), preference for lifestyle changes (811 [6.1%]), and deferral to repeat laboratory tests (617 [4.6%]). CONCLUSIONS AND RELEVANCE: Results of this study show that after using a state-of-the art LLM, nearly 9 in 10 ASCVD encounters with above-goal LDL-C level did not have patient LLT escalated, most often because of adverse effects, patient preference, preference for lifestyle changes, therapeutic inertia (eg, repeat laboratory tests), and near-goal LDL-C level. These findings highlight an avenue for personalizing system-level digital health interventions to help discover and minimize guideline-discordant care gaps in secondary prevention of ASCVD.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1001/jamacardio.2026.5230"
+ },
+ {
+  "idx": 18,
+  "journal": "Heart Rhythm",
+  "title": "Microgravity and Cardiac Electrophysiology: Autonomic Remodeling, Arrhythmogenesis, and Implications for Long-Duration Spaceflight.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "BACKGROUND: In microgravity, the human heart undergoes significant geometric and functional remodeling due to the removal of gravity-dependent hydrostatic gradients. These adaptations include a transition from an elliptical to a more spherical shape configuration. Furthermore, cephalad fluid shifts trigger an early spaceflight diuresis, inducing a stable reduction in circulating plasma volume. OBJECTIVE: To describe resulting electrophysiologic alterations and arrhythmia promotion. METHOD: While most spaceflight arrhythmias are transient and non-lethal, they remain a concern for long-duration missions. Frequently reported irregularities include isolated premature atrial and ventricular complexes. Other events, including non-sustained ventricular tachycardia during spaceflight, the possibility of early-onset atrial fibrillation, and atherosclerosis in former astronauts following exposure to high-energy ionizing radiation have been documented, though the association is still being evaluated. The underlying arrhythmogenic substrate is driven by autonomic resetting, spatiotemporal heterogeneity, and QTc interval prolongation. RESULTS: The National Aeronautics and Space Administration utilizes a multi-faceted approach to maintain electrical stability, incorporating high-intensity interval training and electrolyte monitoring and supplementation. Real-time monitoring of wearable technology enables continuous telemetry of the heart. Recently, automated chest compression devices have been shown to significantly outperform manual cardiopulmonary resuscitation in microgravity environments. CONCLUSION: Although structural changes typically revert to baseline upon return to Earth gravity, deep-space missions present some risks. Astronauts exposed to ionizing radiation beyond Earth's magnetic field may face risk of long-term cardiovascular disease. Design of personalized nutrition to mitigate electrolyte loss and development of advanced screening tools for cardiac risk assessment are essential to improve the safety of future planetary missions.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.10.065"
+ },
+ {
+  "idx": 34,
+  "journal": "J Am Coll Cardiol",
+  "title": "Percutaneous Transcatheter Mitral Valve Replacement for Symptomatic Mitral Regurgitation: 2-Year Outcomes From the ENCIRCLE Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Transcatheter mitral valve replacement (TMVR) is an approved treatment option for select high-risk patients with symptomatic mitral regurgitation (MR). The main cohort of the ENCIRCLE trial, evaluating fully percutaneous transseptal TMVR with the SAPIEN M3 system, demonstrated 13.9% mortality, significant MR reduction, and improved functional and health status outcomes at 1 year. OBJECTIVES: We report 2-year outcomes from the main cohort of the ENCIRCLE trial. METHODS: Eligible symptomatic patients with ≥3+ MR who were not suitable for surgery or transcatheter edge-to-edge repair underwent TMVR with the SAPIEN M3 system. Independent study oversight included an echocardiographic core laboratory and a clinical events committee. Endpoints included the nonhierarchical composite rate of all-cause mortality or heart failure hospitalization (HFH) as well as clinical, echocardiographic, functional, and health status outcomes. RESULTS: A total of 299 patients were treated, with 2-year follow-up data available for 202 of 210 eligible patients (96.2%). Mean age was 75.5 ± 9.3 years, 50.8% were men, and the mean Society of Thoracic Surgeons Predicted Risk of Mortality score for mitral valve replacement was 6.6% ± 4.1%. At 2 years, MR reduction was sustained, with MR ≤1+ in 97.0% patients (P < 0.001). The 2-year composite rate of all-cause mortality or HFH was 35.6% (25.1% all-cause mortality, 23.0% HFH). In a 365-day landmark analysis, 1- to 2-year rates were 13.0% for all-cause mortality and 10.6% for first HFH. At 2 years, the rates of disabling stroke, clinically significant valve thrombosis, and hemolysis requiring intervention were 6.6%, 7.1%, and 7.6%, respectively. There were no instances of clinically significant left ventricular outflow obstruction. Improvements in functional and health status outcomes were sustained with 87.0% of patients in NYHA functional class I/II (P < 0.001) and a mean Kansas City Cardiomyopathy Questionnaire overall summary score increase of 17.2 points (P < 0.001). The 6-minute walk distance increased by +9.0 ± 97.3 m compared to baseline (P = 0.246). CONCLUSIONS: The 2-year results of the ENCIRCLE trial demonstrated durable near MR elimination with sustained improvements in functional and health status outcomes in surviving patients. These findings support transseptal TMVR as a therapeutic option for carefully selected patients with symptomatic MR. (The ENCIRCLE Trial [ENCIRCLE]; NCT04153292).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacc.2026.10.047"
+ },
+ {
+  "idx": 41,
+  "journal": "J Am Coll Cardiol",
+  "title": "Single vs Double ProGlide Devices for Access Site Closure after Transfemoral Aortic Valve Replacement: The SINGLE-CLOSURE Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Despite advances in transcatheter aortic valve replacement (TAVR), access-site vascular complications remain an important source of procedural morbidity. The conventional double-ProGlide strategy may increase the risk of access-site stenosis and other vascular complications, particularly in patients with challenging iliofemoral anatomy. Retrospective studies have suggested that a single-ProGlide strategy may offer an effective alternative, but this strategy has not yet been evaluated in a randomized trial. OBJECTIVES: This trial aimed to determine whether a single-ProGlide strategy could offer a simpler alternative to the conventional double-ProGlide strategy without increasing vascular complications. METHODS: The SINGLE-CLOSURE trial was a prospective, multicenter, open-label, randomized trial conducted at 25 centers in China. Patients aged ≥65 years scheduled for transfemoral TAVR were assigned 1:1 to single-ProGlide or double-ProGlide closure for the main access site. The primary endpoint was the in-hospital composite of Valve Academic Research Consortium (VARC)-3-defined access-site or access-related major and minor vascular complications. RESULTS: A total of 876 patients were randomized. In the modified intention-to-treat population, the primary endpoint occurred in 57 of 436 patients (13.1%) in the single-ProGlide group and 65 of 430 patients (15.1%) in the double-ProGlide group, meeting the prespecified criterion for noninferiority (risk difference: -2.2%; 95%: -7.0% to 2.6%; P = 0.013; noninferiority margin: 3.19%). Access-related major vascular complications occurred in 2 patients (0.5%) in the single-ProGlide group and 6 patients (1.4%) in the double-ProGlide group. Among the secondary endpoints, individual components of the primary endpoint, access-related bleeding, time to hemostasis, and all-cause mortality were similar between groups. Access-site stenosis was numerically less frequent with the single-ProGlide strategy (5.0% vs 7.9%), whereas additional closure devices might be used more often (2.5% vs 0.9%). CONCLUSIONS: A single-ProGlide strategy was noninferior to conventional double-ProGlide closure for the composite of VARC-3-defined access-site or access-related vascular complications after transfemoral TAVR. Primary endpoint events were predominantly minor vascular complications.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacc.2026.10.055"
+ },
+ {
+  "idx": 44,
+  "journal": "Nat Cardiovasc Res",
+  "title": "Hematopoietic loss of KDM6A impairs cardiac recovery in heart failure via epigenetic reprogramming of myeloid cells.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Clonal hematopoiesis (CH), the expansion of blood cell clones carrying acquired mutations, is an independent risk factor for cardiovascular disease. Although mutations in DNMT3A and TET2 are well studied, the cardiovascular consequences of KDM6A mutations remain unclear. KDM6A is an X-linked histone demethylase that is commonly mutated in patients with heart failure (HF). Here we performed multiomics profiling and functional characterization of mouse models and patient-derived data to show that hematopoietic KDM6A loss impairs cardiac recovery after myocardial infarction (MI). KDM6A deficiency increases myeloid cell recruitment to the injured heart and reprograms monocytes, macrophages and neutrophils toward inflammatory, migratory and glycolytic states. Patients with HF and KDM6A-driven CH show similar pro-inflammatory monocyte signatures. KDM6A-silenced macrophages promote cardiomyocyte hypertrophy and cardiac fibroblast activation. Notably, IL-1β blockade after MI rescued the adverse cardiac phenotype of hematopoietic KDM6A loss. These findings identify KDM6A-driven CH as a driver of immune dysregulation and IL-1β signaling as a potential therapeutic target in CH-associated HF.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s44161-026-00887-3"
+ },
+ {
+  "idx": 46,
+  "journal": "Eur J Heart Fail",
+  "title": "Ventricular arrhythmia-heart failure interaction and mortality in ICD recipients after myocardial infarction.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Ventricular arrhythmia (VA) and heart failure (HF) frequently coexist in patients with ischaemic left ventricular (LV) dysfunction. Whether VA and HF events are bidirectionally associated remains unclear. We investigated their bidirectional relationship and associations with mortality. METHODS: We analysed 1014 patients from the multicentre WICD-MI study. All received a wearable cardioverter-defibrillator after acute myocardial infarction (MI) and subsequently underwent implantable cardioverter-defibrillator (ICD) implantation, with persistent LV ejection fraction ≤35%. Associations between ICD-treated VA, HF-events (HF hospitalization, heart transplantation, or LV assist device implantation), and all-cause mortality were assessed using time-dependent Cox models. RESULTS: Over a median follow-up of 2.6 years post-ICD implantation, VA was independently associated with an increased risk of HF events [aHR = 3.50 (1.66-7.38), P = .001], while HF events similarly preceded subsequent VA [aHR = 2.96 (1.59-5.50), P = .0008]. Both were independently associated with all-cause mortality, with a numerically higher aHR for HF events [aHR = 7.96 (4.71-13.47), P < .0001] than for VA [aHR = 4.43 (2.35-8.36), P < .0001]. Sensitivity analyses suggested that the VA-HF association was strongest for shock-treated arrhythmias. In exploratory analyses, VA was strongly associated with subsequent HF events in subcutaneous ICD recipients [aHR = 15.08 (4.62-49.22), P < .0001] but not in transvenous ICD recipients (P for interaction = .0002). CONCLUSION: In ICD recipients with persistent LV dysfunction following MI, VA and HF events are bidirectionally associated and independently associated with mortality. The VA-HF association was strongest for shock-treated arrhythmias. These findings highlight the potential value of integrated HF and VA management.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/ejhf/xuag312"
+ },
+ {
+  "idx": 47,
+  "journal": "JACC Adv",
+  "title": "Early Increases in GDF-15 Are Associated With Declines in Cardiac Function With Breast Cancer Therapy.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Growth differentiation factor (GDF)-15 is a stress-responsive cytokine induced by mitochondrial dysfunction and genotoxic stress, mechanisms central to anthracycline cardiotoxicity. Whether early changes in GDF-15 following cancer therapy relate to subsequent cardiac dysfunction is not established. OBJECTIVES: We evaluated the longitudinal trajectory of GDF-15 and its associations with changes in cardiac function and structure following cardiotoxic cancer therapy in women with breast cancer. METHODS: In 366 women receiving anthracyclines and/or trastuzumab from the Penn Cardiotoxicity of Cancer Therapy prospective cohort study, associations between baseline, early-peak (maximum 0-6-month change), and longitudinal GDF-15 concentrations with quantitative echocardiographic measures of systolic, diastolic, and structural function over 36 months were evaluated using multivariable linear mixed-effects models. RESULTS: GDF-15 rose from a median baseline of 662 to an early-peak of 1,412 pg/mL, with trajectories differing across regimens (P = 0.004). Each doubling of the early-peak-to-baseline GDF-15 ratio was associated with a subsequent 1.5 percentage point decline in left ventricular ejection fraction (β -1.5%; 95% CI: -2.5 to -0.6; P = 0.002) and a 0.9-unit worsening in longitudinal strain (β 0.9; 95% CI: 0.4-1.4; P = 0.001). GDF-15 was not associated with diastolic outcomes, incident diastolic dysfunction, or incident cancer therapy-related cardiac dysfunction. CONCLUSIONS: In women receiving anthracycline- and/or trastuzumab-based breast cancer therapy, early increases in GDF-15 were associated with modest declines in left ventricular ejection fraction and worsening of longitudinal strain, without associations with diastolic measures. These findings support mechanistic investigation of GDF-15 in anthracycline-related cardiotoxicity. (Cardiotoxicity of Cancer Therapy [CCT]; NCT01173341).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103370"
+ },
+ {
+  "idx": 48,
+  "journal": "Circ Res",
+  "title": "CaMKIIδ-TRPC6 Activates an RyR-BKCa Feedback Axis in Aging Arteries.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: TRP (transient receptor potential) cation channels play a crucial role in maintaining normal blood pressure and flow. We hypothesize that, during aging, TRPC6 (transient receptor potential cation channel subfamily C member 6)-mediated Ca2+ influx promotes sarcoplasmic reticulum Ca2+ refilling and RyR (ryanodine receptor) Ca2+ sparks, thereby activating BKCa (large-conductance Ca2+-activated K+) channels to limit myogenic arterial tone. METHODS: Using vascular smooth muscle cells (VSMCs) from resistance-sized small mesenteric arteries, we tested selective TRPC6 inhibitors (SH045 and SAR7334) and smooth muscle-specific TRPC6 knockout mice. Ca2+ sparks, BKCa currents, and myogenic tone were measured in young (3-4 months) and old (12-14 months) mice. CaMKIIδ (Ca2+/calmodulin-dependent protein kinase IIδ) signaling was assessed pharmacologically and with a proteolysis-targeting chimera peptide degrader targeting CaMKIIδ. RESULTS: Inhibiting TRPC6 with SH045 or SAR7334 suppressed RyR-mediated Ca2+ spark generation in VSMCs from old mice but not young mice. Similar results were found in smooth muscle-specific TRPC6 knockout mice. SH045 or SAR7334 also suppressed BKCa currents and elicited constriction in mesenteric arteries from old mice. These effects were due to increased translocation of TRPC6 channels to the VSMC plasma membrane, mediated by CaMKIIδ signaling. Using a proteolysis-targeting chimera peptide degrader targeting CaMKIIδ, we demonstrated the impact of CaMKIIδ on TRPC6 externalization and RyR activation in old VSMCs. CONCLUSIONS: Together, our findings identify age-dependent CaMKIIδ upregulation as a key regulator of TRPC6 membrane trafficking, thereby indirectly enhancing RyR-BKCa signaling through sarcoplasmic reticulum Ca2+ handling and promoting VSMC hyperpolarization and vasodilation in aging.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCRESAHA.126.329026"
+ },
+ {
+  "idx": 54,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Reproductive factors in women with familial hypercholesterolaemia.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Hypercholesterolaemia has been associated with earlier menarche and menopause; however, these observations may reflect reverse causation or confounding. Familial Hypercholesterolaemia (FH) provides a model to investigate these associations. This study compared reproductive characteristics and pregnancy outcomes in women with FH vs. women without FH. METHODS AND RESULTS: Between November 2023 and April 2025, women with FH aged ≥40 years were recruited from two university hospital outpatient clinics in the Netherlands and Norway. Women without FH were selected from the Rotterdam Study and Norwegian population-based cohorts. FH cases were matched 1:2 to women without FH on age, smoking status, body mass index, and ethnicity using nearest-neighbour matching. Information on reproductive factors and pregnancy outcomes were obtained via an online survey. 484 women with FH and 968 matched women without FH (median age 55 years [IQR 48-62]; 93% North-Western European) were included. Cardiovascular disease prevalence was higher in women with FH (22% vs. 4%; P < 0.001). Most women with FH (95%) used lipid-lowering therapy, LDL cholesterol levels were lower compared to controls (2.5 vs. 3.5 mmol/L; P < 0.001). Women with FH more often had been pregnant (91% vs. 84%; P < 0.001). Prevalence of gestational diabetes (4% vs. 4%; P = 0.70) and hypertensive disorders of pregnancy (16% vs. 13%; P = 0.10) was similar; however, preeclampsia was more frequent in FH (11% vs. 7%; P = 0.030). Age at menarche (13.2 vs. 13.1 years; P = 0.43), age at menopause (50 years; P = 0.92), and reproductive lifespan (36 years; P = 0.98) were similar between groups. CONCLUSION: Reproductive lifespan is comparable between women with and without FH, but FH was associated with a higher prevalence of preeclampsia, highlighting the importance of targeted pregnancy monitoring and prevention.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag515"
+ },
+ {
+  "idx": 60,
+  "journal": "Circulation",
+  "title": "Iron Repletion in Heart Failure With Preserved Ejection Fraction: The IRONMET-HFpEF Randomized Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Iron deficiency is present in >50% of patients with heart failure with preserved ejection fraction and is associated with reduced exercise capacity and survival. Whether iron repletion improves exercise capacity as objectively measured by peak oxygen uptake ([Formula: see text]) is unknown. The IRONMET-HFpEF trial (Impact of Intravenous Iron Repletion on Mechanisms of Exercise Intolerance in HFpEF) sought to determine whether ferric derisomaltose (FDI) compared with placebo improves peak [Formula: see text] in heart failure with preserved ejection fraction with iron deficiency. METHODS: This was a double-blind, placebo-controlled randomized clinical trial of patients with heart failure with preserved ejection fraction and iron deficiency, defined as ferritin <100 ng/mL or <300 ng/mL with transferrin saturation <20%. Participants were enrolled between December 2021 and April 2026. Single-dose ferric derisomaltose (1000 mg; n=44) or placebo (n=21) was administered once intravenously. The primary end point was the change in peak [Formula: see text] from baseline to 12 weeks with an analysis of covariance model including terms for treatment group, baseline peak [Formula: see text], and sex. Secondary end points included changes in [Formula: see text] at the anaerobic threshold, 6-minute walk test distance, New York Heart Association class, health status assessed by the Kansas City Cardiomyopathy Questionnaire-Overall Summary Score, and iron biomarkers at 12 weeks. RESULTS: Among 65 randomized participants (median age, 68 years [interquartile range, 58-76 years], 72% women, transferrin saturation 16.0±7.4%, ferritin 57.8±48.9 ng/mL), 64 (98.5%) completed the study. The median baseline peak [Formula: see text] was 12.7 mL·kg-1·min-1 (interquartile range, 10.6-15.8 mL·kg-1·min-1) in the FDI group and 12.2 mL·kg-1·min-1 (11.6-14.6 mL·kg-1·min-1) in the placebo group. At 12 weeks, peak [Formula: see text] improved by 1.2 mL·kg-1·min-1 (95% CI, 0.6-1.7) in the FDI group and was unchanged (0.1 mL·kg-1·min-1 [95% CI, -0.7 to 0.9]) in the placebo group (least-squares mean difference, 1.1 mL·kg-1·min-1 [95% CI, 0.2-1.9]; P=0.02). [Formula: see text] at the anaerobic threshold, 6-minute walk test distance, and New York Heart Association class also improved in the FDI compared with the placebo group (all P<0.05), whereas the Kansas City Cardiomyopathy Questionnaire-Overall Summary Score did not differ significantly between groups (FDI group, +4.4 [95% CI, -2.4 to 11.2]; P=0.20). FDI increased transferrin saturation (9.4% [95% CI, 4.9%-13.9%]) and ferritin (183 ng/mL [95% CI, 128-238]) compared with the placebo group (PLSMD<0.001 for both). There were no serious adverse events related to FDI administration. CONCLUSIONS: In the largest trial to date of iron repletion in heart failure with preserved ejection fraction with iron deficiency, FDI improved multiple measures of exercise capacity. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT04945707.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.084009"
+ },
+ {
+  "idx": 61,
+  "journal": "JACC Cardiovasc Imaging",
+  "title": "Characteristics and Thresholds of Coronary Lesions to Predict Acute Coronary Syndrome From Artificial Intelligence-Guided Coronary Computed Tomography Angiography.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Characteristics of future culprit lesions according to artificial intelligence-guided quantitative computed tomography (AI-QCT) are unknown. OBJECTIVES: The authors aimed to characterize and derive thresholds to predict future culprit lesions from coronary computed tomography angiography using AI-QCT. METHODS: A total of 2,169 patients/13,772 lesions undergoing coronary computed tomography angiography at Turku University Hospital, Finland, (derivation) and 553 patients/3,948 lesions from Amsterdam University Medical Center, the Netherlands, (validation) were analyzed with AI-QCT. Lesions from vessels undergoing early revascularization were excluded. Lesion-level total plaque volume (TPV) and noncalcified plaque volume (NCPV) thresholds were derived and externally validated to predict lesion-level and patient-level acute coronary syndrome (ACS). RESULTS: Future culprit lesions from both cohorts (n = 69 validation; n = 15 derivation) had consistently higher median TPV (101 mm3 validation; 115 mm3 derivation; P = 0.811) and NCPV (65 mm3 validation; 74 mm3 derivation; P = 0.709) compared with control lesions (P < 0.001) and were nonobstructive in 69.6% (derivation) and 40.0% (validation). Thresholds of TPV ≥55 mm3 and NCPV ≥32 mm3 were derived and associated with significantly higher adjusted rates of lesion-level (TPV ≥55 mm3: adjusted HR: 12.09; 95% CI: 6.95-21.04; P < 0.001; NCPV ≥32 mm3: adjusted HR: 10.82; 95% CI: 6.22-18.80; P < 0.001) and patient-level ACS (TPV ≥55 mm3: adjusted HR: 2.92; 95% CI: 1.65-5.16; P < 0.001; NCPV ≥32 mm3: adjusted HR: 5.11; 95% CI: 2.49-10.46; P < 0.001) with consistent results in the validation cohort. CONCLUSIONS: Future culprit lesions vs nonculprit lesions by AI-QCT demonstrated significantly higher plaque volumes and were nonobstructive in 40% to 70%. Thresholds of TPV ≥55 mm3 and NCPV ≥32 mm3 were derived to predict future culprit lesions and associated with increased rates of lesion-level and patient-level ACS in 2 independent cohorts.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcmg.2026.09.007"
+ },
+ {
+  "idx": 66,
+  "journal": "Europace",
+  "title": "Remote activity and rhythm monitoring using patient-owned consumer devices after first-time pulmonary vein isolation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: Passively collected physical activity data from consumer devices could provide a scalable, objective measure of functional status in patients with atrial fibrillation (AF). This study assessed the feasibility of remotely collecting activity and rhythm data from patients undergoing index pulmonary vein isolation (PVI). METHODS: AF patients enrolled in the prospective TRUST registry who underwent index PVI and reported owning an eligible smartphone were re-contacted to provide informed consent and share their smartphone- and smartwatch-generated data. Pre-specified feasibility criteria were participation rate, technical success, and temporal data coverage. The primary functional outcome was the mean daily step-count change between the one-year pre-PVI and two-year post-PVI windows. Exploratory analyses examined associations of daily activity with AF recurrence and AF burden. RESULTS: Of 280 eligible patients, 172 (61%) attempted and 154/172 (90%) completed data transfer, of whom 123 met pre-specified completeness criteria. Median monitoring duration was 6.0 [3.6, 6.6] years, with 98% [77, 100] coverage. Mean daily step count increased from 5731±2808 to 6220±2816 steps/day after PVI (+488 steps/day [187, 789]; p=0.002). In 35 smartwatch users, AF burden decreased from 3.6% [1.6, 10.8] to 0.0% [0.0, 0.3] after PVI (p<0.001). Baseline AF burden was inversely correlated with daily step count (ρ=-0.36, p=0.035). CONCLUSION: Remote collection of activity and rhythm data from consumer smartphones and smartwatches is feasible, yielding high-coverage, multi-year research data. This enables scalable, objective quantification of longitudinal functional outcomes. Daily step count increased after PVI in this exploratory cohort and was inversely related to baseline AF burden.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag310"
+ },
+ {
+  "idx": 73,
+  "journal": "Eur J Heart Fail",
+  "title": "Efficacy of empagliflozin in heart failure with preserved ejection fraction according to the presence of echocardiographic features of diastolic dysfunction in the EMPEROR-Preserved trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: To define the impact of diastolic dysfunction (DD) on the response to empagliflozin treatment in patients with heart failure with preserved ejection fraction. METHODS AND RESULTS: Diastolic dysfunction was defined by left atrial volume index ≥34 ml/m2, the ratio of early diastolic mitral inflow velocity to early diastolic mitral annular tissue velocity (E/e) ≥ 13 or left ventricular mass index >115 (males) or >95 (females). We created three categories of increasing DD (0, 1, or ≥2 DD criteria at baseline) to describe the effect of DD on response to empagliflozin therapy and adverse effects. Of 5988 patients in the EMPEROR-Preserved trial, 3766 (63%) had no documented baseline DD, 1619 (27%) had one, and 603 (10%) had two or more measures. Baseline DD was associated with sex, race, ethnicity, and region and was more common with lower heart rate, DBP, body weight, and eGFR. Despite baseline DD not being significantly associated with the primary endpoint of hospitalization for heart failure or cardiovascular death within the placebo group, a progressive treatment effect across the three DD categories was seen (trend test P-value .0014), with estimated hazard ratios of empagliflozin vs placebo of 0.91 (none present), 0.64 (1 present), and 0.49 (≥2). A significant treatment-by-subgroup trend test was also observed for the total number of hospitalizations for heart failure. Both Kansas City Cardiomyopathy Questionnaire Clinical Summary Score improvement at week 52 and safety profile were consistent across DD categories. CONCLUSION: Baseline detection of echocardiographic DD predicted improved clinical response to empagliflozin in a graded fashion, but the reasons cannot be reliably determined from this analysis.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/ejhf/xuag327"
+ },
+ {
+  "idx": 75,
+  "journal": "Circ Heart Fail",
+  "title": "A Multicenter Randomized Controlled Trial of a Digital Health Intervention for Medication Optimization in Heart Failure: The ENGAGE-HF Trial Outcomes.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Background: Despite clear evidence that guideline-directed medical therapy (GDMT) significantly reduces mortality and hospitalizations in patients with heart failure (HF) with reduced and mildly reduced ejection fraction, real-world implementation remains suboptimal. Digital health interventions may promote GDMT titration after hospital discharge. Methods: The ENGAGE-HF trial was a multicenter, two-arm, open-label, randomized controlled trial across three academic centers, funded by the AHA Strategically Focused Research Network (SFRN) for Health Technology and Innovation. Patients recently hospitalized with HF, with or without a primary hospital diagnosis of HF, and LVEF <50% receiving suboptimal GDMT were randomized 1:1 to either the ENGAGE-HF app or usual care for 90 days. The ENGAGE-HF intervention consisted of a patient-facing mobile app and a clinician dashboard overseen by study coordinators. The primary outcome was the Medication Optimization Score (MOS, scale 0-100%) at 90 days. Secondary outcomes were individual GDMT therapies and the Kansas City Cardiomyopathy Questionnaire Clinical Summary Score at 90 days. Results: A total of 134 participants were randomized. At 90 days, the adjusted MOS was significantly higher in the ENGAGE-HF group compared to the control group (83.7% vs. 74.0%, p = 0.010). Results remained consistent across multiple sensitivity analyses. Overall prescribing prevalence increased more in the ENGAGE-HF group for MRAs (+15.9 vs. +2.5 percentage points) and SGLT2 inhibitors (+10.9 vs. +2.5 percentage points). Furthermore, the ENGAGE-HF group demonstrated greater increases in achieving target doses for ARNI (+18.8% vs. +6.3%) and beta-blockers (+8.5% vs. +0.6%). KCCQ-23 CSS at 90 days was 75.2 (SE 2.6) in the intervention group versus 72.2 (SE 2.6) in the control group (between-group p = 0.40). Conclusions: ENGAGE-HF, a digital health intervention that integrates remote monitoring, patient engagement, and clinical decision support, significantly improved GDMT optimization at 90 days compared with usual care among patients with HF. Registration: URL: https://clinicaltrials.gov Unique Identifier: NCT06750549.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCHEARTFAILURE.126.015192"
+ },
+ {
+  "idx": 79,
+  "journal": "J Am Heart Assoc",
+  "title": "Statin Intolerance, Treatment Gaps, and Cardiovascular Outcomes: A 24-Year Health System Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Statin intolerance may disrupt lipid-lowering therapy (LLT). We characterized clinician-documented intolerance and assessed whether cardiovascular risk was concentrated among patients who discontinued all LLT. METHODS: We studied new statin users at Mass General Brigham using medication records dated 1987 through November 2025. Temporal trend analyses were restricted to 2001 through 2024. We characterized postintolerance management and examined cardiovascular outcomes using time-varying Cox models. Within the intolerance cohort, we compared patients who discontinued all LLT with those who continued any LLT. RESULTS: Among 254 035 new statin users, 10 644 (4.2%) developed documented intolerance after a median of 3.1 years. Musculoskeletal symptoms were documented in 68.1%. Within 90 days, 39.9% discontinued all LLT and fewer than 10% received a nonstatin-based strategy. At 3 to 6 months, mean low-density lipoprotein cholesterol increased by 6.8 mg/dL among discontinuers and decreased by 4.9 mg/dL among continuers. Compared with statin-tolerant patients, intolerance was associated with higher risks of coronary artery bypass grafting, percutaneous coronary intervention, myocardial infarction, and ischemic stroke (hazard ratios, 1.12-1.55). Within the intolerance cohort, discontinuing all LLT was associated with higher risk across all outcomes, with hazard ratios ranging from 1.38 for mortality to 2.14 for venous thromboembolism. CONCLUSIONS: Clinician-documented statin intolerance was frequently followed by complete LLT discontinuation and limited use of nonstatin therapy. Complete discontinuation identified a high-risk subgroup with worsening lipid trajectories, supporting systematic reassessment and restoration of statin or nonstatin therapy.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.053967"
+ },
+ {
+  "idx": 85,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Variability of lipoprotein(a) levels in patients with acute myocardial infarction between admission, discharge, and follow-up.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Lipoprotein(a) [Lp(a)] is an established risk factor for atherosclerotic cardiovascular disease. Using Lp(a) concentrations measured during stable follow-up as the reference, we aimed to assess the temporal variability of Lp(a) after acute myocardial infarction (AMI) and to explore a pragmatic strategy for Lp(a) measurement. METHODS AND RESULTS: The FRENCHIE-Lp(a) cohort enrolled consecutive adults hospitalized for AMI in 21 centres. Lp(a) mass concentration, measured at admission, hospital discharge, and 3-12 months follow-up, was analysed both as a continuous and predefined categorical variable (≤20, >20-≤50, >50-≤70, >70 mg/dL). Assuming follow-up Lp(a) as the reference, we aimed to identify the threshold values that would allow us to accurately identify patients with Lp(a) > 70mg/dL, the threshold mostly used for patient selection in phase III trials of targeted Lp(a) therapies. A cumulative threshold analysis was performed to identify the Lp(a) value below which the misclassification rate (i.e. % of patients with follow-up Lp(a) > 70 mg/dL) remained <1%. Among 1561 patients (aged 61 ± 12 years; 21.3% women), median Lp(a) was 13 mg/dL at admission and remained stable over time (median difference overtime = 0 mg/dL). However, only 68.5% of patients remained in the same Lp(a) category overtime. In patients with discharge-Lp(a) ≤37 mg/dL (72.5% of the population), only 0.97% had Lp(a) >70 mg/dL at follow-up compared to 39.9% of those with discharge-Lp(a) >37 mg/dL. CONCLUSION: Although the median Lp(a) level remained stable between admission and follow-up, one-third of AMI patients shifted within Lp(a) categories over time. Pending external validation, an exploratory two-step strategy based on Lp(a) measurement at discharge, followed by repeat testing in patients with Lp(a) >37 mg/dL, showed a misclassification rate below 1% for identifying patients potentially needing intervention. REGISTRATION: Clinical trial Number: NCT04050956.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag573"
+ },
+ {
+  "idx": 91,
+  "journal": "J Am Heart Assoc",
+  "title": "Impact of Statin and Aspirin Use on Dementia Diagnosis Stratified by Cardiovascular Risk.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Atherosclerotic cardiovascular disease (ASCVD) and Alzheimer's disease (AD) dementia share common risk factors. However, the role of ASCVD prevention therapies in AD dementia prevention is not fully understood. We examined the effect of LLT and antiplatelets with dementia and AD dementia diagnoses across ASCVD risk profiles. METHODS: We used data from primary prevention registry derived from a large healthcare network. Multivariable Cox proportional models were generated to study dementia and AD dementia diagnoses, stratified by ASCVD risk profiles. Impact of aspirin and LLT use on dementia and AD dementia diagnoses was assessed in adjusted models. RESULTS: Among n= 347,128, 2.4% developed dementia and 2.0% developed AD dementia over a median follow-up of 7.94 years. In adjusted models, dementia (HR, 2.59; 95% CI [2.29-2.92]) and AD dementia (HR, 2.85; 95% CI [2.49-3.25]) was higher in high risk patients. Low and high-dose aspirin among high ASCVD risk had lower dementia (HR, 0.88; 95% CI, [0.77-1.00] and HR, 0.83; 95% [CI 0.77-0.90]) and AD dementia (HR, 0.83; 95% CI [0.77-0.91] and HR, 0.85; 95% CI [0.73-0.97]). Similarly, moderate- to high-dose LLT use among high ASCVD risk groups was associated with lower dementia (HR, 0.85; 95% CI [0.79-0.93]) and AD dementia (HR, 0.85; 95% CI [0.78-0.93]). CONCLUSIONS: Higher baseline ASCVD risk was associated with increased risk of dementia and AD dementia diagnoses. Aspirin and moderate- to high-dose LLT use among patients with high ASCVD risk was associated with lower dementia and AD dementia risk.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.055110"
+ },
+ {
+  "idx": 101,
+  "journal": "Circ Heart Fail",
+  "title": "Antecedent Kidney Function and Cardiovascular Mortality in Over 300 000 Patients With Incident Heart Failure With Preserved Ejection Fraction.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Chronic kidney disease is a frequent comorbidity in heart failure with preserved ejection fraction (HFpEF) and has been proposed as a contributor to its development. However, the spectrum of antecedent kidney function before incident HFpEF and its association with subsequent cardiovascular outcomes remains unclear. METHODS: We conducted a multicenter cohort study across 170 US Veterans Affairs hospitals, including patients with incident HFpEF diagnosed between January 1, 2000, and June 30, 2025. HFpEF was ascertained using natural language processing-derived left ventricular ejection fraction ≥50% closest to the incident HF date and a validated HFpEF algorithm incorporating loop diuretic use, elevated natriuretic peptide levels, and an HFpEF-age, body mass index, and atrial fibrillation score >0.5. Antecedent kidney function was classified using 2 estimated glomerular filtration rate (eGFR) measurements obtained ≥90 days apart before incident HFpEF and urine albumin-to-creatinine ratio. We characterized antecedent kidney function, including albuminuria (urine albumin-to-creatinine ratio ≥30 mg/g), and examined its associations with 5-year cardiovascular death and heart failure hospitalization. Competing-risk analysis was performed accounting for noncardiovascular death as a competing event for cardiovascular death. RESULTS: Of 304 712 patients meeting HFpEF ascertainment criteria, 236 910 comprised the final cohort; 51% had antecedent eGFR ≥60 mL/min per 1.73m2. Overall, 15% had an eGFR ≥90 mL/min per 1.73m2. Patients with eGFR <60 mL/min per 1.73m2 were older and had more diabetes and hypertension. 51% of the patients with eGFR <60 mL/min per 1.73m2 had body mass index <30 kg/m2, including 20% with body mass index <25 kg/m2. Progressively lower antecedent kidney function was associated with graded increases in cardiovascular death and heart failure hospitalization. Among decedents, the proportion of deaths attributed to cardiovascular causes increased from 25% in the preserved eGFR (≥90 mL/min per 1.73m2) without documented albuminuria to 32% with albuminuria and 38% with advanced kidney dysfunction (P<0.001). CONCLUSIONS: In this nationwide study of patients with incident HFpEF, antecedent kidney dysfunction was common but not uniformly present before HFpEF onset. Furthermore, among patients who developed HFpEF, antecedent kidney dysfunction identified a higher-risk phenotype, with progressively greater cardiovascular mortality and heart failure hospitalization with declining kidney function.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCHEARTFAILURE.126.015136"
+ }
+]

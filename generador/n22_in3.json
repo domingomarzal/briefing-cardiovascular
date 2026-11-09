@@ -1,0 +1,271 @@
+[
+ {
+  "idx": 7,
+  "journal": "J Am Heart Assoc",
+  "title": "BPR-30901649, An Angiotensinogen-Targeting Small Interfering RNA, Achieves Ultra-Durable Target Silencing and Sustained Blood Pressure Reduction Through 20 Weeks in Hypertensive Non-Human Primates.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Hypertension affects over 1.3 billion adults worldwide, and poor adherence to daily oral therapy contributes to inadequate blood pressure (BP) control. We characterized BPR-30901649, a liver-targeted small interfering RNA (siRNA) against angiotensinogen (AGT), hypothesizing that its optimized design would confer greater potency and durability than an advanced clinical-stage AGT siRNA benchmark. METHODS: BPR-30901649 was selected through in vitro and in vivo screening in HepG2 cells and human AGT (hAGT) transgenic mice. Off-target risk was assessed by RNA sequencing in primary human hepatocytes. Pharmacodynamics were evaluated in hAGT mice after single and repeat subcutaneous (SC) dosing, and in hypertensive cynomolgus monkeys given a single SC dose of 1.5 or 3.0 mg/kg, with serum AGT and systolic BP (SBP) monitored for 20 weeks. Investigational New Drug (IND)-enabling toxicology was conducted in rats and nonhuman primates (NHPs). RESULTS: RNA sequencing indicated low off-target risk. In hAGT mice, BPR-30901649 produced significantly deeper serum AGT knockdown than the benchmark. In hypertensive NHPs, a single SC injection produced rapid, dose-dependent, and sustained AGT suppression; at week 20, SBP remained reduced by 14.2% (20.3 mm Hg) and 17.3% (25.3 mm Hg) in the low- and high-dose groups, respectively. In repeat-dose toxicology, the no-observed-adverse-effect level was 100 mg/kg in NHPs. CONCLUSIONS: BPR-30901649 surpassed an advanced clinical-stage AGT siRNA benchmark in vivo and showed a wide preclinical safety margin, supporting its clinical development as a potential twice-yearly therapy for hypertension.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.055499"
+ },
+ {
+  "idx": 11,
+  "journal": "Ann Intern Med",
+  "title": "Timing of Long COVID Improvement in Prospectively Followed RECOVER-Adult Participants.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Long COVID (LC) is widespread; however, limited information has been reported on the likelihood that symptoms remit over time. OBJECTIVE: To evaluate the likelihood of improvement among persons with likely LC. DESIGN: Prospective, multisite cohort study (RECOVER-Adult [Researching COVID to Enhance Recovery]). SETTING: 83 U.S.-based sites across 33 states; Washington, DC; and Puerto Rico. PARTICIPANTS: 1019 persons in RECOVER-Adult with likely LC (LC Research Index [LCRI] ≥11) 12 months after first SARS-CoV-2 infection. MEASUREMENTS: The primary outcome was time until 2 consecutive study visits with LCRI less than 11. Secondary outcomes were time until LCRI measure reduced 50% or more and quality of life was good or better, and LCRI decreased to 0. Unadjusted estimates of cumulative incidence and adjusted marginal cumulative incidence by age, sex, SARS-CoV-2 wave, and LC subtype were reported across all follow-up time points. RESULTS: An estimated 36.2% (95% CI, 33.0% to 39.5%) met the primary outcome by 24 months after infection, and 50.1% (CI, 46.1% to 54.0%) met the primary outcome by 36 months. An estimated 56.4% (CI, 52.2% to 60.4%) and 26.9% (CI, 23.3% to 30.5%), respectively, met the 2 secondary outcomes by 36 months. Among persons who still reported likely LC at 18 months and 24 months after first infection, relative timing of subsequent symptom improvement was similar. LIMITATION: Findings in this observational cohort are interpretable in a population with prevalent likely LC and do not address causal relationships between individual characteristics and symptom improvement. CONCLUSION: Among persons with likely LC 12 months after initial SARS-CoV-2 infection, one half experience meaningful reductions in symptoms by 36 months, whereas a quarter experience complete remission of symptoms. These findings underscore both the potential for natural recovery and the urgent need for placebo-controlled therapeutic intervention trials. PRIMARY FUNDING SOURCE: National Institutes of Health.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.7326/ANNALS-25-05275"
+ },
+ {
+  "idx": 13,
+  "journal": "JACC Adv",
+  "title": "Development and Validation of a Prediction Model for Recurrent Atherosclerotic Cardiovascular Disease.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The definition of very high risk from the American Heart Association/American College of Cardiology 2018 and 2026 cholesterol guidelines may oversimplify heterogeneity in recurrent atherosclerotic cardiovascular disease (ASCVD) risk. OBJECTIVES: We developed a prediction model for recurrent ASCVD and compared its performance with the 2018 cholesterol guideline. METHODS: We used electronic health records from Kaiser Permanente Southern California (KPSC) for model development and the REGARDS (Reasons for Geographic and Racial Differences in Stroke) cohort for external validation. We included adults with a prior ASCVD and followed them for recurrent ASCVD or up to 10 years. We used elastic net regularization for predictor selection and a Fine-Gray subdistribution hazards model for model development. Model performance was evaluated using time-dependent area under the curve, sensitivity, and specificity compared with the 2018 guideline. RESULTS: Among 70,310 and 5,239 adults from KPSC and REGARDS, 17,344 and 1,185 experienced recurrent ASCVD during the median (Q1, Q3) follow-up of 6.1 (2.5, 10) and 8.3 (4.0, 10) years, respectively. Time-dependent area under the curves were 0.68 (95% CI: 0.66-0.69) in KPSC and 0.67 (95% CI: 0.65-0.69) in REGARDS. Compared with the 2018 guideline, using a 5-year 15% risk threshold, the model classified a similar proportion of patients as high risk and improved sensitivity from 64% (95% CI: 62%-66%) to 73% (95% CI: 71%-75%) in KPSC and from 69% (95% CI: 65%-72%) to 73% (95% CI: 69%-76%) in REGARDS; specificity remained similar in KPSC (51% and 52%) and improved in REGARDS (from 45% to 50%). CONCLUSIONS: Compared with the 2018 cholesterol guideline, the new model improves identification of individuals at very high risk of recurrent ASCVD, supporting more personalized treatment decisions.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103434"
+ },
+ {
+  "idx": 17,
+  "journal": "Circulation",
+  "title": "Leveraging AI-ECG Technology for Early Notification and Tracking of AF Development (LATENT): A Randomized Controlled Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Electrocardiographic analysis aided by artificial intelligence (AI) may identify atrial electrical vulnerability during sinus rhythm. The objective of this study was to determine whether AI-enabled ECG (AI-ECG) is effective for detecting atrial fibrillation (AF), atrial flutter (AFl), or prespecified pre-AF atrial findings in a randomized trial. METHODS: In this single-center, open-label trial, 14 665 adults 40 to 85 years of age without previous AF/AFl were randomized to an AI-ECG-guided strategy or usual care. Participants randomized to AI-ECG who were then identified by AI as having a high-risk sinus-rhythm ECG in the preceding year were offered Holter monitoring for ≤7 days. Each monitored high-risk intervention participant was paired with an age- and sex-matched control selected before control ECGs underwent AI analysis. Matched controls received identical monitoring to reduce ascertainment bias. Reporting cardiologists were blinded to AI results and randomized assignment. The primary outcome was a composite of newly detected AF, AFl, or pre-AF atrial findings within 90 days. Pre-AF atrial findings comprised frequent premature atrial complexes, short runs of premature atrial complexes, or nonsustained AF/AFl. RESULTS: Among 7337 intervention and 7328 control participants, 84 (1.1%) and 78 (1.1%), respectively, were classified as high risk. Of the 84 high-risk intervention participants, 48 (57.1%) underwent monitoring, as did 48 matched controls. The primary outcome occurred in 54 intervention participants (0.74%) versus 35 control participants (0.48%; odds ratio, 1.54 [95% CI, 1.01-2.37]; P=0.046). Hypothetical reclassification of 1 intervention event to a nonevent changed the primary analysis P value to 0.057. The intervention effect on detection of the primary composite outcome differed by baseline AI-ECG risk (Pinteraction<0.001): 32.1% versus 2.6% among high-risk participants and 0.4% versus 0.5% among low-risk participants. AF/AFl detection (0.3% versus 0.2%) and antiarrhythmic therapy initiation at 180 days (2.3% versus 2.4%) did not differ significantly between the intervention and control groups. Participant-reported monitoring-related adverse events, including skin reactions and discomfort, occurred in 22.9% of monitored intervention participants versus 18.8% of matched controls. CONCLUSIONS: AI-ECG-guided monitoring resulted in a modest increase in the detection of new AF, AFl, or pre-AF atrial findings. However, these findings were fragile statistically and sensitive to reclassification of 1 event. LATENT (Leveraging AI-ECG Technology for Early Notification and Tracking of AF Development) demonstrates the clinical application of AI-ECG risk stratification to guide targeted rhythm surveillance, providing a foundation for larger trials evaluating its impact on patient outcomes. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT06847932.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.083540"
+ },
+ {
+  "idx": 20,
+  "journal": "JACC Adv",
+  "title": "Exercise-Induced Tricuspid Regurgitation: Clinical Predictors and Hemodynamic Implications.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Exercise-induced preload/afterload changes could affect tricuspid regurgitation (TR). OBJECTIVES: The study aims to assess exercise-induced TR (exTR+), its consequences, and predictors. METHODS: Consecutive patients underwent exercise cardiac catheterization and three-dimensional echocardiography. ExTR+ was defined as a ≥1 grade increase in TR severity. RESULTS: ExTR+ occurred in 34% of 132 patients. Patients with exTR+ were older, had more atrial fibrillation, higher natriuretic peptides/heart failure with preserved ejection fraction probability scores, higher filling pressures, and lower cardiac output (P < 0.05). ExTR+ displayed greater right ventricular dilation, right atrial pressure rise, lower cardiac output, and lower oxygen consumption (P < 0.05). Exercise rather than resting TR regurgitant volume was more associated with cardiac output and oxygen consumption. Baseline TR, atrial fibrillation, and N-terminal pro-brain natriuretic peptide (OR: 1.065, 4.97, and 1.0004 per pg/mL, respectively, P < 0.05) predicted exTR+ (area under the curve: 0.91). CONCLUSIONS: ExTR+ is frequent, identifies heart failure with preserved ejection fraction-like phenotypes with a maladaptive exercise response, and adds information beyond resting TR.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103424"
+ },
+ {
+  "idx": 23,
+  "journal": "J Am Heart Assoc",
+  "title": "Healthy Sleep Mitigates the Association Between Cardiometabolic Disease and Poorer Cognitive and Brain Health.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cardiometabolic diseases (CMDs), including type 2 diabetes, heart disease, and stroke, are important risk factors for dementia. We examined whether healthy sleep can support cognitive and brain health in people with CMDs. METHODS: The study included data from 408 977 adults from the UK Biobank. CMDs were defined using medical records, medication use, and medical history. Sleep patterns were defined using a composite score incorporating sleep duration, chronotype, insomnia symptoms, snoring, and daytime sleepiness. A subsample (n=34 913) underwent brain magnetic resonance imaging; volumes of total brain, gray matter, white matter, hippocampus, and white matter hyperintensities were ascertained. Associations of joint CMD (yes/no) and sleep (healthy, intermediate, poor) status with global and domain-specific cognitive scores and brain magnetic resonance imaging measures were examined using linear regression models. RESULTS: At baseline, 54017 (13.2%) participants had at least one CMD. In joint exposure analysis, performance in global cognition (β=0.02 [95% CI, 0.01-0.05]), verbal/numeric reasoning (β=0.07 [95% CI, 0.01-0.12]), and processing speed (β=0.07 [95% CI, 0.04-0.10]) was significantly higher among individuals with CMDs and a healthy sleep pattern, compared with those with CMDs and a poor sleep pattern. Similarly, in neuroimaging analyses, participants with CMDs and a healthy versus poor sleep pattern showed significantly larger total brain volume (β=0.22 [95% CI, 0.08-0.35]), gray matter volume (β=0.23 [95% CI, 0.09-0.36]), and white matter volume (β=0.19 [95% CI, 0.05-0.33]). CONCLUSIONS: Healthy sleep may attenuate the associations of CMDs with poorer cognitive performance and markers of brain atrophy. The findings highlight sleep as a modifiable factor that may support cognitive and brain health in individuals with CMDs.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.051940"
+ },
+ {
+  "idx": 25,
+  "journal": "J Am Heart Assoc",
+  "title": "Delays From Clinical Manifestations to Diagnosis of Transthyretin Amyloid Cardiomyopathy: A National Retrospective Cohort Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Transthyretin amyloid cardiomyopathy (ATTR-CM) is a progressive, life-threatening condition. Timely and accurate diagnosis remains a challenge. We assessed time from first recorded clinical manifestation to ATTR-CM diagnosis in the United States and characterized manifestations associated with diagnostic delays. METHODS: Retrospective analysis of US claims data (Komodo Healthcare Map, July 1, 2016-June 30, 2024). Patients were required to have ≥3 years of continuous enrollment before diagnosis. RESULTS: Among 7509 patients, mean age 75.9 years, 63.2% male, 54.5% White, and 28.6% Black. Patients had a median of 8 manifestations before diagnosis; median observed time from first recorded manifestation to diagnosis was 5.2 years, shorter for variant versus wild-type ATTR-CM (4.4 versus 5.2 years). Within 3 years before diagnosis, patients had a mean of 12.04 (95% CI, 11.75-12.35) primary care physician visits and 14.45 (95% CI, 14.10-14.80) specialists of interest visits, most commonly with cardiologists and ophthalmologists. In adjusted analyses, variant ATTR-CM was associated with shorter time to diagnosis (β, -0.41 years [95% CI, -0.56 to -0.26]), whereas comorbidities, including hypertension (β, 0.46 years [95% CI, 0.27-0.64]), were associated with longer delays. CONCLUSIONS: The diagnostic trajectory for ATTR-CM can be prolonged and challenging, leading to more advanced disease at diagnosis and increased burden. Raising awareness may provide an opportunity for earlier diagnosis.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.048942"
+ },
+ {
+  "idx": 27,
+  "journal": "Nat Rev Cardiol",
+  "title": "Cardiac and vascular involvement in protein misfolding diseases.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Protein misfolding diseases impose a substantial and often under-recognized burden on both the heart and vasculature. In this Review, we outline how the failure of proteostasis drives oligomer toxicity, amyloid deposition and inflammation in cardiovascular tissues as well as microvascular injury and thrombosis, which culminate in cardiovascular dysfunction. We define the cardiovascular hallmarks of protein misfolding diseases, focusing on transthyretin amyloidosis and immunoglobulin light chain amyloidosis, and the disease-specific organ tropisms. We examine neurodegenerative proteinopathies affecting the heart-vascular-brain axis, highlighting how amyloid-β and α-synuclein accumulation contribute to dysautonomia, vascular dysfunction and adverse outcomes. We summarize diagnostic pathways and clinical indicators for early diagnosis of cardiovascular involvement in protein misfolding diseases and review established and emerging biomarkers of vascular stress and proteotoxic load. We also map the current therapeutic landscape for protein misfolding diseases, including strategies to reduce the synthesis of precursor proteins or promote the stabilization of mature proteins as well as fibril-directed therapies, and discuss remaining challenges, such as residual cardiovascular risk, that support the development of mechanism-informed therapeutic approaches. Finally, we propose a research roadmap that prioritizes systematic cardiovascular screening in at-risk populations, harmonized methods for vascular phenotyping, biomarker-anchored mechanistic clinical trials across protein misfolding diseases, and artificial intelligence-based approaches and precision medicine frameworks that integrate genotype or distinct protein conformational strain patterns, organ tropism and dynamic proteostasis measures.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s41569-026-01359-8"
+ },
+ {
+  "idx": 28,
+  "journal": "Rev Esp Cardiol (Engl Ed)",
+  "title": "Prevalence, clinical implications and prognostic impact of frailty and other geriatric conditions in patients with transthyretin amyloid cardiomyopathy.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "INTRODUCTION AND OBJECTIVES: Frailty in transthyretin amyloid cardiomyopathy (ATTR-CM) remains poorly characterized. The aim of this study was to analyze the prevalence and prognostic influence of frailty and other geriatric conditions such as nutritional risk, cognitive status, depression, and dependence in patients with ATTR-CM. METHODS: We performed an observational, prospective, single-center study of 110 ATTR-CM patients who underwent comprehensive geriatric assessment from October 2024 to April 2025 and were followed up to September 2026. Study endpoints were all-cause death and the combined event of all-cause death or worsening heart failure. Outcomes were assessed by the Kaplan-Meier method and multivariable Cox regression. RESULTS: The prevalence of frailty, based on 4 different criteria, varied from 32.7% to 62.7%. Dependence, depression, nutritional risk, and cognitive impairment were detected in up to 70.9%, 29.1%, 27.3%, and 15.5% of patients, respectively. Frailty, defined as a Clinical Frailty Scale > 4, a Survey of Health, Ageing and Retirement in Europe-Frailty Instrument > 2, or a Short Physical Performance Battery < 10, was independently associated with an increased risk of both study outcomes. Dependence (Katz index < 6) and cognitive impairment (Mini Examen Cognitivo score < 23) were also independent predictors of both outcomes. Frailty diagnosis showed incremental prognostic value when added to United Kingdom National Amyloidosis Centre stages. CONCLUSIONS: Frailty is frequent in patients with ATTR-CM and is associated with impaired clinical outcomes.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.rec.2026.10.006"
+ },
+ {
+  "idx": 29,
+  "journal": "Eur Heart J",
+  "title": "Heart failure therapy in congenitally corrected transposition of the great arteries: effect on right ventricular function and survival.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: The aim of the study was to assess the effect of guideline-directed medical therapy (GDMT) on cardiac function, neurohormonal activation, and mortality in adults with congenitally corrected transposition of the great arteries (cc-TGA) presenting with systemic right ventricular (RV) systolic dysfunction. The study hypothesis was that GDMT use (assessed using the GDMT score) was associated with improved cardiac function (higher RV free wall strain [RVFWS]), less neurohormonal activation (lower N-terminal pro-B-type natriuretic peptide [NT-proBNP] levels), and lower mortality. METHODS: GDMT score, RVFWS, and NT-proBNP levels were assessed at baseline and 1-year follow-up. GDMT uptitration was assessed using ΔGDMT (GDMT at 1-year minus GDMT at baseline). Improvements in RV systolic function and neurohormonal activation were defined as a relative increase in RVFWS of >20% and a relative decrease in NT-proBNP levels of >20%, respectively. RESULTS: Of 213 patients (age 43 ± 15 years; 54% male), baseline GDMT score was 1.97 ± 1.27, and ΔGDMT score was 0.74 ± 0.39. Baseline RVFWS was -18 ± 5%; 25% had improved RV systolic function. Baseline NT-proBNP was 369 (142, 1004) pg/mL; 56% had improved neurohormonal activation. Higher baseline GDMT score and ΔGDMT score were associated with improvement in RV systolic function and neurohormonal activation. Overall, 34 (16%) patients died, and higher baseline GDMT score and ΔGDMT score were associated with a lower risk of mortality and of the composite adverse event endpoint (heart failure hospitalization, death, and heart transplantation). Clinical benefits of GDMT use were observed only in patients with moderate/severe RV systolic dysfunction, and not in patients with mild RV systolic dysfunction. CONCLUSIONS: GDMT use was associated with improved outcomes in patients with moderate/severe RV systolic dysfunction.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurheartj/ehag854"
+ },
+ {
+  "idx": 32,
+  "journal": "Circ Cardiovasc Interv",
+  "title": "Effectiveness of Radiofrequency Renal Denervation in the United States: Six-Month Primary End Point Results From the SPYRAL AFFIRM Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Radiofrequency renal denervation (RDN) is a guideline-recommended therapy for uncontrolled hypertension. SPYRAL AFFIRM is a single-arm, postapproval study assessing the efficacy and safety of radiofrequency RDN using the Symplicity Spyral catheter. We report the 6-month primary end point results in the SPYRAL AFFIRM US population. METHODS: Enrolled patients had an office systolic/diastolic blood pressure (BP) ≥140/90 mm Hg and a home systolic BP ≥135 mm Hg. Patients with type 1 diabetes, poorly controlled type 2 diabetes (HbA1c >8.0%), or an estimated glomerular filtration rate <45 mL/min per 1.73 m2 were excluded. The primary end point was the 6-month change in office systolic BP from baseline compared with a prespecified performance goal (-6.0 mm Hg). RESULTS: Among 594 patients treated in the AFFIRM study from 73 US clinical sites, baseline clinical characteristics included: mean (±SD) age, 57±12 years; female, 45%; African American, 27%; Hispanic, 11%; type 2 diabetes, 19%; and mean estimated glomerular filtration rate, 79±20 mL/min per 1.73m2. Baseline systolic/diastolic office, home, and 24-hour ambulatory BP (mm Hg) were 169±21/106±13, 158±17/101±13, and 151±18/96±13, respectively. Patients were prescribed an average of 3.6±2.0 antihypertensive medications at baseline that remained unchanged through 6 months. Six months after RDN, the change in systolic BP (mm Hg) was -18.2±22.0, -9.4±13.8, and -9.7±16.8 for office, home, and 24-hour ambulatory measures, respectively (P<0.001 compared with baseline). Adverse clinical events through 6 months were uncommon. CONCLUSIONS: In this US postapproval study, the primary end point was met with significant BP reductions following radiofrequency RDN consistent across different measures. In a broader patient population with uncontrolled hypertension, these results reaffirm the safety and efficacy of radiofrequency RDN. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT05198674.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCINTERVENTIONS.126.017422"
+ },
+ {
+  "idx": 37,
+  "journal": "JACC Adv",
+  "title": "The Impact of Clinical and Biochemical Frailty on Outcomes following Transcatheter Aortic Valve Replacement.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Frailty results from declining reserve and function and is a modifiable cardiovascular risk-factor. Despite this, there is limited evidence surrounding its role in lower-risk TAVR cohorts. OBJECTIVES: This study aimed to evaluate frailty among contemporary TAVR patients, delineate the impact of biochemical and clinical frailty, and understand its additive value to existing risk-prediction tools. METHODS: Analysis of a multicenter Australian registry. Biochemical frailty (BF) was defined as serum albumin <35 g/L and clinical frailty (CF) as a Rockwood Clinical Frailty Scale ≥5. Patients meeting BF or CF criteria were categorized as frail. RESULTS: Of the 2,661 patients, the median age 82 (IQR: 77-86), 60% male, and median STS 3.3 (2-5.2), 920 patients (35%) were considered frail. A total of 171 (19%) of frail patients fulfilled both BF and CF criteria. The frail group was older (83 vs 81, P < 0.001), more females (43% vs 38%; P = 0.016) with higher STS scores (4 vs 3, P < 0.001). Kaplan-Meier analysis showed a stepwise increase in 12-month mortality with increasing frailty (no frailty 4% vs BF or CF 7% vs BF + CF 16%, Log-rank P < 0.001). In Cox proportional hazards regression BF or CF (adjusted HR: 1.6; 95% CI: 1.0-2.4; P = 0.033) and BF + CF (adjusted HR: 3.3; 95% CI: 1.9-5.6; P < 0.001) independently predicted 12-month mortality. Addition of frailty to STS Score improved mortality prediction (area under the receiver-operating characteristic curve: 0.608 vs 0.664; DeLong's P = 0.021), with Shapley analysis demonstrating significant contribution from frailty. CONCLUSIONS: Frailty is common with significant implications in TAVR. Patients with biochemical and clinical frailty criteria are highest risk. Development of strategies to address frailty is critical.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103416"
+ },
+ {
+  "idx": 38,
+  "journal": "Lancet",
+  "title": "Long-term outcomes after percutaneous coronary intervention with drug-eluting stents versus coronary artery bypass grafting for left main coronary artery disease: a prospective analysis of the multicentre IRIS-MAIN registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Percutaneous coronary intervention (PCI) with drug-eluting stents has been widely used to treat patients with left main coronary artery disease; however, long-term comparative outcomes versus coronary artery bypass grafting (CABG) in real-world populations remain poorly characterised. We aimed to compare long-term all-cause mortality after PCI or CABG in Asian patients with unprotected left main coronary artery disease. METHODS: We analysed prospectively collected data from the multicentre IRIS-MAIN registry, conducted at 46 hospitals in South Korea, India, Japan, Indonesia, and Malaysia. The registry enrolled adults aged 18 years or older with unprotected left main coronary artery disease (defined as a stenosis diameter of ≥50% as visually estimated on angiography), who had been treated with PCI, CABG, or medical therapy alone. The primary outcome was all-cause mortality. We used a target trial emulation framework to compare the long-term risk of all-cause mortality between PCI with drug-eluting stents and isolated CABG. We used propensity-score overlap weighting to adjust for measured baseline covariates. The IRIS-MAIN Registry study is registered with ClinicalTrials.gov (NCT01341327). FINDINGS: Between Jan 1, 2003, and Dec 31, 2024, 6900 patients were enrolled in the IRIS-MAIN registry, of whom 5379 (78·0%) underwent coronary revascularisation through either PCI with drug-eluting stents (3836 [71·3%]) or CABG (1543 [28·7%]) and were included in the analysis. The median duration of follow-up for all patients was 10·0 years (IQR 5·0-16·7). In the overlap-weighted population, no statistically detectable difference in 10-year weighted Kaplan-Meier rates of all-cause mortality was observed between PCI and CABG (24·0% vs 22·9%; overlap-weighted hazard ratio 1·00 [95% CI 0·87-1·14]; p=0·99). The confidence interval does not exclude a mortality benefit or harm with either strategy. INTERPRETATION: In this non-randomised registry analysis of patients with left main coronary artery disease, there was no statistically detectable difference in all-cause mortality between PCI and CABG. For patients considered suitable for either strategy, multidisciplinary Heart Team discussion might help patients and clinicians weigh potential trade-offs in the choice between PCI and CABG. These findings are observational and cannot establish causal treatment effects or equivalence in survival. FUNDING: The CardioVascular Research Foundation (South Korea).",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1016/S0140-6736(26)02104-5"
+ },
+ {
+  "idx": 42,
+  "journal": "N Engl J Med",
+  "title": "TAVR in Patients with Moderate Aortic Stenosis with At-Risk Features.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: For patients with moderate aortic stenosis, current guidelines recommend clinical surveillance with echocardiographic assessment every 1 or 2 years. Whether transcatheter aortic-valve replacement (TAVR) will improve outcomes in these patients remains unknown. METHODS: We conducted an international, open-label, randomized trial to evaluate whether TAVR will result in better outcomes than clinical surveillance among patients with moderate aortic stenosis with at least one at-risk feature (i.e., a symptom or structural or functional abnormality that has been shown to be associated with faster disease progression or adverse cardiovascular outcomes). The patients were assigned in a 1:1 ratio to undergo transfemoral TAVR with a balloon-expandable valve or clinical surveillance. The primary effectiveness end point was a composite of death from any cause or a heart-failure event with or without hospitalization at 2 years. Superiority testing was performed in the intention-to-treat population. RESULTS: A total of 744 patients underwent randomization: 373 patients were assigned to the TAVR group and 371 to the clinical-surveillance group. The mean age of patients was 78 years, 39.1% were women, and 45.6% were at low surgical risk. The mean aortic-valve area was 1.2 cm2, and the mean aortic-valve peak velocity was 3.3 m per second. At 2 years, the Kaplan-Meier estimate of the percentage of patients with a primary effectiveness end-point event was 16.7% in the TAVR group and 23.9% in the clinical-surveillance group (risk difference, -7.2 percentage points; 95% confidence interval, -13.1 to -1.3; P = 0.02 for superiority). The Kaplan-Meier estimate of the percentage of patients who died from any cause was 8.4% in the TAVR group and 7.3% in the clinical-surveillance group; the estimates for a heart-failure event were 10.8% and 19.0%, respectively. The incidence of procedure-related adverse events did not differ meaningfully between the patients in the TAVR group and those in the clinical-surveillance group who underwent aortic-valve replacement. CONCLUSIONS: Among patients with moderate aortic stenosis and at-risk features, a strategy of TAVR was superior to clinical surveillance in lowering the incidence of death or a heart-failure event at 2 years. (Funded by Edwards Lifesciences; PROGRESS ClinicalTrials.gov number, NCT04889872.).",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1056/NEJMoa2607326"
+ },
+ {
+  "idx": 51,
+  "journal": "Europace",
+  "title": "Controversy: Atrial fibrillation ablation should be performed in patients with HFpEF.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "The role of atrial fibrillation (AF) ablation in the management of heart failure with preserved ejection fraction (HFpEF) remains an under investigated issue with no robust clinical trials data. This controversy reviews the evidence for and against AF ablation in this complex condition from two different perspectives reviewing mechanistic and observational evidence aswell as proposing future directions for research in the field.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag313"
+ },
+ {
+  "idx": 52,
+  "journal": "J Am Heart Assoc",
+  "title": "Smart Alerting in Smartphone-Based First Responder Systems and Arrival Before Emergency Medical Services:The ALARM Randomized Clinical Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Smartphone alerting systems (SAS) aim to increase the proportion of out-of-hospital cardiac arrest (OHCA) cases in which a community first responder (CFR) arrives before emergency medical services (EMS). Many use fixed-radius alerts and ignore estimated arrival times. We compared different alerting strategies to maximize CFR arrival before EMS. METHODS: In a prospective, randomized three-arm trial, smart alerting (SMA) was compared with fixed-radius strategies (600 m and 2500 m). The primary endpoint was the rate of CFR arrival before EMS. In the SMA arm, responders were dispatched based on individually estimated travel times versus expected ambulance time. Binary endpoints were analyzed using chi-square tests, reporting risk differences and 95% confidence intervals; continuous endpoints used non-parametric tests. RESULTS: Across 823 activations, 1482 CFR were dispatched. CFR arrived before EMS in 31%, 57%, and 58% of missions in the 600 m, 2500 m, and SMA groups, respectively. Compared with the 600 m strategy, SMA increased pre-EMS arrival (risk difference +26.8%, 95% CI 18.6-34.4; p < 0.001), whereas no significant difference was observed compared with the 2500 m strategy (risk difference +1.2%, 95% CI -7.0-+9.3; p = 0.80). Response rates were 56%, 83%, and 87%, respectively. In the SMA group, 31% of accepting CFR were excluded because predicted arrival exceeded EMS arrival. Response times were longer with smart alerting reflecting greater dispatch distances. CONCLUSIONS: Smart alerting increased the likelihood of CFR arriving before EMS while reducing dispatches unlikely to achieve pre-EMS arrival. Further research should evaluate its impact on patient outcomes.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.051900"
+ },
+ {
+  "idx": 69,
+  "journal": "BMJ",
+  "title": "Thoracic epidural versus paravertebral blockade for reducing chronic post-thoracotomy pain (TOPIC-2): open label, parallel group, superiority, multicentre, randomised controlled trial.",
+  "ptypes": [
+   "Journal Article",
+   "Multicenter Study",
+   "Equivalence Trial",
+   "Randomized Controlled Trial",
+   "Comparative Study"
+  ],
+  "abstract": "OBJECTIVES: To evaluate the effectiveness of paravertebral blockade versus thoracic epidural during the perioperative period in reducing chronic post-thoracotomy pain. DESIGN: Open label, parallel group, superiority, multicentre, randomised controlled trial. SETTING: 15 thoracic centres in the UK. PARTICIPANTS: Adult patients undergoing thoracotomy randomised (1:1) to either paravertebral blockade or thoracic epidural using a web based service between January 2019 and September 2023. INTERVENTIONS: Participants in the paravertebral group received three single-shot paravertebral injections of local anaesthetic before incision followed by placement of a paravertebral catheter. Participants in the epidural group had a thoracic epidural catheter placed and loaded with local anaesthetic before incision. MAIN OUTCOME MEASURE: The primary outcome was incidence of chronic post-thoracotomy pain at six months after randomisation, defined as a 100 mm visual analogue score greater than or equal to 40 mm (indicating moderate pain) when considering worst chest pain over the past week. Secondary outcomes included acute pain (visual analogue score of 100 mm) and complications. RESULTS: 770 patients were enrolled, of which 428 (56%) were male (mean (standard deviation, SD) age 66.6 (11.0) years). After 33 exclusions of patients after randomisation who did not proceed to thoracotomy, 737 remained in the modified intention-to-treat population (364 in the paravertebral group, 373 in the epidural group). Six months after randomisation, 59 (22%) of 272 participants in the paravertebral group and 47 (16%) of 292 participants in the epidural group developed chronic post-thoracotomy pain (adjusted risk ratio 1.32 (95% confidence interval (CI) 0.93 to 1.86), adjusted risk difference 0.05 (95% CI -0.01 to 0.11), P=0.12). During the acute phase, worst and average pain was greater on day 1 with paravertebral blockade (adjusted mean difference 7.7 mm (95% CI 2.8 to 12.5 mm) and 7.0 mm (95% CI 2.7 to 11.2 mm), respectively), but no different on days 2-3. Hypotension was less common in the paravertebral group than the epidural group (12% v 18%, respectively, adjusted risk ratio 0.66 (95% CI 0.46 to 0.94), adjusted risk difference -0.06 (95% CI -0.11 to -0.01)), as was pruritis (4% v 12%, adjusted risk ratio 0.37 (95% CI 0.21 to 0.64), adjusted risk difference -0.07 (95% CI -0.11 to -0.03)), although more participants in this group experienced urinary retention (12% v 6%, adjusted risk ratio 2.21 (95% CI 1.35 to 3.61), adjusted risk difference 0.05 (95% CI 0.01 to 0.09)), complications were similar otherwise. CONCLUSIONS: Paravertebral blockade did not reduce chronic post-thoracotomy pain at six month follow-up compared to thoracic epidural. Thoracic epidural provided marginally better acute pain relief one day after the operation, but showed no difference thereafter. Postoperative complications were comparable between groups. The findings support the ongoing use of both techniques. TRIAL REGISTRATION: ClinicalTrials.gov NCT03677856.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1136/bmj-2026-101114"
+ },
+ {
+  "idx": 70,
+  "journal": "JACC Clin Electrophysiol",
+  "title": "Electrocardiographic and Echocardiographic Markers of Atrial and Ventricular Remodeling Allow Identification of Cardiac Sarcoidosis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cardiac sarcoidosis (CS) is a rare but life-threatening manifestation of systemic sarcoidosis. Although positron emission tomography-computed tomography (PET-CT) and cardiac magnetic resonance imaging provide high diagnostic accuracy, they are unsuitable for first-line screening. Widely available modalities such as electrocardiography (ECG) and transthoracic echocardiography (TTE) focusing only on ventricular abnormalities show limited sensitivity. OBJECTIVES: This study aims to evaluate whether a combined diagnostic model integrating ECG and TTE parameters, emphasizing atrial and ventricular remodeling, can accurately identify patients with CS. METHODS: We prospectively included 252 consecutive patients with biopsy-proven sarcoidosis. CS was defined by characteristic findings on PET-CT or cardiac magnetic resonance imaging. A comprehensive set of atrial and ventricular ECG and TTE parameters was analyzed. Diagnostic models were constructed using univariable and multivariable logistic regression, and discriminative performance was assessed. RESULTS: CS was identified in 37 (14.7%) patients. On ECG, prolonged P-wave duration, prolonged QRS duration, and reduced T-wave amplitude in lead aVR were independently associated with CS. On TTE, increased left atrial volume index, increased left ventricular end-diastolic diameter, and impaired left ventricular global longitudinal strain emerged as significant predictors. ECG- and TTE-based models showed comparable discrimination for CS identification (area under the receiver operating characteristic curve: 0.87 for both). A combined ECG/TTE model, driven primarily by QRS duration, left atrial volume index, and left ventricular global longitudinal strain, achieved the highest diagnostic performance (area under the receiver operating characteristic curve: 0.90). CONCLUSIONS: An exploratory multimodal, noninvasive approach integrating atrial and ventricular ECG and TTE markers provides high diagnostic accuracy for identifying CS and may serve as a pragmatic screening and triage tool to guide referral for advanced cardiac imaging. Clinical Trial Registration DRKS00031557 on drks.de (German Clinical Trials Register).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacep.2026.10.001"
+ },
+ {
+  "idx": 72,
+  "journal": "Eur Heart J Cardiovasc Imaging",
+  "title": "Flow dynamics and systemic arterial stiffness distinguish bicuspid aortic valve aortopathy from heritable thoracic aortic disease.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Bicuspid aortic valve-associated aortopathy (BAVA) and heritable thoracic aortic disease (HTAD) share clinical manifestations but may represent distinct pathophysiological entities. We aimed to compare morphological and haemodynamic profiles between both groups using cardiovascular magnetic resonance imaging (CMR) and non-invasive systemic haemodynamic assessment. METHODS AND RESULTS: A total of 185 patients (111 BAVA, 74 HTAD) were prospectively enrolled. CMR 4D-flow assessed aortic distensibility (ADCMR), pulse wave velocity (PWVCMR), global wall shear stress (WSSCMR) and energy loss (ELCMR). Oscillometry assessed systemic PWVM, augmentation index (AIxM) and systemic vascular resistance (SVRM). Composite adverse aortic events (AAE) comprised acute aortic syndrome, cardiovascular death or guideline diameter-based indication for surgery over 42.1±17.6 months. BAVA showed greater tubular ascending aorta and sinotubular junction dilation, ascending aorta WSSCMR (0.42±0.18 vs 0.28±0.12 Pa, p=0.020), ELCMR (19.8±8.4 vs. 12.3±6.1 mW, p<0.001) and ADCMR (6.1 ± 3.5 vs. 4.8 ± 2.9 ×10-3 mmHg-1, p=0.023), yet lower systemic stiffness than HTAD (PWVM 6.2±1.7 vs 7.8±2.1 m/s; AIxM 12.1±7.6 vs 18.4±9.2%; both p<0.001). AAE rates were similar. In exploratory aetiology-specific analyses, ascending aorta WSSCMR was associated with events in BAVA (HR 8.92, 95% CI 2.85-27.95) and systemic PWVM in HTAD (HR 2.16, 95% CI 1.30-3.57). CONCLUSION: BAVA and HTAD show distinct morphological and haemodynamic phenotypes: BAVA with focal dilation, elevated WSSCMR/ELCMR and preserved systemic function; HTAD with reduced local distensibility and greater systemic stiffness. These aetiology-specific predictors are exploratory and require external validation.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/ehjci/jeag306"
+ },
+ {
+  "idx": 92,
+  "journal": "Circulation",
+  "title": "Performance of the PREVENT-HF Equations Across Heart Failure Subtypes in Community-Based and Ambulatory Healthcare Samples.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The PREVENT-HF equations estimate 10-year risk of overall heart failure (HF), inclusive of both HF with preserved and reduced ejection fraction (HFpEF; HFrEF). Given differential risk factor profiles, pathophysiology, and therapeutic strategies for each HF subtype, we sought to examine the performance of PREVENT-HF for subtype-specific risk assessment. METHODS: We included data from five pooled longitudinal cohort studies (baseline exam 1989 to 2013) and two longitudinal primary-care electronic health record-based samples (Beth Israel Deaconess Medical Center [BIDMC], baseline 2004 to 2014; Mass General Brigham [MGB], baseline 2001 to 2018). We assessed the performance of the PREVENT-HF equations in predicting 10-year incident HFrEF and HFpEF, including model discrimination (area under the receiver operating characteristic curve [AUROC]; average precision [AP]/event rate) and calibration (integrated calibration index [ICI]), in adults aged 30-79 years without prevalent cardiovascular disease or HF. RESULTS: The pooled cohort studies included 23,652 (55% women, age 60 ± 13 years), of whom 1,232 developed HF (432 [35%] HFpEF, 522 [42%] HFrEF). The BIDMC sample included 29,815 (55% women, 50 ± 13 years), of whom 259 (1%) developed HF (133 [51%] HFpEF, 101 [39%] HFrEF). MGB included 138,999 (62% women, 52 ± 13 years), of whom 1050 developed HF (586 [56%] HFpEF, 381 [36%] HFrEF). PREVENT-HF demonstrated better discrimination for HFpEF than HFrEF across all samples: in the pooled cohorts, the AUROC for HFpEF was 0.824 (95% CI 0.807, 0.839) versus 0.789 (95% CI 0.770, 0.807) for HFrEF; in BIDMC, the AUROC for HFpEF was 0.897 (95% CI 0.874, 0.918) versus 0.833 (95% CI 0.791, 0.869) for HFrEF; in MGB, the AUROC for HFpEF was 0.864 (95% CI 0.848, 0.880) versus 0.797 (95% CI 0.771, 0.820) for HFrEF. Similar results were reflected in the AP/event rate ratios: 2.92 (95% CI 2.47, 3.54) for HFpEF compared to 2.66 (95% CI 2.33, 3.14) for HFrEF in the pooled cohorts; 8.08 (95% CI 6.12, 12.30) for HFpEF compared to 5.12 (95% CI 3.84, 8.17) for HFrEF in BIDMC; and 6.84 (95% CI 5.66, 8.28) for HFpEF compared to 4.12 (95% CI 3.37, 5.16) for HFrEF in MGB. Calibration was similar for HFpEF and HFrEF across samples. For example, in the pooled cohorts, the ICI for HFpEF was 0.041 (95% CI 0.039, 0.043) and for HFrEF was 0.038 (95% CI 0.036, 0.040). CONCLUSIONS: PREVENT-HF demonstrated excellent discrimination for both HF subtypes across community-based cohorts and real-world samples, with consistently better discrimination for HFpEF as compared to HFrEF. Given PREVENT-HF was developed to estimate overall HF risk rather than subtype-specific risk, future studies are needed to establish subtype-specific risk thresholds.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.083383"
+ },
+ {
+  "idx": 96,
+  "journal": "Circ Cardiovasc Interv",
+  "title": "Impact of CKD and Hemodialysis on Treatment of Severely Calcified Lesions: The ECLIPSE Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Background: Chronic kidney disease (CKD) and coronary calcification increase risk for adverse events following drug-eluting stent (DES) implantation. We evaluated whether outcomes following vessel preparation with orbital atherectomy (OA) versus balloon angioplasty (BA) vary according to CKD. Methods: This pre-specified CKD sub-analysis of the prospective, multicenter ECLIPSE trial evaluated 2,001 patients with severely calcified lesions randomized to OA versus BA prior to DES. Independent predictors of two-year target-vessel failure (TVF)-a composite of cardiac death, target-vessel myocardial infarction (TV-MI), or ischemia-driven target-vessel revascularization (ID-TVR)-were determined using multivariable Cox proportional hazards modeling. Results: CKD (eGFR <60 mL/min/1.73m² or hemodialysis) was present in 694 (34.7%) patients; 112 required hemodialysis. Two-year TVF was significantly higher with versus without CKD (21.2% vs. 11.6%; p<0.001), driven by increased cardiac death and ID-TVR. Hemodialysis independently predicted TVF (adjusted HR 2.14, 95% CI 1.30-3.53; p=0.003), whereas reduced eGFR alone did not (p=0.070). In patients on hemodialysis, OA versus BA was associated with higher rates of TVF (52.3% vs. 30.7%; adjusted HR 2.50, 95% CI 1.16-5.41; P=0.020), driven by higher rates of TV-MI and ID-TVR, whereas TVF was similar after OA versus BA in patients not on hemodialysis (13.5% vs. 13.1%; adjusted HR 1.05, 95% CI 0.81-1.35; P=0.730); however, the interaction between treatment assignment and hemodialysis status was not significant (Pint=0.244). Conclusions: CKD remains a major predictor of adverse outcomes after DES implantation in severely calcified lesions, with the highest risks in patients on hemodialysis. In the ECLIPSE trial, higher two-year rates of TVF were observed after vessel preparation with OA compared with BA in patients on hemodialysis but not in patients with CKD not on hemodialysis or in those without CKD. Given the modest hemodialysis subgroup size and non-significant interaction testing, confirmation of these findings in additional studies is warranted.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCINTERVENTIONS.126.017556"
+ },
+ {
+  "idx": 105,
+  "journal": "Circ Heart Fail",
+  "title": "Exercise Right Atrial Stiffness From Pressure-Volume Loops and Prognosis in Pulmonary Hypertension.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: In pulmonary hypertension (PH), risk assessment focuses on right ventricular function and may overlook exercise-related right atrial (RA) functional limitation. We investigated whether RA stiffness during exercise reflects impaired right-heart filling reserve and is associated with prognosis beyond conventional measures. METHODS: We prospectively enrolled 68 participants in this observational study, including 42 with precapillary PH. Participants who had PH ruled out and patients with postcapillary PH formed reference groups. Participants underwent 3-dimensional echocardiography, right heart catheterization, and invasive RA pressure-volume loop analysis at rest and during standardized semisupine exercise. RA filling stiffness was derived from the reservoir phase. Patients with precapillary PH were stratified by median exercise RA filling stiffness. RESULTS: At rest, high- and low-stiffness groups had comparable right ventricular function, afterload, and cardiac index, but the high-stiffness group exhibited impaired phasic RA strain and venous congestion (median [interquartile range] liver stiffness, 7.1 [6.0-8.8] versus 5.2 [4.8-5.8] kPa; P=0.021). During exercise, mean RA pressure increased similarly, but the high-stiffness group had impaired peak cardiac index (3.3±1.0 versus 4.1±0.9 L/min per m2; P=0.015) and RA strain. Unlike resting RA stiffness, high exercise RA stiffness was independently associated with mortality (adjusted hazard ratio, 4.37 [95% CI, 1.20-15.96]). A model including RA conduit strain and right ventricular functional reserve discriminated high RA stiffness (area under the receiver operating characteristic curve, 0.90). CONCLUSIONS: RA stiffness during exercise integrates resting congestion with limited cardiac reserve and unmasks mortality risk missed by resting metrics. RA conduit strain and right ventricular functional reserve noninvasively identify the high-stiffness subgroup.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCHEARTFAILURE.126.014761"
+ }
+]
