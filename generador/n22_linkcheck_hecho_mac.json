@@ -1,0 +1,17 @@
+{
+ "numero": "N22",
+ "fecha": "2026-11-09",
+ "revisados_en_chrome": 47,
+ "total": 48,
+ "rotos_page_not_found": [
+  "a31",
+  "a33",
+  "a34",
+  "a36",
+  "a38"
+ ],
+ "corregidos": "enlaces_directos.py 22 --pii a31 a33 a34 a36 a38 -> sciencedirect; regenerado y republicado",
+ "sin_verificar": {
+  "a25": "sciencedirect.com se quedó en el reto de Cloudflare («Just a moment...») dos veces; Chrome se cerró al leer la página"
+ }
+}
