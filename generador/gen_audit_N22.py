@@ -25,7 +25,7 @@ for s in _selraw:
     if not s.get("pmid"):
         s["pmid"] = _recuperados.get(s["title"], "CR:" + s["key"])
 sel = {s["pmid"]: s for s in _selraw}
-DEST = "a11"; TOP3 = ("a6", "a13", "a44")
+DEST = "a11"; TOP3 = ("a6", "a44", "a13")
 SECN = {1: "Cardiología preventiva", 2: "Cardiometabolismo", 3: "Dislipemia", 4: "Cardiopatía isquémica",
         5: "Insuficiencia cardíaca", 6: "Miocardiopatías", 7: "Valvulopatías", 8: "Imagen cardíaca",
         9: "Cardiología intervencionista", 10: "Arritmias y electrofisiología"}
@@ -145,9 +145,9 @@ head = re.sub(r'Reglas de selección \(N\d+\)\.', 'Reglas de selección (N22).',
 NOTA_TOP3 = ('<p class="intro" style="margin-top:10px;"><b>Nota sobre la selección de N22.</b> '
  'Semana del congreso <b>AHA Scientific Sessions 2026</b>. '
  '<b>Los titulares de «No te los puedes perder» son decisión editorial del Dr. Marzal</b> (9-nov-2026): '
- 'entran <b>STREAM</b> —retirada de la estatina de prevención primaria en mayores de 70 años '
- '(<i>N Engl J Med</i>, a13, 8,01)— y <b>OptimPacing</b> —estimulación de la rama izquierda frente a '
- 'estimulación ventricular derecha en el bloqueo auriculoventricular (<i>N Engl J Med</i>, a44, 8,68)—, '
+ 'entran <b>OptimPacing</b> —estimulación de la rama izquierda frente a estimulación ventricular '
+ 'derecha en el bloqueo auriculoventricular (<i>N Engl J Med</i>, a44, 8,68)— y <b>STREAM</b> '
+ '—retirada de la estatina de prevención primaria en mayores de 70 años (<i>N Engl J Med</i>, a13, 8,01)—, '
  'en lugar del TAVI en la estenosis aórtica moderada con rasgos de riesgo (a29, 8,90) y de '
  '<b>OPTIMAL-STROKE</b> (a1, 8,73), que por la rúbrica ocupaban esos dos puestos. El ★ Destacado sigue '
  'siendo <b>Lp(a)HORIZON</b> (a11, 9,65), el primero por puntuación. La ponderación de todos los '
