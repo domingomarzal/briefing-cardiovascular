@@ -1,0 +1,358 @@
+{
+ "numero": "N22",
+ "periodo": "2 al 8 de noviembre de 2026",
+ "generado": "2026-11-09T12:34:12Z",
+ "motivo": "nube",
+ "explicacion": "La verificación visual de enlaces del PASO 7b NO se puede completar desde la nube: no hay navegador real y la política de red del entorno deniega el CONNECT a doi.org, jacc.org, sciencedirect.com, nejm.org y ahajournals.org. Lo que SÍ se hizo aquí: enlaces_directos.py (0 enlaces por linkinghub) y la validación por Crossref de los 48 DOI, uno a uno con curl individual, todos HTTP 200 y con el título registrado concordante (los 17 avisos de «DOI NO REGISTRADO» de check_links.py eran los falsos positivos por rate-limiting que describe la SKILL). Queda pendiente abrir los 48 en el Chrome real y marcar con --pii los que den «Page Not Found».",
+ "que_hacer_en_el_mac": [
+  "python3 generador/revisar_enlaces.py 22",
+  "abrir las tandas de 4 en el Chrome real y anotar los que den <title> «Page Not Found»",
+  "python3 generador/enlaces_directos.py 22 --pii <claves rotas>",
+  "python3 generador/gen_bilingue.py n22 && python3 generador/gen_audit_N22.py && republicar"
+ ],
+ "total_enlaces": 48,
+ "subconjunto_de_riesgo": [
+  {
+   "key": "a8",
+   "revista": "JACC Heart Fail",
+   "url": "https://www.jacc.org/doi/10.1016/j.jchf.2026.103475"
+  },
+  {
+   "key": "a25",
+   "revista": "Rev Esp Cardiol (Engl Ed)",
+   "url": "https://www.sciencedirect.com/science/article/pii/S1885585726002495"
+  },
+  {
+   "key": "a30",
+   "revista": "J Am Coll Cardiol",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.10.047"
+  },
+  {
+   "key": "a31",
+   "revista": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103416"
+  },
+  {
+   "key": "a33",
+   "revista": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103424"
+  },
+  {
+   "key": "a34",
+   "revista": "JACC Cardiovasc Imaging",
+   "url": "https://www.jacc.org/doi/10.1016/j.jcmg.2026.08.019"
+  },
+  {
+   "key": "a36",
+   "revista": "JACC Cardiovasc Imaging",
+   "url": "https://www.jacc.org/doi/10.1016/j.jcmg.2026.09.007"
+  },
+  {
+   "key": "a38",
+   "revista": "JACC Cardiovasc Imaging",
+   "url": "https://www.jacc.org/doi/10.1016/j.jcmg.2026.09.006"
+  },
+  {
+   "key": "a40",
+   "revista": "J Am Coll Cardiol",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.10.055"
+  },
+  {
+   "key": "a43",
+   "revista": "JACC Cardiovasc Interv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jcin.2026.10.020"
+  }
+ ],
+ "pendientes": [
+  {
+   "key": "a1",
+   "revista": "N Engl J Med",
+   "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2612924"
+  },
+  {
+   "key": "a2",
+   "revista": "N Engl J Med",
+   "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2612922"
+  },
+  {
+   "key": "a3",
+   "revista": "JAMA",
+   "url": "https://doi.org/10.1001/jama.2026.24169"
+  },
+  {
+   "key": "a4",
+   "revista": "Circ Cardiovasc Interv",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCINTERVENTIONS.126.017422"
+  },
+  {
+   "key": "a5",
+   "revista": "J Am Heart Assoc",
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.126.055110"
+  },
+  {
+   "key": "a6",
+   "revista": "N Engl J Med",
+   "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2612126"
+  },
+  {
+   "key": "a7",
+   "revista": "Nat Med",
+   "url": "https://doi.org/10.1038/s41591-026-04787-8"
+  },
+  {
+   "key": "a8",
+   "revista": "JACC Heart Fail",
+   "url": "https://www.jacc.org/doi/10.1016/j.jchf.2026.103475"
+  },
+  {
+   "key": "a9",
+   "revista": "Eur Heart J",
+   "url": "https://doi.org/10.1093/eurheartj/ehag849"
+  },
+  {
+   "key": "a10",
+   "revista": "J Am Heart Assoc",
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.126.053850"
+  },
+  {
+   "key": "a11",
+   "revista": "N Engl J Med",
+   "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2610159"
+  },
+  {
+   "key": "a12",
+   "revista": "N Engl J Med",
+   "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2610014"
+  },
+  {
+   "key": "a13",
+   "revista": "N Engl J Med",
+   "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2606634"
+  },
+  {
+   "key": "a14",
+   "revista": "Circulation",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.126.083811"
+  },
+  {
+   "key": "a15",
+   "revista": "Eur J Prev Cardiol",
+   "url": "https://doi.org/10.1093/eurjpc/zwag575"
+  },
+  {
+   "key": "a16",
+   "revista": "JAMA",
+   "url": "https://doi.org/10.1001/jama.2026.20375"
+  },
+  {
+   "key": "a17",
+   "revista": "Lancet",
+   "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00976-1/fulltext"
+  },
+  {
+   "key": "a18",
+   "revista": "Eur Heart J",
+   "url": "https://doi.org/10.1093/eurheartj/ehag878"
+  },
+  {
+   "key": "a19",
+   "revista": "Eur Heart J",
+   "url": "https://doi.org/10.1093/eurheartj/ehag773"
+  },
+  {
+   "key": "a20",
+   "revista": "Circulation",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.126.084009"
+  },
+  {
+   "key": "a21",
+   "revista": "Circulation",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.126.083760"
+  },
+  {
+   "key": "a22",
+   "revista": "Eur J Heart Fail",
+   "url": "https://doi.org/10.1093/ejhf/xuag327"
+  },
+  {
+   "key": "a23",
+   "revista": "Circulation",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.126.083383"
+  },
+  {
+   "key": "a24",
+   "revista": "Circulation",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.126.080735"
+  },
+  {
+   "key": "a25",
+   "revista": "Rev Esp Cardiol (Engl Ed)",
+   "url": "https://www.sciencedirect.com/science/article/pii/S1885585726002495"
+  },
+  {
+   "key": "a26",
+   "revista": "Eur Heart J",
+   "url": "https://doi.org/10.1093/eurheartj/ehag854"
+  },
+  {
+   "key": "a27",
+   "revista": "J Am Heart Assoc",
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.125.048942"
+  },
+  {
+   "key": "a28",
+   "revista": "Nat Rev Cardiol",
+   "url": "https://doi.org/10.1038/s41569-026-01359-8"
+  },
+  {
+   "key": "a29",
+   "revista": "N Engl J Med",
+   "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2607326"
+  },
+  {
+   "key": "a30",
+   "revista": "J Am Coll Cardiol",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.10.047"
+  },
+  {
+   "key": "a31",
+   "revista": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103416"
+  },
+  {
+   "key": "a32",
+   "revista": "Eur Heart J",
+   "url": "https://doi.org/10.1093/eurheartj/ehag837"
+  },
+  {
+   "key": "a33",
+   "revista": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103424"
+  },
+  {
+   "key": "a34",
+   "revista": "JACC Cardiovasc Imaging",
+   "url": "https://www.jacc.org/doi/10.1016/j.jcmg.2026.08.019"
+  },
+  {
+   "key": "a35",
+   "revista": "Eur Heart J Cardiovasc Ima",
+   "url": "https://doi.org/10.1093/ehjci/jeag299"
+  },
+  {
+   "key": "a36",
+   "revista": "JACC Cardiovasc Imaging",
+   "url": "https://www.jacc.org/doi/10.1016/j.jcmg.2026.09.007"
+  },
+  {
+   "key": "a37",
+   "revista": "Eur Heart J Cardiovasc Ima",
+   "url": "https://doi.org/10.1093/ehjci/jeag303"
+  },
+  {
+   "key": "a38",
+   "revista": "JACC Cardiovasc Imaging",
+   "url": "https://www.jacc.org/doi/10.1016/j.jcmg.2026.09.006"
+  },
+  {
+   "key": "a39",
+   "revista": "Lancet",
+   "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02104-5/fulltext"
+  },
+  {
+   "key": "a40",
+   "revista": "J Am Coll Cardiol",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.10.055"
+  },
+  {
+   "key": "a41",
+   "revista": "JAMA Cardiol",
+   "url": "https://doi.org/10.1001/jamacardio.2026.5260"
+  },
+  {
+   "key": "a42",
+   "revista": "Circ Cardiovasc Interv",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCINTERVENTIONS.126.017556"
+  },
+  {
+   "key": "a43",
+   "revista": "JACC Cardiovasc Interv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jcin.2026.10.020"
+  },
+  {
+   "key": "a44",
+   "revista": "N Engl J Med",
+   "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2612972"
+  },
+  {
+   "key": "a45",
+   "revista": "JAMA",
+   "url": "https://doi.org/10.1001/jama.2026.24331"
+  },
+  {
+   "key": "a46",
+   "revista": "Circulation",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001473"
+  },
+  {
+   "key": "a47",
+   "revista": "N Engl J Med",
+   "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2612757"
+  },
+  {
+   "key": "a48",
+   "revista": "N Engl J Med",
+   "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2602919"
+  }
+ ],
+ "cobertura_pendiente": {
+  "nota": "Artículos detectados por Crossref en la ventana que PubMed no había indexado y cuyo resumen la nube NO puede leer (jacc.org, sciencedirect.com y atherosclerosis-journal.com están denegados en el egreso). No están descartados por la regla del resumen: están PENDIENTES de que el Mac los recupere, los cribe y los pondere con la rúbrica de 6 ejes; si alguno entra en el top 5 de su sección, hay que regenerar y republicar el número, y documentarlo en la auditoría.",
+  "articulos": [
+   {
+    "journal": "J Am Coll Cardiol",
+    "doi": "10.1016/j.jacc.2026.10.059",
+    "title": "Outcomes of Transcatheter Aortic Valve Replacement for Aortic Regurgitation in LVAD Patients: The JENA-VAD Study"
+   },
+   {
+    "journal": "J Am Coll Cardiol",
+    "doi": "10.1016/j.jacc.2026.10.068",
+    "title": "10-Year Outcomes of Initial CTO-PCI Versus No CTO-PCI Strategies for Chronic Total Occlusion: The DECISION-CTO Randomized Trial"
+   },
+   {
+    "journal": "J Am Coll Cardiol",
+    "doi": "10.1016/j.jacc.2026.10.066",
+    "title": "AI-Enabled Echocardiography Identifies Prominent Epicardial Adipose Tissue Associated With an Adverse Cardiometabolic Profile"
+   },
+   {
+    "journal": "Atherosclerosis",
+    "doi": "10.1016/j.atherosclerosis.2026.121949",
+    "title": "High burden of subclinical coronary artery disease in asymptomatic adults with heterozygous familial hypercholesterolemia"
+   },
+   {
+    "journal": "Atherosclerosis",
+    "doi": "10.1016/j.atherosclerosis.2026.121950",
+    "title": "Sex-specific clinical and psychosocial characteristics among individuals with familial hypercholesterolemia reporting side-effects of lipid-lowering therapy"
+   },
+   {
+    "journal": "Atherosclerosis",
+    "doi": "10.1016/j.atherosclerosis.2026.121952",
+    "title": "Mitochondrial DNA in Cardiovascular Disease"
+   },
+   {
+    "journal": "Atherosclerosis",
+    "doi": "10.1016/j.atherosclerosis.2026.121951",
+    "title": "Family planning, pregnancy and breastfeeding care in familial hypercholesterolaemia (Taking ACTion to Improve Care of coupleS in FH (TACTICS)): a mixed methods study"
+   },
+   {
+    "journal": "JACC Adv",
+    "doi": "10.1016/j.jacadv.2026.103453",
+    "title": "Oxidized Phospholipid-Enriched Lipoproteins and Symptom Burden in Refractory Angina"
+   },
+   {
+    "journal": "JACC Adv",
+    "doi": "10.1016/j.jacadv.2026.103465",
+    "title": "The Liraglutide Effects in Atrial Fibrillation (LEAF) Biomarker Study"
+   }
+  ]
+ }
+}
