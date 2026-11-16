@@ -5,13 +5,22 @@ from collections import defaultdict, Counter
 B = os.path.dirname(os.path.abspath(__file__))
 EL = json.load(open(B + '/n23_el.json'))
 
+# REP ajustada con la revisión de repercusión web (PASO 3, eje REP y revisión Medscape/TCTMD).
 # Recuperaciones del PASO 1b incorporadas en n23_rec.py (van dentro de n23_el.json).
 # Crossref (PASO 1b) se ponderan en n23_out9.py, que ya aplica las reglas fijas de asignación
 # del PASO 4 (inflamación CV -> 2, hipertensión -> 1, Lp(a) -> 3, muerte súbita/reanimación -> 10).
 MOVE = {}
 OBLIG_EXTRA = set()
 PTYPE_FIX = {}
-ADJUST = {}
+ADJUST = {
+  36: dict(rep=9),  # late-breaker AHA 2026 y JAMA; TCTMD, Healio, Epocrates, nota
+  49: dict(rep=6),  # cobertura en Cardiovascular News y EurekAlert; debate sobre 
+  86: dict(rep=9),  # late-breaker AHA 2026 (LBS.05) y Lancet; Healio, AJMC, Pharm
+  97: dict(rep=5),  # solo resumen de resultados en agregadores; sin cobertura en 
+  98: dict(rep=9),  # late-breaker AHA 2026 y NEJM; TCTMD, Healio, HCPLive, EurekA
+  101: dict(rep=8),  # presentado en EASD 2026; Pharma Letter, PharmaNow, Pharmacy 
+  118: dict(rep=8),  # presentado en The Liver Meeting; Fierce Biotech, HCPLive, Bi
+}
 
 W = dict(rel=.20, cambio=.25, evid=.20, efecto=.15, rep=.12, fi=.08)
 def score(rel,cam,evi,efe,rep,fi):

@@ -1,0 +1,220 @@
+{
+ "numero": "n23",
+ "motivo": "nube",
+ "explicacion": "La revisión uno a uno de los enlaces en un navegador real (PASO 7b) NO se puede completar desde la nube: la política de red del entorno no permite el CONNECT a doi.org, jacc.org, sciencedirect.com, ahajournals.org, nejm.org ni thelancet.com (fallan con HTTP 000 / ENOTFOUND). La validación de DOI contra Crossref SÍ se hizo y está resumida arriba.",
+ "verificado_crossref": "44/47 DOI registrados y con título coincidente",
+ "avisos": [
+  {
+   "clave": "a7",
+   "aviso": "TITULO NO CUADRA",
+   "detalle": "10.1001/jama.2026.24080 -> Orforglipron for Obstructive Sleep Apnea"
+  },
+  {
+   "clave": "a8",
+   "aviso": "TITULO NO CUADRA",
+   "detalle": "10.1001/jama.2026.23420 -> Tirzepatide in Adolescents With Obesity"
+  }
+ ],
+ "no_resueltos": [
+  {
+   "clave": "a27",
+   "doi": "10.1161/CIRCULATIONAHA.126.083722",
+   "error": "HTTP Error 404: Not Found"
+  }
+ ],
+ "pendientes": {
+  "a1": {
+   "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2602435",
+   "journal": "N Engl J Med",
+   "doi": "10.1056/NEJMoa2602435",
+   "title": "Prevention of Venous Thromboembolism after Total Hip or Knee Replacement"
+  },
+  "a5": {
+   "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001452",
+   "journal": "Circulation",
+   "doi": "10.1161/CIR.0000000000001452",
+   "title": "Cardiovascular Health Promotion for US Veterans: Current State, Gaps, and Strategies: A Scientific Statement F"
+  },
+  "a6": {
+   "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02140-9/fulltext",
+   "journal": "Lancet",
+   "doi": "10.1016/S0140-6736(26)02140-9",
+   "title": "Cardiovascular outcomes with survodutide in adults with obesity at increased cardiovascular risk (SYNCHRONIZE-"
+  },
+  "a9": {
+   "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01953-7/fulltext",
+   "journal": "Lancet",
+   "doi": "10.1016/S0140-6736(26)01953-7",
+   "title": "Trevogrumab (anti-GDF8) with or without garetosmab (anti-activin A) for prevention of muscle loss during semag"
+  },
+  "a10": {
+   "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02043-X/fulltext",
+   "journal": "Lancet",
+   "doi": "10.1016/S0140-6736(26)02043-X",
+   "title": "Efficacy and safety of efinopegdutide in adults with metabolic dysfunction-associated steatohepatitis and stag"
+  },
+  "a12": {
+   "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2612463",
+   "journal": "N Engl J Med",
+   "doi": "10.1056/NEJMoa2612463",
+   "title": "ANGPTL4 Inhibition in Adults with Elevated Triglyceride Levels"
+  },
+  "a13": {
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103485",
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103485",
+   "title": "Impact of the 2026 Dyslipidemia Guideline on ASCVD Reclassification and Statin Recommendations in MESA"
+  },
+  "a14": {
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.126.053443",
+   "journal": "J Am Heart Assoc",
+   "doi": "10.1161/JAHA.126.053443",
+   "title": "Population Impact of the 2026 American College of Cardiology/American Heart Association Dyslipidemia Guideline"
+  },
+  "a16": {
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.125.078842",
+   "journal": "Circulation",
+   "doi": "10.1161/CIRCULATIONAHA.125.078842",
+   "title": "Off-Pump versus On-Pump Coronary Artery Bypass Grafting in Prefrail and Frail Patients: 30-Day and 1-Year Outc"
+  },
+  "a18": {
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103428",
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103428",
+   "title": "Practical Management of Multivessel Coronary Artery Disease: Evidence, Controversies, and the Boundaries of Gu"
+  },
+  "a19": {
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCINTERVENTIONS.126.017520",
+   "journal": "Circ Cardiovasc Interv",
+   "doi": "10.1161/CIRCINTERVENTIONS.126.017520",
+   "title": "Nonculprit Lesion Complexity and Timing of Complete Revascularization in Patients Presenting With Acute Corona"
+  },
+  "a20": {
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103443",
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103443",
+   "title": "Machine Learning Reveals Prognostic Value of Medical History in Suspected Coronary Artery Disease"
+  },
+  "a21": {
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103447",
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103447",
+   "title": "Anemia and Iron Deficiency Across Renal Function in Hospitalized Heart Failure: Insights From OPPORTUNITIES Re"
+  },
+  "a22": {
+   "url": "https://www.jacc.org/doi/10.1016/j.jchf.2026.103473",
+   "journal": "JACC Heart Fail",
+   "doi": "10.1016/j.jchf.2026.103473",
+   "title": "Safety and Efficacy of Omecamtiv Mecarbil by QRS Duration and Cardiac Resynchronization Therapy in GALACTIC-HF"
+  },
+  "a24": {
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103449",
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103449",
+   "title": "Advanced Age in Acute Myocardial Infarction-Related Cardiogenic Shock by Out-of-Hospital Cardiac Arrest Status"
+  },
+  "a25": {
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.126.050110",
+   "journal": "J Am Heart Assoc",
+   "doi": "10.1161/JAHA.126.050110",
+   "title": "Thirty-Day All-Cause Readmissions After Pregnancy-Associated Hospitalizations With Heart Failure in the United"
+  },
+  "a26": {
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.126.083732",
+   "journal": "Circulation",
+   "doi": "10.1161/CIRCULATIONAHA.126.083732",
+   "title": "Myocardial Responses to Eplontersen in Transthyretin Amyloid Cardiomyopathy: The CARDIO-TTRansform CMR study"
+  },
+  "a27": {
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.126.083722",
+   "journal": "Circulation",
+   "doi": "10.1161/CIRCULATIONAHA.126.083722",
+   "title": "Effects of Eplontersen on Cardiac Structure and Function in Patients With Transthyretin Amyloidosis With Cardi"
+  },
+  "a30": {
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.126.050695",
+   "journal": "J Am Heart Assoc",
+   "doi": "10.1161/JAHA.126.050695",
+   "title": "Risk Stratification and Outcomes of Right Atrial Phasic Function in Arrhythmogenic Right Ventricular Cardiomyo"
+  },
+  "a31": {
+   "url": "https://www.jacc.org/doi/10.1016/j.jcin.2026.08.016",
+   "journal": "JACC Cardiovasc Interv",
+   "doi": "10.1016/j.jcin.2026.08.016",
+   "title": "Prevalence and Consequences of Guideline-Directed Indications for Aortic Valve Replacement in the EARLY TAVR T"
+  },
+  "a32": {
+   "url": "https://www.jacc.org/doi/10.1016/j.jcin.2026.07.047",
+   "journal": "JACC Cardiovasc Interv",
+   "doi": "10.1016/j.jcin.2026.07.047",
+   "title": "Transcatheter vs Surgical Aortic Valve Replacement for Isolated Native Aortic Regurgitation: National Propensi"
+  },
+  "a33": {
+   "url": "https://www.jacc.org/doi/10.1016/j.jcin.2026.08.039",
+   "journal": "JACC Cardiovasc Interv",
+   "doi": "10.1016/j.jcin.2026.08.039",
+   "title": "Prognostic Impact of Paravalvular Regurgitation in Patients With Severe Low-Flow, Low-Gradient Aortic Stenosis"
+  },
+  "a34": {
+   "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.08.035",
+   "journal": "J Am Coll Cardiol",
+   "doi": "10.1016/j.jacc.2026.08.035",
+   "title": "Right Heart Dysfunction in Valvular Heart Disease: Epidemiology, Prognosis, and Management Considerations"
+  },
+  "a38": {
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.126.052355",
+   "journal": "J Am Heart Assoc",
+   "doi": "10.1161/JAHA.126.052355",
+   "title": "Percutaneous Coronary Intervention in Dialysis Patients: Insights from a Nationwide Registry Analysis"
+  },
+  "a39": {
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.125.047186",
+   "journal": "J Am Heart Assoc",
+   "doi": "10.1161/JAHA.125.047186",
+   "title": "Safety and Efficacy of Topical Nitroglycerin for Radial Artery Dilation (The RADial Trial): A Randomized, Plac"
+  },
+  "a40": {
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCINTERVENTIONS.126.017002",
+   "journal": "Circ Cardiovasc Interv",
+   "doi": "10.1161/CIRCINTERVENTIONS.126.017002",
+   "title": "Impact of Coronary Sinus Reducer on the Extent of Ischemia in Functional Stress Tests"
+  },
+  "a41": {
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.125.043270",
+   "journal": "J Am Heart Assoc",
+   "doi": "10.1161/JAHA.125.043270",
+   "title": "Predictors of Clinically Meaningful 1-Year Health Status Improvements Following Endovascular or Surgical Revas"
+  },
+  "a42": {
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103445",
+   "journal": "JACC Adv",
+   "doi": "10.1016/j.jacadv.2026.103445",
+   "title": "First-in-Human Experience With a Novel Monorail Microcatheter for Instantaneous Coronary Pressure and Flow Vel"
+  },
+  "a44": {
+   "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.09.018",
+   "journal": "J Am Coll Cardiol",
+   "doi": "10.1016/j.jacc.2026.09.018",
+   "title": "Left Atrial Appendage Closure or Anticoagulation for Atrial Fibrillation: Navigating Heterogeneity in Clinical"
+  },
+  "a45": {
+   "url": "https://www.sciencedirect.com/science/article/pii/S1547527126029814",
+   "journal": "Heart Rhythm",
+   "doi": "10.1016/j.hrthm.2026.11.007",
+   "title": "Anticoagulation in Subclinical Atrial Fibrillation: An Evidence-Based Framework for Individualized Management"
+  },
+  "a46": {
+   "url": "https://www.sciencedirect.com/science/article/pii/S154752712602984X",
+   "journal": "Heart Rhythm",
+   "doi": "10.1016/j.hrthm.2026.11.009",
+   "title": "Pulsed Field or Cryoballoon Pulmonary Vein Isolation for Atrial Fibrillation in Heart Failure with Reduced Eje"
+  },
+  "a47": {
+   "url": "https://www.sciencedirect.com/science/article/pii/S1547527126029838",
+   "journal": "Heart Rhythm",
+   "doi": "10.1016/j.hrthm.2026.11.008",
+   "title": "Comparative Clinical and Procedural Outcomes Among Three Pulsed Field Ablation Systems for Atrial Fibrillation"
+  }
+ },
+ "que_hacer_en_el_mac": "python3 generador/revisar_enlaces.py 23 y abrir las tandas con Chrome real; los que den «Page Not Found» se redirigen con python3 generador/enlaces_directos.py 23 --pii <claves> y se regenera."
+}

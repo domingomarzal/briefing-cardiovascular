@@ -1,0 +1,90 @@
+{
+ "a6": {
+  "rep": 9,
+  "nota": "late-breaker AHA 2026 (LBS.05) y Lancet; Healio, AJMC, Pharmacy Times"
+ },
+ "a1": {
+  "rep": 5,
+  "nota": "solo resumen de resultados en agregadores; sin cobertura en Medscape ni TCTMD"
+ },
+ "a7": {
+  "rep": 7,
+  "nota": "sin señal de repercusión localizada"
+ },
+ "a8": {
+  "rep": 9,
+  "nota": "late-breaker AHA 2026 y JAMA; TCTMD, Healio, Epocrates, nota de Lilly"
+ },
+ "a2": {
+  "rep": 5,
+  "nota": "sin señal de repercusión localizada"
+ },
+ "a11": {
+  "rep": 6,
+  "nota": "sin señal de repercusión localizada"
+ },
+ "a3": {
+  "rep": 6,
+  "nota": "sin señal de repercusión localizada"
+ },
+ "a9": {
+  "rep": 8,
+  "nota": "presentado en EASD 2026; Pharma Letter, PharmaNow, Pharmacy Times, prensa general"
+ },
+ "a10": {
+  "rep": 8,
+  "nota": "presentado en The Liver Meeting; Fierce Biotech, HCPLive, BioPharm International"
+ },
+ "a26": {
+  "rep": 6,
+  "nota": "ensayo matriz con gran eco en ESC 2026; subestudio CMR sin cobertura propia"
+ },
+ "a12": {
+  "rep": 9,
+  "nota": "late-breaker AHA 2026 y NEJM; TCTMD, Healio, HCPLive, EurekAlert"
+ },
+ "a43": {
+  "rep": 5,
+  "nota": "sin señal de repercusión localizada"
+ },
+ "a44": {
+  "rep": 5,
+  "nota": "sin señal de repercusión localizada"
+ },
+ "a31": {
+  "rep": 6,
+  "nota": "cobertura en Cardiovascular News y EurekAlert; debate sobre indicaciones de guía"
+ },
+ "a16": {
+  "rep": 5,
+  "nota": "sin señal de repercusión localizada"
+ },
+ "a27": {
+  "rep": 6,
+  "nota": "ensayo matriz muy difundido en ESC 2026; subestudio sin cobertura propia"
+ },
+ "a17": {
+  "rep": 4,
+  "nota": "sin señal de repercusión localizada"
+ },
+ "a13": {
+  "rep": 5,
+  "nota": "guía 2026 con amplio eco; análisis MESA sin cobertura propia localizada"
+ },
+ "a18": {
+  "rep": 4,
+  "nota": "sin señal de repercusión localizada"
+ },
+ "a14": {
+  "rep": 5,
+  "nota": "análisis NHANES análogos en ACC Journal Scans y Healio; este sin cobertura"
+ },
+ "a4": {
+  "rep": 5,
+  "nota": "sin señal de repercusión localizada"
+ },
+ "a28": {
+  "rep": 5,
+  "nota": "sin señal de repercusión localizada"
+ }
+}

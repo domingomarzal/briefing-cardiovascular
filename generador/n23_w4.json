@@ -1,0 +1,79 @@
+[
+ {
+  "key": "a41",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.125.043270",
+  "seccion": "Cardiología intervencionista",
+  "ptype": "Análisis secundario de ensayo clínico",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Predictors of Clinically Meaningful 1-Year Health Status Improvements Following Endovascular or Surgical Revascularization: Insights From the BEST-CLI Trial",
+  "abstract": "BACKGROUND: Despite efforts to promote limb salvage in chronic limb-threatening ischemia (CLTI), the factors associated with meaningful health status improvement after revascularization remain poorly understood. We examined predictors of meaningful 1-year health status improvement following revascularization for CLTI. METHODS: We pooled endovascular and surgical arms from the BEST-CLI (Best Endovascular Versus Best Surgical Therapy in Patients With CLTI) randomized controlled trial, including patients with CLTI (150 international sites, 2014-2019). Health status was assessed at baseline and 1 year using the peripheral artery disease-specific Vascular Quality of Life questionnaire, the generic European Quality-of-Life 5 Dimensions, and the Short Form-12 Physical and Mental Component Summary. Distribution-based minimal clinically important difference thresholds were defined as 0.5 SD of baseline health status scores. Multivariable logistic regression identified predictors of no meaningful 1-year improvement (same/worsened versus improved). RESULTS: Among 1017 patients (72.0% men, mean age 66.8±9.7 years), clinically meaningful improvements were reported by 76.5% for Vascular Quality of Life, 52.8% European Quality-of-Life 5 Dimensions, 56.7% for Short Form-12 Physical Component Summary, and 42.1% for Short Form-12 Mental Component Summary, regardless of revascularization type (surgical versus endovascular). Cardiometabolic risk factors and higher preprocedural health status increased the odds of no meaningful improvement. Revascularization type was not associated with Vascular Quality of Life improvement (odds ratio, 1.059 [95% CI, 0.91-1.23]; P=0.445; C statistic=0.77). CONCLUSIONS: One-year postrevascularization, over three-fourths of individuals with CLTI perceived meaningful improvements in peripheral artery disease-specific health, and over half improved overall physical health, regardless of procedure type. Cardiometabolic risk factors and higher preprocedural health status predicted 1-year health status response. REGISTRATION: URL: https://clinicaltrials.gov; Unique identifier: NCT02060630."
+ },
+ {
+  "key": "a42",
+  "journal": "JACC Adv",
+  "doi": "10.1016/j.jacadv.2026.103445",
+  "seccion": "Cardiología intervencionista",
+  "ptype": "Investigación original",
+  "acr": "PyCath",
+  "prio": "Complementario",
+  "title": "First-in-Human Experience With a Novel Monorail Microcatheter for Instantaneous Coronary Pressure and Flow Velocity Measurements",
+  "abstract": "BACKGROUND: Invasive coronary physiology enables comprehensive assessment of epicardial and microvascular disease, but its routine use is limited by technical complexity and prolonged acquisition time. OBJECTIVES: The PyCath system is a rapid-exchange microcatheter engineered to simultaneously measure intracoronary pressure and thermoconvection-based flow velocity. METHODS: First-in-human, prospective, single-arm study evaluating the safety and performance of the PyCath system in patients with a clinical indication for coronary physiology assessment. The microcatheter was advanced over a standard coronary guidewire to acquire simultaneous pressure and flow velocity at baseline and during hyperemia. The primary objectives were procedural safety, defined as device-related major adverse cardiac events, and device performance, defined as successful acquisition of pressure and velocity signals. Data were analyzed by an independent core laboratory. RESULTS: Seventeen patients (mean age 59.3 ± 9.4 years, 76.5% males) referred for invasive coronary physiology assessment were included. Intracoronary pressure and velocity measurements were feasible in 100% and 88% of cases, respectively. The mean time required to obtain both measurements was 70.6 ± 23.6 seconds. The mean fractional flow reserve, coronary flow velocity reserve, and hyperemic microvascular resistance were 0.84 ± 0.12, 2.28 ± 0.79, and 1.46 ± 0.77, respectively. There were no device-related major adverse cardiac events. Test-retest reproducibility was good-to-excellent with intraclass correlation coefficients for fractional flow reserve, coronary flow velocity reserve, and hyperemic microvascular resistance of 0.979 (0.934-0.993), 0.798 (0.477-0.933), and 0.759 (0.397-0.919). CONCLUSIONS: In this first-in-human experience, the PyCath microcatheter enabled safe and reproducible measurements of intracoronary pressure and flow velocity with excellent reproducibility."
+ },
+ {
+  "key": "a43",
+  "journal": "Europace",
+  "doi": "10.1093/europace/euag318",
+  "seccion": "Arritmias y electrofisiología",
+  "ptype": "Ensayo clínico aleatorizado",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Modified Posterior Wall Ablation in Persistent Atrial Fibrillation: the BOX-AF Randomized Clinical Trial",
+  "abstract": "AIMS: The efficacy of left atrial posterior wall isolation (PWI) for persistent atrial fibrillation (AF) is controversial. We propose a modified left atrial posterior wall ablation strategy. OBJECTIVES: To evaluate the efficacy and safety of modified posterior wall ablation in patients with persistent AF who underwent first-time radiofrequency catheter ablation. METHODS AND RESULTS: In this multicenter, single-blind randomized trial, 276 patients with persistent AF were assigned 1:1 to pulmonary vein isolation (PVI) with (BOX+) or without modified posterior wall ablation (BOX-). Seven participants withdrew, leaving 269 (BOX+, n=139; BOX-, n=130) for primary endpoint analysis. The primary endpoint was freedom from any documented atrial arrhythmia lasting > 30 seconds without antiarrhythmic drugs after a 3 -month blanking period. At 12-month follow-up, the primary endpoint occurred in 120 of 139 patients (86.3%) in the BOX+ group and 113 of 130 (86.9%) in the BOX- group (hazard ratio 1.046, 95% CI, 0.54 - 2.01; P = 0.894). The BOX+ group exhibited longer procedure time and ablation time. Acute successful PWI was achieved in 91 (65.5%) patients assigned to BOX+. In a nonprespecified, post-randomization analysis, arrhythmia-free survival was 93.4% in patients with acute successful PWI, 72.9% in those with attempted but unsuccessful PWI, and 86.9% in controls without attempted PWI (overall log-rank P=0.002). Adverse events were similar between groups. CONCLUSION: Routine addition of modified posterior wall ablation did not improve overall outcomes of first-time ablation in persistent AF. However, achieving successful PWI was associated with significantly lower recurrence."
+ },
+ {
+  "key": "a44",
+  "journal": "J Am Coll Cardiol",
+  "doi": "10.1016/j.jacc.2026.09.018",
+  "seccion": "Arritmias y electrofisiología",
+  "ptype": "Artículo de revisión",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Left Atrial Appendage Closure or Anticoagulation for Atrial Fibrillation: Navigating Heterogeneity in Clinical Evidence: JACC Evidence Review",
+  "abstract": "Left atrial appendage closure (LAAC) has emerged as an alternative to long-term anticoagulation for preventing stroke or systemic embolism in selected patients with atrial fibrillation (AF) based on several randomized controlled trials (RCTs) that collectively enrolled >7,000 participants. In this JACC Evidence Review, we interpret the major RCTs as distinct experiments, clarify what each can and cannot establish, and offer a phenotype-based framework for interpreting the evidence. The most recent RCTs, OPTION, CLOSURE-AF, and CHAMPION-AF, have prompted efforts to pool the evidence into a single summary estimate. However, these trials are not one coherent evidence base; they are distinct clinical experiments that asked different questions. They differ in patient phenotype, comparator, device generation, postprocedure antithrombotic regimen, endpoint construction, and follow-up duration. Study-level meta-analysis of published reports remains methodologically valid for estimating the broad direction of effect of a device class, but when the component trials differ materially in patient phenotype, comparator, and outcome construction, the pooled estimate does not map to a common patient group or treatment decision. Patient eligibility as well as thromboembolic and bleeding risk varied markedly across trials. In addition, device technology has progressed, and comparators have evolved from warfarin to direct oral anticoagulants. Heterogeneity and insufficient details also exist about the antithrombotic therapy regimen in LAAC arms and adjunct antiplatelet therapy in control arms. Methodological issues further complicate interpretation, including the use of bleeding events (ie, the putative ancillary benefit of LAAC compared with anticoagulation) within composite endpoints tested for noninferiority, varying noninferiority margins, analytical approaches that may undermine the interpretation of noninferiority, and exclusion of periprocedural bleeding from primary safety endpoints in some trials. Finally, the standard of care for anticoagulation in AF has evolved, obviating concomitant aspirin use in stable individuals on therapeutic anticoagulation, thereby reducing bleeding risk compared with that of the control arm of LAAC RCTs. For most anticoagulation-eligible patients, anticoagulation remains the preferred first-line strategy. LAAC is a reasonable option when long-term anticoagulation is unsafe or unsustainable provided that procedural risk, adjunct antithrombotic feasibility, surveillance needs, and competing mortality are carefully considered. RCT evidence in this latter population is limited, and RCTs in other populations have features that limit their support for LAAC as an alternative to anticoagulation. Because LAAC and anticoagulation offer different types of risk, aligning the most applicable evidence with patient values through shared decision-making is central to care."
+ },
+ {
+  "key": "a45",
+  "journal": "Heart Rhythm",
+  "doi": "10.1016/j.hrthm.2026.11.007",
+  "seccion": "Arritmias y electrofisiología",
+  "ptype": "Artículo de revisión",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Anticoagulation in Subclinical Atrial Fibrillation: An Evidence-Based Framework for Individualized Management",
+  "abstract": "The increasing use of wearable monitoring technologies and cardiac implantable electronic devices (CIEDs) has led to frequent incidental detection of subclinical atrial fibrillation (SCAF), yet the role of long-term anticoagulation remains uncertain. Growing evidence indicates that SCAF is a separate clinical entity on the continuous spectrum of atrial disease and not just a precursor to clinical disease. We propose that anticoagulation in SCAF should be guided by integrating arrythmia burden, baseline clinical risk and the degree of structural atrial cardiomyopathy in addition to life expectancy and patient preferences. This review synthesizes data from observational studies, randomized clinical trials, and post-hoc analyses to provide a comprehensive and practical framework for individualized anticoagulation, and risk-benefit considerations."
+ },
+ {
+  "key": "a46",
+  "journal": "Heart Rhythm",
+  "doi": "10.1016/j.hrthm.2026.11.009",
+  "seccion": "Arritmias y electrofisiología",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Pulsed Field or Cryoballoon Pulmonary Vein Isolation for Atrial Fibrillation in Heart Failure with Reduced Ejection Fraction",
+  "abstract": "BACKGROUND: Atrial fibrillation (AF) and heart failure with reduced ejection fraction (HFrEF) frequently coexist, worsening prognosis. While catheter ablation confers clinical benefits in this high-risk population, comparative data between novel non-thermal pulsed field ablation (PFA) and established cryoballoon ablation (CBA) for AF-therapy in patients with HFrEF are limited. OBJECTIVE: To compare the efficacy and safety of PFA- with CBA-based pulmonary vein isolation (PVI) in patients with AF and HFrEF (left ventricular ejection fraction ≤40%). METHODS: This retrospective, international multicenter study included patients with HFrEF undergoing first-time PVI-only procedures between 2018 and 2025. Propensity-score matching (1:1 ratio) was applied to balance baseline characteristics. The primary efficacy endpoint was the first recurrence of any atrial tachyarrhythmia after a 3-month blanking period. Secondary measures included safety events and procedural efficiency. RESULTS: A total of 700 patients from 12 German and Canadian centers were included, with 420 patients analyzed following propensity-score matching. At 12 months, freedom from atrial tachyarrhythmia recurrence with PFA was comparable to CBA (Kaplan-Meier estimates, 65.0% vs. 67.8%; hazard ratio, 1.09; 95% CI, 0.77 to 1.55; P=0.61). No statistically significant differences in observed safety outcomes were detected. PFA significantly improved procedural efficiency with shorter total procedure duration (58±22min vs. 72±22min; P<0.001), left-atrial dwell time (42±16min vs. 52±17min; P<0.001) and lower contrast dye use (0 ml [IQR 0-15] vs. 47 ml [IQR 30-56], P<0.001). CONCLUSIONS: In patients with AF and HFrEF, PFA-based PVI achieves similar rhythm-control efficacy and safety compared with CBA, while significantly enhancing procedural efficiency."
+ },
+ {
+  "key": "a47",
+  "journal": "Heart Rhythm",
+  "doi": "10.1016/j.hrthm.2026.11.008",
+  "seccion": "Arritmias y electrofisiología",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Comparative Clinical and Procedural Outcomes Among Three Pulsed Field Ablation Systems for Atrial Fibrillation: A Prospective Real-World Study",
+  "abstract": "BACKGROUND: Pulsed Field Ablation (PFA) is a non-thermal ablation technology for atrial fibrillation. Several PFA systems are available, with distinct catheter designs and energy delivery protocols. Direct comparisons between PFA systems remain limited. OBJECTIVE: This study compared the procedural characteristics, safety, and efficacy of three contemporary PFA technologies in routine clinical practice. METHODS: Consecutive patients undergoing their first pulmonary vein isolation (PVI) using the circular multielectrode array catheter (CMAC)(PulseSelectTM), the variable-loop circular catheter (VLCC)(VaripulseTM) or the lattice-tip catheter (LTC)(AfferaTM) were prospectively included. Freedom from any atrial arrhythmia (AA) was evaluated using 12-lead electrocardiography and 24-hour Holter at 3, 6 and 12 months, followed by routine clinical follow-up. RESULTS: A total of 198 patients (CMAC:91, VLCC:50, LTC: 57) were included. Acute PVI was achieved in all patients (median age, 68 [61.0, 76.0] years; 127 male (64.1%); 97 paroxysmal (49.0%)). The procedure and ablation times were longest in the LTC group. During a mean follow-up of 352.4±207.2 days, the estimated 12-month freedom from AA recurrence beyond the 8-week blanking period was comparable among the CMAC, VLCC, and LTC groups (76.9%, 71.6%, and 78.8%; log-rank p=0.72). In adjusted multivariable Cox regression, PFA system choice was not associated with AA recurrence (LTC vs. CMAC: HR 0.77, 95% CI 0.39-1.52, p=0.45; VLCC vs. CMAC: HR 1.16, 95% CI 0.58-2.34, p=0.67). One major complication (0.51%, ischemic stroke (CMAC)) occurred. CONCLUSION: In this prospective real-world study, PVI with the CMAC, VLCC, and LTC showed comparable efficacy and safety outcomes, while procedural profiles differed."
+ }
+]

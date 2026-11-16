@@ -1,0 +1,112 @@
+[
+ {
+  "key": "a11",
+  "journal": "Nat Rev Cardiol",
+  "doi": "10.1038/s41569-026-01358-9",
+  "seccion": "Dislipemia",
+  "ptype": "Documento de consenso",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Cardiovascular risk, evaluation and management in patients with hypertriglyceridaemia: a Consensus Statement from the International Atherosclerosis Society",
+  "abstract": "The prevalence of hypertriglyceridaemia is increasing globally owing to high rates of obesity and diabetes mellitus. Hypertriglyceridaemia is associated with an increased risk of cardiovascular disease, mediated through the cholesterol content of triglyceride-rich lipoprotein remnant particles rather than through triglycerides per se. Although plasma levels of triglycerides can be measured with a simple blood test, hypertriglyceridaemia remains underdiagnosed and undertreated. Hypertriglyceridaemia can result from various primary or secondary aetiologies, the identification and management of which is an important first step. Hypertriglyceridaemia can be managed with lifestyle measures, lipid-lowering therapy with statins in indicated patients to reduce cholesterol levels and, in refractory situations, with the addition of triglyceride-specific pharmacological therapies. Emerging therapies with considerable promise for the management of hypertriglyceridaemia include those targeting apolipoprotein C-III, angiopoietin-related protein 3 or fibroblast growth factor 21. However, so far, there is no evidence from randomized clinical trials that pharmacotherapies targeting triglycerides can reduce the occurrence of cardiovascular events, suggesting that elevated levels of triglycerides serve as a marker of atherosclerotic risk that should prompt optimization of modifiable cardiovascular risk factors. In this Consensus Statement, we provide clinical context and evidence for the evaluation, diagnosis and management of hypertriglyceridaemia."
+ },
+ {
+  "key": "a12",
+  "journal": "N Engl J Med",
+  "doi": "10.1056/NEJMoa2612463",
+  "seccion": "Dislipemia",
+  "ptype": "Ensayo clínico aleatorizado",
+  "acr": "TYDAL-TIMI 78",
+  "prio": "Relevante",
+  "title": "ANGPTL4 Inhibition in Adults with Elevated Triglyceride Levels",
+  "abstract": "BACKGROUND: Angiopoietin-like protein 4 (ANGPTL4) inhibits lipoprotein lipase and regulates triglyceride-rich lipoprotein metabolism. MAR001 is a monoclonal antibody against ANGPTL4 that is being evaluated for lowering triglyceride levels. METHODS: We conducted a two-part, phase 2b, double-blind, randomized, placebo-controlled trial. In part A, the focus of this report, we enrolled adults who had a nonfasting triglyceride level of at least 175 mg per deciliter and a remnant cholesterol level of at least 35 mg per deciliter at initial screening, followed by a fasting triglyceride level of at least 150 mg per deciliter and a remnant cholesterol level of at least 30 mg per deciliter on confirmatory screening. Participants were randomly assigned in a 1:1:1:1 ratio to receive MAR001 at a dose of 300, 450, or 900 mg or matching placebo subcutaneously every 4 weeks for 24 weeks. The primary end point was the percent change from baseline in the fasting triglyceride level at week 12, reported as the difference between each MAR001 dose group and the placebo group (placebo-adjusted change). RESULTS: A total of 236 participants were enrolled in the trial, with 177 assigned to receive MAR001 and 59 to receive placebo; a total of 235 participants received at least one dose of MAR001 or placebo and were included in the primary efficacy analyses. The mean age of the participants was 60.4 years, and 39% were women. The median triglyceride level at baseline was 249.5 mg per deciliter (interquartile range, 210.0 to 313.0). At week 12, in an intention-to-treat analysis, the placebo-adjusted least-squares mean percent changes in the fasting triglyceride level were -39.1 percentage points, -40.5 percentage points, and -45.3 percentage points for the 300-mg, 450-mg, and 900-mg doses, respectively (P<0.001 for all comparisons). Adverse events occurred in 123 of 177 participants (69%) in the pooled MAR001 group and in 45 of 58 participants (78%) in the placebo group. CONCLUSIONS: Inhibition of ANGPTL4 with MAR001 significantly reduced fasting triglyceride levels at 12 weeks. (Funded by Marea Therapeutics; TYDAL-TIMI 78 ClinicalTrials.gov number, NCT07028749.)."
+ },
+ {
+  "key": "a13",
+  "journal": "JACC Adv",
+  "doi": "10.1016/j.jacadv.2026.103485",
+  "seccion": "Dislipemia",
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Impact of the 2026 Dyslipidemia Guideline on ASCVD Reclassification and Statin Recommendations in MESA",
+  "abstract": "BACKGROUND: The 2026 American College of Cardiology (ACC)/American Heart Association (AHA)/Multisociety Guideline on the Management of Dyslipidemia recommends the use of the PREVENT (Predicting Risk of cardiovascular disease EVENTs) equations to predict atherosclerotic cardiovascular disease (ASCVD) risk while concurrently revising previous risk-category thresholds. The impact of these reclassifications is yet to be described. OBJECTIVES: The authors characterized ASCVD reclassification and statin recommendations under the 2026 guideline, evaluated clinical events under this reclassification, and examined risk enhancement with risk enhancers and coronary artery calcium (CAC) burden. METHODS: Adults (N = 6,098) from the MESA (Multi-Ethnic Study of Atherosclerosis) were assessed, comparing the Pooled Cohort Equations (PCE) and 2013 thresholds to PREVENT with 2026 thresholds. We evaluated the degree of directional reclassification, impact on statin recommendations, and risk enhancement with biomarkers and CAC burden. RESULTS: Over a median follow-up of 10 years, 6.0% of participants had an ASCVD event. PREVENT reclassified 16.4% to a lower and 13.1% to a higher risk category as compared to the PCE. The statin recommendation under PREVENT was 50.4% compared to 55.2% under PCE. Of those who were no longer recommended for statin use, 4.9% went on to have an event. Individuals who were reclassified downward but had elevated CAC or any risk-enhancing factors had a higher event rate. CONCLUSIONS: Adherence to the 2026 guideline may lead to a small net downward reclassification of predicted ASCVD risk. Statin recommendations will fall modestly, however, not accompanied by a substantial number of subsequent events. Risk enhancers and elevated CAC identify higher risk subgroups than their PREVENT risk would suggest, emphasizing their supporting role in risk prediction."
+ },
+ {
+  "key": "a14",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.126.053443",
+  "seccion": "Dislipemia",
+  "ptype": "Estudio observacional",
+  "acr": "NHANES",
+  "prio": "Relevante",
+  "title": "Population Impact of the 2026 American College of Cardiology/American Heart Association Dyslipidemia Guideline on Lipid-Lowering Therapy Eligibility Among US Adults",
+  "abstract": "BACKGROUND: The 2026 American College of Cardiology/American Heart Association dyslipidemia guideline replaces the pooled cohort equations with the atherosclerotic cardiovascular disease component of the Predicting Risk of Cardiovascular Disease Events equations for primary prevention risk estimation and modifies lipid-lowering therapy (LLT) eligibility by lowering the risk-based treatment threshold and expanding diabetes and chronic kidney disease criteria. The population-level impact of this transition is uncertain. METHODS: We analyzed National Health and Nutrition Examination Survey 2021 to 2023 participants aged 40 to 75 years without self-reported atherosclerotic cardiovascular disease and with available low-density lipoprotein cholesterol. Survey weights were used to generate national estimates. Guideline-supported LLT eligibility was assessed under the 2018 pooled cohort equations-based American College of Cardiology/American Heart Association cholesterol framework and the 2026 Predicting Risk of Cardiovascular Disease Events-based American College of Cardiology/American Heart Association dyslipidemia framework. Current LLT use was assessed among guideline-supported adults. RESULTS: The analytic sample included 1662 participants, representing 115.05 million US adults. LLT was supported for 42.82 million adults under the 2018 framework and 42.17 million under the 2026 framework, a net decrease of 0.65 million. Reclassification was substantial: 37.42 million remained supported, 5.40 million lost support, 4.75 million newly gained support, and 67.48 million remained unsupported. Among supported adults, current LLT use was 39.4% under the 2018 framework and 40.5% under the 2026 framework. CONCLUSIONS: Transition to the 2026 Predicting Risk of Cardiovascular Disease Events-based framework produced little net change in LLT eligibility but meaningfully changed who was supported for therapy. Persistent undertreatment remains a major implementation gap."
+ },
+ {
+  "key": "a15",
+  "journal": "Eur J Prev Cardiol",
+  "doi": "10.1093/eurjpc/zwag579",
+  "seccion": "Dislipemia",
+  "ptype": "Metaanálisis",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Temporal Changes in Lipoprotein(a) Following Acute Coronary Syndrome: A Systematic Review and Meta-Analysis",
+  "abstract": "AIMS: Lipoprotein(a) [Lp(a)] is a genetically determined cardiovascular risk factor generally considered stable over an individual's lifetime. Acute coronary syndrome (ACS) may transiently alter Lp(a) concentrations, complicating interpretation. We systematically evaluated temporal changes in Lp(a) following ACS. METHODS: This PRISMA 2020-guided systematic review searched MEDLINE and Embase from database inception to February 2026. Eligible studies reported serial Lp(a) measurements at two or more time points after index ACS event. Exploratory random-effects meta-analysis of percent change in mean Lp(a) was performed. RESULTS: Of 3,811 records, 16 studies comprising 1,396 patients met inclusion criteria. Lp(a) demonstrated a dynamic post-ACS trajectory. Using initial post-ACS measurements as the reference, pooled percent change in mean Lp(a) was non-significant at 24 hours post-ACS (+2.5%, 95% CI -6.8 to 11.7; p=0.602). Lp(a) was significantly higher at 7-14 days (+44.0%, 95% CI 4.0-84.1; p=0.031), 1 month (+28.3%, 95% CI 2.7-54.0; p=0.030), and 3-6 months (+22.2%, 95% CI 2.4-42.0; p=0.028). Across two studies, absolute Lp(a) increases >25 nmol/L occurred in 17% and 22% of patients by 3 and 6 months, respectively. CONCLUSIONS: Lp(a) is not static post-ACS. Early post-ACS measurements may underestimate long-term concentrations and risk. Repeat measurement weeks to months later is most informative when initial post-ACS Lp(a) values are near clinical decision thresholds or would influence eligibility for emerging Lp(a)-lowering therapies."
+ },
+ {
+  "key": "a16",
+  "journal": "Circulation",
+  "doi": "10.1161/CIRCULATIONAHA.125.078842",
+  "seccion": "Cardiopatía isquémica",
+  "ptype": "Ensayo clínico aleatorizado",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Off-Pump versus On-Pump Coronary Artery Bypass Grafting in Prefrail and Frail Patients: 30-Day and 1-Year Outcomes From the FRAGILE Randomized Trial",
+  "abstract": "BACKGROUND: Frailty is associated with worse outcomes after coronary artery bypass grafting (CABG). However, the comparative effectiveness of off-pump CABG (OPCAB) versus on-pump CABG (ONCAB) in prefrail and frail patients remains uncertain. METHODS: This multicenter, randomized, open-label trial enrolled patients ≥60 years of age classified as prefrail or frail, randomized 1:1, between January 2018 and December 2024. The primary outcome was a 30-day composite of death, myocardial infarction, stroke, renal failure, acute respiratory distress syndrome, or reoperation for bleeding. Secondary outcomes included ventilation time, intensive care unit and hospital stay, transfusion requirements, completeness of revascularization, surgical wound infection at 30 days, and neurocognitive function preoperatively and at 1 year. Analyses followed the intention-to-treat principle; relative risks with 95% CIs were estimated. RESULTS: A total of 508 patients were included (OPCAB, n=258; ONCAB, n=250; median age, 68 years [interquartile range, 65.0-73]; 30.5% female). The primary composite outcome occurred in 28 patients receiving OPCAB (10.9%) and 40 patients receiving ONCAB (16.0%; relative risk, 1.47 [95% CI, 0.94-2.31]; P=0.09). Surgical wound infection was more frequent with ONCAB (20 [8.0%] versus 9 [3.5%]; P=0.04). No significant differences were observed in neurocognitive or quality of life outcomes at 1 year. Estimated 1-year survival probabilities were 96.1% and 92.8% in the OPCAB and ONCAB groups, respectively (P=0.099). CONCLUSION: In prefrail and frail patients undergoing CABG, OPCAB and ONCAB resulted in similar rates of the primary composite outcome. No significant differences between OPCAB and ONCAB were found in neurocognitive outcomes. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT02338947."
+ },
+ {
+  "key": "a17",
+  "journal": "Eur Heart J",
+  "doi": "10.1093/eurheartj/ehag875",
+  "seccion": "Cardiopatía isquémica",
+  "ptype": "Estudio diagnóstico",
+  "acr": "ARC",
+  "prio": "Relevante",
+  "title": "Acute aortic syndrome rule-out criteria: development and external validation",
+  "abstract": "BACKGROUND AND AIMS: Acute aortic syndrome (AAS) is a rare but catastrophic event, presenting with non-specific symptoms that mimic common conditions, and carries a mortality approaching 80% when missed. Current clinical tools, including the Aortic Dissection Detection Risk Score (ADD-RS) and its refinement, the simplified AORTA score, achieve high sensitivity when combined with D-dimer but fail to identify a population at sufficiently low risk to safely avoid further testing. To address this gap, the Acute Aortic Syndrome Rule-Out Criteria (ARC) were developed and validated, a pragmatic bedside tool designed to safely exclude AAS in low-risk patients without additional testing. METHODS: A retrospective multistep derivation and validation study was conducted. The derivation cohort included patients with confirmed AAS from the International Registry of Acute Aortic Dissection (IRAD). Starting from existing scores, candidate predictors were identified from the IRAD dataset and sequentially added to achieve sensitivity ≥ 99%. External validation was performed in patients with suspected AAS across three prospective multicentre cohorts (ADvISED, PROFUNDUS, and DAShED). Diagnostic accuracy was assessed using sensitivity and specificity with 95% confidence intervals (CIs). RESULTS: The final seven-variable ARC included age >60 years, abrupt onset pain, severe pain, hypotension/shock, neurological deficit, pulse deficit, and known aortic disease. Patients were classified as positive if any ARC variable was present and negative only if all variables were absent. In the derivation cohort, ARC achieved a sensitivity of 99.2% (95% CI 99.1-99.3). In the ADvISED/PROFUNDUS cohort (4598 patients, 10.2% AAS prevalence), sensitivity was 100% (95% CI 99.2-100) with specificity 23.7% (95% CI 22.4-25.0). In the DAShED cohort (5346 patients, 0.3% prevalence), sensitivity was 100% (95% CI 76.8-100) and specificity 36.4% (95% CI 35.1-37.7), ruling out 36.3% of patients without missing any AAS cases. CONCLUSIONS: ARC is an externally validated, pragmatic clinical rule demonstrating high diagnostic sensitivity in a large external validation cohort. When incorporated into existing diagnostic pathways, ARC has the potential to reduce unnecessary testing while maintaining diagnostic performance. Further prospective validation is required to confirm its clinical utility."
+ },
+ {
+  "key": "a18",
+  "journal": "JACC Adv",
+  "doi": "10.1016/j.jacadv.2026.103428",
+  "seccion": "Cardiopatía isquémica",
+  "ptype": "Artículo de revisión",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Practical Management of Multivessel Coronary Artery Disease: Evidence, Controversies, and the Boundaries of Guidelines",
+  "abstract": "Multivessel coronary artery disease remains one of the most challenging cardiovascular diseases to manage. Selecting the optimal revascularization strategy requires multidisciplinary Heart Team discussion that incorporates coronary anatomy, clinical risk factors, and patient preferences into the decision-making process. Clinical guidelines provide a valuable framework for standardized, evidence-based care with reduced practice variability. However, many landmark trials enrolled highly selected populations and were conducted before the widespread adoption of contemporary revascularization techniques, including physiologic lesion assessment, intracoronary imaging, and modern arterial grafting strategies. Reflecting a collaborative Heart Team perspective, this state-of-the-art review from the American College of Cardiology Interventional Section Leadership Council and Cardiac Surgery Leadership Council summarizes contemporary evidence, reviews areas of ongoing controversy, and provides practical guidance for managing patients with multivessel coronary artery disease in clinical situations that extend beyond the scope of current guideline recommendations."
+ },
+ {
+  "key": "a19",
+  "journal": "Circ Cardiovasc Interv",
+  "doi": "10.1161/CIRCINTERVENTIONS.126.017520",
+  "seccion": "Cardiopatía isquémica",
+  "ptype": "Análisis secundario de ensayo clínico",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Nonculprit Lesion Complexity and Timing of Complete Revascularization in Patients Presenting With Acute Coronary Syndrome and Multivessel Disease: Insights From the BIOVASC Trial",
+  "abstract": "BACKGROUND: The optimal timing of complete revascularization for patients with acute coronary syndrome, multivessel disease and complex nonculprit coronary lesions (NCL) remains unclear. METHODS: The BIOVASC trial randomized patients with acute coronary syndrome and multivessel disease to immediate complete revascularization and staged complete revascularization. The primary end point was a composite of all-cause mortality, myocardial infarction, unplanned ischemia-driven revascularization, or cerebrovascular events at 2-year follow-up. In this exploratory post hoc analysis, patients were classified as having complex NCL if at least 1 nonculprit lesion met the following criteria: true bifurcation; severe calcification; lesion length >20 mm; aorto-ostial lesion; left main lesion. We aimed to compare a strategy of immediate complete revascularization and staged complete revascularization in patients presenting with acute coronary syndrome and multivessel disease with complex NCL. Moreover, we sought to compare patients with complex and noncomplex NCLs in terms of clinical outcomes. RESULTS: Among the 1525 patients enrolled in the BIOVASC trial, 550 (36.1%) had a complex NCL. The presence of a complex NCL was associated with a significantly higher incidence of the primary end point compared with noncomplex NCL (adjusted hazard ratio, 1.49 [95% CI, 1.11-2.02]; P=0.01), including spontaneous myocardial infarction (adjusted hazard ratio, 1.86 [95% CI, 1.12-3.09]; P=0.02). In patients with complex NCL, the cumulative incidence of the primary end point was 15.7% in the immediate complete revascularization group and 17.5% in the staged complete revascularization group (hazard ratio, 0.86 [95% CI, 0.57-1.31]; P=0.49). No significant interaction was observed between the presence of a complex NCL and revascularization strategy for the primary end point (P for interaction=0.40). CONCLUSIONS: In patients with acute coronary syndrome and multivessel disease, patients with complex NCL experienced worse clinical outcomes at 2-year follow-up, driven by higher rates of myocardial infarction. However, no statistically significant interaction was observed between NCL complexity and the effect of immediate complete revascularization versus staged complete revascularization. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT03621501."
+ },
+ {
+  "key": "a20",
+  "journal": "JACC Adv",
+  "doi": "10.1016/j.jacadv.2026.103443",
+  "seccion": "Cardiopatía isquémica",
+  "ptype": "Inteligencia artificial / modelo predictivo",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Machine Learning Reveals Prognostic Value of Medical History in Suspected Coronary Artery Disease",
+  "abstract": "BACKGROUND: Risk stratification in suspected coronary artery disease (CAD) relies on clinical history and imaging, but longitudinal medical history may provide additional prognostic information. OBJECTIVES: This study evaluated whether machine learning models using 10-year historical registry data improves prediction of major adverse cardiovascular events (MACE) beyond demographics and stress perfusion cardiovascular magnetic resonance (CMR) in patients with suspected CAD. METHODS: A total of 2,159 patients (65 ± 12 years, 44% women) undergoing stress perfusion CMR were included. Models used demographics, CMR findings, and registry diagnoses and procedures from the prior 10 years. MACE was defined as cardiovascular death, myocardial infarction, or coronary intervention. Random Forest models were used for binary prediction, and Random Survival Forests (RSF) and penalized Ridge Cox regression for time-to-event analysis. RESULTS: During 2.7 ± 0.9 years of follow-up, 212 patients (9.8%) experienced MACE. For binary prediction, the area under the receiver-operating characteristic curve (AUROC) was 0.66 (95% CI: 0.62-0.69) using demographics and 0.72 (95% CI: 0.68-0.75; P = 0.001) after adding historical registry data. The full model achieved an AUROC of 0.82 (95% CI: 0.79-0.85) and outperformed the demographics-plus-CMR model (AUROC: 0.81; 95% CI: 0.78-0.84; ΔAUROC: 0.014; 95% CI: 0.002-0.027; P = 0.029). In time-to-event analysis, RSF and Cox regression performed similarly using demographics and CMR (concordance index [C-index] 0.80 for both; P = 0.546). After including registry data RSF achieved a C-index of 0.81 (P = 0.144), and Cox performance decreased to C-index 0.77 (P < 0.001). CONCLUSIONS: In patients with suspected CAD, machine learning models using 10-year historical registry data have the potential to improve prognostic risk prediction beyond demographics and stress perfusion CMR."
+ }
+]
