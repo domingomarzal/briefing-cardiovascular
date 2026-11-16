@@ -3,5 +3,8 @@
  "a12": "TYDAL-TIMI 78",
  "a14": "NHANES",
  "a17": "ARC",
- "a42": "PyCath"
+ "a42": "PyCath",
+ "a48": "Lp(a)HORIZON",
+ "a49": "ZEUS",
+ "a50": "OptimPacing"
 }
