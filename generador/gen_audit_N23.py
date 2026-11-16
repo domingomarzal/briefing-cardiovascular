@@ -60,6 +60,7 @@ for f in sorted(glob.glob(GEN + "/n23_out[0-9].json")):
 # En N23 el cruce de DOI con todos los números anteriores no detectó ningún duplicado.
 # Excluidos por DECISIÓN EDITORIAL (ámbito). En N23 no hay ninguno.
 FUERA_AMBITO = set()
+NOELIG.add("CR:10.1016/j.jchf.2026.103500")  # CAMEO-SEMA: artículo de diseño, sin resultados
 rows = []
 for a in corpus:
     p = a["pmid"]
@@ -157,15 +158,22 @@ NOTA_TOP3 = ('<p class="intro" style="margin-top:10px;"><b>Nota sobre la selecci
  'efinopegdutida en la MASH (<i>Lancet</i>), <b>SURMOUNT-ADOLESCENTS</b> (<i>JAMA</i>) y el ensayo de '
  'ejercicio de resistencia durante el tratamiento con tirzepatida (<i>Nat Med</i>). En <i>N Engl J Med</i> '
  'la cobertura fue completa: ninguno de los artículos no recogidos era original cardiovascular. '
- '<b>Pendiente para el Mac.</b> La auditoría de cobertura detectó además <b>9 artículos cardiovasculares</b> '
- 'publicados en la ventana cuyo resumen la nube NO puede leer (su red no alcanza a jacc.org ni a '
- 'sciencedirect.com, y PubMed aún no los había indexado): tres de <i>J Am Coll Cardiol</i> —entre ellos el '
- 'análisis de evolocumab en insuficiencia renal de <b>VESALIUS-CV</b>—, tres de <i>JACC Heart Fail</i>, dos de '
- '<i>Atherosclerosis</i> —incluido el documento de la European Atherosclerosis Society sobre la Lp(a) tras '
- 'Lp(a)HORIZON— y uno de <i>JACC Adv</i>. No están descartados: quedan a la espera de que el Mac recupere su '
- 'resumen en la web del editor. El detalle está en n23_cobertura.json. '
- '<b>Verificación de enlaces.</b> La revisión uno a uno de los enlaces en un navegador real queda pendiente '
- 'para el Mac (n23_linkcheck_pendiente.json): la nube no tiene salida a los editores. '
+ '<b>Lectura en el editor desde el Mac (16/11/2026).</b> La auditoría de cobertura detectó además <b>9 artículos '
+ 'cardiovasculares</b> publicados en la ventana que PubMed aún no había indexado y cuyo resumen la nube no puede leer. '
+ 'Se leyeron uno a uno en ScienceDirect. <b>Entran 4:</b> el análisis de evolocumab con función renal reducida de '
+ '<b>VESALIUS-CV</b> (<i>J Am Coll Cardiol</i>), la declaración de la European Atherosclerosis Society sobre la Lp(a) '
+ 'tras Lp(a)HORIZON (<i>Atherosclerosis</i>), el ensayo multicéntrico de alertas electrónicas para antagonistas del '
+ 'receptor mineralocorticoide y <b>DETECT-HF</b> (ambos en <i>JACC Heart Fail</i>). Al entrar, salen del top 5 de su '
+ 'sección cuatro artículos de menor puntuación (a14 y a15 en Dislipemia; a24 y a25 en Insuficiencia cardíaca). '
+ '<b>No entran 5:</b> dos cartas de investigación de <i>J Am Coll Cardiol</i> sin resumen (ADHERE-ASCVD por edad y la '
+ 'evaluación de un modelo de lenguaje en insuficiencia cardíaca), el artículo de diseño de CAMEO-SEMA (sin resultados), '
+ 'y dos originales que quedan fuera del top 5 de su sección (partículas HDL, <i>Atherosclerosis</i>; TAVI en '
+ 'miocardiopatía hipertrófica, <i>JACC Adv</i>). '
+ '<b>Decisión editorial.</b> Por decisión del Dr. Marzal, «No te los puedes perder» lo forman Lp(a)HORIZON, ZEUS y '
+ 'OptimPacing (<i>N Engl J Med</i>), publicados el 7-8 de noviembre y ya recogidos en el N22; sus fichas se actualizaron '
+ 'con el abstract de la revista. '
+ '<b>Verificación de enlaces.</b> Todos los enlaces del número se abrieron uno a uno en un navegador real desde el Mac; '
+ 'seis de <i>JACC Adv</i> que daban «Page Not Found» en jacc.org se redirigieron a ScienceDirect. '
  '<b>Sección corta, sin relleno:</b> Imagen cardíaca se queda con 2 fichas, que son todas las elegibles de la '
  'semana en ese apartado.</p>')
 head = re.sub(r'<p class="intro" style="margin-top:10px;"><b>Nota sobre (?:el bloque|la selección).*?</p>', lambda _m: NOTA_TOP3, head, count=1, flags=re.S)
@@ -193,8 +201,8 @@ head = head.replace(
   "Auditoría completa de la búsqueda semanal en PubMed, ampliada con los artículos que el editor "
   "publicó en la ventana y PubMed no había indexado, recuperados por Crossref (auditoría de cobertura, "
   "PASO 1b). Esta semana la auditoría de cobertura incorporó 3 artículos que el filtro temático de las "
-  "revistas generalistas había dejado fuera del corpus, y dejó anotados otros 9 artículos cardiovasculares "
-  "cuyo resumen la nube no puede leer y que recuperará el Mac")
+  "revistas generalistas había dejado fuera del corpus, y el Mac leyó en la web del editor otros 9 artículos cardiovasculares "
+  "no indexados, de los que se incorporaron 4")
 try:
     _fix = json.load(open(GEN + "/n23_linkfix.json"))
     NO_DOI = {s["pmid"] for s in sel.values() if s["key"] in _fix}

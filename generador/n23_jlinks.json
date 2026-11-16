@@ -6,15 +6,12 @@
  "a10": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02043-X/fulltext",
  "a12": "https://www.nejm.org/doi/full/10.1056/NEJMoa2612463",
  "a13": "https://www.sciencedirect.com/science/article/pii/S2772963X26009075",
- "a14": "https://www.ahajournals.org/doi/10.1161/JAHA.126.053443",
  "a16": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.125.078842",
  "a18": "https://www.sciencedirect.com/science/article/pii/S2772963X26008501",
  "a19": "https://www.ahajournals.org/doi/10.1161/CIRCINTERVENTIONS.126.017520",
  "a20": "https://www.sciencedirect.com/science/article/pii/S2772963X26008653",
  "a21": "https://www.sciencedirect.com/science/article/pii/S2772963X26008690",
  "a22": "https://www.jacc.org/doi/10.1016/j.jchf.2026.103473",
- "a24": "https://www.sciencedirect.com/science/article/pii/S2772963X26008719",
- "a25": "https://www.ahajournals.org/doi/10.1161/JAHA.126.050110",
  "a26": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.126.083732",
  "a27": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.126.083722",
  "a30": "https://www.ahajournals.org/doi/10.1161/JAHA.126.050695",
@@ -33,5 +30,9 @@
  "a47": "https://www.heartrhythmjournal.com/article/S1547-5271(26)02983-8/fulltext",
  "a48": "https://www.nejm.org/doi/full/10.1056/NEJMoa2610159",
  "a49": "https://www.nejm.org/doi/full/10.1056/NEJMoa2612126",
- "a50": "https://www.nejm.org/doi/full/10.1056/NEJMoa2612972"
+ "a50": "https://www.nejm.org/doi/full/10.1056/NEJMoa2612972",
+ "a51": "https://www.jacc.org/doi/10.1016/j.jacc.2026.11.118",
+ "a52": "https://www.atherosclerosis-journal.com/article/S0021-9150(26)01321-3/fulltext",
+ "a53": "https://www.jacc.org/doi/10.1016/j.jchf.2026.103574",
+ "a54": "https://www.jacc.org/doi/10.1016/j.jchf.2026.103575"
 }
