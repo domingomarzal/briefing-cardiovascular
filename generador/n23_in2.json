@@ -1,0 +1,306 @@
+[
+ {
+  "idx": 50,
+  "journal": "JACC Cardiovasc Interv",
+  "title": "Prosthesis-Patient Mismatch and Patient-Centered Outcomes After TAVR.",
+  "ptypes": [
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Multicenter Study"
+  ],
+  "abstract": "BACKGROUND: Prosthesis-patient mismatch (PPM) after transcatheter aortic valve replacement has been widely studied for its association with clinical outcomes, but its effect on patient-reported health status remains less defined. OBJECTIVES: This study sought to evaluate the association between PPM severity and health status through 3-year follow-up after transcatheter aortic valve replacement. METHODS: This post hoc analysis of the SCOPE I (Safety and Efficacy of the ACURATE Neo/TF Compared to the SAPIEN 3 Bioprosthesis) randomized trial categorized patients according to PPM severity using Valve Academic Research Consortium-3 criteria. Endpoints included survival and patient-reported health status, with an integrated outcome defined as being alive with good health status (Kansas City Cardiomyopathy Questionnaire Overall Summary score ≥75 without a decline of >10 points from baseline). RESULTS: Among 662 patients, moderate and severe PPM occurred in 184 (27.8%) and 69 (10.4%), respectively. All-cause mortality at 1 and 3 years was 7.0% and 20.5%, with no differences across PPM categories. Kansas City Cardiomyopathy Questionnaire Overall Summary score was similar through 1 year but lower at 3 years in patients with severe vs no PPM (median 71.1 vs 83.9; P = 0.027). Fewer patients with severe PPM were alive with good health status at 3 years (30.6% vs 49.4%; P = 0.021). In multivariable analysis, severe PPM was associated with a lower likelihood of the integrated outcome (OR: 0.51; 95% CI: 0.27-0.96; P = 0.036), but this association was no longer statistically significant after adjustment for 30-day mitral regurgitation (OR: 0.59; 95% CI: 0.30-1.15; P = 0.121). CONCLUSIONS: Among survivors, severe PPM was associated with a lower likelihood of good health status at 3 years. This association was attenuated after accounting for 30-day residual mitral regurgitation, suggesting a possible contributory role. Given the post hoc design, the findings are hypothesis-generating.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcin.2026.07.049"
+ },
+ {
+  "idx": 51,
+  "journal": "Atherosclerosis",
+  "title": "Molecular signatures associated with reduced renal function in aortic regurgitation and aortic stenosis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: Chronic kidney disease (CKD) accelerates aortic valve (AV) disease, yet the molecular pathways linking declining renal function to aortic regurgitation (AR) and aortic stenosis (AS) remain poorly defined. We aimed to characterize AV phenotype-specific molecular signatures associated with reduced renal function. METHODS: We performed an observational cross-sectional study using targeted proteomic profiling (Olink) in human AV from patients with AR or AS, stratified by renal function (eGFR≥60 vs < 60 mL/min/1.73 m2). Pathway enrichment analyses were performed using exploratory candidate proteins. Candidate molecular signatures were subsequently examined in independent cohorts (AR: n = 215; AS: n = 325) across renal function categories using histology, immunohistochemistry, ELISA, and qPCR. RESULTS: Reduced renal function was associated with distinct molecular patterns in AR and AS. In AR, exploratory proteomic profiling suggested enrichment of neutrophil degranulation, chemotaxis/adhesion and thrombo-inflammatory signaling pathways. Tissue characterization showed progressive extracellular matrix remodeling, collagen maturation, increased neutrophil markers (NGAL, MPO) and upregulation of pro-inflammatory (IL6, IL-8, IL-32, IL-33, CCL-2, TNF-α, RANTES), pro-adhesive (ICAM-1) and pro-thrombotic mediators (PAI-1) across renal function categories. In AS, exploratory proteomics suggested matrix disassembly and osteogenic signatures, while tissue characterization showed greater valvular calcification (BMP-2, -4, -9), collagen degradation (COL1, MMP-1, -3, TIMP-1) and inflammatory infiltration with declining renal function. Shared candidate proteins showed opposite regulation in AR and AS. CONCLUSIONS: Reduced renal function is associated with distinct, phenotype-specific patterns of AV remodeling-predominantly thrombo-inflammatory in AR and osteogenic-matrix-disruptive in AS- indicating heterogeneous molecular responses across the two major forms of aortic valve disease.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.atherosclerosis.2026.121953"
+ },
+ {
+  "idx": 52,
+  "journal": "J Am Heart Assoc",
+  "title": "Sex-Stratified Outcomes in Balloon Angioplasty for Symptomatic Intracranial Artery Stenosis: The BASIS Subgroup Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The BASIS (Balloon Angioplasty for Symptomatic Intracranial Artery Stenosis) trial demonstrated that balloon angioplasty plus aggressive medical management was superior to aggressive medical management alone for symptomatic intracranial atherosclerotic stenosis. However, whether sex modifies this treatment effect is unknown. METHODS: This prespecified secondary analysis of the BASIS randomized controlled trial included 501 patients with symptomatic intracranial atherosclerotic stenosis from 31 Chinese centers (November 2018 to April 2022). Baseline characteristics and outcomes were compared between sexes and across treatment arms within each sex. The primary outcome was stroke or death within 30 days, or ischemic stroke in the qualifying artery territory or revascularization beyond 30 days through 12 months. RESULTS: Among 501 patients (mean age, 58 years), 158 (31.5%) were women. No significant sex-by-treatment interaction was observed for primary or key secondary outcomes (all P for interaction >0.05). In sex-stratified analyses, balloon angioplasty reduced primary outcome risk versus aggressive medical management in men (2.9% versus 11.1%; hazard ratio [HR]=0.21 [95% CI, 0.07-0.65]; P=0.01). In women, the effect favored balloon angioplasty but was not statistically significant (7.8% versus 18.5%; HR=0.37 [95% CI, 0.14-1.01]; P=0.051). CONCLUSIONS: No significant interaction between sex and treatment effect was found, suggesting balloon angioplasty's benefit relative to aggressive medical management does not clearly differ by sex. Sex-stratified results showed significant benefit in men and a nonsignificant trend in women, but the study lacked power for definitive interaction testing, so findings are exploratory. Further research is needed to confirm these findings in broader populations. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique Identifier: NCT03703635.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.048494"
+ },
+ {
+  "idx": 53,
+  "journal": "JAMA",
+  "title": "Once-Weekly Ribupatide for Weight Loss in Adults in China With Overweight or Obesity: The GEMINI-1 Randomized Clinical Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: Obesity is a major health problem in China; more pharmacotherapy choices for long-term weight management are needed. OBJECTIVE: To evaluate the efficacy and safety of once-weekly subcutaneous ribupatide, a dual glucose-dependent insulinotropic polypeptide/glucagon-like peptide-1 receptor agonist, for weight loss in adults in China with overweight or obesity without diabetes. DESIGN, SETTING, AND PARTICIPANTS: This multicenter, randomized, double-blind, placebo-controlled, phase 3 clinical trial was conducted at 55 sites in China. From May to June 2024, adults without diabetes who had a body mass index of 28 or greater or 24 or greater with at least 1 weight-related comorbidity were enrolled, with final follow-up on June 20, 2025. INTERVENTIONS: Participants were randomized to receive once-weekly subcutaneous ribupatide (target doses of 2 mg, 4 mg, or 6 mg) or matching placebo for 48 weeks, with dose escalation for up to 20 weeks and concomitant lifestyle intervention. MAIN OUTCOMES AND MEASURES: The primary outcome was change in body weight from baseline to week 48, including percent change in body weight and the percentage of participants achieving at least 5% body weight reduction, analyzed under the treatment policy estimand. RESULTS: Among 567 randomized participants (309 [54.5%] female; mean [SD] age was 34.4 [8.4] years, body weight was 93.0 [17.3] kg, and body mass index was 33.3 [4.5]), 514 (90.7%) completed the 48-week treatment period. Least-squares mean percentage changes in body weight at week 48 were -10.7%, -16.4%, and -17.7% with ribupatide 2, 4, and 6 mg, respectively, vs -1.4% with placebo. At week 48, the placebo-adjusted differences in percentage change in body weight were -9.3 (95% CI, -11.4 to -7.3) percentage points with ribupatide 2 mg, -15.0 (95% CI, -17.1 to -12.9) percentage points with ribupatide 4 mg, and -16.3 (95% CI, -18.4 to -14.2) percentage points with ribupatide 6 mg (P < .001 for all). For at least 5% body weight reduction at week 48, the multiply imputed response rates were 68.1% (95% CI, 59.9% to 75.3%) for ribupatide 2 mg (97 of 142), 88.0% (95% CI, 81.3% to 92.6%) for ribupatide 4 mg (124 of 141), 85.7% (95% CI, 78.6% to 90.7%) with ribupatide 6 mg (121 of 141), and 16.0% (95% CI, 10.8% to 23.1%) with placebo (23 of 143). Placebo-adjusted differences for ribupatide 2, 4, and 6 mg were 52.0 (95% CI, 42.2 to 61.9), 72.0 (95% CI, 63.7 to 80.2), and 69.7 (95% CI, 61.1 to 78.3) percentage points, respectively (all P < .001). The most frequent treatment-emergent adverse events with ribupatide were gastrointestinal events, occurring in 47.9%, 58.2%, and 63.1% of participants receiving ribupatide 2 mg, 4 mg, and 6 mg, respectively, compared with 23.1% receiving placebo; most were mild to moderate in severity and few participants (0.7%) permanently discontinued study treatment because of adverse events. CONCLUSIONS AND RELEVANCE: Among adults in China with overweight or obesity without diabetes, once-weekly subcutaneous ribupatide resulted in significantly greater weight loss at 48 weeks. Gastrointestinal adverse events were the most frequent tolerability findings. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT06396429.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1001/jama.2026.24796"
+ },
+ {
+  "idx": 54,
+  "journal": "JACC Cardiovasc Interv",
+  "title": "Cardiac Damage and Clinical Outcomes in Symptomatic Severe Aortic Stenosis Undergoing Transcatheter Aortic Valve Replacement.",
+  "ptypes": [
+   "Equivalence Trial",
+   "Journal Article",
+   "Multicenter Study"
+  ],
+  "abstract": "BACKGROUND: The extent of cardiac damage in patients with aortic stenosis (AS) is associated with worse clinical outcomes. OBJECTIVES: This study sought to investigate the clinical impact of cardiac damage using the updated criteria incorporating the echocardiographic probability of pulmonary hypertension. METHODS: This post hoc subanalysis of LANDMARK trial, which randomized 768 patients with severe AS to the Myval transcatheter heart valve (THV) series or to contemporary THVs (Sapien and Evolut series), used updated cardiac damage classification: stage 0, no cardiac damage; stage 1, left ventricular damage; stage 2, left atrial or mitral valve damage; stage 3, pulmonary artery or tricuspid valve damage; and stage 4, right ventricular damage. The impact of cumulative cardiac damage, defined as meeting all criteria for stages 1 to 4, was also assessed. The primary endpoint was 1-year all-cause mortality. RESULTS: Cardiac damage stages were assessed in 596 patients (stage 0, n = 36; stage 1, n = 88; stage 2, n = 284; stage 3, n = 84; stage 4, n = 104), with a mean age of 80.2 (5.7) years and a mean Society of Thoracic Surgeons score of 3.3% (2.4%). One-year mortality was 0%, 1.1%, 4.7%, 7.2%, and 20.4% in stages 0, 1, 2, 3, and 4, respectively (log-rank P < 0.001). The area under the curve for predicting 1-year mortality was 0.739. Patients with cumulative cardiac damage had the highest mortality (23.6%). In the multivariable analysis, stage 4 was independently associated with higher 1-year mortality. CONCLUSIONS: The updated cardiac damage staging stratified 1-year mortality after transcatheter aortic valve replacement, highlighting the importance of comprehensive echocardiographic assessment in severe AS. (LANDMARK Trial: a Randomised Controlled Trial of Myval THV [LANDMARK]; NCT04275726).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcin.2026.07.030"
+ },
+ {
+  "idx": 55,
+  "journal": "Eur Heart J Cardiovasc Imaging",
+  "title": "Standards Defining Echocardiography Core Laboratory (ECL) in Clinical Practice and Research.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Echocardiography is extensively utilized in both clinical practice and research due to its accessibility. Echocardiography core laboratories (ECLs) adhering to societal guidelines offer superior readings and interpretations compared with the on-site assessments by reducing measurement variability and enhancing study precision. In the present work, we aim to define minimum standards for clinical echocardiography laboratories and research ECLs based on recommendations from the American Society of Echocardiography and the European Association of Cardiovascular Imaging, as well as on expert opinion and our experience in European countries. Accurate acquisition of high-quality images is crucial for ensuring reproducibility, repeatability and reliability of the echocardiographic measurements. In addition to the commonly used workstations, an academic ECL must also possess the necessary capacities and skilled personnel to conduct sophisticated research projects. Personnel should hold advanced certification in echocardiography, indicating postgraduate training and experience beyond the basic cardiovascular ultrasound education. They should be capable of designing, performing, and interpreting complex echocardiography studies. Reproducibility of the ECL should be validated using a small, randomly selected sample, preferably in the early analytic phase. ECL readings and interpretations are superior to site-reported measurements and serve as the gold standard in observational studies and clinical trials. To ensure internal validity, an academic ECL should continuously evaluate/report reproducibility, repeatability and reliability. ECL should be formally acknowledged and accredited by an international scientific imaging society.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/ehjci/jeag317"
+ },
+ {
+  "idx": 56,
+  "journal": "J Am Coll Cardiol",
+  "title": "Left Atrial Appendage Closure or Anticoagulation for Atrial Fibrillation: Navigating Heterogeneity in Clinical Evidence: JACC Evidence Review.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Left atrial appendage closure (LAAC) has emerged as an alternative to long-term anticoagulation for preventing stroke or systemic embolism in selected patients with atrial fibrillation (AF) based on several randomized controlled trials (RCTs) that collectively enrolled >7,000 participants. In this JACC Evidence Review, we interpret the major RCTs as distinct experiments, clarify what each can and cannot establish, and offer a phenotype-based framework for interpreting the evidence. The most recent RCTs, OPTION, CLOSURE-AF, and CHAMPION-AF, have prompted efforts to pool the evidence into a single summary estimate. However, these trials are not one coherent evidence base; they are distinct clinical experiments that asked different questions. They differ in patient phenotype, comparator, device generation, postprocedure antithrombotic regimen, endpoint construction, and follow-up duration. Study-level meta-analysis of published reports remains methodologically valid for estimating the broad direction of effect of a device class, but when the component trials differ materially in patient phenotype, comparator, and outcome construction, the pooled estimate does not map to a common patient group or treatment decision. Patient eligibility as well as thromboembolic and bleeding risk varied markedly across trials. In addition, device technology has progressed, and comparators have evolved from warfarin to direct oral anticoagulants. Heterogeneity and insufficient details also exist about the antithrombotic therapy regimen in LAAC arms and adjunct antiplatelet therapy in control arms. Methodological issues further complicate interpretation, including the use of bleeding events (ie, the putative ancillary benefit of LAAC compared with anticoagulation) within composite endpoints tested for noninferiority, varying noninferiority margins, analytical approaches that may undermine the interpretation of noninferiority, and exclusion of periprocedural bleeding from primary safety endpoints in some trials. Finally, the standard of care for anticoagulation in AF has evolved, obviating concomitant aspirin use in stable individuals on therapeutic anticoagulation, thereby reducing bleeding risk compared with that of the control arm of LAAC RCTs. For most anticoagulation-eligible patients, anticoagulation remains the preferred first-line strategy. LAAC is a reasonable option when long-term anticoagulation is unsafe or unsustainable provided that procedural risk, adjunct antithrombotic feasibility, surveillance needs, and competing mortality are carefully considered. RCT evidence in this latter population is limited, and RCTs in other populations have features that limit their support for LAAC as an alternative to anticoagulation. Because LAAC and anticoagulation offer different types of risk, aligning the most applicable evidence with patient values through shared decision-making is central to care.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacc.2026.09.018"
+ },
+ {
+  "idx": 57,
+  "journal": "Rev Esp Cardiol (Engl Ed)",
+  "title": "Incidence and predictors of de novo atrial fibrillation in patients with heart failure undergoing continuous rhythm monitoring.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "INTRODUCTION AND OBJECTIVES: Atrial fibrillation (AF) is associated with adverse clinical outcomes in patients with heart failure (HF). The true incidence of de novo AF in HF, however, remains uncertain. Moreover, the role of clinical variables and circulating biomarkers in AF risk stratification in this population is not well established. This study aimed to determine the incidence of AF in patients with HF using long-term continuous rhythm monitoring and to identify clinical, structural, and biomarker-based predictors. METHODS: This multicenter, prospective study included patients with HF and reduced or preserved left ventricular ejection fraction (LVEF). Long-term rhythm monitoring was performed using implantable loop recorders or single-chamber defibrillators without atrial leads and with ventricular pacing < 20%. Serial blood samples were obtained at baseline, during follow-up, and during HF decompensation, and analyzed using a multiplex panel of selected biomarkers. Multivariable analyses were performed using both baseline biomarker levels and laboratory values closest to AF onset or HF decompensation. RESULTS: A total of 345 patients were enrolled (79% male; median age 68 years; 53% with LVEF< 40%. During a median follow-up of 756 days, 86 patients (24.9%) developed AF episodes lasting > 6 minutes, and 64 patients (18.5%) died. Hypertension, left atrial volume, beta-blocker use, CA-125, NT-proBNP, COL4A1, and AT1-AA were independently associated with AF, whereas aldosterone receptor antagonist therapy was associated with a lower risk of HF (C-index, 0.74). Patients with persistent AF as the initial manifestation had significantly higher mortality than those with paroxysmal AF or no AF. NT-proBNP and COL4A1 were associated with mortality. Clinically relevant bradyarrhythmias and ventricular tachyarrhythmias were also detected. CONCLUSION: De novo AF is a common complication in patients with HF. Integrating clinical variables, structural parameters, and biomarkers improves the identification of patients at increased risk of developing AF. Continuous monitoring enables early detection of rhythm abnormalities that may influence therapeutic management.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.rec.2026.09.008"
+ },
+ {
+  "idx": 58,
+  "journal": "Circ Res",
+  "title": "FGF13 Regulates Myocardial Ischemia-Reperfusion Injury via PGRN Glycosylation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Macrophage polarization and complement activation play a pivotal role in the pathogenesis of myocardial ischemia-reperfusion (I/R) injury. FGF13 (fibroblast growth factor 13) is a critical regulator of cardiac homeostasis. However, the role and mechanism of FGF13 in myocardial I/R injury remain unclear. METHODS: FGF13 expression was detected in cardiomyocytes after hypoxia/reoxygenation and in hearts subjected to myocardial I/R. Cardiomyocyte-specific FGF13 knockout and adeno-associated virus serotype 9-mediated overexpression mice were generated. Transcriptomic and proteomic analyses identified key downstream mechanisms. Immunoprecipitation-mass spectrometry, co-immunoprecipitation, and glycoproteomics identified PGRN (progranulin) as an FGF13-interacting protein and mapped its glycosylation site. Mechanistic studies were performed using Transwell cocultures of neonatal mouse cardiomyocytes and bone marrow-derived macrophages, together with molecular and biochemical approaches. Virtual screening and molecular dynamics simulations identified a small-molecule FGF13 inhibitor. RESULTS: FGF13 was upregulated in cardiomyocytes after myocardial I/R. Cardiomyocyte-specific FGF13 knockout alleviated, whereas overexpression exacerbated, cardiac dysfunction and myocardial injury after I/R. Mechanistically, FGF13, through its asparagine 121 residue, competitively occupied the asparagine 263 glycosylation site of PGRN, sterically preventing STT3A (STT3 oligosaccharyltransferase complex catalytic subunit A)-mediated glycosylation of asparagine 263 and suppressing PGRN secretion. FGF13 depletion restored PGRN glycosylation and secretion, which activated macrophage TNFR2/PI3K/AKT (tumor necrosis factor receptor 2/phosphoinositide 3-kinase/protein kinase B) signaling in a paracrine manner, promoted M2 polarization while suppressing M1 polarization, and inhibited complement activation and inflammation. The small-molecule FGF13 inhibitor CWD8 (1-[2-amino-2-methylpropyl]-5,5-dimethylpiperidin-3-ol) also attenuated myocardial I/R injury. CONCLUSIONS: Our findings highlight the critical role of FGF13 in myocardial I/R injury and reveal a competitive mechanism by which FGF13 hinders STT3A-mediated PGRN glycosylation. We identify the PGRN glycosylation-PI3K/AKT axis as the key downstream pathway mediating FGF13-regulated macrophage polarization and complement activation, suggesting that small-molecule FGF13 inhibitors may represent a promising therapeutic strategy for myocardial I/R injury.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCRESAHA.126.329008"
+ },
+ {
+  "idx": 59,
+  "journal": "J Am Heart Assoc",
+  "title": "Human Journey behind Food Is Medicine: A Participatory Study With a Lived Experience Advisory Group.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Poor diet is substantially associated with cardiometabolic diseases in the United States, yet systemic efforts to improve dietary behaviors remain limited. The American Heart Association's Health Care by FoodTM initiative seeks to advance Food Is Medicine interventions by integrating patient-centered insights into program design. This study aimed to explore the lived experiences of individuals managing diet-related chronic conditions to better understand the emotional, cultural, and systemic factors influencing dietary behavior change. METHODS: Using a participatory action research approach, a diverse Lived Experience Patient Advisory Group was convened. Fourteen participants engaged in a multiphase process including surveys, daily food diaries, individual interviews, and a 2-day in-person workshop. These activities were designed to elicit personal narratives, identify barriers and motivators to dietary change, and co-develop potential solutions. Thematic analysis was used to synthesize insights across all engagement activities. RESULTS: Fifteen subthemes emerged, grouped into 3 broader themes: facing change, understanding barriers, and acting. These themes highlighted the complex interplay between identity, social norms, access, and self-efficacy in shaping food choices. Participants also proposed a framework of opportunities for intervention, emphasizing the importance of support systems, culturally relevant education, and systemic alignment across health care, community, and policy sectors. CONCLUSIONS: Behavior change in food consumption is a deeply personal and socially embedded process. Centering lived experience in Food Is Medicine program design offers critical insights for creating more inclusive, effective, and sustainable interventions. This work underscores the need for coordinated, multilevel strategies to support dietary behavior change at scale.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.045176"
+ },
+ {
+  "idx": 60,
+  "journal": "Eur Heart J",
+  "title": "Promoting integrity in collaborations between academia and the medical industry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Collaboration between academia and the medical industry has been fundamental to advances in cardiovascular diagnostics, pharmacotherapy, devices, and digital health. However, interactions among academic institutions, commercial partners, and professional societies continue to require careful governance to preserve transparency, independence, and public trust. While several professional societies have established robust conflict-of-interest policies, differences in disclosure frameworks and regulatory requirements across institutions and jurisdictions continue to affect clinical research, guideline development, and professional education. Court of Justice of the European Union (EU) rulings further indicate that disclosure alone may be insufficient for expert input within EU agencies. This conceptual article discusses a structured framework for collaboration between academia and the medical industry. Based on European and international policies, regulatory experience, and established practice models, it defines six principles-transparency, independence, accountability, equity, sustainability, and patient-centred benefit-and provides practical recommendations. These include harmonized, publicly accessible disclosure standards; separation of industrial funding from scientific decision-making; strengthened institutional accountability; and independent education and training to support integrity across stakeholders.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurheartj/ehag855"
+ },
+ {
+  "idx": 61,
+  "journal": "JAMA Cardiol",
+  "title": "First and Subsequent Major Cardiovascular Events With Oral Semaglutide in High-Risk Type 2 Diabetes: A Secondary Analysis of the SOUL Randomized Clinical Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: In the Semaglutide Cardiovascular Outcomes Trial (SOUL), oral semaglutide reduced the risk of a first 3-point major adverse cardiovascular event (3-P MACE; including nonfatal myocardial infarction, nonfatal stroke, and cardiovascular [CV] death). Total event analyses, assessing both first and subsequent events, can contribute to a better understanding of the impact of interventions on the total burden of disease; however, the effects of oral semaglutide on subsequent events are unknown. OBJECTIVE: To evaluate the effect of oral semaglutide vs placebo on total 3-P MACE. DESIGN, SETTING, AND PARTICIPANTS: This was a prespecified secondary analysis of the double-blind, placebo-controlled, event-driven, phase 3b SOUL randomized clinical trial, conducted from June 2019 to September 2024 with a median (IQR) follow-up of 49.5 (44.0-54.9) months at 444 centers in 33 countries. Participants had type 2 diabetes and atherosclerotic CV disease and/or chronic kidney disease. Data were analyzed from December 2024 to August 2025. INTERVENTIONS: Once-daily oral semaglutide (maximal dose 14 mg) or placebo, in addition standard of care. MAIN OUTCOMES AND MEASURES: Occurrence of total (first and subsequent) 3-P MACE. RESULTS: Overall, 9650 participants (median [IQR] age, 66.0 [61.0-72.0] years; 6860 [71.1%] male) were randomized 1:1. In the oral semaglutide group, fewer first and subsequent 3-P MACE occurred (683 total; 579 first and 104 subsequent events) compared with placebo (791 total; 668 first and 123 subsequent events) (mean ratio, 0.86; 95% CI, 0.76-0.97; P = .01). For the end point of 3-P MACE plus non-CV death, there were 138 fewer total events with oral semaglutide (910 events) compared with placebo (1048 events) (mean ratio, 0.87; 95% CI, 0.79-0.95; P = .004). As previously reported, adverse events led to treatment discontinuation in 749 (15.5%) and 559 (11.6%) participants receiving oral semaglutide and placebo, respectively. CONCLUSIONS: Oral semaglutide reduced the risk of first plus subsequent 3-P MACE vs placebo, highlighting the benefit of oral semaglutide in reducing the total burden of clinical morbidity and mortality in this high-risk population. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT03914326.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1001/jamacardio.2026.4944"
+ },
+ {
+  "idx": 62,
+  "journal": "JACC Adv",
+  "title": "The PELICANS Registry: Peripartum Cardiomyopathy Extended Longitudinal Investigation of Clinical Outcomes-Adverse Events, Nonrecovery, and Survival.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Peripartum cardiomyopathy (PPCM) disproportionately affects Black women, yet long-term outcome data in socially vulnerable, predominantly Black cohorts remain limited. OBJECTIVES: The purpose of this study was to characterize long-term outcomes and baseline predictors of survival, major adverse events (MAEs), and left ventricular ejection fraction (LVEF) recovery in a U.S. PPCM cohort. METHODS: This retrospective-prospective registry included 159 women with PPCM (1982-2024). Primary outcomes were all-cause mortality, MAEs, and LVEF recovery (≥50%). Multivariable and extended Cox models evaluated predictors, adjusting for LVEF recovery and subsequent pregnancy. RESULTS: The cohort was 80.5% Black. Over a median 9.0-year follow-up (IQR: 3.4-15.5), 41 patients (25.8%) died and 64 (40.3%) had MAEs. Among 148 patients with echocardiographic follow-up, 69 (46.6%) had sustained LVEF recovery, though 23 (25.0% of initially recovered) declined to LVEF <50%. Independent mortality predictors included elevated creatinine (adjusted HR [aHR]: 2.86; 95% CI: 1.37-5.97), lower index LVEF (aHR: 0.94; 95% CI: 0.90-0.98), family history of cardiomyopathy or heart failure (aHR: 3.27; 95% CI: 1.41-7.56), and non-O blood type (aHR: 2.36; 95% CI: 1.04-5.33), retaining significance after adjusting for LVEF recovery and subsequent pregnancy (n = 62). Elevated creatinine increased MAE odds (adjusted OR: 7.09; 95% CI: 1.98-32.9), while higher LVEF, parity, and obesity reduced them. Baseline LV dilation (≥60 mm), Black race, older age, and family history of cardiomyopathy or heart failure predicted lower LVEF recovery odds. CONCLUSIONS: This long-term predominantly Black PPCM cohort had high mortality, low LVEF recovery, and frequent late relapse. These findings highlight the importance of baseline risk stratification and sustained echocardiographic surveillance to guide clinical decision-making.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103405"
+ },
+ {
+  "idx": 63,
+  "journal": "JACC Adv",
+  "title": "Machine Learning Reveals Prognostic Value of Medical History in Suspected Coronary Artery Disease.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Risk stratification in suspected coronary artery disease (CAD) relies on clinical history and imaging, but longitudinal medical history may provide additional prognostic information. OBJECTIVES: This study evaluated whether machine learning models using 10-year historical registry data improves prediction of major adverse cardiovascular events (MACE) beyond demographics and stress perfusion cardiovascular magnetic resonance (CMR) in patients with suspected CAD. METHODS: A total of 2,159 patients (65 ± 12 years, 44% women) undergoing stress perfusion CMR were included. Models used demographics, CMR findings, and registry diagnoses and procedures from the prior 10 years. MACE was defined as cardiovascular death, myocardial infarction, or coronary intervention. Random Forest models were used for binary prediction, and Random Survival Forests (RSF) and penalized Ridge Cox regression for time-to-event analysis. RESULTS: During 2.7 ± 0.9 years of follow-up, 212 patients (9.8%) experienced MACE. For binary prediction, the area under the receiver-operating characteristic curve (AUROC) was 0.66 (95% CI: 0.62-0.69) using demographics and 0.72 (95% CI: 0.68-0.75; P = 0.001) after adding historical registry data. The full model achieved an AUROC of 0.82 (95% CI: 0.79-0.85) and outperformed the demographics-plus-CMR model (AUROC: 0.81; 95% CI: 0.78-0.84; ΔAUROC: 0.014; 95% CI: 0.002-0.027; P = 0.029). In time-to-event analysis, RSF and Cox regression performed similarly using demographics and CMR (concordance index [C-index] 0.80 for both; P = 0.546). After including registry data RSF achieved a C-index of 0.81 (P = 0.144), and Cox performance decreased to C-index 0.77 (P < 0.001). CONCLUSIONS: In patients with suspected CAD, machine learning models using 10-year historical registry data have the potential to improve prognostic risk prediction beyond demographics and stress perfusion CMR.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103443"
+ },
+ {
+  "idx": 64,
+  "journal": "J Am Heart Assoc",
+  "title": "Thirty-Day All-Cause Readmissions After Pregnancy-Associated Hospitalizations With Heart Failure in the United States: Analysis of the Nationwide Readmissions Database.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cardiovascular disease is the leading cause of pregnancy-related morbidity and mortality in the United States. There is a paucity of data regarding pregnancy-associated heart failure readmissions. This study aims to characterize the 30-day heart failure readmission patterns in pregnancy-associated admissions. METHODS: The National Readmission Database from 2016 to 2021 was used to identify women aged 13 to 49 with an index hospitalization with heart failure as the primary or secondary diagnosis during a pregnancy-related admission, identified by diagnosis-related group codes and International Classification of Diseases, Tenth Revision (ICD-10) codes. The primary outcome was 30-day all-cause readmission. Survey-weighted descriptive analyses and hierarchical multivariable logistic regression were used to characterize readmission patterns and identify independently associated factors. RESULTS: Among 19 452 eligible index hospitalizations, 2659 were followed by a 30-day readmission; the survey-weighted readmission rate was 13.5%. In the fully adjusted model, Medicare and Medicaid coverage, residence in a small metropolitan area, greater All Patient Refined Diagnosis-Related Group severity, discharge with home health care, and discharge against medical advice were associated with higher odds of readmission. Deficiency anemia, chronic pulmonary disease, diabetes without chronic complications, renal failure, solid tumor without metastasis, and cardiovascular or respiratory disorders complicating pregnancy were also independently associated with increased readmission. CONCLUSIONS: Approximately 1 in 7 pregnancy-associated hospitalizations complicated by heart failure was followed by a 30-day all-cause readmission. Readmission risk reflected a combination of illness severity, discharge disposition, payer status, geographic location, and selected medical and pregnancy-related comorbidities. These findings support the development and evaluation of individualized, multidisciplinary transitional-care strategies for patients at highest risk.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050110"
+ },
+ {
+  "idx": 65,
+  "journal": "J Am Heart Assoc",
+  "title": "Acute Kidney Injury Disrupts Cardiac Remodeling via SerpinA3N.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cardiorenal syndrome type 3 describes cardiac injury triggered by acute kidney injury (AKI). AKI caused by ischemia reperfusion injury represents a model for kidney injury during kidney transplant. It is well known that kidney transplant recipients are at increased risk to develop cardiac fibrosis; however, the molecular mechanisms linking renal injury to myocardial remodeling or cardiac fibrosis remain unclear. METHODS: Using a C57BL/6J mouse model of ischemia reperfusion injury-AKI, we combined proteomics and RNA seqencing transcriptomics to define early cardiac responses. We validated the proteomics and RNA sequencing data with quantitative polymerase chain reaction, ELISA, cytokine array, and western blotting for profibrotic and injury markers. We assessed SerpinA3N function using a granzyme B activity assay kit and XAV939, an inhibitor of SerpinA3N. Ingenuity pathway analysis further confirmed serine protease activity inhibition and increased expression of cardiac fibrosis-related genes after AKI. RESULTS: Successful establishment of renal ischemia reperfusion injury causing AKI, followed by significant induction of cardiac injury. AKI significantly upregulated SerpinA3N in the heart while suppressing serine protease (granzyme B) activity. Concomitantly, AKI hearts displayed elevated profibrotic genes (FN1, COL1A1, TGF-β1), mitochondrial dysfunction, and heightened inflammatory signaling. In vitro, inhibition of SerpinA3N with XAV939 restored granzyme B activity, confirming direct suppression by SerpinA3N. CONCLUSIONS: We conclude that SerpinA3N serves as a key mediator of cardiorenal syndrome type 3 pathogenesis, by inhibiting granzyme B, which promotes profibrotic remodeling in the heart following AKI. Targeting SerpinA3N could be a potential therapeutic approach that restores balanced extracellular matrix turnover and mitigates cardiac fibrosis.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.046513"
+ },
+ {
+  "idx": 66,
+  "journal": "Heart Rhythm",
+  "title": "Comparative Clinical and Procedural Outcomes Among Three Pulsed Field Ablation Systems for Atrial Fibrillation: A Prospective Real-World Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Pulsed Field Ablation (PFA) is a non-thermal ablation technology for atrial fibrillation. Several PFA systems are available, with distinct catheter designs and energy delivery protocols. Direct comparisons between PFA systems remain limited. OBJECTIVE: This study compared the procedural characteristics, safety, and efficacy of three contemporary PFA technologies in routine clinical practice. METHODS: Consecutive patients undergoing their first pulmonary vein isolation (PVI) using the circular multielectrode array catheter (CMAC)(PulseSelectTM), the variable-loop circular catheter (VLCC)(VaripulseTM) or the lattice-tip catheter (LTC)(AfferaTM) were prospectively included. Freedom from any atrial arrhythmia (AA) was evaluated using 12-lead electrocardiography and 24-hour Holter at 3, 6 and 12 months, followed by routine clinical follow-up. RESULTS: A total of 198 patients (CMAC:91, VLCC:50, LTC: 57) were included. Acute PVI was achieved in all patients (median age, 68 [61.0, 76.0] years; 127 male (64.1%); 97 paroxysmal (49.0%)). The procedure and ablation times were longest in the LTC group. During a mean follow-up of 352.4±207.2 days, the estimated 12-month freedom from AA recurrence beyond the 8-week blanking period was comparable among the CMAC, VLCC, and LTC groups (76.9%, 71.6%, and 78.8%; log-rank p=0.72). In adjusted multivariable Cox regression, PFA system choice was not associated with AA recurrence (LTC vs. CMAC: HR 0.77, 95% CI 0.39-1.52, p=0.45; VLCC vs. CMAC: HR 1.16, 95% CI 0.58-2.34, p=0.67). One major complication (0.51%, ischemic stroke (CMAC)) occurred. CONCLUSION: In this prospective real-world study, PVI with the CMAC, VLCC, and LTC showed comparable efficacy and safety outcomes, while procedural profiles differed.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.11.008"
+ },
+ {
+  "idx": 67,
+  "journal": "J Am Heart Assoc",
+  "title": "Deletion of Yes-Associated Protein in Vascular Smooth Muscle Cells Alleviates Atherosclerosis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The migration and proliferation of vascular smooth muscle cells (VSMCs) are critical processes in the development of atherosclerosis. YAP (Yes-associated protein) regulates VSMC migration and proliferation. However, its specific role in atherosclerosis remains unclear. METHODS: Atherosclerosis models were generated in mice injected with adeno-associated virus 8-mPCSK9 (murine proprotein convertase subtilisin/kexin type 9) or ApoE-/- (apolipoprotein E knockout) mice by being fed a high-cholesterol diet. Primary VSMCs were used to elucidate its mechanism. RESULTS: YAP expression was elevated in VSMCs within mouse atherosclerotic plaques. Both tamoxifen-mediated YAPΔVSMC or adeno-associated virus-inducible VSMC-specific YAP knockout mice injected with adeno-associated virus 8-mPCSK9 and YAPΔVSMCApoE-/- mice exhibited alleviated atherosclerotic phenotype. Further study found that angiopoietin-2 overexpression induced VSMC phenotypic switching, migration, and proliferation in YAP knockout VSMCs stimulated with platelet-derived growth factor-BB in vitro. Furthermore, the VSMC-specific angiopoietin-2 overexpression could completely reverse VSMC YAP deficiency-alleviated atherosclerotic phenotype and the effect of YAP-mediated VSMC phenotypic switching. Mechanistically, YAP upregulated angiopoietin-2 via TEAD4 (murine TEA domain family member 4) in VSMCs. CONCLUSIONS: In conclusion, our findings revealed that YAP promotes atherosclerosis by inducing angiopoietin-2-mediated VSMC phenotypic switching via TEAD4. Inhibition of VSMC YAP may be an effective therapeutic strategy for atherosclerosis.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.042381"
+ },
+ {
+  "idx": 68,
+  "journal": "J Am Heart Assoc",
+  "title": "Safety and Efficacy of Topical Nitroglycerin for Radial Artery Dilation (The RADial Trial): A Randomized, Placebo-Controlled, Double-Blind Clinical Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Transradial coronary catheterization is associated with a reduced risk of bleeding and vascular complications. Prior studies have evaluated nitroglycerin to improve transradial access by vasodilating the radial artery, but the optimal route of administration for preprocedural arterial dilation remains unclear. METHODS: In the RADial Trial (Radial Artery Dilatation Trial) patients undergoing transradial coronary catheterization were randomized in a double-blind fashion to receive either a placebo or topical nitroglycerin ointment (nitropaste). The primary outcome was the mean change in radial artery dimensions, assessed using paired t tests. Categorical outcomes were analyzed using odds ratio (OR) with 95% CI. RESULTS: A total of 260 patients (130 placebo, 130 nitroglycerin) were enrolled. Nitropaste significantly increased the mean diameter (2.65±0.6 versus 2.48±0.6 mm), circumference (8.37±1.63 versus 7.77±1.66) and cross-sectional area (5.63±2.28 versus 4.94±2.0 mm) of the radial artery, whereas no significant difference was observed in the placebo arm. Nitropaste was associated with a significant reduction in the number of skin punctures and risk of vasospasm (OR 0.34 [95% CI, 0.13-0.91], P=0.04). There was no significant difference between nitropaste and placebo groups in the odds of hematoma (OR, 0.32 [95% CI, 0.03-3.1], P=0.61), crossover to femoral access (OR, 2.29 [95% CI, 0.9-5.8], P=0.12), need for ultrasound-guided access (OR, 0.39 [95% CI, 0.13-1.15], P=0.13), and hypotension or headache (OR, 1.5 [95% CI, 0.24-9.2], P=1.0). CONCLUSION: Preprocedural administration of nitropaste significantly increases radial artery size and reduces the risk of vasospasm without causing headache or hypotension. REGISTRATION: https://clinicaltrials.gov/study/NCT05239013.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.047186"
+ },
+ {
+  "idx": 69,
+  "journal": "JACC Heart Fail",
+  "title": "Safety and Efficacy of Omecamtiv Mecarbil by QRS Duration and Cardiac Resynchronization Therapy in GALACTIC-HF.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Prolonged QRS duration portends worse outcomes in heart failure with reduced ejection fraction (HFrEF). In GALACTIC-HF, omecamtiv mecarbil (OM) reduced the primary composite endpoint of first heart failure (HF) event or cardiovascular death. OBJECTIVES: The objectives of this study were to evaluate whether QRS duration and the presence of cardiac resynchronization therapy (CRT) modify the treatment effect of OM. METHODS: GALACTIC-HF enrolled patients with symptomatic HF, HFrEF (≤35%), and elevated natriuretic peptides. Baseline QRS duration was available in 8,089 of 8,232 participants (98.0%), who were classified into 3 groups: QRS duration <120 ms without CRT (n = 3,724), QRS duration ≥120 ms without CRT (n = 3,225), and CRT regardless of QRS duration (n = 1,140). The authors assessed whether the effect of OM on the primary composite endpoint, first HF hospitalization, cardiovascular death, and all-cause death differed across these groups. RESULTS: Patients with QRS ≥120 ms without CRT and those with CRT were older, had lower EF, worse health status, and higher N-terminal pro-B-type natriuretic peptide levels than those with QRS <120 ms without CRT. When modeled as a continuous variable, baseline QRS duration was associated with clinical outcomes among patients without CRT but not among those with CRT. Among patients with QRS ≥120 ms without CRT, OM appeared to confer less benefit for the primary composite endpoint (Pinteraction = 0.072), for cardiovascular death (Pinteraction = 0.003), and for all-cause death (Pinteraction = 0.009). In contrast, among patients treated with CRT, OM was beneficial regardless of QRS duration. CONCLUSIONS: In GALACTIC-HF, OM appeared less effective in patients with prolonged QRS duration who did not have CRT, whereas it remained beneficial in CRT-treated patients. (Global Approach to Lowering Adverse Cardiac Outcomes Through Improving Contractility in Heart Failure [GALACTIC-HF]; NCT02929329).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jchf.2026.103473"
+ },
+ {
+  "idx": 70,
+  "journal": "Eur Heart J",
+  "title": "Alcohol and cardiovascular disease: inter-organ crosstalk, microvascular dysfunction, and cardiovascular ageing.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Alcohol-related cardiovascular risk is being fundamentally reappraised. Observational associations suggesting cardioprotection with light-to-moderate drinking have been challenged by contemporary cohort analyses, Mendelian-randomization studies, biomarker-informed investigations, and updated public-health guidance. Uncertainty nevertheless persists at very low exposure levels and for selected coronary or all-cause outcomes. Alcohol is therefore best viewed as a dose-, pattern-, and host-dependent cardiovascular stressor. Acute or binge drinking, sustained heavy intake, chronic intake with episodic binges, and withdrawal produce overlapping but distinct phenotypes, including hypertension, atrial fibrillation, ventricular arrhythmias, sudden death, alcohol-associated cardiomyopathy, heart failure, stroke, and vascular disease. A systems-cardiology framework is presented in which direct myocardial injury, electrical instability, haemodynamic and autonomic stress, vascular and microvascular dysfunction, and disrupted inter-organ signalling interact. Ethanol and acetaldehyde toxicity, redox imbalance, microbial and inflammatory mediators, neurohumoral activation, and metabolic or electrolyte disturbances can impair endothelial signalling, mitochondrial energetics, excitation-contraction coupling, electrical stability, and repair. Pathway dominance varies across exposure patterns and susceptible hosts; coronary microvascular dysfunction may represent a convergence pathway rather than an obligatory mediator. Cumulative injury can diminish perfusion, contractile, electrical, autonomic, and exercise reserve. Alcohol-related cardiovascular ageing is proposed as a unifying cumulative phenotype encompassing mitochondrial dysfunction, oxidative and nitrative stress, inflammageing, senescence, impaired repair, circadian and epigenetic dysregulation, fibrosis, and ventriculo-arterial uncoupling, although direct human evidence remains incomplete. Age, biological sex, genetics, comorbidities, sleep-circadian disruption, nutrition, medications, and polysubstance misuse may modify pathway dominance and reversibility. Structured exposure assessment and alcohol reduction or abstinence, when indicated, are actionable components of cardiovascular prevention and care.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurheartj/ehag923"
+ },
+ {
+  "idx": 71,
+  "journal": "J Am Heart Assoc",
+  "title": "Effects of Transcatheter Tricuspid Edge-to-Edge Repair on Right Heart Dimension and Function.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Transcatheter tricuspid edge-to-edge repair (T-TEER) has developed as a treatment option for patients experiencing severe tricuspid regurgitation. T-TEER consistently reduces tricuspid regurgitation, but data on subsequent right heart remodeling remain limited. The aim of this study was to evaluate changes in right heart dimension and function after T-TEER using extended echocardiographic follow-up. METHODS: The study was based on the international EuroTR (European Registry of Transcatheter Repair for Tricuspid Regurgitation), including patients undergoing T-TEER between 2016 and 2024 at 18 European centers. Eligible were patients with available baseline and follow-up (≥90 days postprocedure) echocardiographic assessment. RESULTS: A total of 699 patients (mean age, 78±8 years; 56% women) were included in the analysis. Echocardiographic follow-up was performed at a median of 407 days (interquartile range, 205-801 days). Right heart dimensions significantly decreased: right ventricular (RV) midventricular diameter from 40.2±8.9 to 37.1±8.4 mm (P<0.001) and end-diastolic area from 28.7±9.0 to 26.2±9.6 cm2 (P<0.001). Procedural success was significantly associated with positive RV remodeling (odds ratio, 1.82 [95% CI, 1.07-3.09]). For RV function, a decline of fractional area change from 37.8%±10.2% to 33.3%±10.1% (P<0.001), and tricuspid annular plane systolic excursion from 17.4±4.7 to 16.6±4.7 mm (P<0.001) was observed. CONCLUSIONS: In the subset of surviving patients with available echocardiographic follow-up, treatment with T-TEER led to favorable long-term changes with reduced RV dimension, associated with procedural success. RV function modestly decreased, likely reflecting normalization after volume unloading.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.048944"
+ },
+ {
+  "idx": 72,
+  "journal": "J Am Heart Assoc",
+  "title": "Comparison of Prosthetic Valve Deformation and Hemodynamic Performance Between Bicuspid and Tricuspid Aortic Valve Anatomy After Transcatheter Aortic Valve Replacement.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: This study compared prosthetic valve deformation and postprocedural hemodynamic performance between bicuspid and tricuspid aortic valve anatomy after transcatheter aortic valve replacement with the Venus-A prosthesis. METHODS: We retrospectively evaluated patients who underwent transcatheter aortic valve replacement between 2012 and 2022 and underwent postoperative computed tomography within 1 year. Predischarge echocardiographic assessments included the mean transvalvular gradient and paravalvular leak. Computed tomography measurements included expansion ratio, ellipticity, implantation depth, asymmetric leaflet expansion, and hypoattenuated leaflet thickening. The leaflet inflow and valve waist were collectively defined as the functional valve portion. RESULTS: Among 212 patients (106 bicuspid and 106 tricuspid), the mean age was 74.2±7.6 years, and 43.9% were women. Patients with bicuspid anatomy had a significantly lower oversizing ratio and underwent balloon predilation and postdilation more frequently than those with tricuspid anatomy. Residual transvalvular gradients were higher with bicuspid than tricuspid anatomy (12.0 [interquartile range, 8.2-17.0] versus 10.0 [7.2-14.0] mm Hg; P=0.014), whereas moderate to severe paravalvular leak did not differ significantly. Prosthetic ellipticity was greater in bicuspid anatomy, but expansion ratios, including those within the functional valve portion, did not differ significantly. Implantation depth, asymmetric leaflet expansion, and hypoattenuated leaflet thickening incidence also did not differ significantly. CONCLUSIONS: Following Venus-A implantation, bicuspid anatomy was associated with greater prosthetic ellipticity and higher residual gradients, despite no significant difference in prosthetic expansion.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049690"
+ },
+ {
+  "idx": 73,
+  "journal": "J Am Heart Assoc",
+  "title": "Clonal Hematopoiesis and Cardiovascular and Microvascular Outcomes in Type 2 Diabetes: A Retrospective Analysis of the UK Biobank.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Clonal hematopoiesis of indeterminate potential (CHIP) has been associated with cardiovascular disease, but its associations across cardiovascular and microvascular complications in type 2 diabetes remain incompletely characterized. METHODS: We retrospectively analyzed 17 893 UK Biobank participants with type 2 diabetes, whole-exome sequencing, and no prevalent cardiovascular or microvascular complications. CHIP was defined from the curated UK Biobank call set by ≥1 driver variant with a variant allele fraction ≥2%. Associations with incident outcomes were evaluated using Fine-Gray models with multiple imputation for missing covariates. Driver-gene, clone-size, proteomic, and metabolomic analyses were exploratory. RESULTS: CHIP was present in 670 participants (3.7%) over a median follow-up of 14.6 years. CHIP was associated with the composite cardiovascular outcome (subdistribution hazard ratio [SHR], 1.19 [95% CI, 1.00-1.42]), with heart failure showing the clearest component association (SHR, 1.43 [95% CI, 1.13-1.81]); acute coronary syndrome and stroke were not significantly associated. CHIP was also associated with the composite microvascular outcome (SHR, 1.34 [95% CI, 1.15-1.56]), broad chronic kidney disease (SHR, 1.28 [95% CI, 1.05-1.57]), and retinopathy (SHR, 1.43 [95% CI, 1.15-1.77]) but not neuropathy or strict diabetes-specific nephropathy. Ten-year adjusted risk differences were 1.94% and 3.46% for the cardiovascular and microvascular composites, respectively. Among 2919 proteins, ZBP1 (Z-DNA-binding protein 1) was the only protein retained after false-discovery-rate correction; no metabolite module was associated with CHIP after correction, whereas selected lipoprotein and amino acid/lactate modules were associated with cardiovascular outcomes, particularly heart failure. CONCLUSIONS: In adults with type 2 diabetes, CHIP was associated with a higher risk of incident microvascular complications and, among cardiovascular outcomes, most consistently with heart failure. Exploratory multiomic findings, including a protein-wide ZBP1 signal and selected metabolic associations with cardiovascular outcomes, provided additional biological context but require independent validation.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.053785"
+ },
+ {
+  "idx": 74,
+  "journal": "Circulation",
+  "title": "Off-Pump versus On-Pump Coronary Artery Bypass Grafting in Prefrail and Frail Patients: 30-Day and 1-Year Outcomes From the FRAGILE Randomized Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Frailty is associated with worse outcomes after coronary artery bypass grafting (CABG). However, the comparative effectiveness of off-pump CABG (OPCAB) versus on-pump CABG (ONCAB) in prefrail and frail patients remains uncertain. METHODS: This multicenter, randomized, open-label trial enrolled patients ≥60 years of age classified as prefrail or frail, randomized 1:1, between January 2018 and December 2024. The primary outcome was a 30-day composite of death, myocardial infarction, stroke, renal failure, acute respiratory distress syndrome, or reoperation for bleeding. Secondary outcomes included ventilation time, intensive care unit and hospital stay, transfusion requirements, completeness of revascularization, surgical wound infection at 30 days, and neurocognitive function preoperatively and at 1 year. Analyses followed the intention-to-treat principle; relative risks with 95% CIs were estimated. RESULTS: A total of 508 patients were included (OPCAB, n=258; ONCAB, n=250; median age, 68 years [interquartile range, 65.0-73]; 30.5% female). The primary composite outcome occurred in 28 patients receiving OPCAB (10.9%) and 40 patients receiving ONCAB (16.0%; relative risk, 1.47 [95% CI, 0.94-2.31]; P=0.09). Surgical wound infection was more frequent with ONCAB (20 [8.0%] versus 9 [3.5%]; P=0.04). No significant differences were observed in neurocognitive or quality of life outcomes at 1 year. Estimated 1-year survival probabilities were 96.1% and 92.8% in the OPCAB and ONCAB groups, respectively (P=0.099). CONCLUSION: In prefrail and frail patients undergoing CABG, OPCAB and ONCAB resulted in similar rates of the primary composite outcome. No significant differences between OPCAB and ONCAB were found in neurocognitive outcomes. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT02338947.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.125.078842"
+ }
+]

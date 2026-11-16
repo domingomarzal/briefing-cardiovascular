@@ -1,0 +1,701 @@
+{
+ "N Engl J Med": {
+  "depositados": 18,
+  "en_ventana": 18,
+  "recogidos": 2,
+  "faltantes": 16,
+  "faltantes_detalle": [
+   {
+    "doi": "10.1056/nejmvcm2517207",
+    "title": "High-Flow Oxygen Therapy with Nasal Cannula"
+   },
+   {
+    "doi": "10.1056/nejmicm2608021",
+    "title": "Functional Fixed Dystonia of the Foot"
+   },
+   {
+    "doi": "10.1056/nejmc2611613",
+    "title": "Perioperative Apalutamide in High-Risk Localized Prostate Cancer"
+   },
+   {
+    "doi": "10.1056/nejmcpc2301034",
+    "title": "Case 32-2026: A 50-Year-Old Man with Recurrent Cardiomyopathy"
+   },
+   {
+    "doi": "10.1056/nejmc2607434",
+    "title": "Interferon-γ Underlying Thymoma-Associated Immune Dysregulation"
+   },
+   {
+    "doi": "10.1056/nejme2612392",
+    "title": "Aspirin Therapy — Enough after Arthroplasty?"
+   },
+   {
+    "doi": "10.1056/nejmc2611338",
+    "title": "Iptacopan in IgA Nephropathy — Final 24-Month Data"
+   },
+   {
+    "doi": "10.1056/nejmoa2609762",
+    "title": "Intismeran Autogene plus Pembrolizumab for Resected Stage IIB to IV Melanoma"
+   },
+   {
+    "doi": "10.1056/nejme2614041",
+    "title": "Cancer Vaccines — From Treatment to Prevention"
+   },
+   {
+    "doi": "10.1056/nejmp2611160",
+    "title": "The Unexamined Subsidy — Rethinking Incentives for Outpatient Clinical Preceptors"
+   },
+   {
+    "doi": "10.1056/nejmc2608446",
+    "title": "Autoantibodies against Type I Interferons and Death from H7N7 Avian Influenza"
+   },
+   {
+    "doi": "10.1056/nejmicm2607906",
+    "title": "Lung Hernia with a Chest-Wall Bulge"
+   },
+   {
+    "doi": "10.1056/nejmra2508563",
+    "title": "Preventing Malaria Infections and Moving toward Malaria Elimination"
+   },
+   {
+    "doi": "10.1056/nejmp2606894",
+    "title": "What the Robot Still Can’t Do"
+   },
+   {
+    "doi": "10.1056/nejmc2609517",
+    "title": "Subretinal Gene Therapy in X-Linked Retinoschisis"
+   },
+   {
+    "doi": "10.1056/nejmp2611665",
+    "title": "Reimagining Health Policy Research"
+   }
+  ]
+ },
+ "Lancet": {
+  "depositados": 29,
+  "en_ventana": 29,
+  "recogidos": 5,
+  "faltantes": 24,
+  "faltantes_detalle": [
+   {
+    "doi": "10.1016/s0140-6736(26)01546-1",
+    "title": "The overlooked role of CMV in pneumonia in infants with HIV"
+   },
+   {
+    "doi": "10.1016/s0140-6736(26)01981-1",
+    "title": "Evidence and gaps for preventing postpartum haemorrhage – Authors’ reply"
+   },
+   {
+    "doi": "10.1016/s0140-6736(26)02295-6",
+    "title": "WHO's next Director-General"
+   },
+   {
+    "doi": "10.1016/s0140-6736(26)02234-8",
+    "title": "Lula's new term—safeguarding science, health, and the Amazon"
+   },
+   {
+    "doi": "10.1016/s0140-6736(26)02202-6",
+    "title": "Department of Error"
+   },
+   {
+    "doi": "10.1016/s0140-6736(26)02198-7",
+    "title": "A digital intervention to strengthening parenting in Tanzania"
+   },
+   {
+    "doi": "10.1016/s0140-6736(26)02232-4",
+    "title": "Emerging Shamonda virus: a new threat to pregnancy?"
+   },
+   {
+    "doi": "10.1016/s0140-6736(26)02043-x",
+    "title": "Efficacy and safety of efinopegdutide in adults with metabolic dysfunction-associated steatohepatitis and stage 2–3 fibrosis: a phase 2b, randomised, placebo-controlled study"
+   },
+   {
+    "doi": "10.1016/s0140-6736(26)02244-0",
+    "title": "Silencing: a medical intern in the Gaza Strip"
+   },
+   {
+    "doi": "10.1016/s0140-6736(26)02243-9",
+    "title": "Critical thinking about assisted dying"
+   },
+   {
+    "doi": "10.1016/s0140-6736(26)01821-0",
+    "title": "Evidence and gaps for preventing postpartum haemorrhage"
+   },
+   {
+    "doi": "10.1016/s0140-6736(26)02193-8",
+    "title": "Efinopegdutide: a step towards precision in MASH therapy?"
+   },
+   {
+    "doi": "10.1016/s0140-6736(26)02199-9",
+    "title": "Is chemotherapy still needed in all patients with mismatch repair-deficient advanced or recurrent endometrial cancer?"
+   },
+   {
+    "doi": "10.1016/s0140-6736(26)02296-8",
+    "title": "Access to medicines: innovations not reaching those in need"
+   },
+   {
+    "doi": "10.1016/s0140-6736(26)02146-x",
+    "title": "WHO's operational role in emergencies: a view from Gaza"
+   },
+   {
+    "doi": "10.1016/s0140-6736(26)02294-4",
+    "title": "Department of Error"
+   },
+   {
+    "doi": "10.1016/s0140-6736(26)02242-7",
+    "title": "Lalitha Regi and Regi George: strengthening community health"
+   },
+   {
+    "doi": "10.1016/s0140-6736(26)01418-2",
+    "title": "Empirical tuberculosis treatment in infants living with HIV hospitalised with severe pneumonia in Africa (EMPIRICAL): a multicentre, randomised, open-label, 2 × 2 factorial, controlled superiority trial"
+   },
+   {
+    "doi": "10.1016/s0140-6736(26)01600-4",
+    "title": "Lynch syndrome"
+   },
+   {
+    "doi": "10.1016/s0140-6736(26)02284-1",
+    "title": "Offline: Anthony Fauci comes to London"
+   },
+   {
+    "doi": "10.1016/s0140-6736(26)01918-5",
+    "title": "Empirical tuberculosis treatment in infants living with HIV: missed opportunities and ways to improve outcomes"
+   },
+   {
+    "doi": "10.1016/s0140-6736(26)02245-2",
+    "title": "Ron McCoy"
+   },
+   {
+    "doi": "10.1016/s0140-6736(26)01820-9",
+    "title": "Evidence and gaps for preventing postpartum haemorrhage"
+   },
+   {
+    "doi": "10.1016/s0140-6736(26)01819-2",
+    "title": "A blended digital parenting intervention for the prevention of sexual violence, exploitative sex, and maltreatment of children at scale in Tanzania: a cluster-randomised, controlled trial"
+   }
+  ]
+ },
+ "JAMA": {
+  "depositados": 52,
+  "en_ventana": 52,
+  "recogidos": 5,
+  "faltantes": 47,
+  "faltantes_detalle": [
+   {
+    "doi": "10.1001/jama.2026.23386",
+    "title": "An Oral Incretin for OSA"
+   },
+   {
+    "doi": "10.1001/jama.2026.19487",
+    "title": "A Review of Hip Fractures"
+   },
+   {
+    "doi": "10.1001/jama.2026.19531",
+    "title": "Finerenone and CKD Due to Glomerular Diseases"
+   },
+   {
+    "doi": "10.1001/jama.2026.19534",
+    "title": "Finerenone and CKD Due to Glomerular Diseases—Reply"
+   },
+   {
+    "doi": "10.1001/jama.2026.24617",
+    "title": "Error in Author Byline"
+   },
+   {
+    "doi": "10.1001/jama.2026.19490",
+    "title": "A Review of Hip Fractures"
+   },
+   {
+    "doi": "10.1001/jama.2026.24040",
+    "title": "Beyond the Rogue Agent—Preparing Health Systems for AI Failure"
+   },
+   {
+    "doi": "10.1001/jama.2026.22638",
+    "title": "After COVID-19 Vaccination, Why Do Some People Run a Fever?"
+   },
+   {
+    "doi": "10.1001/jama.2026.24386",
+    "title": "Tale of Two Estimands"
+   },
+   {
+    "doi": "10.1001/jama.2026.23165",
+    "title": "Izalontamab Brengitecan in Recurrent or Metastatic Esophageal Squamous Cell Carcinoma"
+   },
+   {
+    "doi": "10.1001/jama.2026.16515",
+    "title": "The Art of Staying"
+   },
+   {
+    "doi": "10.1001/jama.2026.24600",
+    "title": "Missing Information in End Matter and Errors in eTable"
+   },
+   {
+    "doi": "10.1001/jama.2026.16547",
+    "title": "Palliative Care, or to Help “Carry the Sky”"
+   },
+   {
+    "doi": "10.1001/jama.2026.21147",
+    "title": "Think Outside the Box With Intravenous Iron—The New Ferric Carboxymaltose FDA Boxed Warning"
+   },
+   {
+    "doi": "10.1001/jama.2026.20047",
+    "title": "Personalized mRNA Cancer Vaccine Reduces Melanoma Recurrence Risk"
+   },
+   {
+    "doi": "10.1001/jama.2026.19143",
+    "title": "Review of Gastroparesis—Reply"
+   },
+   {
+    "doi": "10.1001/jama.2026.19199",
+    "title": "P-Tau217 Levels and Cognitive Impairment—Reply"
+   },
+   {
+    "doi": "10.1001/jama.2026.22625",
+    "title": "Too Tall"
+   },
+   {
+    "doi": "10.1001/jama.2026.21767",
+    "title": "Beyond Screening—Building a Maternal Mental Health Care System"
+   },
+   {
+    "doi": "10.1001/jama.2026.22125",
+    "title": "Preference Signaling for Interview Selection"
+   },
+   {
+    "doi": "10.1001/jama.2026.24848",
+    "title": "Once-Weekly Ribupatide for Weight Loss in Adults in China With Overweight or Obesity"
+   },
+   {
+    "doi": "10.1001/jama.2026.20046",
+    "title": "US Health Insurance Coverage Declines"
+   },
+   {
+    "doi": "10.1001/jama.2026.24689",
+    "title": "Fluid eMTBR-tau243 as a Biomarker of Mixed 3-Repeat and 4-Repeat Tau Pathology"
+   },
+   {
+    "doi": "10.1001/jama.2025.16129",
+    "title": "JAMA Editors' Summary Podcast"
+   },
+   {
+    "doi": "10.1001/jama.2026.19524",
+    "title": "Acute Vestibular Syndrome"
+   },
+   {
+    "doi": "10.1001/jama.2026.22661",
+    "title": "Nicotine Vaping Linked to Reduced Vascular Function in Young Adults"
+   },
+   {
+    "doi": "10.1001/jama.2026.20048",
+    "title": "Updated Guidance Released for Type 2 Diabetes Care"
+   },
+   {
+    "doi": "10.1001/jama.2026.24226",
+    "title": "Orforglipron for Obstructive Sleep Apnea"
+   },
+   {
+    "doi": "10.1001/jama.2025.16096",
+    "title": "JAMA"
+   },
+   {
+    "doi": "10.1001/jama.2026.19196",
+    "title": "P-Tau217 Levels and Cognitive Impairment"
+   },
+   {
+    "doi": "10.1001/jama.2026.20050",
+    "title": "CDC Report Highlights Growing Threat From Drug-Resistant Germs"
+   },
+   {
+    "doi": "10.1001/jama.2026.20250",
+    "title": "Izalontamab Brengitecan in Recurrent or Metastatic Esophageal Squamous Cell Carcinoma"
+   },
+   {
+    "doi": "10.1001/jama.2026.22659",
+    "title": "ACOG Releases Guidance on GLP-1 Use in Pregnancy and Lactation"
+   },
+   {
+    "doi": "10.1001/jama.2026.23448",
+    "title": "Tirzepatide in Adolescents With Obesity"
+   },
+   {
+    "doi": "10.1001/jama.2026.18692",
+    "title": "What Is Postural Orthostatic Tachycardia Syndrome?"
+   },
+   {
+    "doi": "10.1001/jama.2026.19140",
+    "title": "Review of Gastroparesis"
+   },
+   {
+    "doi": "10.1001/jama.2026.20051",
+    "title": "FDA Approves First Generic Hormone Therapy Patch for Women"
+   },
+   {
+    "doi": "10.1001/jama.2026.23420",
+    "title": "Tirzepatide in Adolescents With Obesity"
+   },
+   {
+    "doi": "10.1001/jama.2026.19493",
+    "title": "A Review of Hip Fractures—Reply"
+   },
+   {
+    "doi": "10.1001/jama.2026.22660",
+    "title": "Study Finds Nearly 75% of Deceased Former NFL Players Had CTE"
+   },
+   {
+    "doi": "10.1001/jama.2026.22895",
+    "title": "Pediatric Obesity Pharmacotherapy"
+   },
+   {
+    "doi": "10.1001/jama.2026.24927",
+    "title": "Report of Committee on Otorhinologic Hygiene of Swimming"
+   },
+   {
+    "doi": "10.1001/jama.2026.19202",
+    "title": "P-Tau217 Levels and Cognitive Impairment"
+   },
+   {
+    "doi": "10.1001/jama.2026.21948",
+    "title": "Medical Countermeasures for Radionuclide Internal Contamination"
+   },
+   {
+    "doi": "10.1001/jama.2026.19137",
+    "title": "Review of Gastroparesis"
+   },
+   {
+    "doi": "10.1001/jama.2026.20049",
+    "title": "FDA Approves Novel Treatment for Chronic Hepatitis B"
+   },
+   {
+    "doi": "10.1001/jama.2026.24928",
+    "title": "Approved Form of Notice"
+   }
+  ]
+ },
+ "Eur Heart J": {
+  "depositados": 5,
+  "en_ventana": 5,
+  "recogidos": 5,
+  "faltantes": 0,
+  "faltantes_detalle": []
+ },
+ "Circulation": {
+  "depositados": 13,
+  "en_ventana": 12,
+  "recogidos": 12,
+  "faltantes": 0,
+  "faltantes_detalle": []
+ },
+ "J Am Coll Cardiol": {
+  "depositados": 32,
+  "en_ventana": 32,
+  "recogidos": 26,
+  "faltantes": 6,
+  "faltantes_detalle": [
+   {
+    "doi": "10.1016/j.jacc.2026.10.063",
+    "title": "Digital Outreach to Improve Statin Refills by Age: Insights from the ADHERE-ASCVD Randomized Clinical Trial"
+   },
+   {
+    "doi": "10.1016/s0735-1097(26)09993-6",
+    "title": "Contents"
+   },
+   {
+    "doi": "10.1016/s0735-1097(26)10145-4",
+    "title": "Full Issue PDF"
+   },
+   {
+    "doi": "10.1016/j.jacc.2026.10.070",
+    "title": "Clinical Safety Evaluation of a Large Language Model for Heart Failure Treatment Recommendations"
+   },
+   {
+    "doi": "10.1016/j.jacc.2026.11.117",
+    "title": "Where Statins Falter: Can PCSK9 Inhibitors Hold the Line in CKD?"
+   },
+   {
+    "doi": "10.1016/j.jacc.2026.11.118",
+    "title": "Evolocumab in Patients with Reduced Kidney Function Without a Prior MI or Stroke in VESALIUS-CV"
+   }
+  ]
+ },
+ "JAMA Cardiol": {
+  "depositados": 8,
+  "en_ventana": 5,
+  "recogidos": 5,
+  "faltantes": 0,
+  "faltantes_detalle": []
+ },
+ "Nat Rev Cardiol": {
+  "depositados": 2,
+  "en_ventana": 2,
+  "recogidos": 2,
+  "faltantes": 0,
+  "faltantes_detalle": []
+ },
+ "Eur J Heart Fail": {
+  "depositados": 2,
+  "en_ventana": 2,
+  "recogidos": 2,
+  "faltantes": 0,
+  "faltantes_detalle": []
+ },
+ "JACC Heart Fail": {
+  "depositados": 10,
+  "en_ventana": 10,
+  "recogidos": 7,
+  "faltantes": 3,
+  "faltantes_detalle": [
+   {
+    "doi": "10.1016/j.jchf.2026.103575",
+    "title": "Remote Voice Analysis for Monitoring Ambulatory Heart Failure Patients: Results of the DETECT-HF Study"
+   },
+   {
+    "doi": "10.1016/j.jchf.2026.103500",
+    "title": "Cardiac and Metabolic Effects of Semaglutide in Obesity-Related HFpEF: Rationale and Design of CAMEO-SEMA"
+   },
+   {
+    "doi": "10.1016/j.jchf.2026.103574",
+    "title": "A Multi-Center Cluster-Assigned Trial of Electronic Alerts to Improve Prescribing of Mineralocorticoid Receptor Antagonist Therapy for Heart Failure"
+   }
+  ]
+ },
+ "Circ Heart Fail": {
+  "depositados": 0,
+  "en_ventana": 0,
+  "recogidos": 0,
+  "faltantes": 0,
+  "faltantes_detalle": []
+ },
+ "EuroIntervention": {
+  "depositados": 0,
+  "en_ventana": 0,
+  "recogidos": 0,
+  "faltantes": 0,
+  "faltantes_detalle": []
+ },
+ "JACC Cardiovasc Interv": {
+  "depositados": 23,
+  "en_ventana": 23,
+  "recogidos": 21,
+  "faltantes": 2,
+  "faltantes_detalle": [
+   {
+    "doi": "10.1016/s1936-8798(26)02796-2",
+    "title": "Editorial Board"
+   },
+   {
+    "doi": "10.1016/s1936-8798(26)02797-4",
+    "title": "Full issue PDF"
+   }
+  ]
+ },
+ "Circ Cardiovasc Interv": {
+  "depositados": 6,
+  "en_ventana": 6,
+  "recogidos": 6,
+  "faltantes": 0,
+  "faltantes_detalle": []
+ },
+ "Heart Rhythm": {
+  "depositados": 13,
+  "en_ventana": 13,
+  "recogidos": 13,
+  "faltantes": 0,
+  "faltantes_detalle": []
+ },
+ "Europace": {
+  "depositados": 1,
+  "en_ventana": 1,
+  "recogidos": 1,
+  "faltantes": 0,
+  "faltantes_detalle": []
+ },
+ "JACC Clin Electrophysiol": {
+  "depositados": 0,
+  "en_ventana": 0,
+  "recogidos": 0,
+  "faltantes": 0,
+  "faltantes_detalle": []
+ },
+ "JACC Cardiovasc Imaging": {
+  "depositados": 3,
+  "en_ventana": 3,
+  "recogidos": 3,
+  "faltantes": 0,
+  "faltantes_detalle": []
+ },
+ "Eur Heart J Cardiovasc Imaging": {
+  "depositados": 8,
+  "en_ventana": 8,
+  "recogidos": 8,
+  "faltantes": 0,
+  "faltantes_detalle": []
+ },
+ "Eur J Prev Cardiol": {
+  "depositados": 0,
+  "en_ventana": 0,
+  "recogidos": 0,
+  "faltantes": 0,
+  "faltantes_detalle": []
+ },
+ "Hypertension": {
+  "depositados": 6,
+  "en_ventana": 6,
+  "recogidos": 6,
+  "faltantes": 0,
+  "faltantes_detalle": []
+ },
+ "Heart": {
+  "depositados": 5,
+  "en_ventana": 5,
+  "recogidos": 5,
+  "faltantes": 0,
+  "faltantes_detalle": []
+ },
+ "Rev Esp Cardiol (Engl Ed)": {
+  "depositados": 4,
+  "en_ventana": 4,
+  "recogidos": 4,
+  "faltantes": 0,
+  "faltantes_detalle": []
+ },
+ "Atherosclerosis": {
+  "depositados": 4,
+  "en_ventana": 3,
+  "recogidos": 0,
+  "faltantes": 3,
+  "faltantes_detalle": [
+   {
+    "doi": "10.1016/j.atherosclerosis.2026.121955",
+    "title": "The Clinical Relevance of Lipoprotein(a) in the Post-Lp(a)HORIZON Era: A Statement of the European Atherosclerosis Society"
+   },
+   {
+    "doi": "10.1016/j.atherosclerosis.2026.121956",
+    "title": "Lipoprotein(a) after HORIZON: the risk signal remains"
+   },
+   {
+    "doi": "10.1016/j.atherosclerosis.2026.121954",
+    "title": "High levels of large HDL particles in long-term survivors of type 1 diabetes or familial hypercholesterolemia free from coronary heart disease events"
+   }
+  ]
+ },
+ "J Am Heart Assoc": {
+  "depositados": 43,
+  "en_ventana": 43,
+  "recogidos": 43,
+  "faltantes": 0,
+  "faltantes_detalle": []
+ },
+ "JACC Adv": {
+  "depositados": 16,
+  "en_ventana": 1,
+  "recogidos": 0,
+  "faltantes": 1,
+  "faltantes_detalle": [
+   {
+    "doi": "10.1016/j.jacadv.2026.103470",
+    "title": "Clinical Outcomes Following Transcatheter Aortic Valve Replacement With Hypertrophic Cardiomyopathy"
+   }
+  ]
+ },
+ "BMJ": {
+  "depositados": 0,
+  "en_ventana": 0,
+  "recogidos": 0,
+  "faltantes": 0,
+  "faltantes_detalle": []
+ },
+ "Ann Intern Med": {
+  "depositados": 5,
+  "en_ventana": 5,
+  "recogidos": 0,
+  "faltantes": 5,
+  "faltantes_detalle": [
+   {
+    "doi": "10.7326/annals-26-01705",
+    "title": "A Roadmap for Clinical Nutrition Training in Medical Schools"
+   },
+   {
+    "doi": "10.7326/annals-26-04612-im",
+    "title": "Preconception care in type 2 diabetes"
+   },
+   {
+    "doi": "10.7326/annals-26-03939-gm",
+    "title": "Annals Graphic Medicine - Daily Difficult Conversations: The Time for Action Is Now"
+   },
+   {
+    "doi": "10.7326/annals-26-01647",
+    "title": "Doxycycline and Risk for Pregnancy Loss"
+   },
+   {
+    "doi": "10.7326/annals-26-03799",
+    "title": "Preconception Care"
+   }
+  ]
+ },
+ "Nat Med": {
+  "depositados": 13,
+  "en_ventana": 13,
+  "recogidos": 2,
+  "faltantes": 11,
+  "faltantes_detalle": [
+   {
+    "doi": "10.1038/s41591-026-04784-x",
+    "title": "Young people with obesity deserve better care"
+   },
+   {
+    "doi": "10.1038/s41591-026-04768-x",
+    "title": "Lessons from recent investigator-initiated trials of gene-editing therapies in China"
+   },
+   {
+    "doi": "10.1038/s41591-026-04741-8",
+    "title": "An ulcerative colitis taxonomy defined by individual patient-reported response trajectories"
+   },
+   {
+    "doi": "10.1038/d41591-026-00057-9",
+    "title": "Next-generation KRAS G12C inhibitor improves survival in lung cancer"
+   },
+   {
+    "doi": "10.1038/s41591-026-04755-2",
+    "title": "A novel candidate biomarker for detecting premalignant and early ovarian cancer"
+   },
+   {
+    "doi": "10.1038/s41591-026-04772-1",
+    "title": "Vaccines could be a new frontier in KRAS targeting"
+   },
+   {
+    "doi": "10.1038/s41591-026-04725-8",
+    "title": "Deep learning-based gait analysis predicts multisystem health phenotypes"
+   },
+   {
+    "doi": "10.1038/s41591-026-04799-4",
+    "title": "Author Correction: Innate lymphoid cells in the initiation, regulation and resolution of inflammation"
+   },
+   {
+    "doi": "10.1038/s41591-026-04752-5",
+    "title": "Resistance exercise to attenuate lean mass loss during tirzepatide therapy for obesity: a randomized controlled trial"
+   },
+   {
+    "doi": "10.1038/s41591-026-04789-6",
+    "title": "Gut and urogenital microbiomes influence menopausal hormone therapy outcomes"
+   },
+   {
+    "doi": "10.1038/s41591-026-04716-9",
+    "title": "Normalized membrane ratio of TROP2 as a predictor of clinical outcomes with datopotamab deruxtecan in non-small-cell lung cancer"
+   }
+  ]
+ },
+ "Circ Res": {
+  "depositados": 5,
+  "en_ventana": 5,
+  "recogidos": 5,
+  "faltantes": 0,
+  "faltantes_detalle": []
+ },
+ "Nat Cardiovasc Res": {
+  "depositados": 7,
+  "en_ventana": 7,
+  "recogidos": 7,
+  "faltantes": 0,
+  "faltantes_detalle": []
+ }
+}
