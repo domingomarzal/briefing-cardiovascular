@@ -1,0 +1,247 @@
+[
+ {
+  "idx": 20,
+  "journal": "JACC Adv",
+  "title": "Building a Rural Cardiovascular Workforce Through Research Fellowship Immersion: Thad Waites Rural CVD Research Fellowship.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Rural communities face significant challenges of access that disproportionately burden cardiovascular disease outcomes. Yet, cardiology training remains concentrated in urban tertiary. We describe the rationale, design, and prespecified evaluation framework of a launched 12-month rural cardiovascular research immersion fellowship. The program combines academic and community site-specific rotations in Washington, Mississippi, West Virginia, and Georgia with protected research time for a fellow-driven capstone project. The research activities are supported with educational modules of data and implementation science, leadership and policy, community immersion, and structured mentorship. The primary feasibility outcome is the proportion of 18 prespecified program deliverables completed by year-end. This pilot model is a transparent prospective evaluation of clinical research immersion in an expansive and diverse rural setting. This program will demonstrate the potential of nationally supported immersive research initiatives to produce measurable and more expansive competencies customized to training early-career cardiologists in the nuances of rural cardiovascular health.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103318"
+ },
+ {
+  "idx": 21,
+  "journal": "Eur Heart J",
+  "title": "Sex-specific mortality in ischaemic heart disease across Western Europe: 2023 Global Burden of Disease.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: Ischaemic heart disease (IHD) mortality has declined across Western Europe, but conventional mortality rates may obscure whether women and men experience comparable outcomes once IHD is present. This study examined sex-specific prevalence-adjusted IHD mortality and risk factor-attributable population case fatality across Western European countries. METHODS: Global Burden of Disease 2023 estimates for IHD mortality and prevalence across Western European countries from 2013 to 2023 were analysed. Population case fatality was calculated as age-standardized mortality divided by age-standardized prevalence (mortality-to-prevalence ratio [MPR]). Risk factor-attributable mortality was normalized to IHD prevalence to derive case-fatality indices (CFIs) for metabolic, behavioural, dietary, and environmental exposures. Sex differences were quantified using women-to-men ratios (WMRs). Substantive disparities were defined by WMR deviation ≥20% from unity with <50% overlap of sex-specific uncertainty intervals. RESULTS: Between 2013 and 2023, IHD age-standardized mortality declined by 15.9% in men and 23.5% in women. The pooled Western Europe MPR decreased, from 2.26% to 2.09% in men and from 2.56% to 2.21% in women. Despite these improvements, substantive female excess in MPR was observed in Austria, France, Greece, Israel, Italy, and Spain, whereas substantive male excess was observed only in Iceland. Risk-specific CFIs showed female excess mainly for metabolic risk, low physical activity, and low fibre intake, whereas male excess was most evident for smoking and sugar-sweetened beverages. CONCLUSIONS: Declining IHD mortality across Western Europe conceals persistent sex-specific differences in population case fatality. Sex-disaggregated MPR and risk-specific CFIs may complement conventional surveillance and identify ecological signals, where declining mortality appears disproportionate to the estimated IHD burden.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurheartj/ehag871"
+ },
+ {
+  "idx": 22,
+  "journal": "J Am Heart Assoc",
+  "title": "Real-World Safety and Effectiveness of Evolocumab in Japanese Patients With Familial Hypercholesterolemia: Postmarketing Survey Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Evidence on the real-world use of PCSK9 (proprotein convertase subtilisin/kexin type 9) inhibitors in familial hypercholesterolemia (FH) remains limited. This postmarketing surveillance study (NCT02808403) evaluated Japanese patients with FH and the long-term real-world effectiveness of evolocumab. METHODS: This analysis included patients with heterozygous familial hypercholesterolemia (HeFH) and homozygous familial hypercholesterolemia (HoFH). Diagnostic pathways, patient characteristics, background lipid-lowering therapy, evolocumab use, low-density lipoprotein cholesterol (LDL-C) reduction, long-term target achievement, and findings in pediatric HoFH were assessed. RESULTS: Of 2117 patients in the safety analysis set (HeFH, n=2009; HoFH, n=108), 1380 (HeFH, n=1296; HoFH, n=84) were included in the effectiveness analysis. Compared with patients with HeFH, patients with HoFH had higher genetic testing rates (40.7% versus 9.8%), higher mean baseline LDL-C levels (188.4±107.3 mg/dL versus 139.2±58.3 mg/dL), and higher lipoprotein apheresis use (26.9% versus 2.1%), but fewer total comorbidities (2.2±1.5 versus 2.7±1.5). Statin use was similarly high in patients with HeFH and HoFH (92.2% and 93.5%, respectively) with many patients receiving low- to moderate-intensity statins. Most patients received evolocumab biweekly. LDL-C reductions were evident at 4 weeks and sustained at 104 weeks. At 104 weeks, mean LDL-C changes from baseline were -54.0% in patients with HeFH and -48.9% in patients with HoFH. LDL-C<70 mg/dL was achieved by 63.0% of patients with HeFH and 43.9% of patients with HoFH, and LDL-C<55 mg/dL was achieved by 48.2% and 17.1%, respectively. CONCLUSION: Evolocumab was associated with sustained LDL-C reductions over 104 weeks in Japanese patients with HeFH and HoFH, with higher target achievement in HeFH. Gaps exist in genetic testing and treatment optimization in routine Japanese FH care.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050177"
+ },
+ {
+  "idx": 23,
+  "journal": "JACC Adv",
+  "title": "Multiview Integration for Robust Echocardiographic Embeddings: Accessible AI for Clinical Practice.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Although recent artificial intelligence (AI) foundation models have shown superior performance in medical imaging, their high computational demands and reliance on large data sets limit accessibility. These issues are especially pronounced in echocardiography, where integrating complex multiview measurements for individual cases hinders AI development and clinical translation. Vector embedding approaches offer promising solutions by leveraging compact representations in AI applications. OBJECTIVES: We aimed to develop a transformer-based multiview encoder that integrates multiple echocardiographic videos into unified vector embeddings and uses adversarial learning to reduce reliance on demographic shortcuts. METHODS: Using the MIMIC-IV-ECHO (Medical Information Mart for Intensive Care IV-Echocardiography) data set (7,169 studies), we trained a multiview encoder to produce study-level embeddings and evaluated them on 21 binary classification tasks covering echocardiographic measurements and clinical diagnoses. We varied adversarial weights to assess their impact on demographic shortcut reliance and overall performance. RESULTS: The multiview encoder raised the mean area under the curve (AUC) across clinical tasks from 0.742 to 0.831 compared with the foundation model embedding (ΔAUC +0.090; 95% CI: 0.078-0.100), with significant gains in 20 of 21 tasks. The embeddings remained robust with a limited number of views (mean ΔAUC +0.071; 95% CI: 0.043-0.113). Adversarial learning reduced sex and race predictability only at strong weights and at substantial cost to clinical performance. CONCLUSIONS: The multiview encoder framework integrates multiple echocardiographic views into unified study-level embeddings, enabling substantial diagnostic improvements across diverse cardiac tasks. By producing compact, informative embeddings without requiring extensive computational resources, this approach lowers the cost of building echocardiographic AI on an existing foundation model.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103488"
+ },
+ {
+  "idx": 24,
+  "journal": "Eur Heart J Cardiovasc Imaging",
+  "title": "Implementation Feasibility and Clinical Utility of Phenomapping in Dilated and Hypokinetic Non-dilated Non-ischemic Cardiomyopathy.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Despite phenotypic heterogeneity, the management of idiopathic non-ischemic cardiomyopathy (NICM) remains generalized and dominantly guided by left ventricular (LV) ejection fraction (EF) and NYHA class. We aimed to develop a point-of-service phenomapping pathway for dilated cardiomyopathy (DCM) and hypokinetic non-dilated cardiomyopathy (HNDC) at time of CMR imaging leveraging the integration of i) patient self-reported health status, ii) imaging phenotype, and the iii) electronic health record (EHR). METHODS AND RESULTS: 1,355 patients (752 DCM and 603 HNDC) were followed for the composite MACE outcome of mortality, heart failure hospitalization or ventricular arrhythmia. K-means clustering was independently applied to DCM and HNDC derivation cohorts using 55 routinely captured features (16 patient-reported health variables, 19 CMR-derived, 14 EHR-derived, and 6 combined features), identifying three phenogroups in each cohort. Over a median of 3.9 and 3.7 years, 145 DCM patients (22%) and 65 HNDC patients (13%), respectively, experienced MACE. Adjusting for age, sex, NYHA class, and LV EF, phenogroup membership was independently associated with future outcomes. In DCM, the adjusted HR (95% CI) of phenogroups 2 and 3 versus Phenogroup 1 were 2.8 (1.6-4.8) and 3.5 (1.9-6.5), respectively (p<0.001 for both). In HNDC, Phenogroup 3 demonstrated an adjusted HR of 4.2 (1.7-10.2; p=0.001) versus Phenogroup 1. Prospective phenogroup assignment was enabled by a decision tree-classifier and validated in a temporal hold-out cohort. CONCLUSION: Phenomapping delivers incremental value to LVEF and NYHA for identification of high-risk NICM patients. These findings support value from standardized, point-of-service data integration for the delivery of phenomics-driven personalized care.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/ehjci/jeag329"
+ },
+ {
+  "idx": 25,
+  "journal": "Europace",
+  "title": "Early Left Bundle Branch Pacing for Complete Left Bundle Branch Block and Left Ventricular Ejection Fraction of 36%-50%: The EARLY-RESYNC Randomized Trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: To compare the effects of early resynchronization with left bundle branch pacing (early-LBBP) versus guideline-directed medical therapy (GDMT) alone on cardiac function in patients with complete left bundle branch block (CLBBB) and left ventricular ejection fraction (LVEF) of 36%-50%. METHODS AND RESULTS: In this prospective, randomized, multicenter trial, 37 patients (mean age 60.5 ± 12.3 years, male 40.5%, LVEF 42.6% ± 6.0%) were assigned to early-LBBP plus GDMT (n=19) or GDMT alone (n=18). The primary endpoint was the between-group difference in the change of LVEF from baseline to 6 months. Secondary endpoints included changes in echocardiographic parameters and clinical outcomes. Analyses were performed according to the intention-to-treat principle. At 6-month follow-up, the adjusted mean improvement in LVEF was greater in the early-LBBP group than in the GDMT group (mean difference: 7.4%, 95% CI: 1.9 to 12.9%; P =0.013), with consistent findings in the per-protocol analysis. Early-LBBP was also associated with a greater reduction in LV end-systolic volume (-23.6mL; 95% CI: -42.3 to -4.8ml) and a higher rate of final LVEF ≥50% (78.9% vs. 38.9%) at 6 months compared with GDMT alone. CONCLUSION: In patients with CLBBB and LVEF 36%-50%, LBBP combined with GDMT resulted in greater improvement in LVEF at 6 months than GDMT alone. Larger randomized trials are needed to establish its long-term clinical benefits and optimal timing.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag320"
+ },
+ {
+  "idx": 26,
+  "journal": "JACC Adv",
+  "title": "Nocturnal Respiratory Rate and Variability Predict Long-Term Mortality in Stable Outpatients With Cardiovascular Risk Factors.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Respiratory rate predicts short-term mortality in acute care settings, yet its prognostic significance in clinically stable outpatients remains poorly defined. OBJECTIVES: The objective of the study was to determine whether the median and variability of nocturnal respiratory rate (NRR) are independently associated with long-term cardiovascular and all-cause mortality in outpatients with cardiovascular risk factors. METHODS: We analyzed overnight chest belt waveforms from elective polysomnography in 5,679 adults with cardiovascular risk enrolled in the Sleep Heart Health Study. NRR was quantified at 30-second resolution, and per-subject median NRR and within-night variability (interdecile range) were derived. Kaplan-Meier survival analysis and Cox proportional hazards models were used to evaluate associations with cardiovascular and all-cause mortality over 3-year and 15-year follow-up periods, adjusting for demographic characteristics, cardiopulmonary comorbidities, and sleep apnea severity. RESULTS: Higher median NRR and greater interdecile range of NRR were each associated with increased cardiovascular and all-cause mortality. Combining these metrics stratified participants into low-, mid-, and high-risk groups with graded 3-year all-cause mortality; relative to the low-risk group, mortality risk increased stepwise in the mid-risk group (unadjusted HR: 1.91; 95% CI: 1.39-2.64; P < 0.001; adjusted HR: 1.52; 95% CI: 1.09-2.10; P = 0.012) and the high-risk group (unadjusted HR: 4.17; 95% CI: 2.85-6.10; P < 0.001; adjusted HR: 2.80; 95% CI: 1.88-4.15; P < 0.001). CONCLUSIONS: Both the baseline level and variability of NRR independently predict mortality in clinically stable adults with cardiovascular risk. Densely profiled NRR represents a promising, underutilized biomarker for long-term risk stratification.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103436"
+ },
+ {
+  "idx": 27,
+  "journal": "JACC Adv",
+  "title": "Residual Structural, Behavioral, and Social Barriers to Blood Pressure Control in an EHR-Integrated Remote Hypertension Program.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Remote hypertension programs improve blood pressure (BP) control, but which patient-level barriers matter once a program supplies education, monitoring, and pharmacist titration is unclear. OBJECTIVES: To quantify BP improvement in a pharmacist-led, electronic health record-integrated remote program and identify barriers independently associated with control. METHODS: Retrospective cohort study included 1,948 adults with uncontrolled hypertension (baseline BP >140/90 mm Hg) enrolled at least 6 months (median observation: 9.7 months). Health literacy and medication-affordability concerns were recorded at enrollment, with engagement measures and the ADI (Area Deprivation Index). Linear (systolic change) and logistic (control) models were adjusted for both barriers and clinical covariates (n = 1,744). RESULTS: Mean systolic reduction was 24.1 mm Hg (95% CI: 23.5-24.7); HEDIS (Healthcare Effectiveness Data and Information Set) (<140/90 mm Hg) and clinical (<130/80 mm Hg) control reached 90.5% and 66.4%. Limited health literacy was associated with lower control (clinical OR: 0.66; 95% CI: 0.50-0.88; HEDIS OR: 0.66) in a graded, linear fashion (per-level OR: 0.81; P < 0.001). Medication-affordability concern (HEDIS OR: 0.48; 95% CI: 0.29-0.78) and loss of a marital partner (HEDIS OR: 0.53) were likewise associated with lower control, with concordant linear estimates. Educational uptake, but not measurement frequency, was associated with control; no barrier acted through engagement, and associations survived ADI adjustment. CONCLUSIONS: A digital hypertension program achieved large BP reductions, yet limited literacy, medication affordability, and loss of a partner persisted as residual, overlapping barriers not explained by engagement or neighborhood deprivation. Screening for these barriers may extend program benefit through targeted support.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103476"
+ },
+ {
+  "idx": 28,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Exploring the upper spectrum of physiological cardiac remodelling in Olympic athletes: insights from a CMR study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cardiac magnetic resonance (CMR) is essential for distinguishing physiological from pathological remodelling in athletes. However, cardiovascular screening protocols vary across studies, leaving uncertainty regarding the true upper limits of physiological adaptation. OBJECTIVES: This study aimed to characterise the full spectrum of cardiac remodelling in Olympic athletes and to describe CMR-derived upper limits of cardiac remodelling according to sport category and sex. METHODS: Olympic athletes with negative comprehensive cardiovascular evaluation underwent voluntary non-contrast CMR. Left and right ventricular volumes, mass, and ejection fraction (EF) were quantified. Cardiac parameters were analysed according to the ESC sport classification and sex. Cluster analysis was performed to identify patterns of cardiac remodelling independently of sport category. RESULTS: A total of 320 athletes (age 26±5 years, 57% male; 13% skill sports, 19% power, 28% mixed, 40% endurance, 97% Caucasians) were included. Endurance athletes had the largest biventricular volumes and LV mass (all p-values <0.001), with no differences in EF across sport categories. Maximal interventricular septal thickness did not exceed 13 mm in males or 11 mm in females. Only 1% and 2% of athletes had LV or RV EF <50%, respectively, predominantly cyclists. Cluster analysis identified two phenotypes reflecting lower and higher degrees of remodelling, with substantial overlap across sport categories. The sex and sport categories were independently associated with the high-remodelling phenotype. CONCLUSION: CMR-derived cardiac adaptation in predominantly Caucasian, Olympic athletes varies according to sport category, with endurance athletes demonstrating the most pronounced remodelling. Maximal physiological LV wall thickness was 13 mm in males and 11 mm in females in this cohort, whereas LV EF <50% was uncommon despite marked cardiac remodelling. Finally, the overlap across sport categories and the identification of distinct remodelling phenotypes suggest that cardiac adaptation reflects a continuum rather than discrete sport-specific patterns.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag587"
+ },
+ {
+  "idx": 29,
+  "journal": "JACC Adv",
+  "title": "Deep Learning With Longitudinal Electrocardiograms Predicts Atrial Fibrillation Better Than a Single Electrocardiogram.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Atrial fibrillation (AF) is often paroxysmal and asymptomatic, yet early identification could enable targeted surveillance. Deep learning can predict future AF from a single 12-lead electrocardiogram (ECG), but AF develops through progressive atrial remodeling. OBJECTIVES: We hypothesized that modeling each patient's longitudinal ECG history would improve 1-year AF prediction over a matched single-ECG model. METHODS: We developed a transformer-based model that accepts variable-length sequences of prior 12-lead ECGs with time-aware encoding of irregular intervals. We compared it with a single-ECG model sharing the same encoder, covariates, preprocessing, outcome definition, and splits. Models were developed at Weill Cornell Medicine/NewYork-Presbyterian and evaluated on MIMIC-IV-ECG without and with fine-tuning. The outcome was AF documented more than 1 and within 365 days after an index ECG. Discrimination used patient-cluster bootstrapping with 1 random index ECG per patient. RESULTS: Cohorts included 107,811 institutional and 55,307 MIMIC-IV-ECG patients. The fine-tuned longitudinal model with age and sex discriminated best (area under the receiver-operating characteristic curve: 0.85; C-index 0.84), exceeding the single-ECG model with age and sex (paired area under the receiver-operating characteristic curve: +0.007; 95% CI: 0.003-0.012; +0.014 with ≥1 prior ECG). Without retraining on MIMIC-IV-ECG, the ECG-only advantage was confined to patients with ≥1 prior ECG (+0.014; 95% CI: 0.004-0.024). After external-domain adaptation, the matched advantage was +0.007 (95% CI: 0.002-0.012). High-risk patients had lower AF-free survival (HR: 8.8; 95% CI: 7.8-10.0). CONCLUSIONS: A longitudinal deep learning model using serial 12-lead ECGs improved 1-year AF prediction over a matched single-ECG model. Longitudinal ECG modeling may provide a scalable approach to identify patients warranting enhanced AF surveillance.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103468"
+ },
+ {
+  "idx": 30,
+  "journal": "Atherosclerosis",
+  "title": "Lipoprotein(a) and incident peripheral artery disease in the Atherosclerosis Risk in Communities Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: Lipoprotein(a) [Lp(a)] is an atherogenic, prothrombotic lipoprotein linked to atherosclerotic cardiovascular disease, but prospective data on its association with peripheral artery disease (PAD) in large, diverse U.S. cohorts are limited. We characterized the association of Lp(a) with long-term incident PAD risk in a diverse, community-based U.S. METHODS: We included Atherosclerosis Risk in Communities (ARIC) Study participants attending Visit 4 (1996-98) with measured Lp(a) and no prevalent PAD. Lp(a) was natural logarithm (ln)-transformed and categorized as <30, 30-50, and >50 mg/dL. Incident PAD was identified from hospitalization and procedure codes through 2019. Hazard ratios (HRs) were estimated using Cox models adjusted for confounders; Fine-Gray models and cumulative incidence functions accounted for competing mortality. RESULTS: Among 9727 participants (mean age 63.1 years, 53.9% women, 20.4% Black), 825 incident PAD events occurred over a median 22.5 years of follow-up. Lp(a) was <30 mg/dL in 69.7%, 30-50 in 11.7%, and >50 in 18.6%. Fully adjusted HRs were 1.27 (95% confidence interval [CI], 1.03-1.57) for 30-50 mg/dL and 1.32 (95% CI, 1.11-1.57) for >50 mg/dL versus <30 mg/dL; each unit increase in ln(Lp(a)) was associated with an HR of 1.14 (95% CI, 1.07-1.20). Estimates were similar accounting for competing mortality, and cumulative incidence differed across categories (p < 0.001). The association did not differ by baseline statin use. CONCLUSIONS: Higher Lp(a) was independently associated with greater long-term PAD risk in a community-based cohort, supporting Lp(a) as a risk factor for lower-extremity atherosclerotic disease and its value for risk stratification.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.atherosclerosis.2026.121962"
+ },
+ {
+  "idx": 31,
+  "journal": "J Am Coll Cardiol",
+  "title": "Lipid-Lowering Strategies in the Era of Early Atherosclerosis Detection: 2026 ACC Scientific Statement: A Report of the American College of Cardiology.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Atherosclerotic cardiovascular disease (ASCVD) begins early in life, driven in large part by cumulative exposure to low-density lipoprotein cholesterol and other atherogenic lipoproteins. Contemporary evidence from epidemiologic cohorts, genetic studies, imaging studies, and lipid-lowering trials supports a paradigm of earlier identification and more sustained treatment of individuals at increased ASCVD risk. This American College of Cardiology Scientific Statement reviews the rationale for early adoption of lipid-lowering strategies, with emphasis on lifetime lipid burden, inherited and acquired risk enhancers, and the role of subclinical atherosclerosis assessment. Available clinical trial data suggest that greater absolute low-density lipoprotein cholesterol reduction and longer treatment duration can reduce ASCVD events, even though direct evidence remains limited in younger populations at low short-term risk. Atherosclerosis detected by imaging may identify individuals whose ASCVD risk is underestimated by traditional calculators, but optimal strategies for screening, treatment thresholds, safety, adherence, cost-effectiveness, and value require further study. Clinicians should integrate estimated short- and long-term risk, lipid burden, risk enhancers, imaging findings when appropriate, and patient preferences to guide individualized, shared decision making to reduce lifetime ASCVD risk.",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1016/j.jacc.2026.10.067"
+ },
+ {
+  "idx": 32,
+  "journal": "J Am Coll Cardiol",
+  "title": "Intravascular Lithotripsy vs Super-High-Pressure Noncompliant Balloons for Treatment of Calcified Coronary Lesions: The VICTORY Trial.",
+  "ptypes": [
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Equivalence Trial",
+   "Comparative Study"
+  ],
+  "abstract": "BACKGROUND: Although calcified coronary lesions are associated with poor outcomes after percutaneous coronary interventions (PCI), randomized data guiding lesion preparation are limited. Small studies suggest potential benefits of super-high-pressure noncompliant balloons (SH-NCB); however, they have not been directly compared with intravascular lithotripsy (IVL). OBJECTIVES: The goal of this study was to conduct a randomized comparison of SH-NCBs vs IVL in calcified lesions. METHODS: In this open-label, randomized controlled, noninferiority trial with blinded outcomes assessment (ie, the PROBE design), patients aged ≥18 years with calcified coronary lesions were randomly assigned (1:1) to undergo lesion preparation with SH-NCBs or IVL before PCI with drug-eluting stents. All patients were required to undergo optical coherence tomography (OCT). The primary endpoint was final stent expansion (%) according to OCT. Secondary endpoints included procedural success, strategy success, target vessel failure, stent expansion <80%, and safety outcomes (eg, coronary perforation). RESULTS: Between December 21, 2022, and August 11, 2025, a total of 278 patients underwent the randomly assigned study procedure using plaque modification with SH-NCBs or IVL before stent implantation. The majority of patients (68%) had severe calcium based on an OCT Fujino score ≥4. Study procedures involving IVL tended to be longer and require more auxiliary devices compared with SH-NCBs. The median pressure applied with SH-NCBs compared with IVL was 40 atmospheres vs 6 atmospheres. Regarding the primary endpoint of stent expansion, SH-NCBs were noninferior to IVL (85% vs 84%; Pnoninferiority < 0.0001). The results were consistent across all subgroups, including calcium severity. Use of SH-NCBs, compared with IVL, resulted in similar rates of procedural and strategy success. Safety outcomes, specifically coronary perforations, did not differ between the 2 groups. At 30 days' follow-up, target vessel failure events (including cardiac death, target vessel revascularization, or myocardial infarction) occurred in 4 (2.8%) patients in the SH-NCB group and in 8 (5.7%) patients in the IVL group (HR: 0.50; 95% CI: 0.15 to 1.66; P = 0.26). CONCLUSIONS: In calcified coronary lesions, SH-NCBs were noninferior to IVL for stent expansion and exhibited a comparable safety profile in experienced operators using intravascular imaging. (Value of IVL Compared To OPN Non-Compliant Balloons for Treatment of Refractory Coronary Lesions [VICTORY]; NCT05346068).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacc.2026.09.016"
+ },
+ {
+  "idx": 33,
+  "journal": "Heart Rhythm",
+  "title": "Patient-Reported Symptoms and Arrhythmias During Continuous ECG Monitoring After Transcatheter Aortic Valve Implantation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Wearable ECG patches after transcatheter aortic valve implantation (TAVI) enable continuous rhythm monitoring and allow symptoms reporting via trigger buttons and diary entries. However, the reliability of triggered events to identify clinically relevant arrhythmias after TAVI is uncertain. OBJECTIVES: We systematically analyzed patient-triggered events and their corresponding rhythm findings during 14-day ECG patch monitoring after TAVI. METHODS: Adult patients undergoing TAVI at a Swiss tertiary centre were prospectively enrolled and monitored with a 14-day ECG patch before discharge. Patients recorded any cardiac-related symptoms using the patch trigger button and/or diary function. RESULTS: Among 315 patients (median age 82 years [78-87], 43% female), median analyzable duration was 14 days [13-14]. At least one patient-triggered event was recorded in 94 patients (30%), with a median of 2 events per patient [1-4]. Atrial fibrillation (AF) was detected in 85 patients (27%), including 17 patients (5.4%) with new AF; however, only 20 patients with AF (24%) reported symptoms during AF episodes. Pauses occurred in 58 patients (18%) and high-grade atrioventricular block in 32 patients (10%), with no associated patient-triggered events. Ventricular tachycardia (≥4 beats) occurred in 165 patients (52%) and was entirely asymptomatic. Of 348 evaluable symptom-triggered events, 153 (44%) occurred without associated arrhythmia. The most frequent arrhythmias associated with symptom-triggered events were premature atrial contractions (21%), AF (14%), and premature ventricular contractions (11%). CONCLUSIONS: After TAVI, patient-triggered events during ECG patch monitoring poorly reflect objectively documented arrhythmias and fail to identify many clinically relevant rhythm disturbances. These findings support systematic continuous ECG surveillance beyond symptom-driven monitoring strategies after TAVI.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.11.015"
+ },
+ {
+  "idx": 34,
+  "journal": "JACC Heart Fail",
+  "title": "Pulmonary Artery Pressures Predict Heart Failure Events Following Heart Failure and Non-Heart Failure Events.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: It is uncertain whether pulmonary artery pressure (PAP) within the first week after either hospitalization for a non-heart failure event (HFE) or hospitalization or urgent visit for a HFE predicts the risk of recurring events. OBJECTIVES: This study aims to determine if PAP following a non-HFE or HFE predicts subsequent events within 90 days. METHODS: The authors examined non-HFE and HFE in patients with heart failure (HF) treated with remote hemodynamic-guided management using a wireless PAP sensor in the GUIDE-HF study. They compared PAP trends before and after a non-HFE or HFE and stratified the admitting and discharge PAP during the index event into groups with a subsequent HFE, non-HFE, or no further events within 90 days. RESULTS: Following index non-HFE (615 events, n = 425), post-discharge diastolic PAP was significantly higher in patients with a subsequent HFE (23.3 ± 7.9 mm Hg) (n = 97) vs patients with a subsequent non-HFE (20.4 ± 7.3 mm Hg; P = 0.0046) (n = 189) or no further events (20.9 ± 7.4 mm Hg; P = 0.015) (n = 329). Following index HFE (539 events, n = 358), post-discharge diastolic PAP was numerically higher in patients with a subsequent HFE (23.9 ± 6.9 mm Hg) (n = 199) than in patients with a subsequent non-HFE (22.0 ± 7.1 mm Hg; P = 0.078 (n = 102) and in those with no further events (22.0 ± 7.6 mm Hg; P = 0.021) (n = 238). Similar trends were observed for HF with reduced ejection fraction and HF with preserved ejection fraction subgroups and with systolic and mean PAP. CONCLUSIONS: Persistently elevated PAP early after discharge following either an index non-HFE or an HFE is associated with the risk of a subsequent HFE. (Hemodynamic-GUIDEd Management of Heart Failure [GUIDE-HF]; NCT03387813).",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jchf.2026.103503"
+ },
+ {
+  "idx": 35,
+  "journal": "Circ Cardiovasc Interv",
+  "title": "Ventricular Morphology and Atrioventricular Valve Regurgitation in Adults Post-Fontan: Associations With Exercise Hemodynamics.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Right ventricular (RV) dominance and atrioventricular valve regurgitation (AVVR) are associated with adverse outcomes post-Fontan palliation, but their underlying hemodynamic correlates, particularly during exercise, remain incompletely characterized. METHODS: In this cross-sectional cohort, exercise hemodynamics by ventricular morphology and AVVR severity were assessed invasively (supine exercise catheterization) in 108 individuals and semi-invasively (semisupine exercise with echocardiography and peripheral venous pressure) in 108. RESULTS: Age of the invasive cohort was 32.1 (25.6-37.2) years; 41 had RV dominance, 19 had moderate or severe AVVR, and 16 had both. Resting and peak mean pulmonary artery pressure and pulmonary artery wedge pressure were similar across ventricular morphologies and AVVR severity. However, RV dominance was associated with lower systemic (systemic blood flow, 67% [22-93] versus 86% [63-105] predicted; P=0.006) and pulmonary (pulmonary blood flow, 57% [33-75] versus 72% [61-89] predicted; P<0.001) cardiac output responses to exercise and steeper Δpulmonary artery pressure/Δpulmonary blood flow, (4.3 [2.6-10.6] versus 3.0 [1.7-4.8] mm Hg/L per minute; P=0.004). Patients with moderate or severe AVVR showed a similar pattern, with lower systemic blood flow (64% [19-92] versus 77% [57-101], P=0.10) and pulmonary blood flow (57% [36-74] versus 70% [55-88] predicted, P=0.03) responses. Findings were replicated in the semi-invasive cohort, where RV dominance and moderate or severe AVVR were associated with lower peak systemic blood flow and higher Δperipheral venous pressure/Δ systemic blood flow, despite similar peak peripheral venous pressure. CONCLUSIONS: Resting and exertional pulmonary artery wedge pressure, pulmonary artery pressure, and peripheral venous pressure are unrelated to ventricular morphology and AVVR severity. Conversely, impaired flow augmentation and steeper pressure-flow relationships during exercise were associated with RV dominance and moderate or severe AVVR, emphasizing the role of dynamic provocation to unmask occult cardiovascular reserve limitations.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCINTERVENTIONS.126.017083"
+ },
+ {
+  "idx": 36,
+  "journal": "JACC Adv",
+  "title": "Exercise Test Findings in the Long-Term Outcomes After Multisystem Inflammatory Syndrome in Children (MUSIC) Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Multisystem inflammatory syndrome in children (MIS-C) commonly presents with cardiovascular involvement, but the frequency of exercise-related arrhythmias and exercise capacity are poorly defined. OBJECTIVES: The purpose of this study was to describe exercise stress testing (EST) and cardiopulmonary exercise testing (CPET) after MIS-C. METHODS: We summarized EST and CPET results from the MUSIC (Long-terM OUtcomes after the Multisystem Inflammatory Syndrome In Children) study (1,204 participants, 32 North American sites). Demographics and details of hospitalization from participants undergoing clinical EST were compared to participants ≥5 years who did not undergo EST. Site reported results of EST and CPET were described. RESULTS: EST was performed in 22% (208/932) at a mean of 150 ± 110 days after hospitalization. Compared with those who did not undergo EST (n = 724), the EST cohort was older (12.2 vs 10.5 years) and had higher rates of intensive care unit admission (77.4% vs 63.8%), vasoactive infusions (57.2% vs 46.1%), troponin elevation (64.4% vs 51.0%), and coronary artery aneurysm (22.7% vs 0.4%) (all P ≤ 0.01). During EST, only 1% (2/208; 95% CI: 0.1%-3.4%) exhibited premature ventricular contractions and no sustained ectopy. Among 160 participants undergoing CPET, 75.6% (121/160; 95% CI: 68.2%-82.1%) achieved oxygen consumption/kg ≥ 80% predicted, and 83.8% (134/160; 95% CI: 77.1%-89.1%) achieved an oxygen pulse ≥80% predicted. CONCLUSIONS: Among patients undergoing exercise testing after MIS-C, most had normal exercise capacity, no sustained arrhythmias occurred, and premature ventricular contractions were rare.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103472"
+ },
+ {
+  "idx": 37,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Blood pressure and arterial stiffness in the pathway between long-term PM2.5 exposure and cardiovascular risk: exploratory mediation analysis in middle-aged and older adult men.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: The extent to which blood pressure (BP) and arterial stiffness mediate the association between long-term PM2.5 exposure and cardiovascular risk, and whether individuals with metabolic impairment are more susceptible, remain unclear. METHODS: Within the \"Risk of Cardiovascular diseases and abdominal aortic Aneurysms in Varese\" (RoCAV) cohort, we retained 2119 men aged 50-75 and free of coronary heart disease (CHD) and stroke at baseline; carotid-femoral Pulse Wave Velocity (cfPWV) was measured in a subset of 1015 using an automated oscillometer. Exposure was the 12-month mean PM2.5 concentration before baseline (EXPANSE models); outcome was incident major acute CHD or stroke (MACE), fatal or non-fatal. We estimated the mediating contribution of BP and cfPWV through Marginal Structural Models and Aalen survival models, with individual- and area-level confounders. RESULTS: In a median follow-up of 7.6 years, 178 MACE events occurred (rate=1155 per 100,000 person-years), and 76 (1086/100,000 p-y) in the cfPWV subset. Systolic BP, mean BP, brachial pulse pressure and cfPWV were highest in the most exposed. Each 1-µg/m3 increase in PM2.5 was associated with 151 (95%CI:21-282) additional MACE events per 100,000 p-y, of which 48 (95%CI:17-79) were mediated by cfPWV (mediated proportion: 32%). Systolic BP and brachial pulse pressure each mediated about 16% of the PM2.5-associated risk. The cfPWV-mediated effect was enhanced in men with impaired glucose (96;95%CI:38-155) and elevated LDL-cholesterol (88;95%CI:28-147). CONCLUSIONS: Large-artery stiffness substantially contributes to the MACE burden associated with chronic PM2.5 exposure, especially in men with metabolic impairment. Monitoring cfPWV may help incorporate environmental risk into cardiovascular prevention.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag595"
+ },
+ {
+  "idx": 38,
+  "journal": "JACC Clin Electrophysiol",
+  "title": "Discontinuation of Anticoagulation in Patients at Relatively High Risk of Stroke After Successful Catheter Ablation for Atrial Fibrillation: A Nationwide Cohort Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Oral anticoagulant (OAC) discontinuation after atrial fibrillation (AF) ablation may be feasible in selected patients; however, outcomes in those at high stroke risk remain unclear. OBJECTIVES: This study aimed to evaluate associations between OAC discontinuation beyond 1 year after ablation and thromboembolic or bleeding events across CHA2DS2-VA risk strata. METHODS: Patients without AF recurrence within 12 months of catheter ablation and with CHA2DS2-VA scores ≥2 were identified from the Korean National Health Insurance Service database and classified as OAC continuers or discontinuers based on prescription coverage at the 12-month landmark. The primary outcome was a composite of stroke or systemic embolism and major bleeding. Doubly robust estimation combined overlap weighting with covariate-adjusted Cox regression, stratified by CHA2DS2-VA score (2-4 and ≥5). RESULTS: Among 3,637 patients (mean age: 60.8 ± 9.7 years, 27.1% female, mean CHA2DS2-VA 3.2 ± 1.3), discontinuation in those with scores of 2-4 (n = 3,054) was associated with lower risks of the composite event (HR: 0.61; 95% CI: 0.38-0.96) and major bleeding (HR: 0.51; 95% CI: 0.29-0.90), without increased stroke or systemic embolism (HR: 0.73; 95% CI: 0.34-1.58). In those with scores ≥5 (n = 583), discontinuation was not significantly associated with any outcome, and tests for interaction were not significant (all P > 0.46). CONCLUSIONS: In this nationwide cohort, OAC discontinuation beyond 1 year after AF ablation was associated with decreased bleeding risk without a corresponding increase in thromboembolic events among patients with CHA2DS2-VA score 2 to 4.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacep.2026.10.016"
+ },
+ {
+  "idx": 39,
+  "journal": "EuroIntervention",
+  "title": "Anterior mitral leaflet modification to prevent left ventricular outflow tract obstruction during transcatheter mitral valve replacement: the PROTECT-LVOT registry.",
+  "ptypes": [
+   "Journal Article",
+   "Multicenter Study"
+  ],
+  "abstract": "BACKGROUND: Left ventricular outflow tract (LVOT) obstruction remains the major limitation of transcatheter mitral valve replacement (TMVR). Anterior mitral leaflet (AML) modification has emerged as a key preventive strategy, yet real-world data remain limited and residual risk is still unknown. AIMS: We sought to evaluate the outcomes of TMVR with concomitant AML modification across valve-in-mitral annular calcification (ViMAC), valve-in-ring (ViR), and valve-in-valve (ViV) substrates. METHODS: We established a multicentre retrospective registry of consecutive patients undergoing TMVR with AML modification between 2017 and 2025. The co-primary in-hospital safety endpoint was a composite of cardiovascular death, stroke/transient ischaemic attack, and major bleeding. RESULTS: A total of 55 patients were included (67% females). The median age was 78 years (interquartile range [IQR] 73-81); the median Society of Thoracic Surgeons Predicted Risk of Mortality was 6.7% (IQR 4.8-9.5). AML modification was performed in 65.5% of cases with the Laceration of the Anterior Mitral leaflet to Prevent Outflow ObstructioN technique and in 34.5% with the Balloon-Assisted Translocation of the Mitral Anterior Leaflet technique. AML modification was successful in 96.4% of cases. Despite successful AML modification, haemodynamically significant LVOT obstruction occurred in 12.7% of cases. The co-primary in-hospital safety endpoint occurred in 20.0% of patients, driven by cardiovascular death in 14.5% of patients. Overall in-hospital mortality was 16.4%. The ViMAC substrate was associated with the numerically highest LVOT obstruction rate (ViMAC 20.7%, ViR 0.0%, ViV 8.3%, odds ratio [OR] 4.72, 95% confidence interval [CI]: 0.89-47.86; p=0.070). The aortomitral angle showed a borderline association with LVOT obstruction (OR 1.22 per degree, 95% CI: 0.99-1.48; p=0.059). CONCLUSIONS: AML modification enables TMVR in high-risk anatomies with high feasibility but does not eliminate LVOT obstruction. ViMAC represents the most challenging substrate.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.4244/EIJ-D-26-00822"
+ }
+]

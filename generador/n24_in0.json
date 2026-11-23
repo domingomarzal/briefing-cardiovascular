@@ -1,0 +1,246 @@
+[
+ {
+  "idx": 0,
+  "journal": "Heart Rhythm",
+  "title": "Middle Cardiac Vein Mapping with Multielectrode Catheters to Guide Ablation of Scar-Related Ventricular Tachycardia.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The coronary venous system offers an alternative route for mapping and ablation of ventricular arrhythmias, especially in presence of epicardial or intramural substrate. OBJECTIVE: To investigate the feasibility, diagnostic yield and outcomes of middle cardiac vein (MCV) mapping using multielectrode catheters to guide ablation of scar-related ventricular tachycardia (VT). METHODS: We included patients with structural heart disease and VT undergoing ablation in which MCV mapping was performed using multielectrode catheters. Left ventricular (LV) and/or right ventricular (RV) endocardial mapping was performed depending on the VT morphology, and the ablation strategy was selected based on endocardial and MCV activation in addition to pace mapping and/or entrainment. RESULTS: Thirty-three patients (60.5±13.6 years, 73% nonischemic) were included. VT was inducible in 97% of patients, with a median of 4 VT morphologies per patient. MCV and endocardial mapping suggested an epicardial circuit in 21 patients and epicardial access was obtained in 13 of them (percutaneous approach in 11 and surgical window in 2). Additionally, mapping was consistent with an intramural circuit in 3 patients, which were treated with sequential RF ablation from LV and RV (n = 3) and ethanol ablation (n = 2). There were no complications related to MCV mapping. Over a median follow-up of 13 months, 8 patients (24%) had VT recurrence. CONCLUSIONS: MCV mapping with multielectrode catheters is safe and facilitates identification of epicardial or intramural VT circuits, guides the need for epicardial access and provides an opportunity for therapeutic interventions such as venous RF delivery or ethanol infusion.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.11.026"
+ },
+ {
+  "idx": 1,
+  "journal": "JACC Adv",
+  "title": "Data-Driven Phenotyping of Stage 2 Cardiovascular-Kidney-Metabolic Syndrome Among U.S. Adults.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Stage 2 cardiovascular-kidney-metabolic (CKM) syndrome is common and represents an important window for primary prevention, but it encompasses heterogeneous cardiometabolic risk profiles. OBJECTIVES: We aim to identify the distinct phenotypes of stage 2 CKM among U.S. adults and characterize their temporal trends, sociodemographic distribution, and mortality risks. METHODS: We analyzed 8,761 adults aged ≥20 years with stage 2 CKM from the National Health and Nutrition Examination Survey, 1999 to 2018, with mortality follow-up through 2019. Latent profile analysis incorporated 9 age-residualized, standardized biomarkers across adiposity, blood pressure, glycemic, lipid, and kidney domains. We assessed the prevalence, trends, and sociodemographic distribution of the distinct stage 2 CKM phenotypes. Survey-weighted Cox models estimated mortality associations using CKM stages 0/1 as the reference. RESULTS: Four phenotypes were identified: lean-hypertensive (23.3%), overweight-dyslipidemic (40.7%), obesity-metabolic (26.2%), and hyperglycemic-albuminuric (9.8%). From 1999-2000 to 2017-2018, hyperglycemic-albuminuric increased from 6.0% to 12.1% and obesity-metabolic from 22.3% to 30.6%, whereas lean-hypertensive declined from 31.0% to 20.8% (all P for trend<0.001). Hyperglycemic-albuminuric was disproportionately prevalent among non-Hispanic Black adults and those with lower income or educational attainment. During a median 10-year follow-up, 484 deaths occurred, including 117 cardiovascular disease deaths. Hyperglycemic-albuminuric was associated with the highest risks of all-cause (HR: 2.59; 95% CI: 1.95-3.45) and cardiovascular disease mortality (HR: 4.49; 95% CI: 2.47-8.15). CONCLUSIONS: Stage 2 CKM comprises distinct phenotypes with differing cardiometabolic risk profiles, temporal trends, sociodemographic patterns, and mortality risk among U.S. adults. These findings underscore the need for targeted and equitable CKM prevention and management strategies.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103467"
+ },
+ {
+  "idx": 2,
+  "journal": "Circulation",
+  "title": "Transapical Beating-Heart Septal Myectomy for Obstructive Hypertrophic Cardiomyopathy.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Hypertrophic cardiomyopathy (HCM) is a prevalent heterogenous genetic cardiac disorder. In the cardiac myosin inhibitor era, the guideline-directed management of HCM remains an emerging frontier worldwide. Septal myectomy has been the gold standard treatment option for obstructive HCM over the past 60 years. However, the complexity of this procedure and required expertise (and lack of qualified training) have limited its success and availability beyond high-volume HCM centers. Transapical beating-heart septal myectomy (TA-BSM), a newly developed innovative technique, simplifies conventional septal myectomy by eliminating the need for sternotomy, cardiopulmonary bypass, and aortotomy. Most important, the inclusion of real-time intraoperative echocardiographic guidance and evaluation makes TA-BSM safer, more precise, cost-effective, and reproducible. The apparent advantages of TA-BSM, including substantial reductions in surgical trauma and operating times and much faster postoperative recovery in patients with obstructive HCM, are encouraging. TA-BSM is particularly feasible in patients with long-segment obstruction, or small aortic valve annulus, or in those who had undergone previous cardiac operations. The frequent resolution of systolic anterior motion and associated mitral regurgitation after TA-BSM, without concomitant mitral valve intervention, highlights the central role of intraoperative echocardiography and close surgeon-echocardiographer collaboration in achieving optimal procedural outcomes. Further multicenter evaluation of TA-BSM will help define its role among septal reduction strategies for patients with obstructive HCM.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.080166"
+ },
+ {
+  "idx": 3,
+  "journal": "Eur Heart J Cardiovasc Imaging",
+  "title": "Night shift work and subclinical cardiac remodelling: a multi-omic CMR study in 42 671 individuals.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Whether frequent night-shift work is associated with a distinct subclinical cardiac phenotype and accompanying molecular alterations remains uncertain. METHODS AND RESULTS: We analysed 42 671 UK Biobank participants without baseline cardiovascular disease who underwent cardiac magnetic resonance (CMR). Night-shift frequency was classified into four categories, and 15 CMR measures were assessed using multivariable regression. Compared with day workers, frequent night-shift workers showed greater left ventricular global wall thickness [standardized β = 0.092, 95% CI 0.050-0.135; false discovery rate (FDR) < 0.001] and left ventricular mass-to-volume ratio (β = 0.072, 95% CI 0.021-0.123; FDR = 0.019), with lower left ventricular end-diastolic volume index, right ventricular end-diastolic volume index, right ventricular stroke volume index, and maximal right atrial volume index (all FDR < 0.05). Left ventricular global circumferential strain was less favourable (β = 0.092, 95% CI 0.040-0.144; FDR = 0.002), whereas left ventricular ejection fraction and global longitudinal strain were not significantly associated. Proteomic (n = 4889) and metabolomic (n = 42 671) analyses identified exploratory inflammatory, vascular, and lipid-related correlates. Mediation analyses identified FDR-significant indirect-effect estimates involving left ventricular end-diastolic volume index for three proteins and four metabolites. Two-sample Mendelian randomization identified associations between selected molecular features and CMR traits, although directions were not uniformly concordant with the observational estimates. CONCLUSION: Frequent night shift work was associated with greater concentric left ventricular geometry, lower cardiac chamber volumes, and less favourable circumferential strain, together with inflammatory and lipid-related molecular correlates. Prospective studies are required to determine temporal relationships and long-term clinical relevance.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/ehjci/jeag268"
+ },
+ {
+  "idx": 4,
+  "journal": "Europace",
+  "title": "Venous Vascular Closure System Versus Conventional Figure of Eight Suture Following Single Shot Device Pulmonary Vein Isolation: The VASC-AF Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: Optimization of femoral venous access management has become increasingly important as catheter ablation of atrial fibrillation (AF) continues to evolve towards greater safety with accelerated recovery pathways. We evaluated the efficacy and safety of a bioabsorbable venous vascular closure system (VCS) compared with a conventional figure-of-eight (F8) suture and manual compression following contemporary single-shot pulmonary vein isolation (PVI). METHODS AND RESULTS: VASC-AF was a prospective, multicentre, randomized controlled trial performed at three German electrophysiology centres. One hundred consecutive patients undergoing single-shot PVI were randomized in a 1:1 ratio to femoral venous closure using the VASCADE MVP VCS; (n=50) or conventional F8 suture (n=50). The primary efficacy endpoint was time to ambulation. The primary safety endpoint comprised major periprocedural adverse events requiring medical intervention before hospital discharge.Baseline characteristics and procedural variables were comparable between study groups. Median time to ambulation was significantly shorter following vascular closure with VCS compared with F8 sutures (120 [120-150] vs. 180 [180-240] min; P=0.015). Likewise, time to haemostasis (0.5 [0.5-2] vs. 1 [1-2] min; P=0.021) and time to discharge eligibility (2.5 [2.1-3.0] vs. 4.0 [3.0-5.0] h; P=0.019) were significantly reduced.Major adverse events occurred infrequently and did not differ significantly between groups. In contrast, vascular closure using VCS significantly reduced minor vascular access complications (6% vs. 26%; P=0.006), groin pain, and patient discomfort while improving overall post-procedural satisfaction. CONCLUSION: Among patients undergoing contemporary single-shot AF ablation, use of a bioabsorbable VCS significantly accelerated post-procedural recovery while maintaining a comparable major safety profile. Reduced access-site complications and improved patient-reported outcomes support VCS as an important component of enhanced recovery pathways following AF ablation especially in an ambulatory or Same-Day Discharge setting.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag329"
+ },
+ {
+  "idx": 5,
+  "journal": "J Am Heart Assoc",
+  "title": "Standardized Ultrafast Transcranial Ultrasound Acquisition in Acute Stroke: The HYPER-AI-SCAN Pilot Study With Exploratory Artificial Intelligence Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Intracerebral hemorrhage requires rapid mechanism-specific treatment, yet early stroke triage relies on clinical severity scales that do not reliably distinguish hemorrhage from ischemic stroke. We assessed the feasibility of a standardized ultrafast transcranial ultrasound protocol designed to support subsequent artificial intelligence (AI)-based intracerebral hemorrhage detection. METHODS: HYPER-AI-SCAN (Hyper-Acute AI-Assisted Sonographic Cerebral Hemorrhage Assessment Network) was a single-center prospective feasibility study with embedded exploratory AI analysis. Between March and December 2025, 102 adults with acute computed tomography (CT)-confirmed stroke were prospectively enrolled according to trained operator availability. Primary feasibility outcomes were protocol completion, operator-rated adequate transtemporal windows, and acquisition time. In patients with retrievable paired baseline CT, exploratory AI analyses compared CT-only, ultrasound-only, and cross-modal CT-guided ultrasound models using patient-level area under the receiver operating characteristic curve, sensitivity, and specificity. RESULTS: Two patients were excluded after acquisition because insonation depth was <19 cm, yielding 100 evaluable patients (33 intracerebral hemorrhage; 67 ischemic stroke). The protocol was completed in all evaluable patients; adequate transtemporal windows were identified in 87%, and median acquisition time was 22 seconds (interquartile range, 13-31). Paired baseline CT images were available in 91 patients. Mean area under the receiver operating characteristic curve was 0.86 (SD, 0.07) for the CT-only model, 0.85 (SD, 0.14) for the ultrasound-only model, and 0.92 (SD, 0.07) for the cross-modal model. CONCLUSIONS: Standardized ultrafast transcranial ultrasound acquisition was feasible at the bedside in acute stroke and generated brief cine-loops suitable for exploratory AI development. Multicenter external validation is required before diagnostic or triage application. REGISTRATION INFORMATION: Clinicaltrials.gov. Identifier: NCT07319013.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.052920"
+ },
+ {
+  "idx": 6,
+  "journal": "JACC Adv",
+  "title": "Objectively-Measured vs Self-Reported Physical Activity and Coronary Artery Calcification in Older Adults: The ARIC Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Coronary artery calcification (CAC) is a marker of subclinical coronary atherosclerosis and tool for cardiovascular risk assessment. Despite established cardiovascular benefits of physical activity, its relationship with CAC remains unclear. OBJECTIVES: The objectives of the study was to evaluate the cross-sectional association of objectively-measured and self-reported physical activity with Agatston CAC scores. METHODS: We analyzed data from 1,429 older adults in the ARIC (Atherosclerosis Risk in Communities) study. Objective physical activity was measured using an accelerometer embedded in the Zio XT ECG patch monitor. Self-reported activity in the past year was assessed via the modified Baecke Questionnaire. CAC was derived from noncontrast cardiac-gated computed tomography. RESULTS: The median age was 78 years; 61% of participants were females, and 23% were Black. The Spearman correlation coefficient between objectively measured and self-reported average daily hours of moderate-to-vigorous physical activity (MVPA) was 0.40. We observed a significant J-shaped association between objectively measured MVPA and CAC. The estimated mean Agatston score was highest at 197 (at 0 hours/day of MVPA) and reached its nadir of 94 at 0.74 hours/day of MVPA. Beyond 0.74 hours/day of MVPA, the estimated mean Agatston score showed a slight upward trend. In contrast, there was no significant association between self-reported MVPA and CAC. CONCLUSIONS: In older adults, objectively-measured physical activity demonstrated a J-shaped relationship with CAC, with the lowest Agatston score observed at approximately 45 minutes of MVPA daily. Self-reported activity inadequately captures this association, highlighting the importance of objective physical activity assessment in cardiovascular risk evaluation.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103530"
+ },
+ {
+  "idx": 7,
+  "journal": "JACC Adv",
+  "title": "Thermodynamic Response During Invasive Cardiopulmonary Exercise Testing.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Core temperature is continuously measured during invasive cardiopulmonary exercise testing (iCPET), but its physiologic and clinical significance remains poorly defined. OBJECTIVES: The purpose of this study was to characterize exercise core temperature responses during iCPET and determine whether temperature-derived metrics are associated with cardiopulmonary reserve, abnormal physiologic phenotypes, and clinically relevant iCPET thresholds. METHODS: We studied 396 adults undergoing iCPET for unexplained exertional intolerance. Core temperature was measured using the thermistor of a pulmonary artery catheter. Temperature-derived metrics included peak exercise temperature, increase in temperature from baseline to peak exercise, and increase in temperature indexed to peak workload. Associations with hemodynamic and gas-exchange variables were assessed using age- and sex-adjusted models. Area under the receiver-operating characteristic curve (AUC) analyses evaluated discrimination for normal vs abnormal iCPET findings and selected physiologic thresholds. RESULTS: Participants were 50.6 ± 16.0 years old, and 66% were female. Core temperature increased during exercise from 37.0 °C ± 0.34 °C at baseline to 37.5 °C ± 0.51 °C at peak exercise, with a mean increase of 0.40 °C ± 0.37 °C. Temperature-derived metrics were directly associated with peak cardiac index and percent-predicted peak oxygen uptake and inversely associated with pulmonary artery occlusion pressure/cardiac output slope and minute ventilation/carbon dioxide production slope. Temperature responses were blunted in heart failure, pulmonary hypertension, chronotropic incompetence, and impaired peripheral oxygen extraction. For identifying a normal test, age- and sex-adjusted AUCs were 0.70 for peak exercise temperature, 0.74 for increase in temperature, and 0.68 for workload-indexed temperature increase. CONCLUSIONS: Exercise core temperature responses during iCPET reflect hemodynamic augmentation and aerobic performance and may provide a simple adjunctive physiologic marker for clinically relevant exercise abnormalities.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103500"
+ },
+ {
+  "idx": 8,
+  "journal": "Circulation",
+  "title": "Peripheral Artery Disease in Acute Care Settings: Diagnosis and Management of Common Presentations and Emergencies: A Scientific Statement From the American Heart Association.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "People with peripheral artery disease (PAD) are often misdiagnosed or diagnosed late and, even after diagnosis, are undertreated with both pharmacologic and invasive therapies. The disease is associated with an increased risk of mortality, myocardial infarction, stroke, other vascular disease, limb loss, and reduced quality of life. Although the risks and long-term management of PAD are well documented, these risks are acutely magnified when PAD exists as a comorbidity in patients hospitalized for other cardiovascular or medical conditions. Procedures requiring vascular access for the treatment of acute myocardial infarction, cardiogenic shock, or valvular heart disease, as well as procedures for the treatment of the patient's underlying PAD, require special consideration in patients with PAD. Familiarity with the use and placement of mechanical circulatory support in patients with PAD, as well as the management of recent endovascular or surgical vascular interventions, is essential for providing appropriate care in the acute care setting.",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1161/CIR.0000000000001479"
+ },
+ {
+  "idx": 9,
+  "journal": "JACC Adv",
+  "title": "Fully Automated, Explainable AI Analysis of Coronary CTA Improves Prediction of Major Cardiovascular Events.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Coronary artery disease (CAD) remains a major global cause of morbidity and mortality. Coronary computed tomography angiography (CCTA) is central to noninvasive diagnosis and risk assessment, yet current workflows are labor-intensive and depend on semiquantitative scoring systems that do not fully leverage prognostic information in CCTA. OBJECTIVES: The objectives of the study were to develop and validate a fully automated, explainable artificial intelligence (AI) system (AI-automated coronary analysis [ACA]) for comprehensive CCTA analysis to predict major adverse cardiovascular events and compare its performance with conventional risk markers. METHODS: AI-ACA automatically extracts a suite of CCTA-derived biomarkers, including stenosis severity, plaque burden, and composition; AI-derived CAD - reporting and data system (CAD-RADS) (AI-CADRADS); coronary tortuosity; and subtended myocardial mass, to generate interpretable risk estimates. In a retrospective cohort (n = 1,702), we compared AI-ACA with Agatston score, standard demographic risk markers, and AI-CADRADS. Model explainability was assessed using Shapley Additive Explanations. RESULTS: AI-ACA demonstrated higher predictive performance (area under the curve [AUC]: 0.81) than Agatston score (AUC: 0.76) and demographic markers (AUC: 0.67), and similar performance to AI-CADRADS (AUC: 0.81). AI-ACA showed better prognostic discrimination than Agatston score, reflected by a higher Harrell C-index (0.791 vs 0.742) and greater separation in event-free survival on Kaplan-Meier analysis (log-rank 31.79 vs 13.71). Shapley Additive Explanations analysis identified total plaque volume and burden, maximum stenosis severity, and AI-CADRADS as the strongest contributors to risk estimation. CONCLUSIONS: A fully automated and explainable AI platform for CCTA enables comprehensive quantitative characterization of CAD without manual intervention. Although prognostic performance was comparable to AI-CADRADS and modestly higher than Agatston score, the platform provides transparent biomarker-based risk assessment and scalable analysis that may facilitate broader clinical implementation of quantitative CCTA.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103461"
+ },
+ {
+  "idx": 10,
+  "journal": "EuroIntervention",
+  "title": "Transcatheter tricuspid valve replacement after failed edge-to-edge repair.",
+  "ptypes": [
+   "Journal Article",
+   "Multicenter Study"
+  ],
+  "abstract": "BACKGROUND: Residual or recurrent tricuspid regurgitation (TR) after transcatheter edge-to-edge repair (TEER) is a growing concern in clinical practice and is associated with inferior outcomes. AIMS: We sought to evaluate the early experience of transcatheter tricuspid valve replacement (TTVR) in patients with failed TEER. METHODS: This multicentre, retrospective cohort study included patients undergoing TTVR for recurrent or residual severe TR after TEER. Clinical, echocardiographic, and computed tomography findings were evaluated. The primary outcome was clinical success at 30 days after TTVR. RESULTS: Of the 28 patients included (age 78.5±6.3 years, 61% female), 20 (72%) had residual TR and 8 (28%) had recurrent TR diagnosed within a median of 182 days after TEER. Patients were severely symptomatic (New York Heart Association [NYHA] III/IV in 97%), and 64% had massive/torrential TR. In 6 patients (21%), a commissural TEER device was evident, enabling direct TTVR (neocommissure strategy). Engagement of TEER devices with single leaflet device attachment during TTVR was carried out in 12 patients (43%), and electrosurgical laceration and stabilisation to facilitate TTVR in 10 patients (36%). Clinical success at 30 days was 93%. NYHA Functional Class improved in 93% of patients, with 85% being in NYHA I/II at 1 month after TTVR. Two patients died from non-cardiac reasons, and during a median follow-up of 69 days, 4 patients suffered a heart failure hospitalisation despite procedural success. CONCLUSIONS: In this small patient cohort, three different TTVR strategies after failed TEER resulted in significant clinical success at 30 days and led to substantial symptom relief during short-term follow-up.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.4244/EIJ-D-26-00514"
+ },
+ {
+  "idx": 11,
+  "journal": "Circ Cardiovasc Interv",
+  "title": "Temporal and Vessel-Specific Relationship Between Post-PCI Fractional Flow Reserve and Long-Term Clinical Outcomes.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Post-percutaneous coronary intervention (PCI) fractional flow reserve (FFR) reflects residual physiological impairment after stent implantation and is a proven predictor of procedural success and prognosis. However, the temporal dynamics of its prognostic utility and its potential variation according to the target vessel remain incompletely understood. This study aimed to explore vessel-specific post-PCI FFR thresholds and evaluate their prognostic consistency over 5 years. METHODS: We analyzed 2128 patients undergoing successful drug-eluting stent implantation from the international Post-PCI FFR Extended registry. Patients were stratified according to the target vessel: left anterior descending artery (LAD) versus non-LAD. The primary end point was 5-year target vessel failure, defined as a composite of cardiac death, target vessel myocardial infarction, or target vessel revascularization. Restricted cubic spline models were used to explore the continuous association between post-PCI FFR and target vessel failure and to identify vessel-specific risk thresholds. Temporal prognostic performance was assessed via 3-year landmark analysis and time-dependent receiver-operating characteristic curves. RESULTS: During 5-year follow-up, target vessel failure occurred in 176 patients (11.7%) with LAD lesions and 74 patients (11.7%) with non-LAD lesions. Lower post-PCI FFR was independently associated with a higher risk of target vessel failure in both LAD and non-LAD vessels. Spline analyses characterized vessel-stratified risk patterns, and exploratory comparisons used post-PCI FFR cut points of 0.83 for LAD and 0.94 for non-LAD vessels. Landmark analysis indicated that the excess hazard associated with suboptimal FFR was predominantly concentrated within the first 3 years postprocedure. Nevertheless, time-dependent receiver-operating characteristic analysis demonstrated modest but stable discriminatory power of post-PCI FFR throughout the 5-year follow-up. CONCLUSIONS: Post-PCI FFR provides sustained 5-year prognostic insight, though the exploratory vessel-stratified cut points require external validation. Although the associated risk is highest in the early to mid-term period, predictive discrimination persists long-term. These findings advocate for vessel-specific interpretation of post-PCI physiology to refine risk stratification and patient management.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCINTERVENTIONS.126.016840"
+ },
+ {
+  "idx": 12,
+  "journal": "JAMA Cardiol",
+  "title": "Anemia and Iron Status in Pregnant and Postpartum Women With Acute Heart Failure.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "IMPORTANCE: In low- and middle-income countries (LMICs), iron-deficient anemia is highly prevalent and may compound the cardiovascular stress of pregnancy, yet its contribution to maternal acute heart failure (AHF) is poorly understood. OBJECTIVES: To investigate the association of maternal anemia and iron status with AHF in pregnancy and post partum in India. DESIGN, SETTING, AND PARTICIPANTS: This multicenter, unmatched, prospective case-control study recruited participants from 10 hospitals across 4 Indian states from February 2019 to November 2024. Incident cases were pregnant or postpartum women with clinically diagnosed AHF. Controls were women without history or symptoms of heart disease within 48 hours post partum. Data were analyzed from March 2025 to April 2026. EXPOSURES: Maternal anemia and iron status. Blood samples collected at recruitment were analyzed for hemoglobin, ferritin, transferrin saturation, soluble transferrin receptor, and hepcidin. MAIN OUTCOMES AND MEASURES: The outcome of interest was AHF, defined using clinical criteria. Multivariable logistic regression models assessed associations of iron status and anemia with AHF, adjusting for potential confounders, including hypertensive disorders of pregnancy. Subgroup analyses were performed in women with echocardiographic abnormalities and peripartum cardiomyopathy. The discriminatory capacity of a model including anemia present before AFH onset vs a model with established risk factors only was examined using receiver operating characteristic curves. RESULTS: Among 532 women with clinically diagnosed AHF (median [IQR] age, 25 [21-29] years) and 1091 controls (median [IQR] age, 25 [21-28] years), moderate and severe anemia were associated with 1.5-fold (adjusted odds ratio [aOR], 1.52; 95% CI, 1.13-2.05) and 5-fold (aOR, 5.06; 95% CI, 3.02-8.48) increased odds of AHF, respectively, compared with women without anemia. Higher soluble transferrin receptor levels (aOR, 1.44; 95% CI, 1.31-1.57) and the lowest hepcidin quintile (aOR, 2.65; 95% CI, 1.69-4.14), both indicative of iron deficiency, were independently associated with AHF. These associations persisted after adjusting for hypertensive disorders of pregnancy and after excluding women with preexisting cardiac conditions, and they were consistent in subgroups with echocardiographic abnormalities and peripartum cardiomyopathy. Adding anemia to established risk factors improved model discrimination for identifying AHF risk, increasing the AUC from 78% (95% CI, 76%-81%) to 83% (95% CI, 80%-85%) (P < .001). CONCLUSION AND RELEVANCE: This case-control study found that maternal anemia and iron deficiency were independently associated with AHF during pregnancy and post partum. Further studies are needed to determine whether preventing or treating iron deficiency and anemia can reduce AHF risk and improve maternal outcomes.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1001/jamacardio.2026.4972"
+ },
+ {
+  "idx": 13,
+  "journal": "J Am Heart Assoc",
+  "title": "Heart Failure With Preserved Ejection Fraction in Low-Income Settings: Performance and Challenges of Screening Scores in a Population-Based Cohort in Haiti.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Heart failure with preserved ejection fraction (HFpEF) is rapidly increasing in low- and middle-income countries, however detection remains challenging. We assessed 2 screening scores developed in high-income settings, H2FPEF and HFA-PEFF, against physician-adjudicated HFpEF in a population-based cohort from Haiti. METHODS: The primary outcome was prevalent HFpEF defined by (1) physician adjudication, (2) H2FpEF score, (3) HFA-PEFF score. The cross-sectional cohort comprised 3003 adults from the Haiti Cardiovascular Disease Cohort, with sociodemographic, clinical, electrocardiography, echocardiography and BNP data available. We compared physician-adjudicated HFpEF participants to those screening positive (intermediate-high H2FPEF and HFA-PEFF scores) using interrater reliability (Cohen's kappa, Krippendorff's alpha). Diagnostic performance of H2FPEF and HFA-PEFF against physician adjudication, used as a pragmatic reference standard appropriate for Haiti and similar settings, was calculated via sensitivity, specificity, and predictive values. RESULTS: Age-adjusted HFpEF prevalence was 9.5% (95% CI: 8.3-11.0) by physician adjudication, 10.2% (95% CI: 9.0-11.7) by H2FPEF, and 8.6% (95% CI: 7.5-10.0) by HFA-PEFF. Adjudicated HFpEF participants were young (median age 57), had high prevalence of hypertension (70%), obesity (33%), and no atrial fibrillation. Agreement between all 3 scores was moderate-substantial (alpha 0.57, 95% CI: 0.55-0.59), with the highest pair-wise agreement between physician adjudication and HFA-PEFF (kappa 0.62, 95% CI: 0.57-0.67). HFA-PEFF had higher sensitivity and similar specificity relative to H2FPEF. CONCLUSIONS: In this Haitian cohort, prevalent HFpEF occurred in relatively young participants with high hypertension and obesity rates and negligible atrial fibrillation. HFA-PEFF exhibited higher concordance and sensitivity than H2FPEF versus physician adjudication. Tailored, non-invasive HFpEF screening scores for low- and middle-income countries are needed to address this growing global epidemic.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049654"
+ },
+ {
+  "idx": 14,
+  "journal": "Europace",
+  "title": "Controversy: Adjunctive ablation lesions are needed beyond pulmonary vein isolation in treating persistent atrial fibrillation: Pro and Contra.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Catheter ablation for persistent atrial fibrillation remains less effective than for paroxysmal atrial fibrillation, despite pulmonary vein isolation (PVI) forming the foundation of both procedures. Ablating beyond the pulmonary veins, including treatment of non-pulmonary vein triggers, posterior wall isolation, linear lesions, vein of Marshall ethanol infusion, isolation of the superior vena cava, coronary sinus or left atrial appendage, and modification of regions identified by fibrosis or low voltage has grown interest. Although observational and mechanistic studies have often been encouraging, randomized trials of empirical adjunctive ablation have produced inconsistent or neutral results. Pulsed field ablation has renewed the debate by facilitating rapid ablation of extra-pulmonary vein tissue. The PIFPAF-PFA trial did not demonstrate a significant reduction in its primary endpoint of atrial tachyarrhythmia recurrence lasting at least 30 seconds with adjunctive posterior wall isolation. However, separation of the recurrence curves and exploratory signals for reduced arrhythmia burden and fewer prolonged episodes raise questions about lesion strategy and the clinical relevance of conventional recurrence definitions. These findings do not establish routine posterior wall isolation, but they illustrate why a neutral binary endpoint may not fully characterize treatment effects on recurrent AF. The controversy now extends beyond whether additional ablation is beneficial to which mechanisms should be targeted, which patients should receive adjunctive lesions, how energy source affects lesion durability and safety, and whether success should be defined by any brief recurrence or by clinically meaningful arrhythmia burden. This article examines the evidence supporting and opposing ablation beyond PVI in persistent AF.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag325"
+ },
+ {
+  "idx": 15,
+  "journal": "Heart Rhythm",
+  "title": "Purkinje-Targeted Catheter Ablation for Refractory Ventricular Fibrillation and Polymorphic Ventricular Tachycardia: A Systematic Review, Network Meta-Analysis, and Meta-Regression.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "BACKGROUND: Ventricular fibrillation (VF) and polymorphic ventricular tachycardia (PVT) are major causes of sudden cardiac death. Although Purkinje-targeted catheter ablation has emerged as a rescue therapy for refractory ventricular arrhythmias, the comparative safety and efficacy of trigger-focused ablation versus Purkinje de-networking (PDN) remain uncertain. OBJECTIVE: To synthesize clinical outcomes for Purkinje-targeted interventions across diverse arrhythmic phenotypes. METHODS: We searched PubMed, Scopus, Web of Science, Ovid, and CENTRAL for studies enrolling adults with recurrent or refractory ventricular fibrillation (VF) or polymorphic ventricular tachycardia (PVT). We performed pairwise and network meta-analyses using random-effects models. We evaluated the certainty of evidence using GRADE frameworks (PROSPERO: CRD420261423684). RESULTS: We included 22 studies involving 959 patients. Among PDN cohorts, pooled mortality was 13.5% (n = 435; 16 cohorts; 95% CI: 9.0%-20.1%; I2 = 99.28%), acute success was 83.5% (n = 388; 14 cohorts; 95% CI: 78.9%-88.4%; I2 = 34.33%), and VF/PVT recurrence was 18.9% (n = 412; 15 cohorts; 95% CI: 15.7%-22.6%; I2 = 0%). Compared with standard ablation, PDN showed nonsignificant reductions in mortality (RR 0.672, 95% CI: 0.267-1.69; I2 = 0%) and recurrence (RR 0.820, 95% CI: 0.239-2.807; I2 = 70.33%). In the primary network meta-analysis, PDN ranked highest for acute success (SUCRA 86.27%) and freedom from recurrence (77.05%). However, in a sensitivity analysis of comparative trials (9 trials; n = 457), trigger-focused ablation ranked highest for acute success (SUCRA 88.08% vs. 51.52% for PDN). New-onset LBBB occurred in up to 20.8% after substrate-based PDN. CONCLUSIONS: In this exploratory network meta-analysis, PDN ranked favorably for acute procedural success and short-term arrhythmia freedom. However, low-certainty evidence, imprecise estimates, and substantial clinical heterogeneity preclude definitive conclusions about its comparative efficacy. Large-scale randomized trials are needed to establish its clinical benefit.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.11.013"
+ },
+ {
+  "idx": 16,
+  "journal": "J Am Heart Assoc",
+  "title": "Variable Interferences Dictate Different Cutoffs for Aldosterone Measured by Liaison and iSYS Chemiluminescence Immunoassays for the Seated Saline Suppression Test.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Variable macromolecular-related interferences with different chemiluminescence immunoassays (CLIA) of plasma aldosterone, particularly at low concentrations during confirmatory tests, are a previously unrecognized problem. We therefore hypothesized that cutoffs for measurements of aldosterone for the seated saline suppression test require tailoring according to the particular immunoassay. METHODS: Multicenter study involving 609 patients with suspected primary aldosteronism who underwent seated saline suppression tests with aldosterone measured by liquid chromatography-mass spectrometry (LC-MS/MS) compared with iSYS or Liaison CLIAs in 285 and 286 respective patients and a different LC-MS/MS method in 38 others. Cutoffs for plasma aldosterone were derived from receiver operating characteristic curves after classification of patients with (n=181) and without primary aldosteronism (n=336) by methods independent of confirmatory tests. For 92 patients classifications were not achieved. RESULTS: Youden's-index derived cutoffs for postsaline infusion plasma aldosterone were 300 and 272 pmol/L for measurements by respective Liaison and iSYS CLIAs compared with 169 pmol/L by LC-MS/MS. At those cutoffs, respective diagnostic sensitivities for Liaison and iSYS immunoassays and LC-MS/MS were 90% (CI, 84-97), 91% (CI, 86-97), and 98% (CI, 96-100) with specificities of 86% (CI, 80-91), 94% (CI, 80-91), and 90% (CI, 86-93). Improved disease confirmation according to specificities of 95% for measurements by Liaison and iSYS CLIAs and LC-MS/MS were provided by respective cutoffs of 436, 297, and 243 pmol/L but with reduced sensitivities of 64% (CI, 53-75), 85% (CI, 78-92), and 78% (CI, 72-84). CONCLUSIONS: Cutoffs for CLIA-based measurements of aldosterone during the seated saline suppression test are higher than those for LC-MS/MS and vary according to the specific immunoassay. Gray areas around cutoffs, particularly extensive for the Liaison CLIA, must also be considered. REGISTRATION: https://drks.de/search/en/trial/DRKS00017084.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.051573"
+ },
+ {
+  "idx": 17,
+  "journal": "Circulation",
+  "title": "Hedgehog Signaling-Dependent Heterochronic Control of Cardiomyocyte Differentiation Establishes Distinct Cardiac Progenitor Fields.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The mammalian heart is formed from distinct cardiac progenitor fields: the first heart field (FHF), second heart field (SHF), and juxta-cardiac field (JCF). How these fields are established remains one of the oldest questions in cardiac biology and is central to understanding congenital heart disease, which differentially affects derivatives of the individual fields. Previous work has demonstrated that the fields emerge and differentiate at distinct times; however, the mechanisms underlying their establishment have remained elusive. Here, we implicate Hedgehog signaling-dependent heterochronic control of cardiac differentiation in the emergence of different heart fields. METHODS: We assessed Hedgehog signaling activity by assembling a cardio-mesodermal single-cell atlas. We analyzed Hedgehog ligand gene expression by confocal imaging in gastrulating mouse embryos. We investigated the necessity of Hedgehog signaling using 2 distinct genetic Hedgehog loss-of-function mouse models, analyzed by single-nucleus RNA sequencing analysis. RESULTS: Our results show that Hedgehog signaling mediates field-specific heterochronic control of differentiation timing that orchestrates the establishment of the SHF and JCF as distinct from the FHF. We identify a common cardiac progenitor transcriptomic state from which all 3 fields emerge. We show that the SHF and JCF are established coincident with Hedgehog signaling reception, whereas the FHF evades Hedgehog pathway activity and rapidly differentiates. We find that Hedgehog ligand expression sandwiches the cardiac mesoderm emerging from the primitive streak, spatially coordinating SHF and JCF establishment. Partial depletion of Hedgehog signaling causes premature activation of the cardiac differentiation program in the SHF and JCF. Complete ablation of Hedgehog signaling results in failed SHF and JCF establishment. CONCLUSIONS: Our findings reveal a Hedgehog signaling-dependent, non-cell-autonomous heterochronic mechanism required for SHF and JCF formation. This heterochronic mechanism provides a new paradigm for understanding the ordered temporal emergence of the cardiac progenitor fields that support the development of the 4-chambered heart, as well as a general model for the emergence of progenitor fields that drive organogenesis across the mammalian body plan.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.080498"
+ },
+ {
+  "idx": 18,
+  "journal": "JACC Adv",
+  "title": "Atrial Fibrillation and Risk of Late-Onset Dementia: A Danish Nationwide Cohort Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Atrial fibrillation (AF) is associated with substantial cardiovascular morbidity, but its relationship with dementia remains incompletely understood. OBJECTIVES: The objectives of the study was to examine the association between AF and late-onset dementia in a nationwide Danish cohort. METHODS: In this Danish nationwide registry-based cohort study, individuals aged ≥50 years with first-time AF between 2005 and 2025 were matched 1:5 with controls from the general population on age, sex, and calendar year. Late onset dementia was defined as a first-time dementia diagnosis or antidementia medication initiation at age ≥65 years. Cumulative incidences were estimated at 1, 3, and 5 years, and associations were assessed using multivariable Cox regression. Secondary outcomes were thromboembolic events and all-cause mortality. RESULTS: A total of 326,687 AF patients and 1,633,435 matched controls were included (median age 75 years; 55% male). The median follow-up was 8.6 years. AF was associated with an increased hazard of late-onset dementia (HR: 1.14; 95% CI: 1.12-1.17), which persisted after adjustment for cardiovascular comorbidity (HR: 1.17; 95% CI: 1.15-1.19) and exclusion of individuals with prior thromboembolic events (HR: 1.16; 95% CI: 1.13-1.18). The association remained stable across calendar periods, whereas the hazard of thromboembolic events attenuated over time. CONCLUSIONS: AF was associated with late-onset dementia after adjustment for cardiovascular risk factors and exclusion of individuals with prior thromboembolic events. The stable association over 2 decades, despite attenuation of the association with thromboembolic events, suggests that dementia is an important long-term consequence of AF.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103469"
+ },
+ {
+  "idx": 19,
+  "journal": "J Am Heart Assoc",
+  "title": "Postoperative Inflammatory Response After Cardiac Surgery: Magnitude, Timing, and Prognosis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Cardiac surgery triggers a systemic inflammatory response. While this response is commonly interpreted as a marker of postoperative complications, its prognostic significance on short- and long-term death remains poorly characterized. We assessed the association between postoperative inflammation and short- and long-term all-cause death after cardiac surgery. METHODS: In a single-center retrospective cohort of patients undergoing cardiac surgery between 2011 and 2024, postoperative CRP (C-reactive protein) measurements and peak of postoperative CRP (CRPmax) and its timing were assessed. Association between CRPmax tertiles, delayed CRPmax (after postoperative day 3), and 30-day or 5-year all-cause death were evaluated using multivariable Cox regression models. RESULTS: A total of 7283 patients were included (mean age, 64.9 years; 72% men; 54% underwent coronary artery bypass grafting, 31% aortic valve replacement, and 94% on-pump surgery). Median CRPmax was 184 interquartile range, 134-246) mg/L. Median postoperative CRP peaked on postoperative day 3. Patients in the highest CRPmax tertile (tertile 3) more frequently presented with obesity, diabetes, peripheral vascular disease, chronic obstructive pulmonary disease, and chronic kidney disease. Compared with the lowest tertile, CRPmax tertile 3 was independently associated with higher 30-day (adjusted hazard ratio [HR], 2.56 [95% CI, 1.78-3.68]; P<0.001) and 5-year all-cause death (adjusted HR, 1.41 [95% CI, 1.22-1.62]; P<0.001). A delayed CRPmax was independently associated with increased 30-day (adjusted HR, 2.61 [95% CI, 1.94-3.52]; P<0.001) and 5-year mortality rate (adjusted HR, 1.56 [95% CI, 1.37-1.77]; P<0.001). These associations persisted after adjustment for postoperative infection. CONCLUSIONS: Both the magnitude and timing of postoperative CRP peak were independently associated with short- and long-term death after cardiac surgery, irrespective of postoperative infection. These findings support close postoperative inflammatory monitoring after cardiac surgery.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.050910"
+ }
+]

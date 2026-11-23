@@ -1,0 +1,201 @@
+[
+ {
+  "idx": 80,
+  "journal": "Lancet",
+  "title": "Spontaneous coronary artery dissection: implications for women's health, clinical care, and future research.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Spontaneous coronary artery dissection (SCAD) is an increasingly recognised cause of acute coronary syndromes, characterised by spontaneous separation of the layers of the coronary arterial wall. It predominantly affects younger women, and recent registry and imaging studies indicate that SCAD is more common than previously appreciated, challenging its historical classification as a rare condition. Clinically, SCAD is associated with a substantial early risk of adverse events, particularly in the first weeks after the index dissection. Given the high frequency of spontaneous healing, conservative management is preferred for most patients, whereas revascularisation is generally reserved for ongoing ischaemia or haemodynamic compromise. However, evidence to guide both pharmacological and interventional management remains scarce. This Review summarises current evidence on SCAD epidemiology, underlying mechanisms including genetic susceptibility, diagnostic approaches, management principles, implications for reproductive and women's health, and research priorities to improve outcomes for affected patients.",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1016/S0140-6736(26)01485-6"
+ },
+ {
+  "idx": 81,
+  "journal": "Circulation",
+  "title": "Biatrial Versus Left Atrial Maze Ablation During Cardiac Valve Surgery for Persistent Atrial Fibrillation: The ABLATION Trial.",
+  "ptypes": [
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Multicenter Study",
+   "Comparative Study"
+  ],
+  "abstract": "BACKGROUND: Guidelines recommend concomitant surgical ablation during cardiac surgery in patients with atrial fibrillation (AF). However, the optimal lesion set remains uncertain, with ongoing debate regarding the relative benefits and risks of biatrial versus left atrial (LA) maze ablation. METHODS: In this multicenter, randomized, single-blind trial, patients with persistent or long-standing persistent AF undergoing rheumatic mitral valve surgery, with or without concomitant cardiac surgical procedures, were randomly assigned in a 1:1 ratio to undergo biatrial or LA maze ablation. The biatrial group underwent a complete Cox-Maze IV procedure; the LA group received a left-sided maze lesion set. To ensure standardization and consistency of the ablation procedures, surgeons underwent pretrial training and certification, and all procedures were videorecorded and centrally reviewed. The primary outcome was freedom from atrial tachyarrhythmias lasting >30 seconds without antiarrhythmic drugs within 12 months. The key secondary end point was freedom from permanent pacemaker implantation. RESULTS: All 323 randomized patients were included in the intention-to-treat analysis (mean age, 56.5 years; 72.1% women; mean LA diameter, 51.9 mm). At 12 months, 78.7% of patients (129 of 164) in the biatrial group and 68.6% (109 of 159) in the LA group were free from atrial tachyarrhythmias (adjusted difference, 10.7% [1-sided lower 95% CI, 3%]; P=0.01). Freedom from permanent pacemaker implantation was noted in 97.0% (159 of 164) of the biatrial group and 98.1% (156 of 159) of the LA group, meeting the predefined noninferiority criterion with a margin of -5% (adjusted difference, -1.1% [1-sided lower 95% CI, -3.9%]; Pnoninferiority=0.01). CONCLUSIONS: Among patients with persistent or long-standing persistent AF undergoing rheumatic cardiac valve surgery, biatrial maze ablation was superior to LA maze ablation in reducing recurrent atrial tachyarrhythmias, while maintaining noninferiority with respect to permanent pacemaker implantation. These findings provide direct evidence to inform lesion-set selection for surgical ablation during cardiac surgery. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT05021601.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.083005"
+ },
+ {
+  "idx": 82,
+  "journal": "Circulation",
+  "title": "Transapical Beating-Heart Septal Myectomy for Symptomatic Nonobstructive Hypertrophic Cardiomyopathy: Initial Clinical Experience.",
+  "ptypes": [
+   "Clinical Trial",
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Nonobstructive hypertrophic cardiomyopathy (nHCM), defined as hypertrophic cardiomyopathy without left ventricular outflow tract obstruction, remains challenging to treat because of its heterogeneous pathophysiology. This study evaluated the safety and efficacy of transapical beating-heart septal myectomy in patients with symptomatic nHCM. METHODS: Patients with symptomatic, drug-refractory nHCM were prospectively enrolled to undergo transapical beating-heart septal myectomy through a left minithoracotomy. Under real-time transesophageal echocardiographic guidance, septal myectomy was tailored to relieve systolic cavity obliteration and mid-to-apical ventricular obstruction and to enlarge the left ventricular cavity. The primary end point was procedural success at 6 to 12 months postoperatively, defined as fulfillment of all prespecified criteria compared with baseline: ≥1-class improvement in New York Heart Association functional class, ≥10-point increase in Kansas City Cardiomyopathy Questionnaire score, ≥10-mL increase in stroke volume, and normal or grade I diastolic function. RESULTS: Between January 2023 and January 2025, 97 consecutive eligible patients with nHCM underwent transapical beating-heart septal myectomy at Tongji Hospital. At postoperative 6 to 12 months, procedural success was achieved in 87.6%. Specifically, New York Heart Association functional class I increased from 0% at baseline to 93.8% at follow-up, the median Kansas City Cardiomyopathy Questionnaire score improved from 64 (interquartile range, 56-69) to 87 (interquartile range, 82-92; P<0.001), the stroke volume increased from 53.5 mL (interquartile range, 41.0-66.6 mL) to 70.8 mL (interquartile range, 61.3-82.3 mL; P<0.001), and normal or grade I diastolic function increased from 65.6% to 97.9%. Among patients who underwent paired cardiopulmonary exercise testing (n=58), peak oxygen uptake increased by 1.1±2.9 mL/kg/min (P=0.008). In an exploratory, hypothesis-generating analysis of 12 patients with paired 13N-ammonia positron emission tomography, coronary flow reserve increased from 1.8±0.3 to 2.0±0.4 (P=0.034). Adverse events included mitral valve injury (n=1) and ventricular septal perforation (n=1), the latter resulting in 1 postoperative death. CONCLUSIONS: Transapical beating-heart septal myectomy was associated with favorable left ventricular geometric remodeling and meaningful improvements in symptoms, health status, and functional capacity in selected patients with symptomatic nHCM. Being a potential therapeutic option for a previously difficult-to-treat population, it warrants further evaluation in controlled, multicenter studies. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT05648825.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.082486"
+ },
+ {
+  "idx": 83,
+  "journal": "Circulation",
+  "title": "Surgical Treatment of Atrial Fibrillation.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Atrial fibrillation is the most common sustained cardiac arrhythmia and is associated with an increased risk of stroke, heart failure, mortality, and reduced quality of life. Although catheter ablation is the most widely used rhythm control strategy, its efficacy is limited in patients with non-paroxysmal atrial fibrillation and large left atria. To address this therapeutic gap, surgical approaches, including minimally invasive ablation, hybrid epicardial-endocardial strategies, and left atrial appendage exclusion, have continued to evolve. In this review, we focus on recent evidence to guide clinical decision-making on patient selection, advances in minimally invasive surgical and hybrid techniques, left atrial appendage exclusion, and postoperative anticoagulation management. Minimally invasive standalone Cox-Maze IV procedure and hybrid epicardial-endocardial ablation have demonstrated superior long-term freedom from atrial tachyarrhythmias compared with thoracoscopic epicardial surgical ablation or catheter ablation alone. Five-year arrhythmia-free survival has approached 85% to 95% in experienced centers after the Cox-Maze IV procedure and approximately 60% to 70% after hybrid ablation, compared with 35% to 45% after thoracoscopic epicardial ablation and 30% to 35% after single catheter ablation alone. Surgical left atrial appendage exclusion performed at the time of ablation may further reduce thromboembolic risk, although the optimal strategy for postprocedural anticoagulation remains uncertain. Careful patient selection remains essential, with atrial fibrillation type, duration, left atrial size, and previous treatment failure known to be key predictors of procedural success. As surgical techniques and supporting evidence continue to grow, standalone surgical ablation may assume a more important role in the contemporary management of atrial fibrillation, particularly for patients with advanced disease who are unlikely to achieve durable rhythm control with catheter ablation alone.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.083715"
+ },
+ {
+  "idx": 84,
+  "journal": "JACC Adv",
+  "title": "Congestion Assessed With Inferior Vena Cava Ultrasound Predicts Long-Term Outcomes in Acute Decompensated Heart Failure.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Inferior vena cava (IVC) parameters relate to clinical outcomes in retrospective acute decompensated heart failure (ADHF) studies, but prospective data on long-term outcomes and quality of life are unavailable. OBJECTIVES: The objective of the study was to evaluate the prognostic value of IVC parameters for clinical outcomes and their association with quality of life. METHODS: Patients admitted for ADHF were prospectively enrolled from January 2022 to May 2024. Point-of-care IVC ultrasound was performed at admission and discharge. The Kansas City Cardiomyopathy Questionnaire (KCCQ) was evaluated at baseline, 1, 6, and 12 months. The primary endpoint was the composite of all-cause mortality and ADHF rehospitalization at 12 months. RESULTS: A total of 100 patients (median age 67 years, 28% women, 45% NYHA functional class III/IV, 65% heart failure with reduced ejection fraction) were included. The primary endpoint occurred in 50 patients (9 deaths and 41 ADHF hospitalizations). In multivariable analysis, admission minimum IVC sniff diameter >1.6 cm (HR: 3.71; 95% CI: 1.97-7.01; P < 0.001), admission maximum IVC diameter >2.3 cm (HR: 2.70; 95% CI: 1.46-4.96; P = 0.001), discharge minimum IVC sniff diameter >1.3 cm (HR: 2.27; 95% CI: 1.24-4.14; P = 0.008), and discharge sniff IVC collapsibility index <36% (HR: 3.16; 95% CI: 1.64-6.06; P < 0.001) were independent predictors of the primary endpoint. KCCQ scores improved during follow-up (Ptime<0.001) but were not associated with the primary endpoint. Patients with admission minimum IVC sniff diameter >1.6 cm had lower KCCQ scores throughout the study period (Pgroup = 0.03). CONCLUSIONS: In ADHF patients, IVC parameters predict 12-month outcomes and may serve as objective markers to identify residual congestion and stratify risk.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103484"
+ },
+ {
+  "idx": 85,
+  "journal": "N Engl J Med",
+  "title": "Acute Respiratory Distress Syndrome.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Acute respiratory distress syndrome (ARDS) is a common cause of acute hypoxemic respiratory failure in patients with pneumonia, sepsis, aspiration of gastric contents, severe trauma, or other inciting triggers. Although the definition of the syndrome has evolved over the past several decades, the core elements (acute onset, hypoxemia, and bilateral radiographic opacities) remain consistent. Critical components of management include identification and treatment of the underlying cause of ARDS as well as avoidance of ventilator-induced lung injury and volume overload. Ongoing areas of controversy include the best strategy for supporting nonintubated patients, personalization of positive end-expiratory pressure, the role of innovative ventilatory strategies, and the use of glucocorticoids. New research suggests that precision medicine approaches to ARDS management that focus on discrete biologic, radiographic, or physiological subphenotypes may improve outcomes, and prospective trials of these approaches are ongoing.",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1056/NEJMra2601172"
+ },
+ {
+  "idx": 86,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Long working hours and cardiometabolic multimorbidity progression: a prospective multistate analysis in the UK Biobank.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIMS: The association of long working hours with cardiometabolic disease accumulation remains unclear. Cardiometabolic multimorbidity (CMM) was defined as the coexistence of at least two of the following conditions: type 2 diabetes, ischaemic heart disease and stroke. METHODS: We studied 269,197 employed UK Biobank participants free of cardiometabolic disease (CMD) at baseline. Weekly working hours were analysed in five categories, with 35-40 h/week as reference. Cox models assessed incident first CMD (FCMD), CMM and all-cause mortality. Multistate models assessed progression from no CMD to FCMD and from FCMD to CMM, with death possible from each state. Models were adjusted for demographic, socioeconomic, occupational and family-history factors. Estimates were pooled across 50 multiply imputed datasets. RESULTS: Within the disease observation window, 25,190 participants developed FCMD and 2,824 developed CMM. Working ≥55 h/week was associated with FCMD (hazard ratio [HR] 1.117, 95% confidence interval [CI] 1.057-1.180). Incident CMM from baseline was associated with 41-48 h/week (1.128, 1.010-1.260) and 49-54 h/week (1.205, 1.042-1.393); the estimate for ≥55 h/week was 1.144 (0.973-1.346). For FCMD-to-CMM progression, the corresponding HR were 1.141 (1.021-1.274), 1.129 (0.976-1.306) and 1.093 (0.929-1.286). Spline analyses supported overall associations with FCMD and incident CMM from baseline (both P<0.001), but not a clear association with FCMD-to-CMM progression (P=0.083). CONCLUSION: Long working hours were associated with first CMD onset and incident CMM in some working-hour groups; FCMD-to-CMM progression showed no clear increasing gradient. These findings support considering working time in cardiometabolic risk assessment while distinguishing initial disease development from subsequent progression.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag590"
+ },
+ {
+  "idx": 87,
+  "journal": "J Am Heart Assoc",
+  "title": "Longitudinal Trends of Intact and Ruptured Abdominal Aortic Aneurysm Repairs in the United States: A Cross-Sectional Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The COVID-19 pandemic disrupted access to elective procedures and routine care. Given the risk of abdominal aortic aneurysm (AAA) rupture, understanding repair trends is important to assess the impact of the pandemic on vascular outcomes. METHODS: This repeated cross-sectional analysis used the TriNetX network, a multicenter US electronic health records database. We included 423 874 patients diagnosed with AAA from 2016 to 2024. Patients were categorized by clinical presentation-intact AAA and ruptured AAA-and stratified by surgical approach: endovascular aneurysm repair or open aneurysm repair. Annual trends in AAA repair rates were assessed using joinpoint regression to calculate annual percentage change. RESULTS: Among 19 330 AAA repairs, 3791 (19.6%) were open aneurysm repair, and 15 539 (80.4%) were endovascular aneurysm repair. From 2018 to 2024, 1623 repairs (9.9%) were for ruptured AAA and 14 835 (90.1%) were for intact AAA. The rate of intact AAA repairs initially remained stable from 2018 to 2022 but significantly decreased after the pandemic from 2022 to 2024 (annual percentage change, -2.87% [95% CI, -10.95 to -1.00]). In contrast, ruptured AAA repairs rates shifted sharply during the pandemic, with an established prepandemic decline in ruptured repairs from 2018 to 2020 (annual percentage change, -11.48%) reversed, with an increase from 2020 to 2022 (annual percentage change +12.01%), before declining from 2022 to 2024 (annual percentage change, -11.00%). CONCLUSIONS: In this retrospective cross-sectional study, repairs for intact AAA declined, while repairs for ruptured AAA increased during the pandemic period. These trends suggest that potential delays in routine surveillance and elective surgery during the pandemic may have increased acute presentations.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.045275"
+ },
+ {
+  "idx": 88,
+  "journal": "JACC Adv",
+  "title": "Association Between Saturated Fat Intake and Low-Density Lipoprotein Cholesterol Across the Genetic Spectrum.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Low-density lipoprotein cholesterol (LDL-C) is a causal risk factor for atherosclerotic cardiovascular disease (ASCVD). Guidelines recommend reducing saturated fat intake to lower LDL-C, but dietary effects are heterogeneous. OBJECTIVES: We examined whether genetic propensity for higher LDL-C modifies the association of saturated fat intake with LDL-C and incident ASCVD. METHODS: Among 20,940 genotyped Women's Health Initiative participants, we examined saturated fat intake from food frequency questionnaires and a polygenic score for LDL-C (PGSLDL). The primary outcome was LDL-C. The secondary outcome was incident ASCVD. Associations were assessed using multivariable linear and Cox regressions. Effect modification was evaluated using interaction terms and restricted cubic splines. Models included demographic, lifestyle, clinical, and genetic covariates. RESULTS: The association between saturated fat intake and LDL-C was modified by PGSLDL (P interaction for LDL-C = 0.01). Spline analysis revealed a nonlinear interaction, with increasing effect sizes across the upper end of the PGSLDL distribution. Among 16,835 participants without prevalent ASCVD, 1,582 experienced incident ASCVD (median follow-up: 10 years [Q1, Q3: 9.4, 10.0]). A 5% isocaloric increase in saturated fat intake was associated with a higher ASCVD risk among individuals in the top quartile of PGSLDL (HR: 1.26; 95% CI: 1.08-1.47), but no association was observed among those in the bottom 3 quartiles (HR: 1.00; 95% CI: 0.89-1.12); P interaction for ASCVD = 0.006. CONCLUSIONS: The association between saturated fat intake and LDL-C and subsequent ASCVD risk may be stronger for individuals with a genetic propensity towards high LDL-C.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103423"
+ },
+ {
+  "idx": 89,
+  "journal": "JACC Adv",
+  "title": "Atrial Fibrillation Screening-to-Anticoagulation Pathways in Low- and Middle-Income Countries: A Systematic Review and Meta-Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Atrial fibrillation (AF) is an important cause of preventable stroke in low- and middle-income countries (LMICs), where diagnostic and treatment gaps may limit screening effectiveness. OBJECTIVES: This study aims to evaluate AF screening in LMICs as a screening-to-anticoagulation pathway, focusing on reach, equity, diagnostic confirmation, anticoagulation uptake, and health-system capacity. METHODS: MEDLINE via PubMed, Embase, CINAHL, Web of Science, and CENTRAL were searched from inception to July 2026. LMIC studies reporting population-facing AF screening or screening-linked care were included. Logit-transformed proportions were pooled using restricted maximum-likelihood random-effects models with modified Hartung-Knapp CIs; binomial-normal generalized linear mixed models were used in sensitivity analyses. Pathway stages were synthesized from outcome-specific study subsets rather than a single longitudinal cohort. RESULTS: Thirty-seven reports from 13 LMICs and 1 multinational cohort were included. Across 22 community- or population-based studies, confirmed AF averaged 1.24% (95% CI: 0.79%-1.94%; I2 = 98.8%; 95% prediction interval: 0.16%-8.83%). Newly detected AF averaged 0.95% (95% CI: 0.43%-2.11%; I2 = 99.2%; prediction interval: 0.08%-9.97%). In separate study subsets, prior AF awareness was 50.7%, study-defined high stroke risk or oral anticoagulation indication was 78.9%, and oral anticoagulation coverage among study-defined eligible/high-risk participants was 22.8%. Reach ranged from 9.7% to 98.8%, and confirmation completion was 57.5% to 61.8% in 2 programs. CONCLUSIONS: AF screening in LMICs identifies substantial but highly variable detection and treatment gaps. Pooled proportions should be interpreted as cross-study summaries rather than expected rates for a specific setting. Effective programs require representative reach, timely confirmation, appropriate stroke-risk and valvular assessment, access to anticoagulation, and longitudinal follow-up.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103479"
+ },
+ {
+  "idx": 90,
+  "journal": "JACC Adv",
+  "title": "Aortic Valve Stenosis Screening Using Deep Learning on Noninvasive Arterial Pressure Waveforms.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Aortic stenosis (AS) presents a significant health burden. Early identification of significant AS, defined as at least moderate AS, may facilitate timely confirmatory testing, referral, and management. OBJECTIVES: This study sought to develop and externally validate a deep learning model applied to arterial pressure waveforms obtained from a noninvasive finger-cuff system to screen for significant AS, using transthoracic echocardiography as the reference standard. METHODS: This prospective international multicenter cohort study was conducted from December 2020 through July 2025. Participants underwent concurrent transthoracic echocardiography and noninvasive arterial pressure waveform acquisition. A 1-dimensional convolutional neural network was developed using the Cleveland Clinic development cohort and evaluated in a temporally distinct, multicenter validation cohort including sites in the United States, Spain, and the Netherlands. RESULTS: Significant AS was present in 307 of 3,634 (8.4%) patients in the development cohort and 241 of 1,336 (18.0%) in the validation cohort. In the validation cohort, the model demonstrated an area under the curve of 0.893 (95% CI: 0.876-0.910), with a sensitivity of 92.5% (223/241; 95% CI: 88.5%-95.2%), negative predictive value of 97.5% (706/724; 95% CI: 96.1%-98.4%), specificity of 64.5% (706/1,095; 95% CI: 61.6%-67.3%), and positive predictive value of 36.4% (223/612; 95% CI: 32.7%-40.3%). For severe AS, the area under the curve was 0.906 (95% CI: 0.890-0.922), with a sensitivity of 94.3% (183/194; 95% CI: 90.1%-96.8%), negative predictive value of 98.5% (706/717; 95% CI: 97.3%-99.1%), specificity of 64.5% (706/1,095; 95% CI: 61.6%-67.3%), and positive predictive value of 32% (183/572; 95% CI: 28.3%-35.9%). CONCLUSIONS: Deep learning applied to arterial pressure waveforms obtained from a finger-cuff system serves as a promising screening test for significant AS.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103475"
+ },
+ {
+  "idx": 91,
+  "journal": "J Am Heart Assoc",
+  "title": "Comparative Accuracy of the European Society of Cardiology Rapid Rule-Out and Rule-In Protocols for Diagnosing Non-ST-Segment-Elevation Myocardial Infarction: A Network Meta-Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The European Society of Cardiology rapid rule-out and rule-in protocols using hs-cTns (high-sensitivity cardiac troponins) with blood collection at 0 and 1 hour (0/1 hour), 0 and 2 hours (0/2 hours), and 0 and 3 hours (0/3 hours) are accurate and widely used for evaluating non-ST-segment-elevation myocardial infarction. This network meta-analysis aimed to identify the best performing hs-cTn assay. METHODS: We conducted database searches up to January 15, 2026, a dual screening and eligibility assessment, independent data extraction and risk of bias assessment, a network meta-analysis of diagnostic accuracy, and assessment of the certainty of evidence. Only full-paired diagnostic accuracy studies conducted in the emergency department were included. RESULTS: Ten prospective studies (15 publications) comparing 10 assays using the 0-/1-hour algorithm (n=8769), 0-/2-hour algorithm (n=1881), and 0-/3-hour algorithm (n=1236) were included. Comparisons between newer and conventional assays largely stemmed from a single-source study. Across all assays, the European Society of Cardiology 0-/1-hour algorithm demonstrated high sensitivity (summary point estimate range: 97.8%-99.8%). Furthermore, it maintained high specificity (89.8%-98.1%), with no assay showing clear superiority. The summary sensitivity and specificity did not show significant differences across assays after adjusting for biases because of imperfect reference standards. Comparative data in the European Society of Cardiology 0-/2-hour and 0-/3-hour algorithms were limited. CONCLUSIONS: Evidence remains insufficient to establish the superiority of any specific hs-cTn assay within the European Society of Cardiology 0-/1-hour algorithm. Although practical considerations may currently guide selection, continued validation of newer assays remains necessary.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.125.047758"
+ },
+ {
+  "idx": 92,
+  "journal": "JACC Adv",
+  "title": "Sex-Specific Phenotypic Architecture in Cardiac Amyloidosis Identified by Explainable Machine Learning.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Females are under-represented in cardiac amyloidosis (CA), but whether this reflects sex-associated phenotypic heterogeneity or differences in disease prevalence remains unclear. OBJECTIVES: The objectives of the study was to characterize sex-associated differences in presentation and prognosis across CA subtypes using unsupervised clustering. METHODS: We retrospectively analyzed 2,216 patients with confirmed CA enrolled between 2010 and 2022: light-chain amyloidosis (AL) (n = 583), variant transthyretin amyloidosis (ATTRv) (n = 432), and wild-type transthyretin amyloidosis (ATTRwt) (n = 1,201). Self-organizing maps with k-means partitioning were applied separately to each subtype, and conditional inference trees identified key phenotypic discriminators. RESULTS: Females represented 40.8%, 33.8%, and 15.9% of AL, ATTRv, and ATTRwt cohorts, respectively. Clustering identified 4 AL, 6 ATTRv, and 6 ATTRwt phenotypes. Across subtypes, female-predominant clusters generally showed preserved left ventricular ejection fraction, lower cardiac remodeling burden, and less pronounced biomarker elevation. Female-predominant AL clusters included preserved-function and multisystem profiles, whereas ATTRv clusters included neurologic-dominant and older cardiometabolic profiles. In ATTRwt, females were predominantly represented in a phenotype characterized by preserved systolic function and less structural remodeling. Conditional inference trees identified sex as the first discriminator in ATTRwt and a secondary discriminator in AL, whereas ATTRv clusters were primarily discriminated by cardiac variables and sex was not selected. CONCLUSIONS: Unsupervised clustering identified female-predominant phenotypes with less structural cardiac remodeling but distinct multisystem characteristics across CA subtypes. These findings support sex-associated phenotypic heterogeneity in CA and generate hypotheses regarding female underrepresentation in contemporary CA cohorts.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103480"
+ },
+ {
+  "idx": 93,
+  "journal": "Atherosclerosis",
+  "title": "A novel small-molecule inhibitor of proteoglycan GAG-chain elongation that alone or in combination with rosuvastatin inhibits lipid deposition in the aortic walls of high-fat fed ApoE-/- mice.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Subendothelial retention of atherogenic lipoproteins by vascular proteoglycans is a key initiating event in atherosclerosis. The elongation of glycosaminoglycan (GAG) chains on proteoglycans enhances lipid binding and retention. We have shown that the Smad2 transcription factor in the linker region is a common signalling intermediate that regulates GAG chain elongation in vascular smooth muscle cells (VSMCs). This study used a small molecule kinase inhibitor to investigate whether inhibition of the Smad2 transcription factor and GAG chain elongation in vitro correlates with a reduction in lipid deposition in vivo. We identified a potent new kinase inhibitor, Cyc12068, and tested its effects on PDGF-mediated GAG chain elongation in VSMCs by measuring mRNA expression of GAG biosynthesis genes and [35S]-sulfate incorporation into secreted proteoglycans. ApoE-/- mice were fed a high-fat diet for 12 weeks and treated with Cyc12068 alone or in combination with rosuvastatin. Aortic wall lipid deposition was quantified by en face Oil Red O staining. Plasma lipid parameters and aortic mRNA expression of GAG elongation genes were assessed. Cyc12068 dose-dependently inhibited PDGF-induced expression of GAG biosynthesis genes, [35S]-sulfate incorporation into secreted proteoglycans, and biglycan GAG chain elongation in VSMCs. Cyc12068 also suppressed PDGF-mediated Smad2 linker region phosphorylation. In high-fat diet-fed ApoE-/- mice, Cyc12068 reduced aortic wall lipid deposition both as monotherapy and in combination with rosuvastatin. Unlike rosuvastatin, Cyc12068 did not alter plasma lipid parameters, indicating that its anti-atherogenic effect was independent of systemic lipid lowering. Cyc12068 also reduced aortic expression of GAG elongation genes, whereas rosuvastatin no effect on this pathway. By demonstrating a reduction in aortic wall lipid deposition when Cyc12068 was administered alone or with rosuvastatin, these findings identify inhibition of proteoglycan GAG chain elongation as a potential vessel wall-directed strategy that is mechanistically distinct from lipid lowering therapy.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.atherosclerosis.2026.121967"
+ },
+ {
+  "idx": 94,
+  "journal": "Nat Cardiovasc Res",
+  "title": "Fermentable dietary fiber controls blood pressure by lowering large intestinal pH and activating the proton-sensing receptor GPR65.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "High blood pressure (BP) is the most common cause of death globally due to increased risk of cardiovascular disease. Fermentable dietary fibers regulate BP through gut microbial production of short-chain fatty acids (SCFAs), acidic metabolites. How SCFAs regulate BP remains unclear. Here we show that, in a phenome-wide association study, the proton-sensing G protein-coupled receptor GPR65 gene is associated with human hypertension and cardiorenal phenotypes. Fermentable dietary fibers, delivered as a type 2 resistant starch (RS2), regulated luminal and interstitial tissue pH in the large intestine through gut microbial SCFA production in mice. High RS2 intake reduced pH, increased cAMP production via GPR65 signaling and CREB phosphorylation, and restricted the release of pro-hypertensive inflammatory cytokines by CD8+ T cells. Gpr65-/- mice spontaneously developed hypertension, cardiac and renal hypertrophy, and fibrosis. The benefits of a high-RS2 diet, which prevented these effects, were reduced in Gpr65-/- mice. Adoptive transfers revealed that GPR65 deficiency in CD8+ T cells explained this phenotype.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1038/s44161-026-00914-3"
+ },
+ {
+  "idx": 95,
+  "journal": "N Engl J Med",
+  "title": "Semaglutide for the Treatment of Obesity in Children 6 to <12 Years of Age.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Childhood obesity is a chronic, neurometabolic disease with limited options for medical treatments that are efficacious and durable. Once-weekly subcutaneous semaglutide is approved for the treatment of obesity in adolescents and adults, but data for its use in young children are lacking. METHODS: We conducted a phase 3, double-blind, randomized, placebo-controlled trial involving children (6 to <12 years of age) with obesity. Participants were randomly assigned in a 2:1 ratio to receive once-weekly subcutaneous semaglutide or placebo for a period of 104 weeks, after which participants stopped taking semaglutide or placebo for a 7-week washout period. Both groups received counseling for lifestyle modification. The primary end point was the percent change in the body-mass index (BMI; the weight in kilograms divided by the square of the height in meters) from baseline to week 68. The confirmatory secondary end point was a reduction in BMI category at week 68. RESULTS: Among 167 children who underwent randomization, 112 were assigned to receive semaglutide and 55 to receive placebo. At week 68, the mean percent change in BMI was -13.5% with semaglutide and 2.7% with placebo (estimated between-group difference, -16.2 percentage points; 95% confidence interval [CI], -19.4 to -12.9; P<0.001). The percent change in BMI at week 104 was -9.4% with semaglutide and 8.4% with placebo (between-group difference, -17.8 percentage points; 95% CI, -22.2 to -13.3). At week 68, a reduction in BMI category had occurred in 79% of the participants in the semaglutide group and in 23% of those in the placebo group (odds ratio, 7.8; 95% CI, 3.5 to 17.6; P<0.001), with the BMI below the threshold for obesity (the 95th percentile for age and sex) in 38% of the participants who received semaglutide and in 2% of those who received placebo. Adverse events occurred in 96% of the participants receiving semaglutide and in 93% of those receiving placebo. Gastrointestinal adverse events were the most common, occurred more frequently with semaglutide than with placebo, and led to discontinuation in 1 participant in the semaglutide group. CONCLUSIONS: Among children (6 to <12 years of age) with obesity, treatment with semaglutide for 68 weeks resulted in a significantly greater mean percent reduction in BMI than placebo. (Funded by Novo Nordisk; STEP Young ClinicalTrials.gov number, NCT05726227.). [recuperado por Crossref]",
+  "oblig": true,
+  "noabs": false,
+  "doi": "10.1056/NEJMoa2604058"
+ }
+]

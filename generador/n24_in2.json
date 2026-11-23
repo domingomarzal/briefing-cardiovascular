@@ -1,0 +1,245 @@
+[
+ {
+  "idx": 40,
+  "journal": "Eur J Heart Fail",
+  "title": "Early Implementation of Guideline-Directed Medical Therapy and Outcomes in Cardiogenic Shock Supported by Micro-Axial Flow Pumps.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The role of guideline-directed medical therapy (GDMT) in patients with cardiogenic shock (CS) supported by mechanical circulatory support remains poorly defined. The feasibility and potential benefits of early GDMT initiation during Impella support are uncertain. METHODS: We analyzed a multicenter prospective registry of consecutive patients with CS treated with Impella between 2020 and 2024. GDMT exposure was defined as the number of heart failure therapies administered at device explantation. The primary outcome was in-hospital mortality. Multivariable logistic regression adjusted for clinical severity and early shock trajectory. Landmark analysis excluded patients dying within 5 days, while mixed-effects models accounted for center-level clustering. RESULTS: Among 140 patients (mean age 61 years; 20% female), 40% received concomitant ECMO (ECPella). In-hospital mortality was 38%. At explantation, 43% received at least one GDMT agent. Greater GDMT exposure was independently associated with lower mortality (OR 0.28 per additional therapy; 95% CI 0.14-0.58; p<0.001). This association remained consistent in landmark analysis (adjusted OR 0.31; 95% CI 0.16-0.66; p<0.001) and after excluding patients with cardiac arrest (adjusted OR 0.48; 95% CI 0.23-0.88; p=0.002). A graded relationship between GDMT intensity and survival was observed. Center-level variability was negligible (intraclass correlation coefficient 0.02). CONCLUSIONS: In patients with CS supported by Impella, early GDMT implementation was feasible in a substantial proportion of patients. Greater GDMT exposure at device explantation was associated with lower in-hospital mortality. Ventricular unloading may provide an opportunity to initiate outcome-modifying therapies during the acute phase of CS.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/ejhf/xuag338"
+ },
+ {
+  "idx": 41,
+  "journal": "Hypertension",
+  "title": "Biological Aging Associates With Preeclampsia and Gestational Hypertension.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Biological aging is a fundamental driver of chronic disease, yet its role in the cause of preeclampsia and gestational hypertension remains poorly defined. METHODS: We used a multimodal framework that triangulated genetic, epidemiological, and experimental approaches to assess the associations of biological aging with preeclampsia and gestational hypertension. Publicly available human and mouse transcriptomic data were analyzed to identify shared aging- and preeclampsia-associated signatures, while the potential of nicotinic acid to alleviate aging- and preeclampsia-related features was further evaluated in experimental models. RESULTS: Two-sample Mendelian randomization demonstrated that biological age acceleration was associated with higher odds of preeclampsia (odds ratio, 1.55 [95% CI, 1.22-1.96]; P=2.67×10-4) and gestational hypertension (odds ratio, 1.56 [95% CI, 1.12-2.19]; P=0.009), while positive genetic correlations were also observed for both outcomes. In the nested case-control study, higher early pregnancy biological age acceleration was consistently associated with preeclampsia risk in both primary (odds ratio, 1.16 [95% CI, 1.01-1.35]; P=0.047) and sensitivity (odds ratio, 1.14 [95% CI, 1.03-1.29]; P=0.042) analyses, with the associations persisting after covariate adjustment and exclusion of systolic blood pressure from biological age acceleration calculation. Mouse models exhibited preeclampsia-like features accompanied by concordant alterations in biological age-related biomarkers and telomere dysfunction. These changes were partially attenuated by nicotinic acid treatment, whereas placental organoids showed limited growth responses to nicotinic acid. Complementing these phenotypic observations, transcriptomic analyses identified shared aging- and preeclampsia-associated signatures across human and mouse data sets. CONCLUSIONS: Convergent evidence links biological aging with preeclampsia and gestational hypertension, particularly biological age acceleration with preeclampsia. Experimental findings provide complementary context but do not establish a specific mechanism or therapeutic role for nicotinic acid.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/HYPERTENSIONAHA.126.28011"
+ },
+ {
+  "idx": 42,
+  "journal": "JACC Adv",
+  "title": "Association of Clonal Hematopoiesis Mutations With Incident Atrial Fibrillation: A Systematic Review and Meta-Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Clonal hematopoiesis (CH) has been linked to cardiovascular disease through inflammation-related pathways, but its association with atrial fibrillation (AF) remains uncertain. OBJECTIVES: The purpose of this study was to systematically review and meta-analyze evidence on the association between CH mutations and AF, with planned analyses by hematologic cancer status, variant allele frequency (VAF), mutations, and sex. METHODS: PubMed, Embase, and Web of Science were searched from inception to May 6, 2026, for studies reporting adjusted quantitative associations between CH and incident AF. Random-effects meta-analyses were performed. Study quality was assessed using the Risk Of Bias In Non-randomized Studies-of Exposures tool. RESULTS: Five studies comprising 7 cohorts and 299,215 participants were included. In populations without cancer, CH defined by VAF ≥2% was not significantly associated with AF (HR: 1.02; 95% CI: 0.97-1.07; I2 = 0%). Large CH clones (VAF ≥10%) were associated with a modestly higher AF risk (HR: 1.11; 95% CI: 1.01-1.22; I2 = 0%). Mutation-specific analyses did not show statistically significant associations for DNMT3A, TET2, or ASXL1 individually, and no sex-based effect modification was observed. In hematologic cancer populations, CH mutations were significantly associated with higher AF risk (HR: 3.22; 95% CI: 1.02-10.13; I2 = 0%). Sensitivity analyses and wide prediction intervals warrant cautious interpretation, particularly for the VAF ≥10% and hematologic cancer analyses. CONCLUSIONS: The association between CH and AF may vary by clonal burden and hematologic cancer status. However, evidence remains limited and observational. Larger studies with standardized CH and AF definitions are needed to clarify clinical relevance.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103490"
+ },
+ {
+  "idx": 43,
+  "journal": "Eur Heart J",
+  "title": "Climate change: the patient perspective.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "This article for the CardioPulse section dedicated to the Environment was written after an online interview with a selection of members of the ESC Patient Forum. It relates the impact of climate change and especially heat waves on their treatment and how the cardiology community could do better in instructing them.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurheartj/ehag459"
+ },
+ {
+  "idx": 44,
+  "journal": "JACC Adv",
+  "title": "Universal ECG Screening for School-Age Children: A Pediatric Cardiology and Public Health Perspective.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Sudden cardiac death in the young remains an important public health concern extending beyond competitive athletes. Recent advances, including the 2025 AHA/ACC (American Heart Association/American College of Cardiology) Scientific Statement, the 2024 CSRC (Cardiac Safety Research Consortium) Think Tank Report, pediatric electrocardiogram (ECG) interpretation, disease-specific risk stratification and treatment, shared decision-making, and implementation strategies, provide a timely opportunity to reconsider the potential role of universal ECG screening in school-age children. This state-of-the-art review synthesizes contemporary evidence on the epidemiology, diagnostic value, ethics, implementation, and international experience of ECG-inclusive screening. The available evidence supports a contemporary framework for evaluating its value not only in preventing sudden cardiac death but also in facilitating earlier detection and management of childhood-onset cardiovascular diseases, with possible downstream benefits in mortality, morbidity, and health care burden. Future research should determine how universal ECG screening can be effectively implemented and evaluated across diverse health care systems.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103496"
+ },
+ {
+  "idx": 45,
+  "journal": "EuroIntervention",
+  "title": "Acute right ventricular response to transcatheter tricuspid valve replacement.",
+  "ptypes": [
+   "Journal Article",
+   "Multicenter Study"
+  ],
+  "abstract": "BACKGROUND: Changes in right ventricular (RV) function are frequent after transcatheter tricuspid valve replacement (TTVR), yet their mechanisms and prognostic implications remain incompletely defined. AIMS: We sought to characterise acute RV functional changes following TTVR and evaluate their prognostic impact. METHODS: This multicentre study included consecutive patients treated with TTVR between 2019 and 2025 with complete imaging data. RV function was assessed by echocardiography at baseline, intraprocedurally, and before discharge. RV end-systolic elastance (Ees), effective arterial elastance (Ea), and RV-pulmonary artery coupling (Ees/Ea) were derived from non-invasive single-beat pressure-volume loop analysis. Changes over time were assessed using paired tests, and associations with mortality were investigated using Cox regression analysis with Firth's penalised likelihood. RESULTS: Sixty-seven patients (median age 78 years; 72% female; EVOQUE n=49; LuX-Valve Plus n=18) were included. At discharge, both cohorts showed declines in absolute RV free-wall longitudinal strain (aRV-FWLS; -10.4%; p<0.001 for EVOQUE; -10.4%; p=0.001 for LuX-Valve Plus) and fractional area change (FAC; -18.0%; p<0.001 for EVOQUE; -13.5%; p=0.005 for LuX-Valve Plus). Overall, 58% of patients met the criteria for severe RV dysfunction after TTVR. Over a median follow-up of 19 months, 15 patients died. Device type, acute RV functional changes, Ees, and Ees/Ea were not associated with mortality (allp>0.05). In contrast, computed tomography-derived RV coupling (hazard ratio [HR] 0.02, 95% confidence interval [CI]: 0.01-0.89) and the coexistence of baseline longitudinal (tricuspid annular plane systolic excursion <17 mm and/or aRV-FWLS <23%) and circumferential (RV-FAC ≤35%) RV dysfunction (HR 3.93, 95% CI: 1.10-14.47) were associated with mortality. CONCLUSIONS: TTVR is associated with an acute decline in RV systolic function. Although common, early postprocedural RV dysfunction was not associated with midterm mortality.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.4244/EIJ-D-26-00272"
+ },
+ {
+  "idx": 46,
+  "journal": "JACC Clin Electrophysiol",
+  "title": "Preferential Conduction Along the Epicardial Ventricular Septum During Idiopathic Ventricular Arrhythmias Originating From the Basal LV Summit: A Pitfall for Anatomical Ablation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: An anatomical ablation of idiopathic ventricular arrhythmias (VAs) originating from the left ventricular summit (LVS) is delivered from endocardial sites across the myocardium adjacent to the site of the VA origin with the guidance of transvenous epicardial mapping. Therefore, electrophysiological information obtained by transvenous epicardial mapping should be carefully interpreted. OBJECTIVES: This study investigated ventricular activation patterns within the great cardiac vein (GCV) during idiopathic LVS VAs. METHODS: We studied 38 consecutive patients who underwent a successful endocardial ablation of idiopathic LVS VAs at the left ostial process, left coronary sinus, and commissure between the left and right coronary cusps. RESULTS: Twenty-nine patients exhibited a radial activation pattern in which the earliest ventricular activation was recorded around the junction between the GCV and anterior interventricular vein (AIVV). The remaining 9 patients exhibited a septal activation pattern in which the earliest ventricular activation was recorded within the AIVV, with the activation sequence being from the AIVV to GCV. The septal group mainly exhibited left bundle branch block pattern, whereas the radial group exhibited right bundle branch block pattern (P < 0.0001). The distance between the earliest ventricular activation site within the GCV or AIVV and the successful ablation site was significantly larger for LVS VAs with a septal activation pattern than those with a radial activation pattern. CONCLUSIONS: During idiopathic basal LVS VAs, activation from those VA origins often preferentially conducted along the ventricular septum. It should be kept in mind that this unusual activation pattern may mislead the mapping and catheter ablation of LVS VAs.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacep.2026.10.018"
+ },
+ {
+  "idx": 47,
+  "journal": "Hypertension",
+  "title": "2025 Harriet Dustan Lecture: Sex Differences in Immune-Mediated Hypertension: Why Menopause Matters.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Hypertension is an inflammatory disease with the immune system playing a key role in mediating hypertensive outcomes and end-organ damage. The risk of hypertension is greater in men than in women before women enter menopause. After menopause, a woman's risk for developing hypertension increases and accelerates beyond that of age-matched men. Moreover, after menopause, the rate of hypertension control in women is lower than in men. Indeed, cardiovascular drug efficacy in women is different from that in men, with recent studies highlighting serious side effects of angiotensin-converting enzyme inhibitors and β-blockers in postmenopausal women. Despite these sex differences, sex-specific clinical practice guidelines are still sparse, as is the consideration of a woman's hormonal status. In addition, preclinical models of immune-mediated hypertension are still mainly performed in male animals. The goal of this review is to highlight recent advancements in the field of sex differences in immune-mediated hypertension and to identify the major gaps in understanding immune mechanisms that lead to hypertension development in males and females, and as menopause progresses.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/HYPERTENSIONAHA.126.26079"
+ },
+ {
+  "idx": 48,
+  "journal": "JACC Cardiovasc Imaging",
+  "title": "Association Between Peripheral and Coronary Subclinical Atherosclerosis Burden in Midlife.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Atherosclerosis, silent in its early stages, underlies most cardiovascular manifestations. The inter-relation between silent atherosclerosis across vascular territories remains insufficiently characterized. OBJECTIVES: The aim of this study was to assess the association between peripheral and coronary atherosclerosis in asymptomatic individuals. METHODS: A subgroup of individuals of the PESA (Progression of Early Subclinical Atherosclerosis) cohort underwent contrast-enhanced coronary computed tomography angiography in addition to peripheral (carotid and femoral) atherosclerosis assessment using 3-dimensional vascular ultrasound. Peripheral global plaque volume was calculated as the sum of bilateral carotid and femoral plaque burden using an artificial intelligence-based automated approach. Coronary computed tomographic angiographic images were qualitatively evaluated for the presence and severity of coronary atherosclerosis (percentage stenosis) and quantitatively for coronary artery calcium score (CACS) and global coronary plaque volume measurement. RESULTS: A total of 374 participants (mean age: 55 years, 34% women, 63% with CACS = 0) were included. Peripheral atherosclerosis was present in 75%. Peripheral global plaque volume was significantly associated with the presence, severity, and burden of coronary atherosclerosis (coronary plaque volume) (r = 0.69; P < 0.001). After adjustment for age, sex, and conventional risk factor profile, individuals with peripheral atherosclerosis had nearly 3 times greater odds of having coronary atherosclerosis than those without (OR: 2.66; 95% CI: 1.50-4.72; P = 0.001). Both carotid and femoral atherosclerosis remained significantly and independently associated with coronary plaque. Among participants with CACS = 0, noncalcified coronary plaque was detected in 12.0%, nearly all of whom (93%) had concomitant peripheral atherosclerosis. CONCLUSIONS: Peripheral and coronary atherosclerosis were strongly correlated in asymptomatic persons. Both carotid and femoral atherosclerosis were associated with coronary artery disease independently of each other.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcmg.2026.09.016"
+ },
+ {
+  "idx": 49,
+  "journal": "Eur Heart J Cardiovasc Imaging",
+  "title": "Systematic Transesophageal Echocardiographic Identification of Tricuspid Valve Commissures and Subvalvular Apparatus.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Transcatheter tricuspid valve (TV) intervention is rapidly evolving and several classes of therapeutic devices are currently in development. The anatomic knowledge of the TV is the cornerstone for transcatheter patient selection, and the successful implantation of the devices depends on imaging guidance. Anatomically, leaflets are separated by the commissures, which have peculiar findings: they are supported by fan-shaped chords and do not open directly into the annulus, but a few millimeters of the leaflet tissue remain, similar to small scallops. While a comprehensive echocardiographic assessment of TV has been extensively reported, few papers have focused on analyzing commissures and their impact on interventions. This paper aims to introduce a novel echocardiographic approach focusing on TV commissures, and provide a dedicated transesophageal imaging protocol and methodology for recognizing their anatomic landmarks. Multiple dedicated transesophageal views are comprehensively reported for each commissure, in order to ensure a guide for emerging transcatheter procedures.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/ehjci/jeag328"
+ },
+ {
+  "idx": 50,
+  "journal": "Circ Heart Fail",
+  "title": "Current Patterns and Best Practices for Prescribing Novel Heart Failure Medications in Children: A Science Advisory From the American Heart Association.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Robust evidence from randomized controlled trials of novel heart failure medications in adults has demonstrated improved quality of life, reduced hospitalizations, and decreased mortality, informing current treatment guidelines. In contrast, data supporting the clinical benefits of newer heart failure therapies in children remain limited. To assess contemporary prescribing practices and clinician perspectives, we surveyed pediatric heart failure physicians across the United States and Canada regarding the use of angiotensin receptor-neprilysin inhibitors, sodium-glucose cotransporter 2 inhibitors, and iron replacement therapy in children. We also reviewed the existing pediatric literature and summarized reported side effects, dosing experience, and practical guidance for the use of these therapies in the absence of rigorous evidence.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/HHF.0000000000000092"
+ },
+ {
+  "idx": 51,
+  "journal": "Europace",
+  "title": "Initial Experience with Bachmann Bundle Pacing Lead Implantation as a Rhythm Control Strategy in Atrial Fibrillation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: Bachmann bundle pacing (BBP) is challenging during atrial fibrillation (AF) because ECG based endpoints cannot confirm lead positioning. We aimed to demonstrate the feasibility of a practical approach to BBP implantation during AF and propose a framework for comprehensive conduction system pacing with BBP and left bundle branch pacing (LBBP) for rhythm control in patients referred for pace-and-ablate therapy. METHODS AND RESULTS: Twenty-four consecutive patients with persistent or longstanding persistent AF and preserved ejection fraction underwent dual-chamber BBP and LBBP implantation with individually optimized pacing rate and AV interval. Twelve underwent BBP during AF (Group 1) and 12 during sinus (Group 2), including six cardioverted intraprocedurally. During AF, lead positioning was guided by anatomical landmarks, local electrograms, current of injury, and impedance changes. After sinus rhythm restoration, BBP was confirmed in 11/12 Group 1 patients. Reductions in P-wave duration and interatrial block were observed in both groups. Seventeen had been referred for pace-and-ablate therapy; three in Group 1 reverted spontaneously to sinus rhythm before cardioversion. Over a median 192 [139-212] days after sinus restoration, 12/17 maintained sinus rhythm; 2 underwent AV node ablation, 1 AF ablation, 1 repeat cardioversion, and 1 required rate-control medication for paroxysmal AF. No complications occurred. CONCLUSION: BBP implantation during AF is feasible using anatomical and electrophysiological markers, with Bachmann bundle capture confirmed after sinus rhythm restoration. Exploratory findings suggest that comprehensive conduction system pacing with BBP and LBBP may support a rhythm-control (pace-and-wait) strategy in persistent AF patients referred for pace-and-ablate therapy.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag328"
+ },
+ {
+  "idx": 52,
+  "journal": "JACC Adv",
+  "title": "Heart Failure Phenotyping and Prognosis by CMR-Derived Oxygen Delivery and Extraction.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Heart failure reflects impaired matching of systemic oxygen delivery to metabolic demand, yet resting oxygen transport is seldom measured. OBJECTIVES: The purpose of this study was to noninvasively derive resting oxygen delivery and extraction using cardiovascular magnetic resonance (CMR) and relate these to clinical characteristics and outcomes. METHODS: In this retrospective study, in patients with heart failure referred for clinical CMR, cardiac output was assessed by cine imaging; basal blood-pool T2 mapping provided imaging-derived venous oxygen saturation; and measured hemoglobin enabled calculation of arterial oxygen content. Arterial oxygen saturation was fixed at 96%. We derived indexed systemic oxygen delivery (DO2i), oxygen extraction fraction (OEF), and indexed systemic oxygen consumption (VO2i). The endpoint was all-cause death or heart failure hospitalization. RESULTS: A total of 429 patients were included (62 events). VO2i varied widely (tertile means 138.8, 207.9, and 293.8 mL/min/m2), while left ventricular ejection fraction did not differ (38.8%, 40.6%, and 40.3%; P = 0.42). Imaging-derived venous oxygen saturation decreased across increasing VO2i tertiles (61.5%, 54.3%, and 50.7%; P < 0.0001). In Cox regression adjusted for age, sex, ejection fraction, and late gadolinium enhancement, VO2i was associated with the endpoint (HR: 1.15 per 50 mL/min/m2, 95% CI: 1.00-1.32; P = 0.046), but discrimination of VO2i alone was poor (Harrell's C = 0.53). Delivery-extraction phenotypes differed in event risk (log-rank P = 0.026): event proportions were 8.6% (high DO2i/low OEF), 14.0% (low DO2i/low OEF), 16.8% (high DO2i/high OEF), and 18.3% (low DO2i/high OEF). The delivery-extraction phenotype remained associated with outcome after adjustment for age, sex, left ventricular ejection fraction, and CMR-derived filling pressure. CONCLUSIONS: In this hypothesis-generating study, CMR-based oxygen supply-demand assessment delineates resting delivery-extraction phenotypes associated with heart failure outcomes.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103494"
+ },
+ {
+  "idx": 53,
+  "journal": "JACC Cardiovasc Interv",
+  "title": "Sex-Related Differences in Patients Undergoing Transcatheter Edge-to-Edge Repair for Primary Mitral Regurgitation: PRIME-MR Registry Insights.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Sex-related differences have been previously explored in patients with mitral regurgitation (MR) undergoing surgery as well as those with secondary MR treated with transcatheter edge-to-edge repair (TEER). OBJECTIVES: This study sought to evaluate sex-related differences in baseline characteristics and clinical outcomes in patients undergoing TEER for primary MR. METHODS: Outcomes of Patients Treated with M-TEER for Primary MR (NCT05332782) is an international, retrospective registry including patients undergoing TEER for primary MR in 27 centers. The primary outcome was a composite of 2-year all-cause mortality or heart failure hospitalization. RESULTS: A total of 2,078 patients, including 961 (46.3%) females, were analyzed. Females were older and had fewer comorbidities but presented with a different anatomy and more advanced symptoms. Compared with males, females were more frequently excluded from surgery because of advanced age and frailty. Optimal procedural results were lower in females, with a higher incidence of residual MR ≥2+ (38.5% vs 32.1%; P = 0.0037), and a significantly higher mean transmitral gradient (4.0 vs 3.6 mm Hg; P < 0.001). Kaplan-Meier curves showed significantly lower rates of all-cause mortality and cardiovascular mortality in female patients. In contrast, the incidence of the primary composite endpoint, as well as heart failure hospitalization alone, did not differ significantly. After adjusting for comorbidities, females demonstrated lower primary composite endpoint (HR: 0.77; P = 0.009), lower all-cause mortality (HR: 0.62; P < 0.001), and lower cardiovascular mortality (subdistribution HR: 0.53; P = 0.011). CONCLUSIONS: Among patients with primary MR, females were older and presented with a different clinical and anatomical profile compared with males. Although optimal procedural results were lower in females, higher survival rates in females vs males suggest that mitral transcatheter edge-to-edge repair can be a good option regardless of sex.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jcin.2026.08.038"
+ },
+ {
+  "idx": 54,
+  "journal": "JACC Adv",
+  "title": "Fluoroscopy-Only Versus TEE-Guided Left Atrial Appendage Closure: A Comparison of Disk-Type and Plug-Type Devices.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Fluoroscopy alone is emerging as a guidance modality for left atrial appendage occlusion (LAAO). OBJECTIVES: This study evaluated the safety and efficacy of fluoroscopy-only vs transesophageal echocardiography (TEE)-guided LAAO and compared the fluoroscopic views required for plug-type and disk-type devices. METHODS: In this retrospective single-center cohort study, patients undergoing LAAO guided by fluoroscopy only or by TEE with fluoroscopy were divided into a fluoroscopy-only group (n = 603) and a TEE group (n = 156) and further into a fluoroscopy-only disk-type (FODT) (n = 382), fluoroscopy-only plug-type (n = 221), TEE disk-type (n = 76), and TEE plug-type (n = 80) subgroups. Follow-up included TEE at 3 to 6 months and clinical event monitoring. RESULTS: The fluoroscopy-only group exhibited comparable implantation success (99.8% vs 100%; P = 1.000), peridevice leak rates (≥3 mm: 1.0% vs 1.3%; P = 0.671) and clinical outcomes during follow-up to the TEE group, with significantly shorter LAAO procedure times (40.9 ± 21.7 vs 78.9 ± 35.0 min; P < 0.001). The FODT subgroup required more views under fluoroscopy (3 [3, 3] vs 2 [2, 3]; P < 0.001) despite comparable peridevice leak rates. The clinical outcomes were similar between the TEE and fluoroscopy-only groups and between the FODT and fluoroscopy-only plug-type subgroups. CONCLUSIONS: Whether a disk-type or plug-type device is employed, LAAO guided by fluoroscopy only appears to be as feasible and safe as guidance by TEE. However, disk-type device needed more fluoroscopy views for accurate implantation than plug-type device. In the absence of randomized data, these hypothesis-generating findings should not be extrapolated to less experienced operators or centers.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103493"
+ },
+ {
+  "idx": 55,
+  "journal": "JACC Adv",
+  "title": "Identifying Plasma Proteins for Hypertrophic Cardiomyopathy Penetrance and Severity in Pathogenic Variant Carriers and Noncarriers.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Hypertrophic cardiomyopathy (HCM) is a clinically variable disease in onset and progression. Pathogenic MYBPC3 variants account for a substantial proportion of HCM diagnoses. OBJECTIVES: This study sought to identify protein biomarkers associated with HCM penetrance and severity. METHODS: Olink-assayed plasma proteins of 144 pathogenic MYBPC3 variant carriers were evaluated for associations with HCM severity based on diagnostic criteria (unaffected, mildly, or severely affected). Identified proteins were replicated in the UK Biobank considering time to onset of HCM (67 cases), cardiomyopathy (156 cases), and associations with left ventricular maximum wall thickness (6,492 participants). After prioritizing proteins on cardiac tissue expression and druggability, we examined disease penetrance through associations with heart failure (HF) and arrhythmic outcomes in 272 UK Biobank participants with known pathogenic HCM variants free of cardiomyopathy at proteomics assessment. RESULTS: Among pathogenic MYBPC3 variant carriers, we identified 27 proteins associated with HCM severity, of which 22 replicated in the UK Biobank. Six proteins were prioritized (N-terminal pro-B-type natriuretic peptide [NT-proBNP], growth/differentiation factor [GDF]-15, fibroblast growth factor [FGF]-23, adrenomedullin [ADM], renin [REN], and neural cell adhesion molecule 1 [NCAM1]), of which 5 associated with disease penetrance in pathogenic variant carriers: NT-proBNP and REN associated with increased HF and arrhythmic risk, GDF-15 and FGF-23 with HF risk, and NCAM1 with arrhythmic risk. CONCLUSIONS: Through the integration of proteomic analyses in both clinical and general population cohorts, we replicated and prioritized 6 proteins associated with HCM penetrance and severity. These findings highlight potential plasma-based markers for diagnosis and disease monitoring, as well as promising targets for future therapeutic development.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103457"
+ },
+ {
+  "idx": 56,
+  "journal": "Hypertension",
+  "title": "PREVENT Risk Stratification for Intensive Blood Pressure Intervention and Life Expectancy in Rural China: A Post Hoc Analysis of the China Rural Hypertension Control Project.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The 2025 American Heart Association/American College of Cardiology guideline adopted the Predicting Risk of Cardiovascular Disease Events (PREVENT) equations to guide antihypertensive treatment, but whether PREVENT risk groups identify patients who benefit more from intensive blood pressure (BP) control is uncertain. We evaluated intensive BP control across PREVENT risk groups in the China Rural Hypertension Control Project. METHODS: We analyzed 21 872 hypertensive adults from 326 Chinese villages. Participants received intensive BP control (target <130/80 mm Hg) or usual care and were classified as low risk (<5%), borderline risk (5.0%-7.4%), intermediate risk (7.5%-19.9%), or high risk (≥20%). The primary outcome was a composite of major cardiovascular events (myocardial infarction, stroke, heart failure, or cardiovascular death). Safety, net benefit, and life expectancy were assessed. RESULTS: Over a median of 3.02 years, intensive BP control was associated with lower cardiovascular risk in the low-risk (hazard ratio, 0.53 [95% CI, 0.29-0.97]), intermediate-risk (hazard ratio, 0.58 [95% CI, 0.49-0.69]), and high-risk groups (hazard ratio, 0.60 [95% CI, 0.47-0.77]), but not the borderline-risk group (hazard ratio, 0.80 [95% CI, 0.51-1.26]). No significant treatment-by-risk interaction was observed. Adverse events increased mainly in intermediate- and high-risk groups. Net benefit was favorable across all groups and greatest in the high-risk group. At 45 years of age, estimated life expectancy gains were 0.94 years overall, 0.71 years in the intermediate-risk group, and 1.26 years in the high-risk group. CONCLUSIONS: Intensive BP control was associated with lower cardiovascular risk in 3 PREVENT risk groups, with favorable net benefit across all groups. Absolute benefit and estimated life expectancy gains were greatest among high-risk participants. PREVENT risk stratification may inform intensive BP control in community-based hypertensive populations.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/HYPERTENSIONAHA.126.27624"
+ },
+ {
+  "idx": 57,
+  "journal": "Heart Rhythm",
+  "title": "Feasibility and safety of leadless pacemaker implantation via the right internal jugular vein: primary results of the VAMPIRE multicenter prospective study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Leadless pacemakers (LPs) are usually implanted through the femoral vein. The right internal jugular vein (RIJV) approach has emerged as an alternative, but evidence remains limited to retrospective single-centre series. OBJECTIVE: To evaluate the feasibility, procedural success, and 30-day safety of a first-line RIJV approach for LP implantation. METHODS: The VAMPIRE study (NCT06455566) is a prospective, investigator-initiated, multicenter registry enrolling consecutive patients with a guideline-directed LP indication across 15 tertiary centres in France (May 2024-May 2026). The primary endpoint was major procedure- or system-related complications within 30 days. RESULTS: Of 294 screened patients, 272 (92.5%) underwent a first-line RIJV approach. The cohort was elderly (median age 79 [73-85] years), predominantly male (63.6%), with high comorbidity burden including atrial fibrillation in 51.5%, chronic kidney disease in 34.9%, and cancer in 22.4%. High-degree atrioventricular block was the primary indication in 84.9%; 65.8% of procedures were performed urgently. Successful LP implantation was achieved in 266 of 272 patients (97.8%; 95% CI 95.3-99.2%), with septal deployment in 94.3%. Median procedure time was 30 [25-40] minutes and median fluoroscopy time 2.5 [1.1-7.0] minutes. Major complications occurred in 6 of 272 patients (2.2%; 95% CI 0.8-4.7%; p<0.001). CONCLUSION: In this prospective multicenter registry of a first-line RIJV approach for LP implantation, feasibility and procedural success were high, and 30-day major complications rate low. These results support the RIJV route as a safe and broadly applicable access strategy for LP implantation. However, dedicated studies are needed to compare safety versus the femoral approach.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.11.014"
+ },
+ {
+  "idx": 58,
+  "journal": "Eur J Heart Fail",
+  "title": "Impact of age on implementation and tolerability of guideline-directed medical therapy in patients with heart failure with reduced ejection fraction.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: Elderly patients constitute a growing proportion of patients with heart failure with reduced ejection fraction (HFrEF), yet remain underrepresented in randomized clinical trials. We evaluated the impact of age on the implementation of guideline-directed medical therapy (GDMT) in HFrEF. METHODS: TITRATE-HF is a prospective, multicentre registry (enrolment June 2022-February 2024) including patients with de novo, chronic, and worsening heart failure (HF). For the current analysis, HFrEF patients were categorized by age (<65, 65-74, and ≥75 years). We assessed GDMT implementation, tolerability, and clinical outcomes (composite endpoint: first HF hospitalization or all-cause death). RESULTS: The cohort included 980 patients aged <65 years (29%), 1120 patients aged 65-74 years (33%), and 1267 patients aged ≥75 years (38%). At 12-month follow-up, younger patients more frequently received GDMT, with quadruple therapy prescribed in 68% of those aged <65 years, 61% aged 65-74 years, and 51% aged ≥75 years (P < .001). In de novo HFrEF, age-related differences were observed within weeks after diagnosis, with faster and more extensive GDMT intensification in younger patients. Still, rates of treatment downgrades and the distribution of side effects were largely similar across age groups. Significant left ventricular ejection fraction (LVEF) improvement was observed in all age groups (all P < .001). The use of quadruple therapy at 6 months was associated with a lower risk of the composite endpoint between 6 and 12 months (adjusted hazard ratio 0.65, 95% confidence interval 0.50-0.86, P = .002), with consistent associations across age groups (P for interaction = .46). CONCLUSIONS: Elderly patients with HFrEF received less intensive GDMT. Age-related differences emerged early after diagnosis, with fewer treatment intensifications in elderly patients but largely similar downgrade rates across age groups. These findings highlight the need for improved implementation strategies to optimize guideline-directed therapy and dosing levels in the ageing HFrEF population.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/ejhf/xuag329"
+ },
+ {
+  "idx": 59,
+  "journal": "Heart Rhythm",
+  "title": "Precise anatomical landmark annotation of the cardiac conduction system on cardiac computed tomography angiography.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: CTA-based estimation of the conduction system from anatomical landmarks underpins a visualization platform (CARA) used in structural heart interventions and conduction system pacing. OBJECTIVE: To quantify the precision and reliability of the annotation method and the bias of trained readers relative to an expert reference standard. METHODS: The expert who defined the method and 6 trained readers each annotated 8 landmarks representing the sinus and atrioventricular nodes, His bundle course (Point B), left bundle branch origin (Point C), and course of Bachmann's bundle (B2-B5), in addition to the three aortic leaflet nadirs on 50 CTA studies in 3 sessions. Repeatability and reproducibility were assessed, referenced to clinically accepted error margins (2-5 mm). Intraclass correlations (ICC) were computed on heights above the aortic annular plane. 3D bias relative to the expert was tested for equivalence within half the margin. RESULTS: Repeatability SD was 1.67-3.98 mm and reproducibility SD 2.03-5.60 mm; all mean deviations were within margin, with 88.6-97.4% of repeat reads and 71.4-94.9% of reader means within margin. Inter-observer ICC on annular heights was 0.76-0.82 for the atrioventricular and 0.79-0.98 for the atrial points. Shared bias relative to the expert was 0.14-3.24 mm, within margin for all landmarks and equivalent within half the margin for sinus node, Point B, B2 and B3; at B3 and B2, 95% and 83% of the apparent separation was repeatability noise. CONCLUSION: The method meets its clinically accepted margins with millimeter precision and good-to-excellent reliability, and transfers from expert to trained readers with bias within margin.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.11.016"
+ }
+]

@@ -1,0 +1,248 @@
+[
+ {
+  "idx": 60,
+  "journal": "Circ Res",
+  "title": "Macrophage Gα Chaperone Protein Ric-8B Exacerbates Atherosclerosis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Macrophage stimulatory G-protein (Gαs/olf)-cAMP signaling promotes cholesterol accumulation and inflammasome activation in atherosclerosis. How obesity-associated inflammation amplifies this pathway is unknown. METHODS: We studied human and murine macrophages, genetically modified low-density lipoprotein receptor-deficient (Ldlr-/-) bone marrow chimeras, and human carotid plaques using biochemical assays and a macrophage-targeted resistance to inhibitors of cholinesterase 8B (Ric-8B)-Gα interference peptide. RESULTS: oxLDL (oxidized low-density lipoprotein) activated Gαolf through OR6A2 (olfactory receptor 6A2) and Gαs through downregulation of phosphorylated Gα-interacting vesicle-associated protein (p-GIV [phosphorylated Gα-interacting vesicle-associated protein]); both required Ric-8B. Ric-8B bound nucleotide-free Gαolf and Gαs with high affinity (KD, 21 and 29 nmol/L) through Arg75 and promoted their folding, stability, membrane localization, and cAMP signaling. Disrupting this interface reduced macrophage inflammasome activation and cholesterol accumulation. In Ldlr-/- chimeras, the targeted interference peptide localized to plaque macrophages, suppressed lesional Gαs/olf activity, and reduced atherosclerosis; these effects were absent with a nonbinding control peptide or Ric-8BR75E. In male patients' carotid plaques, plasma IFN-γ (interferon-γ) correlated with macrophage-associated Ric-8B S468/T473 phosphorylation. IFN-γ activated a STAT1 (signal transducer and activator of transcription 1)-independent ERK2 (extracellular signal-regulated kinase 2)-casein kinase 2 α catalytic subunit pathway that phosphorylated Ric-8B at S468/T473, enhancing chaperone activity. Phosphomimetic substitution lowered the pooled fitted oxLDL EC50 for cAMP generation (11.5 versus 27.7 µg/mL in wild-type cells) without increasing basal cAMP; replicate-level EC50 estimates did not differ significantly (P=0.17). This substitution restored the atherogenic phenotype suppressed by Ifngr1 deficiency in obese, but not nonobese, chimeras. CONCLUSIONS: Ric-8B sustains macrophage Gαs/olf-cAMP signaling and atherogenesis. Obesity-associated IFN-γ enhances macrophage responses to oxLDL through STAT1-independent ERK2-casein kinase 2 α catalytic subunit-Ric-8B signaling, supporting a 2-hit mechanism and identifying the Ric-8B-Gα interface as a potential therapeutic target.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCRESAHA.126.328582"
+ },
+ {
+  "idx": 61,
+  "journal": "J Am Heart Assoc",
+  "title": "Rivaroxaban Inhibits Platelet-Driven NOX2-Dependent Oxidative Injury to Endothelium.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Endothelial dysfunction is a hallmark of cardiovascular disease, driven by oxidative stress, inflammation, and platelet activation. We hypothesized that the FXa inhibitor rivaroxaban, alone or combined with clopidogrel, could counteract platelet-induced oxidative injury to the endothelium and preserve endothelial function. METHODS: We conducted a prospective multicenter cohort clinical study in patients on chronic antiplatelet therapy (mostly aspirin) who initiated rivaroxaban, measuring indices of oxidative stress, endothelial function (nitric oxide bioavailability, ICAM-1/VCAM-1 levels), and platelet activation before and after rivaroxaban. In parallel, human endothelial cells were exposed to convulxin-activated platelet supernatants from healthy donors with or without rivaroxaban±clopidogrel, and assessed for NOX2 expression/activity, adhesion molecules, nitric oxide (NO) production, and tube-forming capacity. An ex vivo mouse model of angiotensin II-induced endothelial dysfunction was used to evaluate vascular relaxation responses after incubation with rivaroxaban and/or clopidogrel. RESULTS: Rivaroxaban significantly improved endothelial function in patients and in vitro, as shown by reduced endothelial ICAM-1 and VCAM-1 expression and increased NO availability despite platelet-derived oxidative stress. Rivaroxaban also decreased H2O2 production, downregulated endothelial NOX2 expression and sNOX2-dp release, and restored angiogenic capacity in endothelial cells exposed to activated platelets. Clopidogrel alone had negligible effects on these parameters. Notably, adding clopidogrel to rivaroxaban provided no additional endothelial benefit beyond rivaroxaban monotherapy. In an ex vivo hypertensive vessel model, rivaroxaban (but not clopidogrel) markedly improved endothelium-dependent relaxation. CONCLUSIONS: Rivaroxaban effectively preserves endothelial function by inhibiting platelet-induced NOX2-mediated oxidative stress and inflammation. The lack of any additive benefit from clopidogrel suggests that rivaroxaban alone may be mechanistically sufficient to counteract platelet-driven endothelial dysfunction. These findings reveal a novel vasoprotective mechanism for rivaroxaban and underscore its potential clinical value in mitigating vascular injury beyond its established antithrombotic effects.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.049175"
+ },
+ {
+  "idx": 62,
+  "journal": "JACC Adv",
+  "title": "Outcomes Among Patients Receiving Watchman LAAO vs Antiplatelet Therapy: A Report From the GWTG-AFIB Registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Although Watchman left atrial appendage occlusion (LAAO) was approved for patients with atrial fibrillation who can tolerate short term anticoagulation, many patients are poor candidates for any duration of anticoagulation. OBJECTIVES: The objective of the study was to compare 1-year outcomes among patients receiving Watchman LAAO vs antiplatelet monotherapy. METHODS: We performed an overlap weighted observational comparative effectiveness analysis of postdischarge outcomes among Medicare beneficiaries in the Get With The Guidelines-AFIB Registry who received LAAO or antiplatelet therapy. Cox Regression was used for all-cause mortality and cause-specific hazard models were used for nonfatal outcomes. A win ratio was calculated with the following endpoint hierarchy: 1) all-cause death; 2) stroke, systemic embolism, or transient ischemic attack (TIA); 3) major bleeding (excluding gastrointestinal bleeding); and 4) gastrointestinal bleeding. RESULTS: A total of 1,427 patients who received LAAO and 2,284 patients who received antiplatelet therapy were studied (overall median age 77 years, 49.3% female, median CHA2DS2-VASC score 5). Through the first 45 days, the adjusted risk of stroke, TIA or systemic embolism, major bleeding, or death was lower among patients who received LAAO (HR: 0.26; CI: 0.17-0.41; P < 0.001). Between 46 days and 1 year, the risk for the composite outcome was lower among patients who received LAAO (HR: 0.61; CI: 0.48-0.78; P < 0.001). The win ratio at 1 year was 2.71 (95% CI: 1.92-3.83; P < 0.0001), indicating significantly better outcomes among LAAO patients. CONCLUSIONS: Among patients with atrial fibrillation, treatment with LAAO was associated with a lower risk of stroke, TIA or systemic embolism, major bleeding, or death compared to antiplatelet therapy.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.jacadv.2026.103458"
+ },
+ {
+  "idx": 63,
+  "journal": "Atherosclerosis",
+  "title": "Prognostic significance of incident microalbuminuria in a real-world population at increased cardiovascular risk: A report from a global federated research network.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "AIM: Despite growing interest in biomarker-based risk stratification for incident heart failure (HF), the prognostic value of newly detected microalbuminuria is poorly defined. This study evaluated its association with incident HF and cardiorenal outcomes in a large real-world cohort. METHODS: A total of 985,367 patients aged 40-80 years at increased cardiovascular (CV) risk but with no prior HF or chronic kidney disease (CKD) stage ≥3 was included from the TriNetX Global Research Network. Patients with persistent normoalbuminuria (UACR <30 mg/g) were compared to those with newly detected microalbuminuria (UACR 30-300 mg/g). The primary outcome was a composite of incident HF or all-cause mortality over a maximum 5-year follow-up. Propensity score matching was performed to balance baseline characteristics. RESULTS: After matching, 150,250 patients were included in each group. Over a median follow-up of 2.5 [IQR range, 3.6] years, newly detected microalbuminuria was associated with a higher risk of the primary composite outcome (HR 1.29 [95% CI 1.25-1.34]), as well as higher incident HF (HR 1.31 [95% CI 1.26-1.36]), all-cause mortality (HR 1.43 [95% CI 1.35-1.51]), HFrEF (HR 1.61 [95% CI 1.51-1.71]), HFpEF (HR 1.37 [95% CI 1.29-1.45]), acute myocardial infarction (HR 1.33 [95% CI 1.25-1.41]), ischemic stroke (HR 1.27 [95% CI 1.20-1.35]) and increased risks of CKD progression to stage 3 (HR 2.80 [95% CI 2.67-2.93]) and stage 4 (HR 4.71 [95% CI 4.11-5.40]). In exploratory subgroup analyses, renal function showed the largest number of nominal interaction findings. CONCLUSIONS: In this real-world cohort of patients at increased CV risk, newly detected microalbuminuria was associated with higher cardiorenal risk, supporting further evaluation of UACR for early risk stratification.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.atherosclerosis.2026.121958"
+ },
+ {
+  "idx": 64,
+  "journal": "EuroIntervention",
+  "title": "Bioprosthetic valve performance of transcatheter aortic valves.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Transcatheter aortic valve implantation is used increasingly in younger patients with longer life expectancy, necessitating long-term effectiveness. Randomised clinical trials have demonstrated comparable or superior haemodynamic performance of transcatheter heart valves (THVs) to surgical aortic valve replacement over midterm follow-up. Within a lifetime management framework, haemodynamic performance and durability of THVs are central considerations in patients undergoing aortic valve replacement for severe aortic stenosis. This review provides an overview of THV design and function along with contemporary clinical evidence, with a focus on current haemodynamic assessment considerations, challenges in cross-platform interpretation of valve performance, and limitations of randomised comparative evidence, as well as future directions in the evaluation of THV performance.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.4244/EIJ-D-26-00422"
+ },
+ {
+  "idx": 65,
+  "journal": "Eur J Prev Cardiol",
+  "title": "The Electrocardiogram as a Preventive Biomarker: From Conventional Risk Markers to Actionable Artificial Intelligence - A Narrative Review.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "The electrocardiogram (ECG) is an established tool in cardiovascular prevention, identifying silent arrhythmias, hypertrophy, prior myocardial infarction, conduction disease, and inherited electrical disorders. However, conventional interpretation captures only a fraction of the information embedded in the cardiac electrical signal. Because the ECG is inexpensive, non-invasive, standardized, and already acquired at scale, it provides an attractive substrate for artificial intelligence (AI)-enabled screening and risk stratification. Deep-learning models can identify latent signatures of ventricular dysfunction, structural heart disease, atrial fibrillation, cardiomyopathy, heart failure, and mortality risk. Importantly, evidence is beginning to extend beyond retrospective validation: prospective implementation studies have increased disease detection, while randomized data suggest that AI-ECG-guided clinical alerts may improve outcomes in selected high-risk populations. Whether such benefits extend to preventive populations remains uncertain. This review examines the preventive role of conventional, ambulatory, and wearable ECGs and distinguishes AI applications for detection, prediction, prognostication, treatment selection, and longitudinal monitoring. We argue that performance metrics alone are insufficient. Preventive value requires a defined target population, calibrated and externally validated predictions, an appropriate confirmatory test, a feasible clinical workflow, and an intervention proven to improve outcomes. The most credible near-term applications are those that triage patients to established diagnostic pathways, such as echocardiography or prolonged rhythm monitoring. The central challenge is therefore to transform accurate AI-ECG predictions into actionable, affordable, scalable, safe, and equitable prevention.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag592"
+ },
+ {
+  "idx": 66,
+  "journal": "J Am Heart Assoc",
+  "title": "Exercise Dose during Cardiac Rehabilitation and Long-Term Mortality: Beyond Program Attendance.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Exercise dose in cardiac rehabilitation is commonly inferred from program attendance or changes in exercise capacity rather than quantified from achieved exercise exposure. This study examined the association between supervised exercise dose and long-term mortality and 12-month hospital readmission in patients attending outpatient cardiac rehabilitation. METHODS: This retrospective study included 1032 patients attending outpatient cardiac rehabilitation, with average follow-up of 6.9±1.7 years. Exercise dose was quantified from 10 959 supervised exercise sessions using metabolic equivalent based calculations derived from session intensity and duration, expressed as metabolic equivalent min week-1. Cox proportional hazards models examined associations between exercise dose and long-term mortality after adjustment for baseline demographics, comorbidities, and functional capacity (6-minute walk distance). Logistic regression examined 12-month readmission. Kaplan-Meier analysis examined survival across quartiles of weekly exercise dose. RESULTS: We observed separation in survival across quartiles of weekly exercise dose (log-rank χ2=20.23, P<0.001). Mortality events decreased across dose quartiles, from 48/258 (18.6%) in the lowest quartile to 13/258 (5.0%) in the highest quartile (208-367 metabolic equivalent min week-1). Higher achieved exercise dose was independently associated with lower mortality risk, although the association was attenuated after adjustment for baseline functional capacity. Baseline functional capacity was independently associated with mortality. Exercise dose was not associated with 12-month readmission. CONCLUSIONS: Achieved exercise dose during cardiac rehabilitation demonstrated a linear association with long-term mortality despite no relationship with short-term readmission. Exercise dose accrued during a relatively brief period of rehabilitation may therefore represent an important and measurable aspect of program participation associated with long-term survival.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.052310"
+ },
+ {
+  "idx": 67,
+  "journal": "Eur Heart J",
+  "title": "Environmental noise and cardiometabolic health: a transatlantic perspective.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "Environmental noise is a pervasive but under-recognized cardiovascular and metabolic risk factor. Drawing on prior expert reviews and large-scale epidemiologic and mechanistic studies, this review synthesizes evidence on the burden, major clinical associations, biological pathways, vulnerable populations, and mitigation strategies relevant to cardiovascular health. Road traffic noise is consistently and dose-dependently associated with higher risks of ischaemic heart disease, stroke, heart failure, diabetes, sleep disturbance, and adverse mental health outcomes, whereas for railway and aircraft noise, the evidence base is less consistent, although important associations are increasingly reported. Translational human imaging studies, controlled exposure experiments, and animal models converge on a common pathway in which chronic and intermittent noise exposure activates stress-responsive neural circuits, increases sympathetic and hypothalamic-pituitary-adrenal axis activity, promotes oxidative stress, endothelial dysfunction, and vascular inflammation, and may thereby accelerate cardiometabolic disease. Noise frequently co-occurs with air pollution, heat, and adverse social and built environments, particularly in socioeconomically disadvantaged communities, and these combined exposures may contribute additively to cardiovascular risk. These effects are especially relevant in urban populations with nighttime exposure and multiple co-exposures. Despite this growing evidence base, environmental noise remains largely absent from contemporary cardiovascular risk assessment tools, prevention guidelines, and routine patient counselling, representing a missed opportunity for risk reduction. Effective mitigation will require a hierarchical strategy combining source reduction, health-informed urban and transport planning, and targeted individual protection. Reducing environmental noise exposure should be recognized as an important opportunity to protect and advance cardiovascular and metabolic health in the 21st century.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurheartj/ehag885"
+ },
+ {
+  "idx": 68,
+  "journal": "Hypertension",
+  "title": "Shifting the Pressure-Natriuresis Curve: The Cellular Mechanisms of Female Renal Resilience.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Female and male kidneys exhibit markedly different patterns of transporter abundance and activity along the nephron, yet the physiological significance of the differences remains incompletely understood. Recent experimental and computational studies suggest that many of these differences can be interpreted through the lens of pressure natriuresis, the kidney's primary mechanism for long-term regulation of extracellular volume and arterial pressure. We review evidence that the female nephron exhibits a transport architecture that may facilitate enhanced pressure natriuresis and greater flexibility in effective circulating volume regulation. This framework provides new insights into sex differences in acute and chronic blood pressure control and connects pressure-natriuretic mechanisms with renal adaptations during pregnancy and lactation, hypertension, and aging.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/HYPERTENSIONAHA.126.27747"
+ },
+ {
+  "idx": 69,
+  "journal": "Circulation",
+  "title": "Immersive Reality in Cardiothoracic Surgical Education.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Immersive reality technologies, including virtual reality, augmented reality, mixed reality, and related extended reality platforms, are reforming how surgeons learn complex anatomy, rehearse procedures, develop technical skills, and manage unexpected or rare intraoperative crises. Cardiothoracic surgery is particularly well suited to these tools because postgraduate training occurs in a high-stakes environment characterized by complex 3-dimensional anatomy, limited operative exposure, minimally invasive/robotic approaches, open communication, and the need for synchronized team performance. Immersive platforms facilitate anatomy education and procedural planning and enable deliberate practice and nontechnical skills training. Although most studies remain small, heterogeneous, and focused on surrogate outcomes rather than patient outcomes, evidence from surgical education and cardiothoracic surgery literature demonstrates that these tools impart improvement in knowledge, confidence, procedural accuracy, and simulator performance. This article defines immersive reality technologies, reviews their educational rationale and emerging applications in cardiothoracic surgery, proposes an implementation framework for training programs, and highlights limitations related to haptics, validation, privacy, equity, and regulatory oversight. The next phase should focus on validation of outcome-linked curricula that integrate immersive simulation into competency-based surgical education.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.081803"
+ },
+ {
+  "idx": 70,
+  "journal": "Rev Esp Cardiol (Engl Ed)",
+  "title": "Clinical characteristics and prognosis of heart failure patients referred to cardiac rehabilitation: SEC-EXCELENTE-IC registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "INTRODUCTION AND OBJECTIVES: To assess the referral rate to cardiac rehabilitation (CR), the clinical profile of referred vs nonreferred patients, and the association between referral and clinical events in Spanish heart failure (HF) units. METHODS: The SEC-EXCELENTE-IC registry is a prospective, multicenter observational cohort of patients with HF in units accredited by the Spanish Society of Cardiology. Patients were classified according to CR referral and were followed up for up to 400 days for all-cause death, HF hospitalization or decompensation, and the combined endpoint of death or HF hospitalization, with outcomes analyzed using Cox regression. RESULTS: Of 2236 patients, 219 (9.8%) were referred to CR. Referred patients were younger (65.2  ±  11.7 vs 71.7  ±  12.2 years), more often male (73.5% vs 63.2%) and more frequently had an ischemic etiology (50.5% vs 28.8%), fewer comorbidities and more frequent use of quadruple therapy (59.4% vs 46.0%); 74.4% had HF with reduced ejection fraction (11.9% had HF with preserved ejection fraction, and 13.7% HF with mildly reduced ejection fraction). The lower crude rate of the combined endpoint (HR, 0.75; 95%CI, 0.56-1.01) was no longer observed after adjustment (HR, 0.99; 95%CI, 0.71-1.38), with consistent findings in sensitivity analyses. CONCLUSIONS: CR referral was infrequent and preferentially directed toward younger patients with ischemic HF with reduced ejection fraction, a lower comorbidity burden, and optimized therapy, whereas older patients, patients with multimorbidity, and those with HF with preserved ejection fraction remained underrepresented. The lower crude event rate was no longer observed after adjustment for measured baseline characteristics, and the observational design does not allow conclusions on the effect of CR itself.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.rec.2026.11.001"
+ },
+ {
+  "idx": 71,
+  "journal": "J Am Heart Assoc",
+  "title": "Habitual Coffee Consumption, Genetic Susceptibility, and Incident Stroke: A Prospective Cohort Study in the UK Biobank.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: The association between habitual coffee consumption and incident stroke remains uncertain. METHODS: We analyzed 490 889 UK Biobank participants without prevalent stroke. Average self-reported coffee intake across available assessments was categorized as ≤0.5, 0.6 to 1.67, 1.68 to 3.0, and >3.0 cups/d. Incident stroke was ascertained through linkage to hospital and death registries and self-reported physician diagnosis. Multivariable Cox models and restricted cubic splines characterized associations. Analyses assessed effect modification by CYP1A2 genotype and stroke polygenic risk score and used multiple-imputation and competing-risk sensitivity analyses. RESULTS: During follow-up, 22 579 incident strokes occurred. Compared with ≤0.5 cups/d, adjusted hazard ratios were 0.86 (95% CI, 0.83-0.89) for 0.6 to 1.67 cups/d, 0.92 (95% CI, 0.89-0.96) for 1.68 to 3.0 cups/d, and 0.98 (95% CI, 0.94-1.02) for >3.0 cups/d. Splines showed a nonlinear J-shaped association, with the lowest estimated risk at ∼2 to 3 cups/d. Associations were broadly consistent across CYP1A2 and polygenic-risk strata, with no significant interaction. Moderate intake was associated with lower risk among participants reporting sugar addition, whereas high decaffeinated-coffee intake was associated with higher risk. CONCLUSIONS: Moderate habitual coffee consumption was associated with lower incident stroke risk, with the lowest observed risk at ∼2 to 3 cups/d. These observational findings should not be interpreted as evidence to prescribe coffee for stroke prevention.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.052262"
+ },
+ {
+  "idx": 72,
+  "journal": "EuroIntervention",
+  "title": "Three-year outcomes of balloon-expandable valve-in-valve aortic valve implantation for failed transcatheter versus surgical valves.",
+  "ptypes": [
+   "Journal Article",
+   "Comparative Study"
+  ],
+  "abstract": "BACKGROUND: Clinical outcomes after transcatheter aortic valve (TAV)-in-TAV compared with TAV-in-surgical aortic valve (SAV) implantation for failed bioprosthetic valves have been limited to short-term outcomes. AIMS: This study compared midterm outcomes between patients undergoing TAV-in-TAV and those undergoing TAV-in-SAV. METHODS: From June 2015 to June 2024, 543 consecutive patients undergoing valve-in-valve (ViV) transcatheter aortic valve implantation (TAVI) were identified at our centre. After exclusion of ineligible patients, 109 patients undergoing TAV-in-TAV and 349 undergoing TAV-in-SAV were included. Following propensity score matching, 214 patients (107 per group) were analysed. RESULTS: Three-year all-cause mortality did not differ between the TAV-in-TAV and TAV-in-SAV groups (hazard ratio 1.06, 95% confidence interval: 0.56-1.98; p=0.867). Similarly, no significant differences were detected in secondary outcomes. Over 3 years, the aortic valve mean pressure gradient was consistently lower and the aortic valve area was consistently larger in the TAV-in-TAV group compared with the TAV-in-SAV group. Concomitant percutaneous coronary intervention (PCI) and coronary obstruction were more frequent in the TAV-in-SAV group than in the TAV-in-TAV group (22.4% vs 8.4%; p=0.006; 10.3% vs 0.9%; p=0.018, respectively). Post-ViV-TAVI computed tomography analysis showed that the waist level was the least expanded segment in both groups. However, expansion at this level was significantly greater in the TAV-in-TAV group than in the TAV-in-SAV group. CONCLUSIONS: There was no significant difference in 3-year mortality between the TAV-in-TAV and TAV-in-SAV groups. However, TAV-in-SAV was associated with higher rates of concomitant PCI and coronary obstruction, as well as lower valve expansion.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.4244/EIJ-D-26-00691"
+ },
+ {
+  "idx": 73,
+  "journal": "Eur Heart J",
+  "title": "Acute pulmonary embolism: long-term cause-specific mortality in a Chinese nationwide registry.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND AND AIMS: Long-term cause-specific mortality after acute pulmonary embolism (PE) remains poorly characterized. This study investigated cumulative mortality, temporal changes in causes of death, and associated factors in a national registry. METHODS: This registry-based cohort study consecutively enrolled 66 192 acute PE patients from 3223 Chest Pain Centres across China (2018-2023) (ClinicalTrials.gov: NCT04014972). Mortality was ascertained through national registry linkage. Cumulative incidence functions estimated temporal mortality patterns, while Fine-Gray models exploratorily examined factors associated with cause-specific mortality. RESULTS: At 60 months, cumulative all-cause mortality was 22.41% (95% confidence interval [CI] 21.92-22.91), comprising cardiovascular (CV) (11.84%, 95% CI 11.46-12.23) and non-CV mortality (10.57%, 95% CI 10.22-10.92). Causes of death varied over time: acute PE and ischaemic heart disease (IHD) predominated initially, malignancy peaked at 1-3 months, and IHD was the largest named cause in each interval beyond 12 months. Among CV deaths, IHD was the predominant cause (35.7%); malignancy (43.3%) and chronic pulmonary disease (24.6%) predominated among non-CV deaths. Men had higher cumulative CV and non-CV mortality than women; while women only had a higher proportion of CV causes among deaths. All-cause mortality increased with age (from 11.52% at <55 to 38.51% at ≥75 years); acute PE/malignancy dominated in younger patients, while CV/pulmonary disease prevailed in older ones. Exploratory analyses identified age, Western China residence, and vital signs as factors associated with mortality. CONCLUSIONS: Among patients hospitalised with acute PE, 5-year cumulative mortality was 22.4%, and nearly half of deaths were from non-CV causes. Shifting mortality patterns highlight the need to evaluate risk-adapted long-term follow-up strategies.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurheartj/ehag966"
+ },
+ {
+  "idx": 74,
+  "journal": "Eur J Prev Cardiol",
+  "title": "Effectiveness of Bariatric Surgery and Incretin-based Therapies on Cardiovascular Outcomes in Patients with Obesity: A Systematic Review and Network Meta-Analysis.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Bariatric surgery and pharmacological weight-loss therapies improve cardiometabolic risk factors. However, direct head-to-head comparisons assessing their impact on cardiovascular outcomes remain limited. We performed an exploratory meta-analysis to compare bariatric surgery and pharmacological weight-loss therapies on major clinical outcomes in adults with obesity. METHODS: A systematic literature search using PubMed and Scopus databases was conducted. Randomized and observational studies comparing bariatric surgery or incretin receptor agonists with controls were included in the analysis. The primary outcomes were all-cause mortality and MACE. A frequentist random-effects network meta-analysis was conducted across three nodes. RESULTS: A total of 40 studies, comprising more than 1.9 million patients, were included in the meta-analysis. Compared with control, bariatric surgery was associated with a significant reduction in all evaluated outcomes, including all-cause mortality (HR:0.57, 95%CI:0.51-0.65), MACE (HR:0.54, 95%CI:0.45-0.64), cardiovascular mortality, heart failure hospitalization, myocardial infarction, and stroke. Incretin receptor agonists were also associated with lower all-cause mortality (HR:0.62, 95%CI:0.52-0.74), lower MACE (HR:0.75, 95%CI:0.61-0.92) and reduced heart failure hospitalization. All-cause mortality-representing the most direct and clinically relevant endpoint-did not differ significantly between the two strategies in the exploratory network meta-analysis. Importantly, the network estimates should be cautiously interpreted, given the predominance of observational evidence, substantial heterogeneity, and very low confidence across all comparisons. CONCLUSION: Bariatric surgery and incretin receptor agonists are associated with substantial reductions in major cardiovascular outcomes in adults with obesity. In head-to-head comparisons, no significant differences were observed in all-cause mortality and stroke. Both strategies provide clinically meaningful benefits.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/eurjpc/zwag588"
+ },
+ {
+  "idx": 75,
+  "journal": "Heart Rhythm",
+  "title": "CTA-Guided Anatomical Targeting for Bachmann's Bundle Pacing: First-in-Human Study.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Bachmann's bundle pacing (BBP) is an emerging physiological atrial pacing strategy, but implantation relies on fluoroscopic landmarks and iterative electrophysiological mapping. Whether patient-specific computed tomography angiography (CTA) can facilitate anatomical targeting of Bachmann's bundle has not been investigated. OBJECTIVE: To evaluate the feasibility, safety, procedural performance, and anatomical impact of CTA-guided anatomical targeting for BBP. METHODS: This retrospective, single-center, first-in-human study compared 49 consecutive patients undergoing CTA-guided BBP with 28 undergoing conventional electrogram- and fluoroscopy-guided implantation. RESULTS: Using predefined electrocardiographic criteria, successful BBP was achieved in 65 of 77 patients (84%) and was higher with CTA guidance (92% vs. 71%; P=0.024). CTA-guided implantation resulted in a different distribution of final lead positions, with more leads at the predefined B2-B3 target than with the conventional approach (76% vs. 42%; P=0.006; odds ratio 4.20; 95% CI, 1.52-11.60). CTA guidance reduced implantation time (median 2.0 [1.0-3.0] vs. 4.0 [3.0-7.0] minutes; P<0.001), fluoroscopy time (0.4 [0.2-0.6] vs. 1.6 [1.1-2.9] minutes; P<0.001), and lead deployment attempts (1.0 [1.0-2.0] vs. 2.0 [1.8-3.2]; P=0.001), and increased first-pass success (67% vs. 25%; P<0.001). In patients with successful BBP (n=65), BBP shortened P-wave duration in all cases (161±13 to 142±15 ms; relative reduction 11.6±4.4%; P<0.001), with similar reductions irrespective of implantation strategy. No acute lead-related complications occurred, and electrical performance remained stable during short-term follow-up. CONCLUSIONS: CTA-guided anatomical targeting for BBP is feasible and safe. Compared with conventional implantation, this anatomy-first strategy improves procedural efficiency, supporting anatomical guidance as a feasible approach to physiological atrial pacing.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1016/j.hrthm.2026.11.023"
+ },
+ {
+  "idx": 76,
+  "journal": "Europace",
+  "title": "Evaluation of the ESC Guideline based risk stratification of syncope patients in the emergency department A post-hoc analysis of the SYNERGY-trial.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Syncope accounts for approximately 1% of all emergency department(ED) visits. With 1-year mortality rates reaching up to 33% in certain arrhythmogenic aetiologies, adequate assessment in the ED is imperative. The risk stratification as described in the 2018 European Society of Cardiology(ESC) guidelines on syncope is widely used in clinical practice, but has never been validated. We therefore aimed to determine the ability to identify cardiac syncope of the composite guideline-based RISC-score, and investigate the association of individual risk-features and cardiac aetiology. METHODS: 520 patients presenting with syncope to the ED of five Dutch hospitals were included. Adjudicated diagnoses were established by a multidisciplinary expert-panel following one-year of critical follow-up. ED-documentation was analyzed for the presence of guideline risk-features. Overall discriminative ability of the guideline-based RISC-score was evaluated using receiver-operating-characteristic(ROC) curve-analysis. Uni- and multivariate logistic regression analyses were performed to assess the predictive ability of the individual risk-features. RESULTS: 50 patients(9.6%) were adjudicated with a cardiac aetiology of syncope. The RISC-score demonstrated excellent discriminative ability with an area-under-the-curve(AUC) of 0.928. The guideline based cut-off threshold of 2 points yielded a sensitivity of 96.0%, a specificity of 78.5%, a positive predictive value of 33.2% and a negative predictive value of 99.5%. Multivariate regression analysis identified age, no warning-symptoms, angina pectoris, unevaluated systolic murmur, atrial fibrillation, syncope during exertion and bifascicular-block as independent predictors of cardiac syncope. CONCLUSION: The ESC-guideline based RISC-score can be reliably and safely used for excluding a cardiac aetiology of syncope in patients in the ED.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1093/europace/euag331"
+ },
+ {
+  "idx": 77,
+  "journal": "Circulation",
+  "title": "Degenerative Mitral Regurgitation: From Prolapse to Precision Therapy.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "abstract": "Degenerative mitral valve regurgitation due to mitral valve prolapse affects ≈15 million people globally and is the commonest indication for mitral intervention in high-income countries, but its biology, natural history, and lifetime management are ill defined. This review summarizes current knowledge of the epidemiology, pathophysiology, diagnosis, risk stratification, and lifetime management of degenerative mitral regurgitation, with a focus on areas of uncertainty, recent advances, and emerging research directions. These include translational research focused on determining genetic and cellular drivers of disease progression and mechanistic studies geared to improve detection and prevention of downstream myocardial dysfunction, particularly in high-risk phenotypes, including arrhythmic mitral prolapse. The current landscape of randomized trials and large registries comparing contemporary surgical and transcatheter treatment and strategies to improve patient access to care and outcomes across all patient risk profiles and populations are also discussed.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/CIRCULATIONAHA.126.081203"
+ },
+ {
+  "idx": 78,
+  "journal": "EuroIntervention",
+  "title": "Early outcomes of tricuspid valve replacement in patients with tricuspid regurgitation: the Trisol Early Feasibility Study.",
+  "ptypes": [
+   "Journal Article",
+   "Multicenter Study"
+  ],
+  "abstract": "BACKGROUND: Transcatheter tricuspid valve replacement (TTVR) could lead to a paradigm shift in treating tricuspid regurgitation (TR) and improving patient quality of life. AIMS: We aimed to report the 30-day outcomes of the Trisol Early Feasibility Study (EFS). METHODS: The Trisol EFS was a single-arm, multicentre study that enrolled patients with symptomatic ≥severe TR despite optimal medical therapy to undergo TTVR with the Trisol system via transjugular access. The primary safety endpoint was the rate of device-related serious adverse events, including death, myocardial infarction, disabling stroke, life-threatening bleeding, renal failure requiring dialysis, and the need for surgery. The primary performance endpoints included technical and procedural success, while secondary endpoints included echocardiographic as well as functional and quality-of-life measures. RESULTS: A total of 19 patients, who were treated with a latest-generation Trisol 12-anchor valve, were included from August 2023 to September 2025. The mean age was 75.8 years (range 62 to 91), 78.9% were female, and 78.9% were in New York Heart Association (NYHA) Class III or IV. TR was reduced to mild or less in 87.5% of the subjects and moderate or less in 100% of the subjects. The 30-day composite major adverse event rate was 10.5% (2/19) due to one cardiovascular death and one pacemaker implantation. No other complications were observed. NYHA Class significantly improved to Class I/II (87.5%), and the Kansas City Cardiomyopathy Questionnaire score improved by a mean of 13.6±34.6 points. CONCLUSIONS: In this early clinical experience, the Trisol TTVR system demonstrated technical feasibility, overall safety, significant TR reduction, and the ability to improve quality of life and functional status in TR patients.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.4244/EIJ-D-26-00541"
+ },
+ {
+  "idx": 79,
+  "journal": "J Am Heart Assoc",
+  "title": "Psychological Assets and Cardiovascular Health in Adulthood: A Mixed Methods Investigation.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "abstract": "BACKGROUND: Psychological risk factors like depression increase risk for poor cardiovascular outcomes but psychological assets like purpose in life are protective and linked to reduced risk of cardiovascular events. However, most assets are investigated individually, and not all have been explored in relation to cardiovascular health (CVH). This study used mixed methods to assess multiple psychological assets and evaluate associations with CVH 12 years later. METHODS: Data came from 2092 participants in the National Child Development Study. At age 50 years, participants wrote open-ended responses describing their futures. Two trained researchers qualitatively coded each response by rating them for 7 commonly assessed psychological assets (1=not at all; 7=very): optimism, purpose, satisfaction, personal growth, agency, enjoyment, and overall positivity. At age 62, CVH behavioral factors (exercise, smoking status, sleep) were self-reported; CVH clinical factors (blood pressure, lipids, glucose, body weight) were measured during nurse visits. Following Life's Essential 8 guidelines, CVH components were combined into total CVH scores. Linear regressions examined associations between each age 50 asset and age 62 CVH scores, adjusting for age 50 confounders. RESULTS: All age 50 assets were positively associated with better CVH scores 12 years later, accounting for sociodemographic characteristics and word counts (p≤0.05). Purpose (b=0.81 [95% CI, 0.33-1.29]) and personal growth (b=0.82 [95% CI, 0.34-1.20]) showed the strongest associations with CVH in fully adjusted models. CONCLUSIONS: Higher levels of most midlife psychological assets were linked with better CVH over time, suggesting multiple paths to health protection. These findings highlight assets that could be prevention targets.",
+  "oblig": false,
+  "noabs": false,
+  "doi": "10.1161/JAHA.126.052002"
+ }
+]
