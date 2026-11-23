@@ -43,11 +43,43 @@ def copy_if_new(src, dst):
     shutil.copy2(src, dst)
     return True
 
+def recupera_pull(rc, out, err):
+    """Intenta desbloquear un `git pull` que choca con ficheros sin seguimiento.
+
+    Ocurrio de verdad el 09/11/2026: la nube publico unos scripts que ya existian
+    en el Mac sin versionar, git aborto el merge y el usuario se quedo sin su
+    numero. Aqui se apartan esos ficheros a una carpeta de cuarentena (con `mv`,
+    NUNCA `rm`: el pipeline tiene prohibido borrar) y se reintenta UNA vez.
+    """
+    texto = (err or "") + (out or "")
+    if "untracked working tree files would be overwritten" not in texto:
+        return rc, out, err
+    estorban = []
+    for linea in texto.splitlines():
+        f = linea.strip()
+        if f.startswith(("\t", " ")) or (f and not f.endswith(":") and "/" in f or f.endswith((".py", ".json", ".html"))):
+            cand = os.path.join(REPO, f.lstrip("\t "))
+            if os.path.isfile(cand):
+                estorban.append(f.lstrip("\t "))
+    if not estorban:
+        return rc, out, err
+    cuarentena = os.path.join(HOME, "Library/Application Support/briefing-sync/apartados",
+                              datetime.datetime.now().strftime("%Y%m%d-%H%M%S"))
+    for f in estorban:
+        dst = os.path.join(cuarentena, f)
+        os.makedirs(os.path.dirname(dst), exist_ok=True)
+        shutil.move(os.path.join(REPO, f), dst)
+        log(f"  apartado (no borrado) para desbloquear el pull: {f}")
+    log(f"  copia de lo apartado en: {cuarentena}")
+    return run(["git", "pull", "--ff-only"], cwd=REPO)
+
 def main():
     if not os.path.isdir(REPO):
         log(f"ERROR: no existe el repo {REPO}"); return 1
 
     rc, out, err = run(["git", "pull", "--ff-only"], cwd=REPO)
+    if rc != 0:
+        rc, out, err = recupera_pull(rc, out, err)
     if rc != 0:
         # NO abortar. Un pull fallido (sin red, ficheros sin seguimiento que
         # estorban al merge, conflicto) no debe impedir colocar lo que YA esta
