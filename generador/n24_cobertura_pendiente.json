@@ -99,5 +99,23 @@
    "doi": "10.1093/eurjpc/zwag540",
    "motivo": "fuera de periodo: published-online 2026-11-23 (corresponde a N25)"
   }
- ]
+ ],
+ "resultado_mac": {
+  "fecha": "2026-11-23",
+  "incorporados": [
+   "a48 10.1016/j.atherosclerosis.2026.121960 (sec 4)",
+   "a49 10.1016/j.atherosclerosis.2026.121966 (sec 3)"
+  ],
+  "fuente_abstract": "OpenAlex (abstract del editor); PubMed aún sin indexar; el editor tras Cloudflare",
+  "sin_abstract": [
+   "10.1016/j.atherosclerosis.2026.121969",
+   "10.1016/j.atherosclerosis.2026.121970",
+   "10.1016/j.atherosclerosis.2026.121959",
+   "10.1016/j.atherosclerosis.2026.121971",
+   "10.1016/j.atherosclerosis.2026.121972",
+   "10.1016/j.jcin.2026.11.005",
+   "10.1016/j.jcin.2026.08.013"
+  ],
+  "nota": "Los 7 sin abstract se registran en la auditoría como descartados (sin resumen). Los dos de JACC Cardiovasc Interv sobre TTVR podrían competir en Valvulopatías si PubMed los indexa: revisar."
+ }
 }

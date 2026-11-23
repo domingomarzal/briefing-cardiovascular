@@ -311,5 +311,27 @@
   "a41",
   "a44",
   "a46"
- ]
+ ],
+ "revision_mac": {
+  "fecha": "2026-11-23 10:15-10:45",
+  "metodo": "Chrome real (Control_Chrome), 47 enlaces de 4 en 4",
+  "ok": 39,
+  "rotos_page_not_found": [
+   "a2",
+   "a21",
+   "a27",
+   "a29",
+   "a33",
+   "a34",
+   "a46"
+  ],
+  "accion": "enlaces_directos.py 24 --pii a2 a21 a27 a29 a33 a34 a46 -> ScienceDirect",
+  "sin_confirmar": [
+   "a22 (ScienceDirect, se queda en el reto de Cloudflare)",
+   "destinos ScienceDirect de los 7 rotos (mismo reto de Cloudflare en esta sesión)"
+  ],
+  "nuevos": [
+   "a48 y a49 (Atherosclerosis) abren bien"
+  ]
+ }
 }
