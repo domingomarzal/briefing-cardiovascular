@@ -443,6 +443,16 @@ unos ficheros sin seguimiento bloquearon el merge y el usuario se quedó sin sus
 ficheros teniendo el número en el disco. Ahora el pull fallido solo deja un AVISO
 en el log y la colocación sigue con lo que haya en el repo local. NO lo revierta.
 
+🖥️ LA COPIA DEL ESCRITORIO SE REFRESCA SI EL NÚMERO SE CORRIGE (23/11/2026).
+El Escritorio recibe el «Cardio al día» UNA sola vez por número, y si el usuario
+lo borra NO se repone: eso lo decide él. Pero el 23-nov salió el defecto: la copia
+se dejó a las 08:56 y el Destacado del N24 se rehizo a las 10:20, así que en el
+Escritorio quedó la versión vieja y el marcador `.desk_N<n>` impedía corregirla.
+Ahora `sync.py` compara contenidos: si la copia SIGUE en el Escritorio y difiere
+de la de UICAR, la actualiza; si no está, no la repone. Regla al corregir un número
+a mano: después de publicar, ejecuta `sync.py` para que las tres rutas queden con
+la versión buena. No basta con regenerar el HTML en el repo.
+
 ⏱️ ESTA TAREA PASA A SER SUPERVISORA, Y CORRE DOS VECES (lunes 10:00 y 14:00).
 Motivo del cambio de hora: el 23-nov la nube terminó de publicar a las **08:51**,
 y la tarea del Mac disparaba a las 08:30 — antes de que el número existiera. A las

@@ -125,6 +125,16 @@ def main():
                 open(marker, "w").close()          # marca: ya se puso una vez
                 log(f"  N{n}: copia de comprobacion en el Escritorio")
                 copied_any = True
+            elif (os.path.exists(uic) and os.path.exists(desk)
+                  and not filecmp.cmp(uic, desk, shallow=False)):
+                # El numero se CORRIGIO despues de dejar la copia. Paso el 23/11/2026:
+                # el Escritorio recibio el N24 a las 08:56 y el Destacado se rehizo a
+                # las 10:20, asi que la copia se quedo con la version vieja y el marcador
+                # impedia reponerla. Si la copia sigue ahi, se refresca; si el usuario la
+                # borro, NO se repone (eso lo decide el).
+                shutil.copy2(uic, desk)
+                log(f"  N{n}: copia del Escritorio actualizada (el numero se corrigio)")
+                copied_any = True
 
     if nuevos:
         avisa(max(nuevos))
