@@ -29,15 +29,8 @@ PASO 0.0 — ⭐ GUARDIA DEL CAMBIO HORARIO (regla dura del usuario, 31/08/2026)
 
 PASO 0 — SINCRONIZACIÓN CON LA NUBE (regla dura del usuario, 31/08/2026). El número lo genera y publica la ROUTINE EN LA NUBE los lunes a las 08:00 hora de Madrid. Esta tarea local YA NO es la que genera: es el BRAZO LOCAL que coloca los ficheros y la RED DE SEGURIDAD si la nube falla. Haz SIEMPRE esto ANTES que nada:
   0.1. Ejecuta `python3 "$HOME/Library/Application Support/briefing-sync/sync.py"`. Ese script hace `git pull` del repo y coloca automáticamente, para CADA número publicado que falte en local: el Briefing y la Auditoría en su subcarpeta `Briefing Cardiovascular_N<n>/`, y el `Cardio al día_N<n>.html` en `~/Documents/UICAR/Cardio al dIA/` más una copia de comprobación en el Escritorio (solo del número más reciente y solo una vez: si el usuario la borra, NO se vuelve a poner). Es idempotente y no escribe en el repo. Su log está en `~/Library/Logs/briefing-sync.log`.
-  0.1.b ⭐⭐ RECOLOCA SIEMPRE, SIN CONDICIONES (regla dura del usuario, 12/10/2026, dicha con enfado y con razón: «siempre lo haces tú… no entiendo por qué no lo haces»). Justo DESPUÉS del PASO 0.1 ejecuta **SIEMPRE**, sin preguntar y sin pararte a decidir si hace falta:
-       `python3 <repo>/generador/recolocar_mac.py --pull`
-       Sin número recoloca los **2 últimos** números publicados (`--ultimos K` para más). Compara el contenido (SHA-256) del repo con cada destino y sobrescribe con `shutil.copy2` SOLO lo que de verdad ha cambiado: si todo está al día no hace nada y lo dice («YA AL DÍA»). Nunca usa `rm`. La copia del Escritorio solo se REFRESCA si ya había una (si el usuario la borró no se resucita; `--escritorio` la fuerza). `--dry-run` enseña lo que haría.
-       ⛔ POR QUÉ ES INCONDICIONAL: `sync.py` coloca «para CADA número publicado que **FALTE** en local», o sea que es idempotente **por existencia, no por contenido**. Si un número ya se colocó y DESPUÉS se corrige y se republica —cambio de Destacado o de titulares por decisión del usuario, una deduplicación, un linkfix, una recuperación de cobertura—, sync.py lo ve «ya colocado» y **NO lo refresca nunca**: la subcarpeta, UICAR y el Escritorio se quedan con la versión VIEJA mientras la web en vivo ya está corregida. Es un fallo SILENCIOSO y de los peores que puede dar este pipeline, porque el usuario abre el fichero de su carpeta —no la web— y ve el número equivocado sin ningún aviso. Pasó con N18: el usuario cambió el Destacado por la tarde, la nube republicó, y sus tres copias locales se quedaron con el Destacado anterior.
-       ⛔ NO LO CONVIERTAS EN CONDICIONAL. No lo pongas detrás de un «si se ha regenerado»: no hay forma fiable de saberlo desde el Mac sin comparar contenido, y comparar contenido es exactamente lo que hace el script. Ejecutarlo siempre es barato y es lo que hace el sistema auto-reparable.
-       ⛔ Y JAMÁS le pidas al usuario que lo lance él en Terminal. Colocar los ficheros es trabajo de esta tarea, no suyo.
-       ⚠️ SI ERES LA NUBE: no puedes colocar nada (no hay acceso al disco del Mac) y la tarea local del Mac NO está registrada como Routine de la nube, así que tampoco puedes dispararla. Cuando corrijas un número que el Mac YA había colocado, NO cierres diciendo «lo único pendiente es colocar los ficheros, lo hace solo al encenderse»: di que las copias locales se han quedado obsoletas y que la tarea del Mac las refrescará con `recolocar_mac.py` en su próxima ejecución.
   0.2. Comprueba si el número de ESTA semana (calculado como manda el PASO 1) ya existe en el repo (`n<n>/index.html`). 
-       · SI EXISTE (caso normal: lo hizo la nube) → NO regeneres NADA. Los PASOS 0.1 y **0.1.b** ya han colocado los ficheros Y han refrescado los de un número que se hubiera corregido después de colocarse (no te fíes de que 0.1 baste: sync.py se salta los números que ya existen en local, aunque hayan cambiado). Comprueba solo que el borrador de Gmail existe (la nube también lo crea; si ya está, NO crees otro: el conector no puede borrar duplicados) y pasa directamente al PASO 9 para informar.
+       · SI EXISTE (caso normal: lo hizo la nube) → NO regeneres NADA. El PASO 0.1 ya ha colocado los ficheros. Comprueba solo que el borrador de Gmail existe (la nube también lo crea; si ya está, NO crees otro: el conector no puede borrar duplicados) y pasa directamente al PASO 9 para informar.
        · SI NO EXISTE → ⚠️ NO generes todavía. Esta tarea puede dispararse mientras la nube AÚN ESTÁ TRABAJANDO (arranca a las 08:00 y un número completo puede llevarle 20-40 min); si generas en paralelo, duplicas el trabajo y provocas conflictos en el repo. Haz esto:
          (a) Si es LUNES y aún no son las 12:00 de Madrid → ESPERA a la nube: repite `git fetch origin main` y comprueba `n<n>/index.html` cada 5 minutos, hasta 60 minutos. En cuanto aparezca, vuelve al PASO 0.1 (coloca los ficheros) y sigue por la rama «SI EXISTE».
          (b) Si tras esa espera sigue sin existir, o si ya han pasado las 12:00 de Madrid, o si es otro día de la semana → entonces sí eres la RED DE SEGURIDAD: ejecuta el pipeline COMPLETO (PASOS 1 a 8) y dilo claramente en el resumen para que el usuario sepa que la nube no cumplió.
@@ -89,11 +82,7 @@ PASO 1b — RED DE SEGURIDAD POR CROSSREF PARA NEJM, LANCET Y EUROINTERVENTION (
     · Lo que SÍ funciona es **`curl` con User-Agent de navegador** contra la URL del editor, que devuelve HTTP 200 con la página completa:
       `curl -sL -A "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36" "https://eurointervention.pcronline.com/doi/10.4244/<ID>" -o art.html`
       El abstract completo y estructurado está en el `<meta name="citation_abstract">` (y, si no, en la sección `abstract` del HTML).
-    · ⛔ ACTUALIZADO EL 21/09/2026 (N15): **el editor YA NO publica `citation_abstract`**. Los únicos `<meta>` que quedan son `citation_author`, `citation_doi`, `description`, `og:*` y `twitter:*`. Si buscas `citation_abstract` obtendrás CERO y creerás que la página no trae abstract — que es exactamente lo que le pasó a la nube en N15 y por lo que la revista entera se quedó fuera del número. **El abstract SIGUE ESTANDO en el cuerpo del HTML**: búscalo por el literal `>Abstract<` y quédate con el texto que va detrás (unos 9.000 caracteres bastan), limpiando etiquetas; empieza en «Background:» y termina en «Conclusions: …», justo antes de «Sign in to read the full article». El `<meta name="description">` da además un resumen de una línea, útil para comprobar que has cogido el artículo correcto.
-    · ⛔ **EuroIntervention YA NO SE SIRVE DESDE SCIENCEDIRECT** (verificado 21/09/2026): Crossref declara como `resource.primary.URL` la web propia de la revista (`eurointervention.pcronline.com/doi/<ID>`), NO linkinghub, y estos DOI son `10.4244`, no `10.1016`, así que **no hay PII que buscar**. `enlaces_directos.py` tiene desde N15 una rama propia que los manda a la web del editor; los 4 de N15 se abrieron en Chrome real y redirigen limpiamente a la URL canónica del artículo.
-    · ⚠️ LA NUBE NO PUEDE HACER ESTO: su egreso no alcanza `eurointervention.pcronline.com` (igual que no alcanza jacc.org ni sciencedirect.com). Si la nube te deja artículos de EuroIntervention en `n<N>_euro.json` con el campo `abstract` VACÍO, **no están descartados por la regla del abstract: están pendientes de que el Mac los recupere**. Compruébalo siempre: en N15 eran 4 originales que entraban en tres secciones distintas.
     · La propia página declara el TIPO en un rótulo de cabecera («CONSENSUS DOCUMENT», «ORIGINAL RESEARCH», «EDITORIAL»): úsalo para cribar — los editoriales que acompañan a cada original se descartan por tipo, como en NEJM.
-    · FECHA DE VENTANA: el fascículo que la página muestra («Volume 22 Number 18, Sep 21, 2026») es la fecha NOMINAL del número, y puede caer FUERA de la ventana aunque el artículo sea de ella. Manda la fecha de publicación online, que para esta revista se lee en el `created` de Crossref (su `published-online` solo tiene granularidad de mes). En N15, fascículo del 21-sep pero depósito del 15-sep → dentro de la ventana 14-20.
   NOTA sobre `check_links.py`: sus avisos de «DOI NO REGISTRADO» al validar el número entero son **falsos positivos por rate-limiting de Crossref** — señalan un artículo distinto en cada pasada. Antes de tocar nada, comprueba ese DOI SUELTO (`curl` a `api.crossref.org/works/<doi>`): si da HTTP 200, el enlace es bueno y no hay que hacer linkfix.
 
 PASO 2 — FILTRADO POR TIPO Y REGLA DEL ABSTRACT (regla dura del usuario, 12/06/2026). SOLO son ELEGIBLES: ensayos clínicos, metaanálisis, revisiones sistemáticas y narrativas, investigación original, registros y estudios de cohorte/observacionales/diagnósticos, y guías/documentos de consenso o posición (incl. Scientific Statement). DESCARTA SIEMPRE por tipo: editoriales, CARTAS DE INVESTIGACIÓN (research letters), comentarios/respuestas, PUNTOS DE VISTA (viewpoint), correcciones/erratas, perfiles, imágenes clínicas, casos aislados, REPORTES BREVES y ciencia básica sin traslación. REGLA DEL ABSTRACT: si un artículo que por relevancia debería entrar NO tiene abstract en PubMed, se DESCARTA (la ausencia de abstract = no es un artículo de peso para el briefing; NO se rellenan fichas sin fuente). Verifica el tipo con article_types de get_article_metadata.
@@ -104,16 +93,6 @@ PASO 2 — FILTRADO POR TIPO Y REGLA DEL ABSTRACT (regla dura del usuario, 12/06
   ESTRUCTURA FIJA (jun 2026; MATIZADA 31/08/2026 por la INCLUSIÓN OBLIGATORIA — si una sección tiene más de 5 documentos de inclusión obligatoria se amplía para mostrarlos todos, ver «REGLAS DE ENCAJE»): TOP 5 POR SECCIÓN = 50 artículos (las 10 secciones aparecen SIEMPRE, cada una con sus 5 mejores por puntuación TOTAL, ya sean Imprescindible/Relevante/Complementario). NO hay sección de "Guías": las guías y consensos se colocan en su sección temática (p. ej. la guía CKM → Cardiometabolismo). Aplica TODOS los criterios de priorización (factor de impacto + Medscape + congresos + Editor's Choice/Top Journal Scans + difusión por cuentas verificadas) para ordenar dentro de cada sección y elegir el Destacado y el Top 3. Si una sección es pobre esa semana, sus puestos 4-5 pueden ser Complementarios, pero SIEMPRE artículos ELEGIBLES y CON abstract (ver PASO 2): NUNCA rellenes con editoriales/cartas/comentarios/reportes breves ni con artículos sin abstract. Si una sección no reúne 5 elegibles, déjala con los que haya (2-4) — mejor menos que meter no elegibles. REGLA 0-1 (orden del usuario, jun 2026): las 10 secciones se muestran SIEMPRE; una sección que esa semana quede con 0 artículos elegibles NO se omite: aparece con la nota «Sin novedades relevantes esta semana.» (clase .nonews) en lugar de fichas (con 1 o más, se muestran sus fichas). NUNCA rellenes para forzar 5. ETIQUETAS EN FORMATO FRASE (orden del usuario, jun 2026): ningún texto en mayúsculas sostenidas — nombres de sección, tipo de estudio (sobre el título) y el tipo en los pop-up van con solo la inicial en mayúscula (sin text-transform:uppercase en .ptype/.modal-type/.t3s/.d-kicker/.indice h3).
   PREMISA FIJA: TODO artículo de medicina cardiovascular publicado en "N Engl J Med" o "Lancet" se incluye SIEMPRE en el briefing (son generalistas de máximo impacto; si publican algo CV es porque es importante). No descartes ninguno de esas dos revistas salvo que claramente no sea cardiovascular.
   ⭐ INCLUSIÓN OBLIGATORIA — LISTA CERRADA (regla dura del usuario, 31/08/2026). Entran SIEMPRE en el briefing, sin excepción y sin que compitan por plaza: (a) TODO artículo de medicina cardiovascular publicado en **N Engl J Med** o **Lancet**; (b) TODA **Guía de práctica clínica**, **Scientific Statement**, **Documento de consenso** (Clinical Consensus Statement / Position Statement), **definición universal** o documento equivalente de las principales sociedades científicas: **ESC** (y sus asociaciones: EHRA, HFA, EAPC, EACVI, EAPCI…), **ACC**, **AHA**, **SEC**, así como los documentos conjuntos entre ellas. Estos documentos son los que fijan la práctica clínica: son la razón de ser del briefing.
-  ⭐ (c) LOS INFORMES OFICIALES DE LOS REGISTROS NACIONALES DE LA SEC (regla dura del usuario, 21/09/2026, dicha con preocupación: «son artículos realmente muy, muy importantes; no sé por qué los has descartado»). Entran SIEMPRE, sin competir por plaza: **Registro Español de Marcapasos**, **Registro Español de Desfibrilador Automático Implantable**, **Registro Español de Trasplante Cardiaco**, **Registro Español de Hemodinámica y Cardiología Intervencionista** y los demás informes oficiales anuales de las asociaciones de la SEC, publicados en Rev Esp Cardiol. Son los documentos que describen la actividad cardiológica REAL de España, y para el usuario son material de referencia obligada.
-    ⛔ QUÉ PASÓ EN N15 y por qué existe esta regla: los tres informes (marcapasos, DAI y trasplante) SÍ estaban en el corpus, SÍ tenían abstract y SÍ llegaron al pool de elegibles. Se perdieron en la ponderación: quedaron fuera del top-5 de su sección porque se les puntuó como registros descriptivos cualesquiera. **No fue un fallo de búsqueda sino de criterio.** Al ponderarlos, ten presente que su REL y su REP son altas por ser la referencia nacional, aunque su CAMBIO sea bajo: un registro nacional de la SEC no compite con un estudio observacional extranjero de la misma puntuación nominal.
-    SECCIÓN: marcapasos y desfibriladores → **Arritmias y electrofisiología**; trasplante → **Insuficiencia cardíaca**; hemodinámica → **Cardiología intervencionista**.
-
-  ⛔ FUERA DEL ALCANCE: LO CEREBROVASCULAR Y LO CAROTÍDEO (regla dura del usuario, 21/09/2026). Esto es un briefing **para cardiólogos**. La enfermedad carotídea y su revascularización —endarterectomía, stent carotídeo, y los ensayos tipo CREST— **NO tienen interés para la audiencia y NO entran**, por buena que sea la revista y por alto que puntúen en la rúbrica. En N15 se colaron CREST-2 y su subestudio CREST-H (JAMA), y uno llegó a ocupar puesto en «No te los puedes perder»; el usuario los mandó retirar. Criterio operativo: el ictus y la enfermedad carotídea solo entran cuando el artículo trata del **corazón** como origen o como diana del tratamiento (fibrilación auricular y anticoagulación, cierre de orejuela, foramen oval permeable, endocarditis, miocardiopatías embolígenas). Un artículo cuyo objeto es la arteria carótida, el parénquima cerebral o el manejo del ictus agudo se descarta con el motivo «fuera del alcance: no cardiológico».
-
-  ⭐ NO TE FÍES SOLO DEL `edat` DE PUBMED EN LAS REVISTAS NUCLEARES (regla dura del usuario, 21/09/2026; nace de que en N15 **JACC se quedó con CERO artículos**). PubMed solo indexó 6 registros de J Am Coll Cardiol en la ventana —3 editoriales, 2 cartas y un metaanálisis que además se descartó por error pese a tener abstract—, y el número salió sin un solo artículo de una de las tres revistas más importantes de la especialidad. El usuario lo detectó mirando el sumario: «no puedo creer que JACC, y estas otras revistas que son críticas en cardiología, no tengan ningún artículo».
-    OBLIGATORIO CADA SEMANA: para **J Am Coll Cardiol**, **Eur Heart J** y **Circulation**, si la búsqueda por `edat` devuelve menos de ~3 artículos ELEGIBLES (no cuentes editoriales ni cartas), comprueba el **sumario del fascículo en curso** antes de cerrar el número. El fascículo se publica dentro de la ventana aunque sus artículos salieran «online first» semanas antes, y el PASO 1 ya admite el fascículo como criterio de pertenencia (la verificación en la web del editor PRIMA sobre el ArticleDate).
-    CÓMO: el sumario de JACC (`https://www.jacc.org/toc/jacc/current`) NO se puede leer con `curl` (Cloudflare, HTTP 403) y Chrome se cierra al intentar leerlo; lo que SÍ funciona es **Crossref filtrando por fecha de publicación y agrupando por volumen/issue**: `https://api.crossref.org/journals/0735-1097/works?filter=from-pub-date:<AAAA-MM-01>,until-pub-date:<AAAA-MM-DD>,type:journal-article&rows=120&select=DOI,title,volume,issue,published-online,published-print&sort=published&order=desc`. El fascículo en curso es el que contiene los DOI que Crossref depositó dentro de la ventana. ISSN: JACC 0735-1097 · Eur Heart J 0195-668X · Circulation 0009-7322.
-    ⚠️ COMPRUEBA SIEMPRE QUE NO ESTÁN YA PUBLICADOS antes de incorporarlos: el fascículo reúne artículos que salieron online en semanas anteriores y que el briefing ya cubrió en su momento. Cruza el DOI contra los `n*_data.json` de todos los números previos. En N15, de los candidatos del fascículo de JACC, la Quinta Definición Universal de IAM ya había salido en N12, los dos ACC Scientific Statements en N4 y el del atleta táctico en N13: incorporarlos habría sido duplicar. Entraron solo los 5 que nunca habían salido.
   REGLAS DE ENCAJE (para que la inclusión obligatoria no rompa la estructura):
    1. Van a su SECCIÓN TEMÁTICA como cualquier otro artículo (no hay sección de guías).
    2. TOPE DE SECCIÓN AMPLIABLE (decisión del usuario, 31/08/2026): la norma general sigue siendo 5 artículos por sección, PERO si en una sección hay MÁS de 5 artículos de inclusión obligatoria, la sección se AMPLÍA para mostrarlos TODOS. Nunca se deja fuera un documento de inclusión obligatoria por falta de plaza. Los NO obligatorios siguen limitados a completar hasta 5.
@@ -422,3 +401,67 @@ casi con seguridad porque `rm` está en la lista `ask` de settings.json y una ej
 desatendida no puede confirmarlo (el mismo motivo por el que el pipeline usa `mv` y
 nunca `rm`). Con N6…N13 publicados, la migración está más que validada: el backup se
 movió a la Papelera el 07/09/2026. NO hay que volver a crearlo.
+
+═══════════════════════════════════════════════════════════════════════════
+PASO 12 — ⭐ LA COLOCACIÓN DE FICHEROS YA NO DEPENDE DE CLAUDE
+(regla dura del usuario, 23/11/2026, tras el fallo del N24: «hazlo ahora y para
+siempre»). ESTE ES AHORA EL MECANISMO PRINCIPAL. Léelo antes del PASO 0.
+═══════════════════════════════════════════════════════════════════════════
+
+QUÉ PASÓ CON EL N24 (23-nov-2026). La nube hizo su trabajo entero: generó el N24,
+lo publicó en GitHub y creó el borrador de Gmail (08:24). Lo que falló fue el Mac:
+la tarea programada arrancó a las 08:30 y **murió a los 3,3 segundos sin ejecutar
+un solo turno** — el transcript solo contiene el prompt. No fue un fallo del
+briefing: la tarea `barrido-oportunidades`, disparada EN EL MISMO SEGUNDO al
+despertar el Mac (ambas en recuperación), murió igual, a los 3,2 s. Dos sesiones
+lanzadas a la vez al despertar, las dos abortadas al arrancar. Resultado: `sync.py`
+no llegó a ejecutarse y el usuario se quedó sin la carpeta N24, sin el Cardio al
+día en UICAR y sin la copia del Escritorio.
+ LECCIÓN: colocar tres ficheros es una operación determinista de 3 segundos. Hacer
+ que dependa de que una sesión de IA sobreviva al arranque es la fragilidad.
+
+✅ SOLUCIÓN PERMANENTE — LaunchAgent `com.dmarzal.briefing-sync`.
+ · Fichero: `~/Library/LaunchAgents/com.dmarzal.briefing-sync.plist`.
+ · Ejecuta `~/Library/Application Support/briefing-sync/sync.py` con
+   `RunAtLoad` (al iniciar sesión) y `StartInterval 900` (cada 15 min, y al
+   despertar el Mac si el intervalo venció).
+ · Lo lanza **launchd, no Claude**: no hay sesión que pueda morir. Probado de
+   extremo a extremo el 23/11/2026 — se retiró a mano el fichero del N24 y el
+   agente lo repuso solo en 17 segundos.
+ · Registros: `~/Library/Logs/briefing-sync.log` (lo que coloca) y
+   `briefing-sync-agent.log` / `.err` (salida del agente).
+ · Comprobarlo: `launchctl list | grep briefing-sync` (segunda columna = último
+   código de salida; 0 es correcto). Recargarlo:
+   `launchctl bootout gui/$(id -u)/com.dmarzal.briefing-sync ; launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.dmarzal.briefing-sync.plist`
+ · ⛔ NO lo desactives ni dupliques su trabajo. Si esta tarea del lunes encuentra
+   los ficheros ya colocados, es que el agente funcionó: NO los vuelvas a copiar.
+
+🔧 SEGUNDO FALLO CORREGIDO EL 23/11/2026 — un `git pull` fallido ya no aborta.
+`sync.py` hacía `return 1` si el pull fallaba, así que NO colocaba NADA, ni
+siquiera lo que ya estaba descargado en local. Ocurrió de verdad el 9-nov-2026:
+unos ficheros sin seguimiento bloquearon el merge y el usuario se quedó sin sus
+ficheros teniendo el número en el disco. Ahora el pull fallido solo deja un AVISO
+en el log y la colocación sigue con lo que haya en el repo local. NO lo revierta.
+
+⏱️ ESTA TAREA PASA A SER SUPERVISORA, Y CORRE DOS VECES (lunes 10:00 y 14:00).
+Motivo del cambio de hora: el 23-nov la nube terminó de publicar a las **08:51**,
+y la tarea del Mac disparaba a las 08:30 — antes de que el número existiera. A las
+10:00 la nube ya ha terminado siempre (sus runs tardan 25-50 min desde las 08:04).
+La doble pasada es el seguro por si una sesión muere al arrancar, como pasó.
+ Su trabajo ahora es, por este orden:
+  1. Comprobar que el agente colocó el número (mira el log y las tres rutas). Si
+     por lo que sea falta algo, ejecuta `sync.py` a mano y dilo.
+  2. Comprobar el BORRADOR de Gmail (ver aviso de búsqueda más abajo).
+  3. PASO 0.0, la guardia del cambio horario. CONFIRMADO QUE FUNCIONA: los runs
+     de la nube salían a las 06:0x UTC hasta el 26-oct y a las 07:0x UTC desde el
+     2-nov, es decir, las 08:0x de Madrid en los dos horarios.
+  4. Red de seguridad: SOLO si la nube no publicó el número, generarlo entero.
+
+📧 AVISO DE BÚSQUEDA DE BORRADORES — CAUSÓ UN DUPLICADO EL 23/11/2026.
+`list_drafts` con `query:'subject:"Cardio al día"'` devuelve **VACÍO** aunque el
+borrador exista: Gmail no casa ese asunto parcial con tilde. Hay que buscar con el
+asunto COMPLETO y exacto: `subject:"Cardio al día_N<n>"`. Por fiarme del resultado
+vacío creé un segundo borrador del N24 y hubo que retirarlo.
+ ✅ NOVEDAD: el conector de Gmail YA TIENE `delete_draft` (no lo tenía en agosto de
+ 2026), así que un duplicado SÍ se puede eliminar ahora. Aun así, comprueba bien
+ ANTES de crear: no crees un borrador para luego borrarlo.
