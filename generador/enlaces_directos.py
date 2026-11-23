@@ -52,7 +52,12 @@ Es idempotente y solo lee Crossref (api.crossref.org), accesible desde la nube.
 import urllib.request, json, os, re, sys, time
 
 B = os.path.dirname(os.path.abspath(__file__))
-UA = {"User-Agent": "BriefingCardiovascular/1.0 (mailto:domingo.marzal@gmail.com)"}
+# User-Agent genérico con la URL del proyecto (no un correo personal). Para dar un contacto,
+# ponlo en la variable de entorno CROSSREF_CONTACT y el script lo añade.
+_CONTACT = os.environ.get("CROSSREF_CONTACT", "").strip()
+UA = {"User-Agent": "BriefingCardiovascular/1.0 (academic literature monitoring; "
+                    "https://domingomarzal.github.io/briefing-cardiovascular/"
+                    + (("; mailto:" + _CONTACT) if _CONTACT else "") + ")"}
 
 JACC = {"J Am Coll Cardiol", "JACC Cardiovasc Interv", "JACC Cardiovasc Imaging",
         "JACC Clin Electrophysiol", "JACC Heart Fail", "JACC Adv", "JACC CardioOncol",

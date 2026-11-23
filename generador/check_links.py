@@ -38,7 +38,12 @@ import json, os, sys, urllib.request, urllib.parse, concurrent.futures as cf
 G = os.path.dirname(os.path.abspath(__file__))
 NUM = sys.argv[1] if len(sys.argv) > 1 else "n7"
 ROTOS = sys.argv[2:]
-UA = {"User-Agent": "BriefingCV/1.0 (mailto:domingo.marzal@gmail.com)"}
+# User-Agent genérico con la URL del proyecto (no un correo personal). Para dar un contacto,
+# ponlo en la variable de entorno CROSSREF_CONTACT y el script lo añade.
+_CONTACT = os.environ.get("CROSSREF_CONTACT", "").strip()
+UA = {"User-Agent": "BriefingCV/1.0 (academic literature monitoring; "
+                    "https://domingomarzal.github.io/briefing-cardiovascular/"
+                    + (("; mailto:" + _CONTACT) if _CONTACT else "") + ")"}
 # Revistas alojadas en Elsevier -> enrutan por linkinghub -> subconjunto de riesgo
 ELSEVIER = ("JACC", "J Am Coll Cardiol", "Heart Rhythm", "Atherosclerosis", "EuroIntervention")
 

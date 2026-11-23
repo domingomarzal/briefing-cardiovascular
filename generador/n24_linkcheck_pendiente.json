@@ -1,0 +1,315 @@
+{
+ "numero": 24,
+ "generado": "2026-11-23",
+ "motivo": "nube",
+ "explicacion": "PASO 7b. La revisión enlace a enlace exige un navegador REAL: curl y Chrome headless reciben el muro de Cloudflare idéntico para un enlace bueno y para uno roto. Además, la red de este entorno solo alcanza api.crossref.org, eutils.ncbi.nlm.nih.gov y domingomarzal.github.io, así que jacc.org, sciencedirect.com, ahajournals.org, nejm.org y doi.org ni siquiera responden. La parte que SÍ se ejecutó es check_links.py (PASO 1, validación de DOI contra Crossref): 45/47 correctos; el aviso 'DOI NO REGISTRADO' de a11 (10.1016/j.jacc.2026.10.067) se comprobó suelto y devuelve HTTP 200, es el falso positivo por rate-limiting descrito en la SKILL; el aviso 'TÍTULO NO CUADRA' de a6 es solo la entidad HTML &lt; del título de Crossref. No hizo falta ningún linkfix. Pendiente para el Mac: abrir los 47 enlaces de 4 en 4 en el Chrome real (revisar_enlaces.py 24), anotar los que den 'Page Not Found' y redirigirlos con enlaces_directos.py 24 --pii <clave> ..., regenerar y republicar.",
+ "linkfix_aplicados": {},
+ "total": 47,
+ "pendientes": [
+  {
+   "key": "a1",
+   "journal": "Hypertension",
+   "url": "https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.126.27624",
+   "riesgo": false
+  },
+  {
+   "key": "a2",
+   "journal": "JACC Cardiovasc Imaging",
+   "url": "https://www.jacc.org/doi/10.1016/j.jcmg.2026.09.016",
+   "riesgo": true
+  },
+  {
+   "key": "a3",
+   "journal": "Eur Heart J",
+   "url": "https://doi.org/10.1093/eurheartj/ehag885",
+   "riesgo": false
+  },
+  {
+   "key": "a4",
+   "journal": "Eur J Prev Cardiol",
+   "url": "https://doi.org/10.1093/eurjpc/zwag592",
+   "riesgo": false
+  },
+  {
+   "key": "a5",
+   "journal": "J Am Heart Assoc",
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.126.051573",
+   "riesgo": false
+  },
+  {
+   "key": "a6",
+   "journal": "N Engl J Med",
+   "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2604058",
+   "riesgo": false
+  },
+  {
+   "key": "a7",
+   "journal": "Eur J Prev Cardiol",
+   "url": "https://doi.org/10.1093/eurjpc/zwag588",
+   "riesgo": false
+  },
+  {
+   "key": "a8",
+   "journal": "Atherosclerosis",
+   "url": "https://www.atherosclerosis-journal.com/article/S0021-9150(26)01324-9/fulltext",
+   "riesgo": true
+  },
+  {
+   "key": "a9",
+   "journal": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103467",
+   "riesgo": true
+  },
+  {
+   "key": "a10",
+   "journal": "J Am Heart Assoc",
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.126.050910",
+   "riesgo": false
+  },
+  {
+   "key": "a11",
+   "journal": "J Am Coll Cardiol",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.10.067",
+   "riesgo": true
+  },
+  {
+   "key": "a12",
+   "journal": "Atherosclerosis",
+   "url": "https://www.atherosclerosis-journal.com/article/S0021-9150(26)01328-6/fulltext",
+   "riesgo": true
+  },
+  {
+   "key": "a13",
+   "journal": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103423",
+   "riesgo": true
+  },
+  {
+   "key": "a14",
+   "journal": "J Am Heart Assoc",
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.126.050177",
+   "riesgo": false
+  },
+  {
+   "key": "a15",
+   "journal": "Lancet",
+   "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01485-6/fulltext",
+   "riesgo": false
+  },
+  {
+   "key": "a16",
+   "journal": "J Am Heart Assoc",
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.125.047758",
+   "riesgo": false
+  },
+  {
+   "key": "a17",
+   "journal": "Eur Heart J",
+   "url": "https://doi.org/10.1093/eurheartj/ehag871",
+   "riesgo": false
+  },
+  {
+   "key": "a18",
+   "journal": "Eur J Heart Fail",
+   "url": "https://doi.org/10.1093/ejhf/xuag329",
+   "riesgo": false
+  },
+  {
+   "key": "a19",
+   "journal": "JAMA Cardiol",
+   "url": "https://doi.org/10.1001/jamacardio.2026.4972",
+   "riesgo": false
+  },
+  {
+   "key": "a20",
+   "journal": "Eur J Heart Fail",
+   "url": "https://doi.org/10.1093/ejhf/xuag338",
+   "riesgo": false
+  },
+  {
+   "key": "a21",
+   "journal": "JACC Heart Fail",
+   "url": "https://www.jacc.org/doi/10.1016/j.jchf.2026.103503",
+   "riesgo": true
+  },
+  {
+   "key": "a22",
+   "journal": "Rev Esp Cardiol (Engl Ed)",
+   "url": "https://www.sciencedirect.com/science/article/pii/S1885585726002677",
+   "riesgo": false
+  },
+  {
+   "key": "a23",
+   "journal": "Circulation",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.126.080166",
+   "riesgo": false
+  },
+  {
+   "key": "a24",
+   "journal": "Circulation",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.126.082486",
+   "riesgo": false
+  },
+  {
+   "key": "a25",
+   "journal": "Eur Heart J Cardiovasc Ima",
+   "url": "https://doi.org/10.1093/ehjci/jeag329",
+   "riesgo": false
+  },
+  {
+   "key": "a26",
+   "journal": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103457",
+   "riesgo": true
+  },
+  {
+   "key": "a27",
+   "journal": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103480",
+   "riesgo": true
+  },
+  {
+   "key": "a28",
+   "journal": "Circulation",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.126.081203",
+   "riesgo": false
+  },
+  {
+   "key": "a29",
+   "journal": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103475",
+   "riesgo": true
+  },
+  {
+   "key": "a30",
+   "journal": "JACC Cardiovasc Interv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jcin.2026.08.038",
+   "riesgo": true
+  },
+  {
+   "key": "a31",
+   "journal": "EuroIntervention",
+   "url": "https://eurointervention.pcronline.com/doi/10.4244/EIJ-D-26-00691",
+   "riesgo": true
+  },
+  {
+   "key": "a32",
+   "journal": "EuroIntervention",
+   "url": "https://eurointervention.pcronline.com/doi/10.4244/EIJ-D-26-00422",
+   "riesgo": true
+  },
+  {
+   "key": "a33",
+   "journal": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103461",
+   "riesgo": true
+  },
+  {
+   "key": "a34",
+   "journal": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103488",
+   "riesgo": true
+  },
+  {
+   "key": "a35",
+   "journal": "Eur Heart J Cardiovasc Ima",
+   "url": "https://doi.org/10.1093/ehjci/jeag328",
+   "riesgo": false
+  },
+  {
+   "key": "a36",
+   "journal": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103494",
+   "riesgo": true
+  },
+  {
+   "key": "a37",
+   "journal": "Heart Rhythm",
+   "url": "https://www.heartrhythmjournal.com/article/S1547-5271(26)02991-7/fulltext",
+   "riesgo": true
+  },
+  {
+   "key": "a38",
+   "journal": "J Am Coll Cardiol",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.09.016",
+   "riesgo": true
+  },
+  {
+   "key": "a39",
+   "journal": "Circulation",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001479",
+   "riesgo": false
+  },
+  {
+   "key": "a40",
+   "journal": "Circ Cardiovasc Interv",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCINTERVENTIONS.126.016840",
+   "riesgo": false
+  },
+  {
+   "key": "a41",
+   "journal": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103493",
+   "riesgo": true
+  },
+  {
+   "key": "a42",
+   "journal": "J Am Heart Assoc",
+   "url": "https://www.ahajournals.org/doi/10.1161/JAHA.125.045275",
+   "riesgo": false
+  },
+  {
+   "key": "a43",
+   "journal": "Circulation",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.126.083005",
+   "riesgo": false
+  },
+  {
+   "key": "a44",
+   "journal": "JACC Adv",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacadv.2026.103458",
+   "riesgo": true
+  },
+  {
+   "key": "a45",
+   "journal": "Europace",
+   "url": "https://doi.org/10.1093/europace/euag320",
+   "riesgo": false
+  },
+  {
+   "key": "a46",
+   "journal": "JACC Clin Electrophysiol",
+   "url": "https://www.jacc.org/doi/10.1016/j.jacep.2026.10.016",
+   "riesgo": true
+  },
+  {
+   "key": "a47",
+   "journal": "Circulation",
+   "url": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.126.083715",
+   "riesgo": false
+  }
+ ],
+ "subconjunto_de_riesgo": [
+  "a2",
+  "a8",
+  "a9",
+  "a11",
+  "a12",
+  "a13",
+  "a21",
+  "a26",
+  "a27",
+  "a29",
+  "a30",
+  "a31",
+  "a32",
+  "a33",
+  "a34",
+  "a36",
+  "a37",
+  "a38",
+  "a41",
+  "a44",
+  "a46"
+ ]
+}
