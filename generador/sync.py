@@ -64,6 +64,7 @@ def main():
         log("ERROR: no hay carpetas nXX en el repo"); return 1
 
     copied_any = False
+    nuevos = set()
     for n in nums:                                   # recorre todos: rellena huecos antiguos tambien
         src_dir = os.path.join(REPO, f"n{n}")
         sub = os.path.join(PROJ, f"Briefing Cardiovascular_N{n}")
@@ -79,6 +80,7 @@ def main():
             if copy_if_new(src, dst):
                 log(f"  N{n}: colocado {os.path.basename(dst)}")
                 copied_any = True
+                nuevos.add(n)
 
         # Copia de conveniencia en el Escritorio SOLO del numero mas reciente y solo si no la
         # ha visto ya el usuario (si la borro a mano, no se vuelve a poner).
@@ -92,9 +94,26 @@ def main():
                 log(f"  N{n}: copia de comprobacion en el Escritorio")
                 copied_any = True
 
+    if nuevos:
+        avisa(max(nuevos))
     if not copied_any:
         log("sin novedades")
     return 0
+
+def avisa(n):
+    """Notificacion de macOS al colocar un numero nuevo.
+
+    Sin esto el usuario no se entera de que el lunes ha funcionado: el 23/11/2026
+    descubrio el fallo del N24 porque ECHO EN FALTA los ficheros, no porque nadie
+    le avisara. El aviso cierra el circuito.
+    """
+    try:
+        subprocess.run(["osascript", "-e",
+            f'display notification "N{n} ya esta en su carpeta, en UICAR y en el Escritorio." '
+            f'with title "Briefing Cardiovascular" subtitle "Numero {n} colocado"'],
+            capture_output=True, timeout=20)
+    except Exception:
+        pass
 
 if __name__ == "__main__":
     try:

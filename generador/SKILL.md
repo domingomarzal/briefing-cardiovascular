@@ -465,3 +465,23 @@ vacío creé un segundo borrador del N24 y hubo que retirarlo.
  ✅ NOVEDAD: el conector de Gmail YA TIENE `delete_draft` (no lo tenía en agosto de
  2026), así que un duplicado SÍ se puede eliminar ahora. Aun así, comprueba bien
  ANTES de crear: no crees un borrador para luego borrarlo.
+
+PASO 12b — COORDINACIÓN DE LA CADENA COMPLETA (regla dura del usuario, 23/11/2026:
+«cada lunes tiene que ocurrir todo, como ocurría hasta ahora»). La cadena tiene
+CUATRO eslabones y cada uno es independiente de los demás, a propósito:
+ 1. NUBE (lunes 08:00 Madrid, `trig_016TKue46hKwUG9r2KZTWjd7`). Genera el número,
+    hace push a GitHub y crea el borrador de Gmail. Funciona con el Mac apagado.
+    Tarda entre 25 y 50 min (el 23-nov terminó a las 08:51). ⚠️ Por eso NINGÚN
+    paso del Mac debe programarse antes de las 10:00.
+ 2. AGENTE DE macOS `com.dmarzal.briefing-sync` (cada 15 min, al iniciar sesión y
+    al despertar). Coloca los ficheros. NO es Claude: no hay sesión que pueda
+    morir. Es el eslabón que garantiza que el usuario reciba el número.
+ 3. AVISO. Al colocar un número nuevo, `sync.py` lanza una notificación de macOS
+    («Briefing Cardiovascular · Número N colocado»). Antes no había forma de
+    saber que había funcionado salvo ir a mirar la carpeta; el fallo del N24 se
+    descubrió porque el usuario ECHÓ EN FALTA los ficheros. El aviso cierra el
+    circuito. Si el usuario dice que no quiere el aviso, quítese `avisa()`.
+ 4. ESTA TAREA (lunes 10:00 y 14:00). Supervisa: comprueba lo colocado, el
+    borrador, la guardia horaria, y solo genera si la nube falló.
+ REGLA: si un eslabón cae, los demás siguen. La colocación (2) nunca debe volver
+ a depender de (4), que es justo lo que rompió el N24.
