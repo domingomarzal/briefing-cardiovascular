@@ -485,3 +485,31 @@ CUATRO eslabones y cada uno es independiente de los demás, a propósito:
     borrador, la guardia horaria, y solo genera si la nube falló.
  REGLA: si un eslabón cae, los demás siguen. La colocación (2) nunca debe volver
  a depender de (4), que es justo lo que rompió el N24.
+
+PASO 12c — DOS AVISOS OPERATIVOS (23/11/2026, aprendidos a base de romper cosas).
+
+📧 (1) NUNCA COMPRUEBES LOS BORRADORES POR BÚSQUEDA DE ASUNTO, Y NO BORRES.
+ · `list_drafts` con `query:'subject:...'` es POCO FIABLE con el asunto «Cardio al
+   día_N<n>»: el mismo día devolvió el borrador a las 09:13 y VACÍO a las 09:30.
+   La tilde y el guion bajo hacen que Gmail no case el asunto de forma estable.
+ · ✅ FORMA CORRECTA: `list_drafts` SIN `query`, con `pageSize` suficiente, y mira
+   la lista entera. Es la única comprobación de fiar.
+ · ⛔ `delete_draft` EXISTE AHORA pero es PELIGROSO: el 23/11/2026, al intentar
+   retirar un duplicado del N24, desaparecieron AMBOS borradores (el duplicado y
+   el bueno) y hubo que rehacer el borrador desde cero. No estaban en la papelera
+   ni en enviados. NO lo uses salvo que el usuario lo pida expresamente, y si lo
+   usas, comprueba la lista COMPLETA justo después.
+ · Por tanto: antes de crear un borrador, mira la lista completa. Si ya hay uno
+   correcto, NO toques nada. Si hay un duplicado, DÍSELO al usuario y que decida.
+
+📁 (2) ESTA TAREA SE EJECUTA CON cwd = ~/Documents/UICAR, NO en la carpeta del
+   Briefing. Comprobado en las sesiones del 2, 9, 16 y 23 de noviembre: todas con
+   `cwd: /Users/dmarzal/Documents/UICAR`.
+ · NO es la causa de ningún fallo: los lunes 2, 9 y 16 la tarea funcionó
+   perfectamente desde ahí, porque TODA la SKILL usa rutas ABSOLUTAS.
+ · ⚠️ REGLA: no uses NUNCA rutas relativas ni des por hecho el directorio de
+   trabajo. Cualquier ruta del pipeline se escribe completa, desde `/Users/...`.
+ · No se puede cambiar desde las herramientas: la tarea no expone un parámetro de
+   carpeta y su configuración no es accesible. Si el usuario quiere que deje de
+   abrirse en UICAR, la única vía es recrear la tarea desde una sesión anclada en
+   `~/Documents/Claude/Briefing Cardiovascular` — decisión suya, no se hace sola.
