@@ -476,6 +476,22 @@ vacío creé un segundo borrador del N24 y hubo que retirarlo.
  2026), así que un duplicado SÍ se puede eliminar ahora. Aun así, comprueba bien
  ANTES de crear: no crees un borrador para luego borrarlo.
 
+🚨 EL BORRADOR DEL N24 DESAPARECIÓ DOS VECES EL 23/11/2026. NO DOY EL BORRADOR POR
+HECHO SOLO PORQUE `create_draft` DEVUELVA UN ID. Secuencia real: (1) la nube lo creó;
+(2) yo creé un duplicado al fiarme de una búsqueda por asunto que salió vacía;
+(3) tras `delete_draft` desaparecieron LOS DOS, y no estaban en papelera ni en
+enviados; (4) lo rehíce y lo verifiqué con la lista completa — y 4 horas después
+había vuelto a desaparecer, sin que nadie lo tocara; (5) lo rehíce otra vez.
+ REGLAS QUE SE DERIVAN, OBLIGATORIAS CADA LUNES:
+  · Comprobar SIEMPRE con `list_drafts` SIN filtro y leer la lista entera. La
+    búsqueda `subject:"Cardio al día_N<n>"` ha devuelto vacío con el borrador
+    existiendo: la tilde y el guion bajo no casan de forma fiable.
+  · Si falta, REHACERLO (formato del PASO 8) y volver a comprobar con la lista
+    completa. No es un duplicado si la lista está vacía: es que no está.
+  · NO usar `delete_draft` salvo que el usuario lo pida expresamente. Se llevó por
+    delante un borrador que no era su objetivo.
+  · La segunda pasada de la tarea (14:00) existe también para esto: vuelve a mirar.
+
 PASO 12b — COORDINACIÓN DE LA CADENA COMPLETA (regla dura del usuario, 23/11/2026:
 «cada lunes tiene que ocurrir todo, como ocurría hasta ahora»). La cadena tiene
 CUATRO eslabones y cada uno es independiente de los demás, a propósito:
