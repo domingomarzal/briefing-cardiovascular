@@ -1,0 +1,34 @@
+{
+ "8": {
+  "rep": 7,
+  "nota": "Nota de prensa AHA en professional.heart.org con 'top things to know'"
+ },
+ "12": {
+  "rep": 6,
+  "nota": "Cobertura en Drug Topics (18-nov-2026); sin eco en Medscape/Healio"
+ },
+ "25": {
+  "rep": 5,
+  "nota": "Solo mencion en agregador Omnicuris (16-nov-2026)"
+ },
+ "32": {
+  "rep": 8,
+  "nota": "Late-breaker TCT; cobertura en PCRonline, SCAI, ACC y BCS"
+ },
+ "70": {
+  "rep": 4,
+  "nota": "Sin cobertura detectable; registro SEC sin eco en medios"
+ },
+ "80": {
+  "rep": 4,
+  "nota": "Sin cobertura detectable pese a ser serie de Lancet"
+ },
+ "81": {
+  "rep": 4,
+  "nota": "Sin resultados ni cobertura localizados; solo registro del ensayo"
+ },
+ "95": {
+  "rep": 9,
+  "nota": "Late-breaker ObesityWeek; Healio, Becker's, Contemporary Pediatrics, prensa gral"
+ }
+}

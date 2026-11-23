@@ -1,0 +1,103 @@
+{
+ "numero": 24,
+ "ventana": [
+  "2026-11-16",
+  "2026-11-22"
+ ],
+ "motivo": "nube: la red de este entorno solo alcanza api.crossref.org, eutils.ncbi.nlm.nih.gov y domingomarzal.github.io. Estos articulos los publico el editor dentro de la ventana (deposito en Crossref), PubMed aun no los habia indexado y Crossref NO trae su abstract, asi que no se pudo redactar su ficha. El Mac SI alcanza sciencedirect.com: recuperar el abstract y decidir si entran (afectan sobre todo a Dislipemia, que cerro con 4 articulos, y a Valvulopatias).",
+ "pendientes": [
+  {
+   "doi": "10.1016/j.atherosclerosis.2026.121969",
+   "journal": "Atherosclerosis",
+   "pii": "S0021915026013353",
+   "title": "PCSK9 inhibitor therapy ameliorates small nerve fibre damage in patients with heterozygous familial hypercholesterolaemia",
+   "sec_probable": 3
+  },
+  {
+   "doi": "10.1016/j.atherosclerosis.2026.121970",
+   "journal": "Atherosclerosis",
+   "pii": "S0021915026013365",
+   "title": "Discovering new genetic causes of monogenic familial hypercholesterolaemia: from phenotyping to functional studies",
+   "sec_probable": 3
+  },
+  {
+   "doi": "10.1016/j.atherosclerosis.2026.121960",
+   "journal": "Atherosclerosis",
+   "pii": "S0021915026013262",
+   "title": "Prognostic implications of angiography-derived radial wall strain in physiologically deferred non-flow limiting lesions",
+   "sec_probable": 4
+  },
+  {
+   "doi": "10.1016/j.atherosclerosis.2026.121959",
+   "journal": "Atherosclerosis",
+   "pii": "S0021915026013250",
+   "title": "Associations between monocyte subsets and cardiovascular mortality and all-cause mortality in advanced atherosclerosis",
+   "sec_probable": 3
+  },
+  {
+   "doi": "10.1016/j.atherosclerosis.2026.121971",
+   "journal": "Atherosclerosis",
+   "pii": "S0021915026013377",
+   "title": "Association of Lipoprotein(a) with Long-Term Survival Outcomes in Chinese Patients with Coronary Artery Disease",
+   "sec_probable": 3
+  },
+  {
+   "doi": "10.1016/j.atherosclerosis.2026.121972",
+   "journal": "Atherosclerosis",
+   "pii": "S0021915026013389",
+   "title": "Non-HDL cholesterol assessment to identify a persistent treatment gap in severe hypercholesterolemia",
+   "sec_probable": 3
+  },
+  {
+   "doi": "10.1016/j.atherosclerosis.2026.121966",
+   "journal": "Atherosclerosis",
+   "pii": "S0021915026013328",
+   "title": "Aortic Stenosis in Familial Hypercholesterolemia: A Meta-Analysis",
+   "sec_probable": 7
+  },
+  {
+   "doi": "10.1016/j.jcin.2026.11.005",
+   "journal": "JACC Cardiovasc Interv",
+   "pii": "S1936879826031390",
+   "title": "One-Year Outcomes of Transcatheter Tricuspid Valve Replacement",
+   "sec_probable": 7
+  },
+  {
+   "doi": "10.1016/j.jcin.2026.08.013",
+   "journal": "JACC Cardiovasc Interv",
+   "pii": "S1936879826023952",
+   "title": "Transcatheter Tricuspid Edge-To-Edge Repair Versus Transcatheter Tricuspid Valve Replacement for Severe Tricuspid Regurgitation",
+   "sec_probable": 7
+  }
+ ],
+ "descartados_en_la_revision": [
+  {
+   "doi": "10.1016/j.atherosclerosis.2026.121968",
+   "motivo": "ciencia basica (MED1 en macrofagos)"
+  },
+  {
+   "doi": "10.1016/j.atherosclerosis.2026.121961",
+   "motivo": "ciencia basica (JAM-A soluble y activacion plaquetaria)"
+  },
+  {
+   "doi": "10.1016/j.atherosclerosis.2026.121965",
+   "motivo": "fuera del alcance: revascularizacion de arteria mesenterica superior"
+  },
+  {
+   "doi": "10.1016/j.atherosclerosis.2026.121963",
+   "motivo": "fuera del alcance: desenlace cognitivo/demencia"
+  },
+  {
+   "doi": "10.1016/j.atherosclerosis.2026.121957",
+   "motivo": "tipo no elegible (comentario editorial)"
+  },
+  {
+   "doi": "10.1016/j.atherosclerosis.2026.121973",
+   "motivo": "tipo no elegible (comentario editorial)"
+  },
+  {
+   "doi": "10.1093/eurjpc/zwag540",
+   "motivo": "fuera de periodo: published-online 2026-11-23 (corresponde a N25)"
+  }
+ ]
+}

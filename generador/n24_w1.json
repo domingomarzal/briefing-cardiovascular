@@ -1,0 +1,112 @@
+[
+ {
+  "key": "a11",
+  "journal": "J Am Coll Cardiol",
+  "doi": "10.1016/j.jacc.2026.10.067",
+  "seccion": 3,
+  "ptype": "Scientific Statement",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Lipid-Lowering Strategies in the Era of Early Atherosclerosis Detection: 2026 ACC Scientific Statement: A Report of the American College of Cardiology",
+  "abstract": "Atherosclerotic cardiovascular disease (ASCVD) begins early in life, driven in large part by cumulative exposure to low-density lipoprotein cholesterol and other atherogenic lipoproteins. Contemporary evidence from epidemiologic cohorts, genetic studies, imaging studies, and lipid-lowering trials supports a paradigm of earlier identification and more sustained treatment of individuals at increased ASCVD risk. This American College of Cardiology Scientific Statement reviews the rationale for early adoption of lipid-lowering strategies, with emphasis on lifetime lipid burden, inherited and acquired risk enhancers, and the role of subclinical atherosclerosis assessment. Available clinical trial data suggest that greater absolute low-density lipoprotein cholesterol reduction and longer treatment duration can reduce ASCVD events, even though direct evidence remains limited in younger populations at low short-term risk. Atherosclerosis detected by imaging may identify individuals whose ASCVD risk is underestimated by traditional calculators, but optimal strategies for screening, treatment thresholds, safety, adherence, cost-effectiveness, and value require further study. Clinicians should integrate estimated short- and long-term risk, lipid burden, risk enhancers, imaging findings when appropriate, and patient preferences to guide individualized, shared decision making to reduce lifetime ASCVD risk."
+ },
+ {
+  "key": "a12",
+  "journal": "Atherosclerosis",
+  "doi": "10.1016/j.atherosclerosis.2026.121962",
+  "seccion": 3,
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Lipoprotein(a) and incident peripheral artery disease in the Atherosclerosis Risk in Communities Study",
+  "abstract": "BACKGROUND AND AIMS: Lipoprotein(a) [Lp(a)] is an atherogenic, prothrombotic lipoprotein linked to atherosclerotic cardiovascular disease, but prospective data on its association with peripheral artery disease (PAD) in large, diverse U.S. cohorts are limited. We characterized the association of Lp(a) with long-term incident PAD risk in a diverse, community-based U.S. METHODS: We included Atherosclerosis Risk in Communities (ARIC) Study participants attending Visit 4 (1996-98) with measured Lp(a) and no prevalent PAD. Lp(a) was natural logarithm (ln)-transformed and categorized as <30, 30-50, and >50 mg/dL. Incident PAD was identified from hospitalization and procedure codes through 2019. Hazard ratios (HRs) were estimated using Cox models adjusted for confounders; Fine-Gray models and cumulative incidence functions accounted for competing mortality. RESULTS: Among 9727 participants (mean age 63.1 years, 53.9% women, 20.4% Black), 825 incident PAD events occurred over a median 22.5 years of follow-up. Lp(a) was <30 mg/dL in 69.7%, 30-50 in 11.7%, and >50 in 18.6%. Fully adjusted HRs were 1.27 (95% confidence interval [CI], 1.03-1.57) for 30-50 mg/dL and 1.32 (95% CI, 1.11-1.57) for >50 mg/dL versus <30 mg/dL; each unit increase in ln(Lp(a)) was associated with an HR of 1.14 (95% CI, 1.07-1.20). Estimates were similar accounting for competing mortality, and cumulative incidence differed across categories (p < 0.001). The association did not differ by baseline statin use. CONCLUSIONS: Higher Lp(a) was independently associated with greater long-term PAD risk in a community-based cohort, supporting Lp(a) as a risk factor for lower-extremity atherosclerotic disease and its value for risk stratification."
+ },
+ {
+  "key": "a13",
+  "journal": "JACC Adv",
+  "doi": "10.1016/j.jacadv.2026.103423",
+  "seccion": 3,
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Association Between Saturated Fat Intake and Low-Density Lipoprotein Cholesterol Across the Genetic Spectrum",
+  "abstract": "BACKGROUND: Low-density lipoprotein cholesterol (LDL-C) is a causal risk factor for atherosclerotic cardiovascular disease (ASCVD). Guidelines recommend reducing saturated fat intake to lower LDL-C, but dietary effects are heterogeneous. OBJECTIVES: We examined whether genetic propensity for higher LDL-C modifies the association of saturated fat intake with LDL-C and incident ASCVD. METHODS: Among 20,940 genotyped Women's Health Initiative participants, we examined saturated fat intake from food frequency questionnaires and a polygenic score for LDL-C (PGSLDL). The primary outcome was LDL-C. The secondary outcome was incident ASCVD. Associations were assessed using multivariable linear and Cox regressions. Effect modification was evaluated using interaction terms and restricted cubic splines. Models included demographic, lifestyle, clinical, and genetic covariates. RESULTS: The association between saturated fat intake and LDL-C was modified by PGSLDL (P interaction for LDL-C = 0.01). Spline analysis revealed a nonlinear interaction, with increasing effect sizes across the upper end of the PGSLDL distribution. Among 16,835 participants without prevalent ASCVD, 1,582 experienced incident ASCVD (median follow-up: 10 years [Q1, Q3: 9.4, 10.0]). A 5% isocaloric increase in saturated fat intake was associated with a higher ASCVD risk among individuals in the top quartile of PGSLDL (HR: 1.26; 95% CI: 1.08-1.47), but no association was observed among those in the bottom 3 quartiles (HR: 1.00; 95% CI: 0.89-1.12); P interaction for ASCVD = 0.006. CONCLUSIONS: The association between saturated fat intake and LDL-C and subsequent ASCVD risk may be stronger for individuals with a genetic propensity towards high LDL-C."
+ },
+ {
+  "key": "a14",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.126.050177",
+  "seccion": 3,
+  "ptype": "Registro",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Real-World Safety and Effectiveness of Evolocumab in Japanese Patients With Familial Hypercholesterolemia: Postmarketing Survey Analysis",
+  "abstract": "BACKGROUND: Evidence on the real-world use of PCSK9 (proprotein convertase subtilisin/kexin type 9) inhibitors in familial hypercholesterolemia (FH) remains limited. This postmarketing surveillance study (NCT02808403) evaluated Japanese patients with FH and the long-term real-world effectiveness of evolocumab. METHODS: This analysis included patients with heterozygous familial hypercholesterolemia (HeFH) and homozygous familial hypercholesterolemia (HoFH). Diagnostic pathways, patient characteristics, background lipid-lowering therapy, evolocumab use, low-density lipoprotein cholesterol (LDL-C) reduction, long-term target achievement, and findings in pediatric HoFH were assessed. RESULTS: Of 2117 patients in the safety analysis set (HeFH, n=2009; HoFH, n=108), 1380 (HeFH, n=1296; HoFH, n=84) were included in the effectiveness analysis. Compared with patients with HeFH, patients with HoFH had higher genetic testing rates (40.7% versus 9.8%), higher mean baseline LDL-C levels (188.4±107.3 mg/dL versus 139.2±58.3 mg/dL), and higher lipoprotein apheresis use (26.9% versus 2.1%), but fewer total comorbidities (2.2±1.5 versus 2.7±1.5). Statin use was similarly high in patients with HeFH and HoFH (92.2% and 93.5%, respectively) with many patients receiving low- to moderate-intensity statins. Most patients received evolocumab biweekly. LDL-C reductions were evident at 4 weeks and sustained at 104 weeks. At 104 weeks, mean LDL-C changes from baseline were -54.0% in patients with HeFH and -48.9% in patients with HoFH. LDL-C<70 mg/dL was achieved by 63.0% of patients with HeFH and 43.9% of patients with HoFH, and LDL-C<55 mg/dL was achieved by 48.2% and 17.1%, respectively. CONCLUSION: Evolocumab was associated with sustained LDL-C reductions over 104 weeks in Japanese patients with HeFH and HoFH, with higher target achievement in HeFH. Gaps exist in genetic testing and treatment optimization in routine Japanese FH care."
+ },
+ {
+  "key": "a15",
+  "journal": "Lancet",
+  "doi": "10.1016/S0140-6736(26)01485-6",
+  "seccion": 4,
+  "ptype": "Artículo de revisión",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Spontaneous coronary artery dissection: implications for women's health, clinical care, and future research",
+  "abstract": "Spontaneous coronary artery dissection (SCAD) is an increasingly recognised cause of acute coronary syndromes, characterised by spontaneous separation of the layers of the coronary arterial wall. It predominantly affects younger women, and recent registry and imaging studies indicate that SCAD is more common than previously appreciated, challenging its historical classification as a rare condition. Clinically, SCAD is associated with a substantial early risk of adverse events, particularly in the first weeks after the index dissection. Given the high frequency of spontaneous healing, conservative management is preferred for most patients, whereas revascularisation is generally reserved for ongoing ischaemia or haemodynamic compromise. However, evidence to guide both pharmacological and interventional management remains scarce. This Review summarises current evidence on SCAD epidemiology, underlying mechanisms including genetic susceptibility, diagnostic approaches, management principles, implications for reproductive and women's health, and research priorities to improve outcomes for affected patients."
+ },
+ {
+  "key": "a16",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.125.047758",
+  "seccion": 4,
+  "ptype": "Metaanálisis",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Comparative Accuracy of the European Society of Cardiology Rapid Rule-Out and Rule-In Protocols for Diagnosing Non-ST-Segment-Elevation Myocardial Infarction: A Network Meta-Analysis",
+  "abstract": "BACKGROUND: The European Society of Cardiology rapid rule-out and rule-in protocols using hs-cTns (high-sensitivity cardiac troponins) with blood collection at 0 and 1 hour (0/1 hour), 0 and 2 hours (0/2 hours), and 0 and 3 hours (0/3 hours) are accurate and widely used for evaluating non-ST-segment-elevation myocardial infarction. This network meta-analysis aimed to identify the best performing hs-cTn assay. METHODS: We conducted database searches up to January 15, 2026, a dual screening and eligibility assessment, independent data extraction and risk of bias assessment, a network meta-analysis of diagnostic accuracy, and assessment of the certainty of evidence. Only full-paired diagnostic accuracy studies conducted in the emergency department were included. RESULTS: Ten prospective studies (15 publications) comparing 10 assays using the 0-/1-hour algorithm (n=8769), 0-/2-hour algorithm (n=1881), and 0-/3-hour algorithm (n=1236) were included. Comparisons between newer and conventional assays largely stemmed from a single-source study. Across all assays, the European Society of Cardiology 0-/1-hour algorithm demonstrated high sensitivity (summary point estimate range: 97.8%-99.8%). Furthermore, it maintained high specificity (89.8%-98.1%), with no assay showing clear superiority. The summary sensitivity and specificity did not show significant differences across assays after adjusting for biases because of imperfect reference standards. Comparative data in the European Society of Cardiology 0-/2-hour and 0-/3-hour algorithms were limited. CONCLUSIONS: Evidence remains insufficient to establish the superiority of any specific hs-cTn assay within the European Society of Cardiology 0-/1-hour algorithm. Although practical considerations may currently guide selection, continued validation of newer assays remains necessary."
+ },
+ {
+  "key": "a17",
+  "journal": "Eur Heart J",
+  "doi": "10.1093/eurheartj/ehag871",
+  "seccion": 4,
+  "ptype": "Estudio observacional",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Sex-specific mortality in ischaemic heart disease across Western Europe: 2023 Global Burden of Disease",
+  "abstract": "BACKGROUND AND AIMS: Ischaemic heart disease (IHD) mortality has declined across Western Europe, but conventional mortality rates may obscure whether women and men experience comparable outcomes once IHD is present. This study examined sex-specific prevalence-adjusted IHD mortality and risk factor-attributable population case fatality across Western European countries. METHODS: Global Burden of Disease 2023 estimates for IHD mortality and prevalence across Western European countries from 2013 to 2023 were analysed. Population case fatality was calculated as age-standardized mortality divided by age-standardized prevalence (mortality-to-prevalence ratio [MPR]). Risk factor-attributable mortality was normalized to IHD prevalence to derive case-fatality indices (CFIs) for metabolic, behavioural, dietary, and environmental exposures. Sex differences were quantified using women-to-men ratios (WMRs). Substantive disparities were defined by WMR deviation ≥20% from unity with <50% overlap of sex-specific uncertainty intervals. RESULTS: Between 2013 and 2023, IHD age-standardized mortality declined by 15.9% in men and 23.5% in women. The pooled Western Europe MPR decreased, from 2.26% to 2.09% in men and from 2.56% to 2.21% in women. Despite these improvements, substantive female excess in MPR was observed in Austria, France, Greece, Israel, Italy, and Spain, whereas substantive male excess was observed only in Iceland. Risk-specific CFIs showed female excess mainly for metabolic risk, low physical activity, and low fibre intake, whereas male excess was most evident for smoking and sugar-sweetened beverages. CONCLUSIONS: Declining IHD mortality across Western Europe conceals persistent sex-specific differences in population case fatality. Sex-disaggregated MPR and risk-specific CFIs may complement conventional surveillance and identify ecological signals, where declining mortality appears disproportionate to the estimated IHD burden."
+ },
+ {
+  "key": "a18",
+  "journal": "Eur J Heart Fail",
+  "doi": "10.1093/ejhf/xuag329",
+  "seccion": 5,
+  "ptype": "Registro",
+  "acr": "TITRATE-HF",
+  "prio": "Relevante",
+  "title": "Impact of age on implementation and tolerability of guideline-directed medical therapy in patients with heart failure with reduced ejection fraction",
+  "abstract": "BACKGROUND AND AIMS: Elderly patients constitute a growing proportion of patients with heart failure with reduced ejection fraction (HFrEF), yet remain underrepresented in randomized clinical trials. We evaluated the impact of age on the implementation of guideline-directed medical therapy (GDMT) in HFrEF. METHODS: TITRATE-HF is a prospective, multicentre registry (enrolment June 2022-February 2024) including patients with de novo, chronic, and worsening heart failure (HF). For the current analysis, HFrEF patients were categorized by age (<65, 65-74, and ≥75 years). We assessed GDMT implementation, tolerability, and clinical outcomes (composite endpoint: first HF hospitalization or all-cause death). RESULTS: The cohort included 980 patients aged <65 years (29%), 1120 patients aged 65-74 years (33%), and 1267 patients aged ≥75 years (38%). At 12-month follow-up, younger patients more frequently received GDMT, with quadruple therapy prescribed in 68% of those aged <65 years, 61% aged 65-74 years, and 51% aged ≥75 years (P < .001). In de novo HFrEF, age-related differences were observed within weeks after diagnosis, with faster and more extensive GDMT intensification in younger patients. Still, rates of treatment downgrades and the distribution of side effects were largely similar across age groups. Significant left ventricular ejection fraction (LVEF) improvement was observed in all age groups (all P < .001). The use of quadruple therapy at 6 months was associated with a lower risk of the composite endpoint between 6 and 12 months (adjusted hazard ratio 0.65, 95% confidence interval 0.50-0.86, P = .002), with consistent associations across age groups (P for interaction = .46). CONCLUSIONS: Elderly patients with HFrEF received less intensive GDMT. Age-related differences emerged early after diagnosis, with fewer treatment intensifications in elderly patients but largely similar downgrade rates across age groups. These findings highlight the need for improved implementation strategies to optimize guideline-directed therapy and dosing levels in the ageing HFrEF population."
+ },
+ {
+  "key": "a19",
+  "journal": "JAMA Cardiol",
+  "doi": "10.1001/jamacardio.2026.4972",
+  "seccion": 5,
+  "ptype": "Estudio de casos y controles",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Anemia and Iron Status in Pregnant and Postpartum Women With Acute Heart Failure",
+  "abstract": "IMPORTANCE: In low- and middle-income countries (LMICs), iron-deficient anemia is highly prevalent and may compound the cardiovascular stress of pregnancy, yet its contribution to maternal acute heart failure (AHF) is poorly understood. OBJECTIVES: To investigate the association of maternal anemia and iron status with AHF in pregnancy and post partum in India. DESIGN, SETTING, AND PARTICIPANTS: This multicenter, unmatched, prospective case-control study recruited participants from 10 hospitals across 4 Indian states from February 2019 to November 2024. Incident cases were pregnant or postpartum women with clinically diagnosed AHF. Controls were women without history or symptoms of heart disease within 48 hours post partum. Data were analyzed from March 2025 to April 2026. EXPOSURES: Maternal anemia and iron status. Blood samples collected at recruitment were analyzed for hemoglobin, ferritin, transferrin saturation, soluble transferrin receptor, and hepcidin. MAIN OUTCOMES AND MEASURES: The outcome of interest was AHF, defined using clinical criteria. Multivariable logistic regression models assessed associations of iron status and anemia with AHF, adjusting for potential confounders, including hypertensive disorders of pregnancy. Subgroup analyses were performed in women with echocardiographic abnormalities and peripartum cardiomyopathy. The discriminatory capacity of a model including anemia present before AFH onset vs a model with established risk factors only was examined using receiver operating characteristic curves. RESULTS: Among 532 women with clinically diagnosed AHF (median [IQR] age, 25 [21-29] years) and 1091 controls (median [IQR] age, 25 [21-28] years), moderate and severe anemia were associated with 1.5-fold (adjusted odds ratio [aOR], 1.52; 95% CI, 1.13-2.05) and 5-fold (aOR, 5.06; 95% CI, 3.02-8.48) increased odds of AHF, respectively, compared with women without anemia. Higher soluble transferrin receptor levels (aOR, 1.44; 95% CI, 1.31-1.57) and the lowest hepcidin quintile (aOR, 2.65; 95% CI, 1.69-4.14), both indicative of iron deficiency, were independently associated with AHF. These associations persisted after adjusting for hypertensive disorders of pregnancy and after excluding women with preexisting cardiac conditions, and they were consistent in subgroups with echocardiographic abnormalities and peripartum cardiomyopathy. Adding anemia to established risk factors improved model discrimination for identifying AHF risk, increasing the AUC from 78% (95% CI, 76%-81%) to 83% (95% CI, 80%-85%) (P < .001). CONCLUSION AND RELEVANCE: This case-control study found that maternal anemia and iron deficiency were independently associated with AHF during pregnancy and post partum. Further studies are needed to determine whether preventing or treating iron deficiency and anemia can reduce AHF risk and improve maternal outcomes."
+ },
+ {
+  "key": "a20",
+  "journal": "Eur J Heart Fail",
+  "doi": "10.1093/ejhf/xuag338",
+  "seccion": 5,
+  "ptype": "Registro",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Early Implementation of Guideline-Directed Medical Therapy and Outcomes in Cardiogenic Shock Supported by Micro-Axial Flow Pumps",
+  "abstract": "BACKGROUND: The role of guideline-directed medical therapy (GDMT) in patients with cardiogenic shock (CS) supported by mechanical circulatory support remains poorly defined. The feasibility and potential benefits of early GDMT initiation during Impella support are uncertain. METHODS: We analyzed a multicenter prospective registry of consecutive patients with CS treated with Impella between 2020 and 2024. GDMT exposure was defined as the number of heart failure therapies administered at device explantation. The primary outcome was in-hospital mortality. Multivariable logistic regression adjusted for clinical severity and early shock trajectory. Landmark analysis excluded patients dying within 5 days, while mixed-effects models accounted for center-level clustering. RESULTS: Among 140 patients (mean age 61 years; 20% female), 40% received concomitant ECMO (ECPella). In-hospital mortality was 38%. At explantation, 43% received at least one GDMT agent. Greater GDMT exposure was independently associated with lower mortality (OR 0.28 per additional therapy; 95% CI 0.14-0.58; p<0.001). This association remained consistent in landmark analysis (adjusted OR 0.31; 95% CI 0.16-0.66; p<0.001) and after excluding patients with cardiac arrest (adjusted OR 0.48; 95% CI 0.23-0.88; p=0.002). A graded relationship between GDMT intensity and survival was observed. Center-level variability was negligible (intraclass correlation coefficient 0.02). CONCLUSIONS: In patients with CS supported by Impella, early GDMT implementation was feasible in a substantial proportion of patients. Greater GDMT exposure at device explantation was associated with lower in-hospital mortality. Ventricular unloading may provide an opportunity to initiate outcome-modifying therapies during the acute phase of CS."
+ }
+]

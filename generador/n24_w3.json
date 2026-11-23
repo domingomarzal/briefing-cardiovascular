@@ -1,0 +1,112 @@
+[
+ {
+  "key": "a31",
+  "journal": "EuroIntervention",
+  "doi": "10.4244/EIJ-D-26-00691",
+  "seccion": 7,
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Three-year outcomes of balloon-expandable valve-in-valve aortic valve implantation for failed transcatheter versus surgical valves",
+  "abstract": "BACKGROUND: Clinical outcomes after transcatheter aortic valve (TAV)-in-TAV compared with TAV-in-surgical aortic valve (SAV) implantation for failed bioprosthetic valves have been limited to short-term outcomes. AIMS: This study compared midterm outcomes between patients undergoing TAV-in-TAV and those undergoing TAV-in-SAV. METHODS: From June 2015 to June 2024, 543 consecutive patients undergoing valve-in-valve (ViV) transcatheter aortic valve implantation (TAVI) were identified at our centre. After exclusion of ineligible patients, 109 patients undergoing TAV-in-TAV and 349 undergoing TAV-in-SAV were included. Following propensity score matching, 214 patients (107 per group) were analysed. RESULTS: Three-year all-cause mortality did not differ between the TAV-in-TAV and TAV-in-SAV groups (hazard ratio 1.06, 95% confidence interval: 0.56-1.98; p=0.867). Similarly, no significant differences were detected in secondary outcomes. Over 3 years, the aortic valve mean pressure gradient was consistently lower and the aortic valve area was consistently larger in the TAV-in-TAV group compared with the TAV-in-SAV group. Concomitant percutaneous coronary intervention (PCI) and coronary obstruction were more frequent in the TAV-in-SAV group than in the TAV-in-TAV group (22.4% vs 8.4%; p=0.006; 10.3% vs 0.9%; p=0.018, respectively). Post-ViV-TAVI computed tomography analysis showed that the waist level was the least expanded segment in both groups. However, expansion at this level was significantly greater in the TAV-in-TAV group than in the TAV-in-SAV group. CONCLUSIONS: There was no significant difference in 3-year mortality between the TAV-in-TAV and TAV-in-SAV groups. However, TAV-in-SAV was associated with higher rates of concomitant PCI and coronary obstruction, as well as lower valve expansion."
+ },
+ {
+  "key": "a32",
+  "journal": "EuroIntervention",
+  "doi": "10.4244/EIJ-D-26-00422",
+  "seccion": 7,
+  "ptype": "Artículo de revisión",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Bioprosthetic valve performance of transcatheter aortic valves",
+  "abstract": "Transcatheter aortic valve implantation is used increasingly in younger patients with longer life expectancy, necessitating long-term effectiveness. Randomised clinical trials have demonstrated comparable or superior haemodynamic performance of transcatheter heart valves (THVs) to surgical aortic valve replacement over midterm follow-up. Within a lifetime management framework, haemodynamic performance and durability of THVs are central considerations in patients undergoing aortic valve replacement for severe aortic stenosis. This review provides an overview of THV design and function along with contemporary clinical evidence, with a focus on current haemodynamic assessment considerations, challenges in cross-platform interpretation of valve performance, and limitations of randomised comparative evidence, as well as future directions in the evaluation of THV performance."
+ },
+ {
+  "key": "a33",
+  "journal": "JACC Adv",
+  "doi": "10.1016/j.jacadv.2026.103461",
+  "seccion": 8,
+  "ptype": "Inteligencia artificial / modelo predictivo",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Fully Automated, Explainable AI Analysis of Coronary CTA Improves Prediction of Major Cardiovascular Events",
+  "abstract": "BACKGROUND: Coronary artery disease (CAD) remains a major global cause of morbidity and mortality. Coronary computed tomography angiography (CCTA) is central to noninvasive diagnosis and risk assessment, yet current workflows are labor-intensive and depend on semiquantitative scoring systems that do not fully leverage prognostic information in CCTA. OBJECTIVES: The objectives of the study were to develop and validate a fully automated, explainable artificial intelligence (AI) system (AI-automated coronary analysis [ACA]) for comprehensive CCTA analysis to predict major adverse cardiovascular events and compare its performance with conventional risk markers. METHODS: AI-ACA automatically extracts a suite of CCTA-derived biomarkers, including stenosis severity, plaque burden, and composition; AI-derived CAD - reporting and data system (CAD-RADS) (AI-CADRADS); coronary tortuosity; and subtended myocardial mass, to generate interpretable risk estimates. In a retrospective cohort (n = 1,702), we compared AI-ACA with Agatston score, standard demographic risk markers, and AI-CADRADS. Model explainability was assessed using Shapley Additive Explanations. RESULTS: AI-ACA demonstrated higher predictive performance (area under the curve [AUC]: 0.81) than Agatston score (AUC: 0.76) and demographic markers (AUC: 0.67), and similar performance to AI-CADRADS (AUC: 0.81). AI-ACA showed better prognostic discrimination than Agatston score, reflected by a higher Harrell C-index (0.791 vs 0.742) and greater separation in event-free survival on Kaplan-Meier analysis (log-rank 31.79 vs 13.71). Shapley Additive Explanations analysis identified total plaque volume and burden, maximum stenosis severity, and AI-CADRADS as the strongest contributors to risk estimation. CONCLUSIONS: A fully automated and explainable AI platform for CCTA enables comprehensive quantitative characterization of CAD without manual intervention. Although prognostic performance was comparable to AI-CADRADS and modestly higher than Agatston score, the platform provides transparent biomarker-based risk assessment and scalable analysis that may facilitate broader clinical implementation of quantitative CCTA."
+ },
+ {
+  "key": "a34",
+  "journal": "JACC Adv",
+  "doi": "10.1016/j.jacadv.2026.103488",
+  "seccion": 8,
+  "ptype": "Inteligencia artificial / modelo predictivo",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Multiview Integration for Robust Echocardiographic Embeddings: Accessible AI for Clinical Practice",
+  "abstract": "BACKGROUND: Although recent artificial intelligence (AI) foundation models have shown superior performance in medical imaging, their high computational demands and reliance on large data sets limit accessibility. These issues are especially pronounced in echocardiography, where integrating complex multiview measurements for individual cases hinders AI development and clinical translation. Vector embedding approaches offer promising solutions by leveraging compact representations in AI applications. OBJECTIVES: We aimed to develop a transformer-based multiview encoder that integrates multiple echocardiographic videos into unified vector embeddings and uses adversarial learning to reduce reliance on demographic shortcuts. METHODS: Using the MIMIC-IV-ECHO (Medical Information Mart for Intensive Care IV-Echocardiography) data set (7,169 studies), we trained a multiview encoder to produce study-level embeddings and evaluated them on 21 binary classification tasks covering echocardiographic measurements and clinical diagnoses. We varied adversarial weights to assess their impact on demographic shortcut reliance and overall performance. RESULTS: The multiview encoder raised the mean area under the curve (AUC) across clinical tasks from 0.742 to 0.831 compared with the foundation model embedding (ΔAUC +0.090; 95% CI: 0.078-0.100), with significant gains in 20 of 21 tasks. The embeddings remained robust with a limited number of views (mean ΔAUC +0.071; 95% CI: 0.043-0.113). Adversarial learning reduced sex and race predictability only at strong weights and at substantial cost to clinical performance. CONCLUSIONS: The multiview encoder framework integrates multiple echocardiographic views into unified study-level embeddings, enabling substantial diagnostic improvements across diverse cardiac tasks. By producing compact, informative embeddings without requiring extensive computational resources, this approach lowers the cost of building echocardiographic AI on an existing foundation model."
+ },
+ {
+  "key": "a35",
+  "journal": "Eur Heart J Cardiovasc Imaging",
+  "doi": "10.1093/ehjci/jeag328",
+  "seccion": 8,
+  "ptype": "Artículo de revisión",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Systematic Transesophageal Echocardiographic Identification of Tricuspid Valve Commissures and Subvalvular Apparatus",
+  "abstract": "Transcatheter tricuspid valve (TV) intervention is rapidly evolving and several classes of therapeutic devices are currently in development. The anatomic knowledge of the TV is the cornerstone for transcatheter patient selection, and the successful implantation of the devices depends on imaging guidance. Anatomically, leaflets are separated by the commissures, which have peculiar findings: they are supported by fan-shaped chords and do not open directly into the annulus, but a few millimeters of the leaflet tissue remain, similar to small scallops. While a comprehensive echocardiographic assessment of TV has been extensively reported, few papers have focused on analyzing commissures and their impact on interventions. This paper aims to introduce a novel echocardiographic approach focusing on TV commissures, and provide a dedicated transesophageal imaging protocol and methodology for recognizing their anatomic landmarks. Multiple dedicated transesophageal views are comprehensively reported for each commissure, in order to ensure a guide for emerging transcatheter procedures."
+ },
+ {
+  "key": "a36",
+  "journal": "JACC Adv",
+  "doi": "10.1016/j.jacadv.2026.103494",
+  "seccion": 8,
+  "ptype": "Estudio pronóstico",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Heart Failure Phenotyping and Prognosis by CMR-Derived Oxygen Delivery and Extraction",
+  "abstract": "BACKGROUND: Heart failure reflects impaired matching of systemic oxygen delivery to metabolic demand, yet resting oxygen transport is seldom measured. OBJECTIVES: The purpose of this study was to noninvasively derive resting oxygen delivery and extraction using cardiovascular magnetic resonance (CMR) and relate these to clinical characteristics and outcomes. METHODS: In this retrospective study, in patients with heart failure referred for clinical CMR, cardiac output was assessed by cine imaging; basal blood-pool T2 mapping provided imaging-derived venous oxygen saturation; and measured hemoglobin enabled calculation of arterial oxygen content. Arterial oxygen saturation was fixed at 96%. We derived indexed systemic oxygen delivery (DO2i), oxygen extraction fraction (OEF), and indexed systemic oxygen consumption (VO2i). The endpoint was all-cause death or heart failure hospitalization. RESULTS: A total of 429 patients were included (62 events). VO2i varied widely (tertile means 138.8, 207.9, and 293.8 mL/min/m2), while left ventricular ejection fraction did not differ (38.8%, 40.6%, and 40.3%; P = 0.42). Imaging-derived venous oxygen saturation decreased across increasing VO2i tertiles (61.5%, 54.3%, and 50.7%; P < 0.0001). In Cox regression adjusted for age, sex, ejection fraction, and late gadolinium enhancement, VO2i was associated with the endpoint (HR: 1.15 per 50 mL/min/m2, 95% CI: 1.00-1.32; P = 0.046), but discrimination of VO2i alone was poor (Harrell's C = 0.53). Delivery-extraction phenotypes differed in event risk (log-rank P = 0.026): event proportions were 8.6% (high DO2i/low OEF), 14.0% (low DO2i/low OEF), 16.8% (high DO2i/high OEF), and 18.3% (low DO2i/high OEF). The delivery-extraction phenotype remained associated with outcome after adjustment for age, sex, left ventricular ejection fraction, and CMR-derived filling pressure. CONCLUSIONS: In this hypothesis-generating study, CMR-based oxygen supply-demand assessment delineates resting delivery-extraction phenotypes associated with heart failure outcomes."
+ },
+ {
+  "key": "a37",
+  "journal": "Heart Rhythm",
+  "doi": "10.1016/j.hrthm.2026.11.016",
+  "seccion": 8,
+  "ptype": "Estudio diagnóstico",
+  "acr": "CARA",
+  "prio": "Complementario",
+  "title": "Precise anatomical landmark annotation of the cardiac conduction system on cardiac computed tomography angiography",
+  "abstract": "BACKGROUND: CTA-based estimation of the conduction system from anatomical landmarks underpins a visualization platform (CARA) used in structural heart interventions and conduction system pacing. OBJECTIVE: To quantify the precision and reliability of the annotation method and the bias of trained readers relative to an expert reference standard. METHODS: The expert who defined the method and 6 trained readers each annotated 8 landmarks representing the sinus and atrioventricular nodes, His bundle course (Point B), left bundle branch origin (Point C), and course of Bachmann's bundle (B2-B5), in addition to the three aortic leaflet nadirs on 50 CTA studies in 3 sessions. Repeatability and reproducibility were assessed, referenced to clinically accepted error margins (2-5 mm). Intraclass correlations (ICC) were computed on heights above the aortic annular plane. 3D bias relative to the expert was tested for equivalence within half the margin. RESULTS: Repeatability SD was 1.67-3.98 mm and reproducibility SD 2.03-5.60 mm; all mean deviations were within margin, with 88.6-97.4% of repeat reads and 71.4-94.9% of reader means within margin. Inter-observer ICC on annular heights was 0.76-0.82 for the atrioventricular and 0.79-0.98 for the atrial points. Shared bias relative to the expert was 0.14-3.24 mm, within margin for all landmarks and equivalent within half the margin for sinus node, Point B, B2 and B3; at B3 and B2, 95% and 83% of the apparent separation was repeatability noise. CONCLUSION: The method meets its clinically accepted margins with millimeter precision and good-to-excellent reliability, and transfers from expert to trained readers with bias within margin."
+ },
+ {
+  "key": "a38",
+  "journal": "J Am Coll Cardiol",
+  "doi": "10.1016/j.jacc.2026.09.016",
+  "seccion": 9,
+  "ptype": "Ensayo clínico aleatorizado",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Intravascular Lithotripsy vs Super-High-Pressure Noncompliant Balloons for Treatment of Calcified Coronary Lesions: The VICTORY Trial",
+  "abstract": "BACKGROUND: Although calcified coronary lesions are associated with poor outcomes after percutaneous coronary interventions (PCI), randomized data guiding lesion preparation are limited. Small studies suggest potential benefits of super-high-pressure noncompliant balloons (SH-NCB); however, they have not been directly compared with intravascular lithotripsy (IVL). OBJECTIVES: The goal of this study was to conduct a randomized comparison of SH-NCBs vs IVL in calcified lesions. METHODS: In this open-label, randomized controlled, noninferiority trial with blinded outcomes assessment (ie, the PROBE design), patients aged ≥18 years with calcified coronary lesions were randomly assigned (1:1) to undergo lesion preparation with SH-NCBs or IVL before PCI with drug-eluting stents. All patients were required to undergo optical coherence tomography (OCT). The primary endpoint was final stent expansion (%) according to OCT. Secondary endpoints included procedural success, strategy success, target vessel failure, stent expansion <80%, and safety outcomes (eg, coronary perforation). RESULTS: Between December 21, 2022, and August 11, 2025, a total of 278 patients underwent the randomly assigned study procedure using plaque modification with SH-NCBs or IVL before stent implantation. The majority of patients (68%) had severe calcium based on an OCT Fujino score ≥4. Study procedures involving IVL tended to be longer and require more auxiliary devices compared with SH-NCBs. The median pressure applied with SH-NCBs compared with IVL was 40 atmospheres vs 6 atmospheres. Regarding the primary endpoint of stent expansion, SH-NCBs were noninferior to IVL (85% vs 84%; Pnoninferiority < 0.0001). The results were consistent across all subgroups, including calcium severity. Use of SH-NCBs, compared with IVL, resulted in similar rates of procedural and strategy success. Safety outcomes, specifically coronary perforations, did not differ between the 2 groups. At 30 days' follow-up, target vessel failure events (including cardiac death, target vessel revascularization, or myocardial infarction) occurred in 4 (2.8%) patients in the SH-NCB group and in 8 (5.7%) patients in the IVL group (HR: 0.50; 95% CI: 0.15 to 1.66; P = 0.26). CONCLUSIONS: In calcified coronary lesions, SH-NCBs were noninferior to IVL for stent expansion and exhibited a comparable safety profile in experienced operators using intravascular imaging. (Value of IVL Compared To OPN Non-Compliant Balloons for Treatment of Refractory Coronary Lesions [VICTORY]; NCT05346068)."
+ },
+ {
+  "key": "a39",
+  "journal": "Circulation",
+  "doi": "10.1161/CIR.0000000000001479",
+  "seccion": 9,
+  "ptype": "Scientific Statement",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Peripheral Artery Disease in Acute Care Settings: Diagnosis and Management of Common Presentations and Emergencies: A Scientific Statement From the American Heart Association",
+  "abstract": "People with peripheral artery disease (PAD) are often misdiagnosed or diagnosed late and, even after diagnosis, are undertreated with both pharmacologic and invasive therapies. The disease is associated with an increased risk of mortality, myocardial infarction, stroke, other vascular disease, limb loss, and reduced quality of life. Although the risks and long-term management of PAD are well documented, these risks are acutely magnified when PAD exists as a comorbidity in patients hospitalized for other cardiovascular or medical conditions. Procedures requiring vascular access for the treatment of acute myocardial infarction, cardiogenic shock, or valvular heart disease, as well as procedures for the treatment of the patient's underlying PAD, require special consideration in patients with PAD. Familiarity with the use and placement of mechanical circulatory support in patients with PAD, as well as the management of recent endovascular or surgical vascular interventions, is essential for providing appropriate care in the acute care setting."
+ },
+ {
+  "key": "a40",
+  "journal": "Circ Cardiovasc Interv",
+  "doi": "10.1161/CIRCINTERVENTIONS.126.016840",
+  "seccion": 9,
+  "ptype": "Registro",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Temporal and Vessel-Specific Relationship Between Post-PCI Fractional Flow Reserve and Long-Term Clinical Outcomes",
+  "abstract": "BACKGROUND: Post-percutaneous coronary intervention (PCI) fractional flow reserve (FFR) reflects residual physiological impairment after stent implantation and is a proven predictor of procedural success and prognosis. However, the temporal dynamics of its prognostic utility and its potential variation according to the target vessel remain incompletely understood. This study aimed to explore vessel-specific post-PCI FFR thresholds and evaluate their prognostic consistency over 5 years. METHODS: We analyzed 2128 patients undergoing successful drug-eluting stent implantation from the international Post-PCI FFR Extended registry. Patients were stratified according to the target vessel: left anterior descending artery (LAD) versus non-LAD. The primary end point was 5-year target vessel failure, defined as a composite of cardiac death, target vessel myocardial infarction, or target vessel revascularization. Restricted cubic spline models were used to explore the continuous association between post-PCI FFR and target vessel failure and to identify vessel-specific risk thresholds. Temporal prognostic performance was assessed via 3-year landmark analysis and time-dependent receiver-operating characteristic curves. RESULTS: During 5-year follow-up, target vessel failure occurred in 176 patients (11.7%) with LAD lesions and 74 patients (11.7%) with non-LAD lesions. Lower post-PCI FFR was independently associated with a higher risk of target vessel failure in both LAD and non-LAD vessels. Spline analyses characterized vessel-stratified risk patterns, and exploratory comparisons used post-PCI FFR cut points of 0.83 for LAD and 0.94 for non-LAD vessels. Landmark analysis indicated that the excess hazard associated with suboptimal FFR was predominantly concentrated within the first 3 years postprocedure. Nevertheless, time-dependent receiver-operating characteristic analysis demonstrated modest but stable discriminatory power of post-PCI FFR throughout the 5-year follow-up. CONCLUSIONS: Post-PCI FFR provides sustained 5-year prognostic insight, though the exploratory vessel-stratified cut points require external validation. Although the associated risk is highest in the early to mid-term period, predictive discrimination persists long-term. These findings advocate for vessel-specific interpretation of post-PCI physiology to refine risk stratification and patient management."
+ }
+]

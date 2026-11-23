@@ -1,0 +1,79 @@
+[
+ {
+  "key": "a41",
+  "journal": "JACC Adv",
+  "doi": "10.1016/j.jacadv.2026.103493",
+  "seccion": 9,
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Fluoroscopy-Only Versus TEE-Guided Left Atrial Appendage Closure: A Comparison of Disk-Type and Plug-Type Devices",
+  "abstract": "BACKGROUND: Fluoroscopy alone is emerging as a guidance modality for left atrial appendage occlusion (LAAO). OBJECTIVES: This study evaluated the safety and efficacy of fluoroscopy-only vs transesophageal echocardiography (TEE)-guided LAAO and compared the fluoroscopic views required for plug-type and disk-type devices. METHODS: In this retrospective single-center cohort study, patients undergoing LAAO guided by fluoroscopy only or by TEE with fluoroscopy were divided into a fluoroscopy-only group (n = 603) and a TEE group (n = 156) and further into a fluoroscopy-only disk-type (FODT) (n = 382), fluoroscopy-only plug-type (n = 221), TEE disk-type (n = 76), and TEE plug-type (n = 80) subgroups. Follow-up included TEE at 3 to 6 months and clinical event monitoring. RESULTS: The fluoroscopy-only group exhibited comparable implantation success (99.8% vs 100%; P = 1.000), peridevice leak rates (≥3 mm: 1.0% vs 1.3%; P = 0.671) and clinical outcomes during follow-up to the TEE group, with significantly shorter LAAO procedure times (40.9 ± 21.7 vs 78.9 ± 35.0 min; P < 0.001). The FODT subgroup required more views under fluoroscopy (3 [3, 3] vs 2 [2, 3]; P < 0.001) despite comparable peridevice leak rates. The clinical outcomes were similar between the TEE and fluoroscopy-only groups and between the FODT and fluoroscopy-only plug-type subgroups. CONCLUSIONS: Whether a disk-type or plug-type device is employed, LAAO guided by fluoroscopy only appears to be as feasible and safe as guidance by TEE. However, disk-type device needed more fluoroscopy views for accurate implantation than plug-type device. In the absence of randomized data, these hypothesis-generating findings should not be extrapolated to less experienced operators or centers."
+ },
+ {
+  "key": "a42",
+  "journal": "J Am Heart Assoc",
+  "doi": "10.1161/JAHA.125.045275",
+  "seccion": 9,
+  "ptype": "Estudio observacional",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Longitudinal Trends of Intact and Ruptured Abdominal Aortic Aneurysm Repairs in the United States: A Cross-Sectional Study",
+  "abstract": "BACKGROUND: The COVID-19 pandemic disrupted access to elective procedures and routine care. Given the risk of abdominal aortic aneurysm (AAA) rupture, understanding repair trends is important to assess the impact of the pandemic on vascular outcomes. METHODS: This repeated cross-sectional analysis used the TriNetX network, a multicenter US electronic health records database. We included 423 874 patients diagnosed with AAA from 2016 to 2024. Patients were categorized by clinical presentation-intact AAA and ruptured AAA-and stratified by surgical approach: endovascular aneurysm repair or open aneurysm repair. Annual trends in AAA repair rates were assessed using joinpoint regression to calculate annual percentage change. RESULTS: Among 19 330 AAA repairs, 3791 (19.6%) were open aneurysm repair, and 15 539 (80.4%) were endovascular aneurysm repair. From 2018 to 2024, 1623 repairs (9.9%) were for ruptured AAA and 14 835 (90.1%) were for intact AAA. The rate of intact AAA repairs initially remained stable from 2018 to 2022 but significantly decreased after the pandemic from 2022 to 2024 (annual percentage change, -2.87% [95% CI, -10.95 to -1.00]). In contrast, ruptured AAA repairs rates shifted sharply during the pandemic, with an established prepandemic decline in ruptured repairs from 2018 to 2020 (annual percentage change, -11.48%) reversed, with an increase from 2020 to 2022 (annual percentage change +12.01%), before declining from 2022 to 2024 (annual percentage change, -11.00%). CONCLUSIONS: In this retrospective cross-sectional study, repairs for intact AAA declined, while repairs for ruptured AAA increased during the pandemic period. These trends suggest that potential delays in routine surveillance and elective surgery during the pandemic may have increased acute presentations."
+ },
+ {
+  "key": "a43",
+  "journal": "Circulation",
+  "doi": "10.1161/CIRCULATIONAHA.126.083005",
+  "seccion": 10,
+  "ptype": "Ensayo clínico aleatorizado",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Biatrial Versus Left Atrial Maze Ablation During Cardiac Valve Surgery for Persistent Atrial Fibrillation: The ABLATION Trial",
+  "abstract": "BACKGROUND: Guidelines recommend concomitant surgical ablation during cardiac surgery in patients with atrial fibrillation (AF). However, the optimal lesion set remains uncertain, with ongoing debate regarding the relative benefits and risks of biatrial versus left atrial (LA) maze ablation. METHODS: In this multicenter, randomized, single-blind trial, patients with persistent or long-standing persistent AF undergoing rheumatic mitral valve surgery, with or without concomitant cardiac surgical procedures, were randomly assigned in a 1:1 ratio to undergo biatrial or LA maze ablation. The biatrial group underwent a complete Cox-Maze IV procedure; the LA group received a left-sided maze lesion set. To ensure standardization and consistency of the ablation procedures, surgeons underwent pretrial training and certification, and all procedures were videorecorded and centrally reviewed. The primary outcome was freedom from atrial tachyarrhythmias lasting >30 seconds without antiarrhythmic drugs within 12 months. The key secondary end point was freedom from permanent pacemaker implantation. RESULTS: All 323 randomized patients were included in the intention-to-treat analysis (mean age, 56.5 years; 72.1% women; mean LA diameter, 51.9 mm). At 12 months, 78.7% of patients (129 of 164) in the biatrial group and 68.6% (109 of 159) in the LA group were free from atrial tachyarrhythmias (adjusted difference, 10.7% [1-sided lower 95% CI, 3%]; P=0.01). Freedom from permanent pacemaker implantation was noted in 97.0% (159 of 164) of the biatrial group and 98.1% (156 of 159) of the LA group, meeting the predefined noninferiority criterion with a margin of -5% (adjusted difference, -1.1% [1-sided lower 95% CI, -3.9%]; Pnoninferiority=0.01). CONCLUSIONS: Among patients with persistent or long-standing persistent AF undergoing rheumatic cardiac valve surgery, biatrial maze ablation was superior to LA maze ablation in reducing recurrent atrial tachyarrhythmias, while maintaining noninferiority with respect to permanent pacemaker implantation. These findings provide direct evidence to inform lesion-set selection for surgical ablation during cardiac surgery. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT05021601."
+ },
+ {
+  "key": "a44",
+  "journal": "JACC Adv",
+  "doi": "10.1016/j.jacadv.2026.103458",
+  "seccion": 10,
+  "ptype": "Registro",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Outcomes Among Patients Receiving Watchman LAAO vs Antiplatelet Therapy: A Report From the GWTG-AFIB Registry",
+  "abstract": "BACKGROUND: Although Watchman left atrial appendage occlusion (LAAO) was approved for patients with atrial fibrillation who can tolerate short term anticoagulation, many patients are poor candidates for any duration of anticoagulation. OBJECTIVES: The objective of the study was to compare 1-year outcomes among patients receiving Watchman LAAO vs antiplatelet monotherapy. METHODS: We performed an overlap weighted observational comparative effectiveness analysis of postdischarge outcomes among Medicare beneficiaries in the Get With The Guidelines-AFIB Registry who received LAAO or antiplatelet therapy. Cox Regression was used for all-cause mortality and cause-specific hazard models were used for nonfatal outcomes. A win ratio was calculated with the following endpoint hierarchy: 1) all-cause death; 2) stroke, systemic embolism, or transient ischemic attack (TIA); 3) major bleeding (excluding gastrointestinal bleeding); and 4) gastrointestinal bleeding. RESULTS: A total of 1,427 patients who received LAAO and 2,284 patients who received antiplatelet therapy were studied (overall median age 77 years, 49.3% female, median CHA2DS2-VASC score 5). Through the first 45 days, the adjusted risk of stroke, TIA or systemic embolism, major bleeding, or death was lower among patients who received LAAO (HR: 0.26; CI: 0.17-0.41; P < 0.001). Between 46 days and 1 year, the risk for the composite outcome was lower among patients who received LAAO (HR: 0.61; CI: 0.48-0.78; P < 0.001). The win ratio at 1 year was 2.71 (95% CI: 1.92-3.83; P < 0.0001), indicating significantly better outcomes among LAAO patients. CONCLUSIONS: Among patients with atrial fibrillation, treatment with LAAO was associated with a lower risk of stroke, TIA or systemic embolism, major bleeding, or death compared to antiplatelet therapy."
+ },
+ {
+  "key": "a45",
+  "journal": "Europace",
+  "doi": "10.1093/europace/euag320",
+  "seccion": 10,
+  "ptype": "Ensayo clínico aleatorizado",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Early Left Bundle Branch Pacing for Complete Left Bundle Branch Block and Left Ventricular Ejection Fraction of 36%-50%: The EARLY-RESYNC Randomized Trial",
+  "abstract": "AIMS: To compare the effects of early resynchronization with left bundle branch pacing (early-LBBP) versus guideline-directed medical therapy (GDMT) alone on cardiac function in patients with complete left bundle branch block (CLBBB) and left ventricular ejection fraction (LVEF) of 36%-50%. METHODS AND RESULTS: In this prospective, randomized, multicenter trial, 37 patients (mean age 60.5 ± 12.3 years, male 40.5%, LVEF 42.6% ± 6.0%) were assigned to early-LBBP plus GDMT (n=19) or GDMT alone (n=18). The primary endpoint was the between-group difference in the change of LVEF from baseline to 6 months. Secondary endpoints included changes in echocardiographic parameters and clinical outcomes. Analyses were performed according to the intention-to-treat principle. At 6-month follow-up, the adjusted mean improvement in LVEF was greater in the early-LBBP group than in the GDMT group (mean difference: 7.4%, 95% CI: 1.9 to 12.9%; P =0.013), with consistent findings in the per-protocol analysis. Early-LBBP was also associated with a greater reduction in LV end-systolic volume (-23.6mL; 95% CI: -42.3 to -4.8ml) and a higher rate of final LVEF ≥50% (78.9% vs. 38.9%) at 6 months compared with GDMT alone. CONCLUSION: In patients with CLBBB and LVEF 36%-50%, LBBP combined with GDMT resulted in greater improvement in LVEF at 6 months than GDMT alone. Larger randomized trials are needed to establish its long-term clinical benefits and optimal timing."
+ },
+ {
+  "key": "a46",
+  "journal": "JACC Clin Electrophysiol",
+  "doi": "10.1016/j.jacep.2026.10.016",
+  "seccion": 10,
+  "ptype": "Estudio de cohorte",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Discontinuation of Anticoagulation in Patients at Relatively High Risk of Stroke After Successful Catheter Ablation for Atrial Fibrillation: A Nationwide Cohort Study",
+  "abstract": "BACKGROUND: Oral anticoagulant (OAC) discontinuation after atrial fibrillation (AF) ablation may be feasible in selected patients; however, outcomes in those at high stroke risk remain unclear. OBJECTIVES: This study aimed to evaluate associations between OAC discontinuation beyond 1 year after ablation and thromboembolic or bleeding events across CHA2DS2-VA risk strata. METHODS: Patients without AF recurrence within 12 months of catheter ablation and with CHA2DS2-VA scores ≥2 were identified from the Korean National Health Insurance Service database and classified as OAC continuers or discontinuers based on prescription coverage at the 12-month landmark. The primary outcome was a composite of stroke or systemic embolism and major bleeding. Doubly robust estimation combined overlap weighting with covariate-adjusted Cox regression, stratified by CHA2DS2-VA score (2-4 and ≥5). RESULTS: Among 3,637 patients (mean age: 60.8 ± 9.7 years, 27.1% female, mean CHA2DS2-VA 3.2 ± 1.3), discontinuation in those with scores of 2-4 (n = 3,054) was associated with lower risks of the composite event (HR: 0.61; 95% CI: 0.38-0.96) and major bleeding (HR: 0.51; 95% CI: 0.29-0.90), without increased stroke or systemic embolism (HR: 0.73; 95% CI: 0.34-1.58). In those with scores ≥5 (n = 583), discontinuation was not significantly associated with any outcome, and tests for interaction were not significant (all P > 0.46). CONCLUSIONS: In this nationwide cohort, OAC discontinuation beyond 1 year after AF ablation was associated with decreased bleeding risk without a corresponding increase in thromboembolic events among patients with CHA2DS2-VA score 2 to 4."
+ },
+ {
+  "key": "a47",
+  "journal": "Circulation",
+  "doi": "10.1161/CIRCULATIONAHA.126.083715",
+  "seccion": 10,
+  "ptype": "Artículo de revisión",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Surgical Treatment of Atrial Fibrillation",
+  "abstract": "Atrial fibrillation is the most common sustained cardiac arrhythmia and is associated with an increased risk of stroke, heart failure, mortality, and reduced quality of life. Although catheter ablation is the most widely used rhythm control strategy, its efficacy is limited in patients with non-paroxysmal atrial fibrillation and large left atria. To address this therapeutic gap, surgical approaches, including minimally invasive ablation, hybrid epicardial-endocardial strategies, and left atrial appendage exclusion, have continued to evolve. In this review, we focus on recent evidence to guide clinical decision-making on patient selection, advances in minimally invasive surgical and hybrid techniques, left atrial appendage exclusion, and postoperative anticoagulation management. Minimally invasive standalone Cox-Maze IV procedure and hybrid epicardial-endocardial ablation have demonstrated superior long-term freedom from atrial tachyarrhythmias compared with thoracoscopic epicardial surgical ablation or catheter ablation alone. Five-year arrhythmia-free survival has approached 85% to 95% in experienced centers after the Cox-Maze IV procedure and approximately 60% to 70% after hybrid ablation, compared with 35% to 45% after thoracoscopic epicardial ablation and 30% to 35% after single catheter ablation alone. Surgical left atrial appendage exclusion performed at the time of ablation may further reduce thromboembolic risk, although the optimal strategy for postprocedural anticoagulation remains uncertain. Careful patient selection remains essential, with atrial fibrillation type, duration, left atrial size, and previous treatment failure known to be key predictors of procedural success. As surgical techniques and supporting evidence continue to grow, standalone surgical ablation may assume a more important role in the contemporary management of atrial fibrillation, particularly for patients with advanced disease who are unlikely to achieve durable rhythm control with catheter ablation alone."
+ }
+]

@@ -1,0 +1,112 @@
+[
+ {
+  "key": "a21",
+  "journal": "JACC Heart Fail",
+  "doi": "10.1016/j.jchf.2026.103503",
+  "seccion": 5,
+  "ptype": "Análisis secundario de ensayo clínico",
+  "acr": "GUIDE-HF",
+  "prio": "Complementario",
+  "title": "Pulmonary Artery Pressures Predict Heart Failure Events Following Heart Failure and Non-Heart Failure Events",
+  "abstract": "BACKGROUND: It is uncertain whether pulmonary artery pressure (PAP) within the first week after either hospitalization for a non-heart failure event (HFE) or hospitalization or urgent visit for a HFE predicts the risk of recurring events. OBJECTIVES: This study aims to determine if PAP following a non-HFE or HFE predicts subsequent events within 90 days. METHODS: The authors examined non-HFE and HFE in patients with heart failure (HF) treated with remote hemodynamic-guided management using a wireless PAP sensor in the GUIDE-HF study. They compared PAP trends before and after a non-HFE or HFE and stratified the admitting and discharge PAP during the index event into groups with a subsequent HFE, non-HFE, or no further events within 90 days. RESULTS: Following index non-HFE (615 events, n = 425), post-discharge diastolic PAP was significantly higher in patients with a subsequent HFE (23.3 ± 7.9 mm Hg) (n = 97) vs patients with a subsequent non-HFE (20.4 ± 7.3 mm Hg; P = 0.0046) (n = 189) or no further events (20.9 ± 7.4 mm Hg; P = 0.015) (n = 329). Following index HFE (539 events, n = 358), post-discharge diastolic PAP was numerically higher in patients with a subsequent HFE (23.9 ± 6.9 mm Hg) (n = 199) than in patients with a subsequent non-HFE (22.0 ± 7.1 mm Hg; P = 0.078 (n = 102) and in those with no further events (22.0 ± 7.6 mm Hg; P = 0.021) (n = 238). Similar trends were observed for HF with reduced ejection fraction and HF with preserved ejection fraction subgroups and with systolic and mean PAP. CONCLUSIONS: Persistently elevated PAP early after discharge following either an index non-HFE or an HFE is associated with the risk of a subsequent HFE. (Hemodynamic-GUIDEd Management of Heart Failure [GUIDE-HF]; NCT03387813)."
+ },
+ {
+  "key": "a22",
+  "journal": "Rev Esp Cardiol (Engl Ed)",
+  "doi": "10.1016/j.rec.2026.11.001",
+  "seccion": 5,
+  "ptype": "Registro",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Clinical characteristics and prognosis of heart failure patients referred to cardiac rehabilitation: SEC-EXCELENTE-IC registry",
+  "abstract": "INTRODUCTION AND OBJECTIVES: To assess the referral rate to cardiac rehabilitation (CR), the clinical profile of referred vs nonreferred patients, and the association between referral and clinical events in Spanish heart failure (HF) units. METHODS: The SEC-EXCELENTE-IC registry is a prospective, multicenter observational cohort of patients with HF in units accredited by the Spanish Society of Cardiology. Patients were classified according to CR referral and were followed up for up to 400 days for all-cause death, HF hospitalization or decompensation, and the combined endpoint of death or HF hospitalization, with outcomes analyzed using Cox regression. RESULTS: Of 2236 patients, 219 (9.8%) were referred to CR. Referred patients were younger (65.2  ±  11.7 vs 71.7  ±  12.2 years), more often male (73.5% vs 63.2%) and more frequently had an ischemic etiology (50.5% vs 28.8%), fewer comorbidities and more frequent use of quadruple therapy (59.4% vs 46.0%); 74.4% had HF with reduced ejection fraction (11.9% had HF with preserved ejection fraction, and 13.7% HF with mildly reduced ejection fraction). The lower crude rate of the combined endpoint (HR, 0.75; 95%CI, 0.56-1.01) was no longer observed after adjustment (HR, 0.99; 95%CI, 0.71-1.38), with consistent findings in sensitivity analyses. CONCLUSIONS: CR referral was infrequent and preferentially directed toward younger patients with ischemic HF with reduced ejection fraction, a lower comorbidity burden, and optimized therapy, whereas older patients, patients with multimorbidity, and those with HF with preserved ejection fraction remained underrepresented. The lower crude event rate was no longer observed after adjustment for measured baseline characteristics, and the observational design does not allow conclusions on the effect of CR itself."
+ },
+ {
+  "key": "a23",
+  "journal": "Circulation",
+  "doi": "10.1161/CIRCULATIONAHA.126.080166",
+  "seccion": 6,
+  "ptype": "Artículo de revisión",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Transapical Beating-Heart Septal Myectomy for Obstructive Hypertrophic Cardiomyopathy",
+  "abstract": "Hypertrophic cardiomyopathy (HCM) is a prevalent heterogenous genetic cardiac disorder. In the cardiac myosin inhibitor era, the guideline-directed management of HCM remains an emerging frontier worldwide. Septal myectomy has been the gold standard treatment option for obstructive HCM over the past 60 years. However, the complexity of this procedure and required expertise (and lack of qualified training) have limited its success and availability beyond high-volume HCM centers. Transapical beating-heart septal myectomy (TA-BSM), a newly developed innovative technique, simplifies conventional septal myectomy by eliminating the need for sternotomy, cardiopulmonary bypass, and aortotomy. Most important, the inclusion of real-time intraoperative echocardiographic guidance and evaluation makes TA-BSM safer, more precise, cost-effective, and reproducible. The apparent advantages of TA-BSM, including substantial reductions in surgical trauma and operating times and much faster postoperative recovery in patients with obstructive HCM, are encouraging. TA-BSM is particularly feasible in patients with long-segment obstruction, or small aortic valve annulus, or in those who had undergone previous cardiac operations. The frequent resolution of systolic anterior motion and associated mitral regurgitation after TA-BSM, without concomitant mitral valve intervention, highlights the central role of intraoperative echocardiography and close surgeon-echocardiographer collaboration in achieving optimal procedural outcomes. Further multicenter evaluation of TA-BSM will help define its role among septal reduction strategies for patients with obstructive HCM."
+ },
+ {
+  "key": "a24",
+  "journal": "Circulation",
+  "doi": "10.1161/CIRCULATIONAHA.126.082486",
+  "seccion": 6,
+  "ptype": "Investigación original",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Transapical Beating-Heart Septal Myectomy for Symptomatic Nonobstructive Hypertrophic Cardiomyopathy: Initial Clinical Experience",
+  "abstract": "BACKGROUND: Nonobstructive hypertrophic cardiomyopathy (nHCM), defined as hypertrophic cardiomyopathy without left ventricular outflow tract obstruction, remains challenging to treat because of its heterogeneous pathophysiology. This study evaluated the safety and efficacy of transapical beating-heart septal myectomy in patients with symptomatic nHCM. METHODS: Patients with symptomatic, drug-refractory nHCM were prospectively enrolled to undergo transapical beating-heart septal myectomy through a left minithoracotomy. Under real-time transesophageal echocardiographic guidance, septal myectomy was tailored to relieve systolic cavity obliteration and mid-to-apical ventricular obstruction and to enlarge the left ventricular cavity. The primary end point was procedural success at 6 to 12 months postoperatively, defined as fulfillment of all prespecified criteria compared with baseline: ≥1-class improvement in New York Heart Association functional class, ≥10-point increase in Kansas City Cardiomyopathy Questionnaire score, ≥10-mL increase in stroke volume, and normal or grade I diastolic function. RESULTS: Between January 2023 and January 2025, 97 consecutive eligible patients with nHCM underwent transapical beating-heart septal myectomy at Tongji Hospital. At postoperative 6 to 12 months, procedural success was achieved in 87.6%. Specifically, New York Heart Association functional class I increased from 0% at baseline to 93.8% at follow-up, the median Kansas City Cardiomyopathy Questionnaire score improved from 64 (interquartile range, 56-69) to 87 (interquartile range, 82-92; P<0.001), the stroke volume increased from 53.5 mL (interquartile range, 41.0-66.6 mL) to 70.8 mL (interquartile range, 61.3-82.3 mL; P<0.001), and normal or grade I diastolic function increased from 65.6% to 97.9%. Among patients who underwent paired cardiopulmonary exercise testing (n=58), peak oxygen uptake increased by 1.1±2.9 mL/kg/min (P=0.008). In an exploratory, hypothesis-generating analysis of 12 patients with paired 13N-ammonia positron emission tomography, coronary flow reserve increased from 1.8±0.3 to 2.0±0.4 (P=0.034). Adverse events included mitral valve injury (n=1) and ventricular septal perforation (n=1), the latter resulting in 1 postoperative death. CONCLUSIONS: Transapical beating-heart septal myectomy was associated with favorable left ventricular geometric remodeling and meaningful improvements in symptoms, health status, and functional capacity in selected patients with symptomatic nHCM. Being a potential therapeutic option for a previously difficult-to-treat population, it warrants further evaluation in controlled, multicenter studies. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT05648825."
+ },
+ {
+  "key": "a25",
+  "journal": "Eur Heart J Cardiovasc Imaging",
+  "doi": "10.1093/ehjci/jeag329",
+  "seccion": 6,
+  "ptype": "Estudio pronóstico",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Implementation Feasibility and Clinical Utility of Phenomapping in Dilated and Hypokinetic Non-dilated Non-ischemic Cardiomyopathy",
+  "abstract": "AIMS: Despite phenotypic heterogeneity, the management of idiopathic non-ischemic cardiomyopathy (NICM) remains generalized and dominantly guided by left ventricular (LV) ejection fraction (EF) and NYHA class. We aimed to develop a point-of-service phenomapping pathway for dilated cardiomyopathy (DCM) and hypokinetic non-dilated cardiomyopathy (HNDC) at time of CMR imaging leveraging the integration of i) patient self-reported health status, ii) imaging phenotype, and the iii) electronic health record (EHR). METHODS AND RESULTS: 1,355 patients (752 DCM and 603 HNDC) were followed for the composite MACE outcome of mortality, heart failure hospitalization or ventricular arrhythmia. K-means clustering was independently applied to DCM and HNDC derivation cohorts using 55 routinely captured features (16 patient-reported health variables, 19 CMR-derived, 14 EHR-derived, and 6 combined features), identifying three phenogroups in each cohort. Over a median of 3.9 and 3.7 years, 145 DCM patients (22%) and 65 HNDC patients (13%), respectively, experienced MACE. Adjusting for age, sex, NYHA class, and LV EF, phenogroup membership was independently associated with future outcomes. In DCM, the adjusted HR (95% CI) of phenogroups 2 and 3 versus Phenogroup 1 were 2.8 (1.6-4.8) and 3.5 (1.9-6.5), respectively (p<0.001 for both). In HNDC, Phenogroup 3 demonstrated an adjusted HR of 4.2 (1.7-10.2; p=0.001) versus Phenogroup 1. Prospective phenogroup assignment was enabled by a decision tree-classifier and validated in a temporal hold-out cohort. CONCLUSION: Phenomapping delivers incremental value to LVEF and NYHA for identification of high-risk NICM patients. These findings support value from standardized, point-of-service data integration for the delivery of phenomics-driven personalized care."
+ },
+ {
+  "key": "a26",
+  "journal": "JACC Adv",
+  "doi": "10.1016/j.jacadv.2026.103457",
+  "seccion": 6,
+  "ptype": "Estudio pronóstico",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Identifying Plasma Proteins for Hypertrophic Cardiomyopathy Penetrance and Severity in Pathogenic Variant Carriers and Noncarriers",
+  "abstract": "BACKGROUND: Hypertrophic cardiomyopathy (HCM) is a clinically variable disease in onset and progression. Pathogenic MYBPC3 variants account for a substantial proportion of HCM diagnoses. OBJECTIVES: This study sought to identify protein biomarkers associated with HCM penetrance and severity. METHODS: Olink-assayed plasma proteins of 144 pathogenic MYBPC3 variant carriers were evaluated for associations with HCM severity based on diagnostic criteria (unaffected, mildly, or severely affected). Identified proteins were replicated in the UK Biobank considering time to onset of HCM (67 cases), cardiomyopathy (156 cases), and associations with left ventricular maximum wall thickness (6,492 participants). After prioritizing proteins on cardiac tissue expression and druggability, we examined disease penetrance through associations with heart failure (HF) and arrhythmic outcomes in 272 UK Biobank participants with known pathogenic HCM variants free of cardiomyopathy at proteomics assessment. RESULTS: Among pathogenic MYBPC3 variant carriers, we identified 27 proteins associated with HCM severity, of which 22 replicated in the UK Biobank. Six proteins were prioritized (N-terminal pro-B-type natriuretic peptide [NT-proBNP], growth/differentiation factor [GDF]-15, fibroblast growth factor [FGF]-23, adrenomedullin [ADM], renin [REN], and neural cell adhesion molecule 1 [NCAM1]), of which 5 associated with disease penetrance in pathogenic variant carriers: NT-proBNP and REN associated with increased HF and arrhythmic risk, GDF-15 and FGF-23 with HF risk, and NCAM1 with arrhythmic risk. CONCLUSIONS: Through the integration of proteomic analyses in both clinical and general population cohorts, we replicated and prioritized 6 proteins associated with HCM penetrance and severity. These findings highlight potential plasma-based markers for diagnosis and disease monitoring, as well as promising targets for future therapeutic development."
+ },
+ {
+  "key": "a27",
+  "journal": "JACC Adv",
+  "doi": "10.1016/j.jacadv.2026.103480",
+  "seccion": 6,
+  "ptype": "Inteligencia artificial / modelo predictivo",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Sex-Specific Phenotypic Architecture in Cardiac Amyloidosis Identified by Explainable Machine Learning",
+  "abstract": "BACKGROUND: Females are under-represented in cardiac amyloidosis (CA), but whether this reflects sex-associated phenotypic heterogeneity or differences in disease prevalence remains unclear. OBJECTIVES: The objectives of the study was to characterize sex-associated differences in presentation and prognosis across CA subtypes using unsupervised clustering. METHODS: We retrospectively analyzed 2,216 patients with confirmed CA enrolled between 2010 and 2022: light-chain amyloidosis (AL) (n = 583), variant transthyretin amyloidosis (ATTRv) (n = 432), and wild-type transthyretin amyloidosis (ATTRwt) (n = 1,201). Self-organizing maps with k-means partitioning were applied separately to each subtype, and conditional inference trees identified key phenotypic discriminators. RESULTS: Females represented 40.8%, 33.8%, and 15.9% of AL, ATTRv, and ATTRwt cohorts, respectively. Clustering identified 4 AL, 6 ATTRv, and 6 ATTRwt phenotypes. Across subtypes, female-predominant clusters generally showed preserved left ventricular ejection fraction, lower cardiac remodeling burden, and less pronounced biomarker elevation. Female-predominant AL clusters included preserved-function and multisystem profiles, whereas ATTRv clusters included neurologic-dominant and older cardiometabolic profiles. In ATTRwt, females were predominantly represented in a phenotype characterized by preserved systolic function and less structural remodeling. Conditional inference trees identified sex as the first discriminator in ATTRwt and a secondary discriminator in AL, whereas ATTRv clusters were primarily discriminated by cardiac variables and sex was not selected. CONCLUSIONS: Unsupervised clustering identified female-predominant phenotypes with less structural cardiac remodeling but distinct multisystem characteristics across CA subtypes. These findings support sex-associated phenotypic heterogeneity in CA and generate hypotheses regarding female underrepresentation in contemporary CA cohorts."
+ },
+ {
+  "key": "a28",
+  "journal": "Circulation",
+  "doi": "10.1161/CIRCULATIONAHA.126.081203",
+  "seccion": 7,
+  "ptype": "Artículo de revisión",
+  "acr": "",
+  "prio": "Relevante",
+  "title": "Degenerative Mitral Regurgitation: From Prolapse to Precision Therapy",
+  "abstract": "Degenerative mitral valve regurgitation due to mitral valve prolapse affects ≈15 million people globally and is the commonest indication for mitral intervention in high-income countries, but its biology, natural history, and lifetime management are ill defined. This review summarizes current knowledge of the epidemiology, pathophysiology, diagnosis, risk stratification, and lifetime management of degenerative mitral regurgitation, with a focus on areas of uncertainty, recent advances, and emerging research directions. These include translational research focused on determining genetic and cellular drivers of disease progression and mechanistic studies geared to improve detection and prevention of downstream myocardial dysfunction, particularly in high-risk phenotypes, including arrhythmic mitral prolapse. The current landscape of randomized trials and large registries comparing contemporary surgical and transcatheter treatment and strategies to improve patient access to care and outcomes across all patient risk profiles and populations are also discussed."
+ },
+ {
+  "key": "a29",
+  "journal": "JACC Adv",
+  "doi": "10.1016/j.jacadv.2026.103475",
+  "seccion": 7,
+  "ptype": "Inteligencia artificial / modelo predictivo",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Aortic Valve Stenosis Screening Using Deep Learning on Noninvasive Arterial Pressure Waveforms",
+  "abstract": "BACKGROUND: Aortic stenosis (AS) presents a significant health burden. Early identification of significant AS, defined as at least moderate AS, may facilitate timely confirmatory testing, referral, and management. OBJECTIVES: This study sought to develop and externally validate a deep learning model applied to arterial pressure waveforms obtained from a noninvasive finger-cuff system to screen for significant AS, using transthoracic echocardiography as the reference standard. METHODS: This prospective international multicenter cohort study was conducted from December 2020 through July 2025. Participants underwent concurrent transthoracic echocardiography and noninvasive arterial pressure waveform acquisition. A 1-dimensional convolutional neural network was developed using the Cleveland Clinic development cohort and evaluated in a temporally distinct, multicenter validation cohort including sites in the United States, Spain, and the Netherlands. RESULTS: Significant AS was present in 307 of 3,634 (8.4%) patients in the development cohort and 241 of 1,336 (18.0%) in the validation cohort. In the validation cohort, the model demonstrated an area under the curve of 0.893 (95% CI: 0.876-0.910), with a sensitivity of 92.5% (223/241; 95% CI: 88.5%-95.2%), negative predictive value of 97.5% (706/724; 95% CI: 96.1%-98.4%), specificity of 64.5% (706/1,095; 95% CI: 61.6%-67.3%), and positive predictive value of 36.4% (223/612; 95% CI: 32.7%-40.3%). For severe AS, the area under the curve was 0.906 (95% CI: 0.890-0.922), with a sensitivity of 94.3% (183/194; 95% CI: 90.1%-96.8%), negative predictive value of 98.5% (706/717; 95% CI: 97.3%-99.1%), specificity of 64.5% (706/1,095; 95% CI: 61.6%-67.3%), and positive predictive value of 32% (183/572; 95% CI: 28.3%-35.9%). CONCLUSIONS: Deep learning applied to arterial pressure waveforms obtained from a finger-cuff system serves as a promising screening test for significant AS."
+ },
+ {
+  "key": "a30",
+  "journal": "JACC Cardiovasc Interv",
+  "doi": "10.1016/j.jcin.2026.08.038",
+  "seccion": 7,
+  "ptype": "Registro",
+  "acr": "",
+  "prio": "Complementario",
+  "title": "Sex-Related Differences in Patients Undergoing Transcatheter Edge-to-Edge Repair for Primary Mitral Regurgitation: PRIME-MR Registry Insights",
+  "abstract": "BACKGROUND: Sex-related differences have been previously explored in patients with mitral regurgitation (MR) undergoing surgery as well as those with secondary MR treated with transcatheter edge-to-edge repair (TEER). OBJECTIVES: This study sought to evaluate sex-related differences in baseline characteristics and clinical outcomes in patients undergoing TEER for primary MR. METHODS: Outcomes of Patients Treated with M-TEER for Primary MR (NCT05332782) is an international, retrospective registry including patients undergoing TEER for primary MR in 27 centers. The primary outcome was a composite of 2-year all-cause mortality or heart failure hospitalization. RESULTS: A total of 2,078 patients, including 961 (46.3%) females, were analyzed. Females were older and had fewer comorbidities but presented with a different anatomy and more advanced symptoms. Compared with males, females were more frequently excluded from surgery because of advanced age and frailty. Optimal procedural results were lower in females, with a higher incidence of residual MR ≥2+ (38.5% vs 32.1%; P = 0.0037), and a significantly higher mean transmitral gradient (4.0 vs 3.6 mm Hg; P < 0.001). Kaplan-Meier curves showed significantly lower rates of all-cause mortality and cardiovascular mortality in female patients. In contrast, the incidence of the primary composite endpoint, as well as heart failure hospitalization alone, did not differ significantly. After adjusting for comorbidities, females demonstrated lower primary composite endpoint (HR: 0.77; P = 0.009), lower all-cause mortality (HR: 0.62; P < 0.001), and lower cardiovascular mortality (subdistribution HR: 0.53; P = 0.011). CONCLUSIONS: Among patients with primary MR, females were older and presented with a different clinical and anatomical profile compared with males. Although optimal procedural results were lower in females, higher survival rates in females vs males suggest that mitral transcatheter edge-to-edge repair can be a good option regardless of sex."
+ }
+]

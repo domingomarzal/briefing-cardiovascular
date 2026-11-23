@@ -18,7 +18,13 @@ Uso:  python3 cobertura.py <n> [--faltantes]
 import urllib.request, urllib.parse, json, time, sys, os, re, datetime
 
 B = os.path.dirname(os.path.abspath(__file__))
-UA = {"User-Agent": "BriefingCardiovascular/1.0 (mailto:domingo.marzal@gmail.com)"}
+# Crossref pide un User-Agent identificable. Se usa uno genérico con la URL del proyecto
+# (no un correo personal). Si se quiere dar un contacto, se pone en la variable de entorno
+# CROSSREF_CONTACT y el script la añade.
+_CONTACT = os.environ.get("CROSSREF_CONTACT", "").strip()
+UA = {"User-Agent": "BriefingCardiovascular/1.0 (academic literature monitoring; "
+                    "https://domingomarzal.github.io/briefing-cardiovascular/"
+                    + (("; mailto:" + _CONTACT) if _CONTACT else "") + ")"}
 
 REVISTAS = [
  ("N Engl J Med","0028-4793"), ("Lancet","0140-6736"), ("JAMA","0098-7484"),
